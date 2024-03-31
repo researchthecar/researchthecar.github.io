@@ -16,14 +16,14 @@ timezone:
 
 title: Research the Car # the main title
 
-tagline: <think of something> # it will display as the sub-title
+tagline: "Kickstart your journey to becoming an informed vehicle buyer." # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Dreading surprise repair bills after buying a used car? Research the Car helps you research common issues and estimated repair costs for used vehicles.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://researchthecar.github.io"
+url: "https://researchthecar.com"
 
 github:
   username: researchthecar # change to your github username
@@ -35,7 +35,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Research the Car
-  email: example@domain.com # change to your email address
+  email: researchthecar@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/researchthecar # change to your twitter homepage
@@ -50,7 +50,7 @@ google_site_verification: # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id: # fill in your Google Analytics ID
+  id: G-BKR44JY7G3 # fill in your Google Analytics ID
 
 goatcounter:
   id: # fill in your Goatcounter ID
