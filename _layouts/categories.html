@@ -88,7 +88,7 @@ layout: page
             aria-label="{{ HEAD_PREFIX }}{{ group_index }}-trigger"
             class="category-trigger hide-border-bottom"
           >
-            <i class="fas fa-fw fa-angle-down"></i>
+            <i class="fas fa-fw fa-angle-right" onClick="($(this)[0].className == 'fa fa-angle-down')?$(this)[0].className='fa fa-angle-right':$(this)[0].className='fa fa-angle-down'"></i>
           </a>
         {% else %}
           <span data-bs-toggle="collapse" class="category-trigger hide-border-bottom disabled">
