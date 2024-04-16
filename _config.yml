@@ -204,3 +204,5 @@ jekyll-archives:
     category: /categories/:name/
 
 incremental: false
+
+permalink: /:year/:make/:model.html
