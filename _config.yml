@@ -199,8 +199,8 @@ jekyll-archives:
   layouts:
     category: category
     tag: tag
-  # permalinks:
-  #   tag: /tags/:name/
-  #   category: /categories/:name/
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
 
 incremental: false
