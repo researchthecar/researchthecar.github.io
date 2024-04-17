@@ -8,20 +8,21 @@ refactor: true
 <h1>Car Search</h1>
 
 <form id="car-search">
-  <select id="year" name="year">
-    <option value="">Select Year</option>
-    </select>
-
-  <select id="make" name="make" disabled>
-    <option value="">Select Make</option>
-    </select>
-
-  <select id="model" name="model" disabled>
-    <option value="">Select Model</option>
-    </select>
-
-  <input type="hidden" id="chosen-vehicle">
-  <button type="submit">See Vehicle Details</button>
+    <div class="dropdown-container">
+      <select id="year" class="dropdown">
+        <option value="">Year</option>
+        </select>
+      <select id="make" class="dropdown" disabled>
+        <option value="">Make</option>
+        </select>
+      <select id="model" class="dropdown" disabled>
+        <option value="">Model</option>
+        </select>
+    </div>
+    <div class="button-div">
+      <input type="hidden" id="chosen-vehicle">
+      <button type="submit" class="submit-button">See Vehicle</button>
+    </div>
 </form>
 
 <script src="/assets/search.js">
