@@ -212,17 +212,17 @@
   border: 1px solid #ccc;
 }
 
-@media only screen and (max-width: 768px) {
-  .dropdown-container {
-    display: block;
-  }
+// @media only screen and (max-width: 768px) {
+//   .dropdown-container {
+//     display: block;
+//   }
 
-  .dropdown {
-    margin-right: 0;
-    margin-bottom: 10px; /* Spacing between dropdowns */
-    text-align: center;
-  }
-}
+//   .dropdown {
+//     margin-right: 0;
+//     margin-bottom: 10px; /* Spacing between dropdowns */
+//     text-align: center;
+//   }
+// }
 
 .submit-button {
   background-color: #227110;
