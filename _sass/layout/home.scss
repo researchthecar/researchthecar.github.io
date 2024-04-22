@@ -212,8 +212,19 @@
   border: 1px solid #ccc;
 }
 
+@media only screen and (max-width: 768px) {
+  .dropdown-container {
+    display: block;
+  }
+
+  .dropdown {
+    margin-right: 0;
+    margin-bottom: 10px; /* Spacing between dropdowns */
+  }
+}
+
 .submit-button {
-  background-color: #333;
+  background-color: #227110;
   color: white;
   border: none;
   border-radius: 5px;
