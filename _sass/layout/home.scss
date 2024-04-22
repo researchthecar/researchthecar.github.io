@@ -212,13 +212,9 @@
   border: 1px solid #ccc;
 }
 
-/* Existing styles... */
-
 @media only screen and (max-width: 768px) {
   .dropdown-container {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    display: block;
   }
 
   .dropdown {
@@ -226,26 +222,26 @@
     margin-bottom: 10px; /* Spacing between dropdowns */
     text-align: center;
   }
-
-  .button-div {  /* Remove or adjust this class if not needed */
-    display: none;  /* Hide the separate button container on mobile */
-  }
-
-  .submit-button {
-    background-color: #227110;
-    color: white;
-    border: none;
-    border-radius: 5px;
-    padding: 10px 20px;
-    font-size: 16px;
-    cursor: pointer;
-    margin-top: 20px;  /* Adjust margin as needed */
-    width: fit-content;
-  }
 }
 
-/* Styles for submit button... */
+.submit-button {
+  background-color: #227110;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 20px;  /* Adjust margin as needed */
+  width: fit-content;  /* Added property */
+}
 
+.button-div {
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 .welcome-text {
   display: flex;
