@@ -3,6 +3,9 @@
 icon: fas fa-info-circle
 order: 4
 ---
+
+![RTC Logo](assets/img/logos/rtc-high-resolution-logo-wide.png)
+
 ## Research the Car - AI-Powered Insights for Smarter Car Buying
 
 At Research the Car, we're revolutionizing car buying with the power of Artificial Intelligence (AI).  We understand the frustration of finding the perfect car only to discover hidden problems down the road. That's why we've developed a unique platform that utilizes cutting-edge AI to identify the most common vehicle issues and serve as a starting point for your car buying research.

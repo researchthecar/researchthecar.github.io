@@ -193,6 +193,7 @@
   justify-content: center;
   align-items: end;
   height: 10vh;  /* Set full viewport height */
+  margin-top: -20px;
 }
 
 .dropdown {
@@ -203,7 +204,7 @@
   border: none;
   border-radius: 10px;  /* Increase for more rounded edges */
   font-size: 18px;  /* Adjust font size as needed */
-  padding: 10px;  /* Adjust padding as needed */
+  text-align: center;
   margin: 10px;  /* Adjust margin as needed */
 }
 
@@ -237,7 +238,6 @@
 }
 
 .button-div {
-  margin-top: 40px;
   display: flex;
   justify-content: center;
   align-items: center;
