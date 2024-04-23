@@ -192,7 +192,7 @@
   display: flex;
   justify-content: center;
   align-items: end;
-  height: 10vh;  /* Set full viewport height */
+  height: 5rem;  /* Set full viewport height */
   margin-top: 1vh;
 }
 
@@ -218,7 +218,7 @@
     display: flex;
     flex-direction: column;  /* Added property */
     align-items: center;  /* Added property */
-    height: 20vh;
+    height: 12rem;
   }
 
   .dropdown {
