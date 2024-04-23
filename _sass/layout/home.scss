@@ -193,11 +193,11 @@
   justify-content: center;
   align-items: end;
   height: 10vh;  /* Set full viewport height */
-  margin-top: -20px;
+  margin-top: 1vh;
 }
 
 .dropdown {
-  width: 200px;  /* Adjust width as needed */
+  width: 10rem;  /* Adjust width as needed */
   height: 50px;  /* Adjust height as needed */
   background-color: #717070;
   color: white;  /* Text color for dropdowns */
@@ -233,7 +233,7 @@
   padding: 10px 20px;
   font-size: 16px;
   cursor: pointer;
-  margin-top: 20px;  /* Adjust margin as needed */
+  margin-top: 1vh;  /* Adjust margin as needed */
   width: fit-content;  /* Added property */
 }
 
