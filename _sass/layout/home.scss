@@ -218,9 +218,12 @@
     display: flex;
     flex-direction: column;  /* Added property */
     align-items: center;  /* Added property */
+    height: 20vh;
   }
 
   .dropdown {
+    width: 75vw;  /* Adjust width as needed */
+    height: 50px;  /* Adjust height as needed */
     margin-right: 0;
     margin-bottom: 10px; /* Spacing between dropdowns */
     text-align: center;
@@ -235,7 +238,7 @@
   padding: 10px 20px;
   font-size: 16px;
   cursor: pointer;
-  margin-top: 1vh;  /* Adjust margin as needed */
+  margin-top: 0;  /* Adjust margin as needed */
   width: fit-content;  /* Added property */
 }
 
@@ -247,7 +250,7 @@
 
 .welcome-text {
   display: flex;
-  text-align: justify;
+  text-align: center;
   justify-content: center;
   align-items: center;
 }
