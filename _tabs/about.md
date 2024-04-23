@@ -4,7 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![RTC Logo](assets/img/logos/rtc-high-resolution-logo-wide.png)
+  <div style="text-align: center">
+    <img class="img-radius" src="assets/img/logos/rtc-high-resolution-logo-wide.png" alt="Research the Car Logo" width="800" height="200">
+  </div>
 
 ## Research the Car - AI-Powered Insights for Smarter Car Buying
 

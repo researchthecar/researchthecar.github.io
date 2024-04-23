@@ -66,10 +66,16 @@ a {
   text-decoration: none;
 }
 
+%img-radius-common {
+  border-radius: $base-radius $base-radius $base-radius $base-radius;
+}
+
 img {
   max-width: 100%;
   height: auto;
   transition: all 0.35s ease-in-out;
+
+  @extend %img-radius-common;
 
   .blur & {
     $blur: 20px;
@@ -725,9 +731,9 @@ $btn-mb: 0.5rem;
     img {
       transition: transform 0.5s;
 
-      &:hover {
-        transform: scale(1.2);
-      }
+      // &:hover {
+      //   transform: scale(1.2);
+      // }
     }
   }
 
