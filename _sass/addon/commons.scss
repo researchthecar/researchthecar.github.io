@@ -315,9 +315,9 @@ sup {
 /* --- post --- */
 
 .preview-img {
-  aspect-ratio: 40 / 21;
-  width: 100%;
-  height: 100%;
+  // aspect-ratio: 40 / 21;
+  // width: 100%;
+  // height: 100%;
   overflow: hidden;
 
   @extend %rounded;
@@ -335,6 +335,12 @@ sup {
 
     @at-root #post-list & {
       width: 100%;
+    }
+    
+      transition: transform 0.5s;
+
+      &:hover {
+        transform: scale(1.2);
     }
   }
 }
@@ -722,8 +728,8 @@ $btn-mb: 0.5rem;
 
   #avatar {
     display: block;
-    width: 7rem;
-    height: 7rem;
+    width: 10rem;
+    height: 10rem;
     overflow: hidden;
     box-shadow: var(--avatar-border-color) 0 0 0 2px;
     transform: translateZ(0); /* fixed the zoom in Safari */
@@ -731,9 +737,9 @@ $btn-mb: 0.5rem;
     img {
       transition: transform 0.5s;
 
-      // &:hover {
-      //   transform: scale(1.2);
-      // }
+      &:hover {
+        transform: scale(1.2);
+      }
     }
   }
 
@@ -748,7 +754,7 @@ $btn-mb: 0.5rem;
 
   .avatar {
     display: inline-block;
-    margin-left: 2.5rem;
+    margin-left: 0.7rem;
   }
 
   .site-title {
@@ -1250,8 +1256,8 @@ search {
   }
 
   #avatar {
-    width: 5rem;
-    height: 5rem;
+    width: 7rem;
+    height: 7rem;
   }
 }
 

@@ -5,7 +5,7 @@ order: 4
 ---
 
   <div style="text-align: center">
-    <img class="img-radius" src="assets/img/logos/rtc_full_16_9.png" alt="Research the Car Logo" width="800" height="200">
+    <a href="https://www.researchthecar.com"><img class="img-radius" src="assets/img/logos/rtc_full_16_9.png" alt="Research the Car Logo" width="800" height="200"></a>
   </div>
 
 ## Research the Car - AI-Powered Insights for Smarter Car Buying
