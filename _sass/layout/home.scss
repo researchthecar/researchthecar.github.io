@@ -213,6 +213,11 @@
   border: 1px solid #ccc;
 }
 
+.dropdown[disabled] {
+  background-color: #cccccc; /* Light gray */
+  opacity: 0.5; /* Reduce opacity for disabled state */
+}
+
 @media only screen and (max-width: 768px) {
   .dropdown-container {
     display: flex;
@@ -240,6 +245,15 @@
   cursor: pointer;
   margin-top: 0;  /* Adjust margin as needed */
   width: fit-content;  /* Added property */
+}
+
+.submit-button[enabled] {
+  cursor: pointer;
+}
+
+.submit-button[disabled] {
+  background-color: #4c7f4d; /* Light gray */
+  opacity: 0.5; /* Reduce opacity for disabled state */
 }
 
 .button-div {
