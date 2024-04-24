@@ -3,6 +3,28 @@ const makeSelect = document.getElementById('make');
 const modelSelect = document.getElementById('model');
 const carSearchForm = document.getElementById('car-search');
 const chosenVehicleInput = document.getElementById('chosen-vehicle');
+const submitButton = document.querySelector('.submit-button');
+
+// Function to check if all dropdowns have selections
+function allDropdownsSelected() {
+  return yearSelect.value && makeSelect.value && modelSelect.value;
+}
+
+// Update submit button state based on selections
+function updateSubmitButton() {
+  submitButton.disabled = !allDropdownsSelected();
+  submitButton.style.cursor = submitButton.disabled ? 'default' : 'pointer';
+}
+
+// Function to encode make value for URL
+function encodeMakeForUrl(make) {
+  return make.replace(/\s/g, '-'); // Replace spaces with hyphens
+}
+
+// Event listeners
+yearSelect.addEventListener('change', updateSubmitButton);
+makeSelect.addEventListener('change', updateSubmitButton);
+modelSelect.addEventListener('change', updateSubmitButton);
 
 // Function to populate year dropdown from JSON data
 function populateYearDropdown(cars) {
@@ -69,10 +91,12 @@ fetch('./assets/cars_parsed.json')
     carSearchForm.addEventListener('submit', (event) => {
         event.preventDefault();
         const year = document.getElementById('year').value.toLowerCase();
-        const make = document.getElementById('make').value.toLowerCase();
+        const make = encodeMakeForUrl(document.getElementById('make').value.toLowerCase());
         const model = document.getElementById('model').value.toLowerCase();
         chosenVehicleInput.value = `${year}-${make}-${model}`;
         const chosenVehicleUrl = `/posts/${chosenVehicleInput.value}`;  // Construct URL
         window.location.href = chosenVehicleUrl;  // Redirect using Javascript
       });
 })
+
+updateSubmitButton();
