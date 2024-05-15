@@ -43,6 +43,7 @@ layout: compress
               {% assign _include_path = _include | append: '.html' %}
               {% include {{ _include_path }} lang=lang %}
             {% endfor %}
+            {% include sidebar-right-ad.html}
           </aside>
         </div>
 
@@ -83,6 +84,5 @@ layout: compress
     {% endif %}
 
     {% include_cached search-loader.html %}
-    {& include sidebar-right-ad.html}
   </body>
 </html>
