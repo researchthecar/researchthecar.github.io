@@ -43,6 +43,19 @@ Despite its overall desirability, the 2015 Escalade has received complaints rega
         * Estimated Cost to Fix: $100 - $300
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Compressor Failure**
@@ -64,6 +77,19 @@ Despite its overall desirability, the 2015 Escalade has received complaints rega
     * Estimated Cost to Fix: $200 - $1,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Tailgate Latch Failure**
@@ -83,3 +109,15 @@ Despite its overall desirability, the 2015 Escalade has received complaints rega
 **Summary**
 
 While the 2015 Cadillac Escalade is a capable and luxurious SUV, it has experienced some issues across its major components. Engine problems, notably with the 6.2L V8 and 3.6L V6, can be severe and expensive to repair. Transmission slippage and electrical glitches are also common complaints. However, issues with the interior and exterior are generally less severe and less costly to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

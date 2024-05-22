@@ -25,6 +25,19 @@ Recalls: 13V465000, 16V749000
 * **Torque Converter Failure:** The torque converter may fail, causing the transmission to lose power. Symptoms include a lack of acceleration, shuddering, and a burning smell. The solution is to replace the torque converter and fluid. Estimated Cost to Fix: $1,500 - $2,000+
 Recalls: 14S02, 16S40
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Premature Shock and Strut Wear:** The front shocks and struts may wear out prematurely, leading to a rough ride and reduced handling. The solution is to replace the shocks and struts. Estimated Cost to Fix: $600 - $1,000+
 * **Rear Leaf Spring Issues:** The rear leaf springs may break or sag over time, affecting the vehicle's ride height and handling. The solution is to replace the leaf springs. Estimated Cost to Fix: $800 - $1,200+
@@ -34,6 +47,19 @@ Recalls: None Found
 * **Starter Failure:** The starter may fail prematurely, preventing the vehicle from starting. Symptoms include a clicking noise when turning the key and no engine crank. The solution is to replace the starter. Estimated Cost to Fix: $300 - $600+
 * **Faulty Alternator:** The alternator may fail, causing the battery to drain. Symptoms include dimming headlights, electrical issues, and a dead battery. The solution is to replace the alternator. Estimated Cost to Fix: $500 - $1,000+
 Recalls: 13S19
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **Rust and Corrosion:** Some owners have reported issues with rust and corrosion on the vehicle's body and undercarriage. The solution is to repair or replace the affected areas. Estimated Cost to Fix: Varies depending on the extent of the damage
@@ -48,3 +74,15 @@ Recalls: None Found
 **Summary**
 
 The 2012 Ford Transit Connect has faced several issues, including engine, transmission, suspension, and electrical problems. Some of these issues can be costly to repair and could potentially affect the vehicle's reliability. While the issues may vary in severity, potential owners should be aware of and consider the possible costs associated with these repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

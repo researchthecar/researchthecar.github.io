@@ -27,6 +27,19 @@ Solution: Replace the TCM.
 Estimated Cost to Fix: $1,000 - $1,500+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Strut Mount Bearing Failure**
@@ -42,6 +55,19 @@ Description/Symptoms: A faulty alternator can cause battery failure, flickering 
 Solution: Replace the alternator.
 Estimated Cost to Fix: $500 - $700+
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -62,3 +88,15 @@ Recalls: None Found
 **Summary**
 
 Overall, the 1998 Mazda Millenia is a reliable and enjoyable vehicle. However, it is prone to a few common issues, particularly with its transmission and electrical system. While some of these issues can be costly to repair, most are relatively minor and can be addressed with regular maintenance and upkeep.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

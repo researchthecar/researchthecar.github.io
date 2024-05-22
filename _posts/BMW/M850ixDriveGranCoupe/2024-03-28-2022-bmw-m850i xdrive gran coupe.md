@@ -35,6 +35,19 @@ The 2022 BMW M850i xDrive Gran Coupe is a high-performance luxury sedan with a s
     * Solution: Replace Mechatronic unit
     * Estimated Cost to Fix: $2,500 - $4,500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arm Bushing Wear:**
@@ -53,6 +66,19 @@ The 2022 BMW M850i xDrive Gran Coupe is a high-performance luxury sedan with a s
     * Description/Symptoms: Moisture buildup inside headlights
     * Solution: Replace headlights
     * Estimated Cost to Fix: $800 - $1,200
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -82,3 +108,15 @@ NHTSA Campaign ID: 22V-211
 **Summary:**
 
 Overall, the 2022 BMW M850i xDrive Gran Coupe is a well-regarded vehicle, but it has encountered some issues with its engine, transmission, electrical system, exterior, and interior. The severity of the issues ranges from minor inconveniences to more significant repairs. The estimated costs to fix the issues can be substantial, but it's important to note that not all vehicles will experience all of these problems. Proper maintenance and regular servicing can help mitigate the risk of issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

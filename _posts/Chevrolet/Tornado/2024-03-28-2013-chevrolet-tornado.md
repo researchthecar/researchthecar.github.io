@@ -50,6 +50,19 @@ The 2013 Chevrolet Tornado is a subcompact pickup truck that was discontinued af
     * Estimated Cost to Fix: $1,000 - $2,500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Failure**
@@ -66,6 +79,19 @@ The 2013 Chevrolet Tornado is a subcompact pickup truck that was discontinued af
     * Estimated Cost to Fix: $100 - $300
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 * No Issues Found
 
@@ -80,3 +106,15 @@ The 2013 Chevrolet Tornado is a subcompact pickup truck that was discontinued af
 **Summary**
 
 The 2013 Chevrolet Tornado is a reliable and affordable subcompact pickup truck that has some potential mechanical issues to be aware of. Engine and transmission problems can be serious and costly to repair, while suspension and electrical concerns are generally less severe. It is recommended to consider the potential maintenance costs when purchasing a used Tornado.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

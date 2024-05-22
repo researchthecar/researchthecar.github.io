@@ -41,6 +41,19 @@ People like the Malibu for its spacious interior, comfortable seats, and user-fr
         * Estimated Cost to Fix: $4,000 - $6,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Significant Suspension Issues Found**
@@ -57,6 +70,19 @@ People like the Malibu for its spacious interior, comfortable seats, and user-fr
     * Solution: Replace the faulty wiring harness.
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -78,3 +104,15 @@ People like the Malibu for its spacious interior, comfortable seats, and user-fr
 **Summary**
 
 The 2021 Chevrolet Malibu has several potential issues, but they vary in severity and cost. Some issues, such as battery discharge and dashboard rattle, are relatively minor and inexpensive to fix. However, more serious problems, such as engine failures and transmission problems, can be costly to repair. Overall, the 2021 Chevrolet Malibu has a few potential issues to be aware of, but it is important to note that not all vehicles will experience these problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

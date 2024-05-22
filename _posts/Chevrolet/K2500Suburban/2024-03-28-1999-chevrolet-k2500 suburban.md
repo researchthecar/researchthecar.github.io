@@ -41,6 +41,19 @@ The Suburban was a popular choice for families and businesses alike, due to its 
         * Estimated Cost to Fix: $500 - $1,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension**
@@ -69,6 +82,19 @@ The Suburban was a popular choice for families and businesses alike, due to its 
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust**
@@ -93,3 +119,15 @@ The Suburban was a popular choice for families and businesses alike, due to its 
 **Summary**
 
 The 1999 Chevrolet K2500 Suburban is a popular vehicle, but it has been plagued by a number of issues over the years. Some of the most common issues include intake manifold gasket failure, injection pump failure, torque converter failure, and rust. These issues can be expensive to fix, so potential buyers should be aware of them before purchasing a Suburban.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

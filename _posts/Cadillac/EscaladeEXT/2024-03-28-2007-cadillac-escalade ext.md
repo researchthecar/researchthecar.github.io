@@ -39,6 +39,19 @@ The 2007 Cadillac Escalade EXT is a full-size luxury pickup truck that combines 
     * Estimated Cost to Fix: $600 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Upper Control Arm Bushing Failure:**
@@ -65,6 +78,19 @@ The 2007 Cadillac Escalade EXT is a full-size luxury pickup truck that combines 
     * Estimated Cost to Fix: $600 - $1,000+
     * Recalls: 05V329000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Tailgate Latch Failure:**
@@ -89,3 +115,15 @@ The 2007 Cadillac Escalade EXT is a full-size luxury pickup truck that combines 
 **Summary:**
 
 The 2007 Cadillac Escalade EXT has several reported issues, ranging from engine and transmission problems to electrical and interior concerns. While it offers a powerful engine and a luxurious cabin, the vehicle's reliability may be a concern for some potential buyers. The severity and cost of the issues vary, with some being relatively minor and others potentially expensive to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -25,6 +25,19 @@ The 2019 Maserati GranCabrio is a high-performance luxury convertible that offer
 * **Estimated Cost to Fix:** $1,000 - $3,000
 * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -34,6 +47,19 @@ The 2019 Maserati GranCabrio is a high-performance luxury convertible that offer
 * **Battery Drain:** The battery may prematurely drain, even when the vehicle is not in use. This issue is often caused by a faulty alternator, starter, or parasitic drain.
 * **Estimated Cost to Fix:** $500 - $1,500
 * **Recalls:** None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -51,3 +77,15 @@ The 2019 Maserati GranCabrio is a high-performance luxury convertible that offer
 **Summary**
 
 While the 2019 Maserati GranCabrio is a desirable luxury convertible, it is not immune to some potential issues. The most common issues reported include transmission hesitation, oil leaks, and electrical problems. The severity and cost of these issues can vary depending on the specific problem and the extent of the damage. It is important for owners to be aware of these potential issues and to promptly address them to ensure the longevity and performance of their vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

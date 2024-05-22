@@ -23,6 +23,19 @@ The 2018 BMW 640i xDrive Gran Turismo is a luxury hatchback powered by a 3.0-lit
 * **Hesitation during acceleration:** The transmission may hesitate or shudder during acceleration. Symptoms include jerky or delayed acceleration. The solution is to reprogram the transmission control module or replace the transmission. **Estimated Cost to Fix:** $100 - $2,500+
 * **Slipping gears:** The transmission may slip gears, causing the vehicle to lose power or make grinding noises. The solution is to replace the transmission clutches or other internal components. **Estimated Cost to Fix:** $2,500 - $5,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear suspension noise:** A rattling or clunking noise may be heard from the rear suspension, especially over rough roads. The solution is to replace the rear suspension components, such as the struts or control arms. **Estimated Cost to Fix:** $500 - $1,200+
@@ -31,6 +44,19 @@ The 2018 BMW 640i xDrive Gran Turismo is a luxury hatchback powered by a 3.0-lit
 
 * **Battery drain:** The battery may drain excessively, leaving the vehicle unable to start. The solution is to identify and replace the electrical component causing the drain. **Estimated Cost to Fix:** $100 - $1,000+
 * **Electrical glitches:** Various electrical glitches may occur, such as malfunctioning gauges, flickering lights, or inoperative accessories. The solution is to troubleshoot and repair the affected electrical components. **Estimated Cost to Fix:** $200 - $1,500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -44,3 +70,15 @@ The 2018 BMW 640i xDrive Gran Turismo is a luxury hatchback powered by a 3.0-lit
 **Summary:**
 
 While the 2018 BMW 640i xDrive Gran Turismo offers impressive features, it has been plagued by various issues affecting its engine, transmission, suspension, electrical, and interior components. The severity and cost of these issues can vary, with some being minor inconveniences and others being major expenses. Potential buyers should be aware of these potential problems and consider them carefully before purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

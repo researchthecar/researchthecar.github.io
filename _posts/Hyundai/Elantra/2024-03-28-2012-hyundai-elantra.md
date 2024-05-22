@@ -60,6 +60,19 @@ The 2012 Hyundai Elantra is a compact sedan known for its affordability, fuel ef
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -86,6 +99,19 @@ The 2012 Hyundai Elantra is a compact sedan known for its affordability, fuel ef
     * Estimated Cost to Fix: $500 - $800+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rear Brake Light Seal Failure:**
@@ -110,3 +136,15 @@ The 2012 Hyundai Elantra is a compact sedan known for its affordability, fuel ef
 **Summary:**
 
 The 2012 Hyundai Elantra is a generally reliable vehicle, but it has experienced some issues related to the engine, transmission, and electrical system. Engine issues can be severe but are relatively uncommon, while transmission issues are more frequent but less costly to fix. Electrical issues tend to be minor and inexpensive to address. Overall, the 2012 Elantra is a value-oriented vehicle, but potential buyers should be aware of these issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -76,6 +76,19 @@ The 2008 Dodge Challenger is a muscle car that was introduced as a modern interp
         * Estimated Cost to Fix: $1,000 - $1,500
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Bearing Failure**
@@ -96,6 +109,19 @@ The 2008 Dodge Challenger is a muscle car that was introduced as a modern interp
     * Solution: Replace the defective electrical component causing the drain.
     * Estimated Cost to Fix: Varies depending on the component replaced
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -121,3 +147,15 @@ The 2008 Dodge Challenger is a muscle car that was introduced as a modern interp
 **Summary**
 
 The 2008 Dodge Challenger is a powerful and stylish muscle car, but it has a number of potential issues that buyers should be aware of. The engine and transmission problems can be particularly costly to repair, and the interior and electrical issues can be frustrating for owners. Overall, the severity and cost of these issues will vary depending on the specific vehicle and its condition.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

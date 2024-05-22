@@ -48,6 +48,19 @@ The 1994 Chrysler Grand Voyager is a minivan offered with a variety of engine an
     * Estimated Cost to Fix: $400 - $800
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front Ball Joint Failure**
     * Description/Symptoms: Clunking or rattling noises from front suspension, uneven tire wear
@@ -72,6 +85,19 @@ The 1994 Chrysler Grand Voyager is a minivan offered with a variety of engine an
     * Estimated Cost to Fix: $200 - $400
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 * **Rust on Body and Suspension Components**
     * Description/Symptoms: Surface rust, corrosion on metal parts
@@ -93,3 +119,15 @@ The 1994 Chrysler Grand Voyager is a minivan offered with a variety of engine an
 
 **Summary**
 The 1994 Chrysler Grand Voyager faces several common issues, particularly with its engine and transmission. Intake and head gasket failures on the V6 engines can be costly to repair. The transmissions are prone to torque converter and TCM problems, leading to shifting issues and potential transmission failure. Other issues include suspension component wear, electrical failures, exterior rust, and interior comfort problems. Depending on the severity of the issues, repairs can range from a few hundred dollars to over $1,500, significantly impacting the vehicle's reliability and ownership costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

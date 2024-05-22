@@ -69,6 +69,19 @@ The 2004 Ford Econoline is a full-size van available in various configurations, 
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Leaf Springs Failure**
@@ -96,6 +109,19 @@ The 2004 Ford Econoline is a full-size van available in various configurations, 
     * Solution: Replace faulty ignition coils
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -128,3 +154,15 @@ The 2004 Ford Econoline is a full-size van available in various configurations, 
 **Summary**
 
 The 2004 Ford Econoline has some known issues that can vary in severity and cost. The engine and transmission components may face problems with intake manifold gaskets, spark plugs, turbochargers, and shift solenoids. Suspension issues include rear leaf spring failure and front ball joint wear. Electrical problems can arise due to battery discharge or ignition coil failure. Exterior issues involve rear door hinge failure and door handle failure. Finally, interior issues include dashboard rattle and damaged center console cup holders. It's important to note that not all Econolines will experience these issues, and the frequency and severity may depend on factors such as driving conditions and maintenance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

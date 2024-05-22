@@ -33,6 +33,19 @@ The 2014 Aston Martin V8 Vantage is a luxury sports car that combines breathtaki
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Squeaking**
@@ -60,6 +73,19 @@ The 2014 Aston Martin V8 Vantage is a luxury sports car that combines breathtaki
     * Solution: Software updates or replacement of the infotainment module.
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -92,3 +118,15 @@ The 2014 Aston Martin V8 Vantage is a luxury sports car that combines breathtaki
 **Summary**
 
 While the 2014 Aston Martin V8 Vantage is a highly capable and desirable sports car, it is not immune to certain issues. The most common problems reported by owners relate to engine timing control, intake manifold gaskets, suspension squeaking, and electrical system issues. The severity and cost of these issues vary, but it is important for potential buyers to be aware of them before making a purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

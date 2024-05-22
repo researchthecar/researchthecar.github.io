@@ -51,6 +51,19 @@ The 2014 Ford Transit Connect is a compact cargo van that is known for its versa
     * Estimated Cost to Fix: $1,200 - $1,800+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Failure:**
@@ -71,6 +84,19 @@ The 2014 Ford Transit Connect is a compact cargo van that is known for its versa
     * Solution: Diagnose and repair the source of the battery discharge, which may include replacing the alternator, battery, or wiring harness.
     * Estimated Cost to Fix: $300 - $800+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -101,3 +127,15 @@ The 2014 Ford Transit Connect is a compact cargo van that is known for its versa
 **Summary**
 
 The 2014 Ford Transit Connect has received mixed reviews from owners. While it is praised for its versatility and fuel efficiency, it has been criticized for its lack of power with the 2.5L engine and its noisy cabin. The vehicle has experienced some significant issues, including premature timing chain failure, clutch failure, torque converter failure, and rust issues. The severity of these issues can vary, but some can lead to costly repairs. Overall, the 2014 Ford Transit Connect has received average reliability ratings and is best suited for those who prioritize space and fuel efficiency over power and refinement.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

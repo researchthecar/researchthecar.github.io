@@ -29,6 +29,19 @@ Solution: Replace the clutch.
 Estimated Cost to Fix: $2,000 - $4,000+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension failure**
@@ -44,6 +57,19 @@ Description/Symptoms: The battery can drain quickly, even when the vehicle is no
 Solution: Replace the battery.
 Estimated Cost to Fix: $1,000 - $2,000+
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -64,3 +90,15 @@ Recalls: None Found
 **Summary**
 
 The 2016 Ferrari LaFerrari is a high-performance sports car that is praised for its performance, handling, and design. However, it has also been criticized for its high price and limited production numbers. The LaFerrari has a number of potential issues, including engine, transmission, suspension, electrical, exterior, and interior problems. The cost to fix these issues can be significant, so it is important to factor this into the cost of ownership.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -34,6 +34,19 @@ Despite its impressive capabilities, the Defender 110 has been known to experien
 * **Grinding gears:** This can make it difficult to shift. Symptoms include a grinding noise when shifting gears, difficulty engaging gears, and popping out of gear. The solution is to replace the worn gears or synchros. **Estimated Cost to Fix: $500 - $1,500**
 * **Leaking fluid:** This can cause the transmission to lose power. Symptoms include leaks from the transmission pan, difficulty shifting gears, and burning smell. The solution is to replace the leaking seals or gaskets. **Estimated Cost to Fix: $500 - $1,000**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf spring failure:** This can cause the suspension to sag. Symptoms include a sagging rear end, uneven tire wear, and poor handling. The solution is to replace the worn leaf springs. **Estimated Cost to Fix: $500 - $1,000**
@@ -43,6 +56,19 @@ Despite its impressive capabilities, the Defender 110 has been known to experien
 
 * **Battery drain:** This can make it difficult to start the vehicle. Symptoms include a dead battery, dim lights, and slow starting. The solution is to diagnose the cause of the drain and repair or replace the faulty component. **Estimated Cost to Fix: $100 - $500+**
 * **Alternator failure:** This can cause the battery to lose power. Symptoms include a dead battery, dim lights, and difficulty starting. The solution is to replace the alternator. **Estimated Cost to Fix: $500 - $1,000**
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -57,3 +83,15 @@ Despite its impressive capabilities, the Defender 110 has been known to experien
 The 1993 Land Rover Defender 110 is a capable and reliable off-road vehicle. However, it is not without its issues. The engine and transmission are prone to several major problems that can be expensive to fix. The suspension and electrical systems can also experience problems, but these are typically less severe and less costly to repair.
 
 Overall, the Defender 110 is a solid choice for those who need a rugged and capable off-road vehicle. However, it is important to be aware of the potential issues that it may experience before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

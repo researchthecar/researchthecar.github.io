@@ -36,6 +36,19 @@ The 2007 Chevrolet Colorado is a compact pickup truck that offers a range of eng
     * **Valve body failure:** The valve body fails, causing shifting problems. Replacement of the valve body is required. $1000 - $1500+
     * **Transmission control module (TCM) failure:** The TCM fails, causing shifting problems or transmission failure. Replacement of the TCM is required. $500 - $1000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension:**
@@ -55,6 +68,19 @@ The 2007 Chevrolet Colorado is a compact pickup truck that offers a range of eng
 * **Battery failure:** The battery fails, causing electrical problems or a no-start condition. Replacement of the battery is required. $100 - $200+
 * **Lighting issues:** The headlights, taillights, or other lighting components fail or malfunction. Replacement or repair of the affected components is required. $100 - $500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust:** The body or frame of the vehicle rusts, causing structural damage or cosmetic issues. Repair or replacement of the affected parts is required. $500 - $1000+
@@ -67,3 +93,15 @@ The 2007 Chevrolet Colorado is a compact pickup truck that offers a range of eng
 **Summary:**
 
 The 2007 Chevrolet Colorado has a range of common issues, but most are relatively minor and inexpensive to fix. The engine and transmission issues are the most severe and can be costly to repair. However, the Colorado is generally a reliable and durable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -34,6 +34,19 @@ While the Classic has received positive reviews for its overall value, certain i
 * **Transmission Slippage:** Symptoms include difficulty shifting gears, delayed engagement, and loss of power. Solution: Replace the transmission filter and fluid, or rebuild the transmission. Estimated Cost to Fix: $500 - $2,000+
 * **Solenoid Failure:** Symptoms include harsh shifting, delayed engagement, and transmission overheating. Solution: Replace the solenoid. Estimated Cost to Fix: $200 - $500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure:** Symptoms include clunking or popping noises, vibration, and reduced ride quality. Solution: Replace the strut mounts. Estimated Cost to Fix: $300 - $600+
@@ -43,6 +56,19 @@ While the Classic has received positive reviews for its overall value, certain i
 
 * **Battery Drain:** Symptoms include the battery dying prematurely or not holding a charge. Solution: Diagnose the electrical system to find the source of the drain, and repair or replace damaged components. Estimated Cost to Fix: $100 - $500+
 * **Alternator Failure:** Symptoms include dim headlights, reduced electrical power, and the battery not charging. Solution: Replace the alternator. Estimated Cost to Fix: $300 - $600+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -56,3 +82,15 @@ While the Classic has received positive reviews for its overall value, certain i
 **Summary**
 
 The 2005 Chevrolet Classic has some reliability issues, with the most common problems being related to the engine and transmission. The severity of these issues can range from minor, such as door handle failure, to major, such as cylinder head warping. The cost to fix these issues can be significant, especially for the more serious engine problems. Overall, the Classic is a budget-friendly vehicle, but its reliability concerns should be considered before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

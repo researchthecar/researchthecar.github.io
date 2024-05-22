@@ -27,6 +27,19 @@ The 2018 Mercedes-Benz A45 AMG is a high-performance hatchback featuring a poten
         * Estimated Cost to Fix: $1,000 - $2,500+
         * Recall: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **No Issues Found**
@@ -37,6 +50,19 @@ The 2018 Mercedes-Benz A45 AMG is a high-performance hatchback featuring a poten
         * Solution: Replacing defective battery or electrical components.
         * Estimated Cost to Fix: $500 - $2,000+
         * Recall: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior:**
 
@@ -52,3 +78,15 @@ The 2018 Mercedes-Benz A45 AMG is a high-performance hatchback featuring a poten
 **Summary:**
 
 While the 2018 Mercedes-Benz A45 AMG offers thrilling performance and premium amenities, it has experienced some concerning issues, particularly with its engine, transmission, and electrical system. The cost of repairs can be significant, ranging from a few hundred dollars to over $7,000 in some cases. Potential buyers should carefully research and consider these potential problems before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

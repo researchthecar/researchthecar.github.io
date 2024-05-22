@@ -47,6 +47,19 @@ The 2007 Maserati Coupe is a luxurious sports car that offers a thrilling drivin
     * Estimated Cost to Fix: $2,000 - $3,500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushings Wear:**
@@ -67,6 +80,19 @@ The 2007 Maserati Coupe is a luxurious sports car that offers a thrilling drivin
     * Solution: Diagnosis and repair of the cause of the drain
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -92,3 +118,15 @@ The 2007 Maserati Coupe is a luxurious sports car that offers a thrilling drivin
 **Summary:**
 
 The 2007 Maserati Coupe offers an exciting driving experience, but it is not without its issues. Some owners have reported problems with the engine, transmission, suspension, and electrical systems. The severity and cost of these issues can vary depending on the specific issue. It is important to consider these potential problems when researching the Maserati Coupe or budgeting for maintenance costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

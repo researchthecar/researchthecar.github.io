@@ -35,6 +35,19 @@ The 2006 Bentley Continental is a luxurious grand tourer powered by a 6.0-liter 
         * Estimated Cost to Fix: $2,500 - $4,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
     * **Air Suspension Compressor Failure**
         * Description/Symptoms: The air suspension compressor can fail, causing the suspension to sag and the ride height to decrease.
@@ -58,6 +71,19 @@ The 2006 Bentley Continental is a luxurious grand tourer powered by a 6.0-liter 
         * Solution: Replace the alternator.
         * Estimated Cost to Fix: $500 - $1,000+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
     * **Door Handle Malfunction**
@@ -86,3 +112,15 @@ The 2006 Bentley Continental is a luxurious grand tourer powered by a 6.0-liter 
 **Summary**
 
 The 2006 Bentley Continental is a luxurious grand tourer that can provide an exhilarating driving experience when functioning properly. However, it has been plagued by a variety of issues that can be costly to repair. The severity and cost of these issues should be carefully considered by potential buyers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -35,6 +35,19 @@ The 2008 Bentley Brooklands is a luxurious grand tourer that embodies the essenc
     * Estimated Cost to Fix: $1,200 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Compressor Failure**
@@ -62,6 +75,19 @@ The 2008 Bentley Brooklands is a luxurious grand tourer that embodies the essenc
     * Solution: Replacement of the xenon headlight ballast.
     * Estimated Cost to Fix: $250 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -94,3 +120,15 @@ The 2008 Bentley Brooklands is a luxurious grand tourer that embodies the essenc
 **Summary**
 
 The 2008 Bentley Brooklands is a desirable grand tourer that offers a unique blend of luxury and performance. However, it is not without its shortcomings. The vehicle has experienced a range of issues, from minor electrical annoyances to significant engine and suspension problems. The severity and cost of the issues vary, with some requiring costly repairs or frequent maintenance. Potential buyers should be aware of the potential risks associated with ownership before making a decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

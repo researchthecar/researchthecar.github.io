@@ -49,6 +49,19 @@ The 1998 Chevrolet Cargo Van was a popular choice for businesses and families al
         * Estimated Cost to Fix: $2,000 - $3,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension strut failure**
@@ -76,6 +89,19 @@ The 1998 Chevrolet Cargo Van was a popular choice for businesses and families al
     * Estimated Cost to Fix: $300 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust**
@@ -95,3 +121,15 @@ The 1998 Chevrolet Cargo Van was a popular choice for businesses and families al
 **Summary**
 
 The 1998 Chevrolet Cargo Van was a reliable and versatile vehicle, but it was not without its problems. The most common issues included intake manifold gasket failure, head gasket failure, torque converter shudder, transmission slipping, and suspension component failure. The severity and cost of the issues varied depending on the specific problem. Overall, the Cargo Van was a good choice for those who needed a durable and spacious vehicle, but it was important to be aware of the potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

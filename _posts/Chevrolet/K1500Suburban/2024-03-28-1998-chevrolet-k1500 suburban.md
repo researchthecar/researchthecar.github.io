@@ -53,6 +53,19 @@ The K1500 Suburban was also available with three transmission options: a 4-speed
 * **Clutch failure:** The clutch can fail, causing the transmission to slip and eventually fail. The solution is to replace the clutch. Estimated cost to fix: $500 - $1,000+
 * **Synchronizer failure:** The synchronizers can fail, causing the transmission to grind when shifting. The solution is to replace the synchronizers. Estimated cost to fix: $500 - $1,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front end suspension wear:** The front end suspension components can wear out, causing the vehicle to handle poorly and eventually become unsafe. The solution is to replace the worn suspension components. Estimated cost to fix: $1,000 - $2,000+
@@ -63,6 +76,19 @@ The K1500 Suburban was also available with three transmission options: a 4-speed
 * **Alternator failure:** The alternator can fail, causing the battery to discharge and the vehicle to lose power. The solution is to replace the alternator. Estimated cost to fix: $500 - $1,000+
 * **Starter failure:** The starter can fail, causing the vehicle to not start. The solution is to replace the starter. Estimated cost to fix: $500 - $1,000+
 * **Battery failure:** The battery can fail, causing the vehicle to not start. The solution is to replace the battery. Estimated cost to fix: $100 - $200+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -78,3 +104,15 @@ The K1500 Suburban was also available with three transmission options: a 4-speed
 **Summary**
 
 The 1998 Chevrolet K1500 Suburban is a reliable and capable SUV, but it is not without its issues. The most
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

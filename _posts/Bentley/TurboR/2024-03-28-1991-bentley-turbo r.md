@@ -35,6 +35,19 @@ The 1991 Bentley Turbo R is a luxurious sports sedan powered by a 6.75-liter tur
     * Solution: Inspect and replace worn transmission components, such as solenoids, valve body, or torque converter.
     * Estimated Cost to Fix: $500 - $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Air Suspension Failure:**
@@ -56,6 +69,19 @@ The 1991 Bentley Turbo R is a luxurious sports sedan powered by a 6.75-liter tur
     * Description/Symptoms: Dead battery after prolonged storage or short drives.
     * Solution: Inspect for parasitic current draw, such as a faulty alternator or ignition switch.
     * Estimated Cost to Fix: $200 - $500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior:**
 
@@ -82,3 +108,15 @@ The 1991 Bentley Turbo R is a luxurious sports sedan powered by a 6.75-liter tur
 **Summary:**
 
 The 1991 Bentley Turbo R offers a unique blend of luxury and performance, but it is not without its potential issues. Engine and transmission problems can be costly and severe, while electrical and suspension issues tend to be less serious and less expensive. Overall, potential buyers should be aware of the potential for expensive repairs and factor that into their ownership considerations.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

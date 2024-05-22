@@ -37,6 +37,19 @@ People who liked the Tornado praised its affordability, its fuel efficiency, and
         * Estimated Cost to Fix: $100 - $200+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Failure**
@@ -62,6 +75,19 @@ People who liked the Tornado praised its affordability, its fuel efficiency, and
     * Solution: Replace battery
     * Estimated Cost to Fix: $100 - $200+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -92,3 +118,15 @@ People who liked the Tornado praised its affordability, its fuel efficiency, and
 **Summary**
 
 The 2010 Chevrolet Tornado was a budget-friendly pickup truck that had some issues, but it was generally reliable. The most serious issues affected the engine and transmission, and they could be expensive to fix. However, the Tornado's interior and exterior issues were relatively minor and inexpensive to fix. Overall, the Tornado was a good value for the price.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

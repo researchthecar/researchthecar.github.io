@@ -61,6 +61,19 @@ The 2005 Chevrolet Meriva is a compact MPV available with two engine options: a 
     * Solution: Replace the torque converter
     * Estimated Cost to Fix: $1,000 - $1,500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Failure:**
@@ -83,6 +96,19 @@ The 2005 Chevrolet Meriva is a compact MPV available with two engine options: a 
     * Solution: Replace the alternator
     * Estimated Cost to Fix: $300 - $500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Door Hinges Failure:**
@@ -104,3 +130,15 @@ The 2005 Chevrolet Meriva is a compact MPV available with two engine options: a 
 **Summary:**
 
 The 2005 Chevrolet Meriva has several potential issues that can affect its engine, transmission, suspension, electrical, and interior systems. While some issues are relatively minor and inexpensive to fix, others can be more severe and costly. Overall, the severity and cost of the issues can vary depending on the specific issue, the extent of the damage, and the cost of parts and labor in your area. It is recommended to have the vehicle inspected by a qualified mechanic if you encounter any of the listed issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

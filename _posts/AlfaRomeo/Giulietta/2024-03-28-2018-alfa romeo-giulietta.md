@@ -41,6 +41,19 @@ Owners of the Alfa Romeo Giulietta have praised its sleek design, responsive han
         * Estimated Cost to Fix: $500 - $1,500+
         * Recalls: N182159000 (2018 Giulia and Giulietta)
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Squeaks**
@@ -56,6 +69,19 @@ Owners of the Alfa Romeo Giulietta have praised its sleek design, responsive han
     * Solution: Diagnosis and repair/replacement of faulty electrical components.
     * Estimated Cost to Fix: $100 - $1,000+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -81,3 +107,15 @@ Owners of the Alfa Romeo Giulietta have praised its sleek design, responsive han
 **Summary**
 
 Overall, the Alfa Romeo Giulietta is a stylish and fun-to-drive hatchback, but it has experienced some reliability issues. The most severe and expensive issue is the timing belt failure on the 1.8-liter turbocharged four-cylinder engine. Other issues, such as engine stalling, grinding gears, and suspension squeaks, are less serious but can still be annoying and costly to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

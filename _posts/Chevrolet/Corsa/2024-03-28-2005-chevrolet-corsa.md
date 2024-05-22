@@ -49,6 +49,19 @@ Owners appreciate the Corsa's affordability, fuel efficiency, and sporty handlin
     * Estimated Cost to Fix: $1,500 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Premature Wear of Front Struts:**
@@ -71,6 +84,19 @@ Owners appreciate the Corsa's affordability, fuel efficiency, and sporty handlin
     * Estimated Cost to Fix: $50 - $200+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust on Wheel Arches:**
@@ -90,3 +116,15 @@ Owners appreciate the Corsa's affordability, fuel efficiency, and sporty handlin
 **Summary**
 
 The 2005 Chevrolet Corsa is typically a reliable vehicle, but certain issues can arise over time. Common problems include timing chain issues with the 1.4-liter engine, transmission problems with both manual and automatic options, and premature wear of the front struts. Other issues, such as alternator failure and battery drain, are less severe and can be easily fixed. The vehicle's exterior is prone to rust on the wheel arches, and the interior may develop annoying squeaks and rattles. Overall, the Corsa's repair costs tend to be affordable, ranging from $50 to $2,000+ depending on the severity of the issue.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

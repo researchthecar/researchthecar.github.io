@@ -33,6 +33,19 @@ Owners of the 2020 Mercedes-Benz Alliado have reported several issues with their
         * Estimate Cost to Fix: $2,000 - $3,000+
         * Recalls: #20V71000 (US)
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension**
@@ -62,6 +75,19 @@ Owners of the 2020 Mercedes-Benz Alliado have reported several issues with their
         * Solution: Repair or replace the wiring harness.
         * Estimate Cost to Fix: $500 - $2,000+
         * Recalls: #20V316000 (US)
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -96,3 +122,15 @@ Owners of the 2020 Mercedes-Benz Alliado have reported several issues with their
 **Summary**
 
 The 2020 Mercedes-Benz Alliado is a reliable and comfortable SUV, but it has been plagued by several issues. Some of the most common problems include intake manifold runner actuator failure, turbocharger boost pressure sensor, transmission control module failure, lower control arm bushing wear, premature battery failure, wiring harness failure, condensation in headlights, AC compressor failure, touchscreen malfunction, and paddle shifter malfunction. Overall, the severity of the issues ranges from minor inconveniences to major repairs. The cost of the repairs can also be significant, with some estimates ranging from $1,000 to $2,000 or more.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -34,6 +34,19 @@ The Onix is praised for its affordability, spacious interior, and impressive fue
 * **Transmission shudder:** As mentioned under the Engine section, the CVT transmission may experience shuddering or vibration during acceleration.
 * **Premature belt wear:** Excessive wear on the CVT belt can lead to slipping, loss of power, and eventual transmission failure.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -42,6 +55,19 @@ The Onix is praised for its affordability, spacious interior, and impressive fue
 
 * **Electrical malfunctions:** Various electrical components, such as the touchscreen infotainment system or power windows, may malfunction intermittently.
 * **Battery discharge:** Premature battery discharge may occur due to an electrical drain or other electrical issues.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -54,3 +80,15 @@ The Onix is praised for its affordability, spacious interior, and impressive fue
 **Summary:**
 
 The 2023 Chevrolet Onix is generally a reliable and affordable vehicle. However, some owners have encountered specific issues with certain components. While most issues are relatively minor, potential buyers should be aware of these potential concerns. The severity and cost of repairs can vary depending on the issue and the specific part(s) involved. Regular maintenance and adherence to factory service schedules can help prevent or mitigate some of these issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

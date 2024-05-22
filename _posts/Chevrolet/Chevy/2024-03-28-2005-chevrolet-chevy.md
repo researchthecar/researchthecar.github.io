@@ -53,6 +53,19 @@ The 2005 Chevrolet Chevy is a versatile and dependable vehicle offered with vari
         - Estimated Cost to Fix: $250 - $500
         - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Front Upper Control Arm Bushing Wear**
     - Description/Symptoms: Clunking or rattling noise from front suspension, poor handling
@@ -77,6 +90,19 @@ The 2005 Chevrolet Chevy is a versatile and dependable vehicle offered with vari
     - Estimated Cost to Fix: $500 - $800
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 - **Brake Light Switch Failure**
     - Description/Symptoms: Brake lights inoperative, cruise control not working
@@ -98,3 +124,15 @@ The 2005 Chevrolet Chevy is a versatile and dependable vehicle offered with vari
 
 **Summary:**
 The 2005 Chevrolet Chevy experiences a range of issues, primarily related to the engine, transmission, and suspension. The severity of the issues varies, with some being minor and inexpensive to fix, while others can be costly and require extensive repairs. It is essential for owners to be aware of these potential issues and to have them addressed promptly to maintain the vehicle's performance and reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -55,6 +55,19 @@ People like the Equinox for its comfortable ride, spacious interior, and versati
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure:**
@@ -82,6 +95,19 @@ People like the Equinox for its comfortable ride, spacious interior, and versati
     * Solution: Replace alternator.
     * Estimated Cost to Fix: $500 - $700+
     * Recalls: N/A
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -112,3 +138,15 @@ People like the Equinox for its comfortable ride, spacious interior, and versati
 **Summary:**
 
 The 2009 Chevrolet Equinox has several potential issues, particularly with the 3.4-liter V6 engine. These issues can range in severity and cost, from minor problems like spark plug failure to major expenses like oil consumption and timing chain tensioner failure. It is important to be aware of these potential issues before purchasing or owning an Equinox.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

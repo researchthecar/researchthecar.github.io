@@ -35,6 +35,19 @@ The Cavalier has received positive feedback for its affordability, fuel efficien
 
 * **Torque Converter Failure:** Symptoms include shuddering or slipping during acceleration, and a loss of drive. Solution: Replace the torque converter. Estimated Cost to Fix: $500 - $1000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure:** Symptoms include excessive bouncing, poor handling, and uneven tire wear. Solution: Replace the struts. Estimated Cost to Fix: $300 - $600+ for all four
@@ -46,6 +59,19 @@ The Cavalier has received positive feedback for its affordability, fuel efficien
 * **Alternator Failure:** Symptoms include dim lights, a dead battery, and a warning light on the dashboard. Solution: Replace the alternator. Estimated Cost to Fix: $200 - $400+
 
 * **Starter Failure:** Symptoms include the engine failing to start or only starting intermittently. Solution: Replace the starter. Estimated Cost to Fix: $300 - $500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -62,3 +88,15 @@ The Cavalier has received positive feedback for its affordability, fuel efficien
 **Summary**
 
 The 1990 Chevrolet Cavalier is a budget-friendly compact car with a variety of engine and transmission options. However, it is important to be aware of the potential issues that can affect this vehicle. Some of the common issues include head gasket failure, intake manifold gasket failure, and transmission problems. If these issues are not addressed promptly, they can lead to more costly repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

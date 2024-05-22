@@ -46,6 +46,19 @@ Owners praise the Astro's spacious interior and versatility, while common compla
   - **Estimated Cost to Fix:** $300 - $600+
   - **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Front Ball Joint Failure**
@@ -71,6 +84,19 @@ Owners praise the Astro's spacious interior and versatility, while common compla
   - **Solution:** Test and replace the battery and check for electrical system leaks.
   - **Estimated Cost to Fix:** $100 - $300+
   - **Recalls:** None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -101,3 +127,15 @@ Owners praise the Astro's spacious interior and versatility, while common compla
 **Summary**
 
 The 2002 Chevrolet Astro has a number of potential issues, including engine leaks, transmission problems, suspension wear, electrical failures, and interior component issues. The severity and cost of these issues vary depending on the specific problem and the extent of the damage. Owners should be aware of these potential issues and be prepared for the costs of repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -46,6 +46,19 @@ The Spirit was praised for its spacious interior, comfortable ride, and affordab
   * Estimated Cost to Fix: $200 - $400+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut mounts worn**
@@ -72,6 +85,19 @@ The Spirit was praised for its spacious interior, comfortable ride, and affordab
   * Estimated Cost to Fix: $100 - $200+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Door lock actuators malfunction**
@@ -96,3 +122,15 @@ The Spirit was praised for its spacious interior, comfortable ride, and affordab
 **Summary**
 
 The 1993 Chrysler Spirit is a budget-friendly sedan with a spacious interior and a comfortable ride. However, it is plagued by several common issues, including engine and transmission problems, electrical failures, and suspension issues. The severity and cost of these issues can vary depending on the severity and specific components involved. Overall, the Spirit is not the most reliable vehicle from Chrysler, and owners should be prepared for potential repairs if they choose to own one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

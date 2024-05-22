@@ -90,6 +90,19 @@ Despite its impressive capabilities, the W3500 has been plagued by a number of i
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf spring failure**
@@ -120,6 +133,19 @@ Despite its impressive capabilities, the W3500 has been plagued by a number of i
     * Solution: Replace the alternator
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -155,3 +181,15 @@ Despite its impressive capabilities, the W3500 has been plagued by a number of i
 **Overall Summary**
 
 The 2008 Chevrolet W3500 Tiltmaster has a history of several notable issues, particularly with the engine and transmission. These issues can be expensive to repair, especially the cylinder head cracking and turbocharger failure. However, the W3500 remains a popular choice for heavy-duty towing and hauling due to its impressive capabilities.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -43,6 +43,19 @@ The 2020 Hyundai Santa Fe is a midsize crossover SUV that comes in a variety of 
     * Estimated Cost to Fix: $200 - $3,000+
     * Recalls: NHTSA Campaign Number 20V594000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure**
@@ -71,6 +84,19 @@ The 2020 Hyundai Santa Fe is a midsize crossover SUV that comes in a variety of 
     * Estimated Cost to Fix: $200 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Headlight Condensation**
@@ -90,3 +116,15 @@ The 2020 Hyundai Santa Fe is a midsize crossover SUV that comes in a variety of 
 **Summary**
 
 Overall, the 2020 Hyundai Santa Fe is a reliable vehicle, but like any car, it is not without some issues. Some of the reported issues can be minor annoyances, while others can be more serious and expensive to fix. It's important for potential buyers to be aware of these potential problems before purchasing a Santa Fe.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

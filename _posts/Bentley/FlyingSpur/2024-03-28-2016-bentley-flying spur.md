@@ -34,6 +34,19 @@ The 2016 Bentley Flying Spur is a luxurious sedan known for its exquisite crafts
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Compressor Failure**
@@ -60,6 +73,19 @@ The 2016 Bentley Flying Spur is a luxurious sedan known for its exquisite crafts
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Headlight Condensation**
@@ -84,3 +110,15 @@ The 2016 Bentley Flying Spur is a luxurious sedan known for its exquisite crafts
 **Summary**
 
 While the 2016 Bentley Flying Spur offers an exceptional driving experience, it has been reported to have some issues that can be costly to repair. The engine, transmission, and suspension systems have the most significant issues, with potential expenses reaching several thousand dollars. Electrical and interior problems, though less severe, can still add to the overall cost of ownership. In general, the severity and frequency of these issues may vary, so it's important to research and consider the potential maintenance and repair costs before purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

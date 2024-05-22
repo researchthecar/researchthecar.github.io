@@ -56,6 +56,19 @@ Owners appreciate the Explorer Sport's comfortable and versatile interior, capab
         * Estimated Cost to Fix: $2,000 - $4,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arm Bushing Failure:**
@@ -84,6 +97,19 @@ Owners appreciate the Explorer Sport's comfortable and versatile interior, capab
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Roof Rack Crossbars Loosening:**
@@ -109,3 +135,15 @@ Owners appreciate the Explorer Sport's comfortable and versatile interior, capab
 **Summary**
 
 The 2001 Ford Explorer Sport generally has a decent reliability record, but it is not without its issues. The most common problems are related to the engine (intake manifold gasket failures), transmission (torque converter shudder), and suspension (control arm bushing failures). While some repairs can be relatively inexpensive, more severe issues like timing chain or transmission problems can be costly. Owners should be aware of these potential problems and maintain their vehicles regularly to prevent or mitigate them.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

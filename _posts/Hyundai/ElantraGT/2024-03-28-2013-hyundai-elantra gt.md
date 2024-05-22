@@ -44,6 +44,19 @@ People who like the Elantra GT appreciate its sporty handling, comfortable inter
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -54,6 +67,19 @@ People who like the Elantra GT appreciate its sporty handling, comfortable inter
     * Solution: Diagnose and repair the specific electrical issue.
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -72,3 +98,15 @@ People who like the Elantra GT appreciate its sporty handling, comfortable inter
 **Summary**
 
 The 2013 Hyundai Elantra GT is a popular compact hatchback that offers a sporty and stylish driving experience. However, some people have reported issues with the vehicle's engine, transmission, and other components. The severity of these issues varies, but some can be expensive to repair. Overall, the Elantra GT is a reliable vehicle, but it is important to be aware of the potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

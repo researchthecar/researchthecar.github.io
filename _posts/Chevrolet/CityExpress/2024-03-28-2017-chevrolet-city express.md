@@ -33,6 +33,19 @@ Solution: Replace the transmission fluid and filter. In some cases, the transmis
 Estimated Cost to Fix: $200 - $4,000
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -44,6 +57,19 @@ Description/Symptoms: The battery drains prematurely, even when the vehicle is t
 Solution: Check for parasitic drains, such as a faulty alternator or ignition switch. Replace any faulty components.
 Estimated Cost to Fix: $100 - $1,000
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -64,3 +90,15 @@ Recalls: None Found
 **Summary**
 
 The 2017 Chevrolet City Express has received reports of a few issues, including coolant leaks, shift problems, battery drains, wind noise, and climate control malfunctions. The severity and cost of these issues vary, with some being minor and inexpensive to fix while others can be more serious and costly. Overall, the City Express is a reliable and affordable cargo van, but owners should be aware of potential issues and budget accordingly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

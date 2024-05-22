@@ -48,6 +48,19 @@ Owners tend to appreciate the Seville's spacious and comfortable interior, power
     * Solution: Replace torque converter
     * Estimated Cost to Fix: $1,500 - $2,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Compressor Failure**
@@ -66,6 +79,19 @@ Owners tend to appreciate the Seville's spacious and comfortable interior, power
     * Solution: Replace BCM
     * Estimated Cost to Fix: $500 - $1,000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Headlamp Housing Condensation**
@@ -83,3 +109,15 @@ Owners tend to appreciate the Seville's spacious and comfortable interior, power
 **Summary**
 
 The 2002 Cadillac Seville is a luxurious and powerful sedan, but it can suffer from some severe and expensive issues, particularly with the engine and transmission. The cost of repairs can vary significantly depending on the severity of the issue and the availability of used or aftermarket parts.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

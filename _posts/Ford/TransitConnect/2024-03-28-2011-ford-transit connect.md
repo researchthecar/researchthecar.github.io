@@ -32,6 +32,19 @@ The 2011 Ford Transit Connect is a compact commercial van that offers versatile 
         * Estimated Cost to Fix: $2,000-$5,000+
         * Recalls: 14V-530, 15V-047, 16V-380 (for vehicles built before August 19, 2016)
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **No Issues Found**
@@ -43,6 +56,19 @@ The 2011 Ford Transit Connect is a compact commercial van that offers versatile 
         * Solution: Replacement of alternator.
         * Estimated Cost to Fix: $300-$500+
         * Recalls: N/A
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior:**
 
@@ -68,3 +94,15 @@ The 2011 Ford Transit Connect is a compact commercial van that offers versatile 
 **Summary:**
 
 The 2011 Ford Transit Connect has encountered various mechanical and electrical issues that can impact its reliability and performance. While some issues are relatively minor and inexpensive to fix, others, such as transmission failure and engine leaks, can be costly to repair. It's important for potential buyers to be aware of these potential problems when considering purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

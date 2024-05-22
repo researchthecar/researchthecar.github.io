@@ -49,6 +49,19 @@ The 1993 Ford Thunderbird was a popular personal luxury coupe that was produced 
     * Estimated Cost to Fix: $300 - $600+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension noise**
@@ -74,6 +87,19 @@ The 1993 Ford Thunderbird was a popular personal luxury coupe that was produced 
     * Solution: Diagnose and repair electrical system (e.g. replace alternator, battery)
     * Estimated Cost to Fix: $200 - $600+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -104,3 +130,15 @@ The 1993 Ford Thunderbird was a popular personal luxury coupe that was produced 
 **Summary**
 
 The 1993 Ford Thunderbird is a popular classic car that offers style, comfort, and power. However, it is important to be aware of the potential issues that can arise with this vehicle, especially the engine and transmission problems. The severity and cost of these issues can vary widely, so it is important to have a qualified mechanic inspect the vehicle before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -41,6 +41,19 @@ The Scoupe was praised for its sporty handling and its affordable price. However
         * Estimated Cost to Fix: $1,000 - $2,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension**
@@ -68,6 +81,19 @@ The Scoupe was praised for its sporty handling and its affordable price. However
     * Solution: Replace the alternator
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -103,3 +129,15 @@ The Scoupe was praised for its sporty handling and its affordable price. However
 **Summary**
 
 The 1993 Hyundai Scoupe is a budget-friendly sports car that offers a fun driving experience. However, it is important to be aware of the potential issues that can affect this vehicle. The most common problems include blown head gaskets, timing belt failure, and synchro failure. These issues can be costly to repair, so it is important to factor in the potential costs when considering purchasing a Scoupe.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

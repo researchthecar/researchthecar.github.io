@@ -27,6 +27,19 @@ The 2016 BMW 428i xDrive Gran Coupe is a luxury four-door coupe with a stylish d
   * Estimated Cost to Fix: $2,000 - $5,000+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Clunks:** Noises from the front suspension, especially when going over bumps or uneven roads, caused by worn or damaged suspension components such as struts, springs, or control arms.
@@ -40,6 +53,19 @@ The 2016 BMW 428i xDrive Gran Coupe is a luxury four-door coupe with a stylish d
   * Solution: Diagnose and repair the electrical component responsible for the battery drain.
   * Estimated Cost to Fix: $200 - $500+
   * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -58,3 +84,15 @@ The 2016 BMW 428i xDrive Gran Coupe is a luxury four-door coupe with a stylish d
 **Summary**
 
 The 2016 BMW 428i xDrive Gran Coupe is a reliable and enjoyable vehicle, but it has some common issues that owners should be aware of. The severity and cost of the issues can vary, but most are relatively minor and can be repaired without major expense.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

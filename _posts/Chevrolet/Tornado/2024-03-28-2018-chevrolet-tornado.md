@@ -59,3 +59,15 @@ Cons:
 ### Summary
 
 The 2018 Chevrolet Tornado has several potential issues to be aware of, including engine oil leaks, timing chain failure, and transmission problems. While some of these issues can be costly to fix, others are relatively affordable. Overall, the Tornado is a reliable and economical choice, but it's important to be aware of these potential problems before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

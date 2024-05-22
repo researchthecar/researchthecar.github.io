@@ -60,6 +60,19 @@ The Veloster is praised for its sporty handling, stylish design, and well-equipp
     * Estimated Cost to Fix: $2000-$4000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Noise**
@@ -80,6 +93,19 @@ The Veloster is praised for its sporty handling, stylish design, and well-equipp
     * Solution: Test and replace battery or repair charging system
     * Estimated Cost to Fix: $100-$500
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -105,3 +131,15 @@ The Veloster is praised for its sporty handling, stylish design, and well-equipp
 **Summary**
 
 The 2016 Hyundai Veloster has some potential issues to watch out for, particularly with the engine, transmission, and electrical systems. The severity of these issues can vary, but some can be costly to repair. It is recommended to have the vehicle inspected by a mechanic before purchasing and to maintain it regularly to address potential problems early on.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

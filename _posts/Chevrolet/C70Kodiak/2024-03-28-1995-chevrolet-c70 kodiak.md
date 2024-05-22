@@ -28,6 +28,19 @@ The 1995 Chevrolet C70 Kodiak is a medium-duty commercial truck designed for a v
 * **Transmission Fluid Leaks:** Leaks can occur from various components within the transmission. Symptoms include low fluid levels, slipping gears, and difficulty shifting. Repair involves replacement of the leaking components and fluid top-off, with an estimated cost of $400 - $800+.
 * **Torque Converter Failure:** A failing torque converter may cause shuddering, slipping, and overheating. Replacement of the torque converter and fluid is often necessary, with an estimated cost of $1,200 - $2,000+.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf Spring Breakage:** The leaf springs may break or crack under heavy loads or excessive wear. Symptoms include uneven ride height, sagging, and reduced handling. Replacement of the leaf springs is required, with an estimated cost of $500 - $1,000+ per side.
@@ -37,6 +50,19 @@ The 1995 Chevrolet C70 Kodiak is a medium-duty commercial truck designed for a v
 
 * **Alternator Failure:** Alternator failure can lead to a loss of power and battery drain. Symptoms include dim headlights, warning lights, and starting issues. Replacement of the alternator is typically required, with an estimated cost of $500 - $1,000+.
 * **Starter Failure:** A failing starter may prevent the engine from starting. Symptoms include clicking noises, slow cranking, or complete failure to engage. Replacement of the starter is often necessary, with an estimated cost of $300 - $600+.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -55,3 +81,15 @@ The 1995 Chevrolet C70 Kodiak is a medium-duty commercial truck designed for a v
 **Summary**
 
 The 1995 Chevrolet C70 Kodiak is a capable medium-duty truck with a proven track record. However, like any vehicle, it is not immune to certain issues. Potential buyers should be aware of the common problems outlined above and factor in the associated repair costs when considering this truck. The severity of the issues and their estimated repair costs vary, but it is important to note that some repairs, such as transmission overhauls or engine replacements, can be costly. Regular maintenance and proper care can help mitigate the risk of major issues and extend the life of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

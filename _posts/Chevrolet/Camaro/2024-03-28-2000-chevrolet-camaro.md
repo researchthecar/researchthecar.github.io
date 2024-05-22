@@ -78,6 +78,19 @@ While the Camaro was praised for its performance, handling, and nostalgic stylin
     * Estimated Cost to Fix: $200 - $500+
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -100,6 +113,19 @@ While the Camaro was praised for its performance, handling, and nostalgic stylin
     * Solution: Replace the battery.
     * Estimated Cost to Fix: $100 - $300
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Roof Leaks:**
@@ -121,3 +147,15 @@ While the Camaro was praised for its performance, handling, and nostalgic stylin
 **Summary**
 
 The 2000 Chevrolet Camaro is a classic sports car with impressive performance but some known reliability issues. The most severe issues are with the V6 engine lifters and the manual transmission synchros, which can lead to costly repairs. However, many of the common issues are relatively inexpensive to fix, such as replacing the PCV valve or repairing a leaking roof. Overall, the Camaro is a rewarding car to own, but potential buyers should be aware of the potential maintenance costs before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -19,6 +19,19 @@ Reviewers praised the Attitude for its low price, fuel efficiency, and spacious 
 
 * **4-Speed Automatic**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -30,6 +43,19 @@ Reviewers praised the Attitude for its low price, fuel efficiency, and spacious 
     * Solution: Diagnose and replace faulty electrical components.
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -50,3 +76,15 @@ Reviewers praised the Attitude for its low price, fuel efficiency, and spacious 
 **Summary**
 
 The 2013 Dodge Attitude has several issues that can affect its reliability and quality. The electrical system is prone to malfunction, the door locks may fail, and the dashboard may rattle. The estimated cost to fix these issues can range from $100 to $500 or more, depending on the severity of the problem. Overall, these issues are not severe and can be relatively inexpensive to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

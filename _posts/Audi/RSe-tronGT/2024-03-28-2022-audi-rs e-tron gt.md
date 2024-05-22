@@ -26,6 +26,19 @@ The 2022 Audi RS e-tron GT is a high-performance electric vehicle with an impres
     * Estimated Cost to Fix: $200 - $800
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Headlight Condensation**
@@ -37,3 +50,15 @@ The 2022 Audi RS e-tron GT is a high-performance electric vehicle with an impres
 **Summary**
 
 Overall, the 2022 Audi RS e-tron GT has a few reported issues, primarily related to the interior and exterior components. While some issues are relatively minor, such as touchscreen lag, others can be more costly to repair, such as headlight condensation. It's important for potential buyers to be aware of these potential problems and factor the potential costs into their purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

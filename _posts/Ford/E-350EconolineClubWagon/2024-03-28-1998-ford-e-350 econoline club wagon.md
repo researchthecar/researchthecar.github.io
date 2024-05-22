@@ -62,6 +62,19 @@ The 1998 Ford E-350 Econoline Club Wagon is a full-size van available with a cho
         * Estimated Cost to Fix: $600 - $1,200+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf spring failure**
@@ -87,6 +100,19 @@ The 1998 Ford E-350 Econoline Club Wagon is a full-size van available with a cho
     * Solution: Replace starter
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -117,3 +143,15 @@ The 1998 Ford E-350 Econoline Club Wagon is a full-size van available with a cho
 **Summary**
 
 The 1998 Ford E-350 Econoline Club Wagon has a number of potential issues, including engine, transmission, suspension, electrical, exterior, and interior problems. The severity of these issues varies, and the cost of repairs can be significant in some cases. However, despite these issues, the E-350 remains a popular choice for those who need a spacious and versatile van.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -31,6 +31,19 @@ The 1990 Chevrolet Lumina is a mid-size sedan powered by a 3.1L V6 engine paired
   - Estimated Cost to Fix: $1,500 - $2,500+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Front Suspension Strut Mounts Deterioration**
@@ -52,6 +65,19 @@ The 1990 Chevrolet Lumina is a mid-size sedan powered by a 3.1L V6 engine paired
   - Solution: Diagnose and fix parasitic drain issues.
   - Estimated Cost to Fix: $100 - $500+
   - Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -78,3 +104,15 @@ The 1990 Chevrolet Lumina is a mid-size sedan powered by a 3.1L V6 engine paired
 **Summary:**
 
 Overall, the 1990 Chevrolet Lumina has a moderate amount of reliability concerns, particularly with its engine, transmission, and electrical system. Repairs can be costly, especially for major component failures like head gasket or transmission rebuilds. However, the vehicle offers a comfortable and spacious interior and a budget-friendly price point that may make it a suitable option for those on a limited budget.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

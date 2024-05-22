@@ -39,6 +39,19 @@ The 2002 Ford Thunderbird was reintroduced as a 2-door personal luxury coupe aft
     * Estimated Cost to Fix: $300 - $600+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushings Wear:**
@@ -65,6 +78,19 @@ The 2002 Ford Thunderbird was reintroduced as a 2-door personal luxury coupe aft
     * Estimated Cost to Fix: $500 - $800+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 No significant issues found.
@@ -85,3 +111,15 @@ No significant issues found.
 **Summary:**
 
 While the 2002 Ford Thunderbird offers a stylish and enjoyable driving experience, it is not without its share of issues. The engine and transmission problems can be costly to repair, and the electrical and suspension concerns can lead to annoying malfunctions. However, the interior and exterior issues are generally more minor and affordable to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

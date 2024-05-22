@@ -51,6 +51,19 @@ The 2009 Chevrolet Cobalt is a compact sedan and coupe known for its affordable 
   - Estimated Cost to Fix: $1,500 - $3,000+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Strut Mount Noise:**
@@ -76,6 +89,19 @@ The 2009 Chevrolet Cobalt is a compact sedan and coupe known for its affordable 
   - Solution: Replacement of alternator
   - Estimated Cost to Fix: $400 - $800
   - Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -106,3 +132,15 @@ The 2009 Chevrolet Cobalt is a compact sedan and coupe known for its affordable 
 **Summary**
 
 The 2009 Chevrolet Cobalt has a mixed bag of issues. Some problems, such as engine intake valve issues and transmission slipping, are relatively serious and can be costly to fix. However, many issues are minor and affordable to repair. Overall, the severity and cost of issues will vary depending on the specific problem encountered.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

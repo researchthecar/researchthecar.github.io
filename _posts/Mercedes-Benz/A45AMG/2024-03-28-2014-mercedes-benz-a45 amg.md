@@ -35,6 +35,19 @@ The 2014 Mercedes-Benz A45 AMG is a high-performance hatchback powered by a 2.0-
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Noise:** Rattling or clunking noises from the front suspension may be caused by worn-out bushings or ball joints. Symptoms include excessive noise over bumps.
@@ -64,6 +77,19 @@ The 2014 Mercedes-Benz A45 AMG is a high-performance hatchback powered by a 2.0-
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Headlight Condensation:** Condensation may form inside the headlights due to poor sealing. Symptoms include foggy headlights.
@@ -74,3 +100,15 @@ The 2014 Mercedes-Benz A45 AMG is a high-performance hatchback powered by a 2.0-
 **Summary:**
 
 The 2014 Mercedes-Benz A45 AMG is a high-performance vehicle with a powerful engine and responsive transmission, providing an exhilarating driving experience. However, owners have reported various issues, including engine misfires, turbocharger failures, and transmission problems. Additionally, electrical issues, interior creaks and rattles, and headlight condensation have been observed. The severity and cost of these issues can vary, but some can be quite expensive to repair. It is important for prospective buyers to be aware of these potential issues before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

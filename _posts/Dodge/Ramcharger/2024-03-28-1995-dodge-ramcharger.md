@@ -20,6 +20,19 @@ The 1995 Dodge Ramcharger is a full-size SUV that was available with two engine 
 **Transmission**
 * **4-speed automatic transmission:** The 4-speed automatic transmission can fail, causing a loss of power or shifting problems. Symptoms include slipping gears, a delayed shift, or no movement at all. The solution is to rebuild or replace the transmission. Estimated Cost to Fix: $1,000 - $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front suspension:** The front suspension can wear out, causing a loss of handling and stability. Symptoms include a clunking sound from the suspension, a decrease in ride quality, and uneven tire wear. The solution is to replace the worn components of the suspension. Estimated Cost to Fix: $500 - $1,000+
 * **Rear suspension:** The rear suspension can also wear out, causing similar symptoms to the front suspension. The solution is to replace the worn components of the suspension. Estimated Cost to Fix: $500 - $1,000+
@@ -27,6 +40,19 @@ The 1995 Dodge Ramcharger is a full-size SUV that was available with two engine 
 **Electrical**
 * **Alternator failure:** The alternator can fail, causing a loss of electrical power. Symptoms include a dimming of the lights, a decrease in the battery voltage, and eventually a complete loss of power. The solution is to replace the alternator. Estimated Cost to Fix: $300 - $500+
 * **Battery failure:** The battery can fail, causing a loss of electrical power. Symptoms include a slow or no start, a dimming of the lights, and a decrease in the battery voltage. The solution is to replace the battery. Estimated Cost to Fix: $100 - $200+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **Rust:** The Ramcharger is prone to rusting, especially in the body panels and undercarriage. Symptoms include visible rust on the body, peeling paint, and holes in the body. The solution is to repair the rust damage or replace the affected parts. Estimated Cost to Fix: Varies depending on the extent of the damage
@@ -38,3 +64,15 @@ The 1995 Dodge Ramcharger is a full-size SUV that was available with two engine 
 
 **Summary:**
 The 1995 Dodge Ramcharger is a capable SUV with a spacious interior and powerful engine. However, it is prone to some common issues that can be costly to repair. The most serious issues include engine failures and transmission failures, which can cost thousands of dollars to fix. Other issues, such as suspension wear and electrical problems, are less severe but can still be expensive to address. Overall, the Ramcharger is a reliable vehicle but it is important to be aware of the potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

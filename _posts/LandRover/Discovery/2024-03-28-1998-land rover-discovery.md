@@ -32,6 +32,19 @@ The 1998 Land Rover Discovery is a mid-size SUV known for its off-road capabilit
         * Estimated Cost to Fix: $2,000 - $4,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Struts**
@@ -60,6 +73,19 @@ The 1998 Land Rover Discovery is a mid-size SUV known for its off-road capabilit
     * Estimated Cost to Fix: $300 - $800+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust on Body Panels**
@@ -83,3 +109,15 @@ The 1998 Land Rover Discovery is a mid-size SUV known for its off-road capabilit
 **Summary**
 
 The 1998 Land Rover Discovery is a capable off-roader, but it has some common issues that can be expensive to fix. Engine and transmission problems are the most severe, with head gasket failure and transmission slippage being particularly costly. Suspension components also wear out prematurely, and electrical issues can be a nuisance. The interior is not as durable as the exterior, with cracked dashboards and failing climate control units being common problems. Overall, the 1998 Land Rover Discovery can be a reliable vehicle if it is properly maintained, but potential owners should be aware of its potential problems before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

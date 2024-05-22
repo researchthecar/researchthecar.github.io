@@ -35,6 +35,19 @@ The 2003 Chevrolet Vectra is a mid-size sedan available with various engine and 
     * Estimated Cost to Fix: $2,000 - $4,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure:**
@@ -57,6 +70,19 @@ The 2003 Chevrolet Vectra is a mid-size sedan available with various engine and 
     * Estimated Cost to Fix: $150 - $300+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Trunk Lid Rust:**
@@ -76,3 +102,15 @@ The 2003 Chevrolet Vectra is a mid-size sedan available with various engine and 
 **Summary**
 
 While the 2003 Chevrolet Vectra is a generally reliable vehicle, it has experienced some issues, including engine and transmission problems. The severity and cost of these issues can vary, but it is essential for owners to be aware of potential issues to ensure timely repairs and maintenance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

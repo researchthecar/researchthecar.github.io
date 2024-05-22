@@ -39,3 +39,15 @@ Owners of the 650i xDrive Gran Coupe generally praise its performance, handling,
 ### Electrical
 
 - **Alternator failure:** The alternator can fail, causing the battery to discharge and the vehicle to lose power. Symptoms include a dimming or flickering dashboard lights, a loss of power, and difficulty starting the engine. The solution is to
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

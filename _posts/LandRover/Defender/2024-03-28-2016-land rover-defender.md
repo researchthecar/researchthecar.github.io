@@ -39,6 +39,19 @@ The 2016 Land Rover Defender is a robust and capable off-road SUV powered by a t
     * Solution: Replace synchro(s)
     * Estimated Cost to Fix: $1,000 - $2,000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Front Control Arm Bushings Deterioration:**
@@ -60,6 +73,19 @@ The 2016 Land Rover Defender is a robust and capable off-road SUV powered by a t
     * Description/Symptoms: Electrical malfunctions, engine control issues
     * Solution: Replace body control module
     * Estimated Cost to Fix: $1,000 - $2,000
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior:**
 
@@ -86,3 +112,15 @@ The 2016 Land Rover Defender is a robust and capable off-road SUV powered by a t
 **Summary:**
 
 The 2016 Land Rover Defender is a rugged and capable SUV with a host of off-road features. However, it has its share of issues, particularly with the engine, transmission, and suspension. While not all issues are severe or expensive to fix, some can be costly and require professional repair. Overall, potential buyers should be aware of these potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

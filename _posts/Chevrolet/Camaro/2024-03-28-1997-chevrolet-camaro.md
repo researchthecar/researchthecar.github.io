@@ -53,6 +53,19 @@ People who like the 1997 Chevrolet Camaro praise its stylish design, powerful en
     * Estimated Cost to Fix: $800 - $1,200
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Failure:**
@@ -81,6 +94,19 @@ People who like the 1997 Chevrolet Camaro praise its stylish design, powerful en
     * Estimated Cost to Fix: Varies based on source
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **No Major Issues Found**
@@ -102,3 +128,15 @@ People who like the 1997 Chevrolet Camaro praise its stylish design, powerful en
 **Summary**
 
 The 1997 Chevrolet Camaro is a generally reliable vehicle. However, like any car, it does have some common issues that owners should be aware of. The most severe issues, such as the Vortec V8 piston ring failure, can be expensive to repair. However, most of the other issues are relatively minor and can be fixed for a reasonable cost. Overall, the 1997 Chevrolet Camaro is a good choice for drivers who are looking for a stylish and fun-to-drive sports car.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -47,6 +47,19 @@ The Captiva Sport has received mixed reviews from critics and consumers. Some pe
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure**
@@ -74,6 +87,19 @@ The Captiva Sport has received mixed reviews from critics and consumers. Some pe
     * Solution: Identify and repair the short circuit.
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -106,3 +132,15 @@ The Captiva Sport has received mixed reviews from critics and consumers. Some pe
 ## Summary
 
 The 2013 Chevrolet Captiva Sport has a number of potential issues, ranging from minor inconveniences to major mechanical failures. Engine oil consumption and transmission problems seem to be the most common issues, but there are also concerns with the suspension, electrical system, and interior. The severity and cost of these issues can vary significantly, but some of them can be quite expensive to repair. Overall, the Captiva Sport is a vehicle that has some potential problems, and it's important to be aware of these before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

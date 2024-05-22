@@ -49,6 +49,19 @@ People appreciate the Tucson's comfortable ride, user-friendly technology, and a
 * **Eight-Speed Automatic**
     * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Stiff Ride**
@@ -64,6 +77,19 @@ People appreciate the Tucson's comfortable ride, user-friendly technology, and a
   * Solution: Identifying and repairing electrical components responsible for the drain
   * Estimated Cost to Fix: $300 - $1,000
   * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -89,3 +115,15 @@ People appreciate the Tucson's comfortable ride, user-friendly technology, and a
 **Summary**
 
 The 2018 Hyundai Tucson is generally reliable, but several issues can be encountered. The severity and cost of these issues vary, but some, like excessive oil consumption, can be significant. Regular maintenance and addressing issues promptly are crucial to ensure the vehicle's longevity and drivability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

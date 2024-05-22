@@ -89,3 +89,15 @@ Some of the things that people like about the Sonata include its spacious interi
 ## Summary
 
 Overall, the 2022 Hyundai Sonata is a reliable and well-built vehicle. However, there are a few potential issues that owners should be aware of, including excessive oil consumption, timing chain noise, and turbocharger failure. The severity and cost of these issues vary, but most can be resolved with a relatively straightforward repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -36,6 +36,19 @@ Owners of the 2020 Mercedes-Benz A35 AMG generally praise its performance, handl
         * Estimated Cost to Fix: $2,500 - $4,000+
         * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -47,6 +60,19 @@ Owners of the 2020 Mercedes-Benz A35 AMG generally praise its performance, handl
         * Solution: Diagnosis and repair of the underlying electrical fault.
         * Estimated Cost to Fix: $200 - $1,000+
         * Recalls: N/A
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -67,3 +93,15 @@ Owners of the 2020 Mercedes-Benz A35 AMG generally praise its performance, handl
 **Summary**
 
 While the 2020 Mercedes-Benz A35 AMG offers impressive performance and features, some owners have reported encountering engine, transmission, and electrical issues. The severity and cost of these issues can vary, with engine and transmission repairs being particularly expensive.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

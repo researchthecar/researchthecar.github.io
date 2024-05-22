@@ -61,6 +61,19 @@ Solution: Replace the transmission or rebuild the existing one.
 Estimated Cost to Fix: $2,000 - $4,000+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Premature Strut/Shock Failure:** Some owners have reported premature failure of suspension struts or shocks, leading to poor ride quality and excessive noise.
@@ -76,6 +89,19 @@ Symptoms: Inoperative lights, engine stalls, instrument cluster issues.
 Solution: Diagnose and repair the affected electrical components or replace the wiring harness.
 Estimated Cost to Fix: $200 - $1,000+
 Recalls: 14V139000, 16V386000
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -102,3 +128,15 @@ Recalls: None Found
 **Summary**
 
 Overall, the 2011 Hyundai Sonata has some reported issues affecting its engine, transmission, and other components. While most issues are relatively minor and can be fixed at a reasonable cost, the potential for serious engine or transmission problems should be considered.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

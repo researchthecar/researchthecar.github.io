@@ -39,6 +39,19 @@ The 2001 Land Rover Discovery is a mid-size SUV known for its rugged off-road ca
         * Estimated Cost to Fix: $1,200 - $2,000
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front lower control arms failure**
@@ -61,6 +74,19 @@ The 2001 Land Rover Discovery is a mid-size SUV known for its rugged off-road ca
     * Solution: Replace alternator
     * Estimated Cost to Fix: $500 - $800
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Sunroof leaks**
@@ -82,3 +108,15 @@ The 2001 Land Rover Discovery is a mid-size SUV known for its rugged off-road ca
 **Summary**
 
 The 2001 Land Rover Discovery faces several issues ranging from minor inconveniences to potentially costly repairs. Engine problems, such as intake manifold gasket failures and head gasket failures, can be severe and expensive to fix. The suspension components can also wear out prematurely, leading to decreased handling and safety concerns. While interior issues are generally less serious, they can still be a nuisance to owners. Overall, the Discovery's reliability issues may outweigh its positive qualities for some potential buyers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

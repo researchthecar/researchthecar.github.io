@@ -41,6 +41,19 @@ The 2011 Ferrari California is a grand tourer that combines performance and styl
     * Estimated Cost to Fix: $5,000 - $8,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Suspension**
@@ -64,6 +77,19 @@ The 2011 Ferrari California is a grand tourer that combines performance and styl
     * Solution: Replace the headlight bulbs or assemblies.
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -90,3 +116,15 @@ The 2011 Ferrari California is a grand tourer that combines performance and styl
 **Summary**
 
 The 2011 Ferrari California is a performance-oriented grand tourer that offers a unique blend of power, style, and usability. However, it is not without its issues. The engine and transmission can experience serious and costly problems, while the suspension, electrical, and interior components also have their share of issues. The severity of these issues can vary from minor annoyances to major breakdowns, with repair costs ranging from a few hundred dollars to several thousand dollars or more. Overall, the 2011 Ferrari California requires careful consideration and a significant budget for potential repairs and maintenance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

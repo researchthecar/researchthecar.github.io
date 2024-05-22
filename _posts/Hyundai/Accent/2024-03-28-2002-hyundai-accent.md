@@ -33,6 +33,19 @@ The 2002 Hyundai Accent was a compact car available with a 1.5L SOHC or 1.6L DOH
 * **Transmission fluid leak:** Symptoms include low transmission fluid levels, slipping gears, and rough shifting. Solution: Repair leak and replace transmission fluid. Estimated Cost to Fix: $200 - $400+
 * **Solenoid failure:** Symptoms include erratic shifting, delayed shifting, or transmission slipping out of gear. Solution: Replace faulty solenoid. Estimated Cost to Fix: $300 - $600+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Strut mount failure:** Symptoms include clunking noises over bumps, vibrations in steering wheel, and uneven tire wear. Solution: Replace strut mount. Estimated Cost to Fix: $200 - $400+ per strut
@@ -42,6 +55,19 @@ The 2002 Hyundai Accent was a compact car available with a 1.5L SOHC or 1.6L DOH
 * **Power window failure:** Symptoms include inoperable windows or windows rolling down slowly. Solution: Replace window motor or switch. Estimated Cost to Fix: $100 - $300+ per window
 * **Electrical system drain:** Symptoms include difficulty starting, slow cranking, and dead battery. Solution: Identify and repair source of drain, such as faulty alternator or parasitic battery draw. Estimated Cost to Fix: Varies depending on source of drain
 * **Recalls:** NHTSA Campaign Number 02V354000 - Fuel leak due to faulty fuel line
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior:**
 
@@ -54,3 +80,15 @@ The 2002 Hyundai Accent was a compact car available with a 1.5L SOHC or 1.6L DOH
 **Summary:**
 
 The 2002 Hyundai Accent has a number of potential issues, primarily related to engine and transmission components. The severity and cost of these issues vary, but some can be significant. It is important to note that not all vehicles will experience these issues and that proper maintenance and timely repairs can help extend the life of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

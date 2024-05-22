@@ -29,6 +29,19 @@ The 2018 Aston Martin Rapide is a high-performance luxury sedan powered by a 6.0
         * Estimated Cost to Fix: $5,000 - $10,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 * **No Issues Found**
 
@@ -38,6 +51,19 @@ The 2018 Aston Martin Rapide is a high-performance luxury sedan powered by a 6.0
         * Solution: Battery replacement or alternator check.
         * Estimated Cost to Fix: $1,000 - $3,000+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior:**
 * **Windshield Wiper Motor Failure**
@@ -55,3 +81,15 @@ The 2018 Aston Martin Rapide is a high-performance luxury sedan powered by a 6.0
 
 **Summary:**
 The 2018 Aston Martin Rapide is a high-performance luxury car with a powerful engine and sleek design, but it does have some significant potential issues. The crankshaft and oil pump failures in the engine can lead to expensive repairs, while transmission slippage can affect the driving experience. Electrical issues and exterior problems such as wiper motor failure are less severe and costly. Overall, potential buyers should be prepared for the possibility of expensive repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

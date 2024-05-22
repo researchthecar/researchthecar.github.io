@@ -72,6 +72,19 @@ The 1996 Buick Commercial Chassis was a versatile workhorse designed for a varie
     * Estimated Cost to Fix: $1,000 - $1,500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Ball Joint Wear**
@@ -98,6 +111,19 @@ The 1996 Buick Commercial Chassis was a versatile workhorse designed for a varie
     * Estimated Cost to Fix: $200 - $350
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Door Handle Failure**
@@ -122,3 +148,15 @@ The 1996 Buick Commercial Chassis was a versatile workhorse designed for a varie
 **Summary**
 
 The 1996 Buick Commercial Chassis is a reliable workhorse with a few common issues that are relatively affordable to fix. The engine and transmission problems are the most severe and expensive, while the exterior and interior issues are less costly. Overall, the vehicle offers a good balance of performance and value for commercial applications.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

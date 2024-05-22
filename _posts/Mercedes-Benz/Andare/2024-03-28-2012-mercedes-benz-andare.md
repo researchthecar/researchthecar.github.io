@@ -29,6 +29,19 @@ The 2012 Mercedes-Benz Andare is a luxury sedan that offers a powerful engine an
       * Estimated Cost to Fix: $1,500 - $3,000
       * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -45,6 +58,19 @@ The 2012 Mercedes-Benz Andare is a luxury sedan that offers a powerful engine an
       * Solution: Replace headlight bulbs, wiring, or control module
       * Estimated Cost to Fix: $150 - $500
       * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -70,3 +96,15 @@ The 2012 Mercedes-Benz Andare is a luxury sedan that offers a powerful engine an
 **Summary**
 
 The 2012 Mercedes-Benz Andare is a reliable vehicle with a few common issues. While some issues, such as battery drain and headlight malfunctions, are relatively minor and inexpensive to fix, others, such as transmission slipping and navigation system malfunction, can be more costly and severe. Overall, the Andare offers a comfortable and luxurious driving experience with a powerful engine and well-appointed interior, but it is important to be aware of the potential issues before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

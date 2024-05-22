@@ -39,6 +39,19 @@ Despite its appealing design and comfortable interior, the Crosstour has receive
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mounts**
@@ -60,6 +73,19 @@ Despite its appealing design and comfortable interior, the Crosstour has receive
     * Solution: Check for loose connections or replace the tail light assembly
     * Estimated Cost to Fix: $100 - $300 per side
     * Recalls: Number: 13V-099 (2012-2016 Crosstour)
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -92,3 +118,15 @@ Despite its appealing design and comfortable interior, the Crosstour has receive
 **Summary**
 
 While the 2013 Honda Crosstour offers a unique blend of style and practicality, it has faced some reliability issues. The engine, transmission, and electrical systems have been particularly problematic, with issues such as carbon buildup, VCM problems, torque converter shudder, battery drain, and tail light malfunctions. Exterior concerns include fender rust and sunroof leaks, while interior issues involve dashboard squeaks and rattles, as well as navigation system problems. The severity and cost of these issues vary widely, so it's important for potential buyers to be aware of them before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

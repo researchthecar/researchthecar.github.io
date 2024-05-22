@@ -34,6 +34,19 @@ The 2017 Bentley Continental GT is a high-performance luxury grand tourer that c
     * Estimated Cost to Fix: $5,000 - $10,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Strut Failure:**
@@ -55,6 +68,19 @@ The 2017 Bentley Continental GT is a high-performance luxury grand tourer that c
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Windshield Wiper Failure:**
@@ -74,3 +100,15 @@ The 2017 Bentley Continental GT is a high-performance luxury grand tourer that c
 **Summary:**
 
 Overall, the 2017 Bentley Continental GT has received positive reviews for its performance and luxury features. However, it has also experienced several reliability issues that range from major engine failures to minor electrical problems. The cost of repairs can be substantial, impacting the overall ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

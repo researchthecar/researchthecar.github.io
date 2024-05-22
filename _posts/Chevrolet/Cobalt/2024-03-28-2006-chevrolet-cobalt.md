@@ -68,6 +68,19 @@ The 2006 Chevrolet Cobalt is a compact car that was produced for the 2005-2010 m
     * Estimated Cost to Fix: $1,000 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure:**
@@ -94,6 +107,19 @@ The 2006 Chevrolet Cobalt is a compact car that was produced for the 2005-2010 m
     * Estimated Cost to Fix: Varies depending on the cause
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Wheel Bearing Failure:**
@@ -113,3 +139,15 @@ The 2006 Chevrolet Cobalt is a compact car that was produced for the 2005-2010 m
 **Summary:**
 
 The 2006 Chevrolet Cobalt has a significant number of potential mechanical issues, particularly with its engine and transmission. The 2.2L and 2.4L Ecotec engines are prone to intake manifold gasket and timing chain failures, while the 2.0L LSJ turbocharged engine can suffer from turbocharger and intake valve seat cracking. The automatic transmission has a history of slipping issues, while the manual transmission can experience synchronizer failure. Other common issues include suspension and electrical problems. The cost to repair these issues can be substantial, ranging from hundreds to thousands of dollars. These issues can significantly impact the reliability and longevity of the vehicle, and potential buyers should be aware of them before purchasing a used Cobalt.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

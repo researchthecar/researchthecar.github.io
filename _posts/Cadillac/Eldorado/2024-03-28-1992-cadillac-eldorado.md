@@ -34,6 +34,19 @@ The 1992 Cadillac Eldorado is a full-size luxury coupe that offers a blend of pe
     * Estimated Cost to Fix: $1,800 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Bushing Wear:**
@@ -59,6 +72,19 @@ The 1992 Cadillac Eldorado is a full-size luxury coupe that offers a blend of pe
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $400 - $800+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -89,3 +115,15 @@ The 1992 Cadillac Eldorado is a full-size luxury coupe that offers a blend of pe
 **Summary:**
 
 The 1992 Cadillac Eldorado is known for its comfort and style, but it is not immune to potential issues. The engine and transmission can experience problems such as oil leaks and transmission slipping. The suspension, electrical, exterior, and interior components can also fail, leading to various issues. While some repairs are relatively inexpensive, others can be costly, especially transmission and climate control system repairs. It is important for owners to be aware of these potential issues and factor them into their decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

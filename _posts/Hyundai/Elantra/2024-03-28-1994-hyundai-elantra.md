@@ -53,6 +53,19 @@ The 1994 Hyundai Elantra was a popular compact sedan offered with a choice of tw
     * Estimated Cost to Fix: $1500 - $2000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:**
@@ -81,6 +94,19 @@ The 1994 Hyundai Elantra was a popular compact sedan offered with a choice of tw
     * Estimated Cost to Fix: $100 - $200
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust:**
@@ -105,3 +131,15 @@ The 1994 Hyundai Elantra was a popular compact sedan offered with a choice of tw
 **Summary:**
 
 The 1994 Hyundai Elantra is a reliable and affordable compact sedan. However, it is not without its issues. The engine and transmission are prone to failure, and the suspension, electrical, exterior, and interior can also experience problems. The severity of these issues varies, and the cost to fix them can be significant.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

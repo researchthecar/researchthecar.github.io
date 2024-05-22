@@ -53,6 +53,19 @@ People who liked the 1996 Chrysler Town & Country praised its spacious interior,
         * Estimated Cost to Fix: $200 - $300+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front struts leaking:** The front struts can leak oil, causing the vehicle to ride rough and handle poorly.
@@ -87,6 +100,19 @@ People who liked the 1996 Chrysler Town & Country praised its spacious interior,
     * Estimated Cost to Fix: $100 - $200+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Power window failure:** The power window motors or switches can fail, preventing the windows from rolling up or down.
@@ -120,3 +146,15 @@ People who liked the 1996 Chrysler Town & Country praised its spacious interior,
 **Summary**
 
 The 1996 Chrysler Town & Country is a generally reliable vehicle, but it can experience some common issues. The most severe issues include engine timing belt failure, intake manifold gasket failure, and transmission slipping. These issues can be expensive to repair, so it is important to factor in the potential costs when considering purchasing a used 1996 Chrysler Town & Country.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

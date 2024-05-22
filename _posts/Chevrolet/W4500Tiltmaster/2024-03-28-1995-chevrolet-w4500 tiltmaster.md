@@ -27,6 +27,19 @@ The 1995 Chevrolet W4500 Tiltmaster is a heavy-duty commercial truck offered wit
 
 * **Reverse Gear Failure:** The transmission may not engage in reverse gear, or it may slip out of gear while reversing. **Solution:** Replace reverse gear set. **Estimated Cost to Fix:** $1,000 - $2,000+ **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf Spring Breakage:** The heavy-duty leaf springs can crack or break under heavy loads. **Solution:** Replace leaf springs. **Estimated Cost to Fix:** $400 - $800+ **Recalls:** None Found
@@ -36,6 +49,19 @@ The 1995 Chevrolet W4500 Tiltmaster is a heavy-duty commercial truck offered wit
 
 * **Battery Problems:** The battery may discharge prematurely, fail to hold a charge, or cause electrical problems. **Solution:** Replace battery. **Estimated Cost to Fix:** $150 - $300+ **Recalls:** None Found
 * **Alternator Failure:** A malfunctioning alternator can lead to battery drain, dim headlights, and other electrical issues. **Solution:** Replace alternator. **Estimated Cost to Fix:** $500 - $700+ **Recalls:** None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -48,3 +74,15 @@ The 1995 Chevrolet W4500 Tiltmaster is a heavy-duty commercial truck offered wit
 **Summary:**
 
 The 1995 Chevrolet W4500 Tiltmaster is a durable and powerful truck, but it has been prone to a number of mechanical and electrical issues. The most common problems include injector failure, fuel pump failure, transmission shifting problems, and rust. The severity and cost of these issues can vary significantly, but they can be a major inconvenience and expense for owners.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

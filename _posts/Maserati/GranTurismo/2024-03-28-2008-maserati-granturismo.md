@@ -47,6 +47,19 @@ The 2008 Maserati GranTurismo is a high-performance luxury sports coupe known fo
   * Estimated Cost to Fix: $5,000 - $10,000+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Noises:** Some owners have reported experiencing noises from the front suspension, particularly when driving over bumps or rough roads.
@@ -70,6 +83,19 @@ The 2008 Maserati GranTurismo is a high-performance luxury sports coupe known fo
   * Solution: Resetting the electrical system or replacing faulty components.
   * Estimated Cost to Fix: $100 - $500+
   * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -103,3 +129,15 @@ The 2008 Maserati GranTurismo is a high-performance luxury sports coupe known fo
 **Summary**
 
 Overall, the Maserati GranTurismo is a highly desirable sports coupe with impressive performance and luxurious amenities. However, like any vehicle, it is not immune to certain issues. The most significant concerns reported by owners center around the engine (valve seat recession) and transmission (shift delays, shudder, failure). The suspension, electrical, exterior, and interior components have also exhibited some problems, but these are generally less severe and less costly to repair. While some owners may experience major issues, many others have reported reliable and enjoyable ownership experiences with this Italian sports car. The severity of the issues and the cost to fix them can vary depending on the specific problem and the year model of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

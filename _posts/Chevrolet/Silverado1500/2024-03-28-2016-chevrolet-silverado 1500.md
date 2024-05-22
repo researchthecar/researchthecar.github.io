@@ -48,6 +48,19 @@ The Silverado 1500 is known for its powerful engines, capable towing and payload
 * **8-Speed Automatic**
     * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf Spring Breakage**
@@ -63,6 +76,19 @@ The Silverado 1500 is known for its powerful engines, capable towing and payload
         * Solution: Replace the battery, locate and fix the source of the drain
         * Estimated Cost to Fix: $100 - $500+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -83,3 +109,15 @@ The Silverado 1500 is known for its powerful engines, capable towing and payload
 **Summary**
 
 The 2016 Chevrolet Silverado 1500 has had a number of issues reported, ranging from minor annoyances to major failures. Some of the most significant issues include lifter failure in the 4.3L V6, intake manifold gasket leaks in the 5.3L V8, and leaf spring breakage. While these issues can be costly to fix, it's important to note that not all Silverado 1500s will experience these problems. The severity and cost of the issues should be weighed against the vehicle's overall reliability and capabilities when making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

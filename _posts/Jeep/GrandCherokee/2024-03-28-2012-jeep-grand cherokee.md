@@ -61,6 +61,19 @@ The 2012 Jeep Grand Cherokee is a mid-size SUV that offers a range of engine and
     * Solution: Replace the torque converter
     * Estimated Cost to Fix: $1,200 - $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Axles Shaft Spline Wear**
@@ -82,6 +95,19 @@ The 2012 Jeep Grand Cherokee is a mid-size SUV that offers a range of engine and
     * Description/Symptoms: Dim headlights, difficulty starting the vehicle, battery warning light
     * Solution: Replace the alternator
     * Estimated Cost to Fix: $400 - $800+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -108,3 +134,15 @@ The 2012 Jeep Grand Cherokee is a mid-size SUV that offers a range of engine and
 **Summary**
 
 The 2012 Jeep Grand Cherokee has a range of issues that can vary depending on the engine and transmission options. The most common issues include engine ticking noise, intake manifold gasket leak, and transmission slipping. Some of these issues can be significant and costly to repair, so it is important to consider the reliability factor before purchasing this vehicle. It is also worth noting that the interior issues are typically minor and can be easily fixed. Overall, the 2012 Jeep Grand Cherokee offers decent off-road performance and a comfortable interior, but it is important to be aware of the potential issues it may have and factor in the cost of repairs when making a decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

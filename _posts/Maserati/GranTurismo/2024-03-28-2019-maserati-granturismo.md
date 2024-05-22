@@ -39,6 +39,19 @@ The 2019 Maserati GranTurismo is a grand touring coupe powered by a naturally-as
   * Estimated Cost to Fix: $2,500 - $3,500+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -56,6 +69,19 @@ The 2019 Maserati GranTurismo is a grand touring coupe powered by a naturally-as
   * Estimated Cost to Fix: $200 - $500+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **No Issues Found**
@@ -71,3 +97,15 @@ The 2019 Maserati GranTurismo is a grand touring coupe powered by a naturally-as
 **Summary**
 
 While the 2019 Maserati GranTurismo offers a thrilling driving experience, it does come with some potential reliability concerns. Engine issues such as leaking head gaskets and intake manifold failure can be costly to repair. Electrical problems like alternator failure and battery drain are also common. However, the cost of repairs varies widely depending on the nature of the issue. Overall, the GranTurismo is an expensive vehicle to own and maintain, so potential buyers should factor in the cost of potential repairs before making a decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

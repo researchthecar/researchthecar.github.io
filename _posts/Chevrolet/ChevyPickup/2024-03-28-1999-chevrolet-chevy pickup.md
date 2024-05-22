@@ -88,6 +88,19 @@ People like the Chevy Pickup for its spacious interior, powerful engines, and ru
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension wear and tear**
@@ -114,6 +127,19 @@ People like the Chevy Pickup for its spacious interior, powerful engines, and ru
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust on body panels**
@@ -138,3 +164,15 @@ People like the Chevy Pickup for its spacious interior, powerful engines, and ru
 **Summary**
 
 The 1999 Chevrolet Chevy Pickup is a generally reliable vehicle, but it has some common issues that can be expensive to fix. Engine problems, such as head gasket failure, can cost over $1,000 to repair. Transmission problems can also be costly, with rebuilds or replacements costing upwards of $1,500. Suspension and electrical issues are generally less severe and less expensive to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

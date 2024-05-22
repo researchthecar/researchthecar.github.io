@@ -69,6 +69,19 @@ Owners appreciated the vehicle's reliable performance, spacious cabin, and custo
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf Spring Failure:**
@@ -90,6 +103,19 @@ Owners appreciated the vehicle's reliable performance, spacious cabin, and custo
     * Estimated Cost to Fix: $200 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust:**
@@ -109,3 +135,15 @@ Owners appreciated the vehicle's reliable performance, spacious cabin, and custo
 **Summary**
 
 The 1992 Cadillac Commercial Chassis had some common issues, particularly with its engines and transmission. While most repairs were relatively affordable, some issues, such as head gasket failure or major transmission problems, could be costly. The severity of the issues varied, but owners generally reported that the vehicle was reliable and performed well for its intended purpose.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

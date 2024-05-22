@@ -84,6 +84,19 @@ Owners of the 2003 Malibu generally praise its spacious interior, comfortable ri
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure**
@@ -109,6 +122,19 @@ Owners of the 2003 Malibu generally praise its spacious interior, comfortable ri
     * Solution: Replace alternator
     * Estimated Cost to Fix: $300 - $600
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -139,3 +165,15 @@ Owners of the 2003 Malibu generally praise its spacious interior, comfortable ri
 **Summary**
 
 The 2003 Chevrolet Malibu has a number of potential issues, some of which can be severe and expensive to repair. The most common issues include intake manifold gasket failure, timing chain failure, transmission slipping, and suspension problems. However, it's important to note that not all Malibus will experience these issues, and the severity and cost of repairs will vary depending on the specific problem and the mileage of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

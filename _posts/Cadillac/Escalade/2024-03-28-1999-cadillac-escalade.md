@@ -43,6 +43,19 @@ The 1999 Cadillac Escalade is a full-size luxury SUV built on the GMT400 platfor
         * Estimated Cost to Fix: $1,200 - $1,800
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -59,6 +72,19 @@ The 1999 Cadillac Escalade is a full-size luxury SUV built on the GMT400 platfor
         * Solution: Diagnose and fix source of electrical drain (e.g., faulty module, parasitic draw)
         * Estimated Cost to Fix: Varies depending on the source of the drain
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -88,3 +114,15 @@ The 1999 Cadillac Escalade is a full-size luxury SUV built on the GMT400 platfor
 **Summary**
 
 The 1999 Cadillac Escalade faces a few common issues, including engine and transmission problems. Engine issues can range from relatively inexpensive repairs, such as intake manifold gasket failure, to more costly ones like head gasket failure. Transmission issues can also be expensive to fix, with repairs costing upwards of $2,500. Other issues, such as electrical gremlins and interior component malfunctions, are less severe and generally less costly to address. Overall, the Escalade's reliability is average, and owners should expect to encounter some repairs over the course of ownership.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

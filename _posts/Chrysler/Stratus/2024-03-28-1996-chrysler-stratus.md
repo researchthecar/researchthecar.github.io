@@ -32,6 +32,19 @@ The 1996 Chrysler Stratus is a midsize sedan that was available with a choice of
 * **Gear Slippage:** Description/Symptoms: Transmission slipping between gears, causing erratic shifting or loss of power. Solution: Rebuild or replace transmission. Estimated Cost to Fix: $1,500 - $2,500+
 * **Torque Converter Failure:** Description/Symptoms: Shuddering or vibration during acceleration. Solution: Replace torque converter. Estimated Cost to Fix: $1,000 - $1,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Struts Failure:** Description/Symptoms: Worn struts cause poor ride quality, tire wear, and clunking noises. Solution: Replace front struts. Estimated Cost to Fix: $600 - $800+
@@ -41,6 +54,19 @@ The 1996 Chrysler Stratus is a midsize sedan that was available with a choice of
 
 * **Alternator Failure:** Description/Symptoms: Battery not charging, causing dim lights, flickering electronics, and slow cranking. Solution: Replace alternator. Estimated Cost to Fix: $400 - $600+
 * **Starter Failure:** Description/Symptoms: Engine fails to start due to a faulty starter. Solution: Replace starter. Estimated Cost to Fix: $300 - $500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -54,3 +80,15 @@ The 1996 Chrysler Stratus is a midsize sedan that was available with a choice of
 **Summary:**
 
 The 1996 Chrysler Stratus is a midsize sedan that is generally praised for its spacious interior, comfortable ride, and affordable price. However, it has some common issues that can be expensive to repair, such as transmission failures and engine problems. Overall, the Stratus is a decent choice for those looking for a reliable and affordable sedan, but it is important to be aware of its potential issues before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -34,6 +34,19 @@ The 1991 Cadillac Brougham is a full-size luxury sedan that offers a comfortable
         * Estimated Cost to Fix: $2,000 - $3,000
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Sagging**
@@ -52,6 +65,19 @@ The 1991 Cadillac Brougham is a full-size luxury sedan that offers a comfortable
     * Description/Symptoms: Random electrical issues, such as dim or flickering lights, electrical component failures, or battery drain.
     * Solution: Diagnose and repair or replace faulty electrical components.
     * Estimated Cost to Fix: $200 - $800+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -75,3 +101,15 @@ The 1991 Cadillac Brougham is a full-size luxury sedan that offers a comfortable
 **Summary**
 
 The 1991 Cadillac Brougham has a few common issues, including engine stalling, transmission slipping, and electrical shorts. While some issues, such as electrical shorts, can be relatively inexpensive to fix, major mechanical issues like transmission failure or rear differential failure can be costly. The severity and cost of these issues should be considered when purchasing or maintaining this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

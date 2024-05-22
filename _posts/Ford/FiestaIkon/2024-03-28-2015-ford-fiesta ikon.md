@@ -45,6 +45,19 @@ The 2015 Ford Fiesta Ikon is a subcompact sedan known for its affordability, fue
     * Estimated Cost to Fix: $1,200 - $2,000+
     * Recalls: #14V661000, #15V565000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure:**
@@ -60,6 +73,19 @@ The 2015 Ford Fiesta Ikon is a subcompact sedan known for its affordability, fue
     * Solution: Diagnose and repair electrical components draining the battery
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -86,3 +112,15 @@ The 2015 Ford Fiesta Ikon is a subcompact sedan known for its affordability, fue
 **Summary**
 
 While the 2015 Ford Fiesta Ikon offers a balanced combination of performance, fuel efficiency, and affordability, it is not without some potential issues. The most significant issues reported by owners include transmission problems, turbocharger failure, and suspension issues. These issues can be costly to repair, but they are not universal, and many Fiestas are reliable and trouble-free. It is important to be aware of these potential issues before purchasing a used 2015 Fiesta Ikon and to have the vehicle thoroughly inspected by a qualified mechanic.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

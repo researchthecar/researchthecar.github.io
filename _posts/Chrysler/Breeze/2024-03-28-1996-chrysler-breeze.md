@@ -30,6 +30,19 @@ The 1996 Chrysler Breeze is a mid-size sedan that was offered with two engine op
 * **Hard Shifting:** The transmission can shift hard, causing a jerk when shifting gears. The solution is to have the transmission serviced or rebuilt. Estimated Cost to Fix: $200 - $400+
 * **No Reverse Gear:** The transmission may not engage reverse gear. The solution is to have the transmission rebuilt or replaced. Estimated Cost to Fix: $1,000 - $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure:** The struts can fail, causing the vehicle to ride rough and handle poorly. Symptoms include a clunking noise from the suspension, uneven tire wear, and a decrease in handling. The solution is to replace the struts. Estimated Cost to Fix: $400 - $800+ per axle
@@ -42,8 +55,33 @@ The 1996 Chrysler Breeze is a mid-size sedan that was offered with two engine op
 * **Battery Drain:** The battery can drain quickly, even when the vehicle is not in use. Symptoms include a dead battery after a short period of time and difficulty starting the vehicle. The solution is to have the electrical system inspected and repaired. Estimated Cost to Fix: $100 - $300+
 * **Wiring Harness Issues:** The wiring harness can develop issues, causing a variety of electrical problems. Symptoms can include flickering lights, inoperative gauges, and difficulty starting the vehicle. The solution is to repair or replace the wiring harness. Estimated Cost to Fix: $200 - $600+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Door Lock Actuator Failure:** The door lock actuators can fail, causing the doors to not lock or unlock properly. Symptoms include difficulty locking or unlocking the doors with the key or remote. The solution is to replace the door lock actuators. Estimated Cost to Fix: $100 - $200+ per door
 * **Power Window Motor Failure:** The power window motors can fail, causing the windows to not roll up or down properly. Symptoms include difficulty operating the windows with the switches, slow window movement, or windows that do not move at all. The solution is to replace the power window motors. Estimated Cost to Fix: $200 - $400+ per window
 * **Trunk Lid Release Failure:** The trunk lid release can fail, making it difficult or impossible to open the trunk. Symptoms include difficulty opening the trunk with the key or remote, or the trunk lid not opening at all. The solution is to replace the trunk lid release. Estimated Cost
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

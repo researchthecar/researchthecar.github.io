@@ -33,6 +33,19 @@ The 2012 Chevrolet Cruze is a compact sedan that offers a comfortable ride, a sp
 * **6-Speed Manual Transmission:** No issues found.
 * **6-Speed Automatic Transmission:** See Engine issues for transmission problems.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Struts Failure:** Front struts can fail, causing a clunking noise, reduced ride quality, and uneven tire wear. The solution is to replace the struts. Estimated Cost: $500 - $1,000
@@ -41,6 +54,19 @@ The 2012 Chevrolet Cruze is a compact sedan that offers a comfortable ride, a sp
 
 * **Battery Failure:** Batteries can fail prematurely, leading to starting problems and a dead battery. The solution is to replace the battery. Estimated Cost: $150 - $250
 * **BCM Failure:** The Body Control Module (BCM) can fail, causing various electrical problems, such as inoperative lights, locks, windows, and gauges. The solution is to replace the BCM. Estimated Cost: $400 - $800
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -54,3 +80,15 @@ The 2012 Chevrolet Cruze is a compact sedan that offers a comfortable ride, a sp
 **Summary**
 
 The 2012 Chevrolet Cruze has some common issues, particularly with its engine, transmission, and suspension. These issues can be costly to fix, but fortunately, there are several recalls in place to address some of these problems. Overall, the Cruze is a reliable vehicle, but potential buyers should be aware of these potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

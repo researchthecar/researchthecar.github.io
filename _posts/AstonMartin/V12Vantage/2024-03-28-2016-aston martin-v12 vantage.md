@@ -50,6 +50,19 @@ The 2016 Aston Martin V12 Vantage is a high-performance sports car powered by a 
     * Solution: Replace the solenoids
     * Estimated Cost to Fix: $1,000 - $2,000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Bushing Failure:**
@@ -67,6 +80,19 @@ The 2016 Aston Martin V12 Vantage is a high-performance sports car powered by a 
     * Description/Symptoms: Battery drains prematurely
     * Solution: Replace the battery or diagnose and repair the power drain
     * Estimated Cost to Fix: $200 - $600
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -86,3 +112,15 @@ The 2016 Aston Martin V12 Vantage is a high-performance sports car powered by a 
 **Summary**
 
 The 2016 Aston Martin V12 Vantage is a remarkable sports car with exceptional performance and exclusivity. However, certain issues can affect its reliability and performance, particularly with the engine and transmission. The severity and cost of these issues vary, with some requiring significant repair expenses. Potential buyers should be aware of these issues and consider them when considering the purchase and maintenance of a V12 Vantage.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -21,6 +21,19 @@ The 2013 Ford Fiesta Ikon is a subcompact car available with a 1.6-liter Ti-VCT 
 **5-speed Manual**
 - **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Rear suspension noise:** Excessive noise or vibrations from the rear suspension can be caused by worn shock absorbers or faulty suspension components.
@@ -33,6 +46,19 @@ The 2013 Ford Fiesta Ikon is a subcompact car available with a 1.6-liter Ti-VCT 
 - **Solution:** Diagnosis and repair of the electrical system, including replacement of the battery if necessary.
 - **Estimated Cost to Fix:** $150 - $400+
 - **Recalls:** 14S07 (Battery Malfunction), 15C16 (Electrical System)
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -51,3 +77,15 @@ The 2013 Ford Fiesta Ikon is a subcompact car available with a 1.6-liter Ti-VCT 
 **Summary:**
 
 The 2013 Ford Fiesta Ikon is prone to engine issues, electrical problems, and certain suspension and exterior issues. The severity and cost of repairs can vary, with some issues being more significant and expensive to resolve.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

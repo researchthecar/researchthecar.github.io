@@ -49,6 +49,19 @@ The 1993 Chevrolet W4500 Tiltmaster is a heavy-duty commercial vehicle designed 
     * Estimated Cost to Fix: $800 - $1,500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf Spring Failure**
@@ -85,6 +98,19 @@ The 1993 Chevrolet W4500 Tiltmaster is a heavy-duty commercial vehicle designed 
     * Estimated Cost to Fix: $100 - $200
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust**
@@ -114,3 +140,15 @@ The 1993 Chevrolet W4500 Tiltmaster is a heavy-duty commercial vehicle designed 
 **Summary**
 
 The 1993 Chevrolet W4500 Tiltmaster is a capable vehicle with a range of issues that it can experience. Engine problems are generally related to fuel injectors, EGR valves, and turbochargers. Transmission issues include slipping gears, cooler failure, and torque converter failure. Suspension problems include leaf spring failure, shock absorber failure, and ball joint failure. Electrical issues include alternator failure, starter failure, and battery failure. Exterior issues include rust and door hinge failure, while interior issues include dash cluster failure and HVAC system failure. The severity and cost of these issues can vary depending on the specific issue and the condition of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

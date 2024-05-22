@@ -56,6 +56,19 @@ The 2004 Chevrolet Chevy is a compact sedan that offers a comfortable ride and a
         * Estimated Cost to Fix: $800 - $1200
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -85,6 +98,19 @@ The 2004 Chevrolet Chevy is a compact sedan that offers a comfortable ride and a
     * Estimated Cost to Fix: $150 - $300
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Mirror Adjustment Failure:**
@@ -96,3 +122,15 @@ The 2004 Chevrolet Chevy is a compact sedan that offers a comfortable ride and a
 **Summary**
 
 The 2004 Chevrolet Chevy is a popular compact sedan with some reliability issues. The most common engine issues are intake manifold gasket failure and camshaft position sensor failure, while the most common transmission issues are clutch master cylinder failure and transmission fluid leaks. The suspension is generally reliable, but strut mount failure can occur. Electrical and interior issues are mostly minor and tend to be less frequent than engine and transmission problems. Overall, while the Chevy is a capable vehicle, the potential for these issues should be considered when making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

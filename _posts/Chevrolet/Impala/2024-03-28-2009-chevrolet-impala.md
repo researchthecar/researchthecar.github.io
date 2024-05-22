@@ -42,6 +42,19 @@ The 2009 Chevrolet Impala is a full-size sedan known for its spacious interior, 
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -67,6 +80,19 @@ The 2009 Chevrolet Impala is a full-size sedan known for its spacious interior, 
     * Solution: Replace alternator
     * Estimated Cost to Fix: $400 - $600+
     * Recalls: N/A
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -97,3 +123,15 @@ The 2009 Chevrolet Impala is a full-size sedan known for its spacious interior, 
 **Summary:**
 
 The 2009 Chevrolet Impala is generally a reliable vehicle, but it has some occasional issues. The most common engine and transmission problems are intake manifold gasket failure and harsh shifting, respectively. Suspension issues include strut mount and sway bar link failure. Electrical problems include battery drain and alternator failure. Exterior issues involve door handle failure and tail light leakage. Interior issues include seat heater malfunction and climate control failure. These issues can range in severity and cost, but most repairs are relatively affordable.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -54,6 +54,19 @@ The Express Pasajeros is praised for its spacious interior, comfortable ride, an
     * Estimated Cost to Fix: $1,000 - $1,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Ball Joint Wear**
@@ -79,6 +92,19 @@ The Express Pasajeros is praised for its spacious interior, comfortable ride, an
     * Solution: Replace starter
     * Estimated Cost to Fix: $300 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -109,3 +135,15 @@ The Express Pasajeros is praised for its spacious interior, comfortable ride, an
 **Summary**
 
 The 2011 Chevrolet Express Pasajeros has moderate severity issues with its suspension, electrical system, and exterior components. Costs to fix the issues typically range from $200 to $800+, with more severe issues costing up to $2,500+. The engine and transmission issues are relatively minor and can be fixed for under $1,000. Overall, the Express Pasajeros is a reliable van but can be expensive to maintain over time.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

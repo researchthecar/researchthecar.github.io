@@ -43,6 +43,19 @@ Solution: Replace the torque converter.
 Estimated Cost to Fix: $2,000 - $3,000+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Front Suspension Strut Failure:**
@@ -58,6 +71,19 @@ Description/Symptoms: The electrical system may malfunction, causing various ele
 Solution: Diagnose the electrical system and replace the faulty components.
 Estimated Cost to Fix: Varies depending on the faulty component
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior:**
 
@@ -78,3 +104,15 @@ Recalls: None Found
 **Summary:**
 
 While the 2021 Maserati Ghibli is a luxurious and powerful sports sedan, it has been reported to have several issues, particularly with the engine and transmission. The severity of these issues can vary, with some being relatively minor and others potentially catastrophic. The estimated cost to fix the identified issues can also be substantial, especially for engine and transmission repairs. It is important for potential buyers to be aware of these issues and consider the potential costs of repairs when making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

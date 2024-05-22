@@ -32,6 +32,19 @@ The 2011 Maserati GranTurismo is a high-performance sports car powered by a natu
         * Estimated Cost to Fix: $500 - $4000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arms:**
@@ -53,6 +66,19 @@ The 2011 Maserati GranTurismo is a high-performance sports car powered by a natu
     * Solution: Repair or replace the affected electrical harness.
     * Estimated Cost to Fix: $200 - $1000+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -78,3 +104,15 @@ The 2011 Maserati GranTurismo is a high-performance sports car powered by a natu
 **Summary:**
 
 The 2011 Maserati GranTurismo can be a rewarding car to own, but it has experienced a number of specific issues that can impact its reliability and owner satisfaction. The severity and cost of these issues can vary significantly, with some being relatively minor while others can require costly repairs. Owners should be aware of these potential issues and budget accordingly for maintenance and repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

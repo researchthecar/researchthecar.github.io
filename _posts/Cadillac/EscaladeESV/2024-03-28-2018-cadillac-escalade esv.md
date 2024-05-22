@@ -32,6 +32,19 @@ Despite its luxurious appointments, the 2018 Cadillac Escalade ESV has been plag
         * Estimated Cost to Fix: $500 - $2,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -48,6 +61,19 @@ Despite its luxurious appointments, the 2018 Cadillac Escalade ESV has been plag
         * Solution: Update the infotainment system software or replace the head unit.
         * Estimated Cost to Fix: $200 - $1,000+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -78,3 +104,15 @@ Despite its luxurious appointments, the 2018 Cadillac Escalade ESV has been plag
 **Summary**
 
 The 2018 Cadillac Escalade ESV is a luxurious and capable SUV, but it has been plagued by a number of issues. The severity of these issues varies, but some of them can be quite costly to fix. Potential buyers should be aware of these issues before purchasing an Escalade ESV.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

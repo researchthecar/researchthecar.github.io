@@ -49,6 +49,19 @@ The 1991 Ferrari Testarossa is a mid-engine, rear-wheel-drive sports car manufac
         * Estimated Cost to Fix: $2,500 - $4,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -60,6 +73,19 @@ The 1991 Ferrari Testarossa is a mid-engine, rear-wheel-drive sports car manufac
     * Solution: Replace battery or diagnose electrical system for parasitic drain
     * Estimated Cost to Fix: $100 - $300+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -86,3 +112,15 @@ The 1991 Ferrari Testarossa is a mid-engine, rear-wheel-drive sports car manufac
 **Summary**
 
 The 1991 Ferrari Testarossa is a classic Italian sports car with a powerful engine and distinctive styling. However, it does have some potential mechanical issues that can be expensive to fix. The most common problems are with the engine, including camshaft failure, head gasket failure, and timing belt failure. The electrical system can also experience battery drain issues. Interior issues such as climate control failure and electrical window failure are also not uncommon. Overall, the Testarossa is a demanding vehicle to own and maintain, with many of the issues costing over $1,000 to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

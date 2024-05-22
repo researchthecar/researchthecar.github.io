@@ -65,6 +65,19 @@ The 2002 Ford Explorer Sport Trac is a mid-size pickup truck that was introduced
       * Estimated Cost to Fix: $2,000-$4,000+
       * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension clunking**
@@ -91,6 +104,19 @@ The 2002 Ford Explorer Sport Trac is a mid-size pickup truck that was introduced
       * Estimated Cost to Fix: $500-$800+
       * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Door lock actuator failure**
@@ -115,3 +141,15 @@ The 2002 Ford Explorer Sport Trac is a mid-size pickup truck that was introduced
 **Summary:**
 
 The 2002 Ford Explorer Sport Trac is a reliable vehicle that offers versatility and power. However, it is susceptible to several common issues, particularly with its engine and transmission. The severity of these issues ranges from minor annoyances to major repairs. The cost of repairs can be significant, especially for issues such as cylinder head gasket failure and transmission failure. Owners should be aware of these potential problems and budget accordingly for maintenance and repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -45,6 +45,19 @@ The 1990 Chevrolet W4500 Tiltmaster is a heavy-duty commercial vehicle designed 
     * Solution: Adjusting shifter linkage
     * Estimated Cost to Fix: $100 - $200
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Worn Leaf Springs:**
@@ -67,6 +80,19 @@ The 1990 Chevrolet W4500 Tiltmaster is a heavy-duty commercial vehicle designed 
     * Solution: Repair or replacement of wiring harness
     * Estimated Cost to Fix: $200 - $500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior:**
 
 * **Rust Formation:**
@@ -88,3 +114,15 @@ The 1990 Chevrolet W4500 Tiltmaster is a heavy-duty commercial vehicle designed 
 **Summary:**
 
 The 1990 Chevrolet W4500 Tiltmaster is a generally reliable workhorse, but it is not without its issues. Common problems include fuel system leaks, transmission issues, suspension wear, electrical malfunctions, and rust formation. The severity and cost of repairs vary depending on the issue, but some can be costly, particularly if they involve major component replacements. It is important to maintain the vehicle properly and address any issues promptly to ensure its longevity and safety.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -35,6 +35,19 @@ The 2013 Chevrolet Suburban 1500 is a full-size SUV offered with a variety of en
         * Estimated Cost to Fix: $1,500 - $4,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front lower control arms:** Premature wear or failure of the front lower control arms can cause clunking noises, uneven tire wear, and impaired handling.
@@ -52,6 +65,19 @@ The 2013 Chevrolet Suburban 1500 is a full-size SUV offered with a variety of en
         * Solution: Replacement of the alternator.
         * Estimated Cost to Fix: $500 - $800+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -74,3 +100,15 @@ The 2013 Chevrolet Suburban 1500 is a full-size SUV offered with a variety of en
 **Summary**
 
 The 2013 Chevrolet Suburban 1500 has a range of potential issues that vary in severity and cost. While some problems are minor and relatively inexpensive to fix, others can be more serious and require extensive repairs. Overall, it is important to consider the potential maintenance costs and recalls associated with this vehicle before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

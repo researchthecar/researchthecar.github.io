@@ -55,6 +55,19 @@ The 2006 Hyundai Tiburon is a sporty coupe available with a choice of two engine
     * Estimated Cost to Fix: $2,000 - $4,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Noise:**
@@ -75,6 +88,19 @@ The 2006 Hyundai Tiburon is a sporty coupe available with a choice of two engine
     * Solution: Test and replace faulty electrical component causing the drain
     * Estimated Cost to Fix: $100 - $500
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -100,3 +126,15 @@ The 2006 Hyundai Tiburon is a sporty coupe available with a choice of two engine
 **Summary**
 
 Overall, the 2006 Hyundai Tiburon has relatively few significant issues, but some can be costly to repair. Engine issues on the 2.0L inline-four, such as intake valve sticking and oil consumption, can be problematic. The 2.7L V6 may face timing belt failures with potentially catastrophic consequences. In the transmission department, both the manual and automatic transmissions can have issues, including synchronizer ring wear and transmission slippage, respectively. Some electrical problems, like alternator failure and battery discharge, can also arise. In terms of the suspension, strut mount noise is a common occurrence. Minor exterior issues such as headlight condensation may not be a major concern for some owners. Interior issues, like dashboard cracking and seat fabric tearing, can be more of an aesthetic nuisance than a major problem.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -63,6 +63,19 @@ The 1995 Chrysler Sebring is a two-door coupe or four-door sedan that offers a s
     * Estimated Cost to Fix: $200 - $400
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Sagging Front End:** Worn front struts or springs can cause the front of the vehicle to sag and affect handling.
     * Solution: Replace struts or springs
@@ -82,6 +95,19 @@ The 1995 Chrysler Sebring is a two-door coupe or four-door sedan that offers a s
     * Solution: Diagnose and repair source of drain
     * Estimated Cost to Fix: $100 - $300
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **Door Lock Actuator Failure:** Faulty door lock actuators can prevent doors from locking or unlocking properly.
@@ -106,3 +132,15 @@ The 1995 Chrysler Sebring is a two-door coupe or four-door sedan that offers a s
 **Summary**
 
 The 1995 Chrysler Sebring offers various engine and transmission options but has several issues that affect different components. Engine issues such as oil consumption and timing belt failure can be costly to repair. Transmission problems, including slipping gears and shifting issues, can also be expensive. Suspension components like struts and axle seals can wear out, leading to safety and handling concerns. Electrical shorts and battery drain can also be problematic. While the Sebring offers a comfortable and stylish ride, potential buyers should be aware of the various issues that may require attention.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

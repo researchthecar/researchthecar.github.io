@@ -25,6 +25,19 @@ Despite its high-end reputation, the 2019 Land Rover Range Rover has experienced
    * Estimated Cost to Fix: $1,500 - $2,500+
    * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension: Compressor Failure**
@@ -46,6 +59,19 @@ Despite its high-end reputation, the 2019 Land Rover Range Rover has experienced
    * Estimated Cost to Fix: N/A
    * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Headlights: Condensation**
@@ -65,3 +91,15 @@ Despite its high-end reputation, the 2019 Land Rover Range Rover has experienced
 **Summary**
 
 The 2019 Land Rover Range Rover is a luxurious and capable SUV, but it has experienced a number of issues, including EGR cooler failure, torque converter shudder, air suspension compressor failure, software bugs, headlight condensation, and AC compressor failure. While some of these issues are relatively minor, others can be expensive to fix, so it is important to be aware of them before purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

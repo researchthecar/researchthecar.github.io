@@ -37,6 +37,19 @@ The 7.4L V8 engine produces 230 horsepower and 350 lb-ft of torque. It is paired
         * Estimated Cost to Fix: $1,500 - $3,500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -48,6 +61,19 @@ The 7.4L V8 engine produces 230 horsepower and 350 lb-ft of torque. It is paired
         * Solution: Replace battery
         * Estimated Cost to Fix: $100 - $200+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -73,3 +99,15 @@ The 7.4L V8 engine produces 230 horsepower and 350 lb-ft of torque. It is paired
 **Summary**
 
 The 1991 Chevrolet Commercial Chassis is a generally reliable work truck. However, it is not without its issues. The most common problems are with the engine, transmission, and electrical system. The severity and cost of these issues can vary depending on the specific part that is failing. Overall, the 1991 Chevrolet Commercial Chassis is a good choice for those who need a heavy-duty work truck, but it is important to be aware of the potential issues before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

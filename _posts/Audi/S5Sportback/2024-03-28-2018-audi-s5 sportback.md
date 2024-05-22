@@ -35,6 +35,19 @@ The 2018 Audi S5 Sportback is a high-performance luxury hatchback powered by a 3
 * Estimated Cost to Fix: $400 - $600+
 * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Adaptive Damping System Malfunction**
@@ -50,6 +63,19 @@ The 2018 Audi S5 Sportback is a high-performance luxury hatchback powered by a 3
 * Solution: Diagnosis and repair of the electrical system to identify the source of the drain.
 * Estimated Cost to Fix: $200 - $500+
 * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -70,3 +96,15 @@ The 2018 Audi S5 Sportback is a high-performance luxury hatchback powered by a 3
 **Summary**
 
 Overall, the 2018 Audi S5 Sportback is a reliable vehicle with a strong engine, responsive transmission, and impressive handling. However, it has been reported to have certain issues with carbon buildup on the intake valves, leaking timing chain covers, shift solenoid failures, and adaptive damping system malfunctions. The severity and cost of these issues vary, but it is important to be aware of potential problems and address them promptly to ensure a safe and enjoyable driving experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

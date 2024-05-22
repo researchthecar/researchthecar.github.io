@@ -36,6 +36,19 @@ The Lamborghini Diablo is a legendary supercar produced from 1990 to 2001. It wa
 **6-Speed Manual**
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** The struts can fail, causing a loss of suspension control and handling issues.
@@ -58,6 +71,19 @@ The Lamborghini Diablo is a legendary supercar produced from 1990 to 2001. It wa
   * Estimated Cost to Fix: $200 - $800+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **No Issues Found**
@@ -78,3 +104,15 @@ The Lamborghini Diablo is a legendary supercar produced from 1990 to 2001. It wa
 The Lamborghini Diablo is a thrilling supercar with iconic styling and raw performance. However, it is not without its issues. Engine problems, such as ignition coil failure and oil leaks, are common. Transmission issues, like synchronizer failure, can also be costly to fix. Additionally, suspension and electrical problems are not uncommon.
 
 The cost of repairs for the Diablo can vary widely, but expect to pay a premium for parts and labor. If you are considering purchasing a Diablo, be prepared for potential maintenance and repair expenses that come with owning a high-performance vehicle of this age.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

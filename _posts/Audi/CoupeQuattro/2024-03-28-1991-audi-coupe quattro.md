@@ -23,6 +23,19 @@ The 1991 Audi Coupe Quattro is a high-performance sports car powered by a turboc
 
     * **Clutch Slipping:** The clutch may slip under load, resulting in difficulty shifting gears or low power transmission. Replace the clutch. $500 - $1000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Lower Control Arm Bushings:** Premature wear of the lower control arm bushings can cause excessive vibration, poor handling, and misalignment. Replace the bushings. $400 - $700
@@ -32,6 +45,19 @@ The 1991 Audi Coupe Quattro is a high-performance sports car powered by a turboc
 
 * **Alternator Failure:** The alternator may fail, causing the battery to discharge and the vehicle to lose power. Replace the alternator. $500 - $800
 * **Battery Drain:** The battery may drain prematurely due to a faulty component, such as a parasitic draw or a failing starter. Diagnose and repair the electrical fault. $150 - $500
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -46,3 +72,15 @@ The 1991 Audi Coupe Quattro is a high-performance sports car powered by a turboc
 **Summary**
 
 The 1991 Audi Coupe Quattro is a performance-oriented vehicle with potential reliability issues. Issues can range from minor electrical concerns to major engine and transmission failures, and repair costs can be significant. While enthusiast owners may appreciate its engaging driving dynamics, potential buyers should be aware of the potential maintenance and repair costs associated with this high-performance sports car.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

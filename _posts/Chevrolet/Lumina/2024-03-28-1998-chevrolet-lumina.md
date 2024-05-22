@@ -49,6 +49,19 @@ The 1998 Chevrolet Lumina is a mid-size sedan offered with two engine options: a
     * Estimated Cost to Fix: $250 - $500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Failure:**
@@ -77,6 +90,19 @@ The 1998 Chevrolet Lumina is a mid-size sedan offered with two engine options: a
     * Estimated Cost to Fix: $50 - $100
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Headlight Lens Clouding:**
@@ -102,3 +128,15 @@ The 1998 Chevrolet Lumina is a mid-size sedan offered with two engine options: a
 **Summary:**
 
 The 1998 Chevrolet Lumina has several potential issues to consider, particularly with the engine, transmission, and suspension. While some issues are minor and inexpensive to fix, others can be more costly and affect the vehicle's reliability. Overall, the severity and cost of the issues can vary depending on the specific components affected.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

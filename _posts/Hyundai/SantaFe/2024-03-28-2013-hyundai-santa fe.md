@@ -38,6 +38,19 @@ Owners praise the Santa Fe for its comfortable interior, spacious cargo area, an
 
 * **Gear Grinding or Difficulty Shifting:** Can indicate worn synchronizers or other transmission components. May require transmission rebuild or replacement. **$1,500 - $3,000+**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arm Bushing Wear:** Can cause clunking or knocking noises over bumps. Requires replacement of control arm bushings. **$100 - $200**
@@ -47,6 +60,19 @@ Owners praise the Santa Fe for its comfortable interior, spacious cargo area, an
 
 * **Headlight Switch Failure:** Can cause headlights to flicker or turn off. Requires replacement of headlight switch. **$100 - $200**
 * **Battery Discharge:** Excessive battery drain can occur due to a malfunctioning electrical component. Requires diagnosis and repair of the faulty part. **$100 - $500+**
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -60,3 +86,15 @@ Owners praise the Santa Fe for its comfortable interior, spacious cargo area, an
 **Summary**
 
 The 2013 Hyundai Santa Fe has a mixed record of reliability. Engine and transmission issues can be serious and costly to repair. Electrical and interior problems are less severe but still inconvenient.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

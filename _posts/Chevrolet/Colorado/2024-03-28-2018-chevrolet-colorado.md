@@ -45,6 +45,19 @@ The 2018 Chevrolet Colorado is a mid-size pickup truck available with various en
         * Estimated Cost to Fix: $600 - $800+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Arms**
@@ -66,6 +79,19 @@ The 2018 Chevrolet Colorado is a mid-size pickup truck available with various en
     * Solution: Identify and repair the source of the electrical drain.
     * Estimated Cost to Fix: Varies widely depending on the source of the drain.
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -91,3 +117,15 @@ The 2018 Chevrolet Colorado is a mid-size pickup truck available with various en
 **Summary**
 
 The 2018 Chevrolet Colorado has received some complaints about engine, transmission, suspension, and electrical issues. However, the severity and cost of these issues vary, and many owners have not experienced major problems. Overall, the Colorado is a reliable and capable pickup truck that offers a good balance of power, capability, and comfort.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

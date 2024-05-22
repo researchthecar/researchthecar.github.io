@@ -44,6 +44,19 @@ The 1996 Mazda Millenia was a luxury sedan offered with a 2.3L V6 engine and a 4
         * Estimated Cost to Fix: $1000 - $1500
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -60,6 +73,19 @@ The 1996 Mazda Millenia was a luxury sedan offered with a 2.3L V6 engine and a 4
     * Solution: Identify and repair electrical drain.
     * Estimated Cost to Fix: Varies depending on the source of the drain.
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -80,3 +106,15 @@ The 1996 Mazda Millenia was a luxury sedan offered with a 2.3L V6 engine and a 4
 **Summary:**
 
 The 1996 Mazda Millenia had a number of common issues, particularly with the engine, transmission, and electrical systems. The severity of these issues ranged from minor inconveniences to potentially catastrophic failures. While the Millenia offered some attractive features, the cost of repairs could be significant in some cases.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

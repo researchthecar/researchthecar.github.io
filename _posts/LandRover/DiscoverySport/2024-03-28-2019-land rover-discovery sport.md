@@ -38,6 +38,19 @@ People love the Discovery Sport for its spacious interior, comfortable ride, and
         * Estimated Cost to Fix: $500 - $2,000
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Bushing Wear**
@@ -53,6 +66,19 @@ People love the Discovery Sport for its spacious interior, comfortable ride, and
     * Solution: Replace the battery or check for electrical system issues.
     * Estimated Cost to Fix: $200 - $500
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -73,3 +99,15 @@ People love the Discovery Sport for its spacious interior, comfortable ride, and
 **Summary**
 
 The 2019 Land Rover Discovery Sport is a capable and luxurious vehicle, but it has received some reports of reliability issues, particularly with its engine, transmission, and electrical system. The severity and cost of these issues can vary depending on the specific problem. Owners should be aware of these potential issues and maintain their vehicles regularly to minimize the risk of costly repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

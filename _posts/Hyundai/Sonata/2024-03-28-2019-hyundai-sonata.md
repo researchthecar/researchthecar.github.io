@@ -55,6 +55,19 @@ The 2019 Hyundai Sonata is a midsize sedan powered by a standard 2.5-liter inlin
     * Estimated Cost to Fix: $2,000 - $3,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Shock Absorber Mount Failure:**
@@ -92,3 +105,15 @@ The 2019 Hyundai Sonata is a midsize sedan powered by a standard 2.5-liter inlin
 **Summary**
 
 The 2019 Hyundai Sonata has some common issues that can affect its reliability and performance. While some issues are relatively minor and inexpensive to fix, others can be more serious and costly. However, it's important to note that not all Sonatas will experience these problems, and the vehicle has generally received positive reviews from owners and critics alike.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

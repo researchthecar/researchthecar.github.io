@@ -39,6 +39,19 @@ The 1996 Chevrolet W7500 Tiltmaster is a heavy-duty commercial truck known for i
         * Estimated Cost to Fix: $1,000 - $1,500
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf Spring Failure**
@@ -54,6 +67,19 @@ The 1996 Chevrolet W7500 Tiltmaster is a heavy-duty commercial truck known for i
     * Solution: Check for parasitic drains, replace battery if necessary
     * Estimated Cost to Fix: $100 - $200+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -74,3 +100,15 @@ The 1996 Chevrolet W7500 Tiltmaster is a heavy-duty commercial truck known for i
 **Summary:**
 
 The 1996 Chevrolet W7500 Tiltmaster has several reported issues, but most are relatively minor and inexpensive to fix. The most significant issues to be aware of are the intake manifold gasket failure on the 7.4L gasoline engine and the torque converter clutch failure on the Allison 5-speed automatic transmission. Regular maintenance and timely repairs can help extend the life of the vehicle and minimize the likelihood of major problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

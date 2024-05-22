@@ -44,6 +44,19 @@ People like the W5500 for its towing and payload capacity, as well as its durabi
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf Spring Breakage:**
@@ -70,6 +83,19 @@ People like the W5500 for its towing and payload capacity, as well as its durabi
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust:**
@@ -89,3 +115,15 @@ People like the W5500 for its towing and payload capacity, as well as its durabi
 **Summary:**
 
 The 1990 Chevrolet W5500 Tiltmaster is a durable and capable commercial truck, but it has some potential issues that can be costly to fix. The most serious issues are with the engine head gaskets, transmission, and suspension. The cost to fix these issues can range from $1,000 to $3,000 or more. It is important to have the vehicle inspected by a qualified mechanic before purchasing it to determine if it has any of these issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

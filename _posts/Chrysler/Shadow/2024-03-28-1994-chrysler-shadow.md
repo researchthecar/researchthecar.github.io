@@ -46,6 +46,19 @@ The 1994 Chrysler Shadow is a compact sedan known for its stylish design and com
         * Estimated Cost to Fix: $1,500 - $3,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure:**
@@ -71,6 +84,19 @@ The 1994 Chrysler Shadow is a compact sedan known for its stylish design and com
     * Solution: Replace switches or motors.
     * Estimated Cost to Fix: $100 - $300 per window
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -103,3 +129,15 @@ The 1994 Chrysler Shadow is a compact sedan known for its stylish design and com
 The 1994 Chrysler Shadow has a number of serious issues that can impact its reliability and safety. Engine problems, such as head gasket and timing belt failures, are particularly concerning and can lead to costly repairs or even catastrophic engine failure. The transmission can also be problematic, with slippage being a common issue. Suspension components, like struts and sway bar links, are prone to wear and failure. Electrical issues, including alternator and power window failures, can also be frustrating and inconvenient.
 
 While the Shadow has some positive attributes, such as its affordability and stylish design, the severity and cost of its issues make it a less than desirable choice for many consumers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

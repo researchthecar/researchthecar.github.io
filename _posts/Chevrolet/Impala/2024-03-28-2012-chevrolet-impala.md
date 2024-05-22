@@ -72,3 +72,15 @@ The Impala is known for its spacious interior, comfortable ride, and powerful en
 ### Summary
 
 The 2012 Chevrolet Impala has been plagued with a number of issues that affect various components of the vehicle. While some issues are relatively minor and inexpensive to fix, others can be more severe and require significant repairs. Overall, these issues have led to decreased owner satisfaction and a lower reliability rating for the Impala.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

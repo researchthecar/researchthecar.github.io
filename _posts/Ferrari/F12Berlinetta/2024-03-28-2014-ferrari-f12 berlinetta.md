@@ -36,6 +36,19 @@ The 2014 Ferrari F12 Berlinetta is a high-performance sports car powered by a 6.
     * Estimated Cost to Fix: $800 - $1,500+
     * Recalls: #15V523000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Rear Shock Absorber Failure:**
     * Description/Symptoms: Excessive bouncing, reduced handling
@@ -54,6 +67,19 @@ The 2014 Ferrari F12 Berlinetta is a high-performance sports car powered by a 6.
     * Solution: Replace starter motor
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **Windshield Washer Pump Failure:**
@@ -81,3 +107,15 @@ The 2014 Ferrari F12 Berlinetta is a high-performance sports car powered by a 6.
 
 **Summary:**
 The 2014 Ferrari F12 Berlinetta is a high-performance sports car with a reputation for exceptional performance and driving dynamics. However, it has experienced some issues that can be costly to repair. Engine and transmission problems are relatively common, and suspension and electrical issues have also been reported. Interior issues are generally less severe, but can still be expensive to fix. Overall, the cost of repairs can range from hundreds of dollars for minor issues to several thousand dollars for major problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

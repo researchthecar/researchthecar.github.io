@@ -35,6 +35,19 @@ The 1990 Cadillac DeVille is a full-size luxury sedan known for its spacious int
 * Estimated Cost to Fix: $1,000 - $2,500+
 * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Strut Mount Failure**
@@ -50,6 +63,19 @@ The 1990 Cadillac DeVille is a full-size luxury sedan known for its spacious int
 * Solution: Replace starter motor
 * Estimated Cost to Fix: $300 - $500+
 * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -70,3 +96,15 @@ The 1990 Cadillac DeVille is a full-size luxury sedan known for its spacious int
 **Summary:**
 
 The 1990 Cadillac DeVille is a comfortable and luxurious vehicle but has some common issues that can be costly to fix. The 4.5L engine is prone to intake manifold gasket failure, while the 4.9L engine may experience valve stem seal wear. The transmission may slip, while the suspension can suffer from strut mount failure. Electrical problems include starter motor issues, and the exterior door locks may malfunction. Interior climate control systems may also require repairs. Overall, the severity and cost of repairs can vary depending on the specific issue and the age and condition of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

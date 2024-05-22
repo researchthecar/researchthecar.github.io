@@ -37,6 +37,19 @@ Solution: Repair or replace faulty transmission components.
 Estimated Cost to Fix: $2,500 - $5,000+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -48,6 +61,19 @@ Description/Symptoms: Battery depletes quickly when parked, even with all access
 Solution: Identify and repair electrical circuit causing the drain.
 Estimated Cost to Fix: $200 - $500+
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -74,3 +100,15 @@ Recalls: None Found
 **Summary:**
 
 While the 2022 Aston Martin DBS offers impressive performance and luxury, it has experienced a fair share of issues in several key areas. The engine problems, such as turbocharger failure and fuel injector malfunctions, can be costly to repair. Transmission slippage in the 8-speed automatic is another notable issue. Electrical battery drain and interior climate control malfunctions can also be frustrating for owners. While some issues are minor, others can impact the vehicle's performance and safety.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

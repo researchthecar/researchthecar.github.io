@@ -43,6 +43,19 @@ tags: ["Alfa Romeo", "Giulietta", "2017"]
     * Recalls: None Found
 * **No Other Transmission Options**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
   * **No Issues Found**
@@ -61,6 +74,19 @@ tags: ["Alfa Romeo", "Giulietta", "2017"]
     * Estimated Cost to Fix: Varies depending on the issue
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
   * **No Issues Found**
@@ -76,3 +102,15 @@ tags: ["Alfa Romeo", "Giulietta", "2017"]
 **Summary**
 
 The 2017 Alfa Romeo Giulietta is a stylish and fun-to-drive hatchback, but it does come with some potential issues. The most common problems owners have experienced include oil leaks, turbocharger failures, shifting issues, electrical gremlins, and dashboard squeaks and rattles. While these issues can be inconvenient and expensive to fix, they do not seem to be widespread or severe enough to warrant a widespread recall. Overall, the Alfa Romeo Giulietta is a solid choice for drivers who value performance and style.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

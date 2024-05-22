@@ -49,6 +49,19 @@ The Grand Caravan is praised for its roomy cabin, comfortable seats, and user-fr
         * Estimated Cost to Fix: $600 - $900+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Assembly Failure:**
@@ -74,6 +87,19 @@ The Grand Caravan is praised for its roomy cabin, comfortable seats, and user-fr
     * Solution: Replace the alternator
     * Estimated Cost to Fix: $500 - $800+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -104,3 +130,15 @@ The Grand Caravan is praised for its roomy cabin, comfortable seats, and user-fr
 **Summary**
 
 The 2014 Dodge Grand Caravan has a range of issues that can affect its engine, transmission, suspension, electrical, exterior, and interior components. Some common problems include intake manifold gasket failure, timing chain tensioner failure, torque converter shudder, front strut assembly failure, and battery drain. The severity of these issues varies, with some being relatively minor and inexpensive to fix, while others can be more costly and time-consuming to repair. Overall, the reliability of the 2014 Grand Caravan is average, with some common issues to be aware of before purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

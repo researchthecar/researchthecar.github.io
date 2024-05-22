@@ -27,6 +27,19 @@ Owners of the 2014 Maserati Ghibli generally appreciate its luxurious interior, 
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Malfunction:**
@@ -42,6 +55,19 @@ Owners of the 2014 Maserati Ghibli generally appreciate its luxurious interior, 
   * Solution: Diagnose and replace faulty electrical components, such as the alternator or starter.
   * Estimated Cost to Fix: $500 - $1,500+
   * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -62,3 +88,15 @@ Owners of the 2014 Maserati Ghibli generally appreciate its luxurious interior, 
 **Summary**
 
 The 2014 Maserati Ghibli is a performance-oriented luxury sedan that has received positive reviews for its handling and engine performance. However, some owners have experienced issues with various components, including the cam phaser, air suspension, battery, headlights, and dashboard. The severity and cost of these issues can vary, and owners should be aware of these potential problems before purchasing a Ghibli.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

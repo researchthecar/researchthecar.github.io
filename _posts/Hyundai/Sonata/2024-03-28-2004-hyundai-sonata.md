@@ -29,6 +29,19 @@ Overall, the Hyundai Sonata is a well-received vehicle. Owners appreciate its sp
     * **Transmission slipping:** This can be caused by worn clutches or a faulty torque converter. Symptoms include a delay when shifting gears and a loss of power when accelerating. The solution is to rebuild or replace the transmission. Estimated cost to fix: $1,500 - $3,000
     * **Shift solenoid failure:** This can cause the transmission to shift erratically or not shift at all. Symptoms include difficulty shifting gears, a check engine light, and a transmission warning light. The solution is to replace the shift solenoid. Estimated cost to fix: $200 - $400
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front struts:** Some owners have reported premature front strut failure. Symptoms include a rough ride, excessive bouncing, and uneven tire wear. The solution is to replace the front struts and strut mounts. Estimated cost to fix: $300 - $600
@@ -38,6 +51,19 @@ Overall, the Hyundai Sonata is a well-received vehicle. Owners appreciate its sp
 
 * **Alternator failure:** This can cause the battery to not charge properly, which can lead to a dead battery and a loss of power. Symptoms include dim headlights, a flickering dashboard, and a check engine light. The solution is to replace the alternator. Estimated cost to fix: $300 - $500
 * **Battery failure:** Premature battery failure can leave you stranded. Symptoms include difficulty starting the vehicle, dim headlights, and a check engine light. The solution is to replace the battery. Estimated cost to fix: $100 - $200
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -56,3 +82,15 @@ Overall, the Hyundai Sonata is a well-received vehicle. Owners appreciate its sp
 **Summary**
 
 Overall, the 2004 Hyundai Sonata is a reliable vehicle, but it is not immune to issues. Some of the more common issues are related to the engine, transmission, and suspension. However, the cost of these repairs is generally not excessive.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

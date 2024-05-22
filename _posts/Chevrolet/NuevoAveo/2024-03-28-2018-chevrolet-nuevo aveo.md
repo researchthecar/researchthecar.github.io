@@ -21,6 +21,19 @@ The 2018 Chevrolet Nuevo Aveo is a subcompact sedan offered with a 1.5L engine a
 * **6-Speed Manual Transmission**
   * **Gear Grinding:** Difficulty shifting into gears, especially when the transmission is cold. Symptoms include a grinding or crunching sound during gear changes. Solution often involves replacing worn or damaged synchronizers. Estimated Cost: $500 - $1,200
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -30,6 +43,19 @@ The 2018 Chevrolet Nuevo Aveo is a subcompact sedan offered with a 1.5L engine a
 * **Battery Drain:** Electrical system failure can lead to a dead battery. Symptoms include difficulty starting the vehicle or dim headlights. Solution involves diagnosing and repairing the faulty component, such as the alternator, battery, or starter. Estimated Cost: $300 - $800+
 * **Headlight Malfunction:** Premature bulb failure or faulty wiring can cause headlights to malfunction. Symptoms include dim or flickering headlights. Solution involves replacing the bulbs or repairing the wiring. Estimated Cost: $100 - $300
 * **Electrical Short:** A loose or damaged electrical connection can cause a short circuit. Symptoms include blown fuses, flickering lights, or electrical components not functioning properly. Solution involves diagnosing and repairing the short circuit. Estimated Cost: $200 - $500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -44,3 +70,15 @@ The 2018 Chevrolet Nuevo Aveo is a subcompact sedan offered with a 1.5L engine a
 **Summary:**
 
 The 2018 Chevrolet Nuevo Aveo faces a range of issues, predominantly in the engine and electrical systems. While some issues are minor and relatively inexpensive to fix, others can be more severe and costly. The piston ring failure and timing chain rattle in the engine are particularly concerning as they can lead to engine damage. Electrical problems can also be frustrating and potentially hazardous if not addressed promptly. Overall, the vehicle's reliability and durability have been compromised by these issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

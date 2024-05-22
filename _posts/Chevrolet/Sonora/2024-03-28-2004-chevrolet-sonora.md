@@ -50,6 +50,19 @@ The 2004 Chevrolet Sonora is a mid-size SUV known for its spacious cabin, comfor
     * Estimated Cost to Fix: $1,200 - $2,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Mount Failure:**
@@ -75,6 +88,19 @@ The 2004 Chevrolet Sonora is a mid-size SUV known for its spacious cabin, comfor
     * Solution: Replace body control module.
     * Estimated Cost to Fix: $800 - $1,500
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -105,3 +131,15 @@ The 2004 Chevrolet Sonora is a mid-size SUV known for its spacious cabin, comfor
 **Summary**
 
 The 2004 Chevrolet Sonora has some potential issues to be aware of, particularly with the engine and transmission. However, many of the repairs are relatively affordable, and the overall severity of the issues is moderate. With proper maintenance and timely repairs, the Sonora can provide its owners with years of reliable service.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

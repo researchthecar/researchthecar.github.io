@@ -48,6 +48,19 @@ The 1993 Ford E-150 Econoline Club Wagon is a versatile full-size van offered wi
   - Estimated Cost to Fix: $600 - $1,000
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Ball Joint Failure**
@@ -75,6 +88,19 @@ The 1993 Ford E-150 Econoline Club Wagon is a versatile full-size van offered wi
   - Solution: Replace ignition switch
   - Estimated Cost to Fix: $200 - $300
   - Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -107,3 +133,15 @@ The 1993 Ford E-150 Econoline Club Wagon is a versatile full-size van offered wi
 **Summary**
 
 While the 1993 Ford E-150 Econoline Club Wagon offers a lot of value, it is susceptible to some common issues. Engine problems like intake manifold gasket failure and timing chain tensioner failure can be costly to repair. Transmission issues, such as slipping and torque converter failure, also require significant attention. The van is prone to various suspension problems, including ball joint failure and leaf spring breakage. Electrical issues, such as alternator failure and ignition switch failure, can be frustrating and lead to breakdowns. Exterior problems like rust on body panels can affect the appearance and longevity of the vehicle. Interior issues include power window motor failure and dashboard fade.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -33,6 +33,19 @@ The 2017 Mercedes-Benz AMG GT S is a high-performance sports car powered by a tw
         * Estimated Cost to Fix: $1,000 - $2,000
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Adaptive Damping System:**
@@ -51,6 +64,19 @@ The 2017 Mercedes-Benz AMG GT S is a high-performance sports car powered by a tw
     * Solution: Repair or replacement of the affected wiring harnesses.
     * Estimated Cost to Fix: $1,000 - $2,000+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -73,3 +99,15 @@ The 2017 Mercedes-Benz AMG GT S is a high-performance sports car powered by a tw
 **Summary**
 
 While the 2017 Mercedes-Benz AMG GT S offers impressive performance and design, it has faced several issues affecting various components. The most severe issues include turbocharger failures, transmission clutch slippage, and electrical harness problems. Repair costs can be substantial, ranging from $1,000 to over $10,000 in some cases. It is recommended that potential buyers consider the reported issues and research the vehicle's reliability before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

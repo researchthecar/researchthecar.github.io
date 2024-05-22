@@ -34,6 +34,19 @@ Owners of the 2020 Range Rover Sport generally praise the vehicle for its comfor
         * Solution: The transmission fluid may need to be flushed and replaced, or the transmission may need to be rebuilt.
         * Estimated Cost to Fix: $1,000 - $3,000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Failure**
@@ -52,6 +65,19 @@ Owners of the 2020 Range Rover Sport generally praise the vehicle for its comfor
     * Description/Symptoms: The infotainment system may experience crashes, freezes, or other malfunctions.
     * Solution: The infotainment system may need to be updated or replaced.
     * Estimated Cost to Fix: $500 - $1,500
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -75,3 +101,15 @@ Owners of the 2020 Range Rover Sport generally praise the vehicle for its comfor
 **Summary**
 
 The 2020 Land Rover Range Rover Sport is a luxury SUV with a variety of engine and transmission options. While some owners are very satisfied with their vehicles, others have reported experiencing a number of issues. The severity and cost of the issues vary depending on the specific problem.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

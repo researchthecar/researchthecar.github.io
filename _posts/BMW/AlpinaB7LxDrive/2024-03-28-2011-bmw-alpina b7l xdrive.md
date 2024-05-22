@@ -41,6 +41,19 @@ The 2011 BMW Alpina B7L xDrive is a high-performance luxury sedan known for its 
         * Solution: Replace the torque converter.
         * Estimated Cost to Fix: $3,000 - $4,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -55,6 +68,19 @@ The 2011 BMW Alpina B7L xDrive is a high-performance luxury sedan known for its 
         * Description/Symptoms: The headlight control module may fail, causing the headlights, taillights, or both to malfunction.
         * Solution: Replace the headlight control module.
         * Estimated Cost to Fix: $500 - $800+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -74,3 +100,15 @@ The 2011 BMW Alpina B7L xDrive is a high-performance luxury sedan known for its 
 **Summary:**
 
 The 2011 BMW Alpina B7L xDrive is a powerful and luxurious sedan that can provide a thrilling driving experience. However, it has been reported to experience a range of issues that can affect its performance, reliability, and safety. Some of these issues can be costly to repair, such as engine and transmission problems. If you are considering purchasing a B7L xDrive, it is important to be aware of these potential concerns and factor them into your decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -20,6 +20,19 @@ The 2015 Aston Martin V12 Vantage is a high-performance sports car known for its
 * **7-Speed Automated Manual Transmission:**
     * **Transmission Fluid Leak:** Description/Symptoms: The transmission fluid may leak from the transmission housing, causing gear shifting issues and a burning smell. Solution: Replace transmission fluid seals. Estimated Cost to Fix: $500 - $1,000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * No Issues Found
@@ -28,6 +41,19 @@ The 2015 Aston Martin V12 Vantage is a high-performance sports car known for its
 
 * **Battery Drain:** Description/Symptoms: The battery may drain excessively when the vehicle is parked, requiring frequent jump-starts. Solution: Replace battery or investigate electrical system for parasitic drains. Estimated Cost to Fix: $100 - $500+
 * **Electrical Wiring Harness Faults:** Description/Symptoms: Electrical wiring harnesses may develop faults, leading to intermittent electrical issues, such as flickering lights, dash malfunctions, and power window failures. Solution: Diagnose and repair or replace faulty wiring harnesses. Estimated Cost to Fix: $500 - $1,500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -40,3 +66,15 @@ The 2015 Aston Martin V12 Vantage is a high-performance sports car known for its
 **Summary:**
 
 The 2015 Aston Martin V12 Vantage has experienced various issues, primarily related to the engine, transmission, and electrical systems. The severity of these issues can vary from minor inconveniences to major mechanical failures that may require significant repairs. Owners should be aware of these issues and factor in potential repair costs when considering purchasing a V12 Vantage.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

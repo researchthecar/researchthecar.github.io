@@ -24,6 +24,19 @@ The 1990 Bentley Turbo R is a luxurious grand tourer equipped with a 6.75L turbo
 * **Shift Solenoid Failure:** Transmission may not shift smoothly or may get stuck in gear. Requires replacement of the solenoids. **Estimated Cost to Fix:** $500 - $1,000+
 * **Torque Converter Seal Leaking:** Transmission fluid leaks around the torque converter seal. Requires replacement of the seal. **Estimated Cost to Fix:** $300 - $600+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Components Wear:** Worn ball joints, control arms, and tie rods can lead to loose steering, clunking noises, and poor handling. Requires replacement of the affected components. **Estimated Cost to Fix:** $500 - $2,000+
@@ -33,6 +46,19 @@ The 1990 Bentley Turbo R is a luxurious grand tourer equipped with a 6.75L turbo
 
 * **Alternator Failure:** Electrical system may not charge properly, leading to battery drain and potential engine stalling. Requires replacement of the alternator. **Estimated Cost to Fix:** $500 - $800+
 * **Battery Drain:** Electrical components staying on after turning off the engine can drain the battery. Requires troubleshooting and repair of the affected components. **Estimated Cost to Fix:** $200 - $500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -51,3 +77,15 @@ The 1990 Bentley Turbo R is a luxurious grand tourer equipped with a 6.75L turbo
 **Summary**
 
 The 1990 Bentley Turbo R is a classic grand tourer with a powerful engine and luxurious interior, but it is not without its issues. While some problems may be minor and relatively inexpensive to fix, others can be more severe and costly. Potential owners should carefully consider the potential expenses involved in maintaining an older Bentley before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

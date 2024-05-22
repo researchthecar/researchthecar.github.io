@@ -64,3 +64,15 @@ The 2022 Jeep Gladiator is a midsize pickup truck that combines legendary off-ro
 **Summary**
 
 Overall, the 2022 Jeep Gladiator has encountered some issues with engine leaks, EGR cooler failure, and transmission problems. While these issues can be costly to repair, they are not widespread and the overall reliability of the Gladiator is acceptable.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

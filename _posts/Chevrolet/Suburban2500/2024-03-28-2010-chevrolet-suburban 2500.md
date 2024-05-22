@@ -43,6 +43,19 @@ Solution: Replace torque converter and transmission fluid.
 Estimated Cost to Fix: $2,000 - $3,500+
 Recalls: 14V369000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Leaf Spring Breakage:** Leaf springs can crack or break, causing a sagging rear end and compromised handling.
@@ -66,6 +79,19 @@ Recalls: None Found
 Solution: Repair or replace faulty wiring or connections.
 Estimated Cost to Fix: $200 - $500+
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -94,3 +120,15 @@ Recalls: None Found
 **Summary**
 
 The 2010 Chevrolet Suburban 2500 is a capable and spacious SUV, but it is not without its issues. While some issues are minor and relatively inexpensive to fix, others can be more serious and costly. Potential buyers should be aware of these issues and factor them into their decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

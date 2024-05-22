@@ -23,6 +23,19 @@ Solution: Replace the transmission.
 Estimated Cost to Fix: $5,000 - $7,000+
 Recalls: NHTSA Campaign Number: 21V571000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -44,6 +57,19 @@ Description/Symptoms: The electrical system may fail, causing various issues suc
 Solution: Diagnose and repair the faulty electrical component.
 Estimated Cost to Fix: $500 - $2,000+
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -76,3 +102,15 @@ Recalls: None Found
 **Summary:**
 
 The 2022 Chevrolet Bolt EV has had a number of issues, including battery pack fire risk, transmission failure, and electrical system failures. The battery pack fire risk is a serious safety concern and requires immediate attention. The other issues can be costly to fix, but the severity of the issues varies.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

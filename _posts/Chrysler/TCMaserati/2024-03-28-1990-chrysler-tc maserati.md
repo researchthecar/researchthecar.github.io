@@ -38,6 +38,19 @@ The 1990 Chrysler TC by Maserati is a two-door, front-wheel-drive luxury coupe b
         * Solution: Repair or replace transmission cooler
         * Estimated Cost to Fix: $500 - $1,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Noise**
@@ -56,6 +69,19 @@ The 1990 Chrysler TC by Maserati is a two-door, front-wheel-drive luxury coupe b
     * Solution: Replace starter motor
     * Estimated Cost to Fix: $400 - $800+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Sunroof Leaks**
@@ -73,3 +99,15 @@ The 1990 Chrysler TC by Maserati is a two-door, front-wheel-drive luxury coupe b
 **Quick Summary**
 
 The 1990 Chrysler TC by Maserati is a stylish and luxurious coupe that is plagued by numerous reliability issues. From engine and transmission problems to electrical and suspension concerns, owners of this vehicle have experienced a wide range of expensive repairs. While the TC has its share of fans due to its design and exclusivity, the high cost of maintenance and repairs makes it a risky choice for potential buyers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

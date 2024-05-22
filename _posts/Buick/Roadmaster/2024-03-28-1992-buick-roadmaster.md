@@ -47,3 +47,15 @@ The 1992 Buick Roadmaster is a full-size sedan that was available with two engin
 ## Summary
 
 The 1992 Buick Roadmaster is a spacious and comfortable full-size sedan with powerful engines. However, it is prone to several issues, including head gasket failure, transmission problems, suspension wear, electrical system failures, rust, and interior component failures. The severity and cost of these issues vary depending on the specific problem, but some can be quite expensive to repair. Overall, while the Roadmaster has some appealing qualities, its reliability issues should be carefully considered before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

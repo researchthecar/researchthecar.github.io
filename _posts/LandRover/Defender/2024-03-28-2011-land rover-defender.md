@@ -37,6 +37,19 @@ People like the Defender for its off-road capabilities, rugged construction, and
         * Estimated Cost to Fix: $2,500 - $4,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension:** The front suspension can wear out prematurely, causing the vehicle to handle poorly.
@@ -63,6 +76,19 @@ People like the Defender for its off-road capabilities, rugged construction, and
     * Estimated Cost to Fix: $300 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust:** The Defender is prone to rust, especially on the body panels and undercarriage.
@@ -84,3 +110,15 @@ People like the Defender for its off-road capabilities, rugged construction, and
 **Summary**
 
 The 2011 Land Rover Defender is a capable off-road SUV, but it is also known for its reliability issues. The engine, transmission, suspension, electrical system, and interior can all have problems. The severity of the issues varies, but some can be costly to fix. If you are considering buying a Defender, be sure to factor in the potential cost of repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

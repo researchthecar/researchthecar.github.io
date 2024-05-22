@@ -57,3 +57,15 @@ People like the Alfa Romeo Spider for its stylish design, its responsive handlin
 The 1990 Alfa Romeo Spider is a stylish and fun-to-drive roadster. However, it is also known for its reliability problems. The most common issues include blown head gaskets, intake valve issues, timing belt failures, clutch failures, transmission noise, transmission slippage, transmission fluid leaks, front suspension noise, rear suspension sag, electrical gremlins, battery drain, alternator failure, rust, convertible top leaks, dashboard cracks, and air conditioning failure.
 
 The severity of the issues can range from minor annoyances to major repairs. The cost to fix the issues can also vary widely, depending on the severity of the problem and the location of the repair. Overall, the 1990 Alfa Romeo Spider is a risky choice for buyers who are looking for a reliable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

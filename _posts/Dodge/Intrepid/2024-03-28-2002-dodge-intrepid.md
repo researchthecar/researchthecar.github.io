@@ -58,6 +58,19 @@ The Intrepid was praised for its impressive acceleration, handling, and fuel eff
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure:**
@@ -79,6 +92,19 @@ The Intrepid was praised for its impressive acceleration, handling, and fuel eff
     * Estimated Cost to Fix: Varies depending on the issue
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **No Issues Found**
@@ -99,3 +125,15 @@ The Intrepid was praised for its impressive acceleration, handling, and fuel eff
 **Summary**
 
 While the 2002 Dodge Intrepid offered a comfortable and powerful driving experience, it was not without its issues. The most common problems reported include intake manifold gasket failures, exhaust manifold gasket failures, transmission fluid leaks, and suspension component failures. These issues ranged in severity and cost from minor repairs to more expensive replacements. Overall, the Intrepid's reliability was considered average, with these issues being fairly common for vehicles of its age and mileage.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -37,6 +37,19 @@ The 1995 Chrysler LeBaron is a mid-size sedan renowned for its elegant styling a
         * Estimated Cost to Fix: $1,200 - $1,800+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Struts and Shocks:**
@@ -63,6 +76,19 @@ The 1995 Chrysler LeBaron is a mid-size sedan renowned for its elegant styling a
     * Estimated Cost to Fix: $300 - $500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Window Seals:**
@@ -87,3 +113,15 @@ The 1995 Chrysler LeBaron is a mid-size sedan renowned for its elegant styling a
 **Summary:**
 
 Overall, the 1995 Chrysler LeBaron has a mix of reliability issues. While some owners experience few problems, others have faced costly repairs such as transmission slippage or dashboard replacement. The severity and expense of these issues can vary depending on the specific problem and the condition of the vehicle. Regular maintenance and prompt attention to warning signs can help mitigate potential expenses.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

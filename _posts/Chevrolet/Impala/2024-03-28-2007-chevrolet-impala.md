@@ -41,6 +41,19 @@ The 2007 Chevrolet Impala is a full-size sedan that offers a spacious interior, 
      - Estimated Cost to Fix: $500 - $1000
      - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Strut mount bearing failure:**
    - Description/Symptoms: Clunking noise when turning or going over bumps
@@ -59,6 +72,19 @@ The 2007 Chevrolet Impala is a full-size sedan that offers a spacious interior, 
    - Solution: Test battery, alternator, and parasitic draws
    - Estimated Cost to Fix: $100 - $500
    - Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 - **Hood latch failure:**
@@ -81,3 +107,15 @@ The 2007 Chevrolet Impala is a full-size sedan that offers a spacious interior, 
 
 **Summary:**
 The 2007 Chevrolet Impala is a reliable and comfortable vehicle overall. However, it has experienced some common issues with its engine, transmission, suspension, and electrical components. These issues can range from minor inconveniences to costly repairs. Potential owners should be aware of these potential issues and factor them into their decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

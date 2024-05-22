@@ -69,6 +69,19 @@ The 1996 Chevrolet Cavalier was a compact sedan known for its economical price p
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Front Strut Failure:**
@@ -97,6 +110,19 @@ The 1996 Chevrolet Cavalier was a compact sedan known for its economical price p
     * Estimated Cost to Fix: $100 - $200+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior:**
 
 * **Fog Light Bezels Fading or Cracking:**
@@ -122,3 +148,15 @@ The 1996 Chevrolet Cavalier was a compact sedan known for its economical price p
 **Summary:**
 
 The 1996 Chevrolet Cavalier suffers from a moderate number of issues affecting its engine, transmission, suspension, and electrical systems. The most severe issues include head gasket failure, timing belt failure, and torque converter failure, which can be expensive to repair. The estimated cost of repairs varies depending on the specific issue and the severity of the damage. While the Cavalier is a budget-friendly vehicle, owners should be prepared for potential expenses related to these common problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

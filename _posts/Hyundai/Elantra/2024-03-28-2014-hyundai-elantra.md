@@ -47,6 +47,19 @@ The 2014 Hyundai Elantra is a compact sedan known for its affordability, fuel ef
     * **Estimated Cost to Fix:** $1,000 - $2,000+
     * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Struts or Shock Absorbers Failure:**
@@ -69,6 +82,19 @@ The 2014 Hyundai Elantra is a compact sedan known for its affordability, fuel ef
     * **Estimated Cost to Fix:** $500 - $1,500+
     * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **No Issues Found**
@@ -90,3 +116,15 @@ The 2014 Hyundai Elantra is a compact sedan known for its affordability, fuel ef
 **Summary:**
 
 The 2014 Hyundai Elantra has several potential issues, particularly with the engine, transmission, and suspension. The severity and cost of these issues can vary, with some being relatively minor and inexpensive to fix, while others can be more significant and costly. It is important for owners to be aware of these potential issues and to have their vehicles serviced regularly to prevent or mitigate them.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

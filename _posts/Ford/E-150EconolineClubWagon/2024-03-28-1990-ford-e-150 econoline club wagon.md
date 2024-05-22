@@ -28,6 +28,19 @@ The 1990 Ford E-150 Econoline Club Wagon is a full-size van offered with a choic
 * **5-speed Manual**
     * **Clutch Failure:** Symptoms include difficulty shifting gears, grinding noises, and slipping. Solution: Replace the clutch and flywheel. Estimated Cost to Fix: $500 - $1,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Ball Joint Wear:** Symptoms include clunking noises when turning, uneven tire wear, and impaired steering. Solution: Replace the ball joints. Estimated Cost to Fix: $200 - $500+
@@ -37,6 +50,19 @@ The 1990 Ford E-150 Econoline Club Wagon is a full-size van offered with a choic
 
 * **Battery Drain:** Symptoms include a dead battery, slow starting, and flickering lights. Solution: Diagnose and repair the source of the drain. Estimated Cost to Fix: $100 - $500+
 * **Headlight Switch Failure:** Symptoms include intermittent or complete loss of headlights, turn signals, or other electrical components. Solution: Replace the headlight switch. Estimated Cost to Fix: $100 - $300+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -51,3 +77,15 @@ The 1990 Ford E-150 Econoline Club Wagon is a full-size van offered with a choic
 **Summary**
 
 The 1990 Ford E-150 Econoline Club Wagon is a reliable and spacious vehicle that offers considerable value for its price. However, like any older vehicle, it is prone to certain issues. The most common concerns revolve around the engine, specifically head gasket failure and intake manifold leaks. The transmission and suspension components may also experience issues over time, particularly with the 4-speed automatic and front ball joints. Electrical problems, exterior wear, and interior inconveniences are relatively minor and less costly to address. However, the severity and associated costs of the engine and transmission issues should be taken into consideration before purchasing a high-mileage E-150. Regular maintenance and timely repairs are essential to maximizing the longevity and reliability of this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

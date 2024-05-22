@@ -45,6 +45,19 @@ Owners of the 1992 Chrysler Shadow generally praise the vehicle's comfortable ri
 * **Shift solenoid failure:** The shift solenoid can fail, causing the transmission to shift erratically or not shift at all. Symptoms include difficulty shifting gears, a loss of power, and a check engine light. The solution is to replace the shift solenoid. Estimated cost to fix: $300 - $500
 * **Transmission fluid leak:** The transmission fluid can leak, causing the transmission to overheat and fail. Symptoms include a burning smell, a loss of transmission fluid, and difficulty shifting gears. The solution is to replace the leaking component. Estimated cost to fix: $200 - $400
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension strut failure:** The front suspension struts can fail, causing the vehicle to ride rough and handle poorly. Symptoms include a clunking noise from the front suspension, a decrease in ride height, and poor handling. The solution is to replace the front suspension struts. Estimated cost to fix: $400 - $600
@@ -55,6 +68,19 @@ Owners of the 1992 Chrysler Shadow generally praise the vehicle's comfortable ri
 * **Alternator failure:** The alternator can fail, causing the battery to not charge. Symptoms include a flickering or dim dashboard, difficulty starting the vehicle, and a check engine light. The solution is to replace the alternator. Estimated cost to fix: $300 - $500
 * **Battery failure:** The battery can fail, causing the vehicle to not start. Symptoms include difficulty starting the vehicle, a clicking noise when trying to start the vehicle, and a check engine light. The solution is to replace the battery. Estimated cost to fix: $100 - $200
 * **Starter failure:** The starter can fail, causing the vehicle to not start. Symptoms include a clicking noise when trying to start the vehicle, a lack of power, and a check engine light. The solution is to replace the starter. Estimated cost to fix: $300 - $500
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -69,3 +95,15 @@ Owners of the 1992 Chrysler Shadow generally praise the vehicle's comfortable ri
 **Summary**
 
 The 1992 Chrysler Shadow is a reliable and fuel-efficient vehicle. However, there are a number of common issues that can occur with the vehicle, including engine and transmission problems, suspension issues, electrical issues, and interior issues. The severity and cost of these issues can vary, but it is important to be aware of them before purchasing a 1992 Chrysler Shadow.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

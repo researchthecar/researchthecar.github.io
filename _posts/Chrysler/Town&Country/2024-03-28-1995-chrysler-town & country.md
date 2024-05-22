@@ -62,6 +62,19 @@ Owners of the Town & Country appreciate its spacious interior, comfortable ride,
     * Estimated Cost to Fix: $100 - $200
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Sway Bar Links**
@@ -87,6 +100,19 @@ Owners of the Town & Country appreciate its spacious interior, comfortable ride,
     * Solution: Replace alternator
     * Estimated Cost to Fix: $300 - $500
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -117,3 +143,15 @@ Owners of the Town & Country appreciate its spacious interior, comfortable ride,
 **Summary**
 
 The 1995 Chrysler Town & Country has a number of potential issues, particularly with the engine, transmission, and electrical system. The severity of the issues varies from minor (e.g., battery drain) to major (e.g., cylinder head gasket failure). The cost of repairs can range from a few hundred dollars to over $1,000. However, the Town & Country remains a popular choice among minivan owners due to its spacious interior, comfortable ride, and ample power.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

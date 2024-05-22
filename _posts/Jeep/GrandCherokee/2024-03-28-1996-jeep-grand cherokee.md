@@ -58,6 +58,19 @@ The 1996 Jeep Grand Cherokee is a mid-size SUV that was offered with three engin
         * Estimated Cost to Fix: $150 - $300
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front Upper Control Arm Bushing Failure:**
     * Description/Symptoms: Clunking or rattling noise from front suspension, uneven tire wear.
@@ -81,6 +94,19 @@ The 1996 Jeep Grand Cherokee is a mid-size SUV that was offered with three engin
     * Solution: Replace alternator.
     * Estimated Cost to Fix: $500 - $800
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **Tailgate Latch Failure:**
@@ -109,3 +135,15 @@ The 1996 Jeep Grand Cherokee is a mid-size SUV that was offered with three engin
 **Summary:**
 
 The 1996 Jeep Grand Cherokee has been known to experience a variety of issues, ranging from relatively minor to more severe and costly. The engine, transmission, and suspension are some of the most common problem areas. However, many of the issues are relatively inexpensive to fix. Overall, the Grand Cherokee remains a popular choice for those who value ruggedness and off-road capabilities, but it's important to be aware of the potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

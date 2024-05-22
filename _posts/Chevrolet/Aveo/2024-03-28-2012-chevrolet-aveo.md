@@ -46,6 +46,19 @@ The 2012 Chevrolet Aveo is a subcompact car available with two engine options: a
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: NHTSA Campaign Number 12V382000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Sagging Springs:**
@@ -61,6 +74,19 @@ The 2012 Chevrolet Aveo is a subcompact car available with two engine options: a
     * Solution: Replacing the alternator is necessary.
     * Estimated Cost to Fix: $500 - $800+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -81,3 +107,15 @@ The 2012 Chevrolet Aveo is a subcompact car available with two engine options: a
 **Summary:**
 
 The 2012 Chevrolet Aveo has several potential issues, including oil consumption, timing chain failure, and transmission problems. The severity of these issues can vary, and some require costly repairs. Overall, the Aveo's reliability can be a concern for some owners.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

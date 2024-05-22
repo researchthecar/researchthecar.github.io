@@ -35,6 +35,19 @@ The 2014 Hyundai Genesis Coupe is a two-door sports car available with a choice 
 * **Clutch Failure:** Description/Symptoms: Clutch slipping, difficulty shifting, grinding noises when shifting. Solution: Replace clutch. Estimated Cost to Fix: $1,000 - $1,500+
 * **Transmission Mount Failure:** Description/Symptoms: Vibrations or noises during acceleration or shifting. Solution: Replace transmission mount. Estimated Cost to Fix: $200 - $400+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Bearing Failure:** Description/Symptoms: Knocking noises from suspension, clunking sounds over bumps. Solution: Replace strut bearing. Estimated Cost to Fix: $200 - $400+ per strut
@@ -45,6 +58,19 @@ The 2014 Hyundai Genesis Coupe is a two-door sports car available with a choice 
 * **Battery Drain:** Description/Symptoms: Battery dies quickly, even when not in use. Solution: Diagnose and repair electrical system drain. Estimated Cost to Fix: $100 - $500+
 * **Starter Failure:** Description/Symptoms: Engine fails to start, clicking noises from starter. Solution: Replace starter. Estimated Cost to Fix: $300 - $700+
 * **Alternator Failure:** Description/Symptoms: Electrical system problems, battery not charging. Solution: Replace alternator. Estimated Cost to Fix: $500 - $1,000+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -60,3 +86,15 @@ The 2014 Hyundai Genesis Coupe is a two-door sports car available with a choice 
 **Summary**
 
 While the 2014 Hyundai Genesis Coupe is generally a reliable and enjoyable vehicle, it has been known to experience some common issues. The most severe and costly issues can affect the engine, transmission, and electrical system. However, the interior and exterior issues tend to be more minor and less expensive to repair. It's important for prospective buyers to be aware of potential problems before making a purchase and to factor in the potential costs of repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

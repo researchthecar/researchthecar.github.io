@@ -45,6 +45,19 @@ The 2001 Ford E-450 Econoline Super Duty is a heavy-duty van available in multip
     * Estimated Cost to Fix: $500 - $1,500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear leaf spring failure:** Broken or sagging leaf springs can cause poor ride quality and handling.
@@ -61,6 +74,19 @@ The 2001 Ford E-450 Econoline Super Duty is a heavy-duty van available in multip
 * **Battery drain:** A parasitic drain on the battery can cause it to go dead even when the vehicle is not running.
     * Solution: Identify and fix the source of the drain.
     * Estimated Cost to Fix: $100 - $500
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -80,3 +106,15 @@ The 2001 Ford E-450 Econoline Super Duty is a heavy-duty van available in multip
 **Summary:**
 
 The 2001 Ford E-450 Econoline Super Duty is a capable and reliable full-size van. However, it is not immune to certain common issues, particularly with the engine, transmission, and suspension. Some of these issues can be costly to repair, so it is important to be aware of them before purchasing or owning one of these vehicles. Regular maintenance and inspections can help prevent or mitigate these issues and extend the lifespan of the van.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

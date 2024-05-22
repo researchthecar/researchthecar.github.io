@@ -28,6 +28,19 @@ While the Cruze is a popular choice for drivers, it has also been known to have 
 * **5-Speed Manual Transmission**
     * **Clutch Failure:** The clutch may wear prematurely, causing difficulty shifting gears.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Mounts:** The front suspension strut mounts may wear out prematurely, causing a clunking noise when driving over bumps.
@@ -37,6 +50,19 @@ While the Cruze is a popular choice for drivers, it has also been known to have 
 
 * **Battery Drain:** The battery may drain prematurely due to a faulty alternator or parasitic electrical drain.
 * **Electrical System Malfunctions:** The electrical system may experience various malfunctions, such as flickering lights or power window failures.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -52,3 +78,15 @@ While the Cruze is a popular choice for drivers, it has also been known to have 
 **Summary**
 
 The 2013 Chevrolet Cruze has received mixed reviews from drivers. While it offers some positive attributes, such as a comfortable ride and good fuel economy, it has also been plagued by a number of issues, including engine problems, transmission issues, and electrical malfunctions. The severity and cost of the repairs can vary depending on the specific problem. It is important for potential buyers to be aware of these issues before purchasing a Cruze.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

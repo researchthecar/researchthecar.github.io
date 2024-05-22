@@ -42,6 +42,19 @@ The 1997 Bentley Brooklands was a luxurious and powerful coupe based on the Roll
         * Solution: Replace electronic control unit
         * Estimated Cost to Fix: $1,500 - $2,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Failure**
@@ -67,6 +80,19 @@ The 1997 Bentley Brooklands was a luxurious and powerful coupe based on the Roll
     * Description/Symptoms: Intermittent electrical issues, various warning lights on
     * Solution: Repair or replace electrical harness
     * Estimated Cost to Fix: $500 - $2,000+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -97,3 +123,15 @@ The 1997 Bentley Brooklands was a luxurious and powerful coupe based on the Roll
 **Summary**
 
 The 1997 Bentley Brooklands is a luxurious and powerful vehicle, but it can also experience a range of issues. Many of the reported problems are common to high-performance luxury cars of this era. Engine and transmission issues can be expensive to repair, while electrical and suspension problems can also be costly. Interior issues tend to be less severe, but still can be annoying. The cost of these issues can vary depending on the severity of the problem and the mechanic's hourly rate. Prospective buyers should be aware of these potential issues and factor them into their decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

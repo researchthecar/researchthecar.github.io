@@ -53,6 +53,19 @@ The Tucson is praised for its spacious cabin, comfortable ride, and impressive f
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Noise:**
@@ -68,6 +81,19 @@ The Tucson is praised for its spacious cabin, comfortable ride, and impressive f
     * Solution: Diagnosis and repair of electrical components (ex. wiring, battery)
     * Estimated Cost to Fix: $100 - $1,000+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -100,3 +126,15 @@ The Tucson is praised for its spacious cabin, comfortable ride, and impressive f
 **Summary:**
 
 The 2021 Hyundai Tucson has mixed reviews in terms of reliability. While some owners have experienced significant issues, others have reported few problems. The severity of the issues and the cost to fix them can vary widely. Potential buyers should research and consider the potential risk of encountering these issues before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -15,6 +15,19 @@ The 1994 Ford Thunderbird was a two-door personal luxury coupe powered by a stan
 **Transmission**
 - 4-speed automatic
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front**
@@ -51,6 +64,19 @@ The 1994 Ford Thunderbird was a two-door personal luxury coupe powered by a stan
     - Description/Symptoms: Worn ignition coils cause misfires, rough running, and poor engine performance.
     - Solution: Replace the ignition coils.
     - Estimated Cost to Fix: $100 - $200+ for parts, labor varies
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -89,3 +115,15 @@ The 1994 Ford Thunderbird was a two-door personal luxury coupe powered by a stan
 **Summary:**
 
 The 1994 Ford Thunderbird is a powerful and stylish coupe with a comfortable interior. However, it is not without its issues, particularly with suspension components, electrical components, and certain interior features. The severity of these issues can vary, but some can be costly to repair. Potential buyers should be aware of these potential problems and factor them into their purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

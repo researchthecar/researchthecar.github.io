@@ -45,6 +45,19 @@ People like the 2012 Audi TT Quattro for its stylish design, powerful engine, an
   - Estimated Cost to Fix: $2,000 - $3,000+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Front Control Arm Bushing Wear**
@@ -60,6 +73,19 @@ People like the 2012 Audi TT Quattro for its stylish design, powerful engine, an
   - Solution: Replace the alternator.
   - Estimated Cost to Fix: $500 - $800+
   - Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -80,3 +106,15 @@ People like the 2012 Audi TT Quattro for its stylish design, powerful engine, an
 **Summary**
 
 The 2012 Audi TT Quattro is a reliable and enjoyable car to drive. However, it is not without its issues. The most common problems reported by owners include timing chain tensioner failure and mechatronic unit failure. These issues can be expensive to fix, so it is important to be aware of them before purchasing a 2012 Audi TT Quattro.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

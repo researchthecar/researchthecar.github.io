@@ -44,6 +44,19 @@ People who like the Huracan praise its stunning design, blistering performance, 
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Coil Spring Failure**
@@ -64,6 +77,19 @@ People who like the Huracan praise its stunning design, blistering performance, 
     * Solution: Replace ECU
     * Estimated Cost to Fix: $2,000 - $4,000+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -86,3 +112,15 @@ People who like the Huracan praise its stunning design, blistering performance, 
 The 2015 Lamborghini Huracan is a high-performance sports car that has received praise for its stunning design, blistering performance, and engaging driving dynamics. However, some people have experienced issues with the Huracan, including engine, transmission, suspension, electrical, exterior, and interior problems.
 
 The severity and cost of the issues vary depending on the specific problem. Some issues, such as battery drain or mirror issues, are relatively minor and inexpensive to fix. However, other issues, such as piston ring failure or ECU failure, can be more serious and expensive to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

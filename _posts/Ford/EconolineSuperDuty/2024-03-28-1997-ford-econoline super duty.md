@@ -57,6 +57,19 @@ The 1997 Ford Econoline Super Duty is a full-size cargo van renowned for its spa
     * Estimated Cost to Fix: $500 - $800+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Leaf Spring Breakage:**
@@ -79,6 +92,19 @@ The 1997 Ford Econoline Super Duty is a full-size cargo van renowned for its spa
     * Estimated Cost to Fix: $100 - $200+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior:**
 
 * **Rust on Body Panels:**
@@ -98,3 +124,15 @@ The 1997 Ford Econoline Super Duty is a full-size cargo van renowned for its spa
 **Summary:**
 
 The 1997 Ford Econoline Super Duty has a mixed reliability record. Engine and transmission issues can be severe and costly to repair. Suspension problems can compromise handling and safety. Electrical issues, while less common, can still be inconvenient. Overall, the vehicle's reliability issues are a concern, and potential buyers should consider these potential expenses before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

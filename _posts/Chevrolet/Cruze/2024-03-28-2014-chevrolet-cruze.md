@@ -50,6 +50,19 @@ The 2014 Chevrolet Cruze is a compact sedan that offers a comfortable ride, a sp
         * Estimated Cost to Fix: $500 - $1,500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension strut failure**
@@ -76,6 +89,19 @@ The 2014 Chevrolet Cruze is a compact sedan that offers a comfortable ride, a sp
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Hood latch failure**
@@ -100,3 +126,15 @@ The 2014 Chevrolet Cruze is a compact sedan that offers a comfortable ride, a sp
 **Summary**
 
 The 2014 Chevrolet Cruze is a reliable vehicle overall, but it has some potential issues that owners should be aware of. The most common issues are with the engine, transmission, and suspension. The cost of repairs can vary depending on the severity of the issue, but it is important to have any problems addressed as soon as possible to avoid more serious damage.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

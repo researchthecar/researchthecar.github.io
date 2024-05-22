@@ -55,6 +55,19 @@ While praised for its durability and performance, the F Super Duty is not withou
     - Estimated Cost to Fix: $1,500 - $3,000+
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Leaf spring failure**
@@ -83,6 +96,19 @@ While praised for its durability and performance, the F Super Duty is not withou
     - Estimated Cost to Fix: Varies depending on the severity of the issue
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 **No Issues Found**
@@ -98,3 +124,15 @@ While praised for its durability and performance, the F Super Duty is not withou
 **Summary**
 
 The 1994 Ford F Super Duty has some notable issues that owners should be aware of, particularly with the engine and transmission. While many of the fixes are relatively straightforward and affordable, some major repairs can be costly. However, these issues do not significantly detract from the vehicle's overall durability and dependability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -23,6 +23,19 @@ The 2014 Maserati GranCabrio is a luxurious convertible that offers exhilarating
 * **Shift Hesitation:** Symptoms include a delay in gear shifts, particularly noticeable during acceleration or deceleration. Solution: Update the transmission software or replace the transmission control module. Estimated Cost to Fix: $200 - $600+
 * **Slipping Gears:** Symptoms include a loss of power while driving, accompanied by a grinding noise. Solution: Overhaul or replace the transmission. Estimated Cost to Fix: $2,000 - $4,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushings Prematurely Wearing:** Symptoms include excessive vibration and noise from the front suspension, especially over uneven surfaces. Solution: Replace the worn bushings. Estimated Cost to Fix: $400 - $700+
@@ -32,6 +45,19 @@ The 2014 Maserati GranCabrio is a luxurious convertible that offers exhilarating
 
 * **Battery Drain:** Symptoms include a dead battery after extended periods of parking. Solution: Diagnose and repair the electrical system to identify the source of the drain. Estimated Cost to Fix: $200 - $500+
 * **Malfunctioning Central Locking System:** Symptoms include difficulty locking or unlocking the doors, trunk, or fuel door. Solution: Replace the faulty actuators or control module. Estimated Cost to Fix: $300 - $600+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -46,3 +72,15 @@ The 2014 Maserati GranCabrio is a luxurious convertible that offers exhilarating
 **Summary**
 
 While the 2014 Maserati GranCabrio offers impressive performance and style, it has been plagued by various issues that can be costly to repair. Engine problems, particularly with the valve covers and timing chain tensioner, are prevalent. Transmission issues, such as shift hesitation and slipping gears, can also diminish the driving experience. Suspension components, including control arm bushings and shock absorbers, can prematurely fail, leading to handling problems. Electrical issues, like battery drain and central locking system malfunctions, can be frustrating and expensive to solve. Exterior and interior issues, while less severe, can still detract from the overall quality of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -40,6 +40,19 @@ The 2016 Chevrolet Caprice is a full-size sedan that was designed for law enforc
 	-	Solution: Replace the TCM.
 	-	Estimated Cost to Fix: $500 - $800+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 -	**Front Control Arm Bushing Wear:**
 	-	Description/Symptoms: Worn or damaged front control arm bushings can cause excessive vibration, noise, and imprecise handling.
@@ -64,6 +77,19 @@ The 2016 Chevrolet Caprice is a full-size sedan that was designed for law enforc
 	-	Solution: Replace the headlight switch.
 	-	Estimated Cost to Fix: $200 - $300+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 -	**Rear Bumper Corrosion:**
 	-	Description/Symptoms: The rear bumper may develop corrosion, leading to rust and paint bubbling.
@@ -83,3 +109,15 @@ The 2016 Chevrolet Caprice is a full-size sedan that was designed for law enforc
 **Summary:**
 
 Overall, the 2016 Chevrolet Caprice has a range of issues that can affect its reliability and performance. The severity of the problems varies from minor, such as headlight switch failure, to major and potentially expensive, such as engine or transmission failure. While the vehicle offers a spacious cabin and durable construction, these issues can be a concern for potential buyers and current owners alike. The cost of repairs can add up quickly, especially for more significant problems, making it essential to factor in the potential repair expenses when considering this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

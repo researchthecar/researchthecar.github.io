@@ -37,6 +37,19 @@ The 2015 Bentley Mulsanne is a full-size luxury sedan that epitomizes British cr
         * Estimated Cost to Fix: $5,000 - $15,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -53,6 +66,19 @@ The 2015 Bentley Mulsanne is a full-size luxury sedan that epitomizes British cr
         * Solution: Identification and устранение of the parasitic drain.
         * Estimated Cost to Fix: $200 - $500
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -78,3 +104,15 @@ The 2015 Bentley Mulsanne is a full-size luxury sedan that epitomizes British cr
 **Summary**
 
 The 2015 Bentley Mulsanne is generally a well-built and reliable vehicle, but it is not immune to certain issues. The most significant concerns involve the engine timing belt failure, which can lead to severe damage and costly repairs. Other issues such as electrical system failure, battery drain, and rear bumper fitment problems can also be encountered. While the interior issues are generally minor and cosmetic, the climate control malfunctions can be more frustrating and expensive to address. Overall, the severity and cost of the issues vary, and the vehicle's overall ownership experience can vary based on the specific problems encountered.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

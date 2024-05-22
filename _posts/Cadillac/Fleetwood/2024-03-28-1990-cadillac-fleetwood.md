@@ -38,6 +38,19 @@ Known for its spacious cabin, smooth ride, and stately appearance, the Fleetwood
 * **Estimated Cost to Fix:** $500 - $1,200+
 * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Air Suspension Leakage:**
@@ -53,6 +66,19 @@ Known for its spacious cabin, smooth ride, and stately appearance, the Fleetwood
 * **Solution:** Replace alternator
 * **Estimated Cost to Fix:** $400 - $600+
 * **Recalls:** None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -73,3 +99,15 @@ Known for its spacious cabin, smooth ride, and stately appearance, the Fleetwood
 **Summary:**
 
 The 1990 Cadillac Fleetwood had a range of issues, including engine gasket failures, transmission shifting problems, and air suspension leaks. While some issues were relatively inexpensive to fix, others could be costly. Overall, the Fleetwood's aging design and lack of technological advancements contributed to its reliability issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

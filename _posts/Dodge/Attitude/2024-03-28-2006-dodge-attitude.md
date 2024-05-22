@@ -46,6 +46,19 @@ The 2006 Dodge Attitude is a subcompact sedan powered by a 1.6-liter 4-cylinder 
         * Estimated Cost to Fix: $250 - $500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Noises:** Noises from the rear suspension, such as squeaks, rattles, or clunks, can indicate worn suspension components.
@@ -67,6 +80,19 @@ The 2006 Dodge Attitude is a subcompact sedan powered by a 1.6-liter 4-cylinder 
     * Solution: Locate and repair short circuits in the wiring.
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -93,3 +119,15 @@ The 2006 Dodge Attitude is a subcompact sedan powered by a 1.6-liter 4-cylinder 
 **Summary:**
 
 The 2006 Dodge Attitude is a flawed vehicle with numerous issues plaguing its various components. The engine is prone to oil leaks, intake manifold gasket failures, and timing chain guide wear. The transmission can experience clutch slave cylinder failure, shifter linkage issues, and fluid leaks for the manual, while the automatic may have solenoid failures. The suspension can develop noises and premature strut failure. Electrical issues include battery drain and electrical shorts. Exterior problems include door handle failure and trunk lid latch issues. The interior suffers from instrument cluster malfunctions and HVAC control module failures. The severity of these issues ranges from minor annoyances to major concerns that can potentially lead to expensive repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

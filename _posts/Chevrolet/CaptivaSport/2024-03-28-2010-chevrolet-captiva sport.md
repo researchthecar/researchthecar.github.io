@@ -71,3 +71,15 @@ While the Captiva Sport is a capable and comfortable vehicle, it has received so
 ### Summary
 
 The 2010 Chevrolet Captiva Sport is a generally reliable vehicle, but it has some known issues that can be costly to repair. The most common issues are electrical system malfunctions, transmission slippage, and valve cover gasket leaks. Other issues include timing chain failure, front strut mount failure, dashboard cracking, and airbag malfunctions. The severity and cost of these issues vary, so it is important to be aware of them when considering purchasing a Captiva Sport.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

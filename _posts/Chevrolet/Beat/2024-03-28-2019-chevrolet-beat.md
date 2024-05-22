@@ -57,6 +57,19 @@ The 2019 Chevrolet Beat is a compact hatchback that offers a budget-friendly opt
     * Estimated Cost to Fix: $500 - $1000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Squeaky Suspension:**
@@ -78,6 +91,19 @@ The 2019 Chevrolet Beat is a compact hatchback that offers a budget-friendly opt
     * Estimated Cost to Fix: $100 - $200
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **No Issues Found**
@@ -89,3 +115,15 @@ The 2019 Chevrolet Beat is a compact hatchback that offers a budget-friendly opt
 **Summary**
 
 The 2019 Chevrolet Beat has received mixed reviews from owners. While it offers affordability, fuel efficiency, and maneuverability, it has certain reliability concerns in areas such as the engine, transmission, and suspension. The estimated costs to fix these issues can vary depending on the severity of the problem and the availability of parts and labor. Overall, the Beat can be a suitable option for basic transportation needs but may not be the most reliable choice for extended or demanding use.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -43,6 +43,19 @@ The 1991 Buick Park Avenue is a full-size luxury sedan offered with either a 3.8
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -69,6 +82,19 @@ The 1991 Buick Park Avenue is a full-size luxury sedan offered with either a 3.8
     * Estimated Cost to Fix: $300 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Plastic Trim Cracking:**
@@ -93,3 +119,15 @@ The 1991 Buick Park Avenue is a full-size luxury sedan offered with either a 3.8
 **Summary:**
 
 The 1991 Buick Park Avenue has a number of common issues that can affect its engine, transmission, suspension, electrical, and interior components. The severity of these issues can range from minor annoyances to major breakdowns. The cost of repairs can also vary significantly depending on the issue and the components involved.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

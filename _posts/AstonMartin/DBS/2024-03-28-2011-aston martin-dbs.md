@@ -27,6 +27,19 @@ The 2011 Aston Martin DBS is a high-performance sports car produced by Aston Mar
 * **Clutch Pack Failure:** The clutch pack in the automated manual transmission can wear out prematurely, leading to slipping and loss of power. The transmission requires disassembly and replacement of the clutch pack. **Estimated Cost to Fix:** $4,000 - $6,000+
 * **Solenoid Failure:** Electrical solenoids can malfunction, causing shifting problems and potentially leaving the car stuck in a particular gear. Replacing the affected solenoid is the solution. **Estimated Cost to Fix:** $500 - $1,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:** Worn or damaged strut mounts can result in excessive noise, vibration, and poor handling. The mounts need to be replaced. **Estimated Cost to Fix:** $500 - $1,000+ per corner
@@ -35,6 +48,19 @@ The 2011 Aston Martin DBS is a high-performance sports car produced by Aston Mar
 
 * **Window Regulator Failure:** Power window regulators can malfunction, leading to windows getting stuck or failing to operate. Replacement of the regulator is necessary. **Estimated Cost to Fix:** $500 - $700+ per window
 * **Instrument Panel Malfunction:** Electrical gremlins can affect the instrument panel, causing erratic readings or complete failure. The affected component(s) must be diagnosed and replaced. **Estimated Cost to Fix:** $500 - $2,000+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -48,3 +74,15 @@ The 2011 Aston Martin DBS is a high-performance sports car produced by Aston Mar
 **Summary:**
 
 The 2011 Aston Martin DBS has some potential issues, particularly with the engine and transmission. However, it remains a desirable sports car for enthusiasts who are willing to pay for performance and exclusivity. The severity and cost of the issues can vary depending on the specific problem and the availability of warranty coverage.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

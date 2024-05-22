@@ -19,6 +19,19 @@ The AMG GT is praised for its powerful engine, agile handling, and luxurious int
 
 * **Seven-Speed Dual-Clutch Transmission**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -26,6 +39,19 @@ The AMG GT is praised for its powerful engine, agile handling, and luxurious int
 **Electrical**
 
 * **No Issues Found**
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -45,3 +71,15 @@ Estimated Cost to Fix: $500 - $1,000+
 **Summary**
 
 The 2020 Mercedes-Benz AMG GT is a high-performance sports car with a powerful engine, agile handling, and luxurious interior. However, it is also criticized for its high price and limited practicality. The vehicle has a few issues, but they are not major and can be fixed relatively easily and inexpensively. Overall, the AMG GT is a great choice for those who want a high-performance sports car that is also luxurious and comfortable.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

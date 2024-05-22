@@ -44,6 +44,19 @@ The 2002 Ferrari 575 M Maranello is a high-performance grand tourer that was pro
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Mount Failure**
@@ -69,6 +82,19 @@ The 2002 Ferrari 575 M Maranello is a high-performance grand tourer that was pro
     * Solution: Test the electrical system for parasitic draw and replace or repair the faulty component.
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -99,3 +125,15 @@ The 2002 Ferrari 575 M Maranello is a high-performance grand tourer that was pro
 **Summary**
 
 The 2002 Ferrari 575 M Maranello is a beautiful and powerful car, but it is not without its issues. Some of the most common issues include head gasket failure, valve seal leaks, and transmission problems. These issues can be costly to repair, but they are not uncommon in high-performance vehicles.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

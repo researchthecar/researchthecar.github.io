@@ -28,6 +28,19 @@ The 1991 Chevrolet Corvette is a sports car that comes with a 5.7L V8 engine pro
 * **4-Speed Automatic Transmission:**
     * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension:**
@@ -43,6 +56,19 @@ The 1991 Chevrolet Corvette is a sports car that comes with a 5.7L V8 engine pro
         * **Solution:** Inspect and repair or replace the faulty wiring harness.
         * **Estimated Cost to Fix:** $200 - $600
         * **Recalls:** #11V-376
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -61,3 +87,15 @@ The 1991 Chevrolet Corvette is a sports car that comes with a 5.7L V8 engine pro
 **Summary**
 
 Overall, the 1991 Chevrolet Corvette is a reliable and fun-to-drive sports car. However, it has some potential issues that owners should be aware of, such as intake manifold gasket failure, spark plug wire failure, and electrical harness issues. While the severity of these issues varies, the estimated cost to fix them can range from $200 to $1,000.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

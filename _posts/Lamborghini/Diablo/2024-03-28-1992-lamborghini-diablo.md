@@ -50,6 +50,19 @@ The Diablo was praised for its stunning design, powerful performance, and handli
   - Estimated Cost to Fix: $1,000 - $2,000+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **No Issues Found**
@@ -66,6 +79,19 @@ The Diablo was praised for its stunning design, powerful performance, and handli
   - Solution: Replace the starter motor.
   - Estimated Cost to Fix: $500 - $1,000+
   - Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -84,3 +110,15 @@ The Diablo was praised for its stunning design, powerful performance, and handli
 The 1992 Lamborghini Diablo is a high-performance supercar with a stunning design and impressive performance. However, it is also known for its high price, lack of comfort, and poor reliability.
 
 The most common issues with the Diablo include engine valve timing issues, head gasket failures, clutch failure, and electrical problems. These issues can be expensive to repair, so potential buyers should be aware of them before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

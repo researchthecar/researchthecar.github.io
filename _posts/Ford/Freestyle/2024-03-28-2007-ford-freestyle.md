@@ -53,6 +53,19 @@ The 2007 Ford Freestyle is a mid-size crossover SUV manufactured by Ford Motor C
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension strut failure**
@@ -72,6 +85,19 @@ The 2007 Ford Freestyle is a mid-size crossover SUV manufactured by Ford Motor C
     * Description/Symptoms: Car won't start, slow cranking, dimming lights
     * Solution: Replace battery
     * Estimated Cost to Fix: $100 - $200
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -97,3 +123,15 @@ The 2007 Ford Freestyle is a mid-size crossover SUV manufactured by Ford Motor C
 **Summary**
 
 The 2007 Ford Freestyle has a mix of minor and moderate issues. The engine issues are the most severe and expensive to repair, particularly the timing chain tensioner failure on the 3.5-liter V6. The transmission issues can also be costly, especially the CVT belt failure. The other issues are less severe and generally cheaper to fix. Overall, the Freestyle is not the most reliable vehicle on the market, but it offers a spacious interior, comfortable ride, and available all-wheel drive system.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

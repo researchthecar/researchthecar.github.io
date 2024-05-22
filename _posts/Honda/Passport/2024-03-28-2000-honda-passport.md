@@ -59,3 +59,15 @@ Recalls: None Found
 
 ## Summary
 The 2000 Honda Passport is a generally reliable vehicle. However, it is not without its issues. The most common problems reported by owners include intake manifold gasket failure, transmission slipping, alternator failure, and fog light bulbs that burn out frequently. While these issues can be costly to fix, they are not widespread and most Passport owners will not experience them.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

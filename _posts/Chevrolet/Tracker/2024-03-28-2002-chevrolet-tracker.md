@@ -45,6 +45,19 @@ Owners of the 2002 Chevrolet Tracker have praised its comfortable seats, good fu
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Struts Failure**
@@ -70,6 +83,19 @@ Owners of the 2002 Chevrolet Tracker have praised its comfortable seats, good fu
     * Solution: Replace the starter
     * Estimated Cost to Fix: $200 - $300+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -100,3 +126,15 @@ Owners of the 2002 Chevrolet Tracker have praised its comfortable seats, good fu
 **Summary**
 
 The 2002 Chevrolet Tracker is a generally reliable vehicle, but it has faced some common issues over the years. Some of the more severe issues, such as transmission slipping or timing chain tensioner failure, can be costly to repair. However, many of the other issues are relatively minor and can be fixed for a reasonable price. Overall, the Chevrolet Tracker offers a good value for the money, but it is important to be aware of potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

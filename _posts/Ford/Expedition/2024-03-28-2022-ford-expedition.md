@@ -40,6 +40,19 @@ The Expedition is known for its strong performance, capable off-road handling, a
         * Solution: Seal or gasket replacement
         * Estimated Cost to Fix: $200 - $500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension:**
@@ -64,6 +77,19 @@ The Expedition is known for its strong performance, capable off-road handling, a
     * Solution: Locate and repair electrical short
     * Estimated Cost to Fix: $200 - $1,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Headlight condensation:**
@@ -85,3 +111,15 @@ The Expedition is known for its strong performance, capable off-road handling, a
 **Summary**
 
 The 2022 Ford Expedition has some reported issues, including intake valve carbon buildup, turbocharger failure, shifting issues, suspension problems, and electrical glitches. While some of these issues are more serious and costly to repair, it's worth noting that many Expedition owners do not experience any major problems. As with any vehicle, it's important to perform regular maintenance and repairs to keep it running smoothly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

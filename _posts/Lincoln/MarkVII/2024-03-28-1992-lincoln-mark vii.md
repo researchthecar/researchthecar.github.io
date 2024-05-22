@@ -39,6 +39,19 @@ The 1992 Lincoln Mark VII is a luxury personal coupe known for its sleek design,
     * Estimated Cost to Fix: $1,500 - $2,500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Front suspension strut failure:**
@@ -65,6 +78,19 @@ The 1992 Lincoln Mark VII is a luxury personal coupe known for its sleek design,
     * Estimated Cost to Fix: $200 - $350
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior:**
 
 * **Headlight switch failure:**
@@ -89,3 +115,15 @@ The 1992 Lincoln Mark VII is a luxury personal coupe known for its sleek design,
 **Summary:**
 
 The 1992 Lincoln Mark VII is a reliable and luxurious vehicle, but it does have some common issues that owners may encounter. The most severe and expensive issues are related to the transmission and engine, such as transmission slipping and intake manifold gasket failure. However, most of the issues are relatively minor and inexpensive to fix, making the Mark VII a solid choice for those looking for a classic luxury coupe.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

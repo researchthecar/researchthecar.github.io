@@ -27,6 +27,19 @@ The 2003 Ford Explorer Sport is a mid-size SUV known for its ruggedness, off-roa
 * Estimated Cost to Fix: $500 - $2,000+
 * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Leaf Spring Sagging:** Leaf springs weaken over time, causing the rear end of the vehicle to sag and affect handling.
@@ -40,6 +53,19 @@ The 2003 Ford Explorer Sport is a mid-size SUV known for its ruggedness, off-roa
 * Solution: Replace the alternator.
 * Estimated Cost to Fix: $500 - $800+
 * Recalls: NHTSA Campaign Number: 06V324000
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -65,3 +91,15 @@ The 2003 Ford Explorer Sport is a mid-size SUV known for its ruggedness, off-roa
 **Summary:**
 
 While the 2003 Ford Explorer Sport is a generally reliable vehicle, it is not immune to certain common issues. Engine problems, transmission issues, and electrical failures are the most prevalent concerns. The severity and cost of these issues vary depending on the specific component affected. However, by being aware of these potential issues, owners can take proactive measures to address them and maintain their vehicles in optimal condition.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

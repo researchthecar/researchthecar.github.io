@@ -41,6 +41,19 @@ The 1996 Ford E-350 Econoline Club Wagon is a full-size van that offers ample se
         * Estimated Cost to Fix: $400 - $800+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front Ball Joint Failure**
     * Description/Symptoms: Clunking or popping noises while turning, uneven tire wear
@@ -64,6 +77,19 @@ The 1996 Ford E-350 Econoline Club Wagon is a full-size van that offers ample se
     * Solution: Replace battery
     * Estimated Cost to Fix: $100 - $200+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **Door Lock Failure**
@@ -91,3 +117,15 @@ The 1996 Ford E-350 Econoline Club Wagon is a full-size van that offers ample se
 
 **Summary:**
 The 1996 Ford E-350 Econoline Club Wagon can be a reliable and spacious vehicle, but it has been known to have several issues over the years. Some of the most common problems include engine and transmission issues, suspension failures, and electrical problems. The severity and cost of repairs can vary depending on the specific issue. Overall, potential owners should be aware of these issues and factor them into their purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

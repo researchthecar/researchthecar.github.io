@@ -23,6 +23,19 @@ The 2008 Chevrolet Captiva Sport is a mid-size SUV that offers a versatile combi
 * **Transmission slipping:** Difficulty accelerating, delayed gear engagement, and harsh shifting indicate transmission slippage. Solution: Replace or rebuild the transmission. Estimated Cost to Fix: $2,000 - $3,500+
 * **Transmission fluid leak:** A leaking transmission can cause fluid loss, overheating, and eventually transmission failure. Solution: Repair the leak and replace the lost fluid. Estimated Cost to Fix: $200 - $600+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** Worn or damaged struts lead to reduced handling stability, uneven tire wear, and a rough ride. Solution: Replace the struts. Estimated Cost to Fix: $500 - $1,200+ per pair
@@ -32,6 +45,19 @@ The 2008 Chevrolet Captiva Sport is a mid-size SUV that offers a versatile combi
 
 * **Battery drain:** A faulty battery or electrical component can drain the battery, leading to difficult or failed starts. Solution: Identify and replace the faulty component. Estimated Cost to Fix: $100 - $500+
 * **Electrical system failure:** Malfunctioning electrical components can cause various issues, including non-functioning electronics, dimming lights, and engine starting problems. Solution: Repair or replace the failed components. Estimated Cost to Fix: Varies depending on the specific component(s)
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -47,3 +73,15 @@ The 2008 Chevrolet Captiva Sport is a mid-size SUV that offers a versatile combi
 **Summary:**
 
 Overall, the 2008 Chevrolet Captiva Sport has some potential reliability issues that owners should be aware of. The most severe issues include engine failure due to timing chain or piston ring failure, which can be costly to repair. Transmission problems, electrical system failures, and suspension issues are also common concerns. However, these issues vary in frequency and severity depending on individual vehicles and maintenance practices.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

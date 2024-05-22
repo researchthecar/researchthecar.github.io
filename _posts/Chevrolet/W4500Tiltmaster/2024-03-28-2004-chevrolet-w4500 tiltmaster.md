@@ -55,6 +55,19 @@ The W4500 is known for its powerful engines, rugged construction, and comfortabl
   - Estimated Cost to Fix: $800 - $1,200+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Leaf Spring Breakage**
@@ -90,6 +103,19 @@ The W4500 is known for its powerful engines, rugged construction, and comfortabl
   - Solution: Repair or replace wiring harness
   - Estimated Cost to Fix: $200 - $1,000+
   - Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -130,3 +156,15 @@ The W4500 is known for its powerful engines, rugged construction, and comfortabl
 **Summary**
 
 The 2004 Chevrolet W4500 Tiltmaster is a capable heavy-duty truck, but it is not without its issues. Engine problems, transmission failures, and suspension issues are common, and can be expensive to repair. Electrical problems and interior malfunctions are also present, but tend to be less severe. Rust is a major concern, especially in areas with harsh winters. Overall, the W4500 is a reliable truck, but owners should be aware of the potential issues before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

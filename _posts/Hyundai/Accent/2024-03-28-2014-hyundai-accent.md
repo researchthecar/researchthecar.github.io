@@ -36,6 +36,19 @@ Owners of the 2014 Hyundai Accent praise its fuel efficiency, affordability, and
 * **Transmission slipping:** Description/Symptoms: The transmission slips out of gear while driving. Solution: Replacing the transmission solenoid pack. Estimated Cost to Fix: $500 - $800+
 * **Delayed engagement:** Description/Symptoms: The transmission hesitates or delays when shifting gears. Solution: Replacing the transmission fluid and filter. Estimated Cost to Fix: $150 - $300
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mount failure:** Description/Symptoms: The strut mount fails, causing a clunking noise when driving over bumps. Solution: Replacing the strut mount. Estimated Cost to Fix: $200 - $300 per strut
@@ -44,6 +57,19 @@ Owners of the 2014 Hyundai Accent praise its fuel efficiency, affordability, and
 
 * **Battery drain:** Description/Symptoms: The battery drains prematurely, leaving the car unable to start. Solution: Replacing the battery or repairing the electrical system. Estimated Cost to Fix: $100 - $500+
 * **Electrical short:** Description/Symptoms: The electrical system experiences a short, causing fuses to blow and components to fail. Solution: Repairing the electrical short. Estimated Cost to Fix: $200 - $500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -57,3 +83,15 @@ Owners of the 2014 Hyundai Accent praise its fuel efficiency, affordability, and
 **Summary**
 
 The 2014 Hyundai Accent is a fuel-efficient and affordable vehicle with several reported issues. The engine problems, transmission issues, and electrical problems are the most serious and costly to repair. Owners may also experience issues with the suspension, exterior, and interior of the vehicle. However, these issues are typically minor and less expensive to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

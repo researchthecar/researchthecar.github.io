@@ -79,3 +79,15 @@ The 1993 Ferrari Mondial t is a mid-engined sports car powered by a 3.0-liter V8
 **Summary:**
 
 The 1993 Ferrari Mondial t has experienced several issues that can be costly to repair. Owners have reported problems with the timing belt, valve guides, ignition coils, clutch, suspension components, electrical system, exterior trim, and infotainment system. These issues can range from minor inconveniences to serious mechanical failures that require extensive repairs. While the Mondial t is a desirable sports car, potential buyers should be aware of the potential costs associated with ownership before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -65,6 +65,19 @@ The 1996 Chrysler Concorde is a full-size sedan known for its spacious interior,
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure:**
@@ -91,6 +104,19 @@ The 1996 Chrysler Concorde is a full-size sedan known for its spacious interior,
     * Estimated Cost to Fix: $100 - $500+ per harness
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust:**
@@ -115,3 +141,15 @@ The 1996 Chrysler Concorde is a full-size sedan known for its spacious interior,
 **Summary**
 
 The 1996 Chrysler Concorde is a generally reliable vehicle, but it is not without its issues. The most common issues involve the engine intake manifold gaskets, exhaust manifold gaskets, transmission slipping, suspension strut failure, window regulator failure, and rust. The severity of the issues ranges from minor inconveniences to major repairs. While some repairs can be costly, most can be completed for a reasonable price by a qualified mechanic.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

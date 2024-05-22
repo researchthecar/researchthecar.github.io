@@ -37,6 +37,19 @@ Recalls: NHTSA Campaign Number: 13V247000
 * **Transmission cooling line leak:** Transmission fluid leak; transmission overheating; replaced cooling line costs approximately $200 - $400+.
 Recalls: NHTSA Campaign Numbers: 14V255000, 15V113000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mount bearing failure:** Knocking or clunking noises; premature tire wear; replacement strut mount bearings costs approximately $300 - $500+ per wheel.
@@ -48,6 +61,19 @@ Recalls: None Found
 * **Malfunctioning starter:** No crank, no start condition; replacement starter costs approximately $200 - $400+.
 * **Alternator failure:** Excessive battery discharge while driving; illuminated warning light; replacement alternator costs approximately $400 - $600+.
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -63,3 +89,15 @@ Recalls: NHTSA Campaign Number: 14V133000
 **Summary**
 
 The 2009 Hyundai Genesis offers a balance of performance, comfort, and technology, but its reliability has been a concern for some owners. The engine, transmission, and electrical systems have all experienced common issues, with repairs ranging in cost from minor to significant. Potential buyers should be aware of these potential problems before considering a used Genesis.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

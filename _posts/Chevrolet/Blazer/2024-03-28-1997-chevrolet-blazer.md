@@ -44,6 +44,19 @@ Description/Symptoms: Difficulty shifting gears, slipping clutch
 Solution: Replace the clutch
 Estimated Cost to Fix: $500 - $1,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Ball Joints**
@@ -57,6 +70,19 @@ Estimated Cost to Fix: $400 - $600+
 Description/Symptoms: Dimming lights, battery not charging, electrical problems
 Solution: Replace the alternator
 Estimated Cost to Fix: $300 - $500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -75,3 +101,15 @@ Estimated Cost to Fix: $200 - $400+
 **Summary:**
 
 The 1997 Chevrolet Blazer had some common issues that could impact its reliability. Engine problems, transmission issues, and suspension problems were the most prevalent. The severity of the issues varied, with some being relatively minor and inexpensive to fix. However, more significant problems like engine failure or transmission replacement could result in substantial repair costs. Overall, the Blazer was a capable vehicle, but potential buyers should be aware of these known issues to make informed decisions about ownership.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

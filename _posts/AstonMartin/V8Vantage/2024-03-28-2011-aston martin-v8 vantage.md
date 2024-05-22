@@ -26,6 +26,19 @@ Owners of the Aston Martin V8 Vantage generally praise its performance, handling
     * **Transmission fluid leaks:** The 6-speed automated manual transmission can develop leaks at the fluid pan or lines. The solution is to replace the affected gaskets or seals. The estimated cost to fix this issue is $500 - $1,000.
     * **Gear position sensor issues:** The gear position sensor can fail, causing the transmission to display incorrect gear information or shift erratically. The solution is to replace the faulty sensor. The estimated cost to fix this issue is $200 - $500.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension arm failure (R190):** This recall affects vehicles produced between 2008 - 2012 and addresses a potential issue where the front suspension lower control arm may fracture. If this occurs, it could lead to a loss of steering control and increased risk of an accident. The solution is to inspect and replace the affected control arms.
@@ -35,6 +48,19 @@ Owners of the Aston Martin V8 Vantage generally praise its performance, handling
 
 * **Alternator issues:** The alternator can fail, causing the battery to not be charged properly. The solution is to replace the faulty alternator. The estimated cost to fix this issue is $1,000 - $1,500.
 * **Starter issues:** The starter can fail, making it difficult or impossible to start the vehicle. The solution is to replace the faulty starter. The estimated cost to fix this issue is $500 - $1,000.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -49,3 +75,15 @@ Owners of the Aston Martin V8 Vantage generally praise its performance, handling
 **Summary**
 
 While the 2011 Aston Martin V8 Vantage is a highly capable and desirable sports car, it is not without its potential problems. Some issues, such as the valve guide issues and front suspension arm failure, can be serious and costly to fix. Other issues, like the climate control and power window issues, are less severe but can still be inconvenient. It is important for potential owners to be aware of these potential issues before purchasing a V8 Vantage.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

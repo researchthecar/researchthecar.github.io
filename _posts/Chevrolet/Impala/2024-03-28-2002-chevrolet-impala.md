@@ -98,3 +98,15 @@ People who like the 2002 Chevrolet Impala often cite its spacious interior, comf
 
 ## Summary
 The 2002 Chevrolet Impala is a reliable vehicle that offers a comfortable ride and plenty of power. However, some owners have reported problems with the vehicle's engine, transmission, suspension, and electrical systems. These problems can be expensive to fix, so it's important to factor the cost of potential repairs into your budget before purchasing a 2002 Chevrolet Impala.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -27,6 +27,19 @@ The 2021 Bentley Continental is a high-performance luxury grand tourer that deli
     * Estimated Cost to Fix: $5,000 - $10,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Adaptive Air Suspension**
@@ -52,6 +65,19 @@ The 2021 Bentley Continental is a high-performance luxury grand tourer that deli
     * Estimated Cost to Fix: Typically covered under warranty
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior:**
 
 * **Door Handle Malfunction**
@@ -73,3 +99,15 @@ The 2021 Bentley Continental is a high-performance luxury grand tourer that deli
 **Summary:**
 
 The 2021 Bentley Continental is a sophisticated vehicle that offers exhilarating performance and premium luxury. However, it has faced some specific issues that may affect the overall ownership experience. While some issues, such as electrical malfunctions and interior trim detachment, are generally minor and covered under warranty, others, such as engine and transmission problems, can be more severe and expensive to repair. Potential buyers should be aware of these issues and have them inspected by a qualified mechanic before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

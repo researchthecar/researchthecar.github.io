@@ -41,6 +41,19 @@ The 2015 Audi TTS Quattro is a high-performance sports car that combines sleek d
     * Estimated Cost to Fix: $4,000 - $6,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Bearing Failure:**
@@ -56,6 +69,19 @@ The 2015 Audi TTS Quattro is a high-performance sports car that combines sleek d
     * Solution: Identifying and repairing the source of the battery drain (e.g., faulty alternator, parasitic drain).
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -75,3 +101,15 @@ The 2015 Audi TTS Quattro is a high-performance sports car that combines sleek d
 
 **Summary:**
 While the 2015 Audi TTS Quattro offers impressive performance and styling, it has been reported to experience several issues. Engine problems such as oil consumption and timing chain tensioner failure can be costly to repair. Transmission issues with the S tronic unit are also a potential concern. Overall, the severity and potential cost of these issues should be considered before purchasing a used TTS Quattro.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

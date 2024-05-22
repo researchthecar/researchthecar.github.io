@@ -53,6 +53,19 @@ Despite its popularity, the 2017 Ford Transit Custom has been plagued by various
    - **Estimated Cost to Fix:** $2,000 - $3,000+
    - **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Front Suspension Knock:** A knocking noise is heard from the front suspension when driving over bumps.
@@ -77,6 +90,19 @@ Despite its popularity, the 2017 Ford Transit Custom has been plagued by various
    - **Estimated Cost to Fix:** $500 - $1,000+
    - **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 - **Corrosion Issues:** Parts of the exterior, such as the tailgate and body panels, develop rust or corrosion prematurely.
@@ -94,3 +120,15 @@ Despite its popularity, the 2017 Ford Transit Custom has been plagued by various
 **Summary**
 
 The 2017 Ford Transit Custom has experienced a range of issues, with varying degrees of severity and cost. The engine and transmission problems are particularly concerning, as they can lead to breakdowns and expensive repairs. Other issues, such as suspension and electrical problems, can also be inconvenient and costly to fix. It is advisable for potential owners to research these issues and factor them into their purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

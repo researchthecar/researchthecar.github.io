@@ -17,6 +17,19 @@ The 1998 Lincoln Mark VIII is a grand touring coupe powered by a 4.6L V8 engine 
 
 * **4-speed Automatic**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 **No Issues Found**
@@ -24,6 +37,19 @@ The 1998 Lincoln Mark VIII is a grand touring coupe powered by a 4.6L V8 engine 
 **Electrical:**
 
 **No Issues Found**
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior:**
 
@@ -49,3 +75,15 @@ The 1998 Lincoln Mark VIII is a grand touring coupe powered by a 4.6L V8 engine 
 **Summary:**
 
 The 1998 Lincoln Mark VIII generally has low severity issues with moderate repair costs. The most common issues involve the interior components, specifically the climate control module and power window motors. The lack of recalls and suspension issues indicates that the vehicle is mechanically reliable.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

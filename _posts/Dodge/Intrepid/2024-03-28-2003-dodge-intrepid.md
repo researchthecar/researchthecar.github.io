@@ -47,6 +47,19 @@ The 2003 Dodge Intrepid is a mid-size sedan known for its spacious interior and 
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Struts or Shocks Failure**
@@ -74,6 +87,19 @@ The 2003 Dodge Intrepid is a mid-size sedan known for its spacious interior and 
     * Solution: Replace alternator
     * Estimated Cost to Fix: $300 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -106,3 +132,15 @@ The 2003 Dodge Intrepid is a mid-size sedan known for its spacious interior and 
 **Summary**
 
 The 2003 Dodge Intrepid's most common issues include intake manifold gasket failure, camshaft position sensor failure, and transmission slippage. While the cost of repairs can vary widely, many reported issues can be resolved for under $500. However, more severe issues, such as transmission replacement, can be costly. Overall, the Intrepid's reliability is considered fair, but it may require occasional repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

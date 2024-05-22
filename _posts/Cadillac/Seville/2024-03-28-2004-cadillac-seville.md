@@ -45,6 +45,19 @@ The 2004 Cadillac Seville is a luxury sedan offered with two engine and two tran
    - Estimated Cost to Fix: $300 - $800+
    - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Wear:**
@@ -66,6 +79,19 @@ The 2004 Cadillac Seville is a luxury sedan offered with two engine and two tran
    - Solution: Replace the faulty power window motor.
    - Estimated Cost to Fix: $200 - $500+ per window
    - Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -92,3 +118,15 @@ The 2004 Cadillac Seville is a luxury sedan offered with two engine and two tran
 **Summary**
 
 The 2004 Cadillac Seville faces a range of issues that can vary in severity and cost. Some of the most significant and costly issues include the Northstar head gasket failure and the air bag control module failure. However, many of the other issues are relatively minor and can be resolved at an affordable cost. Overall, it is important for potential owners to be aware of these potential problems and factor them into their purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

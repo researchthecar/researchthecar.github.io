@@ -35,6 +35,19 @@ Solution: Replace or rebuild the transmission.
 Estimated Cost to Fix: $2,500 - $5,000+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air suspension compressor failure:** The air suspension compressor can fail, causing the vehicle to lose its ride height.
@@ -56,6 +69,19 @@ Symptoms: Intermittent electrical problems, check engine light, warning lights.
 Solution: Diagnose the electrical system and repair or replace faulty wiring.
 Estimated Cost to Fix: $500 - $1,500+
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -87,3 +113,15 @@ Recalls: None Found
 **Summary:**
 
 The 1990 Bentley Continental faces several issues, including engine and transmission problems that can be costly to repair. Suspension and electrical issues are also common, and the exterior and interior can experience rust and various malfunctions. The severity of these issues can vary, with some being minor inconveniences and others potentially leading to major expenses. Owners should be prepared for potential repairs and maintenance costs when considering this classic luxury vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

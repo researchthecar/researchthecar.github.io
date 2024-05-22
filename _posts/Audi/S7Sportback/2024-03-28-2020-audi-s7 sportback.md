@@ -30,6 +30,19 @@ The 2020 Audi S7 Sportback is a sleek and powerful luxury sportback that combine
         * Solution: Updating the transmission control software or replacing the transmission fluid.
         * Estimated Cost to Fix: $200 - $400
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -42,6 +55,19 @@ The 2020 Audi S7 Sportback is a sleek and powerful luxury sportback that combine
 * **Infotainment System Bugs:** Glitches and bugs in the infotainment system have been reported, including issues with navigation and connectivity.
         * Solution: Software updates or replacing the infotainment module.
         * Estimated Cost to Fix: $500 - $1,000+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -61,3 +87,15 @@ The 2020 Audi S7 Sportback is a sleek and powerful luxury sportback that combine
 **Summary**
 
 Overall, the 2020 Audi S7 Sportback is a reliable and capable vehicle with minor reported issues. Most of the problems can be resolved with relatively low costs. However, the potential for expensive engine and transmission repairs should be considered before purchasing a used S7 Sportback.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

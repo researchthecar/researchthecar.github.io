@@ -35,6 +35,19 @@ Solution: Update transmission control module software, replace transmission flui
 Estimated Cost to Fix: $200 - $4,000+
 Recalls: NHTSA 20V-451
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -46,6 +59,19 @@ Description/Symptoms: Loss of electrical power to various components, including 
 Solution: Replace faulty wiring harness or electrical components.
 Estimated Cost to Fix: $500 - $2,000+
 Recalls: NHTSA 21V-469
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -62,3 +88,15 @@ Recalls: None Found
 **Summary**
 
 The 2017 Hyundai Tucson is a generally reliable vehicle with a few potential issues. The 2.4L engine's excessive oil consumption can be a serious and expensive problem. Transmission shifting issues can also be costly to repair. However, the majority of issues are relatively minor and inexpensive to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

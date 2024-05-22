@@ -36,6 +36,19 @@ People like the Entourage for its comfortable interior, spacious cargo area, and
     * Estimated Cost to Fix: $1,000 - $2,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mount failure:**
@@ -56,6 +69,19 @@ People like the Entourage for its comfortable interior, spacious cargo area, and
     * Solution: Replace the starter
     * Estimated Cost to Fix: $300 - $500
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -81,3 +107,15 @@ People like the Entourage for its comfortable interior, spacious cargo area, and
 **Summary:**
 
 The 2010 Hyundai Entourage has a few common issues, including timing chain noise, intake manifold gasket failure, and transmission shifting problems. While some of these issues are minor and can be fixed relatively inexpensively, others can be more costly to repair. Overall, the Entourage is a reliable vehicle, but potential buyers should be aware of these potential problems before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -41,6 +41,19 @@ The 2014 Ferrari California is a grand touring convertible powered by a 4.3-lite
     * Estimated Cost to Fix: $3,000 - $5,000+
 * **Recalls:** NHTSA Recall ID: 20V330000 - Transmission control module issue
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Shock Absorber Mounts:**
@@ -64,6 +77,19 @@ The 2014 Ferrari California is a grand touring convertible powered by a 4.3-lite
     * Solution: Replacement of the alternator.
     * Estimated Cost to Fix: $1,000 - $2,000+
 * **Recalls:** NHTSA Recall ID: 19V592000 - Power window switch harness issue
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -94,3 +120,15 @@ The 2014 Ferrari California is a grand touring convertible powered by a 4.3-lite
 **Summary:**
 
 The 2014 Ferrari California is a high-performance grand touring convertible with generally positive reviews. However, it has several reported issues that owners should be aware of, particularly related to the engine, transmission, and electrical systems. Some of these issues can be costly to address, with repairs ranging from $500 to over $10,000. While the severity and cost of the issues vary, potential buyers should consider these factors before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

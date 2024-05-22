@@ -57,6 +57,19 @@ The Lumina was praised for its spacious interior, comfortable ride, and affordab
 
 * **No major issues reported**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut mounts**
@@ -83,6 +96,19 @@ The Lumina was praised for its spacious interior, comfortable ride, and affordab
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Tail light leaking**
@@ -107,3 +133,15 @@ The Lumina was praised for its spacious interior, comfortable ride, and affordab
 **Summary**
 
 The 2001 Chevrolet Lumina is a generally reliable vehicle, but it has some common issues to be aware of. The engine and transmission issues are the most severe and expensive to fix, while the suspension, electrical, exterior, and interior issues are typically less severe and less expensive to fix. Overall, the Lumina is a good value for the money, but it is important to be aware of the potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

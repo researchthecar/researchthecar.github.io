@@ -51,6 +51,19 @@ The 2019 Lincoln Continental is a full-size luxury sedan powered by a standard 3
     * Estimated Cost to Fix: $0 - $100
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Clunking or rattling from front suspension:**
@@ -79,6 +92,19 @@ The 2019 Lincoln Continental is a full-size luxury sedan powered by a standard 3
     * Estimated Cost to Fix: $500 - $1500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Minor paint defects:**
@@ -104,3 +130,15 @@ The 2019 Lincoln Continental is a full-size luxury sedan powered by a standard 3
 **Summary:**
 
 The 2019 Lincoln Continental has some potential issues that can affect its reliability and performance. The most severe issues are the premature timing chain failure and turbocharger wastegate issues, which can be costly to repair. Other issues, such as transmission slipping and suspension noise, can also be frustrating. However, many of these issues can be addressed with relatively inexpensive fixes, such as software updates or component replacements. Overall, the severity of the issues and the cost of repairs vary depending on the specific problem.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

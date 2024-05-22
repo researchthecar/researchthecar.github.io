@@ -34,6 +34,19 @@ The 1991 Chevrolet Astro is a compact van that was offered with two engine and t
 
 * **Clutch failure:** The clutch may fail, causing the transmission to slip or not engage. Symptoms include difficulty shifting gears, slipping gears, and a burning smell. The solution is to replace the clutch. Estimated cost to fix: $500 - $1,000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Ball joint failure:** The ball joints may fail, causing the front end to shake or wobble. Symptoms include clunking noises, wandering steering, and uneven tire wear. The solution is to replace the ball joints. Estimated cost to fix: $200 - $400
@@ -45,6 +58,19 @@ The 1991 Chevrolet Astro is a compact van that was offered with two engine and t
 * **Alternator failure:** The alternator may fail, causing the battery to not charge. Symptoms include dim headlights, electrical system problems, and a dead battery. The solution is to replace the alternator. Estimated cost to fix: $300 - $700
 * **Starter failure:** The starter may fail, causing the engine to not start. Symptoms include clicking noises when trying to start the engine, a dead battery, and no power to the dashboard. The solution is to replace the starter. Estimated cost to fix: $200 - $500
 * **Battery failure:** The battery may fail, causing the vehicle to not start. Symptoms include dim headlights, electrical system problems, and a dead battery. The solution is to replace the battery. Estimated cost to fix: $100 - $250
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -59,3 +85,15 @@ The 1991 Chevrolet Astro is a compact van that was offered with two engine and t
 **Summary**
 
 The 1991 Chevrolet Astro is a reliable and affordable van, but it is not without its issues. The most common problems include intake manifold gasket failure, valve cover gasket failure, head gasket failure, transmission slipping, and torque converter failure. These issues can be expensive to fix, but they are not uncommon for vehicles of this age and mileage. Overall, the Astro is a good choice for those who need a spacious and comfortable van, but it is important to be aware of its potential problems before buying one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

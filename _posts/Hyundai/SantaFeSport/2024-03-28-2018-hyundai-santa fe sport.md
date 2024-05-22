@@ -48,6 +48,19 @@ The 2018 Hyundai Santa Fe Sport is a midsize SUV that offers a comfortable ride 
         * Estimated Cost to Fix: Free (under warranty)
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Springs**
@@ -79,6 +92,19 @@ The 2018 Hyundai Santa Fe Sport is a midsize SUV that offers a comfortable ride 
         * Solution: Replace the alternator.
         * Estimated Cost to Fix: $500 - $1,000+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -115,3 +141,15 @@ The 2018 Hyundai Santa Fe Sport is a midsize SUV that offers a comfortable ride 
 **Summary**
 
 The 2018 Hyundai Santa Fe Sport has received mixed reviews from consumers, with some praising its comfort and spaciousness and others complaining about its reliability and build quality. While the vehicle offers a number of desirable features, it has also been plagued by a number of issues, including some that can be costly to repair. Overall, the severity and cost of the issues with the 2018 Hyundai Santa Fe Sport vary depending on the specific problem. Some issues, such as the climate control system defrosting issues, can be resolved with a free software update. However, other issues, such as the engine oil consumption issue, can be expensive to fix and may require major repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

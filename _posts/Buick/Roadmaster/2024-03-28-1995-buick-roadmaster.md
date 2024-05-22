@@ -55,6 +55,19 @@ The 1995 Buick Roadmaster was a large sedan known for its luxurious interior, sp
     * Estimated Cost to Fix: $200 - $400
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:**
@@ -81,6 +94,19 @@ The 1995 Buick Roadmaster was a large sedan known for its luxurious interior, sp
     * Estimated Cost to Fix: $200 - $400
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Door lock actuators failure:**
@@ -100,3 +126,15 @@ The 1995 Buick Roadmaster was a large sedan known for its luxurious interior, sp
 **Summary:**
 
 The 1995 Buick Roadmaster is a reliable and comfortable sedan with some common issues. Engine and transmission problems can be expensive to fix, but most other issues are relatively minor and affordable. Overall, the Roadmaster is a good choice for those looking for a spacious and powerful vehicle that may require some maintenance over time.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

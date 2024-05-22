@@ -29,6 +29,19 @@ The 2017 Chevrolet Express Cargo is a full-size van offered with a variety of en
 * **4-speed automatic**
     * **Slipping gears:** This issue can cause the transmission to slip out of gear when driving. Symptoms include a loss of power, a grinding noise, and a check engine light. The solution is to rebuild or replace the transmission. Estimated Cost to Fix: $1,500 - $2,500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension:**
@@ -40,6 +53,19 @@ The 2017 Chevrolet Express Cargo is a full-size van offered with a variety of en
 
 * **Battery failure:** This issue can cause the vehicle to not start. Symptoms include a dead battery, a clicking noise when trying to start the vehicle, and a check engine light. The solution is to replace the battery. Estimated Cost to Fix: $100 - $200
 * **Alternator failure:** This issue can cause the vehicle to lose power and eventually stall. Symptoms include a dimming of the headlights, a flickering of the interior lights, and a check engine light. The solution is to replace the alternator. Estimated Cost to Fix: $500 - $1,000
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -55,3 +81,15 @@ The 2017 Chevrolet Express Cargo is a full-size van offered with a variety of en
 **Summary**
 
 The 2017 Chevrolet Express Cargo is a reliable and powerful vehicle, but it is not without its issues. The most common issues include intake manifold gasket failure, timing chain failure, and electrical problems. The severity of these issues can range from minor to major, and the cost to fix them can be significant. However, overall, the Express Cargo is a good choice for businesses and families alike.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

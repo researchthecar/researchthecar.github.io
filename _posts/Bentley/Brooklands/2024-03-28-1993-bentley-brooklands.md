@@ -37,6 +37,19 @@ The 1993 Bentley Brooklands was a luxurious grand tourer powered by a massive 6.
     Estimated Cost to Fix: $1,000 - $2,000+
     Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **No Issues Found**
@@ -54,6 +67,19 @@ The 1993 Bentley Brooklands was a luxurious grand tourer powered by a massive 6.
     Estimated Cost to Fix: $200 - $500+
     Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior:**
 
 * **No Issues Found**
@@ -69,3 +95,15 @@ The 1993 Bentley Brooklands was a luxurious grand tourer powered by a massive 6.
 **Summary:**
 
 The 1993 Bentley Brooklands is a luxurious and powerful vehicle, but it does come with its share of issues. The engine and transmission in particular can be prone to expensive repairs. However, the Brooklands remains a sought-after classic for its performance, style, and exclusivity. Owners should be prepared for potential repair costs when owning and maintaining this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

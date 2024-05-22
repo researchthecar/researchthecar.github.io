@@ -52,6 +52,19 @@ People like the Elantra GT for its nimble handling, spacious interior, and gener
     * Estimated Cost to Fix: $300 - $800+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Noise:**
@@ -73,6 +86,19 @@ People like the Elantra GT for its nimble handling, spacious interior, and gener
     * Estimated Cost to Fix: $100 - $300+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rear Bumper Fitment Issues:**
@@ -92,3 +118,15 @@ People like the Elantra GT for its nimble handling, spacious interior, and gener
 **Summary**
 
 The 2019 Hyundai Elantra GT is a generally reliable vehicle, but it has been known to experience some issues, particularly with its engine, transmission, and suspension. While some of these issues can be relatively minor and inexpensive to fix, others can be more severe and costly. Owners should be aware of these potential problems and factor them into their decision-making process when considering purchasing an Elantra GT.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

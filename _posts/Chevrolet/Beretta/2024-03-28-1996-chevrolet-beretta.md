@@ -60,6 +60,19 @@ The 1996 Chevrolet Beretta was a mid-sized coupe that offered a choice of two en
     * Estimated Cost to Fix: $1,500 - $2,500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arm Bushings Wear:**
@@ -75,6 +88,19 @@ The 1996 Chevrolet Beretta was a mid-sized coupe that offered a choice of two en
     * Solution: Replace alternator
     * Estimated Cost to Fix: $300 - $600
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -100,3 +126,15 @@ The 1996 Chevrolet Beretta was a mid-sized coupe that offered a choice of two en
 **Summary:**
 
 The 1996 Chevrolet Beretta is a reliable and affordable vehicle, but it does have some common issues that can affect its performance and reliability. The most serious issues are related to the engine, transmission, and electrical system. The intake manifold gasket failure, head gasket failure, and torque converter failure can all be costly to repair. However, other issues, such as alternator failure, headlight lens clouding, and power window failure, are relatively minor and inexpensive to fix. Overall, the Beretta is a good choice for budget-minded drivers who are looking for a sporty and stylish coupe.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

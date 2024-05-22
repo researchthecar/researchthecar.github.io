@@ -52,6 +52,19 @@ The 1991 Cadillac DeVille was a luxurious and spacious sedan that offered a refi
     * Estimated Cost to Fix: $100 - $300
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Worn Front Control Arms and Ball Joints:**
@@ -77,6 +90,19 @@ The 1991 Cadillac DeVille was a luxurious and spacious sedan that offered a refi
     * Solution: Replace alternator
     * Estimated Cost to Fix: $300 - $500
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -107,3 +133,15 @@ The 1991 Cadillac DeVille was a luxurious and spacious sedan that offered a refi
 **Summary:**
 
 The 1991 Cadillac DeVille had a range of issues, varying in severity and cost. Engine problems, such as intake manifold gasket failure and valve cover gasket leaks, were fairly common. Transmission issues, including shifting problems and fluid leaks, could also be encountered. Suspension components, like control arms and ball joints, were prone to wear. Electrical problems, such as battery failures and alternator issues, were also reported. Exterior and interior issues were less severe but could still affect the overall driving experience. Overall, while the DeVille offered a comfortable and luxurious ride, it did have some notable mechanical issues that could be costly to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

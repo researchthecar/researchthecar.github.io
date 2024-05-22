@@ -29,6 +29,19 @@ The Andare received positive reviews for its comfortable ride, well-appointed in
      * Estimated Cost to Fix: $2,000 - $4,000+
      * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension**
@@ -48,6 +61,19 @@ The Andare received positive reviews for its comfortable ride, well-appointed in
      * Solution: Replace the battery.
      * Estimated Cost to Fix: $100 - $200+
      * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -70,3 +96,15 @@ The Andare received positive reviews for its comfortable ride, well-appointed in
 **Summary**
 
 The 2005 Mercedes-Benz Andare is a well-built luxury sedan that offers a comfortable ride and a powerful engine. However, it is important to be aware of the potential issues that can occur with this vehicle. The most severe issues are the intake manifold runner control issues on the 3.5-liter V6 engine and the slipping gears issue with the 5-speed automatic transmission. These issues can be expensive to fix, so it is important to factor in the potential cost of repairs when considering purchasing an Andare.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -38,6 +38,19 @@ The 2018 Mercedes-Benz AMG GT is a high-performance sports car that comes with a
         * Estimated Cost to Fix: $2,500 - $3,500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Components**
@@ -60,6 +73,19 @@ The 2018 Mercedes-Benz AMG GT is a high-performance sports car that comes with a
         * Estimated Cost to Fix: $1,500 - $2,500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Headlight Condensation**
@@ -79,3 +105,15 @@ The 2018 Mercedes-Benz AMG GT is a high-performance sports car that comes with a
 **Summary**
 
 The 2018 Mercedes-Benz AMG GT is a powerful and stylish sports car, but it has had its fair share of issues. While some of these problems are relatively minor, others, such as engine or transmission failures, can be quite expensive to fix. Overall, the severity and cost of the issues with the AMG GT vary depending on the specific problem, but it is important to be aware of these potential issues before purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

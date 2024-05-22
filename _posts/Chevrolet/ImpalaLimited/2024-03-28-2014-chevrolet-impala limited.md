@@ -65,3 +65,15 @@ People like the Impala Limited for its comfortable ride, spacious cabin, and pow
 ### Summary
 
 The 2014 Chevrolet Impala Limited is a comfortable and powerful sedan, but it has been plagued by a number of issues, including engine and transmission problems. The severity and cost of these issues vary, but some can be expensive to fix. If you are considering buying a 2014 Chevrolet Impala Limited, be sure to do your research and be aware of the potential issues that you may encounter.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

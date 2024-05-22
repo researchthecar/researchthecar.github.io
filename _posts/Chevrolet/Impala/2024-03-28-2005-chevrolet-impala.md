@@ -34,6 +34,19 @@ The 2005 Chevrolet Impala is a full-size sedan available with a 3.4L or 3.8L V6 
   * Estimated Cost to Fix: $1,500 - $2,500
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front Suspension Strut Failure:**
   * Description: The front suspension struts can fail, causing a loss of stability and a rough ride.
@@ -49,6 +62,19 @@ The 2005 Chevrolet Impala is a full-size sedan available with a 3.4L or 3.8L V6 
   * Solution: Replace the alternator.
   * Estimated Cost to Fix: $400 - $600
   * Recalls: 05V052000; 06V021000; 06V114000
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **Door Handle Failure:**
@@ -68,3 +94,15 @@ The 2005 Chevrolet Impala is a full-size sedan available with a 3.4L or 3.8L V6 
 
 **Summary**
 The 2005 Chevrolet Impala has several potential issues, particularly with the engine and transmission. The severity of these issues ranges from minor inconveniences to major repairs. The estimated costs to fix these issues can be significant, especially for engine and transmission rebuilds. Owners should be aware of these potential problems and address them promptly to avoid further damage or costly repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

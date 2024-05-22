@@ -39,3 +39,15 @@ The 2019 Cadillac Escalade ESV is a full-size luxury SUV with seating for up to 
 ### Summary
 
 The 2019 Cadillac Escalade ESV has received complaints regarding certain components, particularly its engine and transmission. These issues range in severity and cost, with some being relatively minor and others potentially more expensive.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

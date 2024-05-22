@@ -29,6 +29,19 @@ The 2017 Land Rover Discovery is a versatile and capable SUV with a range of eng
 
 * **Transmission Slippage:** Description/Symptoms: Transmission slipping, resulting in delayed gear changes, hesitation, or loss of power. Solution: Rebuild or replace the transmission. Estimated Cost to Fix: $3,000 - $5,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Air Suspension Failure:** Description/Symptoms: Air suspension bags fail, causing the vehicle to sag or lean. Solution: Replace the air suspension bags. Estimated Cost to Fix: $1,500 - $2,500+
@@ -37,6 +50,19 @@ The 2017 Land Rover Discovery is a versatile and capable SUV with a range of eng
 **Electrical:**
 
 * **Battery Drain:** Description/Symptoms: Battery drains quickly, potentially resulting in vehicle starting issues. Solution: Diagnose and repair the source of the battery drain. Estimated Cost to Fix: Varies depending on the source
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior:**
 
@@ -50,3 +76,15 @@ The 2017 Land Rover Discovery is a versatile and capable SUV with a range of eng
 **Summary:**
 
 The 2017 Land Rover Discovery has experienced various issues, some of which are severe and costly to fix. Engine problems, particularly with the 3.0L V6 engine, have been prevalent. Transmission problems and suspension failures can also be expensive to repair. While the vehicle offers many desirable features and capabilities, potential owners should be aware of these issues and consider them during their purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

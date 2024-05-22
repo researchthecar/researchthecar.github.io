@@ -46,6 +46,19 @@ The 2020 Hyundai Sonata is a midsize sedan available with a variety of engine an
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: NHTSA Campaign Number: 22V196000 | Hyundai Campaign Number: 221
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Strut Mount Failure:** Premature wear or failure of the strut mounts can cause excessive noise, vibration, and handling instability.
     * Solution: Replacing the strut mounts.
@@ -61,6 +74,19 @@ The 2020 Hyundai Sonata is a midsize sedan available with a variety of engine an
     * Solution: Identifying and repairing the underlying electrical fault or replacing faulty components.
     * Estimated Cost to Fix: $50 - $300+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -82,3 +108,15 @@ The 2020 Hyundai Sonata has a few reported issues affecting specific components,
 * Interior: Door panel buzzing
 
 Overall, these issues can be inconvenient and costly to repair, potentially impacting the reliability and value of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

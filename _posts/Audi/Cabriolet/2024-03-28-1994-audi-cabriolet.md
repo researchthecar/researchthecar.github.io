@@ -35,6 +35,19 @@ The 1994 Audi Cabriolet is a compact luxury convertible available with two engin
         - Estimated Cost to Fix: $800 - $1,200+
         - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Front Struts:** Worn or leaking front struts can lead to a rough ride, reduced handling, and premature tire wear.
@@ -48,6 +61,19 @@ The 1994 Audi Cabriolet is a compact luxury convertible available with two engin
         - Solution: Replace the alternator.
         - Estimated Cost to Fix: $500 - $800+
         - Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -66,3 +92,15 @@ The 1994 Audi Cabriolet is a compact luxury convertible available with two engin
 **Summary:**
 
 The 1994 Audi Cabriolet has known issues with engine leaks, transmission problems, suspension wear, and electrical malfunctions. The severity and cost of repairs vary depending on the issue. While the Cabriolet offers a stylish and comfortable driving experience, its reliability has been a significant drawback for many owners.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -56,6 +56,19 @@ People like the Escalade ESV for its spacious cabin, luxurious amenities, and po
     * **Estimated Cost to Fix:** $500 - $1,000
     * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension noise:** Some owners have reported a clunking noise from the front suspension.
@@ -79,6 +92,19 @@ People like the Escalade ESV for its spacious cabin, luxurious amenities, and po
     * **Solution:** Replace the faulty electrical components.
     * **Estimated Cost to Fix:** $500 - $2,000
     * **Recalls:** None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -107,3 +133,15 @@ People like the Escalade ESV for its spacious cabin, luxurious amenities, and po
 **Summary**
 
 The 2016 Cadillac Escalade ESV is a spacious and luxurious SUV, but it has some potential issues with its engine, transmission, suspension, electrical systems, and interior. The severity and cost of the issues vary depending on the specific problem. Some issues, such as headlight condensation, are relatively minor and inexpensive to fix. However, other issues, such as a faulty timing chain, can be more severe and expensive to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

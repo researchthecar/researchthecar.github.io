@@ -48,6 +48,19 @@ The 1990 Chevrolet S10 Blazer was a compact SUV that was popular for its ruggedn
     Estimated Cost to Fix: $1,500 - $2,500+
     Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear leaf spring failure**
@@ -73,6 +86,19 @@ Description/Symptoms: Grinding noise when starting, engine won't start
 Solution: Replace the starter
 Estimated Cost to Fix: $300 - $600
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -103,3 +129,15 @@ Recalls: None Found
 **Summary**
 
 The 1990 Chevrolet S10 Blazer is a reliable SUV that is known for its off-road capabilities. However, it is important to be aware of the potential issues that can occur with this vehicle. Engine, suspension, and electrical issues are the most common, and can range in severity and cost. Rust can also be a concern, especially in areas with harsh winters.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

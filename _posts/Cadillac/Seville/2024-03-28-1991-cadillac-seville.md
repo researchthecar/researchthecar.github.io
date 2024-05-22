@@ -32,6 +32,19 @@ The 1991 Cadillac Seville is a luxurious midsize sedan powered by a 4.9L V8 engi
         * Estimated Cost to Fix: $1,500 - $3,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure**
@@ -57,6 +70,19 @@ The 1991 Cadillac Seville is a luxurious midsize sedan powered by a 4.9L V8 engi
         * Solution: Replace starter
         * Estimated Cost to Fix: $300 - $600+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -87,3 +113,15 @@ The 1991 Cadillac Seville is a luxurious midsize sedan powered by a 4.9L V8 engi
 **Summary:**
 
 Overall, the 1991 Cadillac Seville is a reliable vehicle with a comfortable interior and ample power. However, it is prone to several issues, particularly with the engine, transmission, and suspension. Some of these issues can be costly to repair, especially head gasket failure and transmission slipping. Therefore, it is important to carefully consider the potential costs before purchasing a used vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

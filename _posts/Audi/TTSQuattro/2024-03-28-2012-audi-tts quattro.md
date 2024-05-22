@@ -41,6 +41,19 @@ Despite its impressive performance and capabilities, the 2012 Audi TTS Quattro h
     * Estimated Cost to Fix: $2,000 - $4,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Bearing Failure**
@@ -61,6 +74,19 @@ Despite its impressive performance and capabilities, the 2012 Audi TTS Quattro h
     * Solution: Diagnosis and repair of faulty wiring or modules
     * Estimated Cost to Fix: Varies depending on the issue
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Headlight Condensation**
@@ -80,3 +106,15 @@ Despite its impressive performance and capabilities, the 2012 Audi TTS Quattro h
 **Summary**
 
 The 2012 Audi TTS Quattro is a high-performance sports car that offers an enjoyable driving experience. However, it is not without its issues. Some of the more common problems include carbon buildup on intake valves, timing chain tensioner failure, and electrical gremlins. While these issues can be frustrating, most are relatively minor and can be fixed for a reasonable cost. However, some, such as mechatronic unit failure, can be more expensive to repair. Overall, the severity and cost of the issues found in the 2012 Audi TTS Quattro should be considered when making a purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

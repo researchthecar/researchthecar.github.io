@@ -45,6 +45,19 @@ Many owners of the Excursion are satisfied with its powerful engines, spacious i
 
 * **No Major Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Ball Joint Failure:** The front suspension ball joints may fail, which can cause the vehicle to pull to one side or the other while driving. The solution is to replace the ball joints. Estimated cost to fix: $500-$1,000
@@ -54,6 +67,19 @@ Many owners of the Excursion are satisfied with its powerful engines, spacious i
 **Electrical**
 
 * **Battery Drain:** The battery may drain on Excursions equipped with the factory-installed remote start system. The solution is to disconnect the remote start system. Estimated cost to fix: $0
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -68,3 +94,15 @@ Many owners of the Excursion are satisfied with its powerful engines, spacious i
 **Summary:**
 
 The 2004 Ford Excursion is a capable and spacious SUV, but it has some common issues. The most severe issue is the head bolt failure in the 6.0L V8 engine, which can lead to catastrophic engine damage. The other issues are generally less severe and less expensive to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

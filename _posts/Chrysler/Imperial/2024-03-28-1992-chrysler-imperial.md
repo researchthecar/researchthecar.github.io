@@ -51,3 +51,15 @@ The 1992 Chrysler Imperial was a full-size luxury sedan that was offered with tw
 ### **Summary**
 
 The 1992 Chrysler Imperial is a spacious and powerful sedan with a comfortable ride. However, it is plagued by a number of potential issues, including head gasket failure, transmission problems, and electrical issues. These issues can be costly to repair, so it is important to consider them before purchasing one of these vehicles.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

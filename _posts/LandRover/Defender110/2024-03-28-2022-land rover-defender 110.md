@@ -37,6 +37,19 @@ The 2022 Land Rover Defender 110 is a rugged SUV with a powerful engine and adva
     * Estimated Cost to Fix: $3,500 - $5,000
     * Recalls: LR07692
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Axle Bushing Failure:**
@@ -65,6 +78,19 @@ The 2022 Land Rover Defender 110 is a rugged SUV with a powerful engine and adva
     * Estimated Cost to Fix: $100 - $500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust Formation:**
@@ -90,3 +116,15 @@ The 2022 Land Rover Defender 110 is a rugged SUV with a powerful engine and adva
 **Summary:**
 
 The 2022 Land Rover Defender 110 has received mixed reviews from owners. While it is a capable off-road vehicle with a luxurious interior, it has faced several reliability issues, some of which can be costly to repair. Engine problems, transmission issues, and suspension failures are among the most serious concerns reported. Additionally, electrical gremlins, exterior rust formation, and interior malfunctions have been experienced by some owners. Potential buyers should be aware of these potential issues and factor them into their purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

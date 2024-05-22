@@ -46,6 +46,19 @@ The 2004 Chevrolet Corsa is a subcompact hatchback that offers a balance of prac
     * Estimated Cost to Fix: $400 - $800+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Shock Absorber Leaks:**
@@ -71,6 +84,19 @@ The 2004 Chevrolet Corsa is a subcompact hatchback that offers a balance of prac
     * Solution: Identify and fix electrical drain
     * Estimated Cost to Fix: Varies depending on the cause
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -101,3 +127,15 @@ The 2004 Chevrolet Corsa is a subcompact hatchback that offers a balance of prac
 **Summary:**
 
 The 2004 Chevrolet Corsa is a reliable and affordable subcompact hatchback with a few potential issues to be aware of. Engine issues, such as blown head gaskets and fuel pump failures, can be costly to repair. Transmission problems, including shifter cable issues and solenoid failures, are also relatively common. The suspension and electrical systems can also experience problems, such as shock absorber leaks and alternator failures. Fortunately, most of these issues are not severe and can be fixed at a reasonable cost. Overall, the Corsa is a good choice for budget-conscious consumers who prioritize practicality and fuel efficiency.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

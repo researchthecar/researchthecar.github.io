@@ -33,6 +33,19 @@ The 2022 Hyundai Santa Cruz is a compact pickup truck that offers a unique blend
     * Estimated Cost to Fix: $150 - $300+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Suspension Noise Issue:**
@@ -48,6 +61,19 @@ The 2022 Hyundai Santa Cruz is a compact pickup truck that offers a unique blend
     * Solution: Inspect and replace the battery or faulty electrical components.
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -68,3 +94,15 @@ The 2022 Hyundai Santa Cruz is a compact pickup truck that offers a unique blend
 **Summary:**
 
 The 2022 Hyundai Santa Cruz offers a unique blend of features and performance, but it has some common issues, particularly with the turbocharged engine, transmission, and suspension. The severity of the issues varies, with some being relatively minor and inexpensive to fix, while others can be more serious and costly. Overall, the Santa Cruz is a reliable vehicle with good value for money, but potential buyers should be aware of the potential issues before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

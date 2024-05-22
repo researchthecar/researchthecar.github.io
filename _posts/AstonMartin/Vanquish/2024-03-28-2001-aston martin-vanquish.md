@@ -37,6 +37,19 @@ The 2001 Aston Martin Vanquish is a luxury grand tourer with a sleek design and 
     * Estimated Cost to Fix: $500 - $1000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushings Wear**
@@ -59,6 +72,19 @@ The 2001 Aston Martin Vanquish is a luxury grand tourer with a sleek design and 
     * Estimated Cost to Fix: $600 - $1000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Plastic Trim Fade**
@@ -78,3 +104,15 @@ The 2001 Aston Martin Vanquish is a luxury grand tourer with a sleek design and 
 **Summary**
 
 The 2001 Aston Martin Vanquish is a desirable luxury vehicle, but it is not without its potential issues. The engine and transmission issues can be costly to repair, but the suspension, electrical, exterior, and interior problems tend to be less severe and less expensive to fix. Overall, the Vanquish remains a desirable choice for enthusiasts who are willing to spend on maintenance and repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

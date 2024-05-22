@@ -36,6 +36,19 @@ The 2017 Hyundai Elantra is a compact sedan that comes standard with a 147-horse
     * Estimated Cost to Fix: $1,500 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **No Issues Found**
 
@@ -45,6 +58,19 @@ The 2017 Hyundai Elantra is a compact sedan that comes standard with a 147-horse
 * Solution: Repair the electrical shorts.
 * Estimated Cost to Fix: $100 - $500+
 * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **No Issues Found**
@@ -63,3 +89,15 @@ The 2017 Hyundai Elantra is a compact sedan that comes standard with a 147-horse
 
 **Summary**
 The 2017 Hyundai Elantra is a reliable and affordable compact sedan. However, it is important to be aware of the potential issues that it can have. The most serious issues are the intake manifold failure and the turbocharger issues. These issues can cause a loss of engine power and can be expensive to fix. The other issues are less serious, but they can still be annoying. Overall, the Elantra is a good value for the money, but it is important to do your research before buying one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

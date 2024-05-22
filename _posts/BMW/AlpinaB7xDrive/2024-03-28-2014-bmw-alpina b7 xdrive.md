@@ -32,6 +32,19 @@ The 2014 BMW Alpina B7 xDrive is a high-performance luxury sedan powered by a 4.
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Compressor Failure**
@@ -53,6 +66,19 @@ The 2014 BMW Alpina B7 xDrive is a high-performance luxury sedan powered by a 4.
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Fog Light Condensation**
@@ -72,3 +98,15 @@ The 2014 BMW Alpina B7 xDrive is a high-performance luxury sedan powered by a 4.
 **Summary**
 
 The 2014 BMW Alpina B7 xDrive generally receives positive reviews for its performance and luxury features. However, it does have some potential issues that owners should be aware of. The most common issues seem to be related to the engine, transmission, and electrical system. The severity and cost of these issues can vary depending on the specific problem and its extent. It is recommended to have the vehicle inspected by a qualified mechanic before purchasing and to perform regular maintenance to minimize the risk of problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

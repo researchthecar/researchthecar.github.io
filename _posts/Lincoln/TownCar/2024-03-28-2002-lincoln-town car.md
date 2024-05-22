@@ -44,6 +44,19 @@ The 2002 Lincoln Town Car is a full-size luxury sedan that combines comfort and 
   * Estimated Cost to Fix: $200 - $500
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut and Shock Absorber Failure**
@@ -70,6 +83,19 @@ The 2002 Lincoln Town Car is a full-size luxury sedan that combines comfort and 
   * Estimated Cost to Fix: $200 - $400
   * Recalls: 02V326000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Cracked Headlight Lenses**
@@ -89,3 +115,15 @@ The 2002 Lincoln Town Car is a full-size luxury sedan that combines comfort and 
 **Summary**
 
 The 2002 Lincoln Town Car offers a comfortable and luxurious ride, but it is not without its issues. The engine and transmission can experience costly repairs, while the suspension and electrical components require regular maintenance. Interior issues are generally less severe and less expensive to fix. Overall, the Town Car is a relatively reliable vehicle, but potential buyers should be aware of its potential problems and factor in the cost of repairs when making their decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

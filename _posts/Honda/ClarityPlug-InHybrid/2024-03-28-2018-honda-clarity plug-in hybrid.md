@@ -21,6 +21,19 @@ The 2018 Honda Clarity Plug-In Hybrid is a midsize sedan that offers a combinati
 
 **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -28,6 +41,19 @@ The 2018 Honda Clarity Plug-In Hybrid is a midsize sedan that offers a combinati
 **Electrical**
 
 **No Issues Found**
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -50,3 +76,15 @@ The 2018 Honda Clarity Plug-In Hybrid is a midsize sedan that offers a combinati
 **Summary:**
 
 Overall, the 2018 Honda Clarity Plug-In Hybrid has a good reliability record with relatively few reported issues. The most common problems are related to the infotainment system, which can be resolved with a software update. The estimated cost to fix most issues on the Clarity Plug-In Hybrid is relatively low, as many of the components are covered under warranty.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

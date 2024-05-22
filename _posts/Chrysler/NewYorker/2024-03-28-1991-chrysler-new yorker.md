@@ -39,6 +39,19 @@ Owners generally appreciate the New Yorker's roomy cabin, smooth ride quality, a
 * **Torque Converter Shudder:** Description/Symptoms: Vibration while shifting or accelerating. Solution: Replace torque converter. Estimated Cost to Fix: $800 - $1200
 * **Solenoid Failure:** Description/Symptoms: Hard or delayed shifting, transmission slipping. Solution: Replace solenoids. Estimated Cost to Fix: $200 - $400
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure:** Description/Symptoms: Clunking noises, uneven tire wear, poor handling. Solution: Replace struts. Estimated Cost to Fix: $400 - $600 per pair
@@ -48,6 +61,19 @@ Owners generally appreciate the New Yorker's roomy cabin, smooth ride quality, a
 
 * **Battery Drainage:** Description/Symptoms: Battery dies prematurely. Solution: Test and replace battery or alternator as needed. Estimated Cost to Fix: $100 - $400
 * **Electrical System Malfunctions:** Description/Symptoms: Intermittent electrical issues such as lights flickering, gauges not working. Solution: Diagnose and repair specific electrical components as needed. Estimated Cost to Fix: Varies depending on the issue.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -61,3 +87,15 @@ Owners generally appreciate the New Yorker's roomy cabin, smooth ride quality, a
 **Summary:**
 
 The 1991 Chrysler New Yorker offers a comfortable and spacious driving experience but has potential issues with engine head gaskets, water pumps, and transmission shudder. Maintenance and repairs can range from minor to moderate in cost. Overall, the vehicle's reliability may vary depending on its age, mileage, and maintenance history.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

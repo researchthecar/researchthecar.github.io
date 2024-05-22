@@ -58,6 +58,19 @@ The 2017 Land Rover Discovery Sport is a compact luxury SUV that offers a blend 
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Failure:**
@@ -79,6 +92,19 @@ The 2017 Land Rover Discovery Sport is a compact luxury SUV that offers a blend 
     * **Description/Symptoms:** Battery goes dead after sitting, rapid battery discharge
     * **Solution:** Diagnose and repair electrical drain (usually caused by parasitic draw)
     * **Estimated Cost to Fix:** $500 - $1,000+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -105,3 +131,15 @@ The 2017 Land Rover Discovery Sport is a compact luxury SUV that offers a blend 
 **Summary:**
 
 The 2017 Land Rover Discovery Sport has been met with mixed reviews regarding its reliability. While it offers a compelling combination of style, comfort, and off-road capability, it has also faced numerous issues across multiple components, including its engine, transmission, suspension, electrical system, and exterior. Some of the reported issues can be severe and costly to repair, which may deter potential buyers or raise concerns for current owners. It's recommended to thoroughly research and consider these potential problems before making a purchase decision or owning one of these vehicles.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

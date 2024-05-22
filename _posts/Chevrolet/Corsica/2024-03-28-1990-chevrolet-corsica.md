@@ -43,6 +43,19 @@ The 1990 Chevrolet Corsica is a mid-size sedan that was praised for its affordab
 * **Slipping or shuddering:** Symptoms include difficulty accelerating or shifting gears smoothly. Solution: Replace or rebuild the transmission. Estimated Cost: $1,000 - $2,500+
 * **TCC solenoid failure:** Symptoms include torque converter lockup issues, reduced fuel efficiency, and possible transmission overheating. Solution: Replace the TCC solenoid. Estimated Cost: $200 - $400+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** Symptoms include excessive vibration, reduced handling, and possible suspension damage. Solution: Replace the struts. Estimated Cost: $400 - $800+
@@ -53,6 +66,19 @@ The 1990 Chevrolet Corsica is a mid-size sedan that was praised for its affordab
 * **Alternator failure:** Symptoms include a discharged battery, dimming lights, and electrical system malfunctions. Solution: Replace the alternator. Estimated Cost: $300 - $600+
 * **Starter failure:** Symptoms include difficulty starting the engine or a grinding noise when starting. Solution: Replace the starter. Estimated Cost: $200 - $400+
 * **Window switch failure:** Symptoms include difficulty operating the electric windows. Solution: Replace the window switch. Estimated Cost: $50 - $150+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -67,3 +93,15 @@ The 1990 Chevrolet Corsica is a mid-size sedan that was praised for its affordab
 **Summary**
 
 The 1990 Chevrolet Corsica is a generally reliable vehicle, but it can experience some issues, particularly with the engine and transmission. Repairs can be costly, with major issues potentially requiring significant investment. It is important to consider these potential issues when evaluating the vehicle and budgeting for future maintenance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

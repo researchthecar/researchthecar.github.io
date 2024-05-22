@@ -34,6 +34,19 @@ The 2014 Cadillac Escalade ESV is a full-size luxury SUV offered with the follow
 * **8-speed automatic transmission**
     * No Issues Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension**
@@ -58,6 +71,19 @@ The 2014 Cadillac Escalade ESV is a full-size luxury SUV offered with the follow
         * Estimated Cost to Fix: $1,000 - $2,000+
         * Recalls: NHTSA Campaign ID: 16V812
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Door handles**
@@ -79,3 +105,15 @@ The 2014 Cadillac Escalade ESV is a full-size luxury SUV offered with the follow
 **Summary**
 
 The 2014 Cadillac Escalade ESV has some reported issues, including oil leaks, transmission problems, and suspension noise. While most issues are relatively minor and inexpensive to fix, some electrical and suspension issues can be more expensive. Overall, the vehicle offers a luxurious driving experience but may require occasional repairs and maintenance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

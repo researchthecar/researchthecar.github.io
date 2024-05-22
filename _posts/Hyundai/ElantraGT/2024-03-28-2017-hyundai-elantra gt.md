@@ -55,6 +55,19 @@ Owners praise the Elantra GT's stylish design, spacious interior, and well-equip
     * Estimated Cost to Fix: $500 - $1,200
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Noise**
@@ -70,6 +83,19 @@ Owners praise the Elantra GT's stylish design, spacious interior, and well-equip
     * Solution: Testing the electrical system to identify the source of the drain (e.g., faulty battery, alternator, or electrical device).
     * Estimated Cost to Fix: Varies depending on the source of the drain
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -90,3 +116,15 @@ Owners praise the Elantra GT's stylish design, spacious interior, and well-equip
 **Summary**
 
 Overall, the 2017 Hyundai Elantra GT has its fair share of potential issues. While some of these issues are minor and relatively inexpensive to fix, others can be more severe and costly. Serious problems such as engine oil consumption and transmission slipping can significantly impact the reliability and longevity of the vehicle. Before purchasing an Elantra GT, it is important to be aware of these issues and factor them into your decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

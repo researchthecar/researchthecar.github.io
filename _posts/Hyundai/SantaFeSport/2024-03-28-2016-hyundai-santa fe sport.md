@@ -28,6 +28,19 @@ The 2016 Hyundai Santa Fe Sport is a mid-size SUV powered by a 2.4L inline-4 eng
     * Solution: Software update, transmission fluid flush
     * Estimated Cost to Fix: $100 - $500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Noise:**
@@ -47,6 +60,19 @@ The 2016 Hyundai Santa Fe Sport is a mid-size SUV powered by a 2.4L inline-4 eng
     * Estimated Cost to Fix: $300 - $1,000+
     * Recalls: NHTSA Recall ID 21V284000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Windshield Cracking:**
@@ -64,3 +90,15 @@ The 2016 Hyundai Santa Fe Sport is a mid-size SUV powered by a 2.4L inline-4 eng
 **Summary:**
 
 While the Hyundai Santa Fe Sport has generally positive reviews, some owners have experienced issues with various components. These issues include engine intake manifold problems, transmission shifting hesitation, suspension strut mount noise, electrical problems, exterior windshield cracking, and interior infotainment system crashes. The severity and cost of these issues vary depending on the specific problem.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

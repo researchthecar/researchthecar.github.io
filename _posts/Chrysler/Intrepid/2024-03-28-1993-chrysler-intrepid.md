@@ -33,6 +33,19 @@ The 1993 Chrysler Intrepid was a mid-size sedan that offered a comfortable ride 
         * Estimated Cost to Fix: $1,500 - $2,500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut failure**
@@ -58,6 +71,19 @@ The 1993 Chrysler Intrepid was a mid-size sedan that offered a comfortable ride 
     * Solution: Diagnose and repair electrical short
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -88,3 +114,15 @@ The 1993 Chrysler Intrepid was a mid-size sedan that offered a comfortable ride 
 **Summary**
 
 The 1993 Chrysler Intrepid is a mid-size sedan that offers a comfortable ride and a spacious interior. However, it is known to have several issues, including engine problems, transmission issues, suspension issues, and electrical issues. The severity and cost of these issues can vary depending on the specific problem and the extent of the damage. Overall, the Intrepid is a reliable vehicle, but it is important to be aware of potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

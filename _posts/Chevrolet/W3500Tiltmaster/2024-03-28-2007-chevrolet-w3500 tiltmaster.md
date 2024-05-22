@@ -39,6 +39,19 @@ Despite its rugged capabilities, the W3500 Tiltmaster has a comfortable and spac
     * Estimated Cost to Fix: $200 - $500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Leaf Spring Failure:**
@@ -67,6 +80,19 @@ Despite its rugged capabilities, the W3500 Tiltmaster has a comfortable and spac
     * Estimated Cost to Fix: $300 - $800+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Headlight Failure:**
@@ -92,3 +118,15 @@ Despite its rugged capabilities, the W3500 Tiltmaster has a comfortable and spac
 **Summary**
 
 The 2007 Chevrolet W3500 Tiltmaster is a capable heavy-duty truck with impressive towing and payload capabilities. However, it has a number of potential issues that can be costly to repair, such as injector failure, turbocharger failure, and rear leaf spring failure. It also lacks modern safety features and has high fuel consumption.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

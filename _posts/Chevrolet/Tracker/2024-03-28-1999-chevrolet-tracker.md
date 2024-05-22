@@ -57,6 +57,19 @@ The 1999 Chevrolet Tracker is a compact SUV powered by a 2.0-liter inline-four e
   - Estimated Cost to Fix: $800 - $1500+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Front Strut Bearing Failure**
@@ -83,6 +96,19 @@ The 1999 Chevrolet Tracker is a compact SUV powered by a 2.0-liter inline-four e
   - Estimated Cost to Fix: $200 - $500+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 - **Rust and Corrosion**
@@ -102,3 +128,15 @@ The 1999 Chevrolet Tracker is a compact SUV powered by a 2.0-liter inline-four e
 **Summary**
 
 The 1999 Chevrolet Tracker has a number of reported issues, particularly related to the engine, transmission, and suspension. The severity and cost of these issues can vary, but some can be expensive to repair. Potential buyers should thoroughly research and inspect potential vehicles to avoid costly problems down the road.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

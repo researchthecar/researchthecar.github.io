@@ -34,6 +34,19 @@ The 2018 Bentley Mulsanne is powered by a 6.75-liter twin-turbocharged V8 engine
     * Estimated Cost to Fix: $4,000 - $8,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air suspension failure**
@@ -55,6 +68,19 @@ The 2018 Bentley Mulsanne is powered by a 6.75-liter twin-turbocharged V8 engine
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Door handle failure**
@@ -74,3 +100,15 @@ The 2018 Bentley Mulsanne is powered by a 6.75-liter twin-turbocharged V8 engine
 **Summary**
 
 The 2018 Bentley Mulsanne is a luxury vehicle with a powerful engine and elegant design. However, some issues have been reported, including engine problems, transmission slippage, suspension failures, and electrical system malfunctions. The severity and cost of these issues vary, but some can be expensive to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

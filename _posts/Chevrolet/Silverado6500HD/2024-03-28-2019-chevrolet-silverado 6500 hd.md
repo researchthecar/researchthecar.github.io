@@ -55,6 +55,19 @@ While the Silverado 6500 HD is a capable and popular truck, it has not been immu
 * Estimated Cost to Fix: $3,000 - $5,000+
 * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Coil Spring Failure:**
@@ -70,6 +83,19 @@ While the Silverado 6500 HD is a capable and popular truck, it has not been immu
 * Solution: Replace battery sensor
 * Estimated Cost to Fix: $200 - $300+
 * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -90,3 +116,15 @@ While the Silverado 6500 HD is a capable and popular truck, it has not been immu
 **Summary:**
 
 The 2019 Chevrolet Silverado 6500 HD has a range of issues that can affect its engine, transmission, suspension, electrical system, exterior, and interior. Some of these problems are minor and inexpensive to fix, while others can be major and costly repairs. Overall, it is important for potential buyers to be aware of these potential issues and factor them into their decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

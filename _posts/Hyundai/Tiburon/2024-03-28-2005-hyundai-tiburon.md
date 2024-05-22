@@ -42,6 +42,19 @@ Owners of the 2005 Hyundai Tiburon generally praise its sporty handling, respons
 
 * **No major transmission issues reported**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mount failure:** The strut mounts can fail, causing a clunking noise and a loss of stability. The solution is to replace the strut mounts. Estimated cost to fix: $400 - $600
@@ -51,6 +64,19 @@ Owners of the 2005 Hyundai Tiburon generally praise its sporty handling, respons
 
 * **Alternator failure:** The alternator can fail, causing a loss of electrical power and a dead battery. The solution is to replace the alternator. Estimated cost to fix: $400 - $600
 * **Battery drain:** The battery can drain quickly, causing difficulty starting the vehicle. The solution is to diagnose and repair the source of the battery drain. Estimated cost to fix: $200 - $600
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -65,3 +91,15 @@ Owners of the 2005 Hyundai Tiburon generally praise its sporty handling, respons
 **Summary**
 
 The 2005 Hyundai Tiburon is a generally reliable vehicle with some common issues to be aware of. The most severe and expensive issues include timing belt tensioner failure, transmission slipping, and A/C compressor failure. However, many of the issues are relatively minor and can be fixed at a reasonable cost.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

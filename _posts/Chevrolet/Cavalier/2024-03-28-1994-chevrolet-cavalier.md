@@ -60,6 +60,19 @@ The Cavalier was a popular car, with over 300,000 units sold in 1994. It was kno
   * Estimated Cost to Fix: $1,000 - $2,000+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure**
@@ -80,6 +93,19 @@ The Cavalier was a popular car, with over 300,000 units sold in 1994. It was kno
   * Solution: Replace power window motors or switches
   * Estimated Cost to Fix: $200 - $400+
   * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -107,3 +133,15 @@ The Cavalier was a popular car, with over 300,000 units sold in 1994. It was kno
 The 1994 Chevrolet Cavalier had a number of issues that could affect its reliability and performance. The most serious issues were related to the engine, transmission, and suspension. These issues could be expensive to fix, and they could lead to a loss of power or even a complete engine or transmission failure.
 
 Overall, the 1994 Chevrolet Cavalier was a relatively affordable and fuel-efficient car. However, it had a number of problems that could make it a risky purchase for some consumers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

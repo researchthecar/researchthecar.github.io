@@ -74,3 +74,15 @@ Recalls: None Found
 **Summary**
 
 The 2014 Chevrolet Impala has a few common issues, including engine oil consumption (2.5-liter engine), camshaft timing solenoid failure (4.4-liter engine), transmission shifting issues, battery discharge, sunroof leaks, and center console noise. The severity and cost of these issues vary, but they can affect the overall reliability and satisfaction of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

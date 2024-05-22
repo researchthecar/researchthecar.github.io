@@ -55,6 +55,19 @@ The Sonata has received positive reviews for its comfortable interior, well-equi
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure:** The front strut mounts may fail, causing a clunking noise and reduced handling. The issue is caused by a faulty design.
@@ -70,6 +83,19 @@ The Sonata has received positive reviews for its comfortable interior, well-equi
 * Solution: Repair or replace the affected wires or wiring harness.
 * Estimated Cost to Fix: $200 - $1,000+
 * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -90,3 +116,15 @@ The Sonata has received positive reviews for its comfortable interior, well-equi
 **Summary**
 
 The 2014 Hyundai Sonata has received positive reviews for its comfort and features, but some owners have reported issues with the vehicle's engine, transmission, suspension, and electrical system. The severity and cost of the issues vary depending on the specific problem, but some of the more major repairs can be expensive. Overall, the Sonata is a reliable vehicle, but potential buyers should be aware of the potential issues before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

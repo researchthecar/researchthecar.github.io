@@ -38,6 +38,19 @@ The 2020 Alfa Romeo Giulietta is a sporty compact hatchback that offers a thrill
         * Estimated Cost to Fix: $400 - $1,500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mounts Wearing Prematurely** 
@@ -53,6 +66,19 @@ The 2020 Alfa Romeo Giulietta is a sporty compact hatchback that offers a thrill
     * Solution: Testing the battery and electrical system to identify the source of the drain is required.
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -83,3 +109,15 @@ The 2020 Alfa Romeo Giulietta is a sporty compact hatchback that offers a thrill
 **Summary**
 
 Overall, the 2020 Alfa Romeo Giulietta offers a fun and engaging driving experience. However, there have been some reported issues with various components of the vehicle. The most common issues appear to be related to the engine, transmission, and electrical systems. The severity of the issues varies, and the cost of repairs can range from minor to significant. It is important to keep these potential issues in mind when considering purchasing and maintaining a 2020 Alfa Romeo Giulietta.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

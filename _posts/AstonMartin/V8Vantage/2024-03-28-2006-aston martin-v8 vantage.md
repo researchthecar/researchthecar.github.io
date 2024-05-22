@@ -24,6 +24,19 @@ The 2006 Aston Martin V8 Vantage is a high-performance sports car powered by a 4
     * **Transmission Fluid Leak:** The transmission may leak fluid due to failing seals or gaskets. **Solution:** Locate and replace leaking components. **Estimated Cost to Fix:** $500 - $1,500+
     * **Shift Solenoid Failure:** Faulty shift solenoids can cause erratic shifting and transmission failure. **Solution:** Replace shift solenoids. **Estimated Cost to Fix:** $500 - $1,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension:**
@@ -35,6 +48,19 @@ The 2006 Aston Martin V8 Vantage is a high-performance sports car powered by a 4
 
 * **Alternator Failure:** The alternator can fail prematurely, leaving the battery unable to charge and causing electrical system problems. **Solution:** Replace alternator. **Estimated Cost to Fix:** $1,000 - $2,000+
 * **Battery Problems:** The battery can experience premature failure, leading to starting issues and electrical component malfunctions. **Solution:** Replace battery. **Estimated Cost to Fix:** $200 - $500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -48,3 +74,15 @@ The 2006 Aston Martin V8 Vantage is a high-performance sports car powered by a 4
 **Summary:**
 
 Overall, the 2006 Aston Martin V8 Vantage is a reliable vehicle with few major issues. However, it can experience problems with its engine, transmission, suspension, electrical system, exterior, and interior. The severity of these issues varies, but the estimated cost to repair them can be significant.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

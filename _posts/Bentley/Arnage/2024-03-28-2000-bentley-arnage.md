@@ -48,6 +48,19 @@ The Bentley Arnage is a luxury sedan produced by Bentley Motors from 1998 to 200
       * Solution: Replace transmission control module
       * Estimated Cost to Fix: $1,500 - $2,500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air suspension failure**
@@ -65,6 +78,19 @@ The Bentley Arnage is a luxury sedan produced by Bentley Motors from 1998 to 200
     * Description/Symptoms: Dim headlights, charging system warning light
     * Solution: Replace alternator
     * Estimated Cost to Fix: $1,000 - $1,500
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -87,3 +113,15 @@ The Bentley Arnage is a luxury sedan produced by Bentley Motors from 1998 to 200
 **Summary**
 
 The 2000 Bentley Arnage is a luxurious sedan with powerful engines and a comfortable interior. However, it is not without its issues. Common problems include engine oil leaks, transmission problems, and electrical issues. The severity and cost of these issues can vary depending on the specific issue and the age and condition of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

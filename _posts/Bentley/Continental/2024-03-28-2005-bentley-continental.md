@@ -32,6 +32,19 @@ The 2005 Bentley Continental GT is a luxury grand tourer that offers a blend of 
         * Estimated Cost to Fix: $5,000 - $10,000
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -48,6 +61,19 @@ The 2005 Bentley Continental GT is a luxury grand tourer that offers a blend of 
         * Solution: Replacement of faulty control module.
         * Estimated Cost to Fix: $1,000 - $2,000
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -73,3 +99,15 @@ The 2005 Bentley Continental GT is a luxury grand tourer that offers a blend of 
 **Summary:**
 
 The 2005 Bentley Continental GT is a luxurious vehicle with impressive performance, but it is not without its issues. Engine failure, transmission clutch slipping, electrical problems, and interior component malfunctions are some of the most common concerns reported by owners. While the repairs can be expensive, addressing these issues is essential for maintaining the vehicle's reliability and performance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

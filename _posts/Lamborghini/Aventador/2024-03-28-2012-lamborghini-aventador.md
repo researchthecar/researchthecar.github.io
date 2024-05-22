@@ -27,6 +27,19 @@ The 2012 Lamborghini Aventador is a high-performance sports car known for its ag
 - Estimated Cost to Fix: $2,000 - $4,000+
 - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Front Lower Control Arm Bushing Failure:** Squeaking or knocking noises from suspension, reduced handling and stability
@@ -40,6 +53,19 @@ The 2012 Lamborghini Aventador is a high-performance sports car known for its ag
 - Solution: Diagnose and repair electrical system, replace battery if necessary
 - Estimated Cost to Fix: $500 - $1,500+
 - Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -58,3 +84,15 @@ The 2012 Lamborghini Aventador is a high-performance sports car known for its ag
 **Summary:**
 
 The 2012 Lamborghini Aventador has faced several issues, primarily affecting the engine, transmission, and suspension. The severity of these issues varies, with some requiring significant repairs and high costs. Valve stem seal failure and a leaking hydraulic pump are the most common and expensive issues. Electrical and exterior components have also shown issues, but are generally less costly to repair. However, the unique carbon fiber exterior components on limited edition models can be particularly expensive to fix. Overall, the Aventador's performance and desirability come with some inherent risks that potential owners should be aware of.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

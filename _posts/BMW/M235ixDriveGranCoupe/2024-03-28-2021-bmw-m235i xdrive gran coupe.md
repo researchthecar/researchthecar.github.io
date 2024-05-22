@@ -32,6 +32,19 @@ The 2021 BMW M235i xDrive Gran Coupe is a performance-oriented compact sedan tha
         * Estimated Cost to Fix: $300 - $1,500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -48,6 +61,19 @@ The 2021 BMW M235i xDrive Gran Coupe is a performance-oriented compact sedan tha
         * Solution: Update the software or replace affected modules.
         * Estimated Cost to Fix: $200 - $1,000+
         * Recalls: Campaign NHTSA ID Numbers: 21V570, 21V625, 22V262
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -73,3 +99,15 @@ The 2021 BMW M235i xDrive Gran Coupe is a performance-oriented compact sedan tha
 **Summary:**
 
 The 2021 BMW M235i xDrive Gran Coupe has received positive reviews for its performance and luxury features. However, some issues have been reported, including intake valve deposits, fuel pump failure, shift hesitation, battery drain, infotainment malfunctions, headlight condensation, panoramic sunroof leaks, and dashboard rattle. The severity of these issues varies, and the cost to repair can range from minor expenses to more significant ones.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

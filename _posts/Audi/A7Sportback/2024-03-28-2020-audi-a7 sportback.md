@@ -40,6 +40,19 @@ The 2020 Audi A7 Sportback is a stylish and sporty liftback that combines luxury
         * Estimated Cost to Fix: $2,000 - $4,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -56,6 +69,19 @@ The 2020 Audi A7 Sportback is a stylish and sporty liftback that combines luxury
     * Solution: Replace the battery or diagnose and repair the electrical system.
     * Estimated Cost to Fix: $200 - $500+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -81,3 +107,15 @@ The 2020 Audi A7 Sportback is a stylish and sporty liftback that combines luxury
 **Summary**
 
 The 2020 Audi A7 Sportback is a reliable and enjoyable car, but it is not without its issues. The most common problems reported are related to the engine, including fuel injector failure, timing chain tensioner failure, and valve stem seal failure. Transmission issues, such as transmission slippage, have also been reported. Electrical problems, such as electrical system failure and battery drain, can also occur. Interior issues include climate control malfunction and MMI system lag. Exterior issues are relatively minor, with the most common being sunroof drain plugs clogging. The severity and cost of these issues vary, but it is important to be aware of them before purchasing an A7 Sportback.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

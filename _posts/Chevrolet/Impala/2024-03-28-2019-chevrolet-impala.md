@@ -28,6 +28,19 @@ The Impala is known for its spacious interior, comfortable ride, and strong perf
 * **8-Speed Automatic**
     * **Transmission Fluid Leak:** Leak from transmission pan or cooler lines. Requires fluid refill and repair of leak source. $300 - $600
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mounts:** Excessive wear or failure causing noise and vibration. Requires replacement of strut mounts. $500 - $800+
@@ -36,6 +49,19 @@ The Impala is known for its spacious interior, comfortable ride, and strong perf
 
 * **Battery Drainage:** Battery drains excessively when the vehicle is parked. Requires diagnosis and repair of electrical fault. $200 - $600+
 * **Body Control Module Failure:** Controls electrical systems, but can fail causing various electrical problems. Requires BCM replacement. $1,000 - $2,000+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -49,3 +75,15 @@ The Impala is known for its spacious interior, comfortable ride, and strong perf
 **Summary**
 
 The 2019 Chevrolet Impala has some common issues, particularly with the engine, transmission, and electrical systems. The severity of these issues can vary, and some require expensive repairs. Overall, the Impala is a spacious and comfortable sedan, but potential buyers should be aware of these potential problems before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

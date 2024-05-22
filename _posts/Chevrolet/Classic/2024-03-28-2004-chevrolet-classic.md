@@ -64,3 +64,15 @@ The 2004 Chevrolet Classic is a compact sedan offered with either a 2.2L Ecotec 
 ### **Summary**
 
 The 2004 Chevrolet Classic has several common issues that can affect its reliability and performance. The most serious and expensive issues include transmission slipping and intake manifold gasket failure. However, many of the other issues are relatively minor and inexpensive to fix. Overall, the Classic is a reliable and affordable vehicle, but owners should be aware of its potential problems before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

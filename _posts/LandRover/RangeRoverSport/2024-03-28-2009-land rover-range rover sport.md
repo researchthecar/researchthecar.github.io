@@ -49,6 +49,19 @@ The 2009 Land Rover Range Rover Sport is a luxury SUV known for its off-road cap
     * Estimated Cost to Fix: $1,000 - $1,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air suspension compressor failure:**
@@ -76,6 +89,19 @@ The 2009 Land Rover Range Rover Sport is a luxury SUV known for its off-road cap
     * Solution: Replace heated seat elements.
     * Estimated Cost to Fix: $500 - $1,000+ per seat
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -108,3 +134,15 @@ The 2009 Land Rover Range Rover Sport is a luxury SUV known for its off-road cap
 ## Summary
 
 The 2009 Land Rover Range Rover Sport, while offering impressive capabilities and a luxurious interior, has been plagued by numerous issues across its major components. The severity of these issues ranges from minor annoyances to major mechanical failures that can cost thousands of dollars to repair. Potential buyers should be aware of these potential problems and factor the cost of repairs into their ownership budget before considering this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

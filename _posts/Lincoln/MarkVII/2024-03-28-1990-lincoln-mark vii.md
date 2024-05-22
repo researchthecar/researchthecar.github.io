@@ -53,6 +53,19 @@ tags: ["Lincoln", "Mark VII", "1990"]
     * Estimated Cost to Fix: $1,000 - $1,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut failure**
@@ -78,6 +91,19 @@ tags: ["Lincoln", "Mark VII", "1990"]
     * Solution: Inspect and repair or replace faulty wiring or components causing shorts
     * Estimated Cost to Fix: $300 - $800+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -108,3 +134,15 @@ tags: ["Lincoln", "Mark VII", "1990"]
 **Summary**
 
 The 1990 Lincoln Mark VII is a reliable vehicle overall, but it is not immune to some common issues. The most severe and expensive issues are related to engine and transmission components, such as head gasket failure, timing chain failure, and transmission slipping. Electrical and suspension issues are also common, but they are typically less costly to repair. Overall, the Mark VII is a relatively affordable luxury vehicle, but potential buyers should be aware of these potential issues before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

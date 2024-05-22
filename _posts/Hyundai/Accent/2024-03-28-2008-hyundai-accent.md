@@ -53,6 +53,19 @@ Owners typically praise the Accent's fuel efficiency, affordability, and reliabi
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mounting Plate Failure**
@@ -68,6 +81,19 @@ Owners typically praise the Accent's fuel efficiency, affordability, and reliabi
     * Solution: Identification and repair of electrical component causing drain
     * Estimated Cost to Fix: $50 - $200+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -88,3 +114,15 @@ Owners typically praise the Accent's fuel efficiency, affordability, and reliabi
 **Summary**
 
 The 2008 Hyundai Accent is a generally reliable vehicle, but it is not without its issues. Engine and transmission problems can be costly, with some requiring major repairs. Suspension and electrical issues are less severe but can still affect the overall driving experience. Interior rattles and exterior moisture buildup are relatively minor problems but can be annoying for owners.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

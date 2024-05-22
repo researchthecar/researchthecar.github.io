@@ -42,6 +42,19 @@ The Beretta is appreciated for its sporty handling and good looks, but it is cri
 * **Slipping or delayed shifts:** Description/Symptoms: Transmission hesitates or slips gear during acceleration. Solution: Replace or rebuild transmission. Estimated Cost to Fix: $1,200 - $2,000+
 * **Transmission leaks:** Description/Symptoms: Fluid leaks from the transmission pan or seals. Solution: Replace seals or pan gasket. Estimated Cost to Fix: $200 - $500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut or shock failure:** Description/Symptoms: Poor ride quality, uneven tire wear. Solution: Replace struts or shocks. Estimated Cost to Fix: $300 - $600+ per axle
@@ -54,6 +67,19 @@ The Beretta is appreciated for its sporty handling and good looks, but it is cri
 * **Battery drain:** Description/Symptoms: Battery goes dead quickly. Solution: Inspect electrical system for parasitic drain. Estimated Cost to Fix: $50 - $200+
 * **Ignition switch failure:** Description/Symptoms: Car won't start or key won't turn in the ignition. Solution: Replace ignition switch. Estimated Cost to Fix: $200 - $400+
 * **Fuel pump failure:** Description/Symptoms: Car cranks but won't start, fuel starvation. Solution: Replace fuel pump. Estimated Cost to Fix: $400 - $800+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -68,3 +94,15 @@ The Beretta is appreciated for its sporty handling and good looks, but it is cri
 **Summary:**
 
 The 1990 Chevrolet Beretta has a number of potential issues, particularly with the engine, transmission, and electrical system. While some issues are relatively minor and inexpensive to fix, such as faulty door panel clips, others, like a blown head gasket or a failed transmission, can be quite costly. Overall, the reliability of the Beretta is average, with the severity and cost of potential issues varying depending on the model and maintenance history.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

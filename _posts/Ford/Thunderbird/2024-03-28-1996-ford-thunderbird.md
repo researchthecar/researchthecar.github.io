@@ -40,6 +40,19 @@ Despite its nostalgic appeal, the 1996 Thunderbird was met with mixed reviews. S
     * Solution: Replace the leaking gasket or seal.
     * Estimated Cost to Fix: $200 - $500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Lower Control Arm Bushing Failure:**
@@ -66,6 +79,19 @@ Despite its nostalgic appeal, the 1996 Thunderbird was met with mixed reviews. S
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Headlight Condensation:**
@@ -87,3 +113,15 @@ Despite its nostalgic appeal, the 1996 Thunderbird was met with mixed reviews. S
 The 1996 Ford Thunderbird offers a unique blend of retro styling and modern amenities. However, it is not without its share of issues. Engine and transmission problems can be expensive to fix, while suspension and electrical issues can affect the driving experience. Interior issues, such as dashboard cracking, can also detract from its overall appeal.
 
 Overall, the severity and cost of the issues associated with the 1996 Ford Thunderbird vary depending on the specific problem. Some issues, such as headlight condensation, are relatively minor and inexpensive to fix. However, more serious issues, such as transmission failure, can result in significant repair bills.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

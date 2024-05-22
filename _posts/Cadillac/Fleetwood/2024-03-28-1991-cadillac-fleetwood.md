@@ -59,6 +59,19 @@ The 1991 Cadillac Fleetwood is a full-size luxury sedan known for its spacious c
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Wear:**
@@ -86,6 +99,19 @@ The 1991 Cadillac Fleetwood is a full-size luxury sedan known for its spacious c
     * Solution: Identify and repair source of short.
     * Estimated Cost to Fix: Depends on the severity of the short
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -118,3 +144,15 @@ The 1991 Cadillac Fleetwood is a full-size luxury sedan known for its spacious c
 **Summary:**
 
 The 1991 Cadillac Fleetwood is a comfortable and powerful luxury sedan, but it is not without its issues. The most significant issues include timing chain failure on the 5.0L V8 engine, transmission shifting problems, and headliner sagging. These issues can range in severity and cost of repair, so potential buyers should be aware of them before purchasing a used Fleetwood.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

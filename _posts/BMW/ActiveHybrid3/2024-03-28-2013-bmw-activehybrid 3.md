@@ -27,6 +27,19 @@ The 2013 BMW ActiveHybrid 3 combines a 3.0L inline-6 engine with an electric mot
 
 * **No issues found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Control arm failure:** The control arms can fail, causing the suspension to become unstable and the car to pull to one side. This issue can be fixed by replacing the control arms. Estimated Cost to Fix: $500 - $1,000+
@@ -36,6 +49,19 @@ The 2013 BMW ActiveHybrid 3 combines a 3.0L inline-6 engine with an electric mot
 
 * **Battery failure:** The battery can fail, causing the car to lose power or refuse to start. This issue can be fixed by replacing the battery. Estimated Cost to Fix: $300 - $500+
 * **Electrical system failure:** The electrical system can fail, causing various electrical problems throughout the car. This issue can be fixed by diagnosing and repairing the electrical system. Estimated Cost to Fix: $500 - $1,000+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -49,3 +75,15 @@ The 2013 BMW ActiveHybrid 3 combines a 3.0L inline-6 engine with an electric mot
 **Summary:**
 
 The 2013 BMW ActiveHybrid 3 is a sporty and fuel-efficient car, but it has been reported to have some issues that can be expensive to fix. The most common issues include intake manifold failure, turbocharger failure, transmission problems, suspension problems, and electrical problems. If you are considering buying an ActiveHybrid 3, it is important to be aware of these potential issues and factor them into your decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

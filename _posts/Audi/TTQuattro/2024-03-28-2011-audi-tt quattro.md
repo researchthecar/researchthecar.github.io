@@ -27,6 +27,19 @@ However, like any vehicle, the 2011 Audi TT Quattro has some potential issues th
     * **Torque Converter Shudder:** The torque converter can develop shuddering or vibration, especially during acceleration. The torque converter needs to be replaced. Estimated cost to fix: $1,000-$1,500+
     * **Transmission Control Module Failure:** A faulty transmission control module can cause the transmission to shift erratically or fail to shift gears. The transmission control module needs to be replaced. Estimated cost to fix: $500-$1,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Clunking:** Worn or damaged rear suspension components can cause clunking or rattling noises over bumps. The suspension components need to be inspected and replaced as needed. Estimated cost to fix: $200-$500+
@@ -36,6 +49,19 @@ However, like any vehicle, the 2011 Audi TT Quattro has some potential issues th
 * **Alternator Failure:** A malfunctioning alternator can prevent the battery from charging, causing the vehicle to stall. The alternator needs to be replaced. Estimated cost to fix: $500-$1,000+
 * **Starter Motor Failure:** A faulty starter motor can make it difficult or impossible to start the engine. The starter motor needs to be replaced. Estimated cost to fix: $300-$500+
 * **Battery Drain:** A parasitic drain on the battery can cause it to discharge and leave the vehicle stranded. The electrical system needs to be inspected to identify and eliminate the drain. Estimated cost to fix: $200-$500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -51,3 +77,15 @@ However, like any vehicle, the 2011 Audi TT Quattro has some potential issues th
 **Summary**
 
 The 2011 Audi TT Quattro is a reliable and fun-to-drive sports car, but it is not without its potential issues. The most significant issues are related to the engine and transmission, including carbon buildup on intake valves, timing chain tensioner failure, and transmission control module failure. These issues can be expensive to repair, so it's important to be aware of them before purchasing a used TT Quattro.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

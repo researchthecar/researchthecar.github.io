@@ -31,6 +31,19 @@ The 2001 Lamborghini Diablo is an Italian supercar powered by a 6.0-liter V12 en
     * Solution: Replace or repair transmission gear synchronizers
     * Estimated Cost to Fix: $2,500 - $4,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Upper Control Arm Bushing Failure:** Front upper control arm bushings can fail, causing excessive tire wear and handling problems.
@@ -52,6 +65,19 @@ The 2001 Lamborghini Diablo is an Italian supercar powered by a 6.0-liter V12 en
     * Symptoms: No cranking when turning key, clicking noise from starter
     * Solution: Replace starter motor
     * Estimated Cost to Fix: $500 - $800+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -79,3 +105,15 @@ The 2001 Lamborghini Diablo is an Italian supercar powered by a 6.0-liter V12 en
 **Summary:**
 
 The 2001 Lamborghini Diablo is a powerful and luxurious supercar that is generally reliable. However, it has some common issues that can be expensive to fix. The severity of the issues ranges from minor inconveniences to major mechanical failures. The estimated cost of repairs can vary depending on the specific issue and the availability of parts.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -33,6 +33,19 @@ The 1996 Ford Club Wagon was a popular passenger van, available with a variety o
         * Estimated Cost to Fix: $2,000 - $3,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension**
@@ -63,6 +76,19 @@ The 1996 Ford Club Wagon was a popular passenger van, available with a variety o
         * Estimated Cost to Fix: $500 - $1,000
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Body panels**
@@ -90,3 +116,15 @@ The 1996 Ford Club Wagon was a popular passenger van, available with a variety o
 **Summary**
 
 Overall, the 1996 Ford Club Wagon was a reliable vehicle with a few common issues. The severity and cost of these issues varied widely depending on the severity and age of the vehicle. Some issues, such as electrical problems and interior wear, were relatively minor and affordable to fix. However, more serious issues, such as engine and transmission problems, could be expensive to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -33,6 +33,19 @@ Description/Symptoms: Difficulty shifting gears, delayed engagement, loss of pow
 Solution: Rebuild or replace transmission
 Estimated Cost to Fix: $2,500 - $5,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Control Arm Bushings**
@@ -51,6 +64,19 @@ Estimated Cost to Fix: $50 - $500+
 Description/Symptoms: Dim headlights, flickering lights, battery not charging
 Solution: Replace alternator
 Estimated Cost to Fix: $300 - $600+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -71,3 +97,15 @@ Estimated Cost to Fix: $100 - $500+
 **Summary**
 
 The 1996 Cadillac Seville offers a luxurious driving experience but may encounter occasional issues. Engine problems, such as intake manifold gasket failure, can be costly to repair. Transmission issues, specifically with the 5-speed automatic, can also be expensive. Electrical problems and interior malfunctions can impact the overall comfort and functionality of the vehicle. However, the cost of repairs varies depending on the severity of the issue.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

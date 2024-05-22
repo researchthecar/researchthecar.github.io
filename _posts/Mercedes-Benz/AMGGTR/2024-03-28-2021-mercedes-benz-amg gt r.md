@@ -37,6 +37,19 @@ The 2021 Mercedes-Benz AMG GT R is a high-performance sports car that combines s
         * Estimated Cost to Fix: $3,000 - $5,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -53,6 +66,19 @@ The 2021 Mercedes-Benz AMG GT R is a high-performance sports car that combines s
         * Solution: Replace the headlight assembly or electrical components.
         * Estimated Cost to Fix: $1,000 - $2,000+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -83,3 +109,15 @@ The 2021 Mercedes-Benz AMG GT R is a high-performance sports car that combines s
 **Summary**
 
 The 2021 Mercedes-Benz AMG GT R is a powerful and stylish sports car, but it has experienced some issues that owners should be aware of. The engine and transmission issues are the most serious and can be expensive to fix. The electrical, exterior, and interior issues are less severe but can still be frustrating for owners. Overall, it's important for potential buyers to be informed about these issues before making a purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -63,6 +63,19 @@ The 2011 Chevrolet Equinox is a mid-size SUV offered with a variety of engine an
     * Estimated Cost to Fix: $500 - $1,200+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure**
@@ -91,6 +104,19 @@ The 2011 Chevrolet Equinox is a mid-size SUV offered with a variety of engine an
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Cracked Windshield**
@@ -116,3 +142,15 @@ The 2011 Chevrolet Equinox is a mid-size SUV offered with a variety of engine an
 **Summary**
 
 The 2011 Chevrolet Equinox has a range of issues that can affect its reliability. Some of the most severe and costly issues include timing chain failure, oil consumption, and transmission problems. While the vehicle has some positive aspects like its spacious interior and comfortable ride, these issues should be taken into consideration before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

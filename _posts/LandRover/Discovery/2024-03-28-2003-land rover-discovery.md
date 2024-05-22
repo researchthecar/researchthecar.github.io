@@ -55,3 +55,15 @@ The 2003 Land Rover Discovery is a mid-size SUV known for its off-road capabilit
 
 ### Summary
 The 2003 Land Rover Discovery has several common issues, including engine oil leaks, transmission slippage, suspension failures, and electrical system faults. These issues can range in severity and repair cost, with some being relatively minor and inexpensive to fix, while others can be more serious and require costly repairs. Overall, these issues can result in performance problems, reduced reliability, and additional maintenance expenses for owners.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

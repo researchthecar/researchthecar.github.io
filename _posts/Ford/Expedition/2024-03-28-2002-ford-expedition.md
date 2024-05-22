@@ -35,6 +35,19 @@ Despite its strengths, the 2002 Ford Expedition has some notable issues reported
   - Estimated Cost to Fix: $2,000 - $3,000+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Front Control Arm Bushing Failure**: The front control arm bushings can fail, causing clunking noises, wandering front end, and poor handling.
@@ -54,6 +67,19 @@ Despite its strengths, the 2002 Ford Expedition has some notable issues reported
   - Estimated Cost to Fix: $250 - $500+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 - **Rust on Chassis and Frame**: In some models, the chassis and frame can develop premature rust, leading to structural damage and safety concerns.
@@ -71,3 +97,15 @@ Despite its strengths, the 2002 Ford Expedition has some notable issues reported
 **Summary**
 
 The 2002 Ford Expedition has a range of issues that vary in severity and cost. While some issues, like the power window motor failure, are relatively minor and inexpensive to fix, others, like the spark plug blowout and transmission slippage, can be costly and require major repairs. It's important to have any potential issues inspected by a qualified mechanic before purchasing a used 2002 Ford Expedition.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

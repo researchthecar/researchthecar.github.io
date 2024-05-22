@@ -47,6 +47,19 @@ Solution: Replace torque converter
 Estimated Cost to Fix: $1,000 - $2,000
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Strut Failure**
@@ -75,6 +88,19 @@ Solution: Replace headlight switch
 Estimated Cost to Fix: $200 - $500
 Recalls: NHTSA Campaign Number 14V233000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 **Tailgate Latch Failure**
@@ -94,3 +120,15 @@ Recalls: None Found
 **Summary**
 
 The 2008 Chevrolet Equinox has received mixed reviews from consumers. While it offers a spacious interior and comfortable ride, it falls short in terms of fuel efficiency and infotainment technology. The vehicle has also been plagued by several costly issues, including intake manifold gasket failure, timing chain tensioner failure, transmission slipping, torque converter shudder, strut failure, and electrical problems. These issues can range in severity and cost to repair, making it important for prospective buyers to consider this information before purchasing a used Equinox.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

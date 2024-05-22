@@ -38,6 +38,19 @@ The 1991 Chevrolet C70 Kodiak is a heavy-duty pickup truck offered with a range 
     - Estimated Cost to Fix: $1500 - $2500+
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Leaf Spring Failure:**
     - Description/Symptoms: Sagging suspension, uneven tire wear
@@ -57,6 +70,19 @@ The 1991 Chevrolet C70 Kodiak is a heavy-duty pickup truck offered with a range 
     - Solution: Inspect electrical system for parasitic drain
     - Estimated Cost to Fix: $100 - $300
     - Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 - **Door Rust:**
@@ -80,3 +106,15 @@ The 1991 Chevrolet C70 Kodiak is a heavy-duty pickup truck offered with a range 
 
 **Summary:**
 The 1991 Chevrolet C70 Kodiak is a rugged and capable pickup truck, but it has its share of potential issues. The most common issues affect the engine, transmission, and suspension. While the cost of repairs can be significant, the Kodiak's durability and off-road capabilities often make it a worthwhile investment for those needing a heavy-duty pickup.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -57,6 +57,19 @@ The 2018 Chevrolet Cheyenne is a full-size pickup truck that comes standard with
     * Estimated Cost to Fix: $1,200 - $1,600+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf Spring Breakage:**
@@ -84,6 +97,19 @@ The 2018 Chevrolet Cheyenne is a full-size pickup truck that comes standard with
     * Solution: Replace the headlight switch.
     * Estimated Cost to Fix: $150 - $250+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -116,3 +142,15 @@ The 2018 Chevrolet Cheyenne is a full-size pickup truck that comes standard with
 **Summary**
 
 The 2018 Chevrolet Cheyenne has a mix of common and severe issues across various components. Issues such as engine oil consumption and transmission shift solenoid failure can be costly and impact engine and transmission performance. However, many of the other problems, such as door handle failure and infotainment system screen failure, are less severe and can be addressed at a lower cost. Overall, it is recommended to research the specific issues and recalls associated with this vehicle before purchase and consider regular maintenance and repairs to mitigate potential problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

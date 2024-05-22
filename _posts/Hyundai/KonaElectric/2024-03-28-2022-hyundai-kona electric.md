@@ -21,6 +21,19 @@ The 2022 Hyundai Kona Electric is a subcompact crossover SUV powered by a single
 
 * **No Transmission Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Suspension Issues Found**
@@ -37,6 +50,19 @@ The 2022 Hyundai Kona Electric is a subcompact crossover SUV powered by a single
     * Solution: Replacement of the 12-volt battery is required.
     * Estimated Cost to Fix: $100 - $200+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -57,3 +83,15 @@ The 2022 Hyundai Kona Electric is a subcompact crossover SUV powered by a single
 **Summary**
 
 The 2022 Hyundai Kona Electric has received a fair amount of complaints regarding its electrical system and display screen issues. These issues can be relatively minor but may require software updates or part replacements. The roof rack noise and sunroof panel problems affect the exterior and interior of the vehicle. Overall, the severity and cost of these issues vary, and some can be resolved at no cost to the owner.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

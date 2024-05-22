@@ -41,6 +41,19 @@ People who like the 2002 Audi TT Quattro praise its stylish design, responsive h
         * Solution: Replace the transmission.
         * Estimated Cost to Fix: $2,500 - $3,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front control arm bushings**
@@ -59,6 +72,19 @@ People who like the 2002 Audi TT Quattro praise its stylish design, responsive h
     * Description/Symptoms: The battery may drain quickly, even when the car is not running.
         * Solution: Check for parasitic draws and replace the battery or alternator as needed.
         * Estimated Cost to Fix: $100 - $500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -80,3 +106,15 @@ People who like the 2002 Audi TT Quattro praise its stylish design, responsive h
 The 2002 Audi TT Quattro is a fun and stylish sports car, but it has some reliability issues that can be expensive to fix. The engine and transmission are the most problematic areas, with the 1.8T engine being more prone to problems than the VR6. The suspension and electrical systems are also known to have some issues.
 
 Overall, the 2002 Audi TT Quattro is a good car for those who are willing to pay for the potential maintenance costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

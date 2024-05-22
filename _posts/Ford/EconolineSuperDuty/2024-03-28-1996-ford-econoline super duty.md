@@ -78,6 +78,19 @@ The Econoline Super Duty was a popular choice for commercial and family use. It 
   * Solution: Replace the shift linkage.
   * Estimated Cost to Fix: $100 - $200+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Ball joint failure:** This can cause the suspension to become unstable and can lead to tire wear.
@@ -101,6 +114,19 @@ The Econoline Super Duty was a popular choice for commercial and family use. It 
 * **Starter failure:** This can cause the vehicle not to start.
   * Solution: Replace the starter.
   * Estimated Cost to Fix: $200 - $400+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -126,3 +152,15 @@ The Econoline Super Duty was a popular choice for commercial and family use. It 
 **Summary**
 
 The 1996 Ford Econoline Super Duty is a reliable and versatile vehicle, but it is not without its problems. The most common issues include engine problems, transmission problems, suspension problems, and electrical problems. The severity of these issues can vary depending on the specific model and year of the vehicle. The estimated cost to fix these issues can also vary depending on the severity of the problem and the location of the repair. Overall, the 1996 Ford Econoline Super Duty is a good choice for those who need a spacious and powerful van, but it is important to be aware of the potential problems that can occur.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

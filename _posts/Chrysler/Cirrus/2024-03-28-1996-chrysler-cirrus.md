@@ -34,6 +34,19 @@ The 1996 Chrysler Cirrus is a mid-size sedan that offers a refined ride and spac
   - Estimated Cost to Fix: $1,200 - $2,500
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Strut Failure:**
@@ -59,6 +72,19 @@ The 1996 Chrysler Cirrus is a mid-size sedan that offers a refined ride and spac
   - Solution: Test for parasitic drain and fix the cause.
   - Estimated Cost to Fix: $100 - $400
   - Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -89,3 +115,15 @@ The 1996 Chrysler Cirrus is a mid-size sedan that offers a refined ride and spac
 **Summary:**
 
 The 1996 Chrysler Cirrus has a number of potential issues, particularly with the intake manifold gasket, timing belt, transmission, and struts. While these issues can be costly to repair, they are not considered major mechanical failures. Overall, the Cirrus is still a reliable and comfortable vehicle for its age.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

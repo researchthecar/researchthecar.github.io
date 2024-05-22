@@ -40,6 +40,19 @@ tags: ["Ford", "SSV Plug-In Hybrid", "2020"]
         * Estimated Cost to Fix: $1,000 - $2,000
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front Struts:**
 
@@ -72,6 +85,19 @@ tags: ["Ford", "SSV Plug-In Hybrid", "2020"]
         * Estimated Cost to Fix: $300 - $1,000+
         * Recalls: 20V833
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 * **Headlights:**
 
@@ -99,3 +125,15 @@ tags: ["Ford", "SSV Plug-In Hybrid", "2020"]
         * Recalls: None Found
 
 **Summary:** The 2020 Ford SSV Plug-In Hybrid has received complaints about engine intake manifold failures, oil pan leaks, and fuel injector failures. The transmission has also had issues with shifting problems and converter clutch failures. Additionally, the vehicle has experienced suspension issues such as strut mount failures and rear spring sagging, electrical problems with battery drain and wiring harness faults, and interior issues with armrest pad tears and window switch malfunctions. The severity and cost of these issues vary, but some can be costly to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

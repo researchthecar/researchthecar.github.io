@@ -27,3 +27,15 @@ The Kona Electric has been praised for its spacious interior, comfortable ride, 
 **Summary**
 
 The 2019 Hyundai Kona Electric is an impressive all-electric vehicle with a spacious interior and impressive driving range. However, some owners have reported issues with the vehicle's reliability and overall quality, including battery degradation, charging port issues, and transmission failures. The severity and cost of these issues can vary, depending on the specific problem.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

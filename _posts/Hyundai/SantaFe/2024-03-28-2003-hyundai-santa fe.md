@@ -51,6 +51,19 @@ The 2003 Hyundai Santa Fe was a popular mid-size SUV available in both front-whe
     * Estimated Cost to Fix: $400 - $600
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut and Shock Failure:**
@@ -78,6 +91,19 @@ The 2003 Hyundai Santa Fe was a popular mid-size SUV available in both front-whe
     * Solution: Diagnose and repair faulty wiring harness or components
     * Estimated Cost to Fix: $200 - $600
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -110,3 +136,15 @@ The 2003 Hyundai Santa Fe was a popular mid-size SUV available in both front-whe
 **Summary**
 
 While the 2003 Hyundai Santa Fe offered a comfortable and affordable SUV experience, it had its fair share of issues. Engine and transmission problems, such as intake manifold gasket failure and timing belt failure, could lead to costly repairs. Suspension and electrical issues were also prevalent. However, these issues were generally not widespread and many owners reported having a positive experience with the vehicle. The severity and cost of repairs varied depending on the issue and its location.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

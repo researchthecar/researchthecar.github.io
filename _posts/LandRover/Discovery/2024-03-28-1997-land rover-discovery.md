@@ -57,6 +57,19 @@ The 1997 Land Rover Discovery is a rugged and capable SUV known for its off-road
   * Estimated Cost to Fix: $1,000 - $2,000+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Sagging**
@@ -82,6 +95,19 @@ The 1997 Land Rover Discovery is a rugged and capable SUV known for its off-road
   * Solution: Replace alternator
   * Estimated Cost to Fix: $500 - $1,000+
   * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -112,3 +138,15 @@ The 1997 Land Rover Discovery is a rugged and capable SUV known for its off-road
 **Summary**
 
 The 1997 Land Rover Discovery is a capable vehicle with some common issues. The most severe and costly problems are engine head gasket failure, transmission slipping, and timing chain tensioner failure, which can all require extensive repairs. However, many of the other issues are relatively minor and can be addressed at a reasonable cost. Overall, the Discovery is a reliable and versatile SUV with a few potential pitfalls to be aware of.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

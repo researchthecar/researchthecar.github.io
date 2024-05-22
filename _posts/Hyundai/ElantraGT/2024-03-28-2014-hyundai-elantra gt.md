@@ -50,6 +50,19 @@ The 2014 Hyundai Elantra GT is a sporty hatchback that offers a balance of perfo
     * Estimated Cost to Fix: $1500 - $2500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Knock:**
@@ -65,6 +78,19 @@ The 2014 Hyundai Elantra GT is a sporty hatchback that offers a balance of perfo
     * Solution: Repair or replacement of the affected wiring harness.
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: 19V373000
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -90,3 +116,15 @@ The 2014 Hyundai Elantra GT is a sporty hatchback that offers a balance of perfo
 **Summary**
 
 The 2014 Hyundai Elantra GT is generally a reliable vehicle, but it has experienced some specific issues that owners should be aware of. While some issues, such as engine noise and suspension knock, are relatively minor and inexpensive to repair, others, like engine or transmission failures, can be more severe and expensive. Fortunately, many of these issues have been addressed by Hyundai through recalls or technical service bulletins. Overall, the Elantra GT is a solid option for drivers seeking a sporty and practical hatchback, but it is advisable to research and address any potential issues before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

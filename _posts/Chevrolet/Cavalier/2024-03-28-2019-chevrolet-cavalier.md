@@ -90,3 +90,15 @@ People like the Cavalier for its comfortable ride, spacious interior, and afford
 - Recalls: None Found
 
 Overall, the 2019 Chevrolet Cavalier has some reliability issues that can be costly to fix. However, it is important to note that not all Cavaliers will experience these problems. If you are considering purchasing a Cavalier, be sure to do your research and factor in the potential costs of repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -47,6 +47,19 @@ While the Impala has received positive reviews for its overall value, there have
         * Estimated Cost to Fix: $1200 - $2500+
         * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension**
@@ -83,6 +96,19 @@ While the Impala has received positive reviews for its overall value, there have
         * Estimated Cost to Fix: $300 - $500+
         * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Headlights**
@@ -110,3 +136,15 @@ While the Impala has received positive reviews for its overall value, there have
 **Summary**
 
 Overall, the 2006 Chevrolet Impala is a generally reliable vehicle, but it is not without its issues. Some of the most common concerns reported by owners include engine and transmission failures, suspension issues, electrical problems, and premature battery failures. The severity and cost of these issues can vary depending on the specific problem and the severity of the damage. It is important to note that some of the recalls listed may have already been addressed by the manufacturer, and owners should check with their local Chevrolet dealership for the most up-to-date information on recalls and repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

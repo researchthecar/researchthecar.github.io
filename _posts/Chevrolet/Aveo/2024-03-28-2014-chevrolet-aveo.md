@@ -32,6 +32,19 @@ The 2014 Chevrolet Aveo, a subcompact sedan, is powered by a 1.6L inline-4 ECOTE
         * Estimated Cost to Fix: $1200 - $1800+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Struts:**
@@ -49,6 +62,19 @@ The 2014 Chevrolet Aveo, a subcompact sedan, is powered by a 1.6L inline-4 ECOTE
         * Solution: Replace battery
         * Estimated Cost to Fix: $100 - $200+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -77,3 +103,15 @@ The 2014 Chevrolet Aveo, a subcompact sedan, is powered by a 1.6L inline-4 ECOTE
 **Summary:**
 
 The 2014 Chevrolet Aveo is a reliable and affordable subcompact car with a few common issues. Engine head gasket failures and intake manifold problems are the most serious issues to watch out for, while electrical and interior issues are generally minor. The cost of repairs varies widely, but overall, the Aveo is a budget-friendly vehicle with manageable maintenance costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -47,6 +47,19 @@ The 2011 Hyundai Genesis is a mid-size luxury sedan powered by a 3.8L V6 engine 
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Strut Mount Noise:**
@@ -70,6 +83,19 @@ The 2011 Hyundai Genesis is a mid-size luxury sedan powered by a 3.8L V6 engine 
     * Estimated Cost to Fix: $200 - $400+
 * **Recalls:**
     * NHTSA Campaign Number: 11E015000 - Headlamp Relay
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior:**
 
@@ -96,3 +122,15 @@ The 2011 Hyundai Genesis is a mid-size luxury sedan powered by a 3.8L V6 engine 
 **Summary:**
 
 Overall, the 2011 Hyundai Genesis is a reliable vehicle with some potential issues. The severity and frequency of these issues vary, and the estimated cost of repairs can range from minor to major. However, it is important to note that these issues are not widespread and the Genesis is generally considered to be a well-built and dependable car.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

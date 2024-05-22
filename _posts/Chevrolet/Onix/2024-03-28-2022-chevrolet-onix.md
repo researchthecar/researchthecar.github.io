@@ -35,6 +35,19 @@ The 2022 Chevrolet Onix is a subcompact sedan that offers a 1.0-liter three-cyli
     * Estimated Cost to Fix: $200 - $1,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -46,6 +59,19 @@ The 2022 Chevrolet Onix is a subcompact sedan that offers a 1.0-liter three-cyli
     * Solution: Replace battery or diagnose electrical system issues
     * Estimated Cost to Fix: $100 - $300+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -72,3 +98,15 @@ The 2022 Chevrolet Onix is a subcompact sedan that offers a 1.0-liter three-cyli
 **Summary:**
 
 The 2022 Chevrolet Onix has a range of issues that may affect its performance and reliability. While some issues, such as engine misfiring and transmission hesitation, can be relatively minor and inexpensive to fix, others, like timing chain issues and paint peeling, can be more costly and time-consuming to resolve. However, it's worth noting that the severity and prevalence of these issues may vary based on individual vehicles and driving conditions.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

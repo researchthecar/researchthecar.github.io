@@ -56,6 +56,19 @@ The AMG GT S is praised for its powerful engine, agile handling, and stylish des
 **Recalls:**
 * None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Failure:**
@@ -81,6 +94,19 @@ The AMG GT S is praised for its powerful engine, agile handling, and stylish des
 **Recalls:**
 * None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Front Bumper Paint Peeling:**
@@ -98,3 +124,15 @@ The AMG GT S is praised for its powerful engine, agile handling, and stylish des
 **Summary**
 
 The 2019 Mercedes-Benz AMG GT S is a high-performance sports car that can be a lot of fun to drive. However, it has been reported to have some issues with its engine, transmission, suspension, and electrical systems. These issues can be costly to fix, so it's important to be aware of them before purchasing an AMG GT S. Overall, the severity of the issues is moderate, and the cost to fix them ranges from $100 to $4,000+.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

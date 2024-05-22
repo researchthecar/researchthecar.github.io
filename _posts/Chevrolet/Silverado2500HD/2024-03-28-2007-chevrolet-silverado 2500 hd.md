@@ -71,6 +71,19 @@ Solution: Replace shift solenoid
 Estimated Cost to Fix: $200 - $500+
 Recalls: 07V251000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Bushing Failure**
@@ -98,6 +111,19 @@ Description/Symptoms: Difficulty starting, battery dies prematurely
 Solution: Test and replace faulty electrical components
 Estimated Cost to Fix: $50 - $500+
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -130,3 +156,15 @@ Recalls: None Found
 **Summary**
 
 The 2007 Chevrolet Silverado 2500 HD is a capable workhorse with strong towing and hauling capabilities, but it has been plagued by a number of issues, particularly with the engine, transmission, and electrical system. The cost of repairs can vary widely depending on the severity of the issue, but some common problems can range from a few hundred dollars to upwards of $3,000+. Owners should be aware of these potential problems and factor them into their decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

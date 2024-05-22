@@ -40,6 +40,19 @@ The Elantra is a popular choice for budget-minded shoppers, and it offers a numb
         * Estimated Cost to Fix: $1,500 - $3,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension**
@@ -56,6 +69,19 @@ The Elantra is a popular choice for budget-minded shoppers, and it offers a numb
     * Solution: Replace battery or locate electrical drain.
         * Estimated Cost to Fix: $150 - $300
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -96,3 +122,15 @@ The Elantra is a popular choice for budget-minded shoppers, and it offers a numb
 **Summary**
 
 The 2011 Hyundai Elantra is a good choice for budget-minded shoppers, but it does have some issues that buyers should be aware of. The most common problems are with the engine, transmission, and suspension. The engine issues can be serious and expensive to fix, so it is important to have the vehicle inspected by a mechanic before purchasing. The transmission issues can also be expensive to fix, but they are not as common as the engine issues. The suspension issues are less severe, but they can still affect the ride quality and handling of the vehicle. Overall, the 2011 Hyundai Elantra is a good car for the price, but buyers should be aware of the potential issues before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

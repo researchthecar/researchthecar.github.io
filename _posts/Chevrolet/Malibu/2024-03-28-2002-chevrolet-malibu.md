@@ -42,6 +42,19 @@ The 2002 Chevrolet Malibu is a mid-size sedan that offers a comfortable and spac
 * **Clutch Failure:** The clutch can fail, causing the vehicle to be unable to shift gears or to lose power. Symptoms include difficulty shifting gears, a burning smell, and a check engine light. The solution is to replace the clutch. Estimated Cost to Fix: $500 - $800+
 * **Transmission Noise:** The transmission can make noise, especially when shifting gears. Symptoms include a grinding or whining noise when shifting gears. The solution is to replace or rebuild the transmission. Estimated Cost to Fix: $1,000 - $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Failure:** The front suspension struts can fail, causing the vehicle to bounce or handle poorly. Symptoms include a rough ride, uneven tire wear, and a clunking noise from the front end. The solution is to replace the front suspension struts. Estimated Cost to Fix: $500 - $800+ per side
@@ -52,6 +65,19 @@ The 2002 Chevrolet Malibu is a mid-size sedan that offers a comfortable and spac
 * **Battery Drain:** The battery can drain quickly, leaving the vehicle unable to start. Symptoms include a dead battery, a warning light on the dashboard, and a clicking noise when trying to start the vehicle. The solution is to diagnose and repair the electrical system. Estimated Cost to Fix: Varies
 * **Headlight Switch Failure:** The headlight switch can fail, causing the headlights to not work. Symptoms include no headlights, no tail lights, or no turn signals. The solution is to replace the headlight switch. Estimated Cost to Fix: $200 - $400+
 * **Alternator Failure:** The alternator can fail, causing the battery to not charge. Symptoms include a dead battery, a warning light on the dashboard, and a flickering or dim headlights. The solution is to replace the alternator. Estimated Cost to Fix: $500 - $800+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -68,3 +94,15 @@ The 2002 Chevrolet Malibu is a mid-size sedan that offers a comfortable and spac
 **Summary**
 
 The 2002 Chevrolet Malibu has a range of issues, including engine problems, transmission issues, suspension problems, electrical problems, exterior problems, and interior problems. While some of these issues are minor and inexpensive to fix, others can be major and require significant repairs. The severity and cost of the issues will vary depending on the specific problem and the vehicle's mileage and maintenance history. Overall, the Malibu is a reliable and comfortable vehicle, but it is important to be aware of the potential issues and to have the vehicle inspected regularly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

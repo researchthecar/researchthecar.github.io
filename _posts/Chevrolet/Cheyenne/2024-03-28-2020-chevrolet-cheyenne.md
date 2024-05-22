@@ -71,6 +71,19 @@ Owners are generally pleased with the Cheyenne's powerful engines, spacious cabi
     * Estimated Cost to Fix: $1,000 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Leaf Spring Breakage**
@@ -98,6 +111,19 @@ Owners are generally pleased with the Cheyenne's powerful engines, spacious cabi
     * Solution: Repair or replace damaged electrical wiring
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -132,3 +158,15 @@ Owners are generally pleased with the Cheyenne's powerful engines, spacious cabi
 The 2020 Chevrolet Cheyenne is a powerful and capable truck, but it is not without its problems. Engine and transmission issues can be costly to fix, and the suspension and electrical systems have also experienced some setbacks. Interior amenities have also encountered problems, such as climate control malfunctions and infotainment system freezes.
 
 Overall, the severity and cost of the issues vary depending on the specific problem. Some issues, such as headlight condensation and tailgate handle failure, are relatively minor and inexpensive to fix. However, major mechanical issues like engine or transmission failure can be extremely costly and time-consuming to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

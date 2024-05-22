@@ -44,6 +44,19 @@ However, like any vehicle, the Tahoe is not without its issues. Here is a compre
         * Estimated Cost to Fix: $1,200 - $2,000
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear leaf springs**
@@ -60,6 +73,19 @@ However, like any vehicle, the Tahoe is not without its issues. Here is a compre
         * Solution: Check for any parasitic draws and replace the battery if necessary.
         * Estimated Cost to Fix: $100 - $300
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -80,3 +106,15 @@ However, like any vehicle, the Tahoe is not without its issues. Here is a compre
 **Summary**
 
 Overall, the 2010 Chevrolet Tahoe is a reliable and capable vehicle, but it is not without its issues. The severity and cost of the problems vary, but some of the more common ones can be costly to repair. It is important to factor in the potential for repairs when considering the purchase of a used Tahoe.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

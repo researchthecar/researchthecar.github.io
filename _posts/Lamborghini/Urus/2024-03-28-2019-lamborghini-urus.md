@@ -29,6 +29,19 @@ The 2019 Lamborghini Urus is a high-performance SUV powered by a 4.0-liter twin-
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Malfunction:**
@@ -49,6 +62,19 @@ The 2019 Lamborghini Urus is a high-performance SUV powered by a 4.0-liter twin-
     * Solution: Identify and fix electrical component causing the drain
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -79,3 +105,15 @@ The 2019 Lamborghini Urus is a high-performance SUV powered by a 4.0-liter twin-
 **Summary**
 
 The 2019 Lamborghini Urus is a formidable performance SUV but is not without its issues. While some problems like electrical glitches and interior rattles are relatively minor, others like intake valve sticking and air suspension malfunctions can be more severe and costly. Owners may experience an estimated repair cost ranging from $1,000 to over $4,000+ for these issues, depending on the complexity of the repair. It is important for potential buyers to be aware of these potential problems before purchasing a Urus.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

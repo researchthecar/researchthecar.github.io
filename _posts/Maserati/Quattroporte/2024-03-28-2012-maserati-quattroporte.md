@@ -45,6 +45,19 @@ The 2012 Maserati Quattroporte is a luxury sedan offered with two engine options
         * Solution: Repair the leak and add new transmission fluid.
         * Estimated Cost to Fix: $200 - $500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Mount Failure**
@@ -66,6 +79,19 @@ The 2012 Maserati Quattroporte is a luxury sedan offered with two engine options
     * Description/Symptoms: The battery drains excessively, causing the car to fail to start.
     * Solution: Find and repair the source of the battery drain.
     * Estimated Cost to Fix: $200 - $500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -92,3 +118,15 @@ The 2012 Maserati Quattroporte is a luxury sedan offered with two engine options
 **Summary**
 
 The 2012 Maserati Quattroporte has a number of potential issues that can be costly to repair. The engine and transmission are particularly prone to problems, and the suspension and electrical systems have also been known to fail. The interior and exterior issues are less severe, but they can still be annoying. Overall, the Quattroporte is a luxurious and powerful car, but it is important to be aware of the potential repair costs before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

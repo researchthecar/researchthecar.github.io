@@ -31,6 +31,19 @@ The 1991 Chevrolet Beretta is a compact sports car that was available with three
 **5-Speed Manual**
 * **No significant issues reported.**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** Causes clunking noises, reduced handling, and premature tire wear. ~~Solution: Replace struts~~ ~~Estimated Cost to Fix: $500-$800~~
@@ -40,6 +53,19 @@ The 1991 Chevrolet Beretta is a compact sports car that was available with three
 
 * **Alternator failure:** Causes battery to drain, dimming lights, and electrical problems. ~~Solution: Replace alternator~~ ~~Estimated Cost to Fix: $300-$500~~
 * **Battery terminal corrosion:** Causes difficulty starting the car and electrical problems. ~~Solution: Clean or replace battery terminals~~ ~~Estimated Cost to Fix: $50-$100~~
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -53,3 +79,15 @@ The 1991 Chevrolet Beretta is a compact sports car that was available with three
 **Summary:**
 
 Overall, the 1991 Chevrolet Beretta is a reliable vehicle with relatively minor issues. The most common engine issues are intake manifold gasket failure and head gasket failure, while the most common transmission issue is transmission slippage. The suspension and electrical systems are generally reliable, but struts and alternators can fail over time. The exterior and interior issues are mostly cosmetic and do not affect the functionality of the vehicle. The severity of the issues is moderate, with most repairs costing between $200 and $1,500.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

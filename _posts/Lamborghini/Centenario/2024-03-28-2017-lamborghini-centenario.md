@@ -27,6 +27,19 @@ Description/Symptoms: Slipping or grabbing of the clutch, difficulty shifting ge
 Solution: Replacement of the clutch assembly.
 Estimated Cost to Fix: $4,000 - $6,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -41,6 +54,19 @@ Estimated Cost to Fix: $300 - $1,000+
 * **Recalls:**
 o NHTSA Recall Number: 19V-293: Airbag Control Unit Software Update
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **No Issues Found**
@@ -53,3 +79,15 @@ o Transport Canada Recall Number: 2019066: Passenger Airbag Non-Deployment
 **Summary:**
 
 The Lamborghini Centenario is a highly desirable supercar, but it has faced some reliability issues, particularly with its engine, transmission, and electrical system. These issues can be expensive to repair, with costs ranging from $300 to over $10,000. While these issues may not be widespread, they can be significant and should be considered before purchasing a Centenario.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

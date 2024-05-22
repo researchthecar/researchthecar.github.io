@@ -34,6 +34,19 @@ The 2005 Aston Martin Vanquish is a high-performance sports car powered by a 5.9
     * Estimated Cost to Fix: $5,000 - $10,000+
     * Recalls: NHTSA Campaign Number 08V261000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Lower Control Arm Bushings Failure:**
@@ -49,6 +62,19 @@ The 2005 Aston Martin Vanquish is a high-performance sports car powered by a 5.9
     * Solution: Diagnosis and repair of the affected electrical components.
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -69,3 +95,15 @@ The 2005 Aston Martin Vanquish is a high-performance sports car powered by a 5.9
 **Summary:**
 
 The 2005 Aston Martin Vanquish is a powerful and desirable sports car, but it faces several issues that can be costly to repair. The engine and transmission issues are particularly significant, potentially leading to expensive repairs or even catastrophic failure. The electrical, suspension, exterior, and interior issues are also common but generally less severe and expensive to fix. Overall, potential buyers should be aware of these issues and factor in potential repair costs when considering purchasing a used Vanquish.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

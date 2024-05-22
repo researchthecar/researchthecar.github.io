@@ -68,6 +68,19 @@ Critics praise the Elantra for its impressive fuel economy, comfortable ride, an
 >Estimated Cost to Fix: $1,500 - $3,000+
 >Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Clunking or rattling noises:** Worn or damaged struts or shock absorbers
@@ -87,6 +100,19 @@ Critics praise the Elantra for its impressive fuel economy, comfortable ride, an
 >Solution: Replacement or repair of battery, alternator, or electrical wiring
 >Estimated Cost to Fix: $300 - $1,000+
 >Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -110,3 +136,15 @@ Critics praise the Elantra for its impressive fuel economy, comfortable ride, an
 **Summary:**
 
 The 2018 Hyundai Elantra has received some negative feedback regarding reliability and durability issues. Some of the more severe problems, such as turbocharger failure and transmission slippage, can be costly to repair. However, it's important to note that these issues may not affect all Elantras, and some owners have reported having positive experiences with the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

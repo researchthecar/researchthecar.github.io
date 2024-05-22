@@ -29,6 +29,19 @@ Solution: Replacing the faulty gearbox or internal components.
 Estimated Cost to Fix: $5,000 - $10,000+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -40,6 +53,19 @@ Description/Symptoms: Rapid battery discharge, leading to difficulty starting th
 Solution: Inspecting the electrical system for parasitic drains, replacing the faulty battery, or updating software.
 Estimated Cost to Fix: $150 - $500+
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -60,3 +86,15 @@ Recalls: None Found
 **Summary:**
 
 While the Ferrari GTC4Lusso offers an exhilarating driving experience and luxurious amenities, it has also been subject to a number of issues affecting its engine, transmission, electrical system, exterior, and interior components. These issues can range from relatively minor annoyances to more serious malfunctions that can impact the vehicle's performance and reliability. The cost of repairs can vary significantly depending on the nature of the issue and the parts that need to be replaced.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

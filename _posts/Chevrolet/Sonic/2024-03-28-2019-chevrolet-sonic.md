@@ -42,6 +42,19 @@ The 2019 Chevrolet Sonic is a subcompact hatchback and sedan offered with a choi
   * **Estimated Cost to Fix:** $500 - $1,000
   * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Noise:** The rear suspension may develop a clunking noise when driving over bumps.
@@ -55,6 +68,19 @@ The 2019 Chevrolet Sonic is a subcompact hatchback and sedan offered with a choi
   * **Solution:** Replacing the battery or diagnosing and repairing any electrical faults.
   * **Estimated Cost to Fix:** $100 - $500
   * **Recalls:** None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -77,3 +103,15 @@ The 2019 Chevrolet Sonic is a subcompact hatchback and sedan offered with a choi
 **Summary:**
 
 The 2019 Chevrolet Sonic has several reported reliability issues, including excessive oil consumption, timing chain problems, and transmission issues. However, the severity and cost of these issues vary, and not all vehicles are affected. Some issues can be fixed relatively inexpensively, while others may be more costly. Overall, it is important for potential buyers to research the specific issues associated with the Sonic and consider the potential costs of repairs before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

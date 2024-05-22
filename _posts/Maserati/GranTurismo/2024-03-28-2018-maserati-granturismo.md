@@ -39,6 +39,19 @@ The 2018 Maserati GranTurismo is a high-performance grand tourer that offers a t
     * Estimated Cost to Fix: $1,200 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Shock Absorber Failure**
@@ -64,6 +77,19 @@ The 2018 Maserati GranTurismo is a high-performance grand tourer that offers a t
     * Solution: Replace the starter motor.
     * Estimated Cost to Fix: $600 - $1,000+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -94,3 +120,15 @@ The 2018 Maserati GranTurismo is a high-performance grand tourer that offers a t
 **Summary**
 
 The 2018 Maserati GranTurismo is a thrilling and prestigious sports car, but it does have its fair share of potential issues. Engine problems, such as intake manifold gasket and timing chain tensioner failures, are among the most serious and costly. Transmission issues, including torque converter and valve body malfunctions, can also be quite expensive to repair. Electrical problems, such as battery drains and starter motor failures, can be frustrating and inconvenient. Other issues, such as suspension problems and interior glitches, are generally less severe and less costly to fix. Overall, the Maserati GranTurismo is a capable and desirable vehicle, but potential buyers should be aware of the potential issues and associated repair costs before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

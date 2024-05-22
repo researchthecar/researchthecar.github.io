@@ -28,6 +28,19 @@ While the Police Sedan is a reliable and well-made vehicle, it has experienced s
 * **Recalls:**
     * None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -38,6 +51,19 @@ While the Police Sedan is a reliable and well-made vehicle, it has experienced s
 * **Alternator failure:** Alternator may fail, preventing the battery from charging. Symptoms include a dead battery, flickering lights, and electrical system malfunctions. Solution: Replace alternator. Estimated Cost to Fix: $500 - $1,000+ (requires electrical system diagnosis).
 * **Recalls:**
     * None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -51,3 +77,15 @@ While the Police Sedan is a reliable and well-made vehicle, it has experienced s
 **Summary Notes:**
 
 The 2016 Ford Special Service Police Sedan is a generally reliable and capable vehicle, but some issues have been reported by owners. The severity and cost of these issues vary depending on the specific problem. While some issues are minor and can be fixed at a relatively low cost, others can be more serious and expensive to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -39,6 +39,19 @@ The 1993 Cadillac Commercial Chassis was a versatile platform designed for comme
   * Estimated Cost to Fix: $800 - $1,200
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Ball Joint Failure:**
@@ -64,6 +77,19 @@ The 1993 Cadillac Commercial Chassis was a versatile platform designed for comme
   * Solution: Replace or rebuild starter
   * Estimated Cost to Fix: $200 - $500
   * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -94,3 +120,15 @@ The 1993 Cadillac Commercial Chassis was a versatile platform designed for comme
 **Summary:**
 
 The 1993 Cadillac Commercial Chassis is a generally reliable vehicle, but it does have some potential issues to watch out for. Engine and transmission problems can be costly to repair, while suspension and electrical issues tend to be less severe and less expensive. The exterior and interior issues can vary in cost depending on the severity of the damage or malfunction. Overall, the chassis is durable and capable, but regular maintenance and inspection are crucial to prevent major problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

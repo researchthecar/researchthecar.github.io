@@ -52,3 +52,15 @@ The Malibu was praised for its spacious interior, comfortable ride, and good fue
 ## Summary
 
 The 2008 Chevrolet Malibu is a reliable and fuel-efficient midsize sedan. However, it has some common problems that can be expensive to fix. The most serious problems include engine and transmission failures, which can cost thousands of dollars to repair. Other problems, such as suspension and electrical issues, are less severe but can still be inconvenient and costly. Overall, the Malibu is a good choice for buyers who are looking for a spacious and comfortable car, but they should be aware of the potential problems that can occur.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

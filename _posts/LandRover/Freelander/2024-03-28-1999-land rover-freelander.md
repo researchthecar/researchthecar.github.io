@@ -38,6 +38,19 @@ The 1999 Land Rover Freelander is a compact SUV that was praised for its off-roa
         * Estimated Cost to Fix: $500 - $1,000
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension**
@@ -59,6 +72,19 @@ The 1999 Land Rover Freelander is a compact SUV that was praised for its off-roa
     * Solution: Replace alternator
     * Estimated Cost to Fix: $500 - $800
         * Recalls: LR004367 / LR006960 / LR023570
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -84,3 +110,15 @@ The 1999 Land Rover Freelander is a compact SUV that was praised for its off-roa
 **Summary**
 
 The 1999 Land Rover Freelander has a moderate number of issues that can be costly to fix. Engine and suspension components are the most common culprits, but the vehicle also has electrical and interior problems. Overall, the Freelander is a capable off-roader but may not be the best choice for those looking for a reliable daily driver.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

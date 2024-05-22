@@ -50,6 +50,19 @@ Overall, the Silverado 3500 has received positive reviews for its impressive per
     * Estimated Cost to Fix: $2500 - $4000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Ball Joint Wear:**
@@ -75,6 +88,19 @@ Overall, the Silverado 3500 has received positive reviews for its impressive per
     * Solution: Replace alternator
     * Estimated Cost to Fix: $500 - $700+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -104,3 +130,15 @@ Overall, the Silverado 3500 has received positive reviews for its impressive per
 **Summary:**
 
 While the 2015 Chevrolet Silverado 3500 offers impressive performance and capabilities, it has faced some reported issues with its engine, transmission, and other components. Some of these issues can be costly to repair, especially the transmission and engine problems. It's important for potential buyers to be aware of these potential issues and factor the cost of repairs into their decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

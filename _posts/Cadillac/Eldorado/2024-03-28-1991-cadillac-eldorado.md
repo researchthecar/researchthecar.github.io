@@ -85,6 +85,19 @@ The 1991 Cadillac Eldorado is a full-size luxury coupe or convertible. It was of
     * Estimated Cost to Fix: $500 - $1000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mount failure:**
@@ -110,6 +123,19 @@ The 1991 Cadillac Eldorado is a full-size luxury coupe or convertible. It was of
     * Solution: Replace starter
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -140,3 +166,15 @@ The 1991 Cadillac Eldorado is a full-size luxury coupe or convertible. It was of
 **Summary:**
 
 The 1991 Cadillac Eldorado has a range of issues that can be costly to repair. The most common and severe issues include head gasket failure, transmission slipping, and suspension component failures. These can require substantial repairs that may exceed the value of the vehicle. However, many of the issues are relatively minor and can be addressed with affordable maintenance and repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

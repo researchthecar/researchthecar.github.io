@@ -20,6 +20,19 @@ The 2010 Mercedes-Benz Andare is a mid-size luxury sedan offered with two engine
 - **5-Speed Automatic:**
     - **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Front Control Arm Bushing Premature Wear:** Description/Symptoms: Clunking noise over bumps, uneven tire wear. Solution: Replace control arm bushings. Estimated Cost to Fix: $500 - $1,000+. Recalls: None Found
 - **Rear Shock Absorber Failure:** Description/Symptoms: Leaking fluid, bouncing rear end. Solution: Replace rear shock absorbers. Estimated Cost to Fix: $300 - $500 per shock. Recalls: None Found
@@ -27,6 +40,19 @@ The 2010 Mercedes-Benz Andare is a mid-size luxury sedan offered with two engine
 **Electrical**
 - **Battery Discharge:** Description/Symptoms: Battery drains quickly after sitting overnight. Solution: Replace battery or diagnose electrical drain. Estimated Cost to Fix: $100 - $300+. Recalls: 17V-069
 - **Alternator Failure:** Description/Symptoms: Battery warning light on, dimming headlights. Solution: Replace alternator. Estimated Cost to Fix: $500 - $1,000+. Recalls: 14V-204
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 - **Door Handle Corrosion:** Description/Symptoms: Door handles become sticky or difficult to operate. Solution: Replace door handles. Estimated Cost to Fix: $200 - $400 per handle. Recalls: None Found
@@ -37,3 +63,15 @@ The 2010 Mercedes-Benz Andare is a mid-size luxury sedan offered with two engine
 
 **Summary:**
 The 2010 Mercedes-Benz Andare has some potential issues, but the majority are not considered severe or overly expensive to fix. The most common issues reported by owners are timing chain tensioner failure on the V6 engine, torque converter failure on the 7-speed automatic transmission, and premature bushing wear in the suspension. Other issues, such as electrical problems, exterior corrosion, and interior noises, are less frequent and generally less costly to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

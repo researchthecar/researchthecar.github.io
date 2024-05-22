@@ -47,6 +47,19 @@ The Corsica was praised for its comfortable ride, spacious interior, and afforda
 
     - **No issues found.**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
     - **Front strut mounts:** The front strut mounts can wear out on the Corsica, causing the struts to make noise and the vehicle to handle poorly.
@@ -64,6 +77,19 @@ The Corsica was praised for its comfortable ride, spacious interior, and afforda
         - Solution: Replace the power window motor or switch.
         - Estimated Cost to Fix: $150 - $400
         - Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -86,3 +112,15 @@ The Corsica was praised for its comfortable ride, spacious interior, and afforda
 **Summary**
 
 The 1992 Chevrolet Corsica is a reliable and affordable mid-size sedan. However, it does have some common issues that owners should be aware of. The most serious issues include oil leaks, intake manifold gasket failure, and transmission problems. The estimated cost to fix these issues ranges from $150 to $1,500.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

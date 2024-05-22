@@ -27,6 +27,19 @@ The 1995 Chevrolet Impala is a full-size sedan offered with a range of engine an
     * **Speed Sensor Failure:** Description/Symptoms: The speed sensor can fail, leading to incorrect speedometer readings and transmission shifting issues. Solution: Replace the speed sensor. Estimated Cost to Fix: $100 - $200
     * **Valve Body Leaks:** Description/Symptoms: The valve body can develop leaks, causing transmission fluid loss and shifting problems. Solution: Repair or replace the valve body. Estimated Cost to Fix: $200 - $400+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arms:** Description/Symptoms: The front lower control arms can wear out, causing clunking noises and poor handling. Solution: Replace the lower control arms. Estimated Cost to Fix: $200 - $400+
@@ -36,6 +49,19 @@ The 1995 Chevrolet Impala is a full-size sedan offered with a range of engine an
 
 * **Alternator Failure:** Description/Symptoms: The alternator can fail, causing the battery to discharge and the vehicle to stall. Solution: Replace the alternator. Estimated Cost to Fix: $200 - $400+
 * **Starter Solenoid Failure:** Description/Symptoms: The starter solenoid can fail, preventing the starter from engaging. Solution: Replace the starter solenoid. Estimated Cost to Fix: $100 - $200
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -49,3 +75,15 @@ The 1995 Chevrolet Impala is a full-size sedan offered with a range of engine an
 **Summary**
 
 The 1995 Chevrolet Impala is a reliable and comfortable full-size sedan that offers plenty of space and performance. However, like any vehicle, it has its share of issues that owners should be aware of. While some of these issues are minor and relatively inexpensive to fix, others can be more serious and costly. It is important to note that the severity and frequency of these issues can vary depending on individual driving habits and maintenance practices.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

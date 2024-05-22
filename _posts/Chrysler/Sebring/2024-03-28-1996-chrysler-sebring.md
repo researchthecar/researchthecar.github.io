@@ -31,6 +31,19 @@ The 1996 Chrysler Sebring is a mid-size sedan offered with a choice of two engin
 * **Clutch failure:** Description/Symptoms: Slipping, difficulty engaging gears. Solution: Replace the clutch. Estimated Cost to Fix: $800 - $1,200+
 * **Transmission mount failure:** Description/Symptoms: Vibrations, noise. Solution: Replace the transmission mount. Estimated Cost to Fix: $150 - $250+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Strut failure:** Description/Symptoms: Poor handling, excessive bouncing, noise. Solution: Replace the struts. Estimated Cost to Fix: $400 - $600+ (for all four)
 * **Control arm bushing failure:** Description/Symptoms: Noise, vibrations, uneven tire wear. Solution: Replace the control arm bushings. Estimated Cost to Fix: $200 - $300+ (for all four)
@@ -40,6 +53,19 @@ The 1996 Chrysler Sebring is a mid-size sedan offered with a choice of two engin
 * **Battery failure:** Description/Symptoms: Won't start, dim lights. Solution: Replace the battery. Estimated Cost to Fix: $100 - $200+
 * **Alternator failure:** Description/Symptoms: Dim lights, battery won't charge. Solution: Replace the alternator. Estimated Cost to Fix: $500 - $700+
 * **Starter failure:** Description/Symptoms: Won't start, grinding noise. Solution: Replace the starter. Estimated Cost to Fix: $300 - $500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **Door handle failure:** Description/Symptoms: Door won't open. Solution: Replace the door handle. Estimated Cost to Fix: $100 - $200+ (for each door)
@@ -53,3 +79,15 @@ The 1996 Chrysler Sebring is a mid-size sedan offered with a choice of two engin
 **Summary:**
 
 The 1996 Chrysler Sebring has numerous reliability issues across major components. Engine problems, particularly with the 2.0L inline-4, are the most severe and costly to repair. Transmission issues, suspension problems, and electrical failures are also common. While the Sebring offers a comfortable interior and stylish design, its reliability issues significantly detract from its overall value.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

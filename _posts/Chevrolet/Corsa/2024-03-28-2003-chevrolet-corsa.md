@@ -32,6 +32,19 @@ The 2003 Chevrolet Corsa is a subcompact hatchback that offers a balance of fuel
     * Solution: Replace torque converter
     * Estimated Cost to Fix: $1,000 - $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mounts Wear:**
@@ -53,6 +66,19 @@ The 2003 Chevrolet Corsa is a subcompact hatchback that offers a balance of fuel
     * Description/Symptoms: Vehicle won't start after sitting, rapid battery discharge
     * Solution: Test for parasitic draw and replace faulty components
     * Estimated Cost to Fix: $200 - $400+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -78,3 +104,15 @@ The 2003 Chevrolet Corsa is a subcompact hatchback that offers a balance of fuel
 
 **Summary:**
 Overall, the 2003 Chevrolet Corsa is a practical and affordable hatchback with some notable issues. Engine and transmission problems can be costly to fix, while suspension and electrical issues are generally less severe. Rust and headlight bulb issues are common exterior problems, while dashboard rattles and air conditioning failure can affect the interior experience. Potential buyers should consider these issues and factor in potential repair costs before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -35,6 +35,19 @@ Owners of the 1993 Cadillac DeVille appreciate the vehicle's spacious interior, 
         * Estimated Cost to Fix: $1,500 - $2,500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension**
@@ -63,6 +76,19 @@ Owners of the 1993 Cadillac DeVille appreciate the vehicle's spacious interior, 
         * Estimated Cost to Fix: $100 - $300+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Door Handle Failure**
@@ -87,3 +113,15 @@ Owners of the 1993 Cadillac DeVille appreciate the vehicle's spacious interior, 
 **Summary**
 
 The 1993 Cadillac DeVille is a comfortable and powerful luxury sedan that has been known to have several issues over the years. The most common issues include intake manifold gasket failure, head gasket failure, transmission slipping, and electrical problems. The severity of these issues can vary, and the cost to fix them can be significant. However, with proper maintenance and repairs, the 1993 Cadillac DeVille can be a reliable and enjoyable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

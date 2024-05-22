@@ -81,6 +81,19 @@ Solution: Replace the valve body.
 Estimated Cost to Fix: $1,500 - $2,000+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Leaf Spring Failure**
@@ -108,6 +121,19 @@ Description/Symptoms: The battery can drain prematurely due to a parasitic draw.
 Solution: Diagnose and repair the source of the parasitic draw.
 Estimated Cost to Fix: $200 - $500+
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -140,3 +166,15 @@ Recalls: NHTSA Campaign Number 20V177000
 **Summary**
 
 While the 2015 Chevrolet Silverado 3500 HD is a capable and reliable vehicle, it has some potential issues that buyers should be aware of. The most common problems are related to the engine, particularly the intake valve and cylinder head issues with the 6.0L V8. Transmission problems, such as torque converter and TCM failure, can also be costly to repair. Electrical issues, including alternator failure and battery drain, are also reported. Suspension problems, such as leaf spring and ball joint failure, can affect the vehicle's handling and stability. While some interior issues can be minor annoyances, instrument cluster failure can be a more serious problem. The severity and cost of the issues vary, but potential buyers should factor these potential problems into their decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

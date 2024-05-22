@@ -34,6 +34,19 @@ The 2000 Chevrolet Astro was a popular full-size van known for its spaciousness 
 * **Leaking seals:** Symptoms include transmission fluid leaks. Solution: Replace the leaking seals. Estimated Cost to Fix: $300 - $700+
 * **Shift cable problems:** Symptoms include difficulty shifting gears or the transmission not shifting properly. Solution: Adjust or replace the shift cable. Estimated Cost to Fix: $200 - $500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear leaf spring failure:** Symptoms include sagging or a rough ride in the rear. Solution: Replace the leaf springs. Estimated Cost to Fix: $600 - $1200+
@@ -45,6 +58,19 @@ The 2000 Chevrolet Astro was a popular full-size van known for its spaciousness 
 * **Alternator failure:** Symptoms include dim lights, flickering gauges, and battery discharge. Solution: Replace the alternator. Estimated Cost to Fix: $400 - $700+
 * **Battery issues:** Symptoms include difficulty starting the vehicle, flickering lights, and electrical system failures. Solution: Replace the battery. Estimated Cost to Fix: $200 - $350+
 * **Wiring harness problems:** Symptoms can vary depending on the affected circuit, but may include electrical component malfunctions, short circuits, or open circuits. Solution: Repair or replace the faulty wiring harness. Estimated Cost to Fix: $300 - $1000+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -59,3 +85,15 @@ The 2000 Chevrolet Astro was a popular full-size van known for its spaciousness 
 **Summary**
 
 The 2000 Chevrolet Astro had a number of issues, ranging from minor inconveniences to more severe problems like engine and transmission failures. While some of the issues are relatively inexpensive to fix, others can be quite costly. It is important for owners to be aware of these potential problems and to have them addressed promptly to prevent further damage or costly repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

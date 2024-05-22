@@ -75,6 +75,19 @@ The 2005 Chevrolet Astro is a full-size passenger van available with several eng
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arm Bushing Failure:**
@@ -109,6 +122,19 @@ The 2005 Chevrolet Astro is a full-size passenger van available with several eng
     * Estimated Cost to Fix: $100 - $200
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Door Handle Failure:**
@@ -128,3 +154,15 @@ The 2005 Chevrolet Astro is a full-size passenger van available with several eng
 **Summary:**
 
 While the 2005 Chevrolet Astro is a spacious and versatile vehicle, it is not without its issues. The engine and transmission components can suffer from various problems, including intake manifold gasket failure, valve lifter failure, fuel injection spider failure, and torque converter failure. The suspension can also develop issues with control arm bushings and leaf springs. Electrical problems can range from ignition switch failure to alternator failure and headlight switch failure. Some interior components, such as the AC condenser, can also fail. The severity of these issues can vary, but some can be costly to repair. Potential buyers should be aware of these potential problems before purchasing a used 2005 Chevrolet Astro.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

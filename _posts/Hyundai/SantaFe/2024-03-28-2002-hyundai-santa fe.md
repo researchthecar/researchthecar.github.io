@@ -60,6 +60,19 @@ The 2002 Hyundai Santa Fe is a compact SUV available with a choice of two engine
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Struts and Shocks Failure:**
@@ -80,6 +93,19 @@ The 2002 Hyundai Santa Fe is a compact SUV available with a choice of two engine
     * Solution: Troubleshoot and repair electrical system.
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior:**
 
@@ -105,3 +131,15 @@ The 2002 Hyundai Santa Fe is a compact SUV available with a choice of two engine
 **Summary:**
 
 The 2002 Hyundai Santa Fe has some common issues, including problems with the engine, transmission, and suspension. The engine issues, such as intake valve sticking and timing belt tensioner failure, can be costly to repair. The transmission issues, such as transmission control module failure and torque converter clutch failure, can also be expensive to fix. The suspension issues, such as struts and shocks failure, are relatively common and can affect the ride quality and handling of the vehicle. Overall, the 2002 Hyundai Santa Fe has some reliability concerns that potential buyers should be aware of before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -41,6 +41,19 @@ However, the Continental is not without its flaws. Some owners have reported exp
         * Estimated Cost to Fix: $2,500 - $4,000
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air suspension failure**
@@ -66,6 +79,19 @@ However, the Continental is not without its flaws. Some owners have reported exp
         * Solution: Replace the alternator.
         * Estimated Cost to Fix: $500 - $800
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -96,3 +122,15 @@ However, the Continental is not without its flaws. Some owners have reported exp
 **Summary**
 
 The 1992 Bentley Continental is a luxurious and powerful vehicle, but it is not without its issues. The most common problems reported by owners include oil leaks, transmission slippage, suspension issues, electrical failures, and rust. The severity and cost of these issues can vary depending on the specific problem and the extent of the damage. However, it is important for potential buyers to be aware of these potential problems before purchasing a Continental.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

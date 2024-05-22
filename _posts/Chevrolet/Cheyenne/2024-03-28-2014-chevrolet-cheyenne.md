@@ -37,6 +37,19 @@ Despite its popularity, the 2014 Chevrolet Cheyenne has had its fair share of is
 
 * **Valve body failure:** The valve body can fail, causing the transmission to slip and hesitate. Symptoms include a slipping sensation when shifting gears, reduced transmission power, and check engine light illumination. The solution is to replace the valve body. Estimated cost to fix: $500 - $1,000. Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -46,6 +59,19 @@ Despite its popularity, the 2014 Chevrolet Cheyenne has had its fair share of is
 * **Battery drain:** The battery can drain, leaving the vehicle unable to start. Symptoms include a dead battery, dim headlights, and a check engine light illumination. The solution is to replace the battery. Estimated cost to fix: $100 - $200. Recalls: None Found
 
 * **Alternator failure:** The alternator can fail, leaving the vehicle unable to charge the battery. Symptoms include a dead battery, dim headlights, and a check engine light illumination. The solution is to replace the alternator. Estimated cost to fix: $500 - $1,000. Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -62,3 +88,15 @@ Despite its popularity, the 2014 Chevrolet Cheyenne has had its fair share of is
 **Summary**
 
 The 2014 Chevrolet Cheyenne is a popular truck that has had its share of issues. The most common problems reported by owners include engine failures, transmission problems, electrical issues, and interior issues. The severity of the issues varies, but some can be costly to fix. Overall, the 2014 Chevrolet Cheyenne is a reliable vehicle, but it is important to be aware of the potential problems that it may have.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

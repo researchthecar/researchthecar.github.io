@@ -65,6 +65,19 @@ Known for its spacious interior, comfortable ride, and sporty handling, the Equi
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Sagging**
@@ -90,6 +103,19 @@ Known for its spacious interior, comfortable ride, and sporty handling, the Equi
     * Solution: Replace the headlight bulb or diagnose and repair the electrical wiring.
     * Estimated Cost to Fix: $100 - $500
     * Recalls: #17V508000
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -120,3 +146,15 @@ Known for its spacious interior, comfortable ride, and sporty handling, the Equi
 **Summary**
 
 The 2017 Chevrolet Equinox has faced several issues, ranging from mild annoyances to potentially serious problems. Some of the more severe issues include excessive oil consumption, transmission slipping, and rear suspension sagging. While the cost of repairs can vary depending on the specific issue and the severity of the problem, owners should be prepared to spend anywhere from a few hundred dollars to several thousand dollars on repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

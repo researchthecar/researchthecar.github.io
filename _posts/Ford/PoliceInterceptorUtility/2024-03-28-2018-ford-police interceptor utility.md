@@ -34,6 +34,19 @@ The 2018 Ford Police Interceptor Utility is a purpose-built police vehicle with 
     * Estimated Cost to Fix: $1,000 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension wear:**
@@ -55,6 +68,19 @@ The 2018 Ford Police Interceptor Utility is a purpose-built police vehicle with 
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rear window defroster failure:**
@@ -74,3 +100,15 @@ The 2018 Ford Police Interceptor Utility is a purpose-built police vehicle with 
 **Summary**
 
 Overall, the 2018 Ford Police Interceptor Utility is a capable vehicle with strong performance and advanced features. However, some owners have experienced issues with components such as the engine, transmission, suspension, and electrical systems. While some of these issues are minor and relatively inexpensive to fix, others, such as engine or transmission failures, can be more severe and costly. It is important to note that not all vehicles will experience these issues and that mileage, maintenance history, and driving conditions can influence the likelihood of encountering these problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

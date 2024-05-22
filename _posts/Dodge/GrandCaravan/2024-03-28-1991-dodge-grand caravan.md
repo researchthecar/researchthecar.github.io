@@ -33,6 +33,19 @@ The 1991 Dodge Grand Caravan was a popular minivan that offered spacious seating
 * **Input shaft seal leak:** Symptoms include transmission fluid leaks from the front of the transmission. Solution: Replace the input shaft seal. Estimated Cost to Fix: $200 - $500
 * **Output shaft seal leak:** Symptoms include transmission fluid leaks from the rear of the transmission. Solution: Replace the output shaft seal. Estimated Cost to Fix: $200 - $500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut failure:** Symptoms include excessive bouncing, reduced handling, and uneven tire wear. Solution: Replace the front struts. Estimated Cost to Fix: $400 - $800+
@@ -43,6 +56,19 @@ The 1991 Dodge Grand Caravan was a popular minivan that offered spacious seating
 * **Alternator failure:** Symptoms include dim headlights, flickering lights, and a dead battery. Solution: Replace the alternator. Estimated Cost to Fix: $400 - $800+
 * **Battery drain:** Symptoms include difficulty starting the vehicle, slow cranking, and a dead battery. Solution: Charge or replace the battery, and check for parasitic drains. Estimated Cost to Fix: $100 - $300+
 * **Starter failure:** Symptoms include a clicking noise when trying to start the vehicle, no crank, and a dead battery. Solution: Replace the starter. Estimated Cost to Fix: $200 - $500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -58,3 +84,15 @@ The 1991 Dodge Grand Caravan was a popular minivan that offered spacious seating
 **Summary**
 
 The 1991 Dodge Grand Caravan had some common issues, particularly with the engine and transmission. Intake manifold gasket failure, valve cover gasket leaks, and transmission slipping were some of the more severe problems. The electrical system also had its fair share of issues, including alternator failure and starter failure. However, the suspension, exterior, and interior components were generally reliable. Overall, the issues were manageable and relatively affordable to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

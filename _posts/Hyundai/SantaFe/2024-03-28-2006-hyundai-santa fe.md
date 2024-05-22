@@ -35,6 +35,19 @@ The 2006 Hyundai Santa Fe is a midsize SUV available with two engine options: a 
 * **Delayed Shifting:** The transmission may delay when shifting gears; symptoms include slow or hesitant gear changes. The transmission fluid and filter may need to be changed or the transmission may need to be reprogrammed. Estimated Cost to Fix: $150-$250
 * **Overheating:** The transmission may overheat during extended driving; symptoms include a burning smell and reduced transmission performance. The transmission fluid and filter may need to be changed or the transmission may need to be rebuilt. Estimated Cost to Fix: $500-$1500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:** The strut mounts can fail, causing a clunking or rattling noise from the front of the vehicle. The strut mounts must be replaced. Estimated Cost to Fix: $200-$300
@@ -44,6 +57,19 @@ The 2006 Hyundai Santa Fe is a midsize SUV available with two engine options: a 
 
 * **Headlight Switch Failure:** The headlight switch can fail, causing the headlights to not turn on or stay on. The switch must be replaced. Estimated Cost to Fix: $100-$150
 * **Power Window Failure:** The power window motors or switches can fail, causing the windows to not operate properly. The motors or switches must be replaced. Estimated Cost to Fix: $200-$350
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -57,3 +83,15 @@ The 2006 Hyundai Santa Fe is a midsize SUV available with two engine options: a 
 **Summary**
 
 The 2006 Hyundai Santa Fe is generally a reliable SUV, but some owners have reported various issues, particularly with the engine, transmission, and suspension. The severity and cost of these issues can vary depending on the specific problem. Regular maintenance and prompt repairs can help to extend the life of the vehicle and prevent more serious issues from occurring.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

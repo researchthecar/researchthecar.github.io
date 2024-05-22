@@ -34,6 +34,19 @@ The 2023 Ferrari Portofino M is a mid-engined grand tourer convertible, featurin
     * Estimated Cost to Fix: $2,000 - $4,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Noise:**
@@ -54,6 +67,19 @@ The 2023 Ferrari Portofino M is a mid-engined grand tourer convertible, featurin
     * Solution: Update or replace infotainment system
     * Estimated Cost to Fix: $500 - $2,000
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -84,3 +110,15 @@ The 2023 Ferrari Portofino M is a mid-engined grand tourer convertible, featurin
 **Summary**
 
 While the 2023 Ferrari Portofino M is a highly capable and enjoyable vehicle, it has faced a range of issues reported by owners. These issues vary in severity and cost to repair, but some of the more common problems include engine boost pressure sensor failure, battery drain, and suspension strut noise. Owners should be aware of these potential issues and consider the cost of repairs when making purchasing decisions.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

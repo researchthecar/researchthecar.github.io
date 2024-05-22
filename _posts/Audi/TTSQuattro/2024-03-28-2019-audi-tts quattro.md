@@ -43,6 +43,19 @@ The TTS has received praise for its sharp handling, powerful engines, and stylis
 * **Six-Speed Manual Transmission**
     * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arm Bushings:** The front lower control arm bushings can wear out prematurely, causing clunking noises and reduced handling performance.
@@ -56,6 +69,19 @@ The TTS has received praise for its sharp handling, powerful engines, and stylis
         * Solution: Finding and fixing the source of the parasitic drain.
         * Estimated Cost to Fix: $500 - $1,000+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -74,3 +100,15 @@ The TTS has received praise for its sharp handling, powerful engines, and stylis
 **Summary**
 
 The 2019 Audi TTS Quattro is a high-performance sports car that offers a thrilling driving experience. However, it is not without its issues. The engine and transmission can experience serious problems that can be expensive to fix. The suspension, electrical system, and interior also have some known issues. Overall, the TTS is a reliable vehicle, but potential buyers should be aware of the potential problems that may arise.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

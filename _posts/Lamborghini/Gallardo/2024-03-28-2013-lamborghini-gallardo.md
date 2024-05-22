@@ -40,6 +40,19 @@ While the Gallardo is a highly capable sports car, it is not without its issues.
         * Estimated Cost to Fix: $1,500-$2,500
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Lower Control Arms**
@@ -55,6 +68,19 @@ While the Gallardo is a highly capable sports car, it is not without its issues.
         * Solution: The electrical system must be checked for parasitic draws.
         * Estimated Cost to Fix: $500-$1,000
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -80,3 +106,15 @@ While the Gallardo is a highly capable sports car, it is not without its issues.
 **Summary**
 
 The 2013 Lamborghini Gallardo is a highly capable sports car, but it is not without its issues. The most serious issues are the valve seat failure and the oil pump failure, which can both lead to catastrophic engine damage. Other issues, such as grinding gears, a malfunctioning transmission control module, and a battery drain, are less severe but can still be costly to fix. Overall, the Gallardo is a high-maintenance car that requires regular care and attention.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

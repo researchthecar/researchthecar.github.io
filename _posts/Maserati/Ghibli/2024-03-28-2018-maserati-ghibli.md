@@ -35,6 +35,19 @@ The 2018 Maserati Ghibli is a mid-size luxury sedan known for its sleek Italian 
     * Estimated Cost to Fix: $3,000 - $5,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -51,6 +64,19 @@ The 2018 Maserati Ghibli is a mid-size luxury sedan known for its sleek Italian 
     * Solution: Diagnose and repair or replace the affected electrical module or wiring.
     * Estimated Cost to Fix: $300 - $1,500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -72,3 +98,15 @@ The 2018 Maserati Ghibli is a mid-size luxury sedan known for its sleek Italian 
 **Summary**
 
 The 2018 Maserati Ghibli offers thrilling performance and luxurious amenities, but it is plagued by numerous reliability issues that impact both its engine and transmission. These problems can be costly to repair and can significantly diminish the ownership experience. The electrical system is also prone to glitches, and the interior can suffer from climate control malfunctions and infotainment system lag. Overall, the severity and cost of these issues make the 2018 Maserati Ghibli a risky choice for those seeking a reliable and stress-free driving experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

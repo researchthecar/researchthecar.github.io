@@ -29,6 +29,19 @@ The 2012 BMW ActiveHybrid 5 combines a turbocharged 3.0-liter inline-6 engine wi
     * Estimated Cost to Fix: $1,500 - $2,500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Control Arm Bushings Worn:** The control arm bushings may wear out prematurely, leading to excessive vibration and noise when driving over bumps.
@@ -53,6 +66,19 @@ The 2012 BMW ActiveHybrid 5 combines a turbocharged 3.0-liter inline-6 engine wi
     * Estimated Cost to Fix: $500 - $1,500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **No Issues Found**
@@ -60,3 +86,15 @@ The 2012 BMW ActiveHybrid 5 combines a turbocharged 3.0-liter inline-6 engine wi
 **Summary**
 
 The 2012 BMW ActiveHybrid 5 is a powerful and sophisticated vehicle, but it is not without its issues. The turbocharger, transmission, and suspension can experience problems, which can be costly to repair. Additionally, the infotainment system may malfunction. However, the severity of these issues is relatively low, and the overall cost of ownership is comparable to other luxury vehicles in its class.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

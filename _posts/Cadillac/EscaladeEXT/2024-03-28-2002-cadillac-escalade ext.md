@@ -48,6 +48,19 @@ The 2002 Cadillac Escalade EXT is a full-size luxury pickup truck offered with e
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front Control Arm Bushings**
     * Description/Symptoms: Clunking or rattling noises from front end, excessive tire wear
@@ -71,6 +84,19 @@ The 2002 Cadillac Escalade EXT is a full-size luxury pickup truck offered with e
     * Solution: Replace alternator
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **Headlight Condensation**
@@ -99,3 +125,15 @@ The 2002 Cadillac Escalade EXT is a full-size luxury pickup truck offered with e
 **Summary**
 
 The 2002 Cadillac Escalade EXT has a mixed bag of issues. While it offers a powerful engine and comfortable interior, it can be plagued by some costly problems, particularly with the engine and transmission components. The average cost of repairs for these issues can range from $500 to $3,000+, depending on the severity of the problem and the location of the repair. However, many of these issues are not uncommon for vehicles of this age and mileage, and the Escalade EXT remains a popular choice for those seeking a spacious and capable luxury pickup truck.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

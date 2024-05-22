@@ -29,6 +29,19 @@ The 2019 Chevrolet Aveo is not sold in the United States or Canada. It is a subc
 
 * **No issues found.**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mounts:** Worn strut mounts. Symptoms include clunking noises when going over bumps, reduced handling, and uneven tire wear. Solution involves replacing the strut mounts. **Estimated Cost to Fix:** $200 - $400+
@@ -38,6 +51,19 @@ The 2019 Chevrolet Aveo is not sold in the United States or Canada. It is a subc
 
 * **Battery drain:** Faulty alternator. Symptoms include starting problems, dim lights, and battery warning light. Solution involves replacing the alternator. **Estimated Cost to Fix:** $300 - $600+
 * **Electrical shorts:** Damaged wiring harness. Symptoms include blown fuses, flickering lights, and intermittent electrical problems. Solution involves diagnosing and repairing the damaged portion of the wiring harness. **Estimated Cost to Fix:** $200 - $800+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -51,3 +77,15 @@ The 2019 Chevrolet Aveo is not sold in the United States or Canada. It is a subc
 **Summary:**
 
 The 2019 Chevrolet Aveo has some common issues, ranging from engine performance problems to suspension and electrical faults. While the cost of repairs can vary, many of the issues are relatively minor and can be resolved for under $500. However, potential buyers should be aware of these potential issues before purchasing an Aveo.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

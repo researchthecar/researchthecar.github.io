@@ -40,6 +40,19 @@ Despite its impressive capabilities, the 2020 Land Rover Defender 110 has faced 
         - Estimated Cost to Fix: $500 - $1,500+
         - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **No Issues Found**
@@ -51,6 +64,19 @@ Despite its impressive capabilities, the 2020 Land Rover Defender 110 has faced 
     - Solution: Inspect wiring harness for damage, replace faulty components as necessary
     - Estimated Cost to Fix: $200 - $1,000+
     - Recalls: L558
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -71,3 +97,15 @@ Despite its impressive capabilities, the 2020 Land Rover Defender 110 has faced 
 **Summary:**
 
 Overall, the 2020 Land Rover Defender 110 has received mostly positive reviews from owners. However, some issues have been reported, including turbocharger failures, oil consumption, shifting problems, and electrical faults. The severity and cost of these issues vary, but some can be significant. Potential buyers should be aware of these issues before making a purchase decision and consider extended warranty coverage.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -29,6 +29,19 @@ The 1993 Lamborghini LM American is a limited-production SUV featuring a combina
     Estimated Cost to Fix: $800 - $1,500+
     Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **No Issues Found**
@@ -40,6 +53,19 @@ The 1993 Lamborghini LM American is a limited-production SUV featuring a combina
     Solution: Test and replace faulty alternator, starter, or battery.
     Estimated Cost to Fix: $500 - $1,500+
     Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior:**
 
@@ -60,3 +86,15 @@ The 1993 Lamborghini LM American is a limited-production SUV featuring a combina
 **Summary:**
 
 Overall, the 1993 Lamborghini LM American has a few potential issues to be aware of, particularly in the engine and electrical systems. While the cost of repairs can be significant, the vehicle remains a rare and sought-after collectible for enthusiasts who are willing to invest in its maintenance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

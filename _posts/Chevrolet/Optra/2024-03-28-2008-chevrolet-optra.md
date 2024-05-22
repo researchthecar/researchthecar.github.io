@@ -29,6 +29,19 @@ The 2008 Chevrolet Optra was a compact sedan offered with a 2.0L Ecotec engine a
 * **Estimated Cost to Fix:** $300 - $900+
 * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Control Arm Bushing Failure:**
@@ -44,6 +57,19 @@ The 2008 Chevrolet Optra was a compact sedan offered with a 2.0L Ecotec engine a
 * **Solution:** Identify and fix cause of power drain.
 * **Estimated Cost to Fix:** $100 - $600+
 * **Recalls:** None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -70,3 +96,15 @@ The 2008 Chevrolet Optra was a compact sedan offered with a 2.0L Ecotec engine a
 **Summary:**
 
 The 2008 Chevrolet Optra had some reported issues with its engine, transmission, suspension, electrical, and interior components. Some issues, such as intake manifold gasket failure and transmission solenoid issues, could be more severe and costly to fix. However, most of the reported issues are relatively minor and can be addressed with regular maintenance and timely repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

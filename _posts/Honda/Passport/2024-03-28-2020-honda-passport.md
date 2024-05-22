@@ -36,6 +36,19 @@ The 2020 Honda Passport is a midsize SUV that offers a combination of practicali
         * Estimated Cost to Fix: $3,000 - $5,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -47,6 +60,19 @@ The 2020 Honda Passport is a midsize SUV that offers a combination of practicali
         * Solution: Replace the battery or check for parasitic drain.
         * Estimated Cost to Fix: $100 - $500+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -71,3 +97,15 @@ The 2020 Honda Passport is a midsize SUV that offers a combination of practicali
 
 **Summary**
 The 2020 Honda Passport has received mixed reviews regarding its reliability. While it offers strong performance and a comfortable ride, it has been affected by a number of issues, including intake valve sticking, timing chain rattle, transmission shifting problems, battery drain, and tailgate latch failures. The severity of these issues varies, with some being relatively minor and inexpensive to fix, while others can be major and costly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -21,6 +21,19 @@ The 2021 Audi RS5 Sportback is a high-performance luxury hatchback powered by a 
 - **8-Speed Automatic Transmission:**
     - **Shifting Issues:** Symptoms include delayed or rough gear changes. Solution: Software updates, clutch replacements, or transmission rebuilds. Estimated Cost to Fix: $1,500 - $5,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Adaptive Suspension Failure:** Symptoms include uneven ride height, reduced handling, and warning lights. Solution: Replace faulty suspension components or control modules. Estimated Cost to Fix: $1,000 - $3,000+
@@ -28,6 +41,19 @@ The 2021 Audi RS5 Sportback is a high-performance luxury hatchback powered by a 
 **Electrical**
 
 - **Electrical System Faults:** Symptoms include electrical component malfunctions, battery drain, and warning lights. Solution: Diagnose and repair electrical system issues. Estimated Cost to Fix: Varies depending on the fault
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -40,3 +66,15 @@ The 2021 Audi RS5 Sportback is a high-performance luxury hatchback powered by a 
 **Summary:**
 
 Overall, the 2021 Audi RS5 Sportback is a high-performance vehicle with a few reported issues. While the engine, transmission, and electrical systems have some potential concerns, the issues are not widespread and may vary depending on the individual vehicle. The estimated cost to fix these issues can range from hundreds to thousands of dollars. It's important to note that these problems may not affect all RS5 Sportback models, and many owners enjoy the vehicle without significant issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

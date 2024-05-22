@@ -34,6 +34,19 @@ The 2015 Hyundai Genesis is a midsize luxury sedan that comes standard with a 31
         * Estimated Cost to Fix: $300 - $1,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Noise**
@@ -55,6 +68,19 @@ The 2015 Hyundai Genesis is a midsize luxury sedan that comes standard with a 31
     * Estimated Cost to Fix: Varies depending on the issue
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Headlight Condensation**
@@ -74,3 +100,15 @@ The 2015 Hyundai Genesis is a midsize luxury sedan that comes standard with a 31
 **Summary**
 
 The 2015 Hyundai Genesis is an overall reliable vehicle, but it is not without its issues. The most severe issues reported are the timing chain guide failure and torque converter shudder, both of which can be costly to fix. Other issues, such as the electrical shorts and interior dash panel gap, are less severe but can still be inconvenient.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -35,6 +35,19 @@ Solution: Replacing the mechatronic sleeve.
 Estimated Cost to Fix: $2,000 - $4,000+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -46,6 +59,19 @@ Description/Symptoms: The auxiliary battery, which powers the vehicle's electric
 Solution: Replacing the auxiliary battery.
 Estimated Cost to Fix: $200 - $400
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -66,3 +92,15 @@ Recalls: None Found
 **Summary**
 
 The 2013 BMW ActiveHybrid 5 generally receives positive reviews for its performance, interior comfort, and fuel efficiency. However, there have been some reported issues with the engine's intake valve carbon buildup and timing chain tensioner, the transmission's mechatronic sleeve, and various electrical and interior components. While some of these issues are relatively minor and inexpensive to fix, others can be more severe and costly. Potential buyers should research these issues carefully before purchasing a used 2013 ActiveHybrid 5.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

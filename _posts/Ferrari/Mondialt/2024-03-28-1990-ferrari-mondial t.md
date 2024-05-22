@@ -31,6 +31,19 @@ The 1990 Ferrari Mondial t is a mid-engine sports car that was produced from 198
     * Solution: Replace the synchros.
     * Estimated Cost to Fix: $1,200 - $1,800+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -46,6 +59,19 @@ The 1990 Ferrari Mondial t is a mid-engine sports car that was produced from 198
   * **Battery Drain:** The battery can drain prematurely due to a faulty component or parasitic draw.
     * Solution: Identify and repair the cause of the battery drain.
     * Estimated Cost to Fix: $100 - $500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -63,3 +89,15 @@ The 1990 Ferrari Mondial t is a mid-engine sports car that was produced from 198
 **Summary**
 
 The 1990 Ferrari Mondial t is a high-performance sports car that is prone to some serious and costly issues. Engine problems, such as valve guide issues, timing belt failure, and oil leaks, are common and can lead to significant expenses. Transmission issues, such as synchro problems, can also be costly to repair. Electrical issues can range from minor battery drains to major wiring harness problems. Interior issues, such as dashboard cracking and HVAC problems, are also not uncommon. Overall, the Mondial t is a vehicle that requires regular maintenance and a substantial budget for repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -39,6 +39,19 @@ Solution: Replace the shift solenoid.
 Estimated Cost to Fix: $200 - $400+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -50,6 +63,19 @@ Description/Symptoms: The alternator can fail, causing the battery to drain and 
 Solution: Replace the alternator.
 Estimated Cost to Fix: $300 - $500+
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -66,3 +92,15 @@ Recalls: None Found
 **Summary:**
 
 The 1992 Ford Crown Victoria is a reliable and comfortable vehicle, but it does have a few common issues. The most severe and costly issue is the timing chain failure on the 5.0L V8 engine, which can lead to catastrophic engine damage. Other issues, such as the intake manifold gasket failure and shift solenoid failure, are less severe and less costly to repair. Overall, the Crown Victoria is a good choice for those looking for a spacious and reliable sedan.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

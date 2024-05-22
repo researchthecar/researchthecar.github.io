@@ -53,6 +53,19 @@ The Accent is praised for its fuel efficiency, affordability, and maneuverabilit
   - Estimated Cost to Fix: $150 - $400+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Front Strut Mounts**
@@ -81,6 +94,19 @@ The Accent is praised for its fuel efficiency, affordability, and maneuverabilit
   - Estimated Cost to Fix: $300 - $500+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 - **Door Lock Actuator Failure**
@@ -106,3 +132,15 @@ The Accent is praised for its fuel efficiency, affordability, and maneuverabilit
 **Summary**
 
 The 2006 Hyundai Accent is a budget-friendly car with some notable issues. The most severe and costly issues involve the engine, such as head gasket failure and timing chain tensioner failure. Transmission issues are also common, including clutch disc failure and transmission fluid leaks. However, the electrical, suspension, exterior, and interior components have relatively minor problems that are generally less expensive to fix. Overall, the Accent's reliability has been average, with some owners experiencing significant problems while others have had relatively trouble-free ownership.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

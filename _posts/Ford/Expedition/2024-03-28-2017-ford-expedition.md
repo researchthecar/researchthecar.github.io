@@ -29,6 +29,19 @@ The 2017 Ford Expedition is a full-size SUV that offers a spacious cabin, powerf
 * **Transmission slipping:** The transmission can slip, causing a loss of power and difficulty accelerating. The solution is to replace the transmission. **Estimated Cost to Fix:** $3,000 - $5,000+
 * **Torque converter failure:** The torque converter can fail, causing a loss of power and difficulty shifting gears. The solution is to replace the torque converter. **Estimated Cost to Fix:** $1,000 - $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension noise:** The front suspension can develop a clunking noise when driving over bumps. The solution is to replace the front struts or shocks. **Estimated Cost to Fix:** $500 - $1,000+
@@ -38,6 +51,19 @@ The 2017 Ford Expedition is a full-size SUV that offers a spacious cabin, powerf
 
 * **Battery drain:** The battery can drain prematurely, causing the vehicle to not start. The solution is to replace the battery or diagnose and fix the electrical system. **Estimated Cost to Fix:** $100 - $500+
 * **Electrical shorts:** The electrical system can develop shorts, causing various electrical issues such as blown fuses or flickering lights. The solution is to diagnose and repair the electrical shorts. **Estimated Cost to Fix:** $200 - $1,000+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -52,3 +78,15 @@ The 2017 Ford Expedition is a full-size SUV that offers a spacious cabin, powerf
 **Summary**
 
 The 2017 Ford Expedition has several potential issues that can range in severity and cost. The engine and transmission are the most problematic areas, with issues like intake manifold failure, cam phaser failure, transmission slipping, and torque converter failure being common. The suspension, electrical, exterior, and interior also have some reported issues, but these are generally less severe and less expensive to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

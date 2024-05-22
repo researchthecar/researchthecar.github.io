@@ -34,6 +34,19 @@ Despite its impressive performance and features, the 2019 Audi TT Quattro has be
     * Estimated Cost to Fix: $2,000 - $4,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -45,6 +58,19 @@ Despite its impressive performance and features, the 2019 Audi TT Quattro has be
 * Solution: Test the battery and replace if necessary, check for parasitic drain on the electrical system
 * Estimated Cost to Fix: $100 - $500+
 * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -64,3 +90,15 @@ Despite its impressive performance and features, the 2019 Audi TT Quattro has be
 
 **Summary**
 The 2019 Audi TT Quattro is a great sports car, but it has some issues that can be costly to fix. The most severe issue is the timing chain tensioner failure, which can lead to catastrophic engine damage. Other issues include transmission problems, electrical issues, and exterior issues. Overall, the cost of repairs for these issues can range from a few hundred dollars to several thousand dollars.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

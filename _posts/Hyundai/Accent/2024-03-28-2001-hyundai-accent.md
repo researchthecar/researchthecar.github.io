@@ -35,6 +35,19 @@ The 2001 Hyundai Accent is a subcompact sedan or hatchback available with two en
         * Estimated Cost to Fix: $1,000 - $2,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front Strut Mount Failure**
     * Description/Symptoms: Clunking or rattling noise from front end, reduced ride comfort
@@ -53,6 +66,19 @@ The 2001 Hyundai Accent is a subcompact sedan or hatchback available with two en
     * Solution: Inspect electrical system for parasitic draw, replace faulty components
     * Estimated Cost to Fix: $100 - $300+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **Door Handle Breakage**
@@ -76,3 +102,15 @@ The 2001 Hyundai Accent is a subcompact sedan or hatchback available with two en
 **Summary**
 
 The 2001 Hyundai Accent is a budget-friendly vehicle with common issues that are typically affordable to repair. The most severe issues, such as transmission slipping and alternator failure, can be costly to fix. However, the majority of problems are relatively minor and can be resolved with basic maintenance and repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -23,6 +23,19 @@ The 2022 Audi S5 Sportback is a performance-oriented hatchback available with a 
 
 * **Shifting Hesitations:** Description/Symptoms: Owners have reported occasional hesitations or delayed shifts while driving. Solution: Updating the transmission control software often resolves the issue. Estimated Cost to Fix: Covered under warranty. Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **No Issues Found**
@@ -31,6 +44,19 @@ The 2022 Audi S5 Sportback is a performance-oriented hatchback available with a 
 
 * **Power Window Failure:** Description/Symptoms: One or more power windows may fail to operate or become inoperable. Solution: Replacement of the window motor or control module. Estimated Cost to Fix: $300 - $600+
 * **Infotainment System Glitches:** Description/Symptoms: The infotainment system may experience occasional glitches, such as freezing or touchscreen malfunctions. Solution: Software updates or replacement of the system components. Estimated Cost to Fix: $500 - $1,500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior:**
 
@@ -45,3 +71,15 @@ The 2022 Audi S5 Sportback is a performance-oriented hatchback available with a 
 **Summary:**
 
 The 2022 Audi S5 Sportback has some reported issues that can affect the engine, transmission, electrical system, and interior. While some of these issues are covered under warranty, others can be costly to fix. The severity and cost of these issues vary, so it's important for prospective buyers to be aware of them before purchasing a vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

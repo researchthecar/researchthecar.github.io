@@ -43,6 +43,19 @@ The Commercial Chassis is appreciated for its powerful engine options and durabl
   * Estimated Cost to Fix: $1,500 - $3,000+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Worn ball joints**
@@ -71,6 +84,19 @@ The Commercial Chassis is appreciated for its powerful engine options and durabl
   * Estimated Cost to Fix: Varies depending on the source of the drain
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Corrosion on body panels**
@@ -90,3 +116,15 @@ The Commercial Chassis is appreciated for its powerful engine options and durabl
 **Summary**
 
 The 1994 Buick Commercial Chassis offers powerful engine options and durable construction. However, it has been reported to have some issues with fuel injectors, intake manifold gaskets, turbochargers, transmission slipping, worn ball joints, leaking shock absorbers, faulty ignition switches, and battery drain. The severity and cost of these issues vary, but some can be significant, especially if they lead to major component failures. Regular maintenance and timely repairs can help mitigate these issues and extend the vehicle's lifespan.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
