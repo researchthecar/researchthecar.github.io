@@ -45,6 +45,19 @@ The 2020 Volkswagen Delivery is a compact commercial van offered in both diesel 
     * Estimated Cost to Fix: $400 - $800
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure:**
@@ -60,6 +73,19 @@ The 2020 Volkswagen Delivery is a compact commercial van offered in both diesel 
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -80,3 +106,15 @@ The 2020 Volkswagen Delivery is a compact commercial van offered in both diesel 
 **Summary:**
 
 The 2020 Volkswagen Delivery has a few common issues, with the engine and transmission being the most concerning. The intake manifold flap failure on the diesel engine can lead to serious performance problems, while the transmission issues can be expensive to repair. The suspension, electrical, and exterior issues are less severe but still worth considering. Overall, the Delivery is a reliable and practical commercial van, but it is important to be aware of these potential problems before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

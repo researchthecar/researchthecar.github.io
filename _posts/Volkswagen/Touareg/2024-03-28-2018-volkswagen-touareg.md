@@ -68,6 +68,19 @@ While the Touareg is generally well-received, it does have some reported issues.
     * Solution: Replace clutch plates
     * Estimated Cost to Fix: $2,000-$3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Premature Strut Failure:**
@@ -90,6 +103,19 @@ While the Touareg is generally well-received, it does have some reported issues.
     * Solution: Diagnose and repair electrical components causing the drain
     * Estimated Cost to Fix: Varies depending on the cause
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rear Door Lock Failure:**
@@ -111,3 +137,15 @@ While the Touareg is generally well-received, it does have some reported issues.
 **Summary:**
 
 The 2018 Volkswagen Touareg has received mixed reviews in terms of reliability. While it offers impressive performance and a comfortable cabin, there are some known issues that can be costly to fix. Engine and transmission issues, particularly with the V6 engines, are the most prevalent concerns. Suspension and electrical problems have also been reported. Owners may experience issues with the rear door lock, center console squeaking, and panoramic sunroof malfunction. It is important to research these potential issues and factor in the cost of repairs when considering purchasing a 2018 Volkswagen Touareg.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

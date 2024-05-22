@@ -47,6 +47,19 @@ Solution: Overhaul or replace transmission.
 Estimated Cost to Fix: $1,500 - $2,500+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Mount Failure:** Worn suspension strut mounts can cause a knocking or rattling noise when driving over bumps.
@@ -62,6 +75,19 @@ Description/Symptoms: Rapid battery depletion, dim headlights, difficulty starti
 Solution: Identify and fix electrical draw, replace battery if necessary.
 Estimated Cost to Fix: $100 - $500+
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -82,3 +108,15 @@ Recalls: None Found
 **Summary**
 
 The 1997 Volkswagen Combi is a budget-friendly and practical vehicle, but it has several common issues that can be costly to repair. Engine problems such as oil leaks and timing chain issues can be serious and expensive to address. Transmission issues, suspension noise, and electrical problems are also common. The severity and cost of these issues can vary depending on the specific part failure and the extent of the damage.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

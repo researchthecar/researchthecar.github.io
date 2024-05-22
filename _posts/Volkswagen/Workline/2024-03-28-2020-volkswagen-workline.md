@@ -40,6 +40,19 @@ Known for its spacious interior and capable towing capacity, the Workline has re
 * Estimated Cost to Fix: $200 - $3,000+
 * Recalls: NHTSA Campaign Number 22V-470
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaking struts:** Struts leak fluid, affecting ride quality and handling.
@@ -55,6 +68,19 @@ Known for its spacious interior and capable towing capacity, the Workline has re
 * Solution: Replace alternator
 * Estimated Cost to Fix: $500 - $1,000
 * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -75,3 +101,15 @@ Known for its spacious interior and capable towing capacity, the Workline has re
 **Summary**
 
 While the 2020 Volkswagen Workline offers decent performance and a practical interior, it has been plagued by several issues affecting its engine, transmission, and other components. The severity and cost of these issues can vary, but overall, potential buyers should be aware of these potential problems before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

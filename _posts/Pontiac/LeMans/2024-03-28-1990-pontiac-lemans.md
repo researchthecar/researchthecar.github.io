@@ -42,6 +42,19 @@ Owners generally praised the LeMans for its spacious interior, comfortable ride,
 **5-Speed Manual**
 - **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Strut Mount Failure**
     - Description/Symptoms: Clunking noises, poor handling
@@ -61,6 +74,19 @@ Owners generally praised the LeMans for its spacious interior, comfortable ride,
     - Solution: Replace starter
     - Estimated Cost to Fix: $200 - $400+
     - Recalls: NHTSA Campaign Number 89V077000
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 - **Rust**
@@ -83,3 +109,15 @@ Owners generally praised the LeMans for its spacious interior, comfortable ride,
 
 **Summary**
 The 1990 Pontiac LeMans is generally a reliable car with some common issues that can range from minor to severe. Engine and transmission issues can be costly to repair, while suspension and electrical issues are typically more affordable. Owners should be aware of the potential for these problems and budget accordingly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

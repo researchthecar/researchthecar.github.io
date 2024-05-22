@@ -39,6 +39,19 @@ The 2003 Suzuki Grand Vitara is a compact SUV available with two engine options:
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure**
@@ -59,6 +72,19 @@ The 2003 Suzuki Grand Vitara is a compact SUV available with two engine options:
     * Solution: Test the electrical system for parasitic drains and replace any faulty components as needed.
     * Estimated Cost to Fix: $100 - $300+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -89,3 +115,15 @@ The 2003 Suzuki Grand Vitara is a compact SUV available with two engine options:
 **Summary:**
 
 The 2003 Suzuki Grand Vitara is a reliable and capable SUV with some common issues. The most severe issues include the intake manifold gasket failure on the 2.5L V6 and the valve spring failure on the 2.7L V6. These issues can be costly to repair and may require professional assistance. However, many of the other issues are relatively minor and inexpensive to fix. Overall, the Grand Vitara is a good choice for those who need a reliable and affordable SUV.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

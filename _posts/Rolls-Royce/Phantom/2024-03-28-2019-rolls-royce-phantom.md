@@ -37,6 +37,19 @@ The 2019 Rolls-Royce Phantom is an ultraluxurious sedan that combines opulent cr
         * Solution: Rebuild or replace transmission.
         * Estimated Cost to Fix: $5000 - $10000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Malfunction:**
@@ -54,6 +67,19 @@ The 2019 Rolls-Royce Phantom is an ultraluxurious sedan that combines opulent cr
     * Description/Symptoms: Loss of power to various components, check engine light may illuminate.
     * Solution: Diagnose and repair faulty electrical components, replace battery or alternator.
     * Estimated Cost to Fix: $500 - $2500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -76,3 +102,15 @@ The 2019 Rolls-Royce Phantom is an ultraluxurious sedan that combines opulent cr
 **Summary:**
 
 The 2019 Rolls-Royce Phantom is generally a reliable vehicle, but some owners have reported issues with the engine, transmission, suspension, and electrical system. The severity of the issues varies from minor to major, and the cost to repair can be significant. However, it's important to note that these issues are not widespread and most Phantom owners enjoy a trouble-free ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

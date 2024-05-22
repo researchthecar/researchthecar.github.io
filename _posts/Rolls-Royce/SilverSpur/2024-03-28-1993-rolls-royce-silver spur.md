@@ -39,6 +39,19 @@ The 1993 Rolls-Royce Silver Spur is a luxurious sedan powered by a potent 6.75-l
     * Estimated Cost to Fix: $2,000 - $4,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Leaks:**
@@ -64,6 +77,19 @@ The 1993 Rolls-Royce Silver Spur is a luxurious sedan powered by a potent 6.75-l
     * Solution: Test battery, alternator, and electrical components to identify the source of the drain.
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -94,3 +120,15 @@ The 1993 Rolls-Royce Silver Spur is a luxurious sedan powered by a potent 6.75-l
 **Summary**
 
 The 1993 Rolls-Royce Silver Spur is a classic luxury sedan that has stood the test of time. However, like any aging vehicle, it has faced its share of common issues. While some issues are relatively minor and inexpensive to fix, others can be more serious and costly. It is important to be aware of these potential problems before purchasing or maintaining a Silver Spur. The overall severity of the issues and the potential cost of repairs should be considered when deciding on ownership of this classic vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -29,6 +29,19 @@ The 2020 Mercedes-Benz Gran Viale RF is a high-performance luxury coupe that off
   * Estimated Cost to Fix: $200 - $600+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Compressor Failure**
@@ -50,6 +63,19 @@ The 2020 Mercedes-Benz Gran Viale RF is a high-performance luxury coupe that off
   * Solution: Software updates or replacement of the infotainment unit
   * Estimated Cost to Fix: $500 - $1,500+
   * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -76,3 +102,15 @@ The 2020 Mercedes-Benz Gran Viale RF is a high-performance luxury coupe that off
 **Summary**
 
 The 2020 Mercedes-Benz Gran Viale RF has encountered some issues, but they are generally not severe and can be resolved at a reasonable cost. The most common problems reported by owners include engine cylinder misfires, transmission shifting issues, air suspension compressor failures, battery drain, infotainment system glitches, and a few minor exterior and interior concerns. Despite these issues, the Gran Viale RF offers an exhilarating driving experience and impressive features, making it a desirable choice for luxury performance enthusiasts.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

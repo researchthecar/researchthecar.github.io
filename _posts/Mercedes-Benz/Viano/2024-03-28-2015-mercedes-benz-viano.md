@@ -34,6 +34,19 @@ The 2015 Mercedes-Benz Viano is a versatile minivan praised for its spacious int
     * Estimated Cost to Fix: $1,500 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Failure:**
@@ -49,6 +62,19 @@ The 2015 Mercedes-Benz Viano is a versatile minivan praised for its spacious int
     * Solution: Diagnose and fix electrical draw (e.g., faulty module, wiring).
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -69,3 +95,15 @@ The 2015 Mercedes-Benz Viano is a versatile minivan praised for its spacious int
 **Summary:**
 
 The 2015 Mercedes-Benz Viano has a few potential issues, but they are generally not severe. The most significant problem is the torque converter shudder in the 7-speed automatic transmission, which can be expensive to repair. Other issues, such as fuel filter clogging and rear bumper corrosion, are relatively common but less costly to address.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

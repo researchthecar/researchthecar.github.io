@@ -37,6 +37,19 @@ The 1994 Subaru Impreza is a compact car available in sedan and wagon body style
 - **Torque converter failure:** The torque converter can fail, causing shuddering or slipping. **Symptoms:** Shuddering when shifting gears, slipping transmission. **Solution:** Replace the torque converter. **Estimated Cost to Fix:** $1,000 - $2,000+
 - **Electrical problems:** The automatic transmission can experience electrical issues, such as faulty sensors or wiring problems. **Symptoms:** Transmission shifting erratically, check engine light. **Solution:** Diagnose and repair the electrical problem. **Estimated Cost to Fix:** $200 - $1,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Strut failure:** The struts can become worn or damaged, causing a loss of ride quality and handling. **Symptoms:** Rough ride, bouncing, difficulty steering. **Solution:** Replace the struts. **Estimated Cost to Fix:** $400 - $800+
@@ -46,6 +59,19 @@ The 1994 Subaru Impreza is a compact car available in sedan and wagon body style
 
 - **Alternator failure:** The alternator can fail, causing the battery to discharge and the electrical system to malfunction. **Symptoms:** Dimming lights, difficulty starting the engine, battery warning light. **Solution:** Replace the alternator. **Estimated Cost to Fix:** $500 - $1,000+
 - **Starter failure:** The starter can fail, preventing the engine from starting. **Symptoms:** Engine won't crank, clicking noises from the starter. **Solution:** Replace the starter. **Estimated Cost to Fix:** $300 - $700+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -60,3 +86,15 @@ The 1994 Subaru Impreza is a compact car available in sedan and wagon body style
 **Summary:**
 
 While the 1994 Subaru Impreza is generally a reliable vehicle, it can have some common issues. Engine problems, particularly with the 1.8-liter naturally aspirated and turbocharged engines, are the most significant concerns. Transmission issues, especially with the automatic transmission, can also be costly. Suspension, electrical, and interior issues are less severe but can still impact the ownership experience. The estimated cost to fix these issues can vary widely depending on the specific model and the severity of the problem. Overall, while the Impreza is a great value for the money, it's essential to be aware of the potential issues it may encounter.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

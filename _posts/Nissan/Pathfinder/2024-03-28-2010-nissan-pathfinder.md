@@ -58,6 +58,19 @@ The 2010 Nissan Pathfinder is a mid-size SUV available with two engine options: 
     * Solution: CVT software update or replacement.
     * Estimated Cost to Fix: $200 - $1,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Noise**
@@ -82,6 +95,19 @@ The 2010 Nissan Pathfinder is a mid-size SUV available with two engine options: 
 
 **Recall:** NHTSA #12V479000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Fog Light Condensation**
@@ -103,3 +129,15 @@ The 2010 Nissan Pathfinder is a mid-size SUV available with two engine options: 
 **Summary**
 
 The 2010 Nissan Pathfinder has been reported to have various issues, with engine problems being the most significant. The intake valve carbon buildup and timing chain guide failure can result in costly repairs. The transmission issues also pose a concern, potentially leading to costly fixes. Suspension noise and sagging rear springs can affect ride quality and handling. Electrical problems, such as battery drain and alternator failure, can cause inconvenience and potential safety concerns. While most interior issues are relatively minor, they can still detract from the overall driving experience. The severity and cost of these issues vary, and not all Pathfinders will experience these problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

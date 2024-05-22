@@ -52,6 +52,19 @@ The 2009 Volkswagen Gol is a compact hatchback that offers a practical and affor
     * Solution: Overhaul or replace the transmission.
     * Estimated Cost to Fix: $1,500 - $3,000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mounts:** The strut mounts may wear out prematurely, causing clunking noises and reduced handling.
@@ -69,6 +82,19 @@ The 2009 Volkswagen Gol is a compact hatchback that offers a practical and affor
 * **Battery drain:** The battery may drain rapidly due to faulty components or wiring issues.
     * Solution: Inspect and repair the electrical system.
     * Estimated Cost to Fix: $200 - $500
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -91,3 +117,15 @@ The 2009 Volkswagen Gol is a compact hatchback that offers a practical and affor
 **Summary:**
 
 The 2009 Volkswagen Gol has several potential issues that vary in severity and cost to fix. While some problems are minor and can be addressed with routine maintenance, others, such as engine and transmission failures, are more serious and can be expensive to resolve. Overall, the Gol's reliability is below average, and potential buyers should be aware of these issues and factor them into their decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

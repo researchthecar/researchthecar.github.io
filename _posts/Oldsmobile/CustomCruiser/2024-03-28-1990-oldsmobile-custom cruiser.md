@@ -47,6 +47,19 @@ The 1990 Oldsmobile Custom Cruiser was a full-size station wagon offered with a 
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Sway Bar Link Failure:**
@@ -67,6 +80,19 @@ The 1990 Oldsmobile Custom Cruiser was a full-size station wagon offered with a 
     * Solution: Replace power window switch
     * Estimated Cost to Fix: $100 - $200
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -92,3 +118,15 @@ The 1990 Oldsmobile Custom Cruiser was a full-size station wagon offered with a 
 **Summary:**
 
 The 1990 Oldsmobile Custom Cruiser is a full-size station wagon with a spacious interior and powerful V8 engines. However, it also has several common issues, including intake manifold gasket failure, cylinder head gasket failure, TPS failure, transmission shift problems, and suspension component failures. The severity of the issues ranges from minor inconveniences to major mechanical failures. The cost to fix these issues can vary significantly, but overall, the Custom Cruiser is not considered to be a particularly reliable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

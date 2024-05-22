@@ -38,6 +38,19 @@ The 2002 Mitsubishi Mirage is a subcompact sedan or hatchback powered by a 1.5-l
         * Estimated Cost to Fix: $400 - $600
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mounts Worn**
@@ -58,6 +71,19 @@ The 2002 Mitsubishi Mirage is a subcompact sedan or hatchback powered by a 1.5-l
     * Solution: Replace the starter motor.
     * Estimated Cost to Fix: $300 - $500
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -83,3 +109,15 @@ The 2002 Mitsubishi Mirage is a subcompact sedan or hatchback powered by a 1.5-l
 **Summary**
 
 The 2002 Mitsubishi Mirage is plagued by several issues that can range from minor inconveniences to potentially costly repairs. The most severe issues include clutch slave cylinder failure, exhaust manifold cracks, and transmission solenoid failures. While the Mirage is a reliable vehicle overall, these issues can be frustrating and expensive to address.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

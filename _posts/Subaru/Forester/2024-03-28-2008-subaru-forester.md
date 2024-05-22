@@ -66,6 +66,19 @@ The 2008 Subaru Forester is a compact SUV known for its versatility, reliability
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear suspension sag**
@@ -91,6 +104,19 @@ The 2008 Subaru Forester is a compact SUV known for its versatility, reliability
     * Solution: Diagnose and repair electrical drain
     * Estimated Cost to Fix: Varies based on the cause
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -121,3 +147,15 @@ The 2008 Subaru Forester is a compact SUV known for its versatility, reliability
 **Summary**
 
 The 2008 Subaru Forester has received mixed reviews from owners. While it is known for its reliability and off-road capability, some have experienced issues with its engine, transmission, suspension, electrical system, and interior components. The severity of these issues varies, and not all Foresters will encounter them. The cost of repairs can range from a few hundred dollars to several thousand dollars, depending on the issue and the extent of the damage.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -29,6 +29,19 @@ The 2016 Rolls-Royce Wraith is a luxurious grand tourer powered by a 6.6L twin-t
         * Estimated Cost to Fix: $500 - $1,200
         * Recalls: RR-2019-012
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Air Suspension Failure:** Malfunctioning air suspension system can lead to uneven ride height, excessive body roll, and discomfort.
@@ -42,6 +55,19 @@ The 2016 Rolls-Royce Wraith is a luxurious grand tourer powered by a 6.6L twin-t
         * Solution: Software update, firmware update, or replacement of infotainment components.
         * Estimated Cost to Fix: $500 - $1,500
         * Recalls: RR-2017-009
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -59,3 +85,15 @@ The 2016 Rolls-Royce Wraith is a luxurious grand tourer powered by a 6.6L twin-t
 **Summary:**
 
 While the 2016 Rolls-Royce Wraith is an exceptional vehicle, it is not without its issues. The potential problems with the turbocharger, transmission, suspension, electrical system, and interior can be concerning, especially considering the vehicle's premium price tag. Some issues may be covered under warranty, but others can incur significant repair costs. Overall, the severity and cost of the issues vary, and interested buyers should carefully consider potential risks before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

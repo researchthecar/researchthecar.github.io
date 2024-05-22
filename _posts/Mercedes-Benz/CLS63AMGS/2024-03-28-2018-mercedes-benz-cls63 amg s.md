@@ -37,6 +37,19 @@ The Mercedes-Benz CLS63 AMG S is a high-performance luxury sedan that combines s
         * Estimated Cost to Fix: $2,000 - $3,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **No Issues Found**
@@ -53,6 +66,19 @@ The Mercedes-Benz CLS63 AMG S is a high-performance luxury sedan that combines s
     * Solution: Replace the ECU.
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior:**
 
@@ -74,3 +100,15 @@ The Mercedes-Benz CLS63 AMG S is a high-performance luxury sedan that combines s
 **Summary**
 
 The Mercedes-Benz CLS63 AMG S is a powerful and luxurious vehicle with a few notable issues. The timing chain tensioner failure and turbocharger wastegate failure are the most serious issues, as they can lead to significant engine damage. The other issues are less severe, but they can still be frustrating for owners. Overall, the CLS63 AMG S is a well-built vehicle, but it is important to be aware of the potential issues and the cost of repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

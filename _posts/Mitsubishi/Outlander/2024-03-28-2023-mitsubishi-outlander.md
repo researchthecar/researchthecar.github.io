@@ -35,6 +35,19 @@ Owners appreciate the Outlander's comfortable ride, user-friendly infotainment s
     * Estimated Cost to Fix: $1,500-$3,000
     * Recalls: NHTSA Campaign ID 23V035000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -46,6 +59,19 @@ Owners appreciate the Outlander's comfortable ride, user-friendly infotainment s
 * Solution: Replace the faulty battery or alternator
 * Estimated Cost to Fix: $200-$500
 * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -66,3 +92,15 @@ Owners appreciate the Outlander's comfortable ride, user-friendly infotainment s
 **Summary**
 
 While the 2023 Mitsubishi Outlander offers several positive attributes, it has also faced a number of issues. The most severe and expensive issue is premature timing chain failure in the 2.5-liter four-cylinder engine. Other issues include transmission hesitation or shuddering, electrical battery drain, excessive body panel vibration, and peeling or cracking steering wheel trim. The severity and cost of these issues vary, but some can be costly to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

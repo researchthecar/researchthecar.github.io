@@ -62,3 +62,15 @@ People who like the Mirage G4 appreciate its affordability, fuel efficiency, and
 ## Summary
 
 The 2018 Mitsubishi Mirage G4 is a budget-friendly and fuel-efficient car. However, it has some issues that can be annoying and expensive to fix. The most common problems reported by owners include engine stalling, transmission slipping, battery draining, and dashboard rattles. While some of these issues are relatively minor, others can be more serious and costly to repair. Overall, the Mirage G4 is a reliable car, but it is important to be aware of the potential problems that can come with it.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

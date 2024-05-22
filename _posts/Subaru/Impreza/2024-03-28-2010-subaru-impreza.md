@@ -81,3 +81,15 @@ Recalls: None Found
 ## Summary
 
 While the 2010 Subaru Impreza is generally a reliable vehicle, it has encountered some issues, particularly with the engine (oil consumption and turbocharger failure), transmission (grinding gears and rough shifting), and electrical system (alternator failure). These issues can be expensive to repair, ranging from $500 to over $3,000 in some cases. It's worth noting that these issues are not common to all Imprezas and should be considered on a case-by-case basis.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

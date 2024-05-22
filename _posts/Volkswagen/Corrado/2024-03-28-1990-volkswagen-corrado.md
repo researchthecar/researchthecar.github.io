@@ -21,6 +21,19 @@ The 1990 Volkswagen Corrado is a German-made sports car that was offered with tw
 * **5-speed manual transmission**
     * **No major issues found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension:**
@@ -34,6 +47,19 @@ The 1990 Volkswagen Corrado is a German-made sports car that was offered with tw
     * **Alternator failure:** This issue can occur on cars with higher mileage. Symptoms of alternator failure include difficulty starting the car, flickering headlights, and a dead battery. The solution is to replace the alternator. Estimated cost to fix: $500 - $1,000
     * **Starter failure:** Another issue that can occur on cars with higher mileage. Symptoms of starter failure include difficulty starting the car or a clicking noise when turning the key. The solution is to replace the starter. Estimated cost to fix: $500 - $1,000
 * **Wiring harness issues:** Some Corrados have been known to experience wiring harness issues, which can cause various electrical problems. Symptoms can range from flickering lights to engine control issues. The solution is to repair or replace the affected wiring. Estimated cost to fix: $500 - $2,000+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -51,3 +77,15 @@ The 1990 Volkswagen Corrado is a German-made sports car that was offered with tw
 
 **Summary**
 The 1990 Volkswagen Corrado is a fun and stylish sports car that has a few reliability issues. Some of the most common problems include timing belt failure, intake manifold gasket failure, and electrical issues. The severity and cost of repairs can vary depending on the specific issue and the age and mileage of the car.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

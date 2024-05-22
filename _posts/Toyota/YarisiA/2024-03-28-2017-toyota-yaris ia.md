@@ -20,6 +20,19 @@ The 2017 Toyota Yaris iA is a subcompact sedan that offers a combination of affo
 **Continuously Variable Transmission (CVT)**
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -35,6 +48,19 @@ The 2017 Toyota Yaris iA is a subcompact sedan that offers a combination of affo
   * Solution: Diagnose and repair the affected electrical components
   * Estimated Cost to Fix: $100 - $500+
 * **Recalls:** NHTSA Recall Number: 18V624000
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -57,3 +83,15 @@ The 2017 Toyota Yaris iA is a subcompact sedan that offers a combination of affo
 **Summary**
 
 Overall, the 2017 Toyota Yaris iA has a relatively low number of reported issues. The most common problems are electrical gremlins and cosmetic issues such as rust on door frames and headliner sagging. These issues generally do not affect the reliability or safety of the vehicle, but they can be frustrating for owners to deal with.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

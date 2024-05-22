@@ -55,6 +55,19 @@ While the Golf SportWagen has received praise for its overall performance and pr
     * Estimated Cost to Fix: $2,500 - $3,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure**
@@ -70,6 +83,19 @@ While the Golf SportWagen has received praise for its overall performance and pr
     * Solution: Replace the battery or diagnose and fix the electrical system issue causing the discharge.
     * Estimated Cost to Fix: $100 - $200+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -90,3 +116,15 @@ While the Golf SportWagen has received praise for its overall performance and pr
 **Summary**
 
 While the 2018 Volkswagen Golf SportWagen is a generally reliable vehicle, it has been reported to have some issues, including engine timing chain tensioner failure, transmission mechatronic unit failure, and infotainment system malfunction. The severity and cost of these issues vary, but some can be quite expensive to fix. Overall, the Volkswagen Golf SportWagen is a good choice for buyers who need a compact station wagon with a comfortable ride and spacious interior, but they should be aware of the potential issues that can arise.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

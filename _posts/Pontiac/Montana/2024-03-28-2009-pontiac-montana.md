@@ -47,6 +47,19 @@ The 2009 Pontiac Montana is a minivan that was offered with two engine and trans
 
 * **No Major Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arm Bushing Wear**
@@ -73,6 +86,19 @@ The 2009 Pontiac Montana is a minivan that was offered with two engine and trans
     * Estimated Cost to Fix: $500 - $700+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **No Major Issues Found**
@@ -93,3 +119,15 @@ The 2009 Pontiac Montana is a minivan that was offered with two engine and trans
 **Summary:**
 
 The 2009 Pontiac Montana has a range of issues that can affect different components of the vehicle. While some issues are minor and inexpensive to fix, others can be more severe and costly. Potential buyers should be aware of these issues before purchasing a used Montana. The severity and cost of the issues vary depending on the specific problem, but it is important to note that some issues, such as timing chain rattle and transmission shudder, can be quite costly to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

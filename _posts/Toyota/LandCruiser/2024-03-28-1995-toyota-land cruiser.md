@@ -31,6 +31,19 @@ However, like any vehicle, the 1995 Land Cruiser has its share of issues. These 
   - Estimated Cost to Fix: $1,800 - $3,000+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Leaf Spring Rust and Breakage:**
@@ -59,6 +72,19 @@ However, like any vehicle, the 1995 Land Cruiser has its share of issues. These 
   - Estimated Cost to Fix: $300 - $600+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 - **Rust on Body Panels:**
@@ -84,3 +110,15 @@ However, like any vehicle, the 1995 Land Cruiser has its share of issues. These 
 **Summary**
 
 Overall, the 1995 Toyota Land Cruiser is a reliable vehicle with a reputation for durability. However, it is not without its share of potential issues, particularly with the engine, transmission, and suspension. These issues can be costly to repair, so it's important to factor in maintenance and repair costs when considering purchasing a Land Cruiser.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

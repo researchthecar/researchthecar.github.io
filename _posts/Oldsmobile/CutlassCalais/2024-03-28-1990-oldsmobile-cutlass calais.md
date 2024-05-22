@@ -27,6 +27,19 @@ tags: ["Oldsmobile", "Cutlass Calais", "1990"]
  Estimated Cost to Fix: $1,500 - $2,500+
  Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
  No Issues Found
 
@@ -36,6 +49,19 @@ tags: ["Oldsmobile", "Cutlass Calais", "1990"]
  Solution: Replace power window regulator
  Estimated Cost to Fix: $200 - $400+
  Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
  No Issues Found
@@ -48,3 +74,15 @@ tags: ["Oldsmobile", "Cutlass Calais", "1990"]
  Recalls: None Found
 
 **Summary:** The 1990 Oldsmobile Cutlass Calais had some common issues, including head gasket failure, transmission slipping, faulty power window regulators, and faulty dashboard instrument clusters. While these issues can be costly to fix, they are not overly severe and can be addressed by a qualified mechanic. Overall, the Cutlass Calais is a reliable and comfortable vehicle that offers good value for the money.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

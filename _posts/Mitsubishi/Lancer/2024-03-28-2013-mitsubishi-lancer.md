@@ -84,6 +84,19 @@ The Lancer has received mixed reviews from critics. Some have praised its afford
     * Estimated Cost to Fix: $100 - $200+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension Issues:**
 
 * **Rear shock absorber mount failure:**
@@ -105,6 +118,19 @@ The Lancer has received mixed reviews from critics. Some have praised its afford
     * Estimated Cost to Fix: $100 - $200+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior Issues:**
 
 * **Front bumper sag:**
@@ -124,3 +150,15 @@ The Lancer has received mixed reviews from critics. Some have praised its afford
 **Summary:**
 
 The 2013 Mitsubishi Lancer has several potential issues. While some of these issues are relatively minor and inexpensive to fix, others can be more serious and costly to repair. Overall, the Lancer is a reliable car, but it is important to be aware of these potential issues before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -63,6 +63,19 @@ Description/Symptoms: Difficulty engaging or staying in reverse
 Solution: Rebuild or replace the transmission
 Estimated Cost to Fix: $1500 - $2500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Strut Mount Failure:**
@@ -88,6 +101,19 @@ Estimated Cost to Fix: $200 - $400+
 Description/Symptoms: Engine problems, electrical issues
 Solution: Replace the ECU
 Estimated Cost to Fix: $500 - $1000+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior:**
 
@@ -116,3 +142,15 @@ Estimated Cost to Fix: $200 - $400+
 The 2003 Mitsubishi Eclipse is a fun and practical coupe but is not without its common issues. Some of these issues can be minor and inexpensive to fix, while others can be more severe and expensive.
 
 Overall, the severity and cost of the issues vary, but it is important to be aware of these potential problems when considering this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -50,6 +50,19 @@ While praised for its smooth performance and cabin space, some owners have encou
 * **10-Speed Automatic**
     * **No Major Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure**
@@ -70,6 +83,19 @@ While praised for its smooth performance and cabin space, some owners have encou
     * Solution: Replace ignition coil(s)
     * Estimated Cost to Fix: $150 - $250 per coil
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -95,3 +121,15 @@ While praised for its smooth performance and cabin space, some owners have encou
 **Summary:**
 
 The 1993 Oldsmobile Cutlass Supreme offers a comfortable and spacious ride, but it has experienced various issues with its engine, transmission, suspension, electrical, exterior, and interior components. These issues range from minor annoyances to costly repairs. While the Cutlass Supreme has received positive feedback for its ride quality, it's important to be aware of these potential problems before considering purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

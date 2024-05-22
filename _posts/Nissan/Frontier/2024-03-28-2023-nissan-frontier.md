@@ -41,6 +41,19 @@ The 2023 Nissan Frontier is a midsize pickup truck available in six trim levels:
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf Spring Breakage:**
@@ -68,6 +81,19 @@ The 2023 Nissan Frontier is a midsize pickup truck available in six trim levels:
     * Solution: Identifying and repairing the source of the short.
     * Estimated Cost to Fix: Dependent on the location and severity of the short
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -100,3 +126,15 @@ The 2023 Nissan Frontier is a midsize pickup truck available in six trim levels:
 **Summary:**
 
 Overall, the 2023 Nissan Frontier exhibits reliability issues in several key areas. The engine and transmission have been reported to experience various problems, including oil leaks, cylinder misfires, shifting problems, and slipping gears. Suspension issues like leaf spring breakage and strut wear have also surfaced. Other concerns include battery drain, electrical shorts, bed rust, and interior discomfort. The severity of these issues ranges from minor inconveniences to potential safety hazards. Repair costs can be substantial, potentially exceeding $2,000 for major problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

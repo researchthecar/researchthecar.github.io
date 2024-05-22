@@ -39,6 +39,19 @@ The 2014 Volkswagen Jetta is a compact sedan that offers a combination of style,
     * Solution: Shift solenoid replacement
     * Estimated Cost to Fix: $500 - $1,000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Shock Absorber Mount Failure:** The rear shock absorber mounts may prematurely fail, leading to a rough ride and potential damage to other suspension components.
@@ -53,6 +66,19 @@ The 2014 Volkswagen Jetta is a compact sedan that offers a combination of style,
 * **Headlight Condensation:** Condensation may form inside the headlights, impairing visibility.
     * Solution: Headlight replacement or resealing
     * Estimated Cost to Fix: $200 - $400
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -72,3 +98,15 @@ The 2014 Volkswagen Jetta is a compact sedan that offers a combination of style,
 **Summary**
 
 The 2014 Volkswagen Jetta generally performs well, but it has experienced some common issues. Engine problems, such as excessive oil consumption and timing chain failure, can be severe and costly. Transmission issues, while not as serious, can still cause inconvenience and add to maintenance costs. Suspension and electrical problems are generally less severe but should not be ignored. Overall, while the Jetta offers a comfortable and practical driving experience, it is important to be aware of these potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

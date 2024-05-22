@@ -45,6 +45,19 @@ The 2015 Mercedes-Benz Boxer OF is a versatile truck that offers a combination o
         * Estimated Cost to Fix: $500 - $1,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front Suspension:**
     * **Ball Joint Wear:**
@@ -70,6 +83,19 @@ The 2015 Mercedes-Benz Boxer OF is a versatile truck that offers a combination o
         * Solution: Repair or replace affected wiring harness
         * Estimated Cost to Fix: $500 - $1,500+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **Body Panel Rust:**
@@ -97,3 +123,15 @@ The 2015 Mercedes-Benz Boxer OF is a versatile truck that offers a combination o
 
 **Summary:**
 The 2015 Mercedes-Benz Boxer OF is a powerful and versatile truck, but it has been beset by several issues that can be costly to repair. Engine problems, such as fuel injector failure and turbocharger failure, are common, and transmission issues like clutch failure and shift solenoid failure can also be expensive to fix. Suspension issues, electrical malfunctions, and rust problems are also prevalent. While the Boxer OF offers a comfortable interior and numerous body configurations, its reliability concerns should be carefully considered before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

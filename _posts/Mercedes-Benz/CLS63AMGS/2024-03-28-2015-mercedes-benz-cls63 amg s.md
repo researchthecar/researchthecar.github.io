@@ -34,6 +34,19 @@ The 2015 Mercedes-Benz CLS63 AMG S is a high-performance luxury sedan powered by
     * Estimated Cost to Fix: $3,000 - $5,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air suspension failure**
@@ -55,6 +68,19 @@ The 2015 Mercedes-Benz CLS63 AMG S is a high-performance luxury sedan powered by
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **No Issues Found**
@@ -70,3 +96,15 @@ The 2015 Mercedes-Benz CLS63 AMG S is a high-performance luxury sedan powered by
 **Summary**
 
 The 2015 Mercedes-Benz CLS63 AMG S is a powerful and luxurious vehicle, but it is not without its issues. The engine and transmission can experience severe failures that can be costly to repair. The suspension, electrical system, and interior can also develop problems. While some issues are minor and inexpensive to fix, others can be more serious and require significant investment. Overall, potential owners should be aware of the potential costs and reliability concerns before purchasing a CLS63 AMG S.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

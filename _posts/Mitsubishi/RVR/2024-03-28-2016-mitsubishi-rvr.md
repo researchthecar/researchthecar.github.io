@@ -46,6 +46,19 @@ The 2016 Mitsubishi RVR is a compact SUV offered with two engine and transmissio
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Sway Bar End Links**
@@ -66,6 +79,19 @@ The 2016 Mitsubishi RVR is a compact SUV offered with two engine and transmissio
     * Solution: Battery replacement or repair of electrical system drain
     * Estimated Cost to Fix: $100 - $300
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -91,3 +117,15 @@ The 2016 Mitsubishi RVR is a compact SUV offered with two engine and transmissio
 **Summary**
 
 The 2016 Mitsubishi RVR presents some common issues that can vary in severity and repair costs. While some issues, such as valve body failure or CVT fluid contamination, can be significant and expensive to fix, others like loose side mirrors or battery discharge are relatively minor and less costly. Overall, the RVR's reliability has been average for the model year, with some areas of concern but also areas of strength. It's important to research potential issues and factor repair costs into the decision-making process before purchasing or maintaining a 2016 Mitsubishi RVR.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

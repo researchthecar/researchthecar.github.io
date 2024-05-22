@@ -29,6 +29,19 @@ The 2010 Nissan Platina is a compact sedan that offers a blend of affordability,
         * Estimated Cost to Fix: $300 - $800
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Front Suspension:** Front struts may wear prematurely, causing noise and reduced handling.
@@ -46,6 +59,19 @@ The 2010 Nissan Platina is a compact sedan that offers a blend of affordability,
         * Solution: Bulb or wiring harness replacement.
         * Estimated Cost to Fix: $100 - $300
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior:**
 
@@ -72,3 +98,15 @@ The 2010 Nissan Platina is a compact sedan that offers a blend of affordability,
 **Summary:**
 
 Overall, the 2010 Nissan Platina is a reliable vehicle with a few potential issues that are generally not too severe or expensive to fix. However, it is important for owners to be aware of these issues and have the vehicle regularly inspected and maintained to prevent major problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

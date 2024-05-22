@@ -27,6 +27,19 @@ The 2018 Mercedes-Benz Boxer 50 is a high-performance SUV powered by a 3.0-liter
     * Estimated Cost to Fix: $3,000 - $5,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Air Suspension Problems:**
     * Description/Symptoms: Difficulty maintaining ride height, uneven ride quality, noises from the suspension.
@@ -50,6 +63,19 @@ The 2018 Mercedes-Benz Boxer 50 is a high-performance SUV powered by a 3.0-liter
     * Solution: Test and replace the battery, inspect for parasitic drains.
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **Water Leakage:**
@@ -77,3 +103,15 @@ The 2018 Mercedes-Benz Boxer 50 is a high-performance SUV powered by a 3.0-liter
 
 **Summary:**
 The 2018 Mercedes-Benz Boxer 50 has received mixed reviews. While it offers impressive performance, a luxurious interior, and advanced safety features, it has also been plagued by several issues that can be costly to repair. Issues with the fuel pump, turbocharger, transmission, suspension, and electrical system have been reported. The severity and cost of these issues can vary depending on the specific part or system affected.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

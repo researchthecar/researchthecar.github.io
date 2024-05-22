@@ -24,6 +24,19 @@ The 1990 Plymouth Horizon was a compact hatchback that offered a budget-friendly
 * **Shifting problems:** This is a common issue on the 3-speed automatic transmission, especially in older vehicles. Symptoms can include difficulty shifting gears, slipping gears, or transmission shuddering. The solution may involve replacing or repairing the transmission, which can cost around $1,000 - $2,000+.
 * **Fluid leaks:** The 3-speed automatic transmission is also prone to fluid leaks, which can lead to low fluid levels and transmission damage. The solution is to identify and repair the source of the leak, which can cost around $200 - $500+.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** The front struts are a common failure point on the Horizon. Symptoms include clunking noises, a rough ride, and uneven tire wear. Replacing the struts typically costs around $300 - $600+ per axle.
@@ -34,6 +47,19 @@ The 1990 Plymouth Horizon was a compact hatchback that offered a budget-friendly
 * **Alternator failure:** The alternator is responsible for charging the vehicle's battery. Failure of the alternator can result in a dead battery and an inability to start the vehicle. Replacing the alternator typically costs around $300 - $500+.
 * **Starter failure:** The starter is responsible for cranking the engine. Failure of the starter can prevent the vehicle from starting. Replacing the starter typically costs around $200 - $400+.
 * **Electrical gremlins:** The Horizon is known for a variety of electrical gremlins, such as flickering lights, faulty gauges, and random electrical failures. These issues can be difficult to diagnose and repair, and the cost can vary depending on the specific problem.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -48,3 +74,15 @@ The 1990 Plymouth Horizon was a compact hatchback that offered a budget-friendly
 **Summary**
 
 The 1990 Plymouth Horizon is a budget-friendly vehicle that offers good fuel efficiency and reliability. However, it is not without its issues. The most common problems are related to the engine, transmission, suspension, and electrical systems. The severity and cost of these issues can vary depending on the specific problem. Overall, the Horizon is a reliable vehicle for basic transportation, but potential buyers should be aware of its potential issues and the associated repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

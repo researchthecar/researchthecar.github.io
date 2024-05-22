@@ -58,6 +58,19 @@ The Passat was praised for its spacious interior, comfortable ride, and responsi
         * Estimated Cost to Fix: $1,500 - $2,500+
         * Recalls: None found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front strut mounts**
     * Description/Symptoms: Worn strut mounts can cause a clunking noise when driving over bumps.
@@ -87,6 +100,19 @@ The Passat was praised for its spacious interior, comfortable ride, and responsi
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 * **Headlights**
     * Description/Symptoms: The headlights may become cloudy or yellowed over time, reducing visibility.
@@ -108,3 +134,15 @@ The Passat was praised for its spacious interior, comfortable ride, and responsi
 
 **Summary**
 The 1992 Volkswagen Passat is a well-rounded sedan that offers a comfortable ride and responsive handling. However, it is prone to several common problems, including engine gasket leaks, transmission issues, suspension wear, and electrical failures. The severity and cost of these issues can vary, but it is important to be aware of them before purchasing a used Passat.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

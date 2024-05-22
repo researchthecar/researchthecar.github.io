@@ -31,6 +31,19 @@ The 1991 Mitsubishi Montero is a mid-size SUV known for its off-road capabilitie
       * $200 - $500+
       * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front Lower Control Arm Bushings:** Worn bushings can cause clunking noises, poor handling, and premature tire wear.
       * Replace control arm bushings.
@@ -51,6 +64,19 @@ The 1991 Mitsubishi Montero is a mid-size SUV known for its off-road capabilitie
       * $300 - $500+
       * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 * **Rust:** Underbody and wheel wells can be prone to rust, especially in areas with high moisture or salt.
       * Rust removal and prevention measures.
@@ -69,3 +95,15 @@ The 1991 Mitsubishi Montero is a mid-size SUV known for its off-road capabilitie
 
 **Summary:**
 While the 1991 Mitsubishi Montero is a capable off-road vehicle, it has several common issues that can impact its reliability and performance. Engine and transmission problems, such as valve cover leaks, timing belt failure, torque converter shudder, and difficult shifting, can be costly to repair. Suspension issues, including worn control arm bushings and sagging leaf springs, can affect handling and safety. Electrical problems, such as alternator and starter failures, can cause unexpected breakdowns. The Montero's interior has also been known to experience dashboard cracking and climate control malfunctions. Overall, the severity of these issues can vary, and the cost of repairs can be substantial.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

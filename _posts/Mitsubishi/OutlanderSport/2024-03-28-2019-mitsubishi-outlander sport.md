@@ -68,3 +68,15 @@ People like the Outlander Sport for its spacious interior, comfortable ride, and
 ### Overall
 
 The 2019 Mitsubishi Outlander Sport has some potential issues, particularly with the engine and transmission. While some of these issues may be minor and can be fixed with software updates, others can be more severe and expensive to repair. Overall, potential buyers should be aware of these issues and factor them into their decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

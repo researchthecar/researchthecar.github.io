@@ -31,6 +31,19 @@ Drivers appreciate the C43 AMG's powerful engine, sporty handling, and luxurious
         * Estimated Cost to Fix: $100 - $2,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Wishbone Bushing Failure:**
@@ -52,6 +65,19 @@ Drivers appreciate the C43 AMG's powerful engine, sporty handling, and luxurious
     * Solution: Replace engine control unit.
     * Estimated Cost to Fix: $1,500 - $2,000+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -78,3 +104,15 @@ Drivers appreciate the C43 AMG's powerful engine, sporty handling, and luxurious
 **Summary:**
 
 The 2019 Mercedes-Benz C43 AMG has received mixed reviews from owners, with some reporting issues with its engine, transmission, suspension, electrical, exterior, and interior components. While some issues are minor and relatively inexpensive to fix, others can be more severe and costly. Overall, the severity and cost of the issues encountered with the C43 AMG vary depending on the specific problem and the extent of the damage.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

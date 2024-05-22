@@ -24,12 +24,38 @@ The 2007 Porsche Cayman is a mid-engine sports car available with a 2.7L flat-si
 *5-Speed Automatic*
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **No Issues Found**
 
 **Electrical**
 * **Battery Drain:** Description: The battery can drain prematurely, leaving the vehicle unable to start. Symptoms: Battery dies prematurely, difficulty starting the vehicle. Solution: The cause of the battery drain needs to be diagnosed and repaired. Estimated Cost to Fix: $200 - $500+
 * **Headlight Switch Failure:** Description: The headlight switch can fail, causing the headlights to not work properly. Symptoms: Headlights do not turn on, headlights flicker, headlights turn off prematurely. Solution: The headlight switch needs to be replaced. Estimated Cost to Fix: $200 - $500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **None Found**
@@ -40,3 +66,15 @@ The 2007 Porsche Cayman is a mid-engine sports car available with a 2.7L flat-si
 
 **Summary**
 The 2007 Porsche Cayman is a generally reliable car, but it has some potential issues that can be expensive to fix. The most common issues include intake valve failure, Vanos solenoid failure, transmission mount failure, and battery drain. While these issues are not overly common, they can be costly to repair, so it is important to be aware of them before purchasing a used Cayman.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -36,6 +36,19 @@ Despite its reputation for reliability, the 2014 Subaru Impreza has been reporte
 
 * **Transmission Hesitation:** The transmission may hesitate or jerk during shifting. Solution: Relearn transmission shift points or replace transmission control module. Estimated cost: $150 - $500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Noise:** The strut mounts may wear out prematurely, causing a clunking noise over bumps. Solution: Replace the strut mounts. Estimated cost: $200 - $400+
@@ -45,6 +58,19 @@ Despite its reputation for reliability, the 2014 Subaru Impreza has been reporte
 
 * **Alternator Failure:** The alternator may fail prematurely, causing electrical system issues. Solution: Replace the alternator. Estimated cost: $500 - $800+
 * **Battery Drain:** The battery may discharge prematurely, especially in cold weather. Solution: Test and replace the battery or identify and fix any parasitic drain. Estimated cost: $100 - $500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -58,3 +84,15 @@ Despite its reputation for reliability, the 2014 Subaru Impreza has been reporte
 **Summary:**
 
 The 2014 Subaru Impreza is generally a reliable vehicle, but it has been reported to have some issues that owners should be aware of. The severity of the issues varies, and the cost of repairs can range from minor to expensive. Some of the more common issues include valve cover gasket leaks, timing belt failure, transmission slippage, and dashboard rattles.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

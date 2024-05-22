@@ -55,6 +55,19 @@ The 2009 Pontiac Solstice is a sporty roadster available with a choice of two en
     * Estimated Cost to Fix: $500 - $1000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Failure:**
@@ -70,6 +83,19 @@ The 2009 Pontiac Solstice is a sporty roadster available with a choice of two en
     * Solution: Diagnose electrical system for parasitic draw, fix the cause.
     * Estimated Cost to Fix: Varies depending on the cause
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -95,3 +121,15 @@ The 2009 Pontiac Solstice is a sporty roadster available with a choice of two en
 **Summary:**
 
 Overall, the 2009 Pontiac Solstice has some potential issues to be aware of, particularly with its engines, transmission, and electrical system. The severity and cost of these issues vary depending on the specific problem and its extent. It is important for potential buyers to research these issues and factor them into their purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

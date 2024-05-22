@@ -60,6 +60,19 @@ The 2008 Mitsubishi Eclipse is a sporty coupe available in four trim levels: GS,
     * Estimated Cost to Fix: $800 - $1,200
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Bearing Failure:**
@@ -75,6 +88,19 @@ The 2008 Mitsubishi Eclipse is a sporty coupe available in four trim levels: GS,
     * Solution: Identify and repair the electrical component causing the drain.
     * Estimated Cost to Fix: $100 - $500
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -100,3 +126,15 @@ The 2008 Mitsubishi Eclipse is a sporty coupe available in four trim levels: GS,
 **Summary**
 
 The 2008 Mitsubishi Eclipse has a moderate severity of issues for its age and class. Engine problems are the most common and can be costly to repair. While the suspension and electrical issues are less severe, they can still be annoying and expensive to fix. The interior issues are mostly cosmetic, but they can affect the overall enjoyment of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

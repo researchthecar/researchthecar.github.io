@@ -29,6 +29,19 @@ The 2012 Mercedes-Benz CLS63 AMG is a high-performance luxury sedan powered by a
     * Estimated Cost to Fix: $2,000 - $4,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Leak Issue**
@@ -44,6 +57,19 @@ The 2012 Mercedes-Benz CLS63 AMG is a high-performance luxury sedan powered by a
     * Solution: Replace faulty battery or repair electrical system components.
     * Estimated Cost to Fix: $300 - $900+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -64,3 +90,15 @@ The 2012 Mercedes-Benz CLS63 AMG is a high-performance luxury sedan powered by a
 **Summary:**
 
 The 2012 Mercedes-Benz CLS63 AMG faces several issues, including engine stalling, transmission slipping, suspension leaks, battery drain, headlight condensation, and climate control malfunctions. The severity of these issues varies, with some being minor annoyances and others potentially compromising the vehicle's safety or reliability. The cost of repairs can range from a few hundred dollars to several thousand dollars, depending on the issue and the extent of damage.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

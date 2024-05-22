@@ -45,6 +45,19 @@ The 2004 Mitsubishi Eclipse is a sports coupe that offers a thrilling driving ex
         * Estimated Cost to Fix: $1,200 - $1,800+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure**
@@ -71,6 +84,19 @@ The 2004 Mitsubishi Eclipse is a sports coupe that offers a thrilling driving ex
     * Estimated Cost to Fix: $200 - $400+ per window
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rear Window Defrost Failure**
@@ -95,3 +121,15 @@ The 2004 Mitsubishi Eclipse is a sports coupe that offers a thrilling driving ex
 **Summary**
 
 The 2004 Mitsubishi Eclipse offers a thrilling driving experience but comes with a few notable issues. The engine and transmission can experience serious problems such as timing chain tensioner failure and mechatronic unit failure, which can be costly to repair. Additionally, the suspension, electrical, and interior components can also encounter various issues, affecting overall reliability and comfort. Some of these issues, such as battery drain and window regulator failure, are relatively minor and inexpensive to fix, while others, like timing chain tensioner failure, can lead to significant repairs. Potential buyers should be aware of these potential problems before purchasing a 2004 Mitsubishi Eclipse and consider the severity and cost of the repairs when making a decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

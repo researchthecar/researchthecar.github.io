@@ -26,6 +26,19 @@ Owners of the CL65 AMG have praised its powerful engine, luxurious interior, and
 * **Shifting problems:** The transmission may have difficulty shifting gears, especially when cold. The solution is to flush the transmission fluid and replace the filter. Estimated cost to fix: $300 - $500+
 * **Clutch failure:** The clutch packs in the transmission can wear out over time, causing the transmission to slip and shudder. The solution is to rebuild or replace the transmission. Estimated cost to fix: $2,000 - $4,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air suspension failure:** The air suspension system can fail, causing the vehicle to sag and ride rough. The solution is to replace the failed air struts or compressor. Estimated cost to fix: $1,000 - $2,000+
@@ -34,6 +47,19 @@ Owners of the CL65 AMG have praised its powerful engine, luxurious interior, and
 
 * **Battery drain:** The battery can drain prematurely, especially when the vehicle is parked. The solution is to diagnose and repair the electrical system. Estimated cost to fix: $200 - $500+
 * **Alternator failure:** The alternator can fail, causing the vehicle to lose power and the battery to drain. The solution is to replace the alternator. Estimated cost to fix: $500 - $1,000+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -47,3 +73,15 @@ Owners of the CL65 AMG have praised its powerful engine, luxurious interior, and
 **Summary**
 
 The 2010 Mercedes-Benz CL65 AMG is a powerful and luxurious vehicle, but it has been plagued by a number of reliability issues. The most common problems include turbocharger failure, intake manifold failure, shifting problems, and electrical issues. The cost to fix these issues can be significant, so it is important to factor in the potential repair costs when considering purchasing a CL65 AMG.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

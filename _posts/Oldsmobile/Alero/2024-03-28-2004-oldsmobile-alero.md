@@ -42,6 +42,19 @@ The 2004 Oldsmobile Alero, discontinued in 2004, was a small sedan offered with 
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Bearing Failure:**
@@ -67,6 +80,19 @@ The 2004 Oldsmobile Alero, discontinued in 2004, was a small sedan offered with 
     * Solution: Replace headlight switch
     * Estimated Cost to Fix: $50 - $100
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -97,3 +123,15 @@ The 2004 Oldsmobile Alero, discontinued in 2004, was a small sedan offered with 
 **Summary:**
 
 While the 2004 Oldsmobile Alero is known for its comfortable and sporty ride, it does have some reliability issues that can range from minor inconveniences to more costly repairs. Common problems include engine oil and coolant leaks, transmission issues, and electrical malfunctions. However, many of these issues can be addressed relatively inexpensively. Overall, the severity of the issues is not excessive, and the costs to fix them are reasonable.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

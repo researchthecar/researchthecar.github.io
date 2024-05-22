@@ -67,6 +67,19 @@ Owners of the 2013 Subaru Impreza generally praise its affordability, all-wheel-
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut mount failure**
@@ -92,6 +105,19 @@ Owners of the 2013 Subaru Impreza generally praise its affordability, all-wheel-
     * Solution: Replace the battery
     * Estimated Cost to Fix: $100 - $200
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -127,3 +153,15 @@ Owners of the 2013 Subaru Impreza generally praise its affordability, all-wheel-
 **Summary**
 
 The 2013 Subaru Impreza is a generally reliable vehicle, but it has been reported to have some issues with its engine, transmission, suspension, electrical system, exterior, and interior. The severity of these issues varies, and the cost to fix them can range from $100 to over $3,000. Overall, the Impreza is a good value for the money, but it is important to be aware of the potential issues that it can have.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

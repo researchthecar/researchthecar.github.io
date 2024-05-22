@@ -39,6 +39,19 @@ The 2018 Toyota Corolla is a popular compact sedan that offers a combination of 
   * Estimated Cost to Fix: $2,000 - $3,000
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -49,6 +62,19 @@ The 2018 Toyota Corolla is a popular compact sedan that offers a combination of 
   * Solution: Starter motor replacement
   * Estimated Cost to Fix: $200 - $500
   * Recalls: NHTSA Campaign Number 19V521000
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -67,3 +93,15 @@ The 2018 Toyota Corolla is a popular compact sedan that offers a combination of 
 **Summary**
 
 While the 2018 Toyota Corolla is generally a reliable vehicle, it does have some potential issues that owners should be aware of. The most severe and expensive issue is the hybrid battery pack degradation, which can affect fuel efficiency and performance. The CVT transmission can also experience slippage, which can be a costly repair. Overall, the Corolla's issues are relatively minor and unlikely to cause major problems for most owners.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

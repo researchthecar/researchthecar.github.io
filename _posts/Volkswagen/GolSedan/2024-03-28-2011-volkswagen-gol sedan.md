@@ -32,6 +32,19 @@ Owners of the 2011 Volkswagen Gol Sedan have reported a number of issues with th
   * Estimated Cost to Fix: $2,000 - $4,000+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Sagging:**
@@ -47,6 +60,19 @@ Owners of the 2011 Volkswagen Gol Sedan have reported a number of issues with th
   * Solution: Diagnose and replace faulty electrical components or wiring.
   * Estimated Cost to Fix: $100 - $500+
   * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -67,3 +93,15 @@ Owners of the 2011 Volkswagen Gol Sedan have reported a number of issues with th
 **Summary**
 
 The 2011 Volkswagen Gol Sedan has been plagued by a number of issues, including engine oil consumption, timing chain failure, transmission slipping, suspension sagging, electrical system malfunctions, door handle malfunctions, and instrument cluster failure. While some of these issues are minor and inexpensive to fix, others can be major and costly to repair. As such, it is important to be aware of these problems before purchasing or owning this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

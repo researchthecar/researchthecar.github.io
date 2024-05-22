@@ -56,6 +56,19 @@ Owners praise the Outlander Sport for its affordability, fuel efficiency, and sp
     * Estimated Cost to Fix: $3,000 - $5,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Sagging**
@@ -71,6 +84,19 @@ Owners praise the Outlander Sport for its affordability, fuel efficiency, and sp
     * Solution: Check for parasitic power drain and replace battery if necessary.
     * Estimated Cost to Fix: $100 - $300
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -96,3 +122,15 @@ Owners praise the Outlander Sport for its affordability, fuel efficiency, and sp
 **Summary**
 
 The 2012 Mitsubishi Outlander Sport has a range of issues that can vary in severity and cost. The most significant issues include engine oil consumption, CVT transmission problems, and suspension sagging. Some of these issues are relatively minor and inexpensive to fix, while others can be costly repairs. Potential buyers should carefully consider these issues before purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

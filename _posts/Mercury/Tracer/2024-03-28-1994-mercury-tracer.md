@@ -34,6 +34,19 @@ The 1994 Mercury Tracer is a compact car available in sedan and hatchback body s
 - **Transmission Solenoid Failure:** Symptoms include erratic shifting, slipping, and no forward or reverse gears. Solution: Replace the transmission solenoid. Estimated Cost to Fix: $300 - $500+
 - **Torque Converter Failure:** Symptoms include shuddering while driving, slipping, and overheating. Solution: Replace the torque converter. Estimated Cost to Fix: $1,000 - $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Strut Mount Failure:** Symptoms include clunking noises while driving, poor handling, and uneven tire wear. Solution: Replace the strut mounts. Estimated Cost to Fix: $200 - $300+
@@ -44,6 +57,19 @@ The 1994 Mercury Tracer is a compact car available in sedan and hatchback body s
 - **Alternator Failure:** Symptoms include dim headlights, flickering dashboard lights, and difficulty starting. Solution: Replace the alternator. Estimated Cost to Fix: $300 - $500+
 - **Starter Failure:** Symptoms include difficulty starting the engine or a grinding noise when starting. Solution: Replace the starter. Estimated Cost to Fix: $200 - $400+
 - **Battery Failure:** Symptoms include difficulty starting the engine, dim headlights, and a dead battery. Solution: Replace the battery. Estimated Cost to Fix: $100 - $200+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -58,3 +84,15 @@ The 1994 Mercury Tracer is a compact car available in sedan and hatchback body s
 **Summary**
 
 Overall, the 1994 Mercury Tracer is a reliable and affordable vehicle. However, it has some common issues that can be costly to fix. Some of the more severe issues, such as head gasket failure and transmission failure, can require thousands of dollars in repairs. Potential buyers should be aware of these issues and factor in the potential cost of repairs when considering a Tracer.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

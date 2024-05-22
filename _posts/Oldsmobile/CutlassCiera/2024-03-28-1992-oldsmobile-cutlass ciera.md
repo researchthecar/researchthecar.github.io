@@ -34,6 +34,19 @@ tags: ["Oldsmobile", "Cutlass Ciera", "1992"]
 
 * **Gear grinding:** The gears may grind when shifting, especially when the transmission is cold. This can be caused by worn-out synchros or a failing shift fork. The solution is to replace the synchros or shift fork. The estimated cost to fix is $300 - $500.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** The struts can fail, causing the vehicle to ride rough and handle poorly. The solution is to replace the struts. The estimated cost to fix is $500 - $1,000.
@@ -43,6 +56,19 @@ tags: ["Oldsmobile", "Cutlass Ciera", "1992"]
 
 * **Starter failure:** The starter can fail, preventing the engine from starting. The solution is to replace the starter. The estimated cost to fix is $300 - $500.
 * **Alternator failure:** The alternator can fail, preventing the battery from charging. The solution is to replace the alternator. The estimated cost to fix is $300 - $500.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -55,3 +81,15 @@ tags: ["Oldsmobile", "Cutlass Ciera", "1992"]
 * **Power window motor failure:** The power window motor may fail, preventing the windows from being opened or closed. The solution is to replace the power window motor. The estimated cost to fix is $200 - $300.
 
 **Summary:** The 1992 Oldsmobile Cutlass Ciera is a reliable and affordable vehicle. However, it is prone to some common issues, including intake manifold gasket failure, head gasket failure, and transmission slippage. The severity of these issues ranges from minor to severe, and the cost to fix them can vary depending on the specific issue and the condition of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

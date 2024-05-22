@@ -58,6 +58,19 @@ The 2005 Mercedes-Benz Sprinter is a versatile commercial van offered with vario
     * Solution: Rebuild or replace transmission
     * Estimated Cost to Fix: $2,500 - $4,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Failure**
@@ -82,6 +95,19 @@ The 2005 Mercedes-Benz Sprinter is a versatile commercial van offered with vario
     * Solution: Replace starter motor
     * Estimated Cost to Fix: $300 - $500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust on Undercarriage**
@@ -104,3 +130,15 @@ The 2005 Mercedes-Benz Sprinter is a versatile commercial van offered with vario
 **Summary**
 
 The 2005 Mercedes-Benz Sprinter is a generally reliable vehicle with some potential issues. The most common issues involve engine components such as fuel injectors and turbochargers. Transmission problems and suspension issues can also occur, but they are less frequent. Overall, the cost of repairs for these issues ranges from minor to moderate.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

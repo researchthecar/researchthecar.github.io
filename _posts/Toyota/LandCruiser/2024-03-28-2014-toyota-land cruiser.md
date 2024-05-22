@@ -34,6 +34,19 @@ The 2014 Toyota Land Cruiser is a full-size SUV known for its off-road capabilit
     * Estimated Cost to Fix: $1,500 - $3,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Differential Seal Leak**
@@ -59,6 +72,19 @@ The 2014 Toyota Land Cruiser is a full-size SUV known for its off-road capabilit
     * Solution: Test electrical system for parasitic draw
     * Estimated Cost to Fix: $100 - $300+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -89,3 +115,15 @@ The 2014 Toyota Land Cruiser is a full-size SUV known for its off-road capabilit
 **Summary**
 
 The 2014 Toyota Land Cruiser is a capable and reliable SUV, but it has faced some issues. The most severe and costly issues include transmission slippage and engine manifold gasket failure. However, many of the reported problems are relatively minor and inexpensive to fix. Overall, the Land Cruiser remains a solid choice for those seeking a luxurious and off-road capable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

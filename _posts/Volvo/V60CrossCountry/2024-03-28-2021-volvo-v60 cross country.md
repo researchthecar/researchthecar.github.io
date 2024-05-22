@@ -34,6 +34,19 @@ The 2021 Volvo V60 Cross Country is a luxury station wagon that combines rugged 
     * Estimated Cost to Fix: $600 - $1200+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Bearing Failure**
@@ -49,6 +62,19 @@ The 2021 Volvo V60 Cross Country is a luxury station wagon that combines rugged 
     * Solution: Replace battery or diagnose parasitic draw
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -69,3 +95,15 @@ The 2021 Volvo V60 Cross Country is a luxury station wagon that combines rugged 
 **Summary**
 
 Overall, the 2021 Volvo V60 Cross Country has a mixed record in terms of reliability. While some issues, such as carbon buildup and transmission problems, are relatively common, others, such as exterior and interior issues, are less frequent. The cost to fix these issues can vary significantly depending on the severity of the problem and the location of the repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

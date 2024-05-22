@@ -30,6 +30,19 @@ The 1997 Pontiac Bonneville is a full-size sedan known for its spacious interior
     * Estimated Cost to Fix: $200 - $1,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Worn Front Strut Bearings**
@@ -45,6 +58,19 @@ The 1997 Pontiac Bonneville is a full-size sedan known for its spacious interior
     * Solution: Clean or replace the corroded connectors.
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -65,3 +91,15 @@ The 1997 Pontiac Bonneville is a full-size sedan known for its spacious interior
 **Summary**
 
 Overall, the 1997 Pontiac Bonneville is a reliable vehicle with some common issues. The most significant concerns are the intake manifold clogging on the 3.8L supercharged V6 and shifting problems with the 4-speed automatic transmission. These issues can be expensive to fix but are not widespread. Other issues, such as suspension noise or rust on the bumper beam, are relatively minor and less costly to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

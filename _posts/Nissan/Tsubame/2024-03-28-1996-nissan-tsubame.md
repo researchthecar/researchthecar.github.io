@@ -102,3 +102,15 @@ The 1996 Nissan Tsubame is a mid-size sedan known for its affordability, reliabi
 ## Summary
 
 The 1996 Nissan Tsubame is generally considered a reliable vehicle. However, it does have some common issues that owners should be aware of, particularly with the engine and transmission. These issues range in severity and cost, but most are relatively minor and inexpensive to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

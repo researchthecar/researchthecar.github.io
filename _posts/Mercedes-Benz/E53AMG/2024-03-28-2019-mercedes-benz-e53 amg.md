@@ -31,6 +31,19 @@ The 2019 Mercedes-Benz E53 AMG is a performance-oriented sedan that offers a ble
     * Estimated Cost to Fix: $500 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 **Air Suspension:**
@@ -50,6 +63,19 @@ The 2019 Mercedes-Benz E53 AMG is a performance-oriented sedan that offers a ble
     * Solution: Update the software or replace the infotainment unit.
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior:**
 
@@ -72,3 +98,15 @@ The 2019 Mercedes-Benz E53 AMG is a performance-oriented sedan that offers a ble
 **Summary:**
 
 The 2019 Mercedes-Benz E53 AMG has several reported issues that can affect its engine, transmission, suspension, electrical system, and interior. Some of these issues are relatively minor and inexpensive to fix, while others can be more severe and costly. Owners should be aware of these potential problems and consider having their vehicles inspected by a qualified mechanic to address any issues promptly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

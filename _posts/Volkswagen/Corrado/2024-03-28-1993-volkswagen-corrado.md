@@ -57,6 +57,19 @@ The Corrado was praised for its engaging driving experience and stylish design, 
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mounts:**
@@ -83,6 +96,19 @@ The Corrado was praised for its engaging driving experience and stylish design, 
     * Estimated Cost to Fix: Varies depending on source
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust on Body Panels:**
@@ -107,3 +133,15 @@ The Corrado was praised for its engaging driving experience and stylish design, 
 **Summary:**
 
 The 1993 Volkswagen Corrado was a performance-oriented sports car with a number of known issues. Engine problems, including intake manifold gasket failure and head gasket failure, were common. Transmission issues, such as shift linkage failure and transmission slipping, could also be costly to repair. Suspension components like strut mounts and lower control arm bushings often needed replacement. Electrical problems included alternator failure and battery drain. Exterior issues were primarily related to rust on body panels, while interior issues included dashboard cracking and climate control blending door failures. The severity and cost of the issues varied, and some repairs could be quite expensive. Overall, the Corrado was a vehicle that required regular maintenance and repair, and potential buyers should be aware of the potential costs before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

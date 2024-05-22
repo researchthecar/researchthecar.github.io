@@ -42,6 +42,19 @@ The 2022 Mini Cooper Clubman is a compact station wagon that slots above the sta
     * Estimated Cost to Fix: $300 - $600+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure**
@@ -63,6 +76,19 @@ The 2022 Mini Cooper Clubman is a compact station wagon that slots above the sta
     * Estimated Cost to Fix: $600 - $900+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Fog Light Housing Condensation**
@@ -82,3 +108,15 @@ The 2022 Mini Cooper Clubman is a compact station wagon that slots above the sta
 **Summary**
 
 Overall, the 2022 Mini Cooper Clubman has some reported issues that can affect its reliability and functionality. While some issues, such as timing chain failure, can be severe and expensive to repair, others are more minor and relatively inexpensive to address. It is important to note that not all vehicles will experience these issues, and many Mini Cooper Clubman owners are satisfied with their vehicles. However, it is advisable to be aware of these potential problems before purchasing or leasing this model.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -27,6 +27,19 @@ The 2002 Mitsubishi Galant is a mid-size sedan that offers a balance of performa
    - Estimated Cost to Fix: $300 - $600+
    - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
  - **Rear Suspension Sagging**
    - Description/Symptoms: The rear suspension can sag over time, causing the vehicle to lean back and reduce stability.
@@ -46,6 +59,19 @@ The 2002 Mitsubishi Galant is a mid-size sedan that offers a balance of performa
    - Estimated Cost to Fix: $400 - $700+
    - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
  - **Sunroof Leaks**
    - Description/Symptoms: The sunroof may leak water into the cabin, damaging the interior.
@@ -63,3 +89,15 @@ The 2002 Mitsubishi Galant is a mid-size sedan that offers a balance of performa
 **Summary**
 
 The 2002 Mitsubishi Galant is a reliable and affordable mid-size sedan, but it has faced some common issues. Engine problems are relatively minor and can be resolved at a reasonable cost. Transmission issues are more prevalent and can be more expensive to fix. Other concerns include suspension sagging, electrical problems, and exterior leaks. Additionally, the dashboard can crack, but this issue does not affect drivability. Overall, while the Galant is a solid choice, potential owners should be aware of these issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

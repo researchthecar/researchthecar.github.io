@@ -32,6 +32,19 @@ tags: ["Mitsubishi", "Montero Sport", "2006"]
     * Estimated Cost to Fix: $2,000 - $4,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Upper Control Arm Bushing Failure:**
@@ -52,6 +65,19 @@ tags: ["Mitsubishi", "Montero Sport", "2006"]
     * Solution: Replace tail light circuit board
     * Estimated Cost to Fix: $100 - $200
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -76,3 +102,15 @@ tags: ["Mitsubishi", "Montero Sport", "2006"]
 **Summary:**
 
 Overall, the 2006 Mitsubishi Montero Sport is a reliable SUV with good off-road capabilities. However, it is not without its issues. The most severe and costly issue is transmission slippage, which can require a significant investment to repair. Other issues, such as front suspension bushings and electrical malfunctions, are less severe and can be repaired at a reasonable cost. The rust-prone frame is a concern that requires regular maintenance and anti-rust treatment.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

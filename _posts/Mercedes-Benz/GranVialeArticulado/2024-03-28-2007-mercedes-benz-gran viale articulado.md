@@ -41,6 +41,19 @@ The 2007 Mercedes-Benz Gran Viale Articulado is a luxurious articulated bus with
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Compressor Failure:**
@@ -62,6 +75,19 @@ The 2007 Mercedes-Benz Gran Viale Articulado is a luxurious articulated bus with
     * Solution: Diagnosis of electrical system to identify parasitic draw
     * Estimated Cost to Fix: Varies depending on cause
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -94,3 +120,15 @@ The 2007 Mercedes-Benz Gran Viale Articulado is a luxurious articulated bus with
 **Summary**
 
 The 2007 Mercedes-Benz Gran Viale Articulado is a reliable and enjoyable vehicle with known issues typical of high-mileage diesel engines and complex luxury vehicles. However, the potential cost for major repairs should be considered. Regular maintenance and attention to potential issues can help preserve the vehicle's performance and value.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

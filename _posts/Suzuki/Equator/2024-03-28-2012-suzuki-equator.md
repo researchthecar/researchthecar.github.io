@@ -32,6 +32,19 @@ The 2012 Suzuki Equator is a mid-size pickup truck manufactured by Suzuki. It is
         * Estimated Cost to Fix: $200 - $500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension:**
@@ -54,6 +67,19 @@ The 2012 Suzuki Equator is a mid-size pickup truck manufactured by Suzuki. It is
     * Estimated Cost to Fix: $50 - $200+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rusty Tailgate:**
@@ -73,3 +99,15 @@ The 2012 Suzuki Equator is a mid-size pickup truck manufactured by Suzuki. It is
 **Summary:**
 
 The 2012 Suzuki Equator has a mix of issues, some minor and others more significant. Engine problems, such as oil leaks and timing chain noise, can be expensive to fix. The transmission and suspension can also experience issues, leading to shifting problems and rattling noises. Electrical problems may cause battery drain or headlight dimming. Exterior components, like the tailgate, can rust. Interior issues include a malfunctioning instrument cluster. Overall, the Equator's reliability and repair costs are average, but some issues can be costly to address.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

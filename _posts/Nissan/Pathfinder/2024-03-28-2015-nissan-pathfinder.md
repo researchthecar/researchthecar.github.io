@@ -52,6 +52,19 @@ Recalls: None Found
 
 **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Struts:**
@@ -67,6 +80,19 @@ Description/Symptoms: Battery not charging properly, leading to dead battery or 
 Solution: Replace alternator.
 Estimated Cost to Fix: $500 - $1,000
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -86,3 +112,15 @@ Recalls: None Found
 
 **Summary:**
 The 2015 Nissan Pathfinder has a moderate number of reported issues, particularly with the engine and transmission. The oil consumption issue with the 3.5L V6 and CVT transmission is a major concern, as it can lead to costly repairs or even engine damage. The transmission shudder problem with the 6-speed automatic is also significant, as it can affect the drivability of the vehicle. Other issues, such as suspension noise and electrical problems, are less severe and generally less expensive to repair. Overall, the 2015 Pathfinder is a reliable vehicle but potential buyers should be aware of these issues and consider getting a vehicle history report before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

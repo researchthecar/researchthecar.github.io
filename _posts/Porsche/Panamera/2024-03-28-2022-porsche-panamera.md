@@ -52,6 +52,19 @@ The 2022 Porsche Panamera is a luxurious and high-performance sedan available wi
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Failure:**
@@ -78,6 +91,19 @@ The 2022 Porsche Panamera is a luxurious and high-performance sedan available wi
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Sunroof Leaks:**
@@ -102,3 +128,15 @@ The 2022 Porsche Panamera is a luxurious and high-performance sedan available wi
 **Summary:**
 
 The 2022 Porsche Panamera is a generally reliable vehicle, but it has experienced some issues that can be costly to repair. Common concerns include oil consumption, turbocharger failure, and transmission slippage. Some electrical and interior issues are also reported. Owners may want to consider extended warranties or maintenance plans to cover potential repairs. It's important to note that not all vehicles will experience these issues, and the severity and cost of repairs can vary depending on the specific situation.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

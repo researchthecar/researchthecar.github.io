@@ -69,6 +69,19 @@ The Touareg has received praise for its spacious interior, comfortable ride, and
     * Estimated Cost to Fix: $1,500 - $2,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arm Bushing Failure**
@@ -84,6 +97,19 @@ The Touareg has received praise for its spacious interior, comfortable ride, and
     * Solution: Repair or replace damaged wiring
     * Estimated Cost to Fix: $300 - $1,000
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -109,3 +135,15 @@ The Touareg has received praise for its spacious interior, comfortable ride, and
 **Summary:**
 
 The 2005 Volkswagen Touareg has a range of potential issues, with the most common problems affecting the engine, transmission, and electrical systems. While some issues are relatively minor and inexpensive to fix, others can be more severe and costly. Overall, the Touareg is a generally reliable vehicle, but owners should be aware of the potential problems and factor them into their maintenance budget.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

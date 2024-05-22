@@ -29,6 +29,19 @@ Solution: Replace the mechatronic unit.
 Estimated Cost to Fix: $2,000 - $3,000+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Bearing Failure**
@@ -44,6 +57,19 @@ Description/Symptoms: Moisture may accumulate inside the headlight assemblies, c
 Solution: Replace the headlight assemblies.
 Estimated Cost to Fix: $500 - $1,000+
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -64,3 +90,15 @@ Recalls: None Found
 **Summary**
 
 Overall, the 2015 Volkswagen Golf SportWagen has received some complaints regarding specific components, particularly the timing chain tensioner and mechatronic unit. These issues can be significant but not widespread. The severity and cost of repairs vary depending on the issue and the extent of damage. It's important for owners to be aware of potential problems and have them addressed promptly to avoid more costly repairs down the road.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -47,6 +47,19 @@ The 1998 Mitsubishi Galant is a mid-size sedan available with either a 2.4L inli
     * Estimated Cost to Fix: $800 - $1500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut mount failure:**
@@ -62,6 +75,19 @@ The 1998 Mitsubishi Galant is a mid-size sedan available with either a 2.4L inli
     * Solution: Repair or replace damaged harness
     * Estimated Cost to Fix: Varies depending on severity
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -82,3 +108,15 @@ The 1998 Mitsubishi Galant is a mid-size sedan available with either a 2.4L inli
 **Summary:**
 
 The 1998 Mitsubishi Galant has a moderate number of potential issues. While some problems, such as the timing belt failure, are severe and expensive to fix, many others are minor and relatively inexpensive to resolve. Overall, the Galant is a reliable and practical vehicle, but potential buyers should be aware of the potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

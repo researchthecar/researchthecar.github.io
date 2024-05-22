@@ -51,6 +51,19 @@ Solution: Replace the overdrive band.
 Estimated Cost to Fix: $500 - $1,000
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:** The strut mounts can fail, causing noise and poor handling.
@@ -72,6 +85,19 @@ Symptoms: Difficulty starting, dead battery.
 Solution: Diagnose and repair the cause of the battery drain.
 Estimated Cost to Fix: $100 - $500+
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -98,3 +124,15 @@ Recalls: None Found
 **Summary:**
 
 Overall, the 1990 Mercury Grand Marquis is a reliable vehicle with a comfortable interior and strong performance. However, it is not without its issues. Common engine problems include intake manifold gasket failure, valve cover gasket leaks, and head gasket failure. Transmission issues include shift solenoid failure and overdrive band failure. Other issues to watch out for include strut mount failure, alternator failure, battery drain, door lock malfunction, power window failure, and HVAC malfunction. The severity and cost of these issues vary widely, but some can be costly to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

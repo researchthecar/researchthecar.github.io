@@ -41,6 +41,19 @@ The 2005 Porsche Carrera GT is a mid-engine supercar powered by a naturally aspi
         * Estimated Cost to Fix: $1,000 - $3,000
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Control Arm Bushing Wear**
@@ -72,6 +85,19 @@ The 2005 Porsche Carrera GT is a mid-engine supercar powered by a naturally aspi
     * Estimated Cost to Fix: $2,000 - $3,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Carbon Fiber Body Panel Cracking**
@@ -101,3 +127,15 @@ The 2005 Porsche Carrera GT is a mid-engine supercar powered by a naturally aspi
 **Summary**
 
 While the Porsche Carrera GT is a highly praised supercar, it is not without its potential issues. Owners have reported concerns primarily with the engine, transmission, and suspension. Some of these issues, such as conrod bearing failure and carbon fiber body panel cracking, can be quite severe and costly to repair. However, it's important to note that these issues are not common and the majority of Carrera GTs perform reliably with proper maintenance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

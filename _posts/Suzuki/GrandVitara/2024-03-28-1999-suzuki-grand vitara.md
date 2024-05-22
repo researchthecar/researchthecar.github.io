@@ -48,6 +48,19 @@ The 1999 Suzuki Grand Vitara is a compact SUV known for its ruggedness and off-r
   - Estimated Cost to Fix: $1500 - $2500
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Strut failure:**
   - Description/Symptoms: Bumpy ride, excessive body roll, uneven tire wear
@@ -71,6 +84,19 @@ The 1999 Suzuki Grand Vitara is a compact SUV known for its ruggedness and off-r
   - Solution: Inspect and repair or replace starter
   - Estimated Cost to Fix: $500 - $1000
   - Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 - **Rust on body panels:**
@@ -98,3 +124,15 @@ The 1999 Suzuki Grand Vitara is a compact SUV known for its ruggedness and off-r
 
 **Summary:**
 While the 1999 Suzuki Grand Vitara is generally reliable, it is not without its potential issues. The most common engine problems include intake manifold leaks and timing chain issues, while transmission concerns involve grinding gears and transmission slipping. Suspension components such as struts and sway bar links can also fail. Electrical issues like alternator and starter failures are not uncommon. Exterior rusting and door latch problems have also been reported. Interior problems typically involve air conditioning leaks and power window malfunctions. Overall, the cost of repairs can vary depending on the specific issue and severity.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

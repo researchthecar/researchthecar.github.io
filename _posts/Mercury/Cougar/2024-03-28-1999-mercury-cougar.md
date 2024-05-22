@@ -49,6 +49,19 @@ While the Cougar is praised for its performance and style, it has some known iss
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: 99V113000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut bearing failure**
@@ -62,6 +75,19 @@ While the Cougar is praised for its performance and style, it has some known iss
     * Description: The window switch can fail, preventing the windows from operating.
     * Solution: Replace the window switch.
     * Estimated Cost to Fix: $100 - $200+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -80,3 +106,15 @@ While the Cougar is praised for its performance and style, it has some known iss
 **Summary**
 
 The 1999 Mercury Cougar is a stylish and fun-to-drive coupe, but it is not without its issues. Engine problems, transmission problems, suspension problems, and electrical problems are all common concerns. Many of these issues can be costly to repair, so it is important to factor in the potential repair costs before purchasing a Cougar.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

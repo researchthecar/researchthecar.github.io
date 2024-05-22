@@ -51,6 +51,19 @@ The 2013 Mercedes-Benz Vito is a versatile van available in various configuratio
     * Estimated Cost to Fix: $1,500 - $2,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushings Wear:**
@@ -66,6 +79,19 @@ The 2013 Mercedes-Benz Vito is a versatile van available in various configuratio
     * Solution: Replace alternator
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: MB VAN 18V-330
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -86,3 +112,15 @@ The 2013 Mercedes-Benz Vito is a versatile van available in various configuratio
 **Summary**
 
 The 2013 Mercedes-Benz Vito has a range of issues that vary in severity and cost to fix. While the engine and transmission issues can be costly to repair, many of the other issues are relatively minor and inexpensive to address. Overall, the Vito is a reliable and versatile vehicle, but potential buyers should be aware of these potential problems before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

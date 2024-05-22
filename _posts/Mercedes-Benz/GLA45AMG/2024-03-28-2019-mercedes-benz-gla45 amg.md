@@ -24,6 +24,19 @@ The 2019 Mercedes-Benz GLA45 AMG is a high-performance crossover SUV powered by 
 * **Clutch pack failure:** The clutch packs may wear prematurely, leading to slipping, shuddering, and difficulty shifting gears. The clutch packs need to be replaced. Estimated Cost to Fix: $2,000 - $3,000+
 * **Transmission control unit failure:** The transmission control unit may fail, causing the transmission to malfunction and preventing the vehicle from moving. The transmission control unit needs to be replaced. Estimated Cost to Fix: $1,000 - $1,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mount failure:** The strut mounts may wear prematurely, causing a clunking noise and poor handling. The strut mounts need to be replaced. Estimated Cost to Fix: $500 - $700+
@@ -33,6 +46,19 @@ The 2019 Mercedes-Benz GLA45 AMG is a high-performance crossover SUV powered by 
 
 * **Battery drain:** The battery may drain prematurely, leading to difficulty starting the vehicle. The battery or charging system needs to be inspected and repaired. Estimated Cost to Fix: $200 - $500+
 * **Alternator failure:** The alternator may fail, causing the battery to not charge and the vehicle to stall. The alternator needs to be replaced. Estimated Cost to Fix: $500 - $700+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -47,3 +73,15 @@ The 2019 Mercedes-Benz GLA45 AMG is a high-performance crossover SUV powered by 
 **Summary:**
 
 The 2019 Mercedes-Benz GLA45 AMG is a capable and exciting vehicle, but it has several potential issues that can affect its reliability and performance. The severity of these issues varies, but some of them can be costly to repair. Potential buyers should be aware of these issues and consider them when making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -33,6 +33,19 @@ The 1990 Mitsubishi Van was a popular choice for families and businesses alike, 
 * **Clutch Failure:** A worn or damaged clutch can cause slipping, difficulty shifting gears, and premature wear of other transmission components. Symptoms include difficulty engaging gears, slipping during acceleration, and burning smell. Repairs involve replacing the clutch, pressure plate, and release bearing. Estimated Cost to Fix: $400 - $700+
 * **Synchro Ring Failure:** Faulty synchro rings can lead to difficult or grinding gearshifts. Symptoms include crunchy or grinding noises when shifting, especially when the transmission is cold. Repairs involve replacing the synchro ring(s) and associated components. Estimated Cost to Fix: $500 - $1,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut/Shock Absorber Failure:** Worn or damaged struts or shock absorbers can compromise ride quality, handling, and braking performance. Symptoms include excessive bounce, poor handling, and uneven tire wear. Repairs involve replacing the struts or shock absorbers. Estimated Cost to Fix: $400 - $800+
@@ -42,6 +55,19 @@ The 1990 Mitsubishi Van was a popular choice for families and businesses alike, 
 
 * **Battery Failure:** The battery is a crucial component for starting the vehicle and powering electrical systems. Failure can lead to difficulty starting, electrical malfunctions, and loss of power. Symptoms include difficulty or inability to start the vehicle, dim or flickering lights, and electrical system malfunctions. Repairs involve replacing the battery and associated components. Estimated Cost to Fix: $100 - $200+
 * **Alternator Failure:** The alternator is responsible for charging the battery and powering electrical systems while driving. Failure can lead to battery drain, difficulty starting the vehicle, and electrical malfunctions. Symptoms include dim or flickering lights, battery discharge, and electrical system malfunctions. Repairs involve replacing the alternator and associated components. Estimated Cost to Fix: $300 - $600+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -55,3 +81,15 @@ The 1990 Mitsubishi Van was a popular choice for families and businesses alike, 
 **Summary**
 
 The 1990 Mitsubishi Van has several potential issues, some of which can be severe and costly to repair. Engine and transmission problems are among the most common and expensive. While the van offers space and versatility, these issues can significantly impact its reliability and longevity.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

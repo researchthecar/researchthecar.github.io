@@ -45,6 +45,19 @@ The 1992 Oldsmobile Silhouette is a minivan that was available with two engine o
     * Estimated Cost to Fix: $200 - $300
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Failure:**
@@ -72,6 +85,19 @@ The 1992 Oldsmobile Silhouette is a minivan that was available with two engine o
     * Solution: Replace the starter motor
     * Estimated Cost to Fix: $200 - $400
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -104,3 +130,15 @@ The 1992 Oldsmobile Silhouette is a minivan that was available with two engine o
 **Summary**
 
 The 1992 Oldsmobile Silhouette is a spacious and comfortable vehicle with powerful V6 engines. However, it is also known for its reliability issues, especially with the engine, transmission, and electrical components. Repairs can be costly, so potential buyers should carefully consider the potential expenses before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

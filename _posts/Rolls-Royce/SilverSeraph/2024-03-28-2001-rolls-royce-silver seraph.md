@@ -34,6 +34,19 @@ The 2001 Rolls-Royce Silver Seraph is a luxurious sedan renowned for its elegant
     * Estimated Cost to Fix: $1,000 - $2,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -50,6 +63,19 @@ The 2001 Rolls-Royce Silver Seraph is a luxurious sedan renowned for its elegant
     * Solution: Inspect electrical system for parasitic drain, replace battery if necessary
     * Estimated Cost to Fix: $500 - $1,500
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -70,3 +96,15 @@ The 2001 Rolls-Royce Silver Seraph is a luxurious sedan renowned for its elegant
 **Summary:**
 
 The 2001 Rolls-Royce Silver Seraph generally has a good reliability record, but it can experience some specific issues. The most common problems include intake camshaft position sensor failure, oil leaks, alternator failure, and door handle corrosion. The severity of these issues varies, and the cost of repairs can range from minor to significant ($500 - $2,000+). It is important to note that these issues are not universal and do not affect all Silver Seraph vehicles.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

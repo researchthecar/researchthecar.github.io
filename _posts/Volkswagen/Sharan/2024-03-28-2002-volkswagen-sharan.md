@@ -72,6 +72,19 @@ The 2002 Volkswagen Sharan is a versatile people mover known for its spacious in
     * Estimated Cost to Fix: $500 - $1,200+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Bearing Failure:**
@@ -97,6 +110,19 @@ The 2002 Volkswagen Sharan is a versatile people mover known for its spacious in
     * Solution: Inspect electrical system for parasitic draw
     * Estimated Cost to Fix: $100 - $300+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -127,3 +153,15 @@ The 2002 Volkswagen Sharan is a versatile people mover known for its spacious in
 **Summary**
 
 The 2002 Volkswagen Sharan has its share of issues, including costly engine and transmission problems. Suspension and electrical problems are also common, but not as severe. The interior and exterior issues are typically minor and inexpensive to fix. Overall, the Sharan is a practical vehicle with a range of engine and transmission options, but potential buyers should be aware of the potential issues and factor in the cost of repairs when considering a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

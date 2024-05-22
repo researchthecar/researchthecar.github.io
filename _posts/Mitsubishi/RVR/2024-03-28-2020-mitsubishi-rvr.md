@@ -27,6 +27,19 @@ The 2020 Mitsubishi RVR is a subcompact SUV that offers a comfortable and fuel-e
     Estimated Cost to Fix: Free under warranty
     Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -48,6 +61,19 @@ Description/Symptoms: Rapid battery discharge even when the vehicle is parked.
 Solution: Diagnosis and repair of the electrical system, such as faulty wiring or a malfunctioning component.
 Estimated Cost to Fix: $200 - $600+
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -74,3 +100,15 @@ Recalls: None Found
 **Summary**
 
 Overall, the 2020 Mitsubishi RVR is a reliable and practical SUV with a few notable issues. The most severe problems involve oil leaks from the engine, malfunctioning headlights, and rust on the undercarriage. These issues can be costly to repair, but they are typically covered under warranty. The interior creaking noises and infotainment system glitches are less severe and can be resolved with relatively minor repairs or software updates.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

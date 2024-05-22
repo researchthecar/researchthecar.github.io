@@ -35,6 +35,19 @@ While the Volksbus is generally well-regarded, owners have reported a number of 
         * Estimated Cost to Fix: $1,200 - $2,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front control arm bushings:** These bushings can wear out prematurely, leading to excessive noise and vibration.
@@ -48,6 +61,19 @@ While the Volksbus is generally well-regarded, owners have reported a number of 
     * Solution: Replace the headlight switch.
     * Estimated Cost to Fix: $50 - $200+
     * Recalls: NHTSA Campaign Number: 16V339000
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -66,3 +92,15 @@ While the Volksbus is generally well-regarded, owners have reported a number of 
 **Summary**
 
 The 2016 Volkswagen Volksbus has a number of reported issues, including engine oil leaks, transmission clutch pack failures, and electrical problems. The severity and cost of these issues vary, but some can be significant. Overall, the Volksbus is a generally reliable vehicle, but potential buyers should be aware of these issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

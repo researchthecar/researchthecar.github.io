@@ -65,6 +65,19 @@ Owners generally appreciate the Corolla's dependability, handling, and low maint
     * Estimated Cost to Fix: $500 - $800
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Bushing Failure**
@@ -93,6 +106,19 @@ Owners generally appreciate the Corolla's dependability, handling, and low maint
     * Estimated Cost to Fix: $300 - $500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust on Undercarriage**
@@ -118,3 +144,15 @@ Owners generally appreciate the Corolla's dependability, handling, and low maint
 **Summary**
 
 While the 1992 Toyota Corolla is generally a reliable vehicle, some common issues have been reported with the engine, transmission, suspension, electrical, and interior components. The severity of these issues varies, with some being minor annoyances and others potentially requiring significant repairs. The cost of repairs can also vary widely depending on the specific issue and the severity of the problem. Overall, the Corolla remains a solid choice for those seeking an affordable and reliable compact car, but it's important to be aware of potential issues before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

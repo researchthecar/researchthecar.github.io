@@ -29,6 +29,19 @@ The 2014 Mercedes-Benz Viale BRT is a heavy-duty city bus manufactured by Merced
     * **Estimated Cost to Fix:** $3,000 - $8,000+
     * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Air Suspension System:**
@@ -46,6 +59,19 @@ The 2014 Mercedes-Benz Viale BRT is a heavy-duty city bus manufactured by Merced
 * **Solution:** Replacement of the alternator.
 * **Estimated Cost to Fix:** $500 - $1,000+
 * **Recalls:** None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior:**
 
@@ -66,3 +92,15 @@ The 2014 Mercedes-Benz Viale BRT is a heavy-duty city bus manufactured by Merced
 **Summary:**
 
 The 2014 Mercedes-Benz Viale BRT has received mixed reviews from users. While it is praised for its reliability, fuel efficiency, and safety features, it has also experienced several issues, including turbocharger failure, transmission slipping, and electrical problems. The severity and cost of these issues vary, but many of them can be significant and require costly repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

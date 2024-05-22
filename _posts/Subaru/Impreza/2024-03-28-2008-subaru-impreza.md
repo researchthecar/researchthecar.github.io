@@ -56,3 +56,15 @@ Impreza owners praise the vehicle's all-wheel drive capability, reliability, and
 **Summary:**
 
 The 2008 Subaru Impreza offers a reliable and capable driving experience, but it is not immune to issues. Engine problems with the 2.5L naturally aspirated and turbocharged engines can be costly to fix. Transmission issues with both the manual and automatic transmissions are also common. Suspension and electrical issues can impact handling and safety. Interior issues include airbag deployment failure and climate control problems. Exterior issues are generally less severe and involve fading bumpers and sunroof leaks. Overall, the severity and cost of the issues vary, but owners should be aware of the potential problems before purchasing a 2008 Subaru Impreza.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

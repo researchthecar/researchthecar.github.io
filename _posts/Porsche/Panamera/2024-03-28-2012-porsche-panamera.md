@@ -42,6 +42,19 @@ The Panamera is known for its sharp handling, powerful engines, and luxurious in
 
 * No Issues Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Spring Failure:** Description/Symptoms: Rear end sagging, uneven tire wear. Solution: Replace rear suspension springs. Estimated Cost to Fix: $500 - $1,000
@@ -50,6 +63,19 @@ The Panamera is known for its sharp handling, powerful engines, and luxurious in
 
 * **Battery Drain:** Description/Symptoms: Dead battery after sitting overnight. Solution: Replace battery or repair electrical fault. Estimated Cost to Fix: $100 - $500
 * **Headlight Switch Failure:** Description/Symptoms: Headlights not working, intermittent headlight issues. Solution: Replace headlight switch. Estimated Cost to Fix: $200 - $500
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -63,3 +89,15 @@ The Panamera is known for its sharp handling, powerful engines, and luxurious in
 **Summary:**
 
 The 2012 Porsche Panamera is generally a reliable and enjoyable vehicle. However, it is not free from issues. Some of the more common problems include water pump failure, timing chain tensioner failure, transmission problems, and sunroof switch failure. The severity of these issues varies, and the cost to fix them can range from minor to major. It is important for owners to be aware of these potential issues and to address them promptly to avoid further damage or inconvenience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

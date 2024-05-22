@@ -60,6 +60,19 @@ The 1999 Volkswagen Derby is a compact sedan that offered a balance of practical
     * Estimated Cost to Fix: $800 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Struts/Shocks Wear:**
@@ -86,6 +99,19 @@ The 1999 Volkswagen Derby is a compact sedan that offered a balance of practical
     * Estimated Cost to Fix: $300 - $400
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Clear Coat Peel:**
@@ -110,3 +136,15 @@ The 1999 Volkswagen Derby is a compact sedan that offered a balance of practical
 **Summary**
 
 The 1999 Volkswagen Derby has several reliability issues that potential owners should be aware of. The most severe and costly issues include engine timing belt failure, transmission torque converter lock-up clutch failure, and alternator failure. However, many of the other issues are relatively inexpensive to fix. Overall, the Derby is a practical and affordable compact sedan, but it is important to factor in the potential repair costs before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

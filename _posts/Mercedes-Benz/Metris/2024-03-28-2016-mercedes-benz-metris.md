@@ -32,6 +32,19 @@ The 2016 Mercedes-Benz Metris is a midsize cargo van available with a choice of 
         * Estimated Cost to Fix: $400 - $600+
         * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Failure**
@@ -47,6 +60,19 @@ The 2016 Mercedes-Benz Metris is a midsize cargo van available with a choice of 
     * Solution: Replace the alternator
     * Estimated Cost to Fix: $400 - $600+
     * Recalls: N/A
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -67,3 +93,15 @@ The 2016 Mercedes-Benz Metris is a midsize cargo van available with a choice of 
 **Summary**
 
 The 2016 Mercedes-Benz Metris has a few reported issues, primarily related to the engine, transmission, and suspension. While these issues can be costly to fix, they are relatively minor and do not appear to affect the overall reliability of the vehicle. The Metris remains a popular choice for those seeking a spacious and comfortable midsize cargo van.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

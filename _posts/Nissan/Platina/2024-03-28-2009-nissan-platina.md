@@ -35,6 +35,19 @@ The 2009 Nissan Platina is a compact sedan available with a 1.6-liter 4-cylinder
   * Estimated Cost to Fix: $1,500 - $3,000+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Premature Strut Wear:**
@@ -50,6 +63,19 @@ The 2009 Nissan Platina is a compact sedan available with a 1.6-liter 4-cylinder
   * Solution: Test and replace faulty alternator or other electrical components.
   * Estimated Cost to Fix: $300 - $800+
   * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -69,3 +95,15 @@ The 2009 Nissan Platina is a compact sedan available with a 1.6-liter 4-cylinder
 
 **Summary:**
 The 2009 Nissan Platina has some common issues that can be costly to repair, including excessive oil consumption, transmission problems, suspension wear, and electrical issues. While the Platina offers a comfortable ride and spacious interior, the lack of power and outdated design make it less desirable for some drivers. The severity and cost of issues vary, but overall, the Platina's reliability is average for its segment.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

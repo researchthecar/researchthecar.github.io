@@ -45,6 +45,19 @@ Despite its popularity, the 1991 Oldsmobile Bravada has been known to have sever
     * Estimated Cost to Fix: $1000 - $2000+
     * Recalls: 91V210004
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -62,6 +75,19 @@ Despite its popularity, the 1991 Oldsmobile Bravada has been known to have sever
     * Estimated Cost to Fix: $150 - $300+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 **No Issues Found**
@@ -77,3 +103,15 @@ Despite its popularity, the 1991 Oldsmobile Bravada has been known to have sever
 **Summary**
 
 The 1991 Oldsmobile Bravada has a mixed reputation for reliability. While it offers a spacious interior and rugged design, it is prone to various engine, transmission, and electrical issues. The severity of these issues can range from minor inconveniences to major repairs, with costs varying widely depending on the specific problem. Owners should be prepared for potential repairs and maintenance expenses when considering this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

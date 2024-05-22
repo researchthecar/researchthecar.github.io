@@ -37,6 +37,19 @@ Despite its overall reliability, the 2018 Volkswagen Vento has been reported to 
   - Estimated Cost to Fix: $100 - $500+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **No Issues Found**
@@ -48,6 +61,19 @@ Despite its overall reliability, the 2018 Volkswagen Vento has been reported to 
   - Solution: Replacement of alternator
   - Estimated Cost to Fix: $500 - $1,000+
   - Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -68,3 +94,15 @@ Despite its overall reliability, the 2018 Volkswagen Vento has been reported to 
 **Summary**
 
 Overall, the 2018 Volkswagen Vento is a reliable vehicle, but it does have some potential issues that owners should be aware of. The most common problems reported are fuel injector failure, gearbox noise, alternator failure, and dashboard rattle. The severity of these issues varies, and the cost to fix them can range from minor to major.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

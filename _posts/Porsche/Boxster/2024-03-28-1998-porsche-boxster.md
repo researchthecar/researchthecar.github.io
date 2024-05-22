@@ -46,6 +46,19 @@ People like the Boxster for its handling, performance, and style. However, some 
         * Estimated Cost to Fix: $1,500 - $2,500
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushings Failure**
@@ -61,6 +74,19 @@ People like the Boxster for its handling, performance, and style. However, some 
     * Solution: Test the battery and charging system, and replace any failed components.
     * Estimated Cost to Fix: $100 - $500
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -85,3 +111,15 @@ People like the Boxster for its handling, performance, and style. However, some 
 
 **Summary**
 The 1998 Porsche Boxster is a well-built sports car that is fun to drive. However, it is not without its problems. Some of the most common issues include Vanos solenoid failure, intermediate shaft bearing failure, and torque converter failure. These issues can be expensive to fix, so it is important to factor in the cost of ownership when considering a Boxster.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -42,6 +42,19 @@ The 2011 Subaru Outback is a midsize station wagon that offers a rugged and vers
   * Estimated Cost to Fix: $2,500 - $4,000+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mount bearing failure:** Worn or damaged strut mount bearings can cause clunking noises, uneven tire wear, and reduced handling.
@@ -65,6 +78,19 @@ The 2011 Subaru Outback is a midsize station wagon that offers a rugged and vers
   * Solution: Diagnose and repair the electrical component causing the drain.
   * Estimated Cost to Fix: Varies depending on the cause
   * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -93,3 +119,15 @@ The 2011 Subaru Outback is a midsize station wagon that offers a rugged and vers
 **Summary**
 
 While the Subaru Outback is a popular and reliable vehicle, it has some reported issues that owners should be aware of. The engine issues, such as head gasket failure and valve spring failure, can be severe and costly to repair. The transmission issues, including clutch slipping and transmission shudder, can also cause significant inconvenience and expense. However, many of the other issues, such as suspension and electrical problems, are relatively minor and affordable to fix. Overall, the severity and cost of the issues with the 2011 Subaru Outback should be considered when making a purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

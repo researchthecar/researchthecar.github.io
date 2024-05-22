@@ -24,6 +24,19 @@ The 2021 Subaru Impreza is a compact sedan and hatchback that combines affordabi
 - Estimated Cost to Fix: $100 - $500+
 - Recalls: NHTSA Campaign Number: 21V836000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Strut Noise**: Some owners have reported a clunking or rattling noise from the front suspension, especially when driving over bumps or uneven surfaces. It is typically caused by a loose or worn strut mount.
@@ -36,6 +49,19 @@ The 2021 Subaru Impreza is a compact sedan and hatchback that combines affordabi
 - Solution: Update the infotainment system software or visit a dealer for repairs.
 - Estimated Cost to Fix: Varies depending on the issue
 - Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -54,3 +80,15 @@ The 2021 Subaru Impreza is a compact sedan and hatchback that combines affordabi
 **Summary**
 
 The 2021 Subaru Impreza is a reliable and affordable vehicle, but it has a few notable issues. The most common problems are related to the CVT transmission, infotainment system glitches, and suspension noise. While most of these issues are relatively minor and inexpensive to fix, they can be frustrating for owners.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

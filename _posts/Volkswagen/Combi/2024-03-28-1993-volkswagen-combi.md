@@ -34,6 +34,19 @@ The 1993 Volkswagen Combi, also known as the Transporter, is a versatile commerc
     * **Estimated Cost to Fix:** $2,500 - $4,000
     * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -51,6 +64,19 @@ The 1993 Volkswagen Combi, also known as the Transporter, is a versatile commerc
     * **Solution:** Test the battery, alternator, and electrical system to locate the source of the drain.
     * **Estimated Cost to Fix:** $200 - $500+
     * **Recalls:** None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -77,3 +103,15 @@ The 1993 Volkswagen Combi, also known as the Transporter, is a versatile commerc
 **Summary**
 
 While the 1993 Volkswagen Combi offers a practical and reliable driving experience, it is not without its drawbacks. The engine and transmission can encounter issues ranging from excessive oil consumption to shifting difficulties and transmission slipping. Electrical problems can include alternator failure and battery draining. Exterior issues may include trunk/tailgate latch problems, while interior issues may include dashboard cracking and seat foam degradation. The severity and cost of these issues can vary depending on the specific problem and the condition of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -27,6 +27,19 @@ The 2021 Toyota RAV4 Prime is a plug-in hybrid SUV that offers impressive fuel e
 * **Estimated Cost to Fix:** $2,000 - $4,000+
 * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Noise:** Excessive noise from the front struts, especially over rough surfaces.
@@ -46,6 +59,19 @@ The 2021 Toyota RAV4 Prime is a plug-in hybrid SUV that offers impressive fuel e
 * **Estimated Cost to Fix:** $0 - $1,000+
 * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Sunroof Seal Leakage:** Water leaks through the sunroof seal, potentially causing damage to the interior.
@@ -63,3 +89,15 @@ The 2021 Toyota RAV4 Prime is a plug-in hybrid SUV that offers impressive fuel e
 **Summary:**
 
 Overall, the 2021 Toyota RAV4 Prime has encountered some issues that can be concerning. While most issues are relatively minor and affordable to fix, the engine and transmission problems can be more severe and expensive. Potential owners should be aware of these issues before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

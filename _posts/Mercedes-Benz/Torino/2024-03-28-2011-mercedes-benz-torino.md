@@ -39,6 +39,19 @@ The 2011 Mercedes-Benz Torino is a high-performance sedan that was available wit
         * Estimated Cost to Fix: $1,000 - $2,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air suspension**
@@ -55,6 +68,19 @@ The 2011 Mercedes-Benz Torino is a high-performance sedan that was available wit
         * Solution: The alternator needs to be replaced.
         * Estimated Cost to Fix: $500 - $1,000+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -75,3 +101,15 @@ The 2011 Mercedes-Benz Torino is a high-performance sedan that was available wit
 **Summary**
 
 The 2011 Mercedes-Benz Torino is a powerful and luxurious sedan, but it has also been plagued by a number of issues. Some of these issues, such as the timing chain tensioner failure and the valvetrain noise, can be costly to repair. However, many of the other issues, such as the sunroof leaks and the navigation system failures, are relatively minor and inexpensive to fix. Overall, the Torino is a reliable vehicle, but it is important to be aware of the potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

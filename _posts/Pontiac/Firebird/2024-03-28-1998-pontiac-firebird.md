@@ -69,6 +69,19 @@ The 1998 Pontiac Firebird is a powerful and stylish sports car available with va
  * Estimated Cost to Fix: $300 - $600+
  * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Strut Mount Failure**
@@ -96,6 +109,19 @@ The 1998 Pontiac Firebird is a powerful and stylish sports car available with va
  * Solution: Replacement of the power window switch
  * Estimated Cost to Fix: $100 - $200+
  * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -130,3 +156,15 @@ The 1998 Pontiac Firebird is a powerful and stylish sports car available with va
 The 1998 Pontiac Firebird has several reported issues across various components, including the engine, transmission, suspension, and electrical systems. Engine issues, particularly with the LS1 V8's Optispark distributor and knock sensor, can be costly to repair. Transmission problems, such as slipping and torque converter failure, are also significant concerns. Suspension components like strut mounts and sway bar links have reported failures. Electrical issues include alternator failure and power window switch malfunctions. Interior issues include HVAC blower motor and instrument panel circuit board failures.
 
 Overall, the severity and cost of these issues vary depending on the specific problem and the affected component. Owners should be aware of potential issues and budget accordingly for repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

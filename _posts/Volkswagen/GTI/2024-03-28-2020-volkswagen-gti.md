@@ -38,6 +38,19 @@ The 2020 Volkswagen GTI is a high-performance hatchback powered by a 2.0-liter t
         * Estimated Cost to Fix: $2,500 - $4,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -54,6 +67,19 @@ The 2020 Volkswagen GTI is a high-performance hatchback powered by a 2.0-liter t
     * Solution: Diagnosis and repair or replacement of affected wiring harnesses.
     * Estimated Cost to Fix: $300 - $1,500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -79,3 +105,15 @@ The 2020 Volkswagen GTI is a high-performance hatchback powered by a 2.0-liter t
 **Summary:**
 
 While the 2020 Volkswagen GTI offers a fun and engaging driving experience, it has been subject to a handful of reported issues. The severity and cost of repairs vary depending on the issue, but some problems, such as turbocharger failure and mechatronic unit failures, can be quite expensive. It is important for owners to be aware of these potential issues and to address them promptly to prevent further damage or inconvenience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

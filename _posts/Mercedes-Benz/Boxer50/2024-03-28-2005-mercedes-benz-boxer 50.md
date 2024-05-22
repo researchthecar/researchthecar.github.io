@@ -29,6 +29,19 @@ The 2005 Mercedes-Benz Boxer 50 is a high-performance SUV with impressive stats 
     - Estimated Cost to Fix: $500 - $1200+
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Air Suspension Failure:**
@@ -47,6 +60,19 @@ The 2005 Mercedes-Benz Boxer 50 is a high-performance SUV with impressive stats 
     - Recalls: None Found
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 
@@ -61,3 +87,15 @@ The 2005 Mercedes-Benz Boxer 50 is a high-performance SUV with impressive stats 
 **Summary:**
 
 Overall, the 2005 Mercedes-Benz Boxer 50 has faced some issues, including engine valve timing problems, transmission shift solenoid failures, and air suspension failures. The severity of these issues ranges from minor to major, with repair costs varying depending on the extent of the problem. Owners have also reported infotainment system glitches, but these are typically less costly to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

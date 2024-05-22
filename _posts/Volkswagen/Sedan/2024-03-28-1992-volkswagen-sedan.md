@@ -61,6 +61,19 @@ The 1992 Volkswagen Sedan, also known as the Volkswagen Golf Mk2, is a compact c
 
 * **Vacuum Modulator Failure:** Transmission shifting erratically or not shifting at all. Modulator needs to be replaced. $150-$250
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Struts/Shocks Failure:** Noisy suspension, rough ride. Struts or shocks need to be replaced. $300-$600+
@@ -76,6 +89,19 @@ The 1992 Volkswagen Sedan, also known as the Volkswagen Golf Mk2, is a compact c
 * **Starter Failure:** Engine not starting. Starter needs to be replaced or repaired. $300-$600+
 
 * **Alternator Failure:** Battery not charging, dim lights. Alternator needs to be replaced. $300-$500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -96,3 +122,15 @@ The 1992 Volkswagen Sedan, also known as the Volkswagen Golf Mk2, is a compact c
 **Summary**
 
 The 1992 Volkswagen Sedan is a generally reliable and affordable vehicle, but it does have its share of potential issues. The most common issues are related to the engine, transmission, and suspension. The severity and cost of these issues can vary depending on the specific problem and the extent of the damage. However, overall, the Mk2 Sedan is a solid choice for those seeking a practical and fun-to-drive car.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

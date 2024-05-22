@@ -29,6 +29,19 @@ The 2000 Pontiac Firefly was a subcompact hatchback offered with a 1.3L SOHC inl
     * Estimated Cost to Fix: $400 - $600+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Struts Leaking**
@@ -44,6 +57,19 @@ The 2000 Pontiac Firefly was a subcompact hatchback offered with a 1.3L SOHC inl
     * Solution: Replace headlight switch
     * Estimated Cost to Fix: $150 - $250+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -64,3 +90,15 @@ The 2000 Pontiac Firefly was a subcompact hatchback offered with a 1.3L SOHC inl
 **Summary:**
 
 While the 2000 Pontiac Firefly is a reliable and economical vehicle, it is prone to several common issues that can affect its performance, comfort, and appearance. The severity of these issues ranges from minor inconveniences (such as interior rattling) to more serious problems (such as engine valve sticking). Repair costs can vary significantly depending on the specific issue and the affected components.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

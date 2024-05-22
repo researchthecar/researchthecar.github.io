@@ -50,6 +50,19 @@ The 1992 Nissan Ichi Van was a versatile and reliable workhorse known for its sp
     * Estimated Cost to Fix: $100 - $150+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Assembly Failure:** Noise and vibration from the front of the vehicle due to worn strut mounts or shocks.
@@ -72,6 +85,19 @@ The 1992 Nissan Ichi Van was a versatile and reliable workhorse known for its sp
     * Estimated Cost to Fix: $50 - $150+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust on Undercarriage:** Corrosion on the undercarriage components.
@@ -93,3 +119,15 @@ The 1992 Nissan Ichi Van was a versatile and reliable workhorse known for its sp
 **Summary**
 
 The 1992 Nissan Ichi Van had several common issues, particularly with the engine, suspension, and electrical systems. These issues could result in costly repairs, especially those related to the injector pump or alternator. However, the vehicle's affordable price and practicality made it a popular choice for many drivers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

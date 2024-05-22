@@ -37,6 +37,19 @@ The 1995 Nissan Tsubame was a compact sports car that was only available in Japa
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure:** The front strut mounts connect the struts to the chassis. When they fail, it can cause a loss of stability and handling.
@@ -52,6 +65,19 @@ The 1995 Nissan Tsubame was a compact sports car that was only available in Japa
     * Solution: Replace the alternator
     * Estimated Cost to Fix: $500 - $800+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -78,3 +104,15 @@ The 1995 Nissan Tsubame was a compact sports car that was only available in Japa
 **Summary:**
 
 The 1995 Nissan Tsubame is a reliable and fun-to-drive sports car. However, it is not without its issues. The most common problems include cam phasor system failure, turbocharger failure, synchronizer wear, front strut mount failure, alternator failure, sunroof leak, heater core leak, and climate control unit failure. While these issues can be expensive to fix, they are not particularly severe and should not deter potential buyers from considering the Tsubame.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

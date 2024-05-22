@@ -141,3 +141,15 @@ Estimated Cost to Fix: $300-$500
 ## Summary
 
 The 1993 Plymouth Laser is a fun and affordable sports car that offers a variety of engine and transmission options. However, it is important to be aware of the potential issues that can arise with this vehicle. The most severe issues are related to the engine, including turbocharger failure and connecting rod bearing failure. These issues can be expensive to repair, so it is important to have the vehicle inspected by a qualified mechanic before purchasing. Other issues, such as suspension and electrical problems, are less severe and less expensive to repair. Overall, the 1993 Plymouth Laser is a reliable vehicle that can provide many years of enjoyment. However, it is important to be aware of the potential issues that can arise and to factor these into the cost of ownership.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

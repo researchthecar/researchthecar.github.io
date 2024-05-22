@@ -59,6 +59,19 @@ The 2016 Mitsubishi Outlander is a compact SUV available with three engine optio
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mount failure:**
@@ -80,6 +93,19 @@ The 2016 Mitsubishi Outlander is a compact SUV available with three engine optio
     * Solution: Replacement of the alternator
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -106,3 +132,15 @@ The 2016 Mitsubishi Outlander is a compact SUV available with three engine optio
 **Summary:**
 
 The 2016 Mitsubishi Outlander has some potential issues, particularly with the engine, transmission, and electrical systems. The timing chain tensioner failure, piston ring failure, and transmission solenoid failure can be significant and costly to repair. However, overall, the severity and cost of these issues are not uncommon for vehicles in this class.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

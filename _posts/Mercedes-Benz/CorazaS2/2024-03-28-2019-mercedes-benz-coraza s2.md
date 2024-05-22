@@ -34,6 +34,19 @@ The 2019 Mercedes-Benz Coraza S2 is a luxury sports coupe that offers a powerful
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: NHTSA Campaign Number: 20V439000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Air Suspension Leak**
@@ -60,6 +73,19 @@ The 2019 Mercedes-Benz Coraza S2 is a luxury sports coupe that offers a powerful
     * Solution: Battery replacement and inspection for potential parasitic electrical drains.
     * Estimated Cost to Fix: $200 - $400+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Panoramic Sunroof Rattle**
@@ -85,3 +111,15 @@ The 2019 Mercedes-Benz Coraza S2 is a luxury sports coupe that offers a powerful
 **Summary**
 
 The 2019 Mercedes-Benz Coraza S2 offers an exhilarating driving experience with its powerful engine and sophisticated features. However, it has faced some notable issues that owners should consider before purchasing. The potential severity and cost of these issues can vary, ranging from minor inconvenience to more significant repairs. While not all Coraza S2 models will experience these issues, it is important for prospective buyers to be aware of the reported problems to make an informed decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

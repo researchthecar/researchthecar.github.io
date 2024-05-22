@@ -45,6 +45,19 @@ The 2021 Volkswagen Taos is a compact SUV that offers a potent 1.5-liter turboch
     * Estimated Cost to Fix: $500 - $2,000+
 * **Recalls:** NHTSA Campaign Number: 22V013000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Bearing Failure**
@@ -68,6 +81,19 @@ The 2021 Volkswagen Taos is a compact SUV that offers a potent 1.5-liter turboch
     * Solution: Software update or hardware replacement
     * Estimated Cost to Fix: $200 - $1,000+
 * **Recalls:** None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -96,3 +122,15 @@ The 2021 Volkswagen Taos is a compact SUV that offers a potent 1.5-liter turboch
 **Summary**
 
 The 2021 Volkswagen Taos is a generally reliable vehicle, but it does have its share of issues. The most common problems include oil consumption, timing chain tensioner failure, and transmission fluid leaks. While these issues can be costly to repair, they do not appear to be widespread. Overall, the Taos remains a capable and practical compact SUV for most drivers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

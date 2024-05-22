@@ -30,6 +30,19 @@ The 1998 Subaru Forester is a compact SUV known for its versatility, all-wheel d
   * **Shift Solenoid Failure:** Symptoms include delayed or erratic shifting, and transmission slipping. Solution: Replace the shift solenoids. Estimated Cost to Fix: $500 - $800
   * **Transmission Fluid Leak:** Symptoms include transmission fluid leaking from the transmission pan or seals. Solution: Replace the leaky seals or transmission pan. Estimated Cost to Fix: $200 - $400
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Sway Bar Link Failure:** Symptoms include clunking or rattling noise from the rear suspension. Solution: Replace the sway bar links. Estimated Cost to Fix: $400 - $600
@@ -39,6 +52,19 @@ The 1998 Subaru Forester is a compact SUV known for its versatility, all-wheel d
 * **Alternator Failure:** Symptoms include dim headlights, difficulty starting, and battery warning light illuminated. Solution: Replace the alternator. Estimated Cost to Fix: $600 - $800
 * **Starter Failure:** Symptoms include difficulty starting or no starting at all. Solution: Replace the starter. Estimated Cost to Fix: $400 - $600
 * **Battery Drain:** Symptoms include the battery draining prematurely. Solution: Diagnose and repair the source of the drain, such as faulty wiring or a parasitic draw. Estimated Cost to Fix: $200 - $600
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -53,3 +79,15 @@ The 1998 Subaru Forester is a compact SUV known for its versatility, all-wheel d
 **Summary:**
 
 Overall, the 1998 Subaru Forester has faced a range of issues, some of which are more severe and costly than others. The most significant known issue is the head gasket failure, which can cause major engine damage. Other common problems include transmission issues, suspension components failure, electrical system malfunctions, and interior component failures. However, it's important to note that not all Foresters will experience these issues, and the severity and cost of repairs will vary depending on the specific problem encountered.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

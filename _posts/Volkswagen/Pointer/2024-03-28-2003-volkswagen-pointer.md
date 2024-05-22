@@ -51,6 +51,19 @@ The 2003 Volkswagen Pointer is a small and economical sedan that was available w
     * Estimated Cost to Fix: $1000 - $1500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -73,6 +86,19 @@ The 2003 Volkswagen Pointer is a small and economical sedan that was available w
     * Estimated Cost to Fix: $400 - $600+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Door Handle Failure:**
@@ -92,3 +118,15 @@ The 2003 Volkswagen Pointer is a small and economical sedan that was available w
 **Summary:**
 
 Overall, the 2003 Volkswagen Pointer has a moderate number of reported issues, but none that are particularly severe or expensive to fix. The most common problems involve the engine and transmission, but these can be addressed with proper maintenance and repair. The Pointer's interior and electrical systems have also been known to experience minor glitches, but these are generally not significant. Overall, the Pointer is a reliable and affordable vehicle, but owners should be aware of the potential issues mentioned above.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

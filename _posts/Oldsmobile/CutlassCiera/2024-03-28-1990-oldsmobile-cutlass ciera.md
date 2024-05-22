@@ -67,6 +67,19 @@ People like the Cutlass Ciera for its comfortable ride, spacious interior, and a
 
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 **No Issues Found**
 
@@ -82,6 +95,19 @@ People like the Cutlass Ciera for its comfortable ride, spacious interior, and a
 * **Battery failure:** The battery can fail, preventing the vehicle from starting. 
   * **Solution:** Replace the battery.
   * **Estimated Cost to Fix:** $100 - $200+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -108,3 +134,15 @@ People like the Cutlass Ciera for its comfortable ride, spacious interior, and a
 **Summary**
 
 The 1990 Oldsmobile Cutlass Ciera has a number of potential issues, particularly with the engine and transmission. However, many of these issues are relatively minor and inexpensive to fix. Overall, the Cutlass Ciera is a reliable and affordable vehicle that is a good choice for those who are looking for a comfortable and spacious sedan.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

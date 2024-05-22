@@ -83,6 +83,19 @@ The 2007 Mercury Monterey is a full-size sedan that was available with three eng
   * Estimated Cost to Fix: $500 - $800
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut failure**
@@ -110,6 +123,19 @@ The 2007 Mercury Monterey is a full-size sedan that was available with three eng
   * Solution: Replace the alternator.
   * Estimated Cost to Fix: $300 - $500
   * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -142,3 +168,15 @@ The 2007 Mercury Monterey is a full-size sedan that was available with three eng
 **Summary**
 
 The 2007 Mercury Monterey has a number of potential issues, including engine intake manifold gasket failures, transmission fluid leaks and torque converter failures, suspension strut and shock failures, and electrical issues. While some of these issues are minor and inexpensive to fix, others can be more severe and costly. Overall, the Monterey's reliability is below average, and buyers should be prepared for potential maintenance and repair expenses.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -74,3 +74,15 @@ Recalls: None Found
 ### Summary
 
 The 2000 Subaru Impreza is a reliable and affordable compact car. However, it is not without its issues. The head gasket failure and timing belt failure are the most common engine issues, while the transmission slippage is the most common transmission issue. The interior is also prone to dashboard rattles. Overall, the severity and cost of these issues are moderate, but they should be considered before purchasing a used Impreza.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

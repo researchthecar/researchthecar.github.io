@@ -29,6 +29,19 @@ The 2017 Mercedes-Benz Gran Viale RF is a luxury convertible that offers a thril
         * Estimated Cost to Fix: $2,000 - $2,500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Failure:** The front control arm bushings fail, causing a clunking noise and decreased handling stability.
@@ -51,6 +64,19 @@ The 2017 Mercedes-Benz Gran Viale RF is a luxury convertible that offers a thril
         * Estimated Cost to Fix: $750 - $1,250+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Convertible Top Malfunction:** The convertible top fails to open or close properly, leaving the vehicle exposed to the elements.
@@ -72,3 +98,15 @@ The 2017 Mercedes-Benz Gran Viale RF is a luxury convertible that offers a thril
 **Summary:**
 
 The 2017 Mercedes-Benz Gran Viale RF has a history of numerous issues that affect its engine, transmission, suspension, electrical system, exterior, and interior. These issues can be severe and costly to repair, and they have led to significant frustration among owners. While the Gran Viale RF offers an impressive driving experience, potential buyers should be aware of the potential problems associated with this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

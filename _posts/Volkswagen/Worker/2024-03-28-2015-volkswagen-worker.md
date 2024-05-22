@@ -57,6 +57,19 @@ The Worker is known for its powerful engines, rugged construction, and spacious 
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Clunking**
@@ -83,6 +96,19 @@ The Worker is known for its powerful engines, rugged construction, and spacious 
     * Estimated Cost to Fix: $100 - $1,000+
     * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust**
@@ -107,3 +133,15 @@ The Worker is known for its powerful engines, rugged construction, and spacious 
 **Summary**
 
 The 2015 Volkswagen Worker is a capable and powerful pickup truck, but it has been plagued by a number of issues that have affected its reliability and performance. Some of the most common issues include carbon buildup on intake valves, timing chain tensioner failure, torque converter shudder, shifting problems, suspension clunking, rear suspension sagging, and electrical shorts. These issues can be costly to repair, and they can lead to reduced performance and increased downtime.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

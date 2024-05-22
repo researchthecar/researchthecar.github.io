@@ -50,6 +50,19 @@ The 2008 Porsche Cayman is a mid-engine sports car that was available with three
     * Solution: Replace the valve body.
     * Estimated Cost to Fix: $1,000 - $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Shock Absorber Mount Failure**
@@ -67,6 +80,19 @@ The 2008 Porsche Cayman is a mid-engine sports car that was available with three
     * Description/Symptoms: The headlight switch fails, causing the headlights to not work.
     * Solution: Replace the headlight switch.
     * Estimated Cost to Fix: $200 - $400+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -93,3 +119,15 @@ The 2008 Porsche Cayman is a mid-engine sports car that was available with three
 **Summary**
 
 The 2008 Porsche Cayman is a reliable and well-built sports car, but it is not without its issues. The most serious issues are the bore scoring in the 3.8-liter engine and the torque converter failure in the 5-speed Tiptronic S automatic transmission. These issues can be expensive to repair, so it is important to be aware of them before buying a Cayman. Overall, the Cayman is a great choice for drivers who want a fun and engaging sports car, but they should be prepared for the potential costs of repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -44,6 +44,19 @@ The 2009 Porsche Boxster is the fifth generation of Porsche's iconic mid-engine 
     * Estimated Cost to Fix: $2500 - $4000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Sway Bar End Link Failure:**
@@ -57,6 +70,19 @@ The 2009 Porsche Boxster is the fifth generation of Porsche's iconic mid-engine 
     * Description/Symptoms: Battery drain, flickering lights.
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $500 - $800
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -75,3 +101,15 @@ The 2009 Porsche Boxster is the fifth generation of Porsche's iconic mid-engine 
 **Summary:**
 
 The 2009 Porsche Boxster is a reliable and fun-to-drive sports car, but it does have some potential issues. The most common problems include the RMS leak, bore scoring, and mechatronic unit failure. These issues can be expensive to fix, but they are generally not major and can be addressed with proper maintenance. Overall, the Boxster is a well-made car that provides a great driving experience, but it is important to be aware of the potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

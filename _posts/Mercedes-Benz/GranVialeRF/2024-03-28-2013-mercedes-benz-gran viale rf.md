@@ -32,6 +32,19 @@ The 2013 Mercedes-Benz Gran Viale RF is a luxurious and stylish convertible that
         * Estimated Cost to Fix: $1,000 - $3,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -43,6 +56,19 @@ The 2013 Mercedes-Benz Gran Viale RF is a luxurious and stylish convertible that
         * Solution: Inspect and replace faulty components, such as the alternator or battery.
         * Estimated Cost to Fix: $200 - $1,000+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -63,3 +89,15 @@ The 2013 Mercedes-Benz Gran Viale RF is a luxurious and stylish convertible that
 **Summary**
 
 Overall, the 2013 Mercedes-Benz Gran Viale RF is a capable and luxurious vehicle. However, it has experienced some issues that can be costly to repair, particularly those related to the engine and transmission. Potential buyers should be aware of these issues and factor in the cost of potential repairs when considering the Gran Viale RF.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

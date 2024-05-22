@@ -92,3 +92,15 @@ The Passat was praised for its spacious interior, comfortable ride, and solid bu
 ## Summary
 
 The 1990 Volkswagen Passat is a reliable vehicle that is relatively affordable to own and operate. However, it is not without its problems. The most common issues include blown head gaskets, timing belt failures, oil leaks, transmission slipping, strut mount bearing failure, alternator failure, power window failure, and HVAC blower motor failure. The severity of these issues varies, but most are relatively inexpensive to fix. Overall, the Passat is a good choice for those looking for a used mid-size sedan that is comfortable and reliable.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

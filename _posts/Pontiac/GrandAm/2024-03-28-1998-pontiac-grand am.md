@@ -27,6 +27,19 @@ The 1998 Pontiac Grand Am is a compact sedan offered with a range of engine and 
     * **Clutch Problems:** Can lead to difficulty shifting or slipping. Requires clutch replacement. $500 - $800+
     * **Shifter Cable Malfunction:** Causes difficulty in shifting gears. Requires shifter cable replacement. $200 - $400+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Strut Failure:** Causes uneven tire wear, poor handling, and excessive noise. Requires replacement of struts and strut mounts. $400 - $800+
@@ -36,6 +49,19 @@ The 1998 Pontiac Grand Am is a compact sedan offered with a range of engine and 
 
 * **Faulty Ignition Module:** Causes engine stalling or difficulty starting. Requires replacement of ignition module. $200 - $300+
 * **Electrical Harness Issues:** Can lead to various electrical problems, including malfunctioning sensors and lights. Requires inspection and repair of wiring harness. $200 - $500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior:**
 
@@ -50,3 +76,15 @@ The 1998 Pontiac Grand Am is a compact sedan offered with a range of engine and 
 **Summary:**
 
 The 1998 Pontiac Grand Am has a range of mechanical and electrical issues that can impact its reliability. The cost of repairs can vary depending on the severity of the issue. Engine and transmission issues are the most expensive to fix, while interior and exterior issues are typically less costly. Potential buyers should be aware of these issues before purchasing a used Grand Am.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

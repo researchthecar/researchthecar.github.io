@@ -59,6 +59,19 @@ Drivers appreciate the Supra's sharp handling, comfortable cabin, and evocative 
     * Solution: Clutch replacement
     * Estimated Cost to Fix: $800 - $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear suspension noise:**
@@ -77,6 +90,19 @@ Drivers appreciate the Supra's sharp handling, comfortable cabin, and evocative 
     * Description/Symptoms: Touchscreen unresponsive, software glitches
     * Solution: Infotainment system update, hardware replacement
     * Estimated Cost to Fix: $200 - $1,500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -100,3 +126,15 @@ Drivers appreciate the Supra's sharp handling, comfortable cabin, and evocative 
 **Summary:**
 
 The 2022 Toyota GR Supra has a number of potential issues, ranging from minor annoyances to more serious mechanical problems. The most common issues involve the engine, transmission, and infotainment system. The severity of these issues and the associated repair costs can vary significantly. However, overall, the Supra is a well-engineered vehicle that provides a thrilling driving experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

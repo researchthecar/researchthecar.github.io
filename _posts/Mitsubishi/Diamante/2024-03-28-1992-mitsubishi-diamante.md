@@ -38,6 +38,19 @@ Critics praised the Diamante for its stylish design, comfortable interior, and s
     * Estimated Cost to Fix: $150 - $300
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure**
@@ -53,6 +66,19 @@ Critics praised the Diamante for its stylish design, comfortable interior, and s
     * Solution: Replace alternator
     * Estimated Cost to Fix: $300 - $500
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -78,3 +104,15 @@ Critics praised the Diamante for its stylish design, comfortable interior, and s
 **Summary**
 
 The 1992 Mitsubishi Diamante is a reliable and comfortable vehicle. However, it has some common issues that can be expensive to fix. The most severe issues are the intake manifold gasket failure and the timing belt failure, which can both lead to engine damage. The suspension and electrical systems can also be problematic, but these issues are generally less expensive to fix. Overall, the Diamante is a good choice for drivers who are looking for a stylish and comfortable sedan, but they should be aware of the potential issues before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

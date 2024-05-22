@@ -41,6 +41,19 @@ While the C63 AMG is a highly sought-after vehicle, it has encountered some issu
     * Estimated Cost to Fix: $1,500 - $2,500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Mount Failure:**
@@ -67,6 +80,19 @@ While the C63 AMG is a highly sought-after vehicle, it has encountered some issu
     * Estimated Cost to Fix: $800 - $1,500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 **No Issues Found**
@@ -87,3 +113,15 @@ While the C63 AMG is a highly sought-after vehicle, it has encountered some issu
 **Summary**
 
 While the 2011 Mercedes-Benz C63 AMG is a desirable performance sedan, it has been prone to some reliability issues, particularly with the engine, transmission, and suspension components. The severity of these issues can range from minor to major, and the cost to fix can be substantial. It is important to be aware of these potential problems before purchasing a C63 AMG, and to have regular maintenance and repairs performed to keep the vehicle running smoothly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

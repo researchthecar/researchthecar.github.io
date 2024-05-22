@@ -37,6 +37,19 @@ The 2001 Mitsubishi Diamante is a midsize luxury sedan that was available with t
     * Estimated Cost to Fix: $1,200-$1,800
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Strut Mount Failure**
     * Description/Symptoms: Clunking or rattling noise when driving over bumps, reduced handling, or uneven tire wear.
@@ -61,6 +74,19 @@ The 2001 Mitsubishi Diamante is a midsize luxury sedan that was available with t
     * Estimated Cost to Fix: Varies depending on the cause
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 * **Headlight Lens Hazing**
     * Description/Symptoms: Headlight lenses become hazy or cloudy, reducing light output.
@@ -82,3 +108,15 @@ The 2001 Mitsubishi Diamante is a midsize luxury sedan that was available with t
 
 **Summary**
 The 2001 Mitsubishi Diamante has several common issues, including those related to the engine, transmission, suspension, electrical system, and interior. The severity of these issues can range from minor inconveniences to more expensive and potentially dangerous failures. However, the Diamante also offers a comfortable and spacious interior, a smooth ride, and a reliable 3.5L V6 engine option.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

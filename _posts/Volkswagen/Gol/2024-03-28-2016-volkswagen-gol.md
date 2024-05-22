@@ -45,6 +45,19 @@ The 2016 Volkswagen Gol is a compact hatchback that offers a combination of affo
     * Estimated Cost to Fix: $300 - $1,200
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Noise**
@@ -73,6 +86,19 @@ The 2016 Volkswagen Gol is a compact hatchback that offers a combination of affo
     * Estimated Cost to Fix: $150 - $800
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Windshield Wipers Malfunctioning**
@@ -98,3 +124,15 @@ The 2016 Volkswagen Gol is a compact hatchback that offers a combination of affo
 **Summary**
 
 Overall, the 2016 Volkswagen Gol has several issues ranging from minor to moderate in severity. The most significant issues include excessive oil consumption, timing chain tensioner failure, and suspension noise. The estimated cost to fix these issues can range from $200 to over $5,000. However, it's important to note that not all Gol models will experience these problems, and the frequency and severity of issues can vary.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

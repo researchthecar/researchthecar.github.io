@@ -37,6 +37,19 @@ The 2021 Volkswagen GTI is a compact hatchback known for its performance-oriente
         * Estimated Cost to Fix: $1,500 - $2,500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front Suspension Squeaking:**
     * Description/Symptoms: Squeaking noise from front suspension when going over bumps
@@ -61,6 +74,19 @@ The 2021 Volkswagen GTI is a compact hatchback known for its performance-oriente
     * Estimated Cost to Fix: $100 - $800+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 * **Sunroof Noise:**
     * Description/Symptoms: Rattling or wind noise from sunroof
@@ -82,3 +108,15 @@ The 2021 Volkswagen GTI is a compact hatchback known for its performance-oriente
 
 **Summary:**
 The 2021 Volkswagen GTI is generally praised for its performance, handling, and premium interior, but it has experienced some issues. Notable concerns include timing chain issues, grinding gears in the manual transmission, and electrical shorts. While these issues can be costly in some cases, many are relatively minor and inexpensive to fix. Overall, the GTI remains a solid choice for those seeking a fun-to-drive hatchback, but potential buyers should be aware of these potential problems before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

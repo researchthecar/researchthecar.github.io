@@ -25,6 +25,19 @@ Owners generally praise the Forester for its spacious cabin, excellent fuel econ
 * **CVT:**
     * **Hesitation or slipping:** Symptoms include delayed acceleration, shuddering, or slipping gears. Solution: Update transmission software or replace transmission. Estimated Cost to Fix: $500 - $2,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut noise:** Symptoms include rattling or clunking noises from the suspension, especially over bumps. Solution: Replace struts or strut mounts. Estimated Cost to Fix: $500 - $1,000+
@@ -33,6 +46,19 @@ Owners generally praise the Forester for its spacious cabin, excellent fuel econ
 
 * **Battery drain:** Symptoms include slow or no starts, flickering headlights, or malfunctioning electronics. Solution: Inspect charging system components, check for electrical shorts, or replace battery. Estimated Cost to Fix: $200 - $1,000+
 * **Rearview camera failure:** Symptoms include a blank or distorted image on the rearview camera display. Solution: Replace rearview camera. Estimated Cost to Fix: $500 - $1,000+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -48,3 +74,15 @@ Owners generally praise the Forester for its spacious cabin, excellent fuel econ
 **Summary:**
 
 The 2018 Subaru Forester is a reliable vehicle overall, but it has been reported with several issues. Some of the more common and expensive issues include head gasket failure, valve train issues, and CVT problems. It's important for owners to be aware of these potential problems and be prepared for any necessary repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

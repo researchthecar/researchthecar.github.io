@@ -44,6 +44,19 @@ Owners of the Torrent have praised its comfortable ride, spacious interior, and 
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -70,6 +83,19 @@ Owners of the Torrent have praised its comfortable ride, spacious interior, and 
     * Estimated Cost to Fix: $400 - $600
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Tailgate Latch Failure:**
@@ -91,3 +117,15 @@ Owners of the Torrent have praised its comfortable ride, spacious interior, and 
 The 2006 Pontiac Torrent is a reliable SUV with a few potential issues. The most common engine problems are intake manifold gasket failure and timing chain tensioner failure. The most common transmission problem is transmission slippage. The most common suspension problems are strut mount failure and rear shock absorber failure. The most common electrical problems are battery drain and faulty alternator. The most common exterior problem is tailgate latch failure. The most common interior problem is dashboard rattle.
 
 Overall, the severity of the issues with the Torrent is moderate. The cost of repairs can be high, but there are some issues that can be fixed for a relatively low cost.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

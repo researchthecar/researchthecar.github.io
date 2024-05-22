@@ -32,6 +32,19 @@ The 2022 Mercedes-Benz GLA35 AMG is a high-performance crossover powered by a po
      * Estimated Cost to Fix: $100 - $200+
      * Recalls: NHTSA ID: 22V-364
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -48,6 +61,19 @@ The 2022 Mercedes-Benz GLA35 AMG is a high-performance crossover powered by a po
      * Solution: Inspect wiring harness, replace faulty components
      * Estimated Cost to Fix: $300 - $1,000+
      * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -69,3 +95,15 @@ The 2022 Mercedes-Benz GLA35 AMG is a high-performance crossover powered by a po
 **Summary:**
 
 The 2022 Mercedes-Benz GLA35 AMG is a high-performance crossover with a powerful engine and thrilling driving dynamics. However, it has several potential issues related to the engine, transmission, electrical system, and interior trim. The severity of these issues varies from minor inconveniences to more costly repairs. Potential buyers should be aware of these issues and consider the estimated repair costs before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

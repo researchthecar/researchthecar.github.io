@@ -36,6 +36,19 @@ While the Prius AWD-e has received praise for its fuel efficiency and reliabilit
     * Estimated Cost to Fix: $1,500 - $3,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Bearing Failure**
@@ -56,6 +69,19 @@ While the Prius AWD-e has received praise for its fuel efficiency and reliabilit
     * Solution: Replace the battery.
     * Estimated Cost to Fix: $100 - $200
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -81,3 +107,15 @@ While the Prius AWD-e has received praise for its fuel efficiency and reliabilit
 **Summary**
 
 The 2022 Toyota Prius AWD-e has been generally well-received for its fuel efficiency and reliability. However, like any vehicle, it is not without its potential issues. Some of the commonly reported problems include excessive engine oil consumption, timing belt tensioner failure, CVT hesitation, front strut mount bearing failure, headlight condensation, 12-volt battery failure, trim panel fading, infotainment system lag, and climate control malfunctions. While the severity and cost of these issues can vary, they are important to consider when making a purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

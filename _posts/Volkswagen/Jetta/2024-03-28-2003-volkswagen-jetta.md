@@ -41,6 +41,19 @@ The 2003 Volkswagen Jetta is a compact sedan known for its sporty handling, comf
     * Estimated Cost to Fix: $500 - $1,200+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Upper Control Arm Bushing Failure:** Worn or torn bushings can cause excessive noise, vibrations, and poor handling.
@@ -54,6 +67,19 @@ The 2003 Volkswagen Jetta is a compact sedan known for its sporty handling, comf
     * Solution: Replacing the power window motor.
     * Estimated Cost to Fix: $200 - $350+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -72,3 +98,15 @@ The 2003 Volkswagen Jetta is a compact sedan known for its sporty handling, comf
 **Summary**
 
 While the 2003 Volkswagen Jetta offers a comfortable and engaging driving experience, it has several potential issues that can be costly to repair. The timing chain tensioner failure on the 1.8T engine is the most severe and expensive problem to address, while other issues such as power window motor failure and blower motor failure are more minor but still impact the vehicle's usability. Overall, potential buyers should be aware of these common issues and factor the potential repair costs into their decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

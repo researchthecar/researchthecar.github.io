@@ -35,6 +35,19 @@ The 2009 Subaru Outback is a midsize crossover SUV known for its ruggedness, ver
         * Estimated Cost to Fix: $1,000 - $1,500
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front struts:** The front struts, which support the vehicle's front end, can fail prematurely, causing a rough ride and reduced handling.
@@ -48,6 +61,19 @@ The 2009 Subaru Outback is a midsize crossover SUV known for its ruggedness, ver
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $500 - $800
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -70,3 +96,15 @@ The 2009 Subaru Outback is a midsize crossover SUV known for its ruggedness, ver
 **Summary:**
 
 The 2009 Subaru Outback is a reliable vehicle overall, but it has some notable issues that can be costly to repair. Serious issues like head gasket failure and timing belt failure can lead to catastrophic engine damage, while transmission issues and suspension failures can impact driving safety. Electrical issues and interior problems are less severe but can still be annoying and require expensive repairs. Owners should be aware of these potential issues before buying and consider budgeting for maintenance and unexpected repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

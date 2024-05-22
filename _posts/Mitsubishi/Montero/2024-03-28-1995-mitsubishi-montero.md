@@ -17,6 +17,19 @@ The 1995 Mitsubishi Montero is a mid-size SUV known for its ruggedness and off-r
 
 * **4-Speed Automatic**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -40,6 +53,19 @@ Description/Symptoms: The battery drains quickly, even when the vehicle is parke
 Solution: Test the battery and charging system. Replace the battery or repair the charging system as necessary.
 Estimated Cost to Fix: $100 - $500+
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -66,3 +92,15 @@ Recalls: None Found
 **Summary**
 
 The 1995 Mitsubishi Montero is a reliable vehicle overall, with only a few common issues to be aware of. Electrical problems, such as alternator and starter failures, are the most prevalent. Rust can also be a concern, especially in areas with high humidity or salt exposure. Interior issues, such as power window and air conditioner failures, are less common but still worth considering. The cost of repairs can vary depending on the severity of the issue and the location of the repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

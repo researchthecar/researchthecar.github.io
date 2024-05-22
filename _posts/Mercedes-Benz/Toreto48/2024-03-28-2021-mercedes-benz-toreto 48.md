@@ -44,6 +44,19 @@ While the Toreto 48 has received positive reviews for its performance and comfor
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air suspension failure:**
@@ -59,6 +72,19 @@ While the Toreto 48 has received positive reviews for its performance and comfor
     * Solution: Diagnose and repair the cause of the battery drain
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -84,3 +110,15 @@ While the Toreto 48 has received positive reviews for its performance and comfor
 **Vehicle Summary**
 
 The 2021 Mercedes-Benz Toreto 48 offers a luxurious and comfortable driving experience, but it has been reported to have some issues with specific components. The severity of the issues ranges from minor inconveniences to more significant repairs. The cost to fix these issues can vary depending on the severity of the issue and the location of the repair. Overall, it is important for potential buyers to be aware of these issues before purchasing a 2021 Mercedes-Benz Toreto 48.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

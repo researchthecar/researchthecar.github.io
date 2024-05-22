@@ -39,6 +39,19 @@ The 2018 Mercedes-Benz Maybach S650 is the pinnacle of luxury and performance, b
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Compressor Failure:**
@@ -65,6 +78,19 @@ The 2018 Mercedes-Benz Maybach S650 is the pinnacle of luxury and performance, b
     * Estimated Cost to Fix: $200 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Chrome Trim Flaking:**
@@ -89,3 +115,15 @@ The 2018 Mercedes-Benz Maybach S650 is the pinnacle of luxury and performance, b
 **Summary:**
 
 While the 2018 Mercedes-Benz Maybach S650 is an exceptional vehicle, it has not been immune to certain issues. Some engine and transmission problems can be costly to repair, but electrical, exterior, and interior issues are generally less severe and affordable to fix. Overall, the severity and cost of the issues vary widely, and it's important for owners to consider proper maintenance and check for any potential recall campaigns to address these concerns.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

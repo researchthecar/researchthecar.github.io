@@ -28,11 +28,37 @@ The 2019 Mercedes-Benz GLE43 AMG is a mid-size luxury SUV with a powerful engine
         * **Estimated Cost to Fix:** $5,000 - $7,000+
     * **Recall:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **No Issues Found**
 
 **Electrical**
 * **No Issues Found**
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **No Issues Found**
@@ -46,3 +72,15 @@ The 2019 Mercedes-Benz GLE43 AMG is a mid-size luxury SUV with a powerful engine
 
 **Summary**
 The 2019 Mercedes-Benz GLE43 AMG is a great choice for families, but it has had some issues reported, particularly with the engine and transmission. The severity of these issues can vary, but the cost to fix them can be high. Before purchasing a GLE43 AMG, it is important to be aware of these issues and to factor the cost of potential repairs into your decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

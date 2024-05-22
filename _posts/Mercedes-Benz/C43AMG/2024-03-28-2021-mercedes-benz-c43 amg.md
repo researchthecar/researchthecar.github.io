@@ -32,6 +32,19 @@ The 2021 Mercedes-Benz C43 AMG is a mid-size luxury sedan with a 3.0-liter twin-
         * Estimated Cost to Fix: $100 - $500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Failure**
@@ -47,6 +60,19 @@ The 2021 Mercedes-Benz C43 AMG is a mid-size luxury sedan with a 3.0-liter twin-
         * Solution: Diagnosis and repair of the electrical component causing the drain
         * Estimated Cost to Fix: $500 - $1,500+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -67,3 +93,15 @@ The 2021 Mercedes-Benz C43 AMG is a mid-size luxury sedan with a 3.0-liter twin-
 **Summary:**
 
 The 2021 Mercedes-Benz C43 AMG is a high-performance luxury sedan with a powerful engine and a comfortable interior. However, it is not without its issues. The most common problems reported by owners include turbocharger failure, oil leaks, and suspension strut issues. The severity and cost of repairs vary, but some can be quite expensive.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

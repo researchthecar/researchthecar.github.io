@@ -42,6 +42,19 @@ The 1991 Volkswagen Corrado is a sleek and sporty coupe that was beloved by enth
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:** Worn or damaged strut mounts, causing excessive handling and noise issues.
@@ -64,6 +77,19 @@ The 1991 Volkswagen Corrado is a sleek and sporty coupe that was beloved by enth
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Sunroof Seal Failure:** Leaking sunroof seal allows water to enter the interior.
@@ -85,3 +111,15 @@ The 1991 Volkswagen Corrado is a sleek and sporty coupe that was beloved by enth
 **Summary:**
 
 The 1991 Volkswagen Corrado is a fun and stylish coupe that suffers from some reliability issues. The engine and transmission are known to have a number of potential problems, and the electrical system can also be a source of headaches. However, the suspension and interior are generally reliable. The severity of the issues varies, and the cost to fix them can be substantial. Overall, the Corrado is a good choice for enthusiasts who are willing to put in some extra work to keep it running.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

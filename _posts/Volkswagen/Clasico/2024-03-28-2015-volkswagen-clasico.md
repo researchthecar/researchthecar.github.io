@@ -59,6 +59,19 @@ The 2015 Volkswagen Clasico is a mid-size sedan available with several engine an
     * **Estimated Cost to Fix:** $2,500 - $3,500+
     * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mounts**
@@ -87,6 +100,19 @@ The 2015 Volkswagen Clasico is a mid-size sedan available with several engine an
     * **Estimated Cost to Fix:** $500 - $1,000
     * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Sunroof Leak**
@@ -106,3 +132,15 @@ The 2015 Volkswagen Clasico is a mid-size sedan available with several engine an
 **Summary**
 
 The 2015 Volkswagen Clasico has various issues across different categories, ranging from minor annoyances to potentially severe and expensive problems. The most significant issues include timing chain tensioner failure, mechatronic unit failure, and oil filter housing leak. However, it's important to note that not all issues are likely to affect every Clasico. The overall severity and cost of these issues vary depending on the specific problem and the extent of the damage.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

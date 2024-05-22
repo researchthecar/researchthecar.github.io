@@ -42,6 +42,19 @@ tags: ["Mitsubishi", "Diamante", "2002"]
     * Solution: Repair or replace the transmission.
     * Estimated Cost to Fix: $1,500 - $3,000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Bearing Failure:**
@@ -60,6 +73,19 @@ tags: ["Mitsubishi", "Diamante", "2002"]
     * Description/Symptoms: Difficulty starting the engine, clicking sound.
     * Solution: Replace the starter solenoid.
     * Estimated Cost to Fix: $100 - $250
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -86,3 +112,15 @@ tags: ["Mitsubishi", "Diamante", "2002"]
     * Estimated Cost to Fix: $200 - $400
 
 **Summary:** The 2002 Mitsubishi Diamante has some potential issues that can range in severity and cost. Engine and transmission issues can be costly to repair, while suspension and electrical issues tend to be less expensive. Regular maintenance and preventative repairs can help mitigate some of these problems and extend the lifespan of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

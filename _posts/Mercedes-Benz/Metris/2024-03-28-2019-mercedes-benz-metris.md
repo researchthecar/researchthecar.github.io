@@ -49,6 +49,19 @@ The 2019 Mercedes-Benz Metris is a commercial van that offers versatility and fu
         * Estimated Cost to Fix: $300 - $500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Struts**
@@ -80,6 +93,19 @@ The 2019 Mercedes-Benz Metris is a commercial van that offers versatility and fu
         * Estimated Cost to Fix: $400 - $600+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Tail Light Assembly Malfunction**
@@ -108,3 +134,15 @@ The 2019 Mercedes-Benz Metris is a commercial van that offers versatility and fu
 **Summary**
 
 The 2019 Mercedes-Benz Metris has several potential issues that owners should be aware of. While some issues, such as intake manifold gasket failure and carbon buildup, can be relatively minor and inexpensive to fix, others like transmission fluid leaks and alternator failure can be more serious. Overall, the severity of these issues varies, and the cost to fix them can range from a few hundred dollars to over a thousand. However, with proper maintenance and repairs, the Metris can provide reliable service.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

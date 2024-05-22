@@ -22,6 +22,19 @@ The 2022 Subaru Impreza is a compact sedan and hatchback offered with a 2.0L nat
 * **Premature Wear and Tear:** Occurs with high mileage or aggressive driving; symptoms include slipping, shuddering, and difficulty shifting; requires CVT replacement; $3,000 - $5,000+
 * **Software Glitches:** May cause erratic shifting or transmission check light illumination; resolved through software updates; $0 (covered under warranty)
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Noise:** Occurs on vehicles with high mileage or driven on rough roads; characterized by clunking or rattling noises from the suspension; requires strut mount replacement; $500 - $1,000
@@ -31,6 +44,19 @@ The 2022 Subaru Impreza is a compact sedan and hatchback offered with a 2.0L nat
 
 * **Battery Drain:** Can occur due to faulty electronics or parasitic draw; symptoms include difficulty starting or a dead battery; requires electrical system diagnosis and repair; $100 - $500
 * **Infotainment System Glitches:** May experience software bugs, screen freezing, or connectivity issues; resolved through software updates; $0 (covered under warranty)
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -44,3 +70,15 @@ The 2022 Subaru Impreza is a compact sedan and hatchback offered with a 2.0L nat
 **Summary:**
 
 Overall, the 2022 Subaru Impreza is a reliable and practical vehicle with few significant issues. The reported transmission problems and suspension noise can be costly to repair, but they are not widespread. Most other issues are relatively minor and can be addressed at reasonable costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

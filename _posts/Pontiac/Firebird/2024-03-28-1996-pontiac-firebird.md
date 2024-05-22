@@ -30,6 +30,19 @@ The 1996 Pontiac Firebird, a popular muscle car, is renowned for its sleek desig
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Bushing Failure:** The rubber bushings in the rear suspension can wear out or crack, leading to a rough ride and handling problems. Symptoms include clunking noises from the rear, unstable handling, and uneven tire wear. Solution: Replacing the worn or cracked bushings is necessary. Estimated Cost to Fix: $200 - $500
@@ -38,6 +51,19 @@ The 1996 Pontiac Firebird, a popular muscle car, is renowned for its sleek desig
 **Electrical**
 
 * **Alternator Failure:** The alternator can fail due to age or electrical issues, causing charging problems. Symptoms include dim headlights, battery drain, and difficulty starting. Solution: Replacing the failed alternator is necessary. Estimated Cost to Fix: $300 - $600
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -51,3 +77,15 @@ The 1996 Pontiac Firebird, a popular muscle car, is renowned for its sleek desig
 **Summary:**
 
 The 1996 Pontiac Firebird generally has a good reliability rating, but it is not immune to some common issues. The most notable problems are related to the engine, transmission, and suspension components. While the severity of the issues varies, they may require repairs that can incur moderate to high costs. It's important for owners to keep up with regular maintenance and address any issues promptly to minimize their impact and ensure optimal performance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

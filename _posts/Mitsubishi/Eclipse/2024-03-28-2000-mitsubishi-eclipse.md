@@ -41,6 +41,19 @@ The 2000 Mitsubishi Eclipse is a sporty coupe that comes with a variety of engin
         * Estimated Cost to Fix: $300 - $500
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front Struts Wear Out**
     * Description/Symptoms: The front struts become worn and cause the car to ride rough and handle poorly.
@@ -64,6 +77,19 @@ The 2000 Mitsubishi Eclipse is a sporty coupe that comes with a variety of engin
     * Solution: Replace the starter solenoid.
     * Estimated Cost to Fix: $200 - $400
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **Headlight Condensation**
@@ -91,3 +117,15 @@ The 2000 Mitsubishi Eclipse is a sporty coupe that comes with a variety of engin
 
 **Summary:**
 The 2000 Mitsubishi Eclipse has some common issues that can be costly to repair. The most severe problems include valve spring failure, alternator failure, and transmission slipping. However, many of these issues can be prevented with proper maintenance and repairs. Overall, the Eclipse is a reliable car that offers a sporty and fun driving experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

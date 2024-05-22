@@ -39,6 +39,19 @@ People like the Forester for its versatility, affordability, and all-wheel drive
    * Estimated Cost to Fix: $2,500 - $4,000+
    * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut failure**
@@ -60,6 +73,19 @@ People like the Forester for its versatility, affordability, and all-wheel drive
    * Solution: Test battery and charging system, replace battery if necessary
    * Estimated Cost to Fix: $100 - $200+
    * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -85,3 +111,15 @@ People like the Forester for its versatility, affordability, and all-wheel drive
 
 **(Summary)**
 The 2004 Subaru Forester is a reliable vehicle, but it has some known issues that should be considered before purchasing one. Engine issues, such as head gasket failure and turbocharger failure, can be expensive to repair. Transmission problems can also be costly. However, many of the other issues, such as suspension and electrical issues, are relatively minor and inexpensive to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -41,6 +41,19 @@ The 2008 Volkswagen Beetle is a compact retro-styled hatchback that pays homage 
 - **Five-Speed Manual**
   - **No Major Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Strut Mount Bearing Failure**
     - Description/Symptoms: Squeaking or clunking noise when turning or going over bumps
@@ -65,6 +78,19 @@ The 2008 Volkswagen Beetle is a compact retro-styled hatchback that pays homage 
     - Estimated Cost to Fix: $100 - $500+
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 - **Fog Light Condensation**
     - Description/Symptoms: Moisture buildup inside fog lights
@@ -86,3 +112,15 @@ The 2008 Volkswagen Beetle is a compact retro-styled hatchback that pays homage 
 
 **Summary**
 The 2008 Volkswagen Beetle has some common issues, particularly with the intake valves and transmission. Overall, the cost of these issues can range from minor to expensive. While the Beetle is a popular car with a loyal following, its reliability concerns should be considered before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

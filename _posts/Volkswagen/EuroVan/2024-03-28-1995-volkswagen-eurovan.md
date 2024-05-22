@@ -35,6 +35,19 @@ The 1995 Volkswagen EuroVan was a popular minivan that offered spacious seating 
 
 * **No issues found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** The struts can fail, causing the vehicle to ride rough and handle poorly. Symptoms include excessive bouncing, reduced handling, and a rattling noise. The solution is to replace the struts. Estimated Cost to Fix: $400 - $800+
@@ -43,6 +56,19 @@ The 1995 Volkswagen EuroVan was a popular minivan that offered spacious seating 
 **Electrical**
 
 * **Electrical problems:** The EuroVan is known for developing a variety of electrical problems, such as flickering lights, dead batteries, and inoperative gauges. Symptoms can vary depending on the specific issue. The solution may involve repairing or replacing faulty electrical components, such as wiring, switches, or relays. Estimated Cost to Fix: $100 - $500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -56,3 +82,15 @@ The 1995 Volkswagen EuroVan was a popular minivan that offered spacious seating 
 **Summary**
 
 The 1995 Volkswagen EuroVan was a popular minivan with a variety of engine and transmission options. While it offered spacious seating and ample cargo space, it was also known for developing a range of issues, including engine leaks, transmission problems, and electrical issues. The severity and cost of these issues can vary depending on the specific problem and the vehicle's mileage and maintenance history.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

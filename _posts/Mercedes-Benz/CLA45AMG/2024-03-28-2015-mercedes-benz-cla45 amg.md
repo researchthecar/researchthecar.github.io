@@ -32,6 +32,19 @@ The 2015 Mercedes-Benz CLA45 AMG is a high-performance compact sedan powered by 
         * Solution: Replace clutch assembly
         * Estimated Cost to Fix: $1,500 - $3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -46,6 +59,19 @@ The 2015 Mercedes-Benz CLA45 AMG is a high-performance compact sedan powered by 
         * Description/Symptoms: Touchscreen freezing, audio system malfunctioning, or navigation issues
         * Solution: Update software or replace infotainment unit
         * Estimated Cost to Fix: $500 - $2,000+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -73,3 +99,15 @@ The 2015 Mercedes-Benz CLA45 AMG is a high-performance compact sedan powered by 
 **Summary**
 
 The 2015 Mercedes-Benz CLA45 AMG is a performance-oriented vehicle that offers a thrilling driving experience. However, it has been known to have some reliability issues, including engine misfires, turbocharger failure, transmission problems, and electrical glitches. Some of these issues can be costly to repair, so it's important for potential buyers to be aware of them before purchasing a CLA45 AMG.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

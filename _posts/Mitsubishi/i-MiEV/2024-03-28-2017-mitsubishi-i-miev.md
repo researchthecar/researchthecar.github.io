@@ -14,6 +14,19 @@ The 2017 Mitsubishi i-MiEV is an all-electric subcompact hatchback. It features 
 **Transmission**
 * **None Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **None Found**
 
@@ -29,6 +42,19 @@ The 2017 Mitsubishi i-MiEV is an all-electric subcompact hatchback. It features 
     * Solution: Diagnose and repair or replace faulty electrical components, wiring, or the battery.
     * Estimated Cost to Fix: $100 - $500+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **Windshield Wiper Motor Failure**
@@ -51,3 +77,15 @@ The 2017 Mitsubishi i-MiEV is an all-electric subcompact hatchback. It features 
 
 **Summary:**
 The 2017 Mitsubishi i-MiEV has a limited number of reported issues. The most common concerns are electrical problems, particularly battery issues, and electrical system failures. Other issues include windshield wiper motor failure, climate control malfunctions, and door lock malfunctions. The severity and cost of the repairs vary depending on the specific issue encountered. Overall, the i-MiEV is a reliable vehicle with affordable repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

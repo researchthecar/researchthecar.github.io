@@ -44,6 +44,19 @@ Owners appreciate the Lancer's sporty styling, spacious interior, and affordable
   * Estimated Cost to Fix: $4,000 - $6,000+
   * Recalls: NHTSA Campaign Number: 16E002000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Lower Control Arm Bushing Failure:** Lower control arm bushings can become excessively worn, causing a clunking noise and affecting handling.
@@ -62,6 +75,19 @@ Owners appreciate the Lancer's sporty styling, spacious interior, and affordable
   * Solution: Replace the alternator
   * Estimated Cost to Fix: $500 - $800
   * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -90,3 +116,15 @@ Owners appreciate the Lancer's sporty styling, spacious interior, and affordable
 **Summary**
 
 The 2010 Mitsubishi Lancer is a reliable and affordable option for those seeking a compact sedan. However, like most vehicles, it has experienced some issues over the years. Engine issues, such as excessive oil consumption and timing chain tensioner failure, are among the most significant concerns. The CVT transmission has also had issues with premature wear and failure. While the Lancer has had its share of problems, the severity and cost of these issues vary, and many Lancers have proven to be reliable daily drivers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -41,6 +41,19 @@ The 2020 Nissan Frontier is a midsize pickup truck offered with two engine optio
     * Estimated Cost to Fix: $500 - $1,200
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf Spring Squeaking:**
@@ -56,6 +69,19 @@ The 2020 Nissan Frontier is a midsize pickup truck offered with two engine optio
     * Solution: The problem can be traced to a faulty electrical component or a parasitic drain. Diagnosis and repairs vary depending on the specific issue.
     * Estimated Cost to Fix: $200 - $700+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -76,3 +102,15 @@ The 2020 Nissan Frontier is a midsize pickup truck offered with two engine optio
 **Summary:**
 
 Overall, the 2020 Nissan Frontier has received positive reviews for its ruggedness and reliability, but it falls short in terms of modern features, fuel efficiency, and interior refinement. The severity and cost of the issues mentioned above vary, but they can range from minor inconveniences to more significant expenses that may impact the vehicle's overall reliability. Potential buyers should be aware of these issues and consider the cost of potential repairs before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

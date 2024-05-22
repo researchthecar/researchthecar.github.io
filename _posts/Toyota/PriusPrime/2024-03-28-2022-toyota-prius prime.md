@@ -33,6 +33,19 @@ The 2022 Toyota Prius Prime is a plug-in hybrid electric vehicle that combines a
         * Estimated Cost to Fix: $100 - $300
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Struts:** Noise or clunking when driving over bumps.
@@ -55,6 +68,19 @@ The 2022 Toyota Prius Prime is a plug-in hybrid electric vehicle that combines a
     * Estimated Cost to Fix: $100 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Antenna Issues:** Signal reception problems or antenna breakage.
@@ -76,3 +102,15 @@ The 2022 Toyota Prius Prime is a plug-in hybrid electric vehicle that combines a
 **Summary**
 
 The 2022 Toyota Prius Prime is generally a reliable vehicle, but it has experienced some issues. The most common problems include engine misfiring, shifting issues, and electrical system malfunctions. These issues can range from minor inconveniences to costly repairs. However, overall, the Prius Prime remains a fuel-efficient and dependable choice for eco-conscious consumers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

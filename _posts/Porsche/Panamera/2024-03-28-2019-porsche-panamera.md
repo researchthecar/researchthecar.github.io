@@ -54,6 +54,19 @@ The Panamera is praised for its impressive handling, powerful engines, and luxur
   * Estimated Cost to Fix: $1,000 - $2,000
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Air Suspension Failure**
@@ -75,6 +88,19 @@ The Panamera is praised for its impressive handling, powerful engines, and luxur
   * Estimated Cost to Fix: $500 - $800
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Panoramic Roof Leakage**
@@ -94,3 +120,15 @@ The Panamera is praised for its impressive handling, powerful engines, and luxur
 **Summary**
 
 Overall, the 2019 Porsche Panamera is a reliable and well-built vehicle. However, like any car, it can experience certain issues, especially as it ages or with high mileage. The most common issues seem to be related to the engine (coolant and oil leaks), transmission (shifting issues), and electrical system (battery drain). The severity and cost of these repairs can vary depending on the specific issue and the extent of the damage.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

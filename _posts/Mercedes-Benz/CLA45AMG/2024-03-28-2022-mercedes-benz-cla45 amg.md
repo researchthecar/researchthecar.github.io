@@ -27,6 +27,19 @@ The 2022 Mercedes-Benz CLA45 AMG is a high-performance compact sedan that delive
     - Estimated Cost to Fix: $2,500 - $4,000+
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **No Issues Found**
@@ -43,6 +56,19 @@ The 2022 Mercedes-Benz CLA45 AMG is a high-performance compact sedan that delive
     - Solution: Replacement of the affected sensors
     - Estimated Cost to Fix: $200 - $400+ per sensor
     - Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -68,3 +94,15 @@ The 2022 Mercedes-Benz CLA45 AMG is a high-performance compact sedan that delive
 **Summary**
 
 While the 2022 Mercedes-Benz CLA45 AMG offers an exhilarating driving experience and premium features, it has had some reported issues. The most significant problem seems to be the clutch pack failure in the transmission, which can be costly to repair. The other issues are generally minor and can be addressed relatively inexpensively. Overall, the severity and cost of the issues vary, and the vehicle's reliability may depend on individual driving habits and maintenance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

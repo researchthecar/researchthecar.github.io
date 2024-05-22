@@ -47,6 +47,19 @@ Owners generally praise the Panamera for its exceptional performance, handling, 
     * Estimated Cost to Fix: $1,200 - $1,800+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Air Suspension Failure:**
@@ -62,6 +75,19 @@ Owners generally praise the Panamera for its exceptional performance, handling, 
     * Solution: Replace PCM
     * Estimated Cost to Fix: $1,800 - $2,500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -82,3 +108,15 @@ Owners generally praise the Panamera for its exceptional performance, handling, 
 **Summary:**
 
 The 2014 Porsche Panamera is a highly regarded performance sedan known for its exceptional driving dynamics and luxurious interior. However, like any vehicle, it has its share of potential issues. While some of the problems, such as bumper defects and fuel door actuator failures, are relatively minor, others like engine problems and electrical issues can be costly to repair. Overall, the Panamera remains an impressive vehicle but requires careful consideration of its potential maintenance costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -45,6 +45,19 @@ The 1992 Plymouth Sundance is a compact car manufactured by Chrysler. It was ava
    - Estimated Cost to Fix: $1,200 - $1,800+
    - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Strut Mount Failure:**
@@ -73,6 +86,19 @@ The 1992 Plymouth Sundance is a compact car manufactured by Chrysler. It was ava
    - Estimated Cost to Fix: $100 - $200
    - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 - **Door Lock Actuator Failure:**
@@ -97,3 +123,15 @@ The 1992 Plymouth Sundance is a compact car manufactured by Chrysler. It was ava
 
 **Summary:**
 The 1992 Plymouth Sundance has a range of issues that range in severity and cost. Some of the more common and severe issues include engine knock, head gasket failure, and transmission slippage. These issues can be expensive to repair, with costs ranging from $500 to over $1,800. However, there are also less severe and less costly issues, such as door lock actuator failure and power window switch failure. Overall, the Sundance has a moderate reliability rating, with some major issues to be aware of before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

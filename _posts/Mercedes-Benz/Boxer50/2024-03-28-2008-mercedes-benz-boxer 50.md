@@ -31,6 +31,19 @@ The 2008 Mercedes-Benz Boxer 50 is a high-performance SUV powered by a 5.0-liter
     * Estimated Cost to Fix: $500 - $2500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Failure**
@@ -59,6 +72,19 @@ The 2008 Mercedes-Benz Boxer 50 is a high-performance SUV powered by a 5.0-liter
     * Estimated Cost to Fix: $200 - $1500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Headlight Condensation**
@@ -84,3 +110,15 @@ The 2008 Mercedes-Benz Boxer 50 is a high-performance SUV powered by a 5.0-liter
 **Summary**
 
 The 2008 Mercedes-Benz Boxer 50 has faced a range of issues, including engine misfires, oil leaks, transmission slippage, suspension problems, electrical shorts, and interior trim issues. The severity of these issues varies, and the cost of repairs can be significant. While the Boxer 50 offers impressive performance and luxury, potential owners should be aware of the potential issues before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -37,6 +37,19 @@ Owners praise the Gol for its fuel efficiency, affordability, and practicality. 
         * Estimated Cost to Fix: $800 - $1,500+
         * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension:**
@@ -62,6 +75,19 @@ Owners praise the Gol for its fuel efficiency, affordability, and practicality. 
         * Solution: Inspect and repair damaged wiring
         * Estimated Cost to Fix: $200 - $800+
         * Recalls: N/A
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -96,3 +122,15 @@ Owners praise the Gol for its fuel efficiency, affordability, and practicality. 
 **Summary:**
 
 The 2017 Volkswagen Gol is a generally reliable vehicle, but some owners have encountered issues with its powertrain, suspension, and electrical systems. The severity of these issues varies, with some being relatively minor and inexpensive to fix, while others can be more serious and costly. Overall, the Gol is a practical and fuel-efficient option, but potential buyers should be aware of the potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

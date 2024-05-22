@@ -52,6 +52,19 @@ The 2021 Volkswagen Virtus is a compact sedan that offers a blend of style, prac
     * Estimated Cost to Fix: $100 - $500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure:**
@@ -77,6 +90,19 @@ The 2021 Volkswagen Virtus is a compact sedan that offers a blend of style, prac
     * Solution: Identify and repair the source of the short circuit.
     * Estimated Cost to Fix: $200 - $1,000+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -107,3 +133,15 @@ The 2021 Volkswagen Virtus is a compact sedan that offers a blend of style, prac
 **Summary**
 
 Overall, the reported issues with the 2021 Volkswagen Virtus are generally minor and can be resolved at a reasonable cost. However, some issues, such as excessive oil consumption and turbocharger failure, can be more severe and expensive to fix. It's important to note that these issues are not common across the entire Virtus lineup and may only affect a small number of vehicles.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -29,6 +29,19 @@ The 2008 Mercedes-Benz S65 AMG is a high-performance luxury sedan powered by a m
         * Estimated Cost to Fix: $2,500 - $4,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Leaks:** The air suspension system can develop leaks, causing the vehicle to sag and lose ride quality.
@@ -47,6 +60,19 @@ The 2008 Mercedes-Benz S65 AMG is a high-performance luxury sedan powered by a m
         * Estimated Cost to Fix: $200 - $500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Sunroof Problems:** The sunroof can malfunction, leading to leaks, wind noise, or electrical issues.
@@ -64,3 +90,15 @@ The 2008 Mercedes-Benz S65 AMG is a high-performance luxury sedan powered by a m
 **Summary**
 
 While the 2008 Mercedes-Benz S65 AMG offers impressive performance and luxury, it is not immune to a range of issues. The V12 engine is prone to serious problems like cylinder head cracking and intake manifold failure, while the transmission and suspension can also experience costly repairs. Electrical problems, exterior leaks, and interior malfunctions add to the list of potential concerns for owners. Overall, the S65 AMG can be an expensive vehicle to maintain and repair, with some issues costing thousands of dollars to address.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

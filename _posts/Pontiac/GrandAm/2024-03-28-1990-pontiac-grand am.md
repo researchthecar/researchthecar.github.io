@@ -68,6 +68,19 @@ The 1990 Pontiac Grand Am is a compact coupe and sedan that offers a balance of 
     * Estimated Cost to Fix: $400 - $600
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure:**
@@ -88,6 +101,19 @@ The 1990 Pontiac Grand Am is a compact coupe and sedan that offers a balance of 
     * Solution: Replace the battery
     * Estimated Cost to Fix: $100 - $200
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -113,3 +139,15 @@ The 1990 Pontiac Grand Am is a compact coupe and sedan that offers a balance of 
 **Summary:**
 
 The 1990 Pontiac Grand Am has several notable issues, particularly with the engine, transmission, and suspension. These issues can be costly to fix, especially the cylinder head warping and transmission problems. However, the vehicle also has its strengths, such as sporty handling, stylish design, and comfortable interior. Overall, the Grand Am is a reliable and affordable option, but it is important to be aware of its potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

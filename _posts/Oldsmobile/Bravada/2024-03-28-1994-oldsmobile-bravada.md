@@ -34,6 +34,19 @@ The 1994 Oldsmobile Bravada was a mid-size SUV powered by a 4.3L V6 engine. It w
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Lower Ball Joint Failure**
@@ -59,6 +72,19 @@ The 1994 Oldsmobile Bravada was a mid-size SUV powered by a 4.3L V6 engine. It w
     * Solution: Repair or replace the damaged wiring harness
     * Estimated Cost to Fix: $400 - $800+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -89,3 +115,15 @@ The 1994 Oldsmobile Bravada was a mid-size SUV powered by a 4.3L V6 engine. It w
 **Summary:**
 
 The 1994 Oldsmobile Bravada had a range of issues, including engine, transmission, suspension, electrical, exterior, and interior problems. These issues could vary in severity and repair cost, with some being minor and others requiring more extensive repairs. Owners have reported concerns with intake manifold gasket failure, cylinder head gasket failure, transmission slipping, suspension component failures, electrical wiring issues, and interior problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -113,3 +113,15 @@ The Derby is praised for its affordability, fuel efficiency, and spacious interi
 ## Summary
 
 The 1996 Volkswagen Derby is a budget-friendly compact sedan that offers decent fuel economy and a spacious interior. However, it suffers from numerous issues that can be costly to repair, including engine leaks, timing belt failures, transmission slipping, and electrical problems. While some of these issues are minor and inexpensive to fix, others can be more severe and require significant investment. Overall, the Derby's reliability is below average, and potential buyers should be aware of the potential issues they may encounter before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

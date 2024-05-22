@@ -26,6 +26,19 @@ The 2020 Mercedes-Benz Gran Viale LE is a luxury sedan powered by a turbocharged
         * Estimated Cost to Fix: $1,500 - $3,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **No Issues Found**
@@ -37,6 +50,19 @@ The 2020 Mercedes-Benz Gran Viale LE is a luxury sedan powered by a turbocharged
     * Solution: Diagnose the electrical system to identify the cause of the drain and repair or replace the faulty component.
     * Estimated Cost to Fix: $300 - $800+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior:**
 
@@ -53,3 +79,15 @@ The 2020 Mercedes-Benz Gran Viale LE is a luxury sedan powered by a turbocharged
 **Summary:**
 
 Overall, the 2020 Mercedes-Benz Gran Viale LE has received some reports of issues, including oil leaks, transmission slipping, battery drain, and panoramic sunroof wind noise. The severity and cost of these issues can vary depending on the individual vehicle and the extent of the problem. It is essential to have any issues addressed by a qualified mechanic to ensure the optimal performance and reliability of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

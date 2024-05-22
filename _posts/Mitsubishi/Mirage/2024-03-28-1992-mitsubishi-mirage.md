@@ -33,6 +33,19 @@ Recalls: None Found
 * **Slipping Transmission:** Transmission clutch bands wear out, causing the transmission to slip and lose power. Symptoms include poor acceleration, delayed shifts, and shuddering when shifting. Requires rebuilding or replacing the transmission. Estimated Cost to Fix: $1,500 - $2,500+
 Recalls: 16V138000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure:** Front struts fail, causing the vehicle to bounce excessively and handle poorly. Symptoms include a rough ride, poor handling, and unusual noises from the front suspension. Requires replacement of the struts and associated components. Estimated Cost to Fix: $600 - $1,000+
@@ -43,6 +56,19 @@ Recalls: 16V062000
 * **Alternator Failure:** Alternator fails, causing the battery to discharge and the vehicle to lose power. Symptoms include dim headlights, electrical malfunctions, and a battery warning light. Requires replacement of the alternator. Estimated Cost to Fix: $500 - $800+
 Recalls: None Found
 * **Battery Drain:** Parasite drain on the electrical system causes the battery to discharge even when the vehicle is turned off. Symptoms include dead battery and dim headlights. Requires diagnosis and repair of the source of the drain. Estimated Cost to Fix: $200 - $500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -56,3 +82,15 @@ Recalls: None Found
 **Summary:**
 
 Overall, the 1992 Mitsubishi Mirage is a reliable and affordable vehicle, but it is not without its issues. The engine and transmission can have serious and expensive problems, while the suspension, electrical, and interior components can be prone to failure. These issues can add up to significant repair costs over time, especially if not addressed promptly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

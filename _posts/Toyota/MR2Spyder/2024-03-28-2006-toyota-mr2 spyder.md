@@ -34,6 +34,19 @@ The 2006 Toyota MR2 Spyder is a compact, mid-engine sports car that delivers an 
         * Estimated Cost to Fix: $2,000 - $3,500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
     * **Rear Suspension Squeak:**
@@ -54,6 +67,19 @@ The 2006 Toyota MR2 Spyder is a compact, mid-engine sports car that delivers an 
         * Solution: Replace the alternator
         * Estimated Cost to Fix: $500 - $800+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -79,3 +105,15 @@ The 2006 Toyota MR2 Spyder is a compact, mid-engine sports car that delivers an 
 **Summary:**
 
 Overall, the 2006 Toyota MR2 Spyder is a reliable and engaging sports car. However, it is not immune to certain issues that can affect its performance and ownership experience. The most common issues with the MR2 Spyder involve the engine, suspension, and electrical system. While some of these repairs can be relatively costly, they are generally necessary to maintain the vehicle's safety and performance. It is important for potential owners to be aware of these potential issues before purchasing an MR2 Spyder to make an informed decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

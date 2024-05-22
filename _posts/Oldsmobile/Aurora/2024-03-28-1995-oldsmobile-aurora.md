@@ -43,6 +43,19 @@ The 1995 Oldsmobile Aurora is a luxury sedan known for its sleek design and powe
     - Solution: Replace clutch
     - Estimated Cost to Fix: $500 - $800+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Front suspension bushings failure**
   - Description/Symptoms: Clunking or knocking noises, uneven tire wear
@@ -62,6 +75,19 @@ The 1995 Oldsmobile Aurora is a luxury sedan known for its sleek design and powe
   - Description/Symptoms: Dimming headlights, flickering dashboard lights
   - Solution: Replace alternator
   - Estimated Cost to Fix: $500 - $800+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 - **Door handle breakage**
@@ -86,3 +112,15 @@ The 1995 Oldsmobile Aurora is a luxury sedan known for its sleek design and powe
 
 **Summary**
 The 1995 Oldsmobile Aurora is a stylish and powerful sedan, but it has its share of issues. Engine problems, such as oil leaks and intake manifold gasket failure, can be expensive to repair. Transmission problems can also be costly, especially if the transmission needs to be overhauled or replaced. Suspension and electrical issues are less severe and generally cheaper to fix. Interior problems, such as dashboard cracking and climate control failure, can also be annoying and costly to repair. Overall, the 1995 Oldsmobile Aurora has a moderate level of reliability with varying repair costs depending on the severity of the issue.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

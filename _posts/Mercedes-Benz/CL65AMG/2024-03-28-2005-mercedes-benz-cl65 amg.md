@@ -39,6 +39,19 @@ The 2005 Mercedes-Benz CL65 AMG is a high-performance coupe powered by a twin-tu
     * **Estimated Cost to Fix:** $2,500 - $5,000+
     * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension System**
@@ -63,6 +76,19 @@ The 2005 Mercedes-Benz CL65 AMG is a high-performance coupe powered by a twin-tu
     * **Estimated Cost to Fix:** $200 - $500+
     * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Door Handles**
@@ -84,3 +110,15 @@ The 2005 Mercedes-Benz CL65 AMG is a high-performance coupe powered by a twin-tu
 **Summary**
 
 While the 2005 Mercedes-Benz CL65 AMG is an impressive vehicle, it has shown a propensity for issues with certain components. These issues range in severity from minor inconveniences to costly repairs. Buyers should be aware of these potential problems before making a purchase decision, as they may require significant financial investment to resolve.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

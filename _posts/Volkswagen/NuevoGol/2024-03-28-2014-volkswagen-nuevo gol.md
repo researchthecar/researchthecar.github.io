@@ -49,6 +49,19 @@ This vehicle is praised for its affordability, fuel efficiency, and agile handli
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure**
@@ -69,6 +82,19 @@ This vehicle is praised for its affordability, fuel efficiency, and agile handli
     * Solution: Replace alternator
     * Estimated Cost to Fix: $400 - $600+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -96,3 +122,15 @@ This vehicle is praised for its affordability, fuel efficiency, and agile handli
 The 2014 Volkswagen Nuevo Gol has a range of issues, some of which may be more severe and costly to repair than others. The engine has concerns with intake manifold valve sticking and timing chain tensioner failure. The transmission may experience gear grinding (manual) or slipping (automatic). Suspension issues include failed strut mounts. Electrical problems include battery drain and alternator failure. The exterior has issues with taillight bulbs burning out. Interior concerns include door lock malfunctions and flickering dashboard lights.
 
 Overall, the vehicle's issues are not overly severe and fall within the average range of problems for a subcompact hatchback. Maintenance and repair costs may vary depending on the specific issue and the location of the mechanic.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

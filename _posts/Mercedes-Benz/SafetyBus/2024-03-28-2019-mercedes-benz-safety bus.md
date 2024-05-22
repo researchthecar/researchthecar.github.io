@@ -84,3 +84,15 @@ The 2019 Mercedes-Benz Safety Bus is a purpose-built school bus that prioritizes
 ### Summary
 
 Overall, the 2019 Mercedes-Benz Safety Bus is a reliable vehicle with a focus on student safety. However, it has experienced some issues with its engine, transmission, electrical system, and interior. The severity and cost of these issues vary, with some being relatively minor and others requiring more extensive repairs. It is recommended to have the vehicle regularly serviced and inspected by a qualified mechanic to address any potential issues promptly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

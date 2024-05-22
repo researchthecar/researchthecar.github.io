@@ -51,6 +51,19 @@ The Jetta is known for its spacious interior, comfortable ride, and good fuel ec
    - Estimated Cost to Fix: $2,000 - $4,000+
    - Recalls: NHTSA Campaign Number 18V508000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Strut Mount Failure:**
@@ -66,6 +79,19 @@ The Jetta is known for its spacious interior, comfortable ride, and good fuel ec
    - Solution: Diagnose and repair the cause of the battery drain.
    - Estimated Cost to Fix: $100 - $500
    - Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -92,3 +118,15 @@ The Jetta is known for its spacious interior, comfortable ride, and good fuel ec
 **Summary:**
 
 The 2017 Volkswagen Jetta has several issues that can affect its performance, reliability, and comfort. The most severe and expensive issue is the mechatronic unit failure in the six-speed dual-clutch automatic transmission. Other issues, such as clutch problems and fuel pump failure, can also be costly to repair. Overall, the 2017 Jetta is not as reliable as some of its competitors, and potential buyers should be aware of the potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

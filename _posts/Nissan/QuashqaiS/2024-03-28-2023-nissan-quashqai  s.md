@@ -23,6 +23,19 @@ Despite its strengths, the Quashqai has received mixed reviews from consumers. W
 
 **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -34,6 +47,19 @@ Description/Symptoms: Battery drains quickly when vehicle is parked
 Solution: Replace defective battery or alternator
 Estimated Cost to Fix: $150 - $600+
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -60,3 +86,15 @@ Recalls: None Found
 **Summary:**
 
 The 2023 Nissan Quashqai S has received mixed reviews from consumers. While it offers a spacious interior and advanced technology, some have criticized its lack of power and uninspiring handling. The vehicle has experienced some minor issues, including a battery drain, fog light malfunction, sunroof leak, and HVAC malfunction. These issues are generally not severe and can be resolved with repairs costing $150 - $600+. Overall, the Quashqai is a reliable and practical SUV for daily commuting and family use.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -36,6 +36,19 @@ The 2014 Volkswagen Tiguan is a compact SUV that offers a spacious interior, pow
 
 * No Issues Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:** The strut mounts may fail, causing a clunking noise from the front or rear of the vehicle. Symptoms include a noise when driving over bumps, handling issues, and uneven tire wear. Replacing the strut mounts is the solution. Estimated Cost to Fix: $500 - $1,000
@@ -45,6 +58,19 @@ The 2014 Volkswagen Tiguan is a compact SUV that offers a spacious interior, pow
 
 * **Battery Drain:** The battery may drain prematurely. Symptoms include difficulty starting the vehicle, dim headlights, and a dead battery. Replacing the battery is the solution. Estimated Cost to Fix: $100 - $200+
 * **Alternator Failure:** The alternator may fail, which will prevent the battery from charging. Symptoms include dim headlights, difficulty starting the vehicle, and a check engine light. Replacing the alternator is the solution. Estimated Cost to Fix: $500 - $1,000
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -59,3 +85,15 @@ The 2014 Volkswagen Tiguan is a compact SUV that offers a spacious interior, pow
 **Summary:**
 
 The 2014 Volkswagen Tiguan has a variety of potential issues that owners should be aware of. While some issues are minor and inexpensive to fix, others can be more serious and costly. Engine and transmission issues are the most common and can be expensive to repair. Electrical, exterior, and interior issues are less severe but can still be an annoyance. It's important for owners to keep up with regular maintenance and address any issues promptly to prevent more serious problems and costly repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

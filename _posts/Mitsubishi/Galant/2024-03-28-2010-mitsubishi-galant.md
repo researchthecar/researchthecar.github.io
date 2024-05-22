@@ -33,6 +33,19 @@ The 2010 Mitsubishi Galant is a midsize sedan that offers a refined ride and a s
   * **Estimated Cost to Fix:** $200 - $400+
   * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Shock Absorber Failure:** The rear shock absorbers can fail prematurely, causing a bouncy or rough ride.
@@ -46,6 +59,19 @@ The 2010 Mitsubishi Galant is a midsize sedan that offers a refined ride and a s
   * **Solution:** Replace the affected window motor or switch.
   * **Estimated Cost to Fix:** $150 - $300+
   * **Recalls:** None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -63,3 +89,15 @@ The 2010 Mitsubishi Galant is a midsize sedan that offers a refined ride and a s
 
 **Summary:**
 The 2010 Mitsubishi Galant has some potential issues that can be costly to fix, particularly the timing chain tensioner failure. Other issues, such as transmission hesitation and electrical problems, are less severe and less expensive to resolve. Overall, the Galant's reliability is average for its class, but it is important for potential buyers to be aware of these potential issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

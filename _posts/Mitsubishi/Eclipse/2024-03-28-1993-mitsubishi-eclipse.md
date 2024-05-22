@@ -39,6 +39,19 @@ The 1993 Mitsubishi Eclipse is a sports coupe that was available with two engine
   * Estimated Cost to Fix: $300+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:** Worn strut mounts can cause clunking noises and impaired handling.
@@ -58,6 +71,19 @@ The 1993 Mitsubishi Eclipse is a sports coupe that was available with two engine
   * Estimated Cost to Fix: $200+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Hood Struts Failure:** Weak or broken hood struts can cause the hood to fall or come loose.
@@ -75,3 +101,15 @@ The 1993 Mitsubishi Eclipse is a sports coupe that was available with two engine
 **Summary**
 
 The 1993 Mitsubishi Eclipse has a number of potential issues that can affect performance, reliability, and comfort. The severity of these issues can vary, and some may be more common than others. The estimated cost of repairs can be significant, but it is important to weigh the potential costs against the benefits of owning this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -50,6 +50,19 @@ The 2009 Pontiac Torrent is a mid-size SUV known for its versatile seating and g
   - Estimated Cost to Fix: $1,500 - $3,000+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure**
@@ -65,6 +78,19 @@ The 2009 Pontiac Torrent is a mid-size SUV known for its versatile seating and g
   - Solution: Replace alternator
   - Estimated Cost to Fix: $500 - $1,000
   - Recalls: 11V095
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -85,3 +111,15 @@ The 2009 Pontiac Torrent is a mid-size SUV known for its versatile seating and g
 **Summary**
 
 The 2009 Pontiac Torrent has a range of severe issues that can be costly to repair. Engine issues, such as intake manifold gasket failure and timing chain tensioner failure, are particularly prevalent and can lead to significant engine damage if not addressed promptly. Transmission problems, including torque converter shudder and transmission slipping, are also common. Suspension and electrical issues add to the vehicle's reliability concerns. While the Torrent offers a spacious interior and versatility, its reliability issues overshadow its positive attributes.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

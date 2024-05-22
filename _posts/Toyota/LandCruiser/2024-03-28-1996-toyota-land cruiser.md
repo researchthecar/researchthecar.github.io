@@ -50,6 +50,19 @@ The 1996 Toyota Land Cruiser is a full-size SUV known for its off-road capabilit
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension:**
@@ -75,6 +88,19 @@ The 1996 Toyota Land Cruiser is a full-size SUV known for its off-road capabilit
     * Solution: Check electrical system for parasitic draw, replace faulty components
     * Estimated Cost to Fix: $200 - $500
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -105,3 +131,15 @@ The 1996 Toyota Land Cruiser is a full-size SUV known for its off-road capabilit
 **Summary**
 
 The 1996 Toyota Land Cruiser is a durable and capable SUV with a generally good track record for reliability. However, it is not immune to certain issues, particularly as it ages. Engine and transmission issues can be costly to repair, while suspension and electrical problems can compromise the vehicle's performance. Rust and body damage are also common problems due to the vehicle's age. It is important for potential buyers to be aware of these potential issues and factor them into their purchase decision. Costs for repairs can vary depending on the extent of the problem, the labor rates in the area, and whether you choose to have the repairs done at a Toyota dealership or an independent mechanic.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

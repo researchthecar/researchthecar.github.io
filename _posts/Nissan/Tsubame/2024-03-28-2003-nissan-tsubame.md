@@ -30,6 +30,19 @@ The 2003 Nissan Tsubame is a compact SUV available with either a 2.5L V6 engine 
 
 * **Slipping transmission:** The transmission may slip or hesitate during gear changes, indicating internal transmission issues. The cause can be worn or damaged clutches, bands, or solenoids. The solution is to repair or replace the affected components. Estimated cost to fix: $1,000 - $3,000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut mount failure:** The front strut mounts can fail, causing clunking noises or a loose suspension feel. The solution is to replace the strut mounts. Estimated cost to fix: $200 - $400
@@ -38,6 +51,19 @@ The 2003 Nissan Tsubame is a compact SUV available with either a 2.5L V6 engine 
 
 * **Alternator failure:** The alternator may fail, causing electrical system problems. Symptoms include dim headlights, battery discharge, and check engine light illumination. The solution is to replace the alternator. Estimated cost to fix: $500 - $700
 * **Battery drain:** Some vehicles may experience battery drain over time. The cause can be a parasitic draw from faulty electrical components. The solution is to identify and repair the affected components. Estimated cost to fix: $100 - $500
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -51,3 +77,15 @@ The 2003 Nissan Tsubame is a compact SUV available with either a 2.5L V6 engine 
 **Summary:**
 
 The 2003 Nissan Tsubame is a generally reliable vehicle, but it has faced some common issues that can be costly to fix, particularly engine and transmission problems. If you are considering purchasing a Tsubame, be sure to have it inspected by a qualified mechanic and be aware of the potential issues described above.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

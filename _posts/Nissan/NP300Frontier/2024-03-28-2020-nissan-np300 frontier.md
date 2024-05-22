@@ -35,6 +35,19 @@ The 2020 Nissan NP300 Frontier is a mid-size pickup truck that is available with
       * Estimated Cost to Fix: $500 - $1,500
       * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension:**
@@ -61,6 +74,19 @@ The 2020 Nissan NP300 Frontier is a mid-size pickup truck that is available with
       * Estimated Cost to Fix: $500 - $1,000
       * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Hood:**
@@ -85,3 +111,15 @@ The 2020 Nissan NP300 Frontier is a mid-size pickup truck that is available with
 **Summary**
 
 The 2020 Nissan NP300 Frontier has a number of potential issues, particularly with its engine, transmission, and suspension. These issues can range in severity from minor annoyances to major failures that require extensive repairs. While the Frontier is a capable and reliable pickup truck, potential buyers should be aware of these possible issues before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

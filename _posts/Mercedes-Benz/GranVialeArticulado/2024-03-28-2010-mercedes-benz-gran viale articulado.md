@@ -25,6 +25,19 @@ The 2010 Mercedes-Benz Gran Viale Articulado is a full-size motor coach with a s
 * **Transmission slipping:** The transmission can slip, causing the vehicle to lose power and accelerate slowly. The transmission must be rebuilt or replaced. **$2,000 - $5,000+**
 * **Transmission fluid leak:** The transmission can develop a fluid leak, causing the fluid level to drop and the transmission to overheat. The leak must be repaired. **$500 - $1,000**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air bag failure:** The air bags can fail, causing the vehicle to sag and ride rough. The air bags must be replaced. **$500 - $1,000 per air bag**
@@ -37,6 +50,19 @@ The 2010 Mercedes-Benz Gran Viale Articulado is a full-size motor coach with a s
 * **Alternator failure:** The alternator can fail, causing the vehicle to lose power and not charge the battery. The alternator must be replaced. **$500 - $1,000**
 * **Starter failure:** The starter can fail, causing the vehicle to not start. The starter must be replaced. **$500 - $1,000**
 * **Wiring harness issue:** The wiring harness can develop a short or break, causing electrical problems throughout the vehicle. The wiring harness must be repaired or replaced. **Varies**
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -53,3 +79,15 @@ The 2010 Mercedes-Benz Gran Viale Articulado is a full-size motor coach with a s
 **Summary**
 
 The 2010 Mercedes-Benz Gran Viale Articulado is a spacious and comfortable motor coach with a powerful engine. However, it has also been known to experience a number of issues, including engine problems, transmission problems, suspension problems, electrical problems, and interior problems. The severity and cost of these issues can vary, but they can be expensive to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

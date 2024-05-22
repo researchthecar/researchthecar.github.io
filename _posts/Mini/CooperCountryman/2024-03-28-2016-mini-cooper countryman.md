@@ -37,6 +37,19 @@ The Countryman is praised for its fun-to-drive nature, stylish design, and comfo
 * **Transmission fluid leak:** This issue can occur due to a faulty seal or gasket. Symptoms include a decrease in transmission fluid level, slipping gears, and rough shifting. The solution is to replace the faulty seal or gasket. Estimated cost to fix: $200 - $500+
 * **Torque converter failure:** This issue can occur due to a faulty torque converter. Symptoms include shuddering during acceleration, slipping gears, and a loss of power. The solution is to replace the torque converter. Estimated cost to fix: $1,500 - $2,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** This issue can occur due to a worn strut mount or a damaged strut. Symptoms include a rough ride, poor handling, and a clunking noise from the suspension. The solution is to replace the strut. Estimated cost to fix: $600 - $1,000+ per strut
@@ -46,6 +59,19 @@ The Countryman is praised for its fun-to-drive nature, stylish design, and comfo
 
 * **Battery failure:** This issue can occur due to a faulty battery or a faulty alternator. Symptoms include difficulty starting the vehicle, dim headlights, and a dead battery. The solution is to replace the battery or alternator. Estimated cost to fix: $200 - $1,000+
 * **Electrical short:** This issue can occur due to a damaged wire or a faulty electrical component. Symptoms can vary depending on the location of the short. The solution is to locate and repair the short. Estimated cost to fix: $100 - $1,000+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -60,3 +86,15 @@ The Countryman is praised for its fun-to-drive nature, stylish design, and comfo
 **Summary**
 
 The 2016 Mini Cooper Countryman has a number of potential issues, including engine, transmission, suspension, electrical, exterior, and interior problems. The severity of these issues ranges from minor annoyances to major failures that could require costly repairs. Overall, the Countryman is a reliable vehicle, but it is important to be aware of the potential issues that can occur.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

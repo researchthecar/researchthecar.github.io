@@ -61,6 +61,19 @@ Drivers appreciate the Jetta's spacious interior, comfortable ride, and fuel-eff
     * Estimated Cost to Fix: $1,800 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut problems**
@@ -88,6 +101,19 @@ Drivers appreciate the Jetta's spacious interior, comfortable ride, and fuel-eff
     * Solution: Replacement of the alternator.
     * Estimated Cost to Fix: $400 - $800+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -120,3 +146,15 @@ Drivers appreciate the Jetta's spacious interior, comfortable ride, and fuel-eff
 **Summary**
 
 The 2013 Volkswagen Jetta has received mixed reviews, with some owners reporting significant issues, while others have had a more positive experience. The severity and cost of repairs vary depending on the specific issue encountered. While some problems can be minor and relatively inexpensive to fix, others can be more serious and require significant investment. It's important for potential buyers to research the potential issues and factor them into their decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

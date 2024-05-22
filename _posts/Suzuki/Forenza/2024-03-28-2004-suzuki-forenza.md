@@ -44,6 +44,19 @@ The 2004 Suzuki Forenza is a compact sedan offered with two engine and transmiss
         * Estimated Cost to Fix: $2,000 - $4,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Noise:**
@@ -59,6 +72,19 @@ The 2004 Suzuki Forenza is a compact sedan offered with two engine and transmiss
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $500 - $700
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -79,3 +105,15 @@ The 2004 Suzuki Forenza is a compact sedan offered with two engine and transmiss
 **Summary:**
 
 The 2004 Suzuki Forenza has some significant issues, particularly with its engine and transmission. Some of these issues can be expensive to repair and may require major engine or transmission replacement. Other issues, such as exterior and interior problems, are less severe and less costly to fix. Overall, potential buyers should be aware of these issues and factor them into their decision before purchasing a used 2004 Suzuki Forenza.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

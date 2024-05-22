@@ -45,6 +45,19 @@ The 2000 Oldsmobile Silhouette is a minivan offered with three engine options: a
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Failure:**
@@ -73,6 +86,19 @@ The 2000 Oldsmobile Silhouette is a minivan offered with three engine options: a
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust on Undercarriage and Body Panels:**
@@ -98,3 +124,15 @@ The 2000 Oldsmobile Silhouette is a minivan offered with three engine options: a
 **Summary:**
 
 The 2000 Oldsmobile Silhouette has several potential issues, including engine gasket failures, transmission problems, and electrical malfunctions. These issues can be costly to repair, particularly the head gasket failure and transmission rebuild. The vehicle is also prone to rust on the undercarriage and body panels, which can impact its longevity. However, some owners have not experienced any major issues and appreciate the Silhouette's spacious interior and comfortable ride.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

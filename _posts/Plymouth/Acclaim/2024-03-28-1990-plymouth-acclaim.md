@@ -51,6 +51,19 @@ The 1990 Plymouth Acclaim is a mid-size sedan offered with a choice of two engin
     * Estimated Cost to Fix: $250 - $500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mounts:**
@@ -79,6 +92,19 @@ The 1990 Plymouth Acclaim is a mid-size sedan offered with a choice of two engin
     * Estimated Cost to Fix: $100 - $300
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Windshield Wiper Motor Failure:**
@@ -98,3 +124,15 @@ The 1990 Plymouth Acclaim is a mid-size sedan offered with a choice of two engin
 **Summary:**
 
 Overall, the 1990 Plymouth Acclaim has some common issues that can be costly to repair, such as intake manifold gasket failure and transmission problems. However, these issues are not widespread and will only affect a portion of the vehicles. The vehicle's ride quality, interior space, and affordability make it a decent choice for those looking for a comfortable and practical sedan.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

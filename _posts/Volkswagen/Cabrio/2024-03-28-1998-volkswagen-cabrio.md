@@ -39,6 +39,19 @@ The Cabrio is available with a variety of engine and transmission options. The 2
 * **Valve Body Failure:** The valve body can fail, causing the transmission to shift erratically or not at all. The solution is to replace the valve body and any other affected components. Estimated cost to fix: $500 - $1,000+
 * **Transmission Filter and Fluid Replacement:** The transmission filter and fluid should be replaced every 30,000 miles to prevent premature transmission failure. Estimated cost to fix: $150 - $250+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Failure:** The front suspension struts can fail, causing the ride to become rough and unstable. The solution is to replace the front suspension struts. Estimated cost to fix: $500 - $800+ per strut
@@ -50,6 +63,19 @@ The Cabrio is available with a variety of engine and transmission options. The 2
 * **Alternator Failure:** The alternator can fail, causing the battery to not charge and the electrical system to fail. The solution is to replace the alternator. Estimated cost to fix: $300 - $500+
 * **Starter Failure:** The starter can fail, preventing the engine from starting. The solution is to replace the starter. Estimated cost to fix: $200 - $400+
 * **Battery Failure:** The battery can fail, causing the electrical system to fail and the engine to not start. The solution is to replace the battery. Estimated cost to fix: $100 - $200+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -66,3 +92,15 @@ The Cabrio is available with a variety of engine and transmission options. The 2
 **Summary**
 
 Overall, the 1998 Volkswagen Cabrio is a reliable and fun-to-drive vehicle. However, it is not without its issues. The most common issues are with the engine, transmission, and suspension. The severity and cost of these issues can vary depending on the specific problem and the extent of the damage. It is important to have the vehicle regularly serviced and inspected to prevent or catch any potential issues early on.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

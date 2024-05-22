@@ -31,6 +31,19 @@ The 2001 Oldsmobile Silhouette is a minivan that was available with two engine o
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure:** The front strut mounts can fail, causing the struts to become loose and the vehicle to handle poorly.
@@ -49,6 +62,19 @@ The 2001 Oldsmobile Silhouette is a minivan that was available with two engine o
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $300 - $500+
     * Recalls: N/A
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -77,3 +103,15 @@ The 2001 Oldsmobile Silhouette is a minivan that was available with two engine o
 **Summary**
 
 The 2001 Oldsmobile Silhouette has a number of potential issues, including intake manifold gasket failure (3.4L V6), transmission slipping (4-speed automatic), front strut mount failure, battery drain, alternator failure, fog light assembly failure, door handle failure, power window motor failure, and seat belt pretensioner failure. While some of these issues are relatively minor and inexpensive to fix, others can be more severe and costly. Overall, the Silhouette's reliability is below average, and potential buyers should be aware of the potential risks before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

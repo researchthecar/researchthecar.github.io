@@ -41,6 +41,19 @@ While the CLA45 AMG is praised for its blistering acceleration, responsive handl
     * **Estimated Cost to Fix:** $1,500 - $2,500
     * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arm Bushing Failure**
@@ -61,6 +74,19 @@ While the CLA45 AMG is praised for its blistering acceleration, responsive handl
     * **Solution:** Replace the instrument cluster.
     * **Estimated Cost to Fix:** $1,000 - $1,500
     * **Recalls:** None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -86,3 +112,15 @@ While the CLA45 AMG is praised for its blistering acceleration, responsive handl
 **Summary**
 
 The 2014 Mercedes-Benz CLA45 AMG is a high-performance sedan that offers impressive acceleration and handling, but it has been plagued by a number of issues. While some of these issues are relatively minor and inexpensive to fix, others, such as engine and transmission problems, can be costly to repair. It is important for potential buyers to be aware of these issues and factor in the potential cost of repairs when considering this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

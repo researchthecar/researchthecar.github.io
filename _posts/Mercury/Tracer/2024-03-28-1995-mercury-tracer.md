@@ -26,6 +26,19 @@ The 1995 Mercury Tracer is a compact car that offers a combination of affordabil
 * **4-speed Automatic:**
     * **Transmission Slippage:** Description/Symptoms: The transmission slips out of gear while driving, causing a loss of power. Solution: Rebuild or replace the transmission. Estimated Cost to Fix: $1,500 - $3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -34,6 +47,19 @@ The 1995 Mercury Tracer is a compact car that offers a combination of affordabil
 
 * **Alternator Failure:** Description/Symptoms: The alternator fails, leading to electrical system problems and potential battery drain. Solution: Replace the alternator. Estimated Cost to Fix: $400 - $600+
 * **Starter Problems:** Description/Symptoms: The starter fails to engage the flywheel, making it difficult or impossible to start the vehicle. Solution: Replace the starter. Estimated Cost to Fix: $300 - $500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -47,3 +73,15 @@ The 1995 Mercury Tracer is a compact car that offers a combination of affordabil
 **Summary**
 
 The 1995 Mercury Tracer offers a balance of economy and practicality but is not without its issues. The most common problems include oil consumption with the 1.9-liter engine, head gasket failure with the 2.0-liter engine, alternator failure, and rust and corrosion. While some repairs can be relatively inexpensive, others, such as transmission rebuilds or engine overhauls, can be costly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

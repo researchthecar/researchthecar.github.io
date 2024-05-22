@@ -65,6 +65,19 @@ The Trans Sport was a popular minivan, praised for its spacious interior and com
     * Estimated Cost to Fix: $500 - $800+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure**
@@ -85,6 +98,19 @@ The Trans Sport was a popular minivan, praised for its spacious interior and com
     * Solution: Replace starter
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -110,3 +136,15 @@ The Trans Sport was a popular minivan, praised for its spacious interior and com
 **Summary**
 
 The 1993 Pontiac Trans Sport was a popular minivan, but it was also known for its reliability problems. The most common issues were related to the engine, transmission, and suspension. Engine issues included intake manifold gasket failure, head gasket failure, and timing chain failure. Transmission issues included slipping and clutch failure. Suspension issues included strut failure. Electrical issues included alternator and starter failure. Exterior issues included rust. Interior issues included power window failure and HVAC blower failure. The severity of the issues varied, but many of them were expensive to fix. Overall, the 1993 Pontiac Trans Sport is not a reliable vehicle and should be avoided.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

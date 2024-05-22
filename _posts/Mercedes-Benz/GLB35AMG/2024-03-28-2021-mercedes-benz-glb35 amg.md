@@ -29,6 +29,19 @@ The 2021 Mercedes-Benz GLB35 AMG is a high-performance compact SUV powered by a 
     Estimated Cost to Fix: $500 - $2,000+
     Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -40,6 +53,19 @@ The 2021 Mercedes-Benz GLB35 AMG is a high-performance compact SUV powered by a 
     Solution: Inspect and repair or replace electrical components that are draining the battery.
     Estimated Cost to Fix: $200 - $1,000+
     Recalls: #21V547000
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -60,3 +86,15 @@ The 2021 Mercedes-Benz GLB35 AMG is a high-performance compact SUV powered by a 
 **Summary**
 
 Overall, the 2021 Mercedes-Benz GLB35 AMG has a few reported issues, primarily in the engine, transmission, electrical, and exterior components. The severity of these issues varies, with some being minor inconveniences while others can be costly to repair. While the GLB35 AMG offers a thrilling driving experience, it's important to be aware of these potential problems before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

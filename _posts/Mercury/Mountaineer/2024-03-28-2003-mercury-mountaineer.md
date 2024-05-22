@@ -57,6 +57,19 @@ Drivers praise the Mountaineer for its comfortable ride, ample cargo space, and 
   * Estimated Cost to Fix: $100 - $200+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushings:** The front control arm bushings can deteriorate, causing clunking noises and reduced handling.
@@ -80,6 +93,19 @@ Drivers praise the Mountaineer for its comfortable ride, ample cargo space, and 
   * Solution: Replace the alternator.
   * Estimated Cost to Fix: $300 - $500+
   * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -108,3 +134,15 @@ Drivers praise the Mountaineer for its comfortable ride, ample cargo space, and 
 **Summary**
 
 While the 2003 Mercury Mountaineer offers a comfortable and capable SUV experience, it has some potential issues that can affect reliability and ownership costs. The most common engine problems include valve seat recessions, timing belt failure, and spark plug blowouts. Transmission issues can range from torque converter shudder to slipping gears and delayed engagement. Suspension problems include worn control arm bushings and sagging leaf springs. Electrical issues include battery drain and alternator failure. Exterior issues revolve around tailgate corrosion and body panel rust. Interior issues include center console creaking and dashboard squeaks and rattles. The severity and cost of these issues vary, but some can be expensive to repair, especially the engine and transmission problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

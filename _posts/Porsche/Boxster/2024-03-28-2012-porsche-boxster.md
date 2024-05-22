@@ -40,6 +40,19 @@ The Boxster is praised for its handling, performance, and styling. However, it h
         * Solution: The mechatronic unit must be replaced.
         * Estimated Cost to Fix: $2,000 - $3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear suspension toe adjustment problems**
@@ -53,6 +66,19 @@ The Boxster is praised for its handling, performance, and styling. However, it h
         * Description/Symptoms: The battery can drain prematurely, causing the vehicle to not start.
         * Solution: The cause of the battery drain must be identified and repaired.
         * Estimated Cost to Fix: Varies depending on the cause
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -82,3 +108,15 @@ The 2012 Porsche Boxster is a well-made sports car with a number of potential is
 The severity of the issues with the 2012 Porsche Boxster varies greatly. Some issues, such as clutch problems and plastic trim pieces rattling, are relatively minor and inexpensive to fix. Other issues, such as the VarioCam Plus system malfunction, can be much more serious and expensive to fix.
 
 Overall, the 2012 Porsche Boxster is a reliable sports car. However, potential buyers should be aware of the possible issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

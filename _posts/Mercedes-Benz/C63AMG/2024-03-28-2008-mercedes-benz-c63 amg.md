@@ -32,6 +32,19 @@ The 2008 Mercedes-Benz C63 AMG is a high-performance sedan that was offered with
         * **Estimated Cost to Fix:** $2,500 - $4,000+
         * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushings**
@@ -53,6 +66,19 @@ The 2008 Mercedes-Benz C63 AMG is a high-performance sedan that was offered with
     * **Estimated Cost to Fix:** $500 - $1,000+
     * **Recalls:** NHTSA Campaign Number 17V108000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Sunroof Drain Plugs**
@@ -72,3 +98,15 @@ The 2008 Mercedes-Benz C63 AMG is a high-performance sedan that was offered with
 **Summary**
 
 The 2008 Mercedes-Benz C63 AMG is a powerful and capable vehicle, but it has some known issues that owners should be aware of. While some of these issues can be costly to repair, they are generally not considered to be major or widespread problems. However, potential buyers should consider the cost of potential repairs before purchasing a C63 AMG.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

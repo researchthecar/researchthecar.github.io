@@ -32,6 +32,19 @@ The 1997 Nissan Pathfinder is a compact SUV known for its rugged capability and 
         * Estimated Cost to Fix: $2,000 - $4,000
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Bushings Wear**
@@ -53,6 +66,19 @@ The 1997 Nissan Pathfinder is a compact SUV known for its rugged capability and 
         * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rear Differential Housing Rust**
@@ -72,3 +98,15 @@ The 1997 Nissan Pathfinder is a compact SUV known for its rugged capability and 
 **Summary**
 
 The 1997 Nissan Pathfinder is a capable vehicle, but it has several known issues that can be costly to repair. The most common problems include intake manifold gasket failure, transmission slippage, and HVAC system issues. These issues can range in severity and cost, so it is important to have a qualified mechanic inspect the vehicle before purchase and to perform regular maintenance to minimize the risk of these problems occurring.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

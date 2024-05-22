@@ -25,6 +25,19 @@ The 1997 Mitsubishi Montero Sport is a mid-size SUV that offers rugged off-road 
 * **5-speed manual**
     * **Grinding noises:** Difficulty shifting gears. Replacement of worn clutch components or transmission synchronization may be necessary. $500 - $1200+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front lower control arms:** Premature wear or failure can lead to poor handling and tire alignment issues. Replacing the control arms and related components is recommended. $600 - $1000+
@@ -34,6 +47,19 @@ The 1997 Mitsubishi Montero Sport is a mid-size SUV that offers rugged off-road 
 
 * **Alternator failure:** Loss of electrical power and battery drain. Replacement of the alternator is required. $500 - $800+
 * **Starter motor problems:** Difficulty starting the engine. Replacement of the starter motor may be necessary. $300 - $600+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -51,3 +77,15 @@ The 1997 Mitsubishi Montero Sport is a mid-size SUV that offers rugged off-road 
 **Summary:**
 
 The 1997 Mitsubishi Montero Sport offers a combination of off-road capabilities and comfort, but it is not immune to issues. Common problems include engine gaskets and timing belts, transmission slipping or grinding, suspension component wear, electrical failures, and rust. Some of these issues can be costly to repair, especially if they are not addressed promptly. Overall, the severity and cost of the potential issues should be carefully considered before purchasing or owning a Montero Sport.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -53,6 +53,19 @@ Owners generally praise the Sharan's spacious interior, comfortable ride, and pr
     * Estimated Cost to Fix: $2,000 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut mounts failure**
@@ -68,6 +81,19 @@ Owners generally praise the Sharan's spacious interior, comfortable ride, and pr
     * Solution: Replace alternator.
     * Estimated Cost to Fix: $500 - $700+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -94,3 +120,15 @@ Owners generally praise the Sharan's spacious interior, comfortable ride, and pr
 **Summary:**
 
 The 2006 Volkswagen Sharan is a spacious and practical minivan but has a history of reliability issues. The most severe problems include oil pump failure, turbocharger failure, and mechatronic unit failure. These issues can be expensive to repair, leading to higher maintenance costs for owners. However, the Sharan has also received positive reviews for its comfortable ride and practical features, making it a popular choice for families.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

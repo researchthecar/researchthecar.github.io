@@ -32,6 +32,19 @@ Solution: Replacement of the clutch pack or transmission fluid flush.
 Estimated Cost to Fix: $2,000 - $3,500+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -44,6 +57,19 @@ Recalls: None Found
 Solution: Diagnosis and repair of the affected wiring harness.
 Estimated Cost to Fix: $500 - $1,500+
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -66,3 +92,15 @@ Recalls: None Found
 **Summary:**
 
 The 2018 Mercedes-Benz GLA45 AMG is a capable and enjoyable vehicle, but it has experienced a few significant issues. The turbocharger failure, engine stalling, and transmission shudder are the most concerning problems, as they can affect vehicle performance and safety. The electrical wiring harness and panoramic glass roof issues are also notable, though they may be less severe. Repair costs for these issues can be substantial, so it is important to consider these potential expenses before purchasing a GLA45 AMG.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

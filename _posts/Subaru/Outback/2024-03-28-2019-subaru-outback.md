@@ -39,6 +39,19 @@ The 2019 Subaru Outback is a midsize SUV known for its all-wheel-drive system, s
 - **5-speed automatic**
   - **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Rear Suspension Noise:**
@@ -54,6 +67,19 @@ The 2019 Subaru Outback is a midsize SUV known for its all-wheel-drive system, s
   - **Solution:** Replace battery or diagnose and fix electrical component causing drain.
   - **Estimated Cost to Fix:** $100 - $500+
   - **Recalls:** None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -84,3 +110,15 @@ The 2019 Subaru Outback is a midsize SUV known for its all-wheel-drive system, s
 **Summary**
 
 The 2019 Subaru Outback has some potential issues, particularly with the CVT transmission and oil consumption in the 2.5-liter engine. Some of the issues can be costly to repair, but overall the Outback is a reliable vehicle with many positive attributes.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

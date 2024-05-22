@@ -32,6 +32,19 @@ The 2012 Nissan Pathfinder is a popular SUV offering a spacious interior, comfor
         * Solution: Replace the transmission valve body or reprogram the transmission control module.
         * Estimated Cost to Fix: $2,000 - $3,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Strut Bearing Noise:** The strut bearings may wear out, causing a clunking noise when turning or driving over bumps.
     * Solution: Replace the strut bearings.
@@ -44,6 +57,19 @@ The 2012 Nissan Pathfinder is a popular SUV offering a spacious interior, comfor
 * **Electrical System Malfunctions:** Various electrical system malfunctions can occur, including failed modules, wiring issues, and battery problems.
     * Solution: Diagnose and repair or replace faulty components.
     * Estimated Cost to Fix: Varies depending on the issue
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **Roof Rack Crossbars Corrosion:** The aluminum crossbars on the roof rack may corrode, weakening them and compromising their functionality.
@@ -60,3 +86,15 @@ The 2012 Nissan Pathfinder is a popular SUV offering a spacious interior, comfor
 
 **Summary:**
 The 2012 Nissan Pathfinder has several known issues, particularly with the engine, transmission, and electrical system. These issues can range in severity from minor annoyances to major repairs. The estimated costs to fix these issues can be substantial, depending on the extent of the problem. It is important to have any potential issues addressed promptly to avoid further damage or safety concerns.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

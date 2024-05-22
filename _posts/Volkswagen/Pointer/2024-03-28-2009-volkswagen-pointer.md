@@ -38,6 +38,19 @@ The 2009 Volkswagen Pointer is a compact car available with a 2.0L engine mated 
       * Estimated Cost to Fix: $1,500 - $3,000+
       * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut mounts:** The front strut mounts can wear out and cause a knocking or clunking sound.
@@ -59,6 +72,19 @@ The 2009 Volkswagen Pointer is a compact car available with a 2.0L engine mated 
   * Solution: Replace the headlight switch.
   * Estimated Cost to Fix: $100 - $200
   * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -85,3 +111,15 @@ The 2009 Volkswagen Pointer is a compact car available with a 2.0L engine mated 
 **Summary:**
 
 The 2009 Volkswagen Pointer is a generally reliable car, but it has some common issues. The most significant issue is the potential for transmission problems, which can be expensive to repair. Other issues include oil leaks, suspension wear, and electrical malfunctions. However, these issues are not widespread, and most Pointers will provide years of trouble-free ownership.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

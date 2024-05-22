@@ -55,6 +55,19 @@ The 1995 Pontiac Sunrunner is a compact SUV that was available with a choice of 
     * Solution: Replace torque converter.
     * Estimated Cost to Fix: $1,000 - $2,000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut failure:** Causes clunking noises, excessive vibration, and reduced handling.
@@ -75,6 +88,19 @@ The 1995 Pontiac Sunrunner is a compact SUV that was available with a choice of 
 * **Ignition switch failure:** Causes difficulty starting the engine or a no-start condition.
     * Solution: Replace ignition switch.
     * Estimated Cost to Fix: $150 - $300
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -100,3 +126,15 @@ The 1995 Pontiac Sunrunner is a compact SUV that was available with a choice of 
 **Summary:**
 
 The 1995 Pontiac Sunrunner was a relatively affordable and versatile SUV, but it was plagued by various issues that could be costly to repair. Engine problems, transmission failures, and suspension issues were particularly common. The severity of the issues and the associated repair costs could vary depending on the specific part that failed and the extent of the damage. Before purchasing a used Sunrunner, it is important to have the vehicle thoroughly inspected by a qualified mechanic to assess potential issues and estimate the cost of any necessary repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

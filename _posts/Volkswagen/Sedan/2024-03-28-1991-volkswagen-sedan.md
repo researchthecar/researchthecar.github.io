@@ -64,6 +64,19 @@ The 1991 Volkswagen Sedan, also known as the Golf or Rabbit, is a compact hatchb
         * Estimated Cost to Fix: $1,000 - $1,500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -71,6 +84,19 @@ The 1991 Volkswagen Sedan, also known as the Golf or Rabbit, is a compact hatchb
 **Electrical**
 
 * **No Issues Found**
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -87,3 +113,15 @@ The 1991 Volkswagen Sedan, also known as the Golf or Rabbit, is a compact hatchb
 **Summary**
 
 While the 1991 Volkswagen Sedan is generally a reliable vehicle, it does have some known issues that potential buyers should be aware of. The most severe issues include head gasket failure, timing belt failure, and torque converter failure, which can be expensive to repair. Other issues are more minor, such as intake manifold gasket failure and non-functioning gauges. Overall, it's important to have any used Volkswagen Sedan thoroughly inspected before purchasing to identify and address any potential problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

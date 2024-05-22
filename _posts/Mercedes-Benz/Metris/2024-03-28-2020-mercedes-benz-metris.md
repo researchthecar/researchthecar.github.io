@@ -39,6 +39,19 @@ The 2020 Mercedes-Benz Metris is a spacious and versatile van offered with a sin
    - Estimated Cost to Fix: $500 - $3,000+
    - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Front Suspension Strut Failure:**
@@ -64,6 +77,19 @@ The 2020 Mercedes-Benz Metris is a spacious and versatile van offered with a sin
    - Solution: Diagnose and repair the electrical drain
    - Estimated Cost to Fix: $200 - $500+
    - Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -99,3 +125,15 @@ The 2020 Mercedes-Benz Metris is a spacious and versatile van offered with a sin
 **Summary:**
 
 Overall, the 2020 Mercedes-Benz Metris has a mixed reliability record. While some owners report problem-free ownership, others have experienced significant issues with the engine, transmission, and electrical systems. The severity and cost of the issues can vary depending on the specific problem encountered. It's important to note that these issues are not universal and may not affect all Metris vehicles.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

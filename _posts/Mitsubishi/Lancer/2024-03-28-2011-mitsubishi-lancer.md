@@ -50,6 +50,19 @@ The 2011 Mitsubishi Lancer is a compact sedan offered with a choice of two engin
   * Estimated Cost to Fix: $3,000+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Failure**
@@ -65,6 +78,19 @@ The 2011 Mitsubishi Lancer is a compact sedan offered with a choice of two engin
   * Solution: Replace the battery or alternator
   * Estimated Cost to Fix: $100 - $500
   * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -90,3 +116,15 @@ The 2011 Mitsubishi Lancer is a compact sedan offered with a choice of two engin
 **Summary**
 
 The 2011 Mitsubishi Lancer has several notable issues, particularly with the engine and transmission. The cylinder head gasket failure and engine knock issues can be severe and expensive to repair. The CVT failures can also be costly. Additionally, the vehicle suffers from various other issues such as dashboard rattles, power window failures, and suspension problems. Considering these issues, the Lancer may not be the most reliable choice for buyers considering a compact sedan. Repair costs can range from minor to major, depending on the severity of the problem.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

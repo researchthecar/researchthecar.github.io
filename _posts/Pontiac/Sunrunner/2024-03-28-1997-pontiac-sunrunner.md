@@ -49,6 +49,19 @@ The 1997 Pontiac Sunrunner was a compact SUV offered in base and SE trims. Its o
         - Solution: Replace TCC lock-up clutch.
         - Estimated Cost to Fix: $700 - $1,200
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Front Struts:**
@@ -72,6 +85,19 @@ The 1997 Pontiac Sunrunner was a compact SUV offered in base and SE trims. Its o
     - Solution: Diagnose and repair electrical system, such as faulty wiring or parasitic drains.
         - Estimated Cost to Fix: $100 - $500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 - **Sunroof Leaks:**
@@ -93,3 +119,15 @@ The 1997 Pontiac Sunrunner was a compact SUV offered in base and SE trims. Its o
 **Summary**
 
 The 1997 Pontiac Sunrunner presents a mix of potential issues and strengths. Engine and transmission problems can be serious and expensive to fix, with head gasket failure and transmission slippage being the most concerning. Suspension issues are common, but relatively minor. Electrical problems and exterior leaks can inconvenience owners but are often manageable. The interior issues are mostly cosmetic, but the dashboard cracks can be unsightly. Overall, the Sunrunner's issues range from moderate to severe, and the cost of repairs can be substantial.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

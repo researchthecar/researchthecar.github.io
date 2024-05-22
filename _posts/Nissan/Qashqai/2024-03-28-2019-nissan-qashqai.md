@@ -38,6 +38,19 @@ The 2019 Nissan Qashqai is a compact crossover SUV that offers a comfortable and
     * Estimated Cost to Fix: $1,000 - $4,000+
     * Recalls: Recall #NISSAN/INFINITI CVT UPDATE (NHTSA ID: 21V863000) and Recall #NISSAN/INFINITI CVT VALVE BODY UPDATE (NHTSA ID: 21V859000) for software updates.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Noise:**
@@ -58,6 +71,19 @@ The 2019 Nissan Qashqai is a compact crossover SUV that offers a comfortable and
     * Solution: Diagnosis and repair of specific electrical components.
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -83,3 +109,15 @@ The 2019 Nissan Qashqai is a compact crossover SUV that offers a comfortable and
 **Summary**
 
 The 2019 Nissan Qashqai has received mixed reviews, with some drivers praising its practicality and fuel efficiency, while others criticizing its lack of power and some interior issues. The major issues reported for the Qashqai include engine power loss, excessive oil consumption, CVT hesitation and jerking, electrical system malfunctions, body panel gaps, dashboard rattling, and Bluetooth connectivity issues. The severity and cost of these issues can vary widely, and some have been addressed by recalls. Overall, the Qashqai is a reliable vehicle when properly maintained, but drivers should be aware of potential issues before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

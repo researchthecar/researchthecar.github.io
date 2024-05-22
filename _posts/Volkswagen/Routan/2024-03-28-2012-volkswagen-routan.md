@@ -35,6 +35,19 @@ The 2012 Volkswagen Routan is a minivan that was offered with two engine options
     * Solution: The shift solenoids must be replaced.
     * Estimated Cost to Fix: $800 - $1,500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -48,6 +61,19 @@ The 2012 Volkswagen Routan is a minivan that was offered with two engine options
     * Description/Symptoms: The alternator can fail, causing the battery to drain and the vehicle to stall. Symptoms include difficulty starting, flickering lights, and a battery warning light on the dashboard.
     * Solution: The alternator must be replaced.
     * Estimated Cost to Fix: $600 - $1,200
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -66,3 +92,15 @@ The 2012 Volkswagen Routan is a minivan that was offered with two engine options
 **Summary**
 
 The 2012 Volkswagen Routan has been plagued by several issues, including timing chain failure, intake valve deposits, and electrical problems. These issues can be costly to repair and can significantly impact the reliability of the vehicle. While the Routan offers a spacious interior and comfortable ride, potential buyers should be aware of the potential problems associated with this vehicle before making a purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

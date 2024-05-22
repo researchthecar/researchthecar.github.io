@@ -64,6 +64,19 @@ The 2011 Volkswagen Amarok is a mid-size pickup truck that was introduced in 201
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Failure:**
@@ -90,6 +103,19 @@ The 2011 Volkswagen Amarok is a mid-size pickup truck that was introduced in 201
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rear Tailgate Handle Failure:**
@@ -114,3 +140,15 @@ The 2011 Volkswagen Amarok is a mid-size pickup truck that was introduced in 201
 **Summary**
 
 The 2011 Volkswagen Amarok is a capable pickup truck with a variety of engine and transmission options. However, it has been known to experience several issues, including engine failures, transmission problems, and electrical malfunctions. The severity of these issues can vary depending on the specific part that fails. The cost to fix these issues can also be significant, especially for major repairs such as engine or transmission replacements. Overall, the Amarok is a reliable vehicle, but it is important to be aware of the potential issues that it may experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

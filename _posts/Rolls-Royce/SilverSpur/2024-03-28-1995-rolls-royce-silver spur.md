@@ -35,6 +35,19 @@ The 1995 Rolls-Royce Silver Spur is a luxurious sedan powered by a powerful V8 e
         * Solution: Replacement of solenoid
         * Estimated Cost to Fix: $500 - $1,000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Failure:**
@@ -52,6 +65,19 @@ The 1995 Rolls-Royce Silver Spur is a luxurious sedan powered by a powerful V8 e
     * Description/Symptoms: Battery dies prematurely, difficulty starting the vehicle
     * Solution: Diagnose and repair electrical system issues causing the drain
     * Estimated Cost to Fix: $200 - $500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -78,3 +104,15 @@ The 1995 Rolls-Royce Silver Spur is a luxurious sedan powered by a powerful V8 e
 **Summary**
 
 The 1995 Rolls-Royce Silver Spur can be a reliable luxury sedan, but it is not without its issues. Engine and transmission problems can be costly to fix, and suspension and electrical issues can also lead to expensive repairs. However, if these issues are addressed promptly, the Silver Spur can provide years of enjoyable driving.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

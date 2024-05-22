@@ -36,6 +36,19 @@ The 2001 Volkswagen Cabrio is a compact convertible that offers an agile driving
         * Estimated Cost to Fix: $200 - $500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **No Issues Found**
 
@@ -50,6 +63,19 @@ The 2001 Volkswagen Cabrio is a compact convertible that offers an agile driving
         * Solution: Replace the alternator
         * Estimated Cost to Fix: $400 - $700+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **Convertible Top Failure**
@@ -73,3 +99,15 @@ The 2001 Volkswagen Cabrio is a compact convertible that offers an agile driving
 **Summary**
 
 The 2001 Volkswagen Cabrio is a fun and affordable convertible, but it is not without its issues. Some of the more common problems include oil leaks, timing belt tensioner failure, synchronizer wear, and power window malfunctions. While these issues can be costly to repair, they are generally not severe and can be addressed by a qualified mechanic.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

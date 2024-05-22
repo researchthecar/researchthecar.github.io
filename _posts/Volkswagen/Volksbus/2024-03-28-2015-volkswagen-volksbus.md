@@ -34,6 +34,19 @@ The 2015 Volkswagen Volksbus is a versatile and spacious van that offers a comfo
         * Estimated Cost to Fix: $500 - $1,200+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -50,6 +63,19 @@ The 2015 Volkswagen Volksbus is a versatile and spacious van that offers a comfo
     * Solution: Locate and repair the short circuit.
     * Estimated Cost to Fix: Varies depending on the location and severity of the short
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -70,3 +96,15 @@ The 2015 Volkswagen Volksbus is a versatile and spacious van that offers a comfo
 **Summary:**
 
 The 2015 Volkswagen Volksbus has some notable issues, particularly with the engine and transmission. The oil cooler failure and fuel injector problems with the 2.0L turbocharged gasoline engine can be costly to repair. The 6-speed automatic transmission may experience transmission fluid leaks, leading to further problems if not addressed promptly. However, the Volksbus has generally good reliability in terms of suspension, electrical, and exterior components.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

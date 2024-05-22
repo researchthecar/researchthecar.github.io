@@ -24,6 +24,19 @@ The 1997 Subaru Impreza is a compact car known for its affordability, reliabilit
 **4-Speed Automatic**
 * **Transmission Slippage:** Transmission slipping or not engaging properly, causing acceleration problems or loss of power. $1,000 - $3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Strut Failure:** Worn or failing struts, causing poor handling, reduced stability, and increased noise. $500 - $1,000 per pair
 * **Ball Joint Failure:** Worn or damaged ball joints, leading to play in the steering and suspension, and increased tire wear. $200 - $500 per joint
@@ -31,6 +44,19 @@ The 1997 Subaru Impreza is a compact car known for its affordability, reliabilit
 **Electrical**
 * **Alternator Failure:** Malfunctioning alternator, resulting in insufficient charging of the battery, electrical problems, and possible engine stalling. $500 - $1,000
 * **Battery Failure:** Premature battery failure due to age, deep discharge, or electrical issues. $100 - $200+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **Door Lock Actuator Failure:** Faulty door lock actuators, causing difficulty locking or unlocking doors, or intermittent door operation. $200 - $500 per lock
@@ -41,3 +67,15 @@ The 1997 Subaru Impreza is a compact car known for its affordability, reliabilit
 
 **Summary:**
 Overall, the 1997 Subaru Impreza has some common issues that can be costly to repair. Engine problems, particularly head gasket failure for the 1.8L engine and turbocharger failure for the 2.5L engine, are the most significant concerns. Transmission, suspension, and electrical issues are also prevalent, though they tend to be less severe and less expensive to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

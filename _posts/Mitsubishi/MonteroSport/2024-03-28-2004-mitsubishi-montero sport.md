@@ -31,6 +31,19 @@ The 2004 Mitsubishi Montero Sport is a mid-size SUV that was offered with two en
      - Estimated Cost to Fix: $200 - $400+
      - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Front Suspension**
    - **Control Arm Bushing Wear**
@@ -57,6 +70,19 @@ The 2004 Mitsubishi Montero Sport is a mid-size SUV that was offered with two en
    - Estimated Cost to Fix: $300 - $500+
      - Recalls: NHTSA Campaign Number: 04V212000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 - **Rust**
    - Description/Symptoms: The body of the vehicle can be prone to rust, especially in areas where salt is used on the roads.
@@ -78,3 +104,15 @@ The 2004 Mitsubishi Montero Sport is a mid-size SUV that was offered with two en
 
 **Summary**
 **The 2004 Mitsubishi Montero Sport is a capable off-roader, but it does have its fair share of issues. Some of these issues can be serious and expensive to fix, such as the timing belt tensioner failure and the TCC solenoid failure, being more severe and costly at $600 - $1,000+ and $200 - $400+, respectively. Other issues, such as the cruise control switch failure and the power window switch failure, are usually less severe and less expensive to fix, costing $100 - $200+ and $150 - $250+ per switch, respectively.** **Rust is also an issue, but the severity and cost of repairs will vary depending on the extent of the damage.**
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

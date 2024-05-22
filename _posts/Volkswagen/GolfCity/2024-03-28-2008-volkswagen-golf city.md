@@ -36,6 +36,19 @@ The 2008 Volkswagen Golf City is a compact car that offers a comfortable ride, r
     * Estimated Cost to Fix: $800 - $1,200+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Strut Mount Bearing Failure:**
     * Description/Symptoms: A clunking or rattling noise from the front suspension, especially over bumps.
@@ -49,6 +62,19 @@ The 2008 Volkswagen Golf City is a compact car that offers a comfortable ride, r
     * Solution: Diagnose the source of the drain and replace any faulty components.
     * Estimated Cost to Fix: Varies depending on the issue
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **Hatchback Release Failure:**
@@ -66,3 +92,15 @@ The 2008 Volkswagen Golf City is a compact car that offers a comfortable ride, r
 
 **Overall Summary:**
 The 2008 Volkswagen Golf City has some potential issues with its engine, transmission, and suspension. These issues can range from minor annoyances to more costly repairs. It is important to be aware of these issues and address them if they occur to maintain a reliable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

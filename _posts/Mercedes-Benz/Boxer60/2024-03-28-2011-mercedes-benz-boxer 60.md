@@ -39,6 +39,19 @@ The 2011 Mercedes-Benz Boxer 60 was a performance-oriented SUV with a powerful e
     * Estimated Cost to Fix: $1,000 - $1,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * *No Issues Found*
@@ -46,6 +59,19 @@ The 2011 Mercedes-Benz Boxer 60 was a performance-oriented SUV with a powerful e
 **Electrical**
 
 * *No Issues Found*
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -67,3 +93,15 @@ The 2011 Mercedes-Benz Boxer 60 was a performance-oriented SUV with a powerful e
 **Summary**
 
 The 2011 Mercedes-Benz Boxer 60 had a range of issues affecting its engine and transmission. The engine valve stem seals and timing chain tensioner were known to fail, leading to oil loss and engine damage. The transmission torque converter and control module also experienced issues, causing acceleration problems and erratic shifting. Some interior components like the touchscreen display and climate control module were also prone to malfunctions. Overall, these issues could be costly to repair and impacted the reliability and satisfaction of Boxer 60 owners.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

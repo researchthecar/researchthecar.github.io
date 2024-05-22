@@ -64,3 +64,15 @@ The 2016 Volkswagen Caddy is a compact commercial vehicle that is available in a
 ### Summary
 
 The 2016 Volkswagen Caddy is a practical and fuel-efficient commercial vehicle, but it has a number of potential issues that can be costly to repair. Engine and transmission issues are the most common, and can range in severity from minor inconveniences to major breakdowns. Suspension, electrical, and interior issues are also relatively common, and can also be expensive to fix. Overall, the Caddy is a reliable vehicle, but it is important to be aware of the potential issues before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

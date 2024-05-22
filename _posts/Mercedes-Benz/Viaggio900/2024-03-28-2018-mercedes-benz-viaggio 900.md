@@ -29,6 +29,19 @@ The 2018 Mercedes-Benz Viaggio 900 is a luxury coach bus with a spacious interio
         * Estimated Cost to Fix: $1,500 - $2,500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **No Issues Found**
@@ -40,6 +53,19 @@ The 2018 Mercedes-Benz Viaggio 900 is a luxury coach bus with a spacious interio
     * Solution: Diagnosing and replacing faulty electrical components or wiring.
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior:**
 
@@ -56,3 +82,15 @@ The 2018 Mercedes-Benz Viaggio 900 is a luxury coach bus with a spacious interio
 **Summary:**
 
 The 2018 Mercedes-Benz Viaggio 900 is a generally reliable coach bus, but it does have some potential issues that can be costly to repair. The most severe issue is excessive oil consumption, which can lead to engine damage if not addressed promptly. Other issues, such as transmission hesitation and electrical system malfunctions, are less common and usually less expensive to fix. Overall, the Viaggio 900 is a comfortable and luxurious vehicle, but it is important to be aware of these potential issues before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -16,6 +16,19 @@ The 2009 Volkswagen CrossFox is a small SUV that was offered with a single gasol
 - **5-Speed Manual Transmission**
     - **Difficulty Shifting:** Description/Symptoms: Gears become difficult to shift, especially when cold. Solution: Replace faulty shift linkage bushings. Estimated Cost to Fix: $100 - $200. Recalls: None Found.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Front Suspension:**
     - **Excessive Clunking Noise:** Description/Symptoms: Loud clunking noise from front suspension when driving over bumps. Solution: Replace worn strut mounts. Estimated Cost to Fix: $150 - $250. Recalls: None Found.
@@ -26,6 +39,19 @@ The 2009 Volkswagen CrossFox is a small SUV that was offered with a single gasol
 **Electrical**
 - **Battery Issues:**
     - **Battery Drain:** Description/Symptoms: Battery loses charge quickly, even when the vehicle is not in use. Solution: Replace faulty battery or alternator. Estimated Cost to Fix: $200 - $500. Recalls: None Found.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 - **Headlight Failure:**
@@ -42,3 +68,15 @@ The 2009 Volkswagen CrossFox is a small SUV that was offered with a single gasol
 
 **Summary:**
 Overall, the 2009 Volkswagen CrossFox is a reliable vehicle with a few minor issues. The engine and transmission problems are relatively inexpensive to fix, while suspension issues can be more costly. Electrical issues are rare, but can be more expensive to repair. Interior issues are mostly minor and can be fixed for a reasonable price.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

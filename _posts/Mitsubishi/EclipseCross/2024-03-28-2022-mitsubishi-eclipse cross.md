@@ -37,6 +37,19 @@ The 2022 Mitsubishi Eclipse Cross is a compact crossover SUV that offers a choic
 
 * **None Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Stiff Ride:** The suspension can feel stiff and uncomfortable, especially on rough roads.
@@ -53,6 +66,19 @@ The 2022 Mitsubishi Eclipse Cross is a compact crossover SUV that offers a choic
     * **Estimated Cost:** Varies depending on the issue
     * **Recalls:** None found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **None Found**
@@ -68,3 +94,15 @@ The 2022 Mitsubishi Eclipse Cross is a compact crossover SUV that offers a choic
 **Summary:**
 
 The 2022 Mitsubishi Eclipse Cross has been reported to have issues with the turbocharger (1.5-liter engine), CVT transmission hesitation, stiff suspension, and potential electrical problems. While some of these issues are relatively minor and inexpensive to fix, others can be more severe and costly. It is important for potential buyers to be aware of these potential issues before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -34,6 +34,19 @@ Available engine and transmission options for the Sprinter 3500XD include:
 * **Estimated Cost to Fix:** $100 - $500
 * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -51,6 +64,19 @@ Available engine and transmission options for the Sprinter 3500XD include:
 * **Solution:** Replace starter motor.
 * **Estimated Cost to Fix:** $400 - $800+
 * **Recalls:** None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -77,3 +103,15 @@ Available engine and transmission options for the Sprinter 3500XD include:
 **Summary**
 
 Overall, the 2018 Mercedes-Benz Sprinter 3500XD has a moderate level of reported issues, with some being more severe and costly than others. Common problems include turbocharger failure, shift delays, alternator failure, and dashboard panel cracking. While some repairs can be relatively inexpensive, others may require significant investment. Regular maintenance and addressing issues promptly can help extend the vehicle's life and minimize long-term repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

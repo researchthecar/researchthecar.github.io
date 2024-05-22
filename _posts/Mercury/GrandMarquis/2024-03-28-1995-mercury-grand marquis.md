@@ -31,6 +31,19 @@ Despite its overall reliability, the 1995 Mercury Grand Marquis had some reporte
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front struts prematurely worn:** The front struts may wear out prematurely, leading to a rough ride and poor handling.
@@ -44,6 +57,19 @@ Despite its overall reliability, the 1995 Mercury Grand Marquis had some reporte
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $400 - $600
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -59,3 +85,15 @@ Despite its overall reliability, the 1995 Mercury Grand Marquis had some reporte
 **Summary:**
 
 The 1995 Mercury Grand Marquis had a few reported issues, primarily related to engine and suspension problems. While these issues can be costly to repair, they are not widespread and the vehicle is generally considered reliable. Owners appreciate the Grand Marquis's luxurious interior, comfortable ride, and powerful V8 engine.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

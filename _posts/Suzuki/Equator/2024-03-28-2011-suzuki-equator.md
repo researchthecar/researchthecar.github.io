@@ -29,6 +29,19 @@ Solution: Replace or rebuild the transmission
 Estimated Cost to Fix: $1,500 - $3,000
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front Suspension Components**
 Description/Symptoms: Noises, vibrations, premature wear
@@ -42,6 +55,19 @@ Description/Symptoms: Frequent battery discharge, difficulty starting
 Solution: Replace the battery or alternator
 Estimated Cost to Fix: $100 - $500
 Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **Rust Issues**
@@ -60,3 +86,15 @@ Recalls: None Found
 **Summary**
 
 The 2011 Suzuki Equator is a midsize pickup truck with some significant issues in key areas such as the engine, transmission, and suspension. These issues can be costly to repair and may affect the vehicle's reliability and safety. Potential owners should carefully consider these issues before purchasing an Equator.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

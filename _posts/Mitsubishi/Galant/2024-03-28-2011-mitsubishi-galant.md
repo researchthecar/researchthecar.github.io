@@ -31,6 +31,19 @@ People appreciate the Galant's spacious interior, comfortable ride, and responsi
   * Estimated Cost to Fix: $1,500 - $2,500+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arm Bushing Failure**
@@ -46,6 +59,19 @@ People appreciate the Galant's spacious interior, comfortable ride, and responsi
   * Solution: Replace power window switch
   * Estimated Cost to Fix: $150 - $250+
   * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -66,3 +92,15 @@ People appreciate the Galant's spacious interior, comfortable ride, and responsi
 **Summary:**
 
 The 2011 Mitsubishi Galant is a generally reliable vehicle. However, it has some common issues, including intake valve sticking, transmission slipping, and suspension wear. The severity of these issues can vary, and the cost to fix can range from minor to major repairs. It's important for owners to stay informed about potential problems and address them promptly to maintain the vehicle's safety and performance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

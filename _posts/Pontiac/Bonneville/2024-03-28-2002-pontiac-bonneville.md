@@ -48,6 +48,19 @@ The 2002 Pontiac Bonneville is a mid-size sedan known for its spacious interior,
         * Estimated Cost to Fix: $300 - $1000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushings Worn:**
@@ -73,6 +86,19 @@ The 2002 Pontiac Bonneville is a mid-size sedan known for its spacious interior,
     * Solution: Replace the headlight switch.
     * Estimated Cost to Fix: $100 - $250+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -103,3 +129,15 @@ The 2002 Pontiac Bonneville is a mid-size sedan known for its spacious interior,
 **Summary:**
 
 The 2002 Pontiac Bonneville has a number of potential issues, ranging from minor electrical glitches to serious engine and transmission failures. The intake manifold gasket leak and timing chain tensioner failure are two of the most severe problems, requiring costly repairs. Overall, the cost of repairs for the Bonneville can vary widely depending on the issue and the severity of the damage.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

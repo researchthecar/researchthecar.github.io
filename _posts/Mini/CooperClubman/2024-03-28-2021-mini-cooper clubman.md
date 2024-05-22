@@ -80,3 +80,15 @@ Estimated Cost to Fix: $200 - $500+
 ### Summary
 
 Overall, the 2021 Mini Cooper Clubman has some potential issues that require attention. The engine and transmission issues can be serious and expensive to fix. However, the majority of other issues are relatively minor and less costly to repair. When considering this vehicle, it is crucial to be aware of these potential problems and factor in the cost of repairs when making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -32,6 +32,19 @@ The 1996 Toyota Corolla is a compact car available in sedan, coupe, and wagon bo
         * Estimated Cost to Fix: $200 - $500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Ball Joint Failure:**
@@ -58,6 +71,19 @@ The 1996 Toyota Corolla is a compact car available in sedan, coupe, and wagon bo
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust on Rear Wheel Arches:**
@@ -82,3 +108,15 @@ The 1996 Toyota Corolla is a compact car available in sedan, coupe, and wagon bo
 **Summary**
 
 The 1996 Toyota Corolla has some common issues, but they are generally minor and relatively inexpensive to fix. The engine and transmission are generally reliable, but issues can arise with the head gasket and shift solenoids. Suspension issues include ball joint and sway bar link failure, while electrical problems can include alternator and starter failure. Exterior and interior problems are limited to rust on the rear wheel arches and climate control and power window motor malfunctions. Overall, the 1996 Toyota Corolla is a reliable and affordable vehicle with minor maintenance issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

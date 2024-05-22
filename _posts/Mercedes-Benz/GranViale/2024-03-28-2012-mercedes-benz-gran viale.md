@@ -43,6 +43,19 @@ The 2012 Mercedes-Benz Gran Viale is a luxurious sedan offered with a choice of 
         * Solution: Repair or replace transmission
         * Estimated Cost to Fix: $3,500 - $5,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -57,6 +70,19 @@ The 2012 Mercedes-Benz Gran Viale is a luxurious sedan offered with a choice of 
     * Description/Symptoms: Battery repeatedly goes dead, electrical system malfunctions
     * Solution: Diagnose and repair/replace faulty electrical components
     * Estimated Cost to Fix: $500 - $1,000+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -76,3 +102,15 @@ The 2012 Mercedes-Benz Gran Viale is a luxurious sedan offered with a choice of 
 **Summary:**
 
 The 2012 Mercedes-Benz Gran Viale has faced some significant issues, particularly with its engines. The 3.5L V6's intake manifold gasket and timing chain tensioner failures can lead to costly repairs. The 4.6L V8's balance shaft module and valve seat recession issues are even more severe and expensive to resolve. The 7-speed transmission may also experience shudder and slip. Additionally, electrical problems with the alternator and battery discharge have been reported. Interior issues include a rattling sunroof and navigation system malfunctions. These issues can be a major inconvenience and financial burden for owners.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

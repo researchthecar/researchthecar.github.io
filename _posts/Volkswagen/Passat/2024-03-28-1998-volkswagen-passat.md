@@ -47,6 +47,19 @@ Owners of the 1998 Volkswagen Passat generally praise the vehicle's comfortable 
     * Estimated Cost to Fix: $200 - $400
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension strut mounts**
@@ -72,6 +85,19 @@ Owners of the 1998 Volkswagen Passat generally praise the vehicle's comfortable 
     * Solution: Replace the starter.
     * Estimated Cost to Fix: $300 - $500
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -102,3 +128,15 @@ Owners of the 1998 Volkswagen Passat generally praise the vehicle's comfortable 
 **Summary:**
 
 The 1998 Volkswagen Passat is a comfortable and spacious car that is known for its responsive handling. However, it is also known for its high maintenance costs, poor fuel economy, and lack of features. The most common issues with the Passat include engine misfires, timing chain tensioner failure, fuel injector failure, clutch failure, transmission fluid leaks, and suspension strut mount wear. The severity of these issues varies, but they can all be expensive to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

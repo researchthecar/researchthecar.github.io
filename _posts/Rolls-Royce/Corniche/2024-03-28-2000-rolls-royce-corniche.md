@@ -44,6 +44,19 @@ The 2000 Rolls-Royce Corniche is a luxurious convertible grand tourer featuring 
     * Estimated Cost to Fix: $200 - $800
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Failure:**
@@ -64,6 +77,19 @@ The 2000 Rolls-Royce Corniche is a luxurious convertible grand tourer featuring 
     * Solution: Replace or repair control module
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -89,3 +115,15 @@ The 2000 Rolls-Royce Corniche is a luxurious convertible grand tourer featuring 
 **Summary:**
 
 Overall, the 2000 Rolls-Royce Corniche is a luxurious grand tourer with potential issues in various components. The severity and cost of these issues can be significant, especially for major repairs such as transmission failure or suspension replacement. Potential buyers should be prepared for high maintenance costs to keep their vehicle in pristine condition. The age of the vehicle also means that parts availability and expertise in servicing it may become more limited in the future.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

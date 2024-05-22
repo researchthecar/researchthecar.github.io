@@ -44,6 +44,19 @@ People who like the Outback appreciate its spacious interior, comfortable ride, 
     * Estimated Cost to Fix: $0 - $3,000+
     * Recalls: NT17-021
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Sway Bar Bushing Failure:**
@@ -70,6 +83,19 @@ People who like the Outback appreciate its spacious interior, comfortable ride, 
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Windshield Wiper Linkage Failure:**
@@ -94,3 +120,15 @@ People who like the Outback appreciate its spacious interior, comfortable ride, 
 **Summary:**
 
 While the 2014 Subaru Outback is generally a reliable vehicle, it has experienced some issues that owners should be aware of. The engine and transmission problems are potentially the most severe and expensive to fix, but the electrical and suspension issues can also be costly. Overall, the severity and frequency of these issues vary, but it is important to consider the potential costs and maintenance requirements when purchasing or owning this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

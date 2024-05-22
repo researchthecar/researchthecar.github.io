@@ -48,6 +48,19 @@ The 2017 Subaru Outback is a midsize crossover SUV known for its versatility, al
 
 * **No Major Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Suspension:**
@@ -75,6 +88,19 @@ The 2017 Subaru Outback is a midsize crossover SUV known for its versatility, al
     * Solution: Repair or replace electrical harness
     * Estimated Cost to Fix: $500 - $1,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Windshield Wiper Linkage Failure**
@@ -95,3 +121,15 @@ The 2017 Subaru Outback is a midsize crossover SUV known for its versatility, al
 
 **Summary**
 The 2017 Subaru Outback is a generally reliable vehicle, but it does have some potential issues, particularly with the 2.5-liter engine and the Lineartronic CVT transmission. The severity of the issues varies, with some being relatively minor and others more costly to repair. Overall, the Outback is a well-rounded vehicle that has been praised for its versatility and capability, but it is important to be aware of the potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

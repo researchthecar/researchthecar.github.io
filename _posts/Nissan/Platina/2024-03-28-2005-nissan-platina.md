@@ -37,6 +37,19 @@ The 2005 Nissan Platina is a compact sedan known for its affordability, fuel eff
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mounts:** Worn strut mounts can cause noise and vibrations during driving.
@@ -52,6 +65,19 @@ The 2005 Nissan Platina is a compact sedan known for its affordability, fuel eff
 * **Solution:** Battery testing, charging system inspection, repair or replacement of faulty components.
 * **Estimated Cost to Fix:** $100 - $500+
 * **Recalls:** None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -72,3 +98,15 @@ The 2005 Nissan Platina is a compact sedan known for its affordability, fuel eff
 **Summary:**
 
 Overall, the 2005 Nissan Platina is a reliable vehicle with relatively minor issues. The most common issues are engine oil leaks, transmission slipping, suspension noise, and electrical battery drain. The severity and cost of these issues vary, but most can be addressed for a reasonable price. Regular maintenance and timely repairs can help extend the life of the vehicle and minimize the likelihood of costly problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

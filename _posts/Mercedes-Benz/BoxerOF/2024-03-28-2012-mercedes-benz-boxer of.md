@@ -33,6 +33,19 @@ The 2012 Mercedes-Benz Boxer OF is a versatile commercial van known for its spac
         * Estimated Cost to Fix: $500 - $2,000
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Wear**
@@ -53,6 +66,19 @@ The 2012 Mercedes-Benz Boxer OF is a versatile commercial van known for its spac
     * Solution: Replace the faulty alternator.
     * Estimated Cost to Fix: Parts: $500 - $1,000; Labor: $200 - $400
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -78,3 +104,15 @@ The 2012 Mercedes-Benz Boxer OF is a versatile commercial van known for its spac
 **Summary**
 
 The 2012 Mercedes-Benz Boxer OF has received mixed reviews from owners. While it offers many advantages, such as spaciousness, towing capacity, and safety features, it has also faced some specific issues. The severity and cost of these issues vary depending on the nature of the problem and the extent of repairs required. However, it is essential for owners to be aware of potential concerns and to address them promptly to ensure the reliable and efficient operation of their vehicles.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

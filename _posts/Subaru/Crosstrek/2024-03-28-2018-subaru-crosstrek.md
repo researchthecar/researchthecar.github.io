@@ -33,6 +33,19 @@ The 2018 Subaru Crosstrek is a compact SUV that is known for its all-wheel drive
         * Estimated Cost to Fix: $2,500 - $4,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -49,6 +62,19 @@ The 2018 Subaru Crosstrek is a compact SUV that is known for its all-wheel drive
         * Solution: The headlight bulbs or wiring may need to be replaced.
         * Estimated Cost to Fix: $100 - $300+
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -74,3 +100,15 @@ The 2018 Subaru Crosstrek is a compact SUV that is known for its all-wheel drive
 **Summary**
 
 Overall, the 2018 Subaru Crosstrek has received mixed reviews from owners. While some owners have praised its off-road performance and fuel efficiency, others have experienced a number of issues with the engine, transmission, electrical system, and interior. The severity and cost of these issues vary, but some of them can be quite expensive to fix. As with any vehicle, it is important to do your research before purchasing a Crosstrek and to be aware of the potential problems that you may encounter.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

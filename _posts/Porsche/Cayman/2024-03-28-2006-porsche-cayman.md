@@ -65,6 +65,19 @@ The 2006 Porsche Cayman is a mid-engine sports car known for its handling, perfo
     * Estimated Cost to Fix: $1,000 - $1,500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Shock Absorber Mount Failure:**
@@ -92,6 +105,19 @@ The 2006 Porsche Cayman is a mid-engine sports car known for its handling, perfo
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $500 - $800
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -124,3 +150,15 @@ The 2006 Porsche Cayman is a mid-engine sports car known for its handling, perfo
 **Summary:**
 
 The 2006 Porsche Cayman is a reliable sports car with exceptional handling and performance. However, it does have some potential issues that can be costly to repair, such as bore scoring and transmission bearing failures. Therefore, it is important to carefully inspect any used Cayman before purchasing and to have it serviced regularly by a qualified mechanic.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

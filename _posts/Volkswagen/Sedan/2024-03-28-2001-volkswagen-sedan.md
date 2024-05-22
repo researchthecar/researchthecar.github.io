@@ -73,6 +73,19 @@ The 2001 Volkswagen Sedan, known as the Bora in Europe, is a compact sedan that 
 > Solution: Replace the clutch master cylinder.
 > Estimated Cost to Fix: $200 - $300+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Bearing Failure:**
@@ -98,6 +111,19 @@ The 2001 Volkswagen Sedan, known as the Bora in Europe, is a compact sedan that 
 > Description/Symptoms: Inability to lock or unlock the doors using the remote or key.
 > Solution: Replace the central locking module.
 > Estimated Cost to Fix: $200 - $400+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -128,3 +154,15 @@ The 2001 Volkswagen Sedan, known as the Bora in Europe, is a compact sedan that 
 **Summary**
 
 The 2001 Volkswagen Sedan has received generally positive reviews for its comfort, handling, and value. However, it has experienced some reliability issues that can be expensive to repair. Common engine problems include timing chain and turbocharger issues with the 1.8T, and intake manifold and cam chain tensioner issues with the 2.8L V6. Transmission problems include TCM failures and torque converter shuddering. Suspension issues involve strut mount bearing and shock absorber mount failures. Electrical problems include power window motor, heater core, and central locking module failures. Exterior issues involve door lock cylinder and tail light seal problems. Interior issues include sunroof drain plug clogging, headliner sagging, and dashboard cracking. Overall, the cost of repairs for these issues can vary significantly, so it is essential to factor potential maintenance costs into the vehicle's purchase price.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

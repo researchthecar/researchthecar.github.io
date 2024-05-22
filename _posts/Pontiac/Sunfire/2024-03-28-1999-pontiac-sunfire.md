@@ -27,6 +27,19 @@ The 1999 Pontiac Sunfire is a compact sedan that offers both performance and aff
     * Estimated Cost to Fix: $1500 - $2500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 * **Strut Mount Bearing Failure**
     * Description/Symptoms: The strut mount bearings wear out, causing clunking noises and poor handling.
@@ -46,6 +59,19 @@ The 1999 Pontiac Sunfire is a compact sedan that offers both performance and aff
     * Estimated Cost to Fix: $200 - $400 per motor
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior:**
 * **Rust on Exhaust Pipe**
     * Description/Symptoms: The exhaust pipe rusts through and develops holes.
@@ -62,3 +88,15 @@ The 1999 Pontiac Sunfire is a compact sedan that offers both performance and aff
 
 **Summary:**
 The 1999 Pontiac Sunfire has a number of significant issues, including cracked throttle bodies, transmission problems, and suspension issues. The severity of these issues can range from minor annoyances to major safety concerns, and the cost of repairs can be substantial. While the Sunfire offers good performance and affordability, these issues should be carefully considered before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

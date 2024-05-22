@@ -52,6 +52,19 @@ People love the Tiguan for its roomy interior, sharp handling, and fuel efficien
    * Estimated Cost to Fix: $2,000 - $4,000+
    * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear suspension noise**
@@ -67,6 +80,19 @@ People love the Tiguan for its roomy interior, sharp handling, and fuel efficien
    * Solution: The electrical system may need to be inspected for parasitic draws, and the battery may need to be replaced.
    * Estimated Cost to Fix: $100 - $500+
    * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -87,3 +113,15 @@ People love the Tiguan for its roomy interior, sharp handling, and fuel efficien
 **Summary**
 
 Overall, the 2021 Volkswagen Tiguan has received positive reviews for its spacious and comfortable interior, sharp handling, and fuel efficiency. However, there have been some issues reported with the engine, transmission, and suspension. These issues can be costly to repair, and they may impact the reliability and longevity of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

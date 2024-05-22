@@ -46,6 +46,19 @@ Drivers appreciate the Lancer's sporty handling, comfortable interior, and affor
 - **Six-speed automatic transmission**
   - **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Front MacPherson struts**
   - **Strut Mount Bearing Failure**
@@ -72,6 +85,19 @@ Drivers appreciate the Lancer's sporty handling, comfortable interior, and affor
     - Estimated Cost to Fix: $300 - $500+
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 - **Headlight Assembly Moisture**
     - Description/Symptoms: Water or condensation inside the headlight assembly
@@ -94,3 +120,15 @@ Drivers appreciate the Lancer's sporty handling, comfortable interior, and affor
 **Vehicle Summary**
 
 The 2007 Mitsubishi Lancer is a generally reliable and affordable vehicle. However, some common issues can arise, particularly with the 2.0-liter engine and automatic transmissions. Overall, maintenance costs are moderate, with most repairs falling within the $200-$800+ range.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -41,6 +41,19 @@ The 1990 Volkswagen Transporter was a popular choice for families and businesses
     - Estimated Cost to Fix: $1,000 - $1,500+
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Front Suspension Struts:** The front suspension struts are responsible for absorbing shock and providing stability. If they fail, the vehicle will handle poorly and may be unsafe to drive.
@@ -59,6 +72,19 @@ The 1990 Volkswagen Transporter was a popular choice for families and businesses
   - Solution: Find and repair the source of the parasitic draw.
   - Estimated Cost to Fix: $100 - $500+
   - Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -82,3 +108,15 @@ The 1990 Volkswagen Transporter was a popular choice for families and businesses
 **Summary**
 
 The Volkswagen Transporter is a versatile vehicle with a spacious interior. However, it is known to have several common issues that can be expensive to repair. Potential buyers should be aware of these issues before purchasing a used Transporter. The severity of the issues varies, but some can be costly to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

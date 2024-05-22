@@ -58,6 +58,19 @@ The 2005 Pontiac Sunfire is a compact coupe or sedan that offers a variety of en
     * Estimated Cost to Fix: $1,200 - $1,800+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure**
@@ -78,6 +91,19 @@ The 2005 Pontiac Sunfire is a compact coupe or sedan that offers a variety of en
     * Solution: Replace the starter
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -103,3 +129,15 @@ The 2005 Pontiac Sunfire is a compact coupe or sedan that offers a variety of en
 **Summary**
 
 The 2005 Pontiac Sunfire is a reliable and affordable vehicle, but it is prone to some common issues. The most severe and expensive issues include head gasket failure, timing chain failure, and transmission slippage. Other issues, such as electrical failures and interior component failures, are less severe and less costly to fix. Overall, the Sunfire is a good choice for budget-minded drivers who are willing to accept some potential repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -30,6 +30,19 @@ The 2014 Mercedes-Benz Gran Viale LE is a luxury sedan powered by a 3.5L V6 engi
         - Estimated Cost to Fix: $1,500 - $3,000+
         - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Front Struts:**
     - **Strut Mount Failure:**
@@ -51,6 +64,19 @@ The 2014 Mercedes-Benz Gran Viale LE is a luxury sedan powered by a 3.5L V6 engi
         - Solution: Replacing the alternator is typically necessary to restore proper charging.
         - Estimated Cost to Fix: $500 - $800+
         - Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 - **Door Handles:**
@@ -77,3 +103,15 @@ The 2014 Mercedes-Benz Gran Viale LE is a luxury sedan powered by a 3.5L V6 engi
 **Summary:**
 
 While the 2014 Mercedes-Benz Gran Viale LE offers a luxurious and comfortable driving experience, owners have reported a range of issues affecting various components. The most significant problems include engine intake valve deposits, transmission shifting issues, and front strut mount failure. The severity and cost of these issues can vary depending on the extent of the problem and the parts that need to be replaced. Proper maintenance and timely repairs are crucial to mitigate these potential issues and ensure the vehicle's optimal performance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

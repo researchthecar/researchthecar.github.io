@@ -74,3 +74,15 @@ The Nuevo Gol is a popular choice for budget-minded buyers in South America. It 
 ### Summary
 
 The 2015 Volkswagen Nuevo Gol is a budget-friendly vehicle with a spacious interior and good fuel efficiency. However, it has been plagued by a number of issues, particularly with the 1.0-liter engine. The most severe issues include intake valve sticking and timing chain tensioner failure, which can both lead to catastrophic engine damage. The transmission and electrical system have also had some reported issues. Overall, the Nuevo Gol is a relatively affordable vehicle, but it is important to be aware of the potential issues before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

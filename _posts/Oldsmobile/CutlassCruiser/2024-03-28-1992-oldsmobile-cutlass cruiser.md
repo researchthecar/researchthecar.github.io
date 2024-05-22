@@ -44,6 +44,19 @@ The 1992 Oldsmobile Cutlass Cruiser is a full-size station wagon that was popula
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Struts Failure:**
@@ -70,6 +83,19 @@ The 1992 Oldsmobile Cutlass Cruiser is a full-size station wagon that was popula
     * Estimated Cost to Fix: $100 - $250+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust on Undercarriage:**
@@ -94,3 +120,15 @@ The 1992 Oldsmobile Cutlass Cruiser is a full-size station wagon that was popula
 **Summary:**
 
 Overall, the 1992 Oldsmobile Cutlass Cruiser is a reliable vehicle with a spacious and comfortable interior. However, it has some common issues that owners may encounter, primarily related to the engine (intake manifold gasket failure) and transmission (torque converter shudder). These issues can be costly to repair, so it's important to factor their potential occurrence into the overall ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

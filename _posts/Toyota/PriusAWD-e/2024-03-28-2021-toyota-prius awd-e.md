@@ -33,6 +33,19 @@ The Prius AWD-e is praised for its fuel efficiency, reliability, and spacious in
 * **6-Speed Automatic Transmission**
     * **No issues found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension noise:** Noise or clunking sounds from the front suspension, particularly over bumps.
@@ -50,6 +63,19 @@ The Prius AWD-e is praised for its fuel efficiency, reliability, and spacious in
         * Solution: Replace or seal headlights
         * Estimated Cost to Fix: $300 - $500
         * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -72,3 +98,15 @@ The Prius AWD-e is praised for its fuel efficiency, reliability, and spacious in
 **Summary**
 
 Overall, the 2021 Toyota Prius AWD-e is a reliable and efficient vehicle. However, it has been reported to experience some issues, particularly with the engine, transmission, and electrical system. The severity and cost of these issues vary, but they can be significant in some cases. Potential buyers should be aware of these potential problems before purchasing a Prius AWD-e.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

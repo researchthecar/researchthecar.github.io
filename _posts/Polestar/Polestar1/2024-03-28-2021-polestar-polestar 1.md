@@ -41,6 +41,19 @@ Despite its impressive performance and technology, the Polestar 1 has faced nume
     * **Solution:** Replacement or reprogramming of the ECU.
     * **Estimated Cost to Fix:** $1,000 - $1,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Noise:**
@@ -62,6 +75,19 @@ Despite its impressive performance and technology, the Polestar 1 has faced nume
     * **Description/Symptoms:** Difficulty charging the vehicle or slow charging speeds.
     * **Solution:** Repair or replacement of charging components.
     * **Estimated Cost to Fix:** $500 - $1,500+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -92,3 +118,15 @@ Despite its impressive performance and technology, the Polestar 1 has faced nume
 **Summary**
 
 The 2021 Polestar 1 has encountered a range of issues that can be both costly and frustrating for owners. The severity of the issues varies, with some requiring extensive repairs and others being relatively minor. The most common issues reported include engine problems, transmission issues, and electrical malfunctions. The estimated cost of repairs can add up quickly, with some issues exceeding $10,000 to fix. It is important for potential buyers to be aware of these issues and factor in the potential cost of repairs when considering the purchase of a Polestar 1.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

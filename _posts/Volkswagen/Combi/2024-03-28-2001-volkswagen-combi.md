@@ -18,12 +18,38 @@ The 2001 Volkswagen Combi is a versatile and practical vehicle with a spacious i
     * **Difficulty shifting gears:** Shifting gears may become difficult or impossible, especially when the transmission is cold. Symptoms include grinding noises, difficulty moving the shift lever, and a check engine light. Solution: Replace the transmission fluid or shift linkage. Estimated cost to fix: $200 - $500.
     * **Clutch failure:** The clutch may wear out prematurely, causing slipping and difficulty engaging gears. Symptoms include slipping gears, a burning smell, and difficulty starting the vehicle. Solution: Replace the clutch. Estimated cost to fix: $800 - $1200.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 No issues found.
 
 **Electrical**
 * **Alternator failure:** The alternator may fail, causing the battery to drain and the vehicle to lose power. Symptoms include dim lights, difficulty starting the vehicle, and a check engine light. Solution: Replace the alternator. Estimated cost to fix: $600 - $800.
 * **Battery drain:** The battery may drain prematurely, causing difficulty starting the vehicle. Symptoms include a dead battery, dim lights, and a check engine light. Solution: Diagnose and repair the battery drain. Estimated cost to fix: $100 - $400.
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 * **Door handle failure:** The door handles may become loose or break, making it difficult to open the doors. Symptoms include loose door handles, difficulty opening the doors, and a rattling noise. Solution: Replace the door handles. Estimated cost to fix: $100 - $200.
@@ -34,3 +60,15 @@ No issues found.
 
 **Summary**
 While the 2001 Volkswagen Combi is generally reliable, there are a few common problems that owners should be aware of. The most severe issue is coolant leaks, which can lead to engine damage if not addressed promptly. Other issues, such as door handle and trunk latch failure, are less severe but can still be inconvenient. Overall, the cost to fix these issues is relatively low, with most repairs costing less than $800.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

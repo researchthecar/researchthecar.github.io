@@ -56,6 +56,19 @@ Drivers appreciate the Sidekick's maneuverability, reliable engine, and affordab
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Ball joint wear:** Worn ball joints can cause clunking noises, loose steering, and poor handling.
@@ -79,6 +92,19 @@ Drivers appreciate the Sidekick's maneuverability, reliable engine, and affordab
     * Solution: Trace and repair wiring issues.
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -105,3 +131,15 @@ Drivers appreciate the Sidekick's maneuverability, reliable engine, and affordab
 **Summary:**
 
 While the Suzuki Sidekick is generally known as a reliable and affordable vehicle, it is not without its issues. The most common problems include engine head gasket failures, clutch problems, suspension wear, and electrical issues. Rust and corrosion are also a concern, especially in vehicles that are driven in harsh climates. Overall, the cost of repairs can vary depending on the severity of the problem and the availability of parts. With proper maintenance and care, the Sidekick can provide a decent ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

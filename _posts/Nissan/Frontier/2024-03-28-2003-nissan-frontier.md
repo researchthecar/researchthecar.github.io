@@ -55,6 +55,19 @@ Owners love the Frontier's powerful engines, comfortable interior, and off-road 
    - Estimated Cost to Fix: $500 - $1,000
    - Recalls: #98V135000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Leaf Spring Squeak:** Squeaking or groaning noises coming from the rear leaf springs
@@ -71,6 +84,19 @@ Owners love the Frontier's powerful engines, comfortable interior, and off-road 
    - Solution: Diagnosis and repair of electrical components causing the drain, such as parasitic draw from accessories
    - Estimated Cost to Fix: Varies widely depending on the specific cause
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior:**
 
 * **Body Rust:** Premature rusting on various body panels, particularly under the truck bed
@@ -86,3 +112,15 @@ Owners love the Frontier's powerful engines, comfortable interior, and off-road 
 **Summary:**
 
 While the 2003 Nissan Frontier offers strong engines and off-road capabilities, it has experienced some significant issues. Engine problems, such as oil consumption and timing chain tensioner failure, can be costly to repair. Transmission issues are also common, particularly in the manual and 4-speed automatic transmissions. Additionally, electrical and suspension issues can be problematic. Overall, the severity and cost of these issues vary widely, so potential buyers should carefully consider their options before purchasing a used 2003 Frontier.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -92,3 +92,15 @@ Recalls: None Found
 ## Summary
 
 Overall, the 2017 Rolls-Royce Dawn is a reliable and well-built vehicle. However, it is not without its problems. Some of the most common issues that people have reported with the Dawn include intake valve carbon buildup, fuel injector failure, shifting issues, suspension failure, battery drain, infotainment system issues, convertible top issues, door handle failure, climate control issues, and power seat issues. The severity and cost of these issues vary, but most can be repaired for a reasonable price.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

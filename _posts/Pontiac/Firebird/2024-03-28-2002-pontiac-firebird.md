@@ -33,6 +33,19 @@ The 2002 Pontiac Firebird was a sporty muscle car available with a range of engi
 * **Shift Linkage Issues:** Symptoms include difficulty shifting gears or gear popping out of place. Solution: Adjust or replace shift linkage. Estimated Cost to Fix: $100 - $300+. Recalls: None Found
 * **Synchronizer Failure:** Symptoms include grinding or difficulty shifting gears. Solution: Replace synchronizers. Estimated Cost to Fix: $500 - $1,000+. Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:** Symptoms include excessive noise, vibration, and poor handling. Solution: Replace strut mounts. Estimated Cost to Fix: $200 - $400+. Recalls: None Found
@@ -42,6 +55,19 @@ The 2002 Pontiac Firebird was a sporty muscle car available with a range of engi
 
 * **Alternator Failure:** Symptoms include dim headlights, difficulty starting, and battery warning light illuminated. Solution: Replace alternator. Estimated Cost to Fix: $300 - $600+. Recalls: None Found
 * **Battery Failure:** Symptoms include difficulty starting, dim headlights, and dead battery. Solution: Replace battery. Estimated Cost to Fix: $100 - $200+. Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -56,3 +82,15 @@ The 2002 Pontiac Firebird was a sporty muscle car available with a range of engi
 **Summary:**
 
 The 2002 Pontiac Firebird has several potential issues, particularly with its engine and transmission. Some of these issues, such as spark plug failure and window regulator failure, are relatively minor and inexpensive to fix. However, more serious issues like cylinder head gasket failure and torque converter failure can be costly. Overall, the severity of the issues and the potential repair costs should be considered when purchasing or maintaining a 2002 Firebird.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

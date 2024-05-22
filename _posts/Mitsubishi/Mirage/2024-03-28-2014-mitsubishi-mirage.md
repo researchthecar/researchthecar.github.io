@@ -43,6 +43,19 @@ The 2014 Mitsubishi Mirage is a compact, fuel-efficient hatchback powered by a 1
     * Estimated Cost to Fix: $500 - $1,500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **No Issues Found**
@@ -54,6 +67,19 @@ The 2014 Mitsubishi Mirage is a compact, fuel-efficient hatchback powered by a 1
     * Solution: Replacing the battery, alternator, or electrical components causing the drain.
     * Estimated Cost to Fix: $200 - $600
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior:**
 
@@ -79,3 +105,15 @@ The 2014 Mitsubishi Mirage is a compact, fuel-efficient hatchback powered by a 1
 **Summary:**
 
 The 2014 Mitsubishi Mirage has experienced several issues, particularly with its engine and transmission. While some repairs, such as difficult shifting, are relatively inexpensive, others, like excessive oil consumption, can be costly and require major engine work. The interior and electrical systems have also had their share of problems, leading to potential discomfort and inconvenience. Overall, the severity and cost of these issues vary, so it's important to consider when purchasing or maintaining this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

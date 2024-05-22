@@ -45,6 +45,19 @@ While the GTI is generally well-regarded, several issues have been reported, whi
     * Estimated Cost to Fix: $2000 - $3000+
     * Recalls: NHTSA Recall ID: 16V643000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut top mount bearing failure**
@@ -65,6 +78,19 @@ While the GTI is generally well-regarded, several issues have been reported, whi
     * Solution: Diagnosing and repairing electrical system, replacing battery
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -90,3 +116,15 @@ While the GTI is generally well-regarded, several issues have been reported, whi
 **Summary**
 
 While the 2011 Volkswagen GTI has many positive attributes, it also has several potential issues that owners should be aware of. The engine and transmission problems can be particularly costly to repair, especially the timing chain tensioner failure. However, many of the other issues are relatively minor and inexpensive to fix. Overall, the GTI is still a reliable and enjoyable vehicle for those who can afford to maintain it properly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

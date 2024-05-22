@@ -34,6 +34,19 @@ The 2003 Smart City-Coupe is a compact city car known for its small size, fuel e
     * Estimated Cost to Fix: $200 - $500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Knock:**
@@ -60,6 +73,19 @@ The 2003 Smart City-Coupe is a compact city car known for its small size, fuel e
     * Estimated Cost to Fix: $200 - $400
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust:**
@@ -84,3 +110,15 @@ The 2003 Smart City-Coupe is a compact city car known for its small size, fuel e
 **Summary:**
 
 While the 2003 Smart City-Coupe offers unique advantages such as fuel efficiency and maneuverability, it has a history of reliability issues, particularly with the engine and transmission. Engine oil leaks, premature timing chain failure, and shift issues are common complaints. Suspension problems, electrical failures, and interior rattles can also occur. Rust can be a severe issue, affecting the undercarriage and body panels. The cost of repairs can vary widely depending on the severity of the issue. Regular maintenance and timely repairs are crucial to extend the lifespan of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

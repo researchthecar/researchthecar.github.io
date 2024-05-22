@@ -34,6 +34,19 @@ The 1995 Rolls-Royce Corniche IV is a luxurious convertible that epitomizes Brit
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front and Rear Suspension:**
@@ -58,6 +71,19 @@ The 1995 Rolls-Royce Corniche IV is a luxurious convertible that epitomizes Brit
     * Solution: Trace and repair the source of the short.
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -87,3 +113,15 @@ The 1995 Rolls-Royce Corniche IV is a luxurious convertible that epitomizes Brit
 **Summary:**
 
 The 1995 Rolls-Royce Corniche IV is a classic luxury vehicle with a unique blend of British elegance and performance. While it offers a comfortable and stylish ride, potential issues with the engine, suspension, and electrical systems should be considered. The severity and cost of these issues can vary depending on the specific components affected and the extent of the damage. Regular maintenance and vigilant inspections are recommended to ensure that this iconic car remains in pristine condition.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -27,6 +27,19 @@ The 2019 Rolls-Royce Dawn is a luxurious convertible that combines classic styli
 * Solution: Reprogram transmission control module or replace transmission fluid
 * Estimated Cost to Fix: $100 - $500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Adaptive Air Suspension**
@@ -50,6 +63,19 @@ The 2019 Rolls-Royce Dawn is a luxurious convertible that combines classic styli
 * Solution: Update system software or replace touchscreen display
 * Estimated Cost to Fix: $500 - $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 **Convertible Top Motor Failure**
@@ -67,3 +93,15 @@ The 2019 Rolls-Royce Dawn is a luxurious convertible that combines classic styli
 **Summary:**
 
 Overall, the 2019 Rolls-Royce Dawn is a highly desirable vehicle that offers exceptional performance and luxury. However, it is not without its issues. The most common problems reported by owners involve the fuel injectors, transmission, suspension, and electrical system. While the cost of repairs can be high, the severity of the issues is relatively minor and they should not significantly impact the overall enjoyment of this luxurious convertible.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

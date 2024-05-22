@@ -32,6 +32,19 @@ The 1995 Volkswagen Derby was a subcompact car that offered a blend of affordabi
 - **Shifting problems:** Symptoms include delayed or harsh shifting. Solution: Flush the transmission fluid and replace the filter. May require further internal repairs. Estimated Cost to Fix: $200 - $1000+ Recalls: None Found
 - **Torque converter failure:** Symptoms include slipping gears or loss of power. Solution: Replace the torque converter. Estimated Cost to Fix: $1000 - $2000+ Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Worn struts:** Symptoms include a bouncy ride, poor handling, and uneven tire wear. Solution: Replace the worn struts. Estimated Cost to Fix: $400 - $800+ Recalls: None Found
 - **Suspension bushings failure:** Worn suspension bushings can cause noise, vibration, and poor handling. Solution: Replace the faulty bushings. Estimated Cost to Fix: $100 - $400+ Recalls: None Found
@@ -39,6 +52,19 @@ The 1995 Volkswagen Derby was a subcompact car that offered a blend of affordabi
 **Electrical**
 - **Battery failure:** Symptoms include difficulty starting the vehicle or dimming headlights. Solution: Replace the battery. Estimated Cost to Fix: $100 - $200+ Recalls: None Found
 - **Alternator failure:** Symptoms include a discharged battery or flickering lights. Solution: Replace the alternator. Estimated Cost to Fix: $300 - $600+ Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 - **Rust:** The Derby is prone to rust on the body panels, especially the fenders and rocker panels. Solution: Repair or replace the rusted areas. Estimated Cost to Fix: Varies depending on the severity Recalls: None Found
@@ -51,3 +77,15 @@ The 1995 Volkswagen Derby was a subcompact car that offered a blend of affordabi
 **Summary:**
 
 The 1995 Volkswagen Derby has a number of potential issues, including engine oil consumption, timing belt failure, transmission fluid leaks, and suspension wear. These issues can vary in severity and cost to fix. However, overall, the Derby is a reliable and affordable car that offers a comfortable ride and good fuel economy.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

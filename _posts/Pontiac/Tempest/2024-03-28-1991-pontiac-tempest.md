@@ -26,6 +26,19 @@ The 1991 Pontiac Tempest was a highly-anticipated release from General Motors. I
 
 * **Slipping Gears:** The transmission may slip gears, causing the vehicle to lose power or accelerate unexpectedly. The solution is to rebuild or replace the transmission. Estimated Cost to Fix: $1,500 - $2,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Noise:** The front suspension may make noises, such as creaking or clunking, when driving over bumps or uneven surfaces. The solution is to replace the worn suspension components. Estimated Cost to Fix: $200 - $500+
@@ -35,6 +48,19 @@ The 1991 Pontiac Tempest was a highly-anticipated release from General Motors. I
 
 * **Alternator Failure:** The alternator may fail, causing the battery to discharge and the vehicle to lose power. Symptoms include dim headlights, slow engine cranking, and a warning light on the dashboard. The solution is to replace the alternator. Estimated Cost to Fix: $300 - $600+
 * **Starter Solenoid Failure:** The starter solenoid may fail, preventing the vehicle from starting. Symptoms include a clicking noise when turning the ignition key and no engine cranking. The solution is to replace the starter solenoid. Estimated Cost to Fix: $100 - $300+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -50,3 +76,15 @@ The 1991 Pontiac Tempest was a highly-anticipated release from General Motors. I
 **Summary**
 
 Overall, the 1991 Pontiac Tempest is a reliable and affordable vehicle, but it does have its fair share of issues. The most common problems are with the engine, transmission, and suspension. These issues can be costly to repair, but they are not uncommon for vehicles of this age and mileage. If you are considering buying a 1991 Tempest, be sure to have it inspected by a qualified mechanic to identify any potential problems before you make a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

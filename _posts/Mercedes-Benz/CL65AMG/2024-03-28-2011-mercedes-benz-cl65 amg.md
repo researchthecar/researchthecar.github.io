@@ -42,3 +42,15 @@ While the CL65 AMG is a highly capable vehicle, it is not without its problems. 
 - **Heated seat failure:** The heated seats can fail, causing the seats to be cold. The heated seats can be replaced for approximately $500 to $800.
 
 Overall, the 2011 Mercedes-Benz CL65 AMG is a reliable vehicle, but it is not without its problems. The most common issues include engine, transmission, suspension, electrical, exterior, and interior problems. The severity of these issues varies, but they can all be costly to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

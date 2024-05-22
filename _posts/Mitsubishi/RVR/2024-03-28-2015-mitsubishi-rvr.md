@@ -39,6 +39,19 @@ The 2015 Mitsubishi RVR is a compact crossover SUV available with two engine opt
     * Estimated Cost to Fix: $500 - $1,500
 * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Noise:** Clunking or rattling noise from the front suspension over bumps.
@@ -63,6 +76,19 @@ The 2015 Mitsubishi RVR is a compact crossover SUV available with two engine opt
     * Solution: Diagnose and repair electrical short.
     * Estimated Cost to Fix: $200 - $800+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rear Hatch Latch Failure:** Rear hatch latch fails to open or latch properly.
@@ -82,3 +108,15 @@ The 2015 Mitsubishi RVR is a compact crossover SUV available with two engine opt
 **Summary**
 
 The 2015 Mitsubishi RVR has some notable issues, particularly with the 2.0L engine and CVT transmission. The engine issues can be serious and costly to fix, while the transmission issues can cause inconvenience and safety concerns. The suspension, electrical, exterior, and interior components have fewer reported problems, but the dashboard squeaks and rattles can be annoying. Overall, the severity and potential cost of the issues should be considered when evaluating this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

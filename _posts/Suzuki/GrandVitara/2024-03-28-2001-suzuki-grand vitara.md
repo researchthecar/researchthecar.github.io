@@ -45,6 +45,19 @@ The 2001 Suzuki Grand Vitara is a compact SUV that offers rugged off-road capabi
     * Estimated Cost to Fix: $1500 - $3000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Leaf Spring Sag:**
@@ -72,6 +85,19 @@ The 2001 Suzuki Grand Vitara is a compact SUV that offers rugged off-road capabi
     * Solution: Replace ignition switch
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -104,3 +130,15 @@ The 2001 Suzuki Grand Vitara is a compact SUV that offers rugged off-road capabi
 **Summary:**
 
 The 2001 Suzuki Grand Vitara is a generally reliable vehicle with a few common issues. The engine and transmission problems can be serious and expensive to fix, but the suspension, electrical, and interior issues are typically less severe and less costly. Overall, the Grand Vitara is a good choice for those who need a rugged and fuel-efficient off-road SUV.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

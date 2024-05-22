@@ -38,6 +38,19 @@ The 2017 Volkswagen Golf R is a performance-oriented variant of the Volkswagen G
     * Estimated Cost to Fix: $2,000 - $3,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -54,6 +67,19 @@ The 2017 Volkswagen Golf R is a performance-oriented variant of the Volkswagen G
     * Solution: Software update or replacement of infotainment unit
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -79,3 +105,15 @@ The 2017 Volkswagen Golf R is a performance-oriented variant of the Volkswagen G
 **Summary:**
 
 Overall, the 2017 Volkswagen Golf R has received mixed reviews regarding reliability. While it offers impressive performance and handling, it has been plagued by some significant issues, particularly with the DSG transmission and engine carbon buildup. The cost to fix these issues can be high, making the Golf R a potentially expensive car to own and maintain.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

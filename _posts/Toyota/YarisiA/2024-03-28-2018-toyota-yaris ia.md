@@ -38,6 +38,19 @@ The 2018 Toyota Yaris iA is a subcompact sedan that offers a practical and fuel-
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -49,6 +62,19 @@ The 2018 Toyota Yaris iA is a subcompact sedan that offers a practical and fuel-
     * Solution: Replacement of the battery or alternator.
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -74,3 +100,15 @@ The 2018 Toyota Yaris iA is a subcompact sedan that offers a practical and fuel-
 **Summary**
 
 Overall, the 2018 Toyota Yaris iA is a reliable and fuel-efficient vehicle, but it has some reported issues that can be inconvenient or costly to fix. The most severe issues include excessive oil consumption, timing chain noise, and delayed transmission engagement. These issues can affect engine performance, driveability, and overall reliability. The cost to fix these issues can range from a few hundred dollars to several thousand dollars, depending on the severity of the problem. However, many of the issues mentioned are not widespread and can be resolved with proper maintenance and repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

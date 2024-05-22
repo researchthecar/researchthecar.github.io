@@ -51,6 +51,19 @@ Owners have praised the Sunbird's sporty handling, comfortable interior, and aff
     * Solution: Replace the shifter bushings.
     * Estimated Cost to Fix: $50 - $150
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Struts:** The front struts may wear out, causing a bumpy or unstable ride.
@@ -75,6 +88,19 @@ Owners have praised the Sunbird's sporty handling, comfortable interior, and aff
   * Solution: Replace the ignition coil.
   * Estimated Cost to Fix: $150 - $300
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Rust:** The rear wheel arches and rocker panels may rust prematurely.
@@ -96,3 +122,15 @@ Owners have praised the Sunbird's sporty handling, comfortable interior, and aff
 **Summary**
 
 The 1991 Pontiac Sunbird has some common issues, particularly with its engine and transmission. Repairs can be moderately expensive, depending on the severity of the issue. While the Sunbird has some desirable features, potential buyers should be aware of its potential problems before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

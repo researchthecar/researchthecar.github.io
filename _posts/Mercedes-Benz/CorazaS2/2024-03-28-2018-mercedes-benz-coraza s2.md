@@ -65,6 +65,19 @@ The 2018 Mercedes-Benz Coraza S2 is a high-performance sports car available with
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Compressor Failure:**
@@ -89,6 +102,19 @@ The 2018 Mercedes-Benz Coraza S2 is a high-performance sports car available with
     * Solution: Check for faulty wiring or replace headlight module.
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: NHTSA ID: 21V875
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -117,3 +143,15 @@ The 2018 Mercedes-Benz Coraza S2 is a high-performance sports car available with
 **Summary:**
 
 The 2018 Mercedes-Benz Coraza S2 has a number of potential issues that can affect its performance, comfort, and reliability. Engine and transmission issues can be costly to repair, with some repairs exceeding $4,000. Suspension and electrical issues can also be expensive, depending on the severity of the problem. While the interior and exterior issues are less severe and expensive to fix, they can still be frustrating for owners. Overall, the Coraza S2 is a high-performance vehicle with potential reliability concerns that should be considered before purchasing or maintaining one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

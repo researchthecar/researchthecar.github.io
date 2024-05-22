@@ -38,6 +38,19 @@ The 2011 Toyota Land Cruiser is a full-size SUV renowned for its off-road capabi
     * Solution: Replace the transmission control module.
     * Estimated Cost to Fix: $1,500 - $2,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front:**
@@ -68,6 +81,19 @@ The 2011 Toyota Land Cruiser is a full-size SUV renowned for its off-road capabi
     * Solution: Fix the parasitic drain or replace the battery.
     * Estimated Cost to Fix: $100 - $500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Exterior**
 
 * **Sunroof Leak:**
@@ -95,3 +121,15 @@ The 2011 Toyota Land Cruiser is a full-size SUV renowned for its off-road capabi
 **Summary**
 
 While the 2011 Toyota Land Cruiser is generally a reliable vehicle, it has some common issues that owners should be aware of. These issues range in severity and cost, but some, such as timing chain failure and transmission problems, can be particularly costly to repair. Regular maintenance and addressing issues promptly can help prolong the life of the Land Cruiser and minimize the impact of these problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

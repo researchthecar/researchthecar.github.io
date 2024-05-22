@@ -52,6 +52,19 @@ The 2000 Plymouth Breeze is a mid-size sedan that was produced by Chrysler. It w
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure**
@@ -77,6 +90,19 @@ The 2000 Plymouth Breeze is a mid-size sedan that was produced by Chrysler. It w
     * Solution: Replace alternator
     * Estimated Cost to Fix: $300 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -107,3 +133,15 @@ The 2000 Plymouth Breeze is a mid-size sedan that was produced by Chrysler. It w
 **Summary**
 
 The 2000 Plymouth Breeze is a reliable and comfortable vehicle, but it is not without its issues. The most severe issues include head gasket failure, intake valve seat recession, and transmission failure. These issues can be expensive to repair, so it is important to factor them into the cost of ownership. However, the majority of the issues listed above are relatively minor and can be fixed for a reasonable cost. Overall, the Breeze is a good choice for those who are looking for a mid-size sedan that is affordable to maintain.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

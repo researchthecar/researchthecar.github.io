@@ -51,6 +51,19 @@ The 1999 Nissan Frontier is a compact pickup truck available with different engi
     * Estimated Cost to Fix: $1500 - $2500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Ball Joint Wear:**
@@ -76,6 +89,19 @@ The 1999 Nissan Frontier is a compact pickup truck available with different engi
     * Solution: Testing and replacement of faulty electrical components.
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -106,3 +132,15 @@ The 1999 Nissan Frontier is a compact pickup truck available with different engi
 **Summary:**
 
 The 1999 Nissan Frontier has potential issues that can range from minor to severe. Engine problems, such as timing chain rattle and head gasket failure, can be costly to repair. Transmission issues like slipping gears can also lead to significant expenses. However, some issues, such as alternator failure and minor electrical problems, are relatively inexpensive to fix. Overall, the frequency and severity of issues can vary depending on maintenance and driving habits.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

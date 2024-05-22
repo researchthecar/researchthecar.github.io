@@ -25,6 +25,19 @@ The 2018 Subaru Outback is a midsize crossover SUV known for its ruggedness, saf
 - Estimated Cost to Fix: $3,000 - $5,000+
 - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Strut Bearing Failure**
@@ -40,6 +53,19 @@ The 2018 Subaru Outback is a midsize crossover SUV known for its ruggedness, saf
 - Solution: Check for parasitic power drain, replace battery if necessary
 - Estimated Cost to Fix: $150 - $250+
 - Recalls: None Found
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 **Exterior**
 
@@ -66,3 +92,15 @@ The 2018 Subaru Outback is a midsize crossover SUV known for its ruggedness, saf
 **Summary**
 
 While the 2018 Subaru Outback is a popular vehicle, it is not without its issues. Some of the most common problems reported by owners include intake manifold gasket failure, CVT transmission failure, and front strut bearing failure. These issues can be costly to repair, so potential buyers should be aware of them before purchasing a used 2018 Subaru Outback.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
