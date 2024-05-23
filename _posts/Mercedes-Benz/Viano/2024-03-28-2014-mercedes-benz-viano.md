@@ -39,6 +39,19 @@ The 2014 Mercedes-Benz Viano is a luxury minivan that offers versatility, comfor
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air suspension failure**
@@ -84,3 +97,15 @@ The 2014 Mercedes-Benz Viano is a luxury minivan that offers versatility, comfor
 **Summary**
 
 The 2014 Mercedes-Benz Viano is a reliable vehicle overall, but it has experienced some issues with its engine, transmission, suspension, and electrical systems. The severity of these issues can vary, but most can be repaired for a reasonable cost. If you are considering purchasing a Viano, be sure to have it inspected by a qualified mechanic to identify any potential issues before they become major problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

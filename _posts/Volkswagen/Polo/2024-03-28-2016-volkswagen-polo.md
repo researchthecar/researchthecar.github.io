@@ -49,6 +49,19 @@ Solution: Repair or replacement of the transmission.
 Estimated Cost to Fix: $1500 - $3000+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Suspension Strut Mount Failure**
@@ -84,3 +97,15 @@ Recalls: None Found
 **Summary:**
 
 Overall, the 2016 Volkswagen Polo has a few reported issues that range in severity from minor annoyances to more costly repairs. The most significant issue is the turbocharger failure in the 1.6-liter diesel engine, which can be expensive to fix. Other issues, such as intake manifold cracking and transmission slippage, can also be costly. However, many of the reported issues are relatively minor and can be resolved with reasonable repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -72,3 +72,15 @@ Owners appreciate the Highlander's reliability, spaciousness, and fuel efficienc
 **Summary**
 
 The 2003 Toyota Highlander is generally a reliable vehicle, but some owners have experienced issues with its engine, transmission, electrical systems, and interior. The severity and cost of these issues vary, but most are relatively minor and can be resolved for a reasonable cost.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

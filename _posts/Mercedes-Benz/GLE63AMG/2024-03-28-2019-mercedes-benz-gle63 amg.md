@@ -31,6 +31,19 @@ The GLE63 AMG is praised for its acceleration, handling, and comfortable interio
         * Estimated Cost to Fix: $2,000 - $5,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air suspension**
@@ -80,3 +93,15 @@ The GLE63 AMG is praised for its acceleration, handling, and comfortable interio
 **Summary**
 
 The 2019 Mercedes-Benz GLE63 AMG is a powerful and luxurious SUV that has been plagued by a number of issues, including engine problems, transmission problems, suspension problems, electrical problems, and interior problems. The severity and cost of these issues can vary, but some can be significant. Potential buyers should be aware of these issues before purchasing a GLE63 AMG.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

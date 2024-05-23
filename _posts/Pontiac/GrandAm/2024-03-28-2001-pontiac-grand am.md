@@ -26,6 +26,19 @@ The 2001 Pontiac Grand Am is a compact sedan with a sporty and aggressive design
 * **No Reverse Gear:** Failure of the reverse gear mechanism or valve body. **Solution:** Replace the affected parts. **Estimated Cost to Fix:** $500 - $1,500+
 * **Transmission Noise:** Worn or damaged bearings or gears, causing the transmission to make noise while driving. **Solution:** Replace the affected bearings or gears. **Estimated Cost to Fix:** $500 - $1,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:** Worn or damaged strut mounts, causing a clunking sound and decreased handling. **Solution:** Replace the strut mounts. **Estimated Cost to Fix:** $300 - $600+
@@ -51,3 +64,15 @@ The 2001 Pontiac Grand Am is a compact sedan with a sporty and aggressive design
 **Summary:**
 
 The 2001 Pontiac Grand Am is known for its sporty handling and responsive engine, but it suffers from numerous mechanical issues. Engine problems, such as head gasket failure and timing belt failure, can be serious and expensive to repair. Transmission issues, including slipping gears and no reverse gear, are also prevalent. Electrical problems range from faulty ignition coils to battery drain. The exterior and interior are also vulnerable to issues such as headlight failure and seat belt buckle failures. The severity and cost of these issues can vary depending on the specific part that needs to be replaced or repaired.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

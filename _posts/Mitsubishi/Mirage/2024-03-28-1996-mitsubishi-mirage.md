@@ -24,6 +24,19 @@ The 1996 Mitsubishi Mirage is a subcompact hatchback powered by a 1.5-liter 4-cy
 * **4-Speed Automatic Transmission**
     * **Transmission Slipping:** Transmission hesitates or slips while shifting gears. **Solution:** Replace transmission fluid, solenoid, or torque converter. **Estimated Cost to Fix:** $1200 - $2500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Assembly Failure:** Worn-out strut assemblies lead to noise, vibrations, and poor handling. **Solution:** Replace strut assemblies and related components. **Estimated Cost to Fix:** $500 - $800+ per axle
@@ -45,3 +58,15 @@ The 1996 Mitsubishi Mirage is a subcompact hatchback powered by a 1.5-liter 4-cy
 **Summary:**
 
 While the 1996 Mitsubishi Mirage offers good fuel economy and handling, it has a history of potential issues with the engine, transmission, suspension, and electrical system. The severity and cost of the repairs vary, but some issues can be expensive to fix, such as timing belt failure or transmission replacement.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

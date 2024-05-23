@@ -29,6 +29,19 @@ The 2019 Mercedes-Benz GLC63 AMG is a high-performance SUV powered by a 4.0L V8 
     * Estimated Cost to Fix: $2,000 - $5,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Failure:**
@@ -76,3 +89,15 @@ The 2019 Mercedes-Benz GLC63 AMG is a high-performance SUV powered by a 4.0L V8 
 **Summary**
 
 The 2019 Mercedes-Benz GLC63 AMG is a potent and luxurious SUV with a few potential issues. While some of these issues, such as fuel injector failure and transmission slipping, can be costly to repair, others like electrical glitches and minor interior malfunctions are typically less expensive to address. Overall, the GLC63 AMG is a well-made vehicle with a strong engine and transmission, but buyers should be aware of the potential issues mentioned above before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

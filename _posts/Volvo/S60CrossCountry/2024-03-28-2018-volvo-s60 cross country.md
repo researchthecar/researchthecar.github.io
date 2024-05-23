@@ -27,6 +27,19 @@ The 2018 Volvo S60 Cross Country is a compact luxury crossover that combines rug
 * **Estimated Cost to Fix:** $1,000 - $4,000+
 * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -55,3 +68,15 @@ The 2018 Volvo S60 Cross Country is a compact luxury crossover that combines rug
 **Summary:**
 
 The 2018 Volvo S60 Cross Country has a few notable issues, including engine oil consumption, transmission shifting problems, and electrical malfunctions. The severity of these issues can vary, but some can be costly to repair. However, it's important to note that these issues are not universal, and many S60 Cross Country owners have not experienced any major problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

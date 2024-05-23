@@ -13,6 +13,19 @@ tags: ["Toyota", "Land Cruiser", "2006"]
 **Transmission**
 - 5-speed Automatic
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Rear Sway Bar End Link Failure**
   - Description/Symptoms: The rear sway bar end links can fail, causing clunking noises when driving over bumps.
@@ -43,3 +56,15 @@ tags: ["Toyota", "Land Cruiser", "2006"]
 
 **Summary**
 The 2006 Toyota Land Cruiser is generally a reliable vehicle, but like any vehicle, it can have issues. The most significant issues include rear sway bar end link failure, alternator failure, rear bumper rust, and climate control malfunctions. The estimated cost to fix these issues can range from a few hundred dollars to over a thousand dollars. Owners generally appreciate the Land Cruiser's off-road capabilities, durability, and spacious interior, but some have complained about its fuel economy and dated interior design.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

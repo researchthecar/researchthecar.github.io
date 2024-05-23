@@ -51,6 +51,19 @@ Solution: Replace transmission control solenoid
 Estimated Cost to Fix: $250 - $500+
 Recalls: 00V227000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Ball Joint Failure**
@@ -82,3 +95,15 @@ Recalls: None Found
 **Summary**
 
 The 2001 Pontiac Sunfire has a number of potential issues, including engine gasket failures, transmission problems, suspension components, electrical failures, and interior issues. While most of the issues are relatively minor and inexpensive to fix, some can be more severe and costly. Overall, the Sunfire is a reliable and affordable vehicle, but it is important to be aware of these potential problems before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -37,6 +37,19 @@ Drivers appreciate the Frontier's rugged design, off-road capabilities, and spac
         * Solution: Transmission fluid flush and filter replacement, or transmission rebuild.
         * Estimated Cost to Fix: $500 - $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Leaf Spring Sagging:** Premature sagging of the rear leaf springs, leading to a lower ride height and decreased load-carrying capacity.
         * Solution: Leaf spring replacement.
@@ -66,3 +79,15 @@ Drivers appreciate the Frontier's rugged design, off-road capabilities, and spac
 **Summary**
 
 The 2017 Nissan NP300 Frontier has a number of potential issues that can affect its engine, transmission, suspension, electrical, and interior systems. Some of these issues, such as oil consumption and excessive rust, can be severe and require costly repairs. However, other issues, such as minor electrical problems and interior inconveniences, are less serious and typically have lower repair costs. Overall, the NP300 Frontier has a mixed reliability record, with some owners experiencing significant problems while others enjoy relatively trouble-free ownership.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

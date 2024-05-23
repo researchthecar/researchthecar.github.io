@@ -35,6 +35,19 @@ The 2000 Toyota MR2 Spyder is a mid-engine, rear-wheel-drive roadster that was p
     * Solution: Replace the transmission fluid and filter, or rebuild the transmission.
     * Estimated Cost to Fix: $500 - $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Lower Control Arm Bushings:**
@@ -70,3 +83,15 @@ The 2000 Toyota MR2 Spyder is a mid-engine, rear-wheel-drive roadster that was p
 **Summary**
 
 The 2000 Toyota MR2 Spyder is a fun and affordable sports car, but it does have some potential issues. Common problems include premature valve guide wear, water pump failure, delayed gear shifts in the automatic transmission, and soft top tears. The severity of these issues varies, with some being more expensive to fix than others. Overall, the MR2 Spyder is a reliable car, but it's important to be aware of these potential problems before buying one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

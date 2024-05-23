@@ -44,6 +44,19 @@ Owners of the 2018 Toyota Corolla iM have reported various issues with the vehic
     * Recalls: None Found
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -71,3 +84,15 @@ Owners of the 2018 Toyota Corolla iM have reported various issues with the vehic
 **Summary**
 
 The 2018 Toyota Corolla iM is a reliable vehicle overall, but it has some issues that can be costly to repair. The engine and transmission issues are the most severe and expensive, so it's important to have these components inspected before purchasing a used Corolla iM. The interior issues are relatively minor and less expensive to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -31,6 +31,19 @@ People like the Grand Prix for its sporty handling, comfortable seats, and affor
 * **Clutch failure:** The clutch may slip or chatter when engaging gears. This can be caused by a worn clutch disc, pressure plate, or throw-out bearing. The clutch needs to be replaced. $500 - $800+
 * **Transmission fluid leaks:** Transmission fluid may leak from the seals or lines. This can cause the transmission to overheat and fail. The leaks need to be repaired and the transmission fluid needs to be replaced. $200 - $500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** The struts may wear out and cause the vehicle to ride rough and handle poorly. The struts need to be replaced. $600 - $800+
@@ -57,3 +70,15 @@ People like the Grand Prix for its sporty handling, comfortable seats, and affor
 **Summary:**
 
 The 2000 Pontiac Grand Prix is a reliable vehicle but has some common issues to watch out for. The most serious issues are related to the engine (intake manifold gasket failure) and transmission (slipping or hesitation). These issues can be costly to repair. However, many of the other issues are relatively minor and can be fixed for a reasonable price.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -36,6 +36,19 @@ The 2019 Volkswagen Volksbus is a popular minivan that is known for its spacious
         * Estimated Cost to Fix: $800 - $1,200
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 * **Front Lower Control Arm Bushing Failure**
     * Description/Symptoms: The front lower control arm bushings can wear out, causing a clunking noise, vibration, and poor handling.
@@ -71,3 +84,15 @@ The 2019 Volkswagen Volksbus is a popular minivan that is known for its spacious
 
 **Summary:**
 Overall, the 2019 Volkswagen Volksbus is a generally reliable vehicle, but it is not without its issues. The most common problems are related to the engine, transmission, and suspension. While some of these issues can be costly to fix, others are relatively minor and inexpensive. It is important to note that not all Volksbus models will experience these issues, and the severity and cost of repairs will vary depending on the specific model and the extent of the problem.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

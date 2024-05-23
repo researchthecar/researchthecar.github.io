@@ -34,6 +34,19 @@ The 2008 Mitsubishi Montero Sport is a mid-size SUV with a 3.8L V6 engine that p
 * NHTSA Campaign Number: 12V255000	
 * NHTSA Campaign Number: 10V432000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension strut failure:** The front suspension strut can fail, causing a loss of control and potential safety hazards. The symptoms include a clunking noise when turning or driving over bumps, uneven tire wear, and a decrease in ride height. The solution is to replace the front suspension strut. **Estimated cost to fix:** $500 - $1,000 per strut.
@@ -55,3 +68,15 @@ The 2008 Mitsubishi Montero Sport is a mid-size SUV with a 3.8L V6 engine that p
 **Summary:**
 
 The 2008 Mitsubishi Montero Sport has been reported to have some significant issues, particularly with its engine and transmission. These issues can be costly to repair and may affect the safety and reliability of the vehicle. While the Montero Sport offers rugged off-road capabilities and a spacious interior, it is important to be aware of these potential problems before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

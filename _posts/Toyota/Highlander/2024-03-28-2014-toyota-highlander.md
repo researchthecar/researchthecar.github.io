@@ -43,6 +43,19 @@ The 2014 Toyota Highlander is a popular mid-size SUV praised for its reliability
     * Estimated Cost to Fix: $2,500 - $5,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Shock Absorber Mount Failure**
@@ -88,3 +101,15 @@ The 2014 Toyota Highlander is a popular mid-size SUV praised for its reliability
 **Summary:**
 
 While the 2014 Toyota Highlander is generally reliable, it is not immune to potential issues. The most significant concerns relate to the 3.5-liter V6 engine, transmission fluid leakage, and rear shock absorber mount failure. The severity and cost of these issues vary, with some requiring major repairs. However, the majority of issues appear to be isolated and relatively affordable to resolve.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

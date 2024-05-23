@@ -39,6 +39,19 @@ The 2012 Volkswagen Golf R is a high-performance compact car that offers a blend
     * Solution: Updating the transmission software or replacing the clutch packs
     * Estimated Cost to Fix: $500 - $1,500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Excessive Wear on Front Suspension Components**
@@ -70,3 +83,15 @@ The 2012 Volkswagen Golf R is a high-performance compact car that offers a blend
 **Summary**
 
 The 2012 Volkswagen Golf R has received mixed reviews regarding reliability. Some owners have experienced significant issues, while others have reported relatively few problems. The most common issues seem to affect the engine, transmission, and suspension. The severity and cost of repairs can vary depending on the specific issue and its extent. Potential owners should be aware of these potential issues before purchasing a Golf R.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

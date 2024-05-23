@@ -48,6 +48,19 @@ Owners generally praise the Rogue Sport for its practicality, fuel efficiency, a
     * Estimated Cost to Fix: $3,000 - $5,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Coil Spring Sagging:**
@@ -93,3 +106,15 @@ Owners generally praise the Rogue Sport for its practicality, fuel efficiency, a
 **Summary**
 
 The 2020 Nissan Rogue Sport has received mixed reviews. While it offers many desirable features, it has been plagued by some reliability issues, particularly with its engine, transmission, and electrical system. The severity and cost of these issues vary, but they can be significant. Potential buyers should тщательно рассмотрите these issues before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

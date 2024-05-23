@@ -47,6 +47,19 @@ The 2002 Pontiac Grand Prix is a midsize sedan offering a comfortable and spacio
     * Estimated Cost to Fix: $500 - $1000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure:**
@@ -97,3 +110,15 @@ The 2002 Pontiac Grand Prix is a midsize sedan offering a comfortable and spacio
 **Summary:**
 
 Overall, the 2002 Pontiac Grand Prix is a reliable and enjoyable vehicle, but some common issues to be aware of include intake manifold gasket failure, timing chain tensioner failure, and shift solenoid failure. The severity of these issues varies, with some requiring expensive repairs, while others are relatively inexpensive to fix. Owners should be prepared for potential maintenance costs associated with these issues to keep their Grand Prix in good working order.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

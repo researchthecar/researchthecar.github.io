@@ -24,6 +24,19 @@ The 2007 Porsche Cayman is a mid-engine sports car available with a 2.7L flat-si
 *5-Speed Automatic*
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **No Issues Found**
 
@@ -40,3 +53,15 @@ The 2007 Porsche Cayman is a mid-engine sports car available with a 2.7L flat-si
 
 **Summary**
 The 2007 Porsche Cayman is a generally reliable car, but it has some potential issues that can be expensive to fix. The most common issues include intake valve failure, Vanos solenoid failure, transmission mount failure, and battery drain. While these issues are not overly common, they can be costly to repair, so it is important to be aware of them before purchasing a used Cayman.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

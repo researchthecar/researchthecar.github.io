@@ -51,6 +51,19 @@ The 1994 Volkswagen Jetta is a compact sedan known for its affordability, reliab
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** The strut mounts wear out prematurely, causing noise and reduced ride quality.
@@ -102,3 +115,15 @@ The 1994 Volkswagen Jetta is a compact sedan known for its affordability, reliab
 **Summary:**
 
 The 1994 Volkswagen Jetta is a reliable and fun-to-drive compact sedan, but it has its share of issues that owners should be aware of. The most severe and expensive issues include camshaft lobe wear on the 2.8L V6, transmission slipping on the 4-speed automatic, and strut failure. Regular maintenance and care can help prevent or delay some of these issues, but owners should anticipate potential repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

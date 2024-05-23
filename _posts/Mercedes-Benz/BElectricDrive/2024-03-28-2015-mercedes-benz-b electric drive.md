@@ -19,6 +19,19 @@ Popular options included a panoramic sunroof, leather seats, blind-spot monitori
 
 **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -58,3 +71,15 @@ Recalls: N/A
 **Summary**
 
 The 2015 Mercedes-Benz B Electric Drive is a generally reliable vehicle, but it is not without its issues. The most significant problems reported by owners involve the battery and on-board charger, which can be expensive to repair or replace. However, the cost of repairs for other issues is generally reasonable. Overall, the B Electric Drive is a solid choice for those looking for a comfortable and spacious electric car.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -20,6 +20,19 @@ The 2022 Mercedes-Benz GLA45 AMG is a high-performance compact SUV featuring a 3
     * Solution: Software update or transmission fluid replacement
     * Estimated Cost to Fix: $100 - $300+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -54,3 +67,15 @@ The 2022 Mercedes-Benz GLA45 AMG is a high-performance compact SUV featuring a 3
 **Summary:**
 
 While the 2022 Mercedes-Benz GLA45 AMG offers impressive performance and features, it has faced some issues in areas such as the transmission, electrical system, and interior. The severity of these issues varies, and the estimated repair costs can range from moderate to high. However, it's important to note that these issues may not affect all vehicles and that individual experiences may differ.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

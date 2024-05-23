@@ -35,6 +35,19 @@ The 2009 Subaru Impreza is a compact car that offers a choice of two engines: a 
 * **Valve body failure:** Causes erratic shifting or transmission slipping.
 * **Torque converter failure:** Can lead to loss of power and transmission failure.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mount failure:** Causes clunking or rattling noises from the front suspension.
@@ -61,3 +74,15 @@ The 2009 Subaru Impreza is a compact car that offers a choice of two engines: a 
 
 **Summary:**
 The 2009 Subaru Impreza has a number of potential issues, particularly with its engines, transmissions, and suspension. While not all models are affected by these problems, they can be costly to repair. Owners should be aware of these potential issues and consider regular maintenance and inspections to minimize the risk of costly repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

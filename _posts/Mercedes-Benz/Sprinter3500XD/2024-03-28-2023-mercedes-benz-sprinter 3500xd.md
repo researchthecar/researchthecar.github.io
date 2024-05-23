@@ -39,6 +39,19 @@ The 2023 Mercedes-Benz Sprinter 3500XD is a versatile cargo van offering impress
     * Estimated Cost to Fix: $1500 - $3000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Leaf Spring Failure:**
     * Description/Symptoms: Broken or cracked leaf springs, resulting in sagging or unstable handling.
@@ -74,3 +87,15 @@ The 2023 Mercedes-Benz Sprinter 3500XD is a versatile cargo van offering impress
 
 **Summary:**
 While the 2023 Mercedes-Benz Sprinter 3500XD offers many desirable features, it has experienced some specific issues reported by owners. These issues range in severity and cost, with some being relatively minor while others can be more expensive to repair. Potential buyers should be aware of these issues and consider the estimated costs of repairs when making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

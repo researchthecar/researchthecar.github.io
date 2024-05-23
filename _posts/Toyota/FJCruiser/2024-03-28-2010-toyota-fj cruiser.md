@@ -26,6 +26,19 @@ The 2010 Toyota FJ Cruiser is a rugged and capable SUV that has garnered a loyal
 
 * **No Major Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaking Struts:** Some owners of the FJ Cruiser have reported leaking front struts. This can cause a loss of suspension performance and can lead to damage to the suspension components if not addressed. Symptoms include a spongy or bouncy ride, uneven tire wear, and oil leaking from the struts. The solution is to replace the leaking struts, which costs around $500 to $1,000 for parts and labor.
@@ -41,3 +54,15 @@ The 2010 Toyota FJ Cruiser is a rugged and capable SUV that has garnered a loyal
 * **Rust**
 
 * **Frame Rust:** The FJ Cruiser is known to have a rust issue on the frame. This can lead to structural damage and can compromise the safety of the vehicle. Symptoms include rust on the frame, especially near the rear of the vehicle. The solution is to repair or replace the rusted frame, which can cost anywhere from $1,000
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

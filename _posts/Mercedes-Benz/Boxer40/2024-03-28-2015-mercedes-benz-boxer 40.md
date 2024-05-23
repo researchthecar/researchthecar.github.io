@@ -25,6 +25,19 @@ The 2015 Mercedes-Benz Boxer 40 is a commercial van based on the Sprinter platfo
 * **6-Speed Manual Transmission**
     * **Clutch Failure:** The clutch can wear out or fail, causing difficulty shifting gears. **Solution:** Replacement of the clutch. **Estimated Cost to Fix:** $1,000 - $1,500+. **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension:**
@@ -50,3 +63,15 @@ The 2015 Mercedes-Benz Boxer 40 is a commercial van based on the Sprinter platfo
 **Summary**
 
 While the 2015 Mercedes-Benz Boxer 40 is generally a reliable and well-built vehicle, there are some specific issues that owners have reported. These issues range in severity from minor inconveniences to major repairs. The cost of repairs can be significant, but varies depending on the issue and the extent of the damage. Owners should be aware of these potential issues and take appropriate precautions to prevent them from occurring, if possible.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

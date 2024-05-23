@@ -34,6 +34,19 @@ The 2008 Suzuki Grand Vitara is a compact SUV powered by a 2.4L 4-cylinder engin
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Sagging**
@@ -74,3 +87,15 @@ The 2008 Suzuki Grand Vitara is a compact SUV powered by a 2.4L 4-cylinder engin
 **Summary**
 
 The 2008 Suzuki Grand Vitara has several potential issues to consider. The most common and severe concerns are the timing chain failure and transmission slipping, which can be costly to repair. Electrical wiring harness issues and sunroof leakage are also noteworthy problems. Overall, the reliability of this vehicle is average, and owners should be prepared for potential repair expenses.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

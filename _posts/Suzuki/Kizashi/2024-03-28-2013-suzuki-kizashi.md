@@ -42,6 +42,19 @@ The 2013 Suzuki Kizashi is a midsize sedan known for its stylish design, spaciou
     * Estimated Cost to Fix: $200 - $500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Premature Rear Shock Absorber Failure:**
@@ -83,3 +96,15 @@ The 2013 Suzuki Kizashi is a midsize sedan known for its stylish design, spaciou
 **Summary**
 
 The 2013 Suzuki Kizashi faces some reliability concerns, particularly with its engine and transmission. Engine issues such as cylinder head cracking can be expensive to repair, while transmission problems can affect driving performance. Other issues include suspension, electrical, and interior problems, but these are generally less severe and costly. Overall, the Kizashi is a stylish and fun-to-drive car but potential buyers should be aware of these potential issues before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

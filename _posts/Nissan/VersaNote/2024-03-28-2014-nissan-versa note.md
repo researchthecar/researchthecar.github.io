@@ -44,6 +44,19 @@ The Versa Note is praised for its affordability, fuel efficiency, and spacious i
         * Solution: Repair the leak and replace transmission fluid.
         * Estimated Cost to Fix: $250 - $600
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension:**
@@ -78,3 +91,15 @@ The Versa Note is praised for its affordability, fuel efficiency, and spacious i
 **Summary:**
 
 Overall, the 2014 Nissan Versa Note has a mix of minor and moderate issues. The most severe issues include timing chain tensioner failure, CVT shuddering, and rear coil spring breakage. Repair costs can range from as low as $50 for spark plug replacement to over $2,000 for a new CVT. While some issues may require attention, the Versa Note generally offers a reliable and affordable option in its class.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

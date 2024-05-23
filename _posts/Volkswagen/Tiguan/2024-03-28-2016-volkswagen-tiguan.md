@@ -56,6 +56,19 @@ Drivers appreciate the Tiguan's comfortable ride, ample cargo space, and peppy e
     * Estimated Cost to Fix: $1,200 - $1,800+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure**
@@ -106,3 +119,15 @@ Drivers appreciate the Tiguan's comfortable ride, ample cargo space, and peppy e
 **Summary**
 
 The 2016 Volkswagen Tiguan offers a comfortable and spacious ride with a variety of engine and transmission options. However, it has been plagued by a number of issues, including excessive oil consumption, timing chain tensioner failure, and transmission problems. These issues can be costly to repair, and some have led to recalls. Overall, the 2016 Volkswagen Tiguan has received mixed reviews, with some drivers expressing satisfaction while others have encountered significant problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

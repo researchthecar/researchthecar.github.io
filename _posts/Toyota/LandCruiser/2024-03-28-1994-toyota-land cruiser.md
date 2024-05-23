@@ -29,6 +29,19 @@ The 1994 Toyota Land Cruiser is a full-size SUV known for its off-road capabilit
 * **Transmission slipping:** The transmission may slip or hesitate when shifting gears, indicating a problem with the internal components. Overhauling or replacing the transmission is necessary to fix the issue. Estimated cost to fix: $1,500 - $3,000+
 * **TCC solenoid failure:** The torque converter clutch (TCC) solenoid may fail, causing shuddering or slipping during transmission shifts. Replacing the faulty solenoid typically resolves the issue. Estimated cost to fix: $200 - $400+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear leaf spring breakage:** The rear leaf springs may break or sag over time, leading to a rough and unstable ride. Replacing the leaf springs is the most effective solution. Estimated cost to fix: $500 - $800+
@@ -56,3 +69,15 @@ The 1994 Toyota Land Cruiser is a full-size SUV known for its off-road capabilit
 **Summary**
 
 The 1994 Toyota Land Cruiser is a capable off-road vehicle with a spacious and comfortable interior. However, it is not without its issues. Engine and transmission problems are the most severe and expensive to fix, notably the head gasket failure and transmission slipping. Suspension components may also wear out over time, leading to reduced ride quality and handling. Electrical, exterior, and interior issues are generally less severe and less costly to repair. Overall, potential buyers should be aware of these issues and factor in the potential cost of repairs when considering purchasing a 1994 Toyota Land Cruiser.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

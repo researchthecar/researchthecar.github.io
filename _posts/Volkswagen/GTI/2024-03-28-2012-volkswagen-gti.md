@@ -38,6 +38,19 @@ The 2012 Volkswagen GTI is a compact hatchback that offers sporty performance an
     * **Estimated Cost to Fix:** $2,000 - $3,000+
     * **Recalls:** NHTSA Recall # 14V-464
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -70,3 +83,15 @@ The 2012 Volkswagen GTI is a compact hatchback that offers sporty performance an
 **Summary:**
 
 The 2012 Volkswagen GTI is a fun and practical hatchback that offers strong performance and a well-rounded driving experience. However, it is not without its issues. Some of the reported problems, such as carbon buildup on intake valves and timing chain tensioner failure, can be relatively costly to fix. Electrical gremlins and interior rattles can also be annoying for owners. Overall, the severity and cost of the issues can vary, and not all owners will encounter them. However, potential buyers should be aware of these potential problems before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

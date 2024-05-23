@@ -55,6 +55,19 @@ The 1992 Mitsubishi Montero was a mid-size SUV that offered a combination of rug
     * Estimated Cost to Fix: $300 - $600+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf Spring Breakage:**
@@ -114,3 +127,15 @@ The 1992 Mitsubishi Montero was a mid-size SUV that offered a combination of rug
 **Summary**
 
 The 1992 Mitsubishi Montero is generally a reliable SUV. However, it has some potential issues that owners should be aware of, including engine valve seat recession, transmission torque converter failure, and suspension leaf spring breakage. These issues can range in severity and cost, with some requiring significant repairs. Regular maintenance and preventive repairs can help mitigate potential problems and extend the lifespan of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

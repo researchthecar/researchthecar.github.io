@@ -38,6 +38,19 @@ The 2018 Volkswagen GTI is a compact hot hatchback renowned for its performance,
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Excessive Tire Wear:** Uneven or rapid tire wear, especially on the front tires.
@@ -81,3 +94,15 @@ The 2018 Volkswagen GTI is a compact hot hatchback renowned for its performance,
 **Summary:**
 
 The 2018 Volkswagen GTI has some reported issues, including carbon buildup on intake valves, timing chain tensioner failure, and electrical failures. However, it's important to note that these issues are not widespread and may affect only a small number of vehicles. The severity and cost of repairs can vary depending on the specific issue and the extent of the damage. Overall, the GTI remains a popular and reliable option in its segment, offering a balance of performance, practicality, and affordability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

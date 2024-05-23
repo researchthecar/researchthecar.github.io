@@ -29,6 +29,19 @@ The 2009 Volkswagen Routan is a family-friendly minivan known for its spacious c
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arm Bushings:**
@@ -64,3 +77,15 @@ The 2009 Volkswagen Routan is a family-friendly minivan known for its spacious c
 **Summary:**
 
 The 2009 Volkswagen Routan has several issues ranging from moderate to severe in terms of cost and impact on performance. The most common issues include the engine intake manifold gasket failure, transmission torque converter shudder, and suspension control arm bushings. Overall, the cost of repairs can vary significantly depending on the severity of the issue and the chosen repair facility.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

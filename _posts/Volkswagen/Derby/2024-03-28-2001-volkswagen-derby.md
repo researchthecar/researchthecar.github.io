@@ -43,6 +43,19 @@ Description/Symptoms: Inability to engage gears or difficulty maintaining gear, 
 Solution: Rebuild or replace the transmission.
 Estimated Cost to Fix: $800 - $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Suspension:**
@@ -89,3 +102,15 @@ Estimated Cost to Fix: $200 - $300+
 **Summary:**
 
 The 2001 Volkswagen Derby has received mixed reviews from owners, with some experiencing relatively minor issues and others facing more severe problems. The most common issues include oil leaks, timing chain tensioner failure, gear grinding, transmission slipping, battery drain, and faulty voltage regulator. Many of these issues can be costly to repair, but some are relatively inexpensive to fix. Overall, the Derby offers a reasonable combination of affordability and practicality, but potential buyers should be aware of the potential issues mentioned above.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

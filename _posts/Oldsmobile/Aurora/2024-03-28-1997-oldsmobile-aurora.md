@@ -25,6 +25,19 @@ The 1997 Oldsmobile Aurora was a mid-size luxury sedan known for its stylish des
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: 01V030000, 02V303000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Lower Control Arm Bushings Wear:**
@@ -66,3 +79,15 @@ The 1997 Oldsmobile Aurora was a mid-size luxury sedan known for its stylish des
 **Summary**
 
 Overall, the 1997 Oldsmobile Aurora is a reliable vehicle with a few common issues. The most significant issue is the transmission failure, which can be expensive to repair. Other issues, such as engine intake manifold gasket failure and suspension wear, are less common but still worth considering when purchasing a used Aurora. The cost of repairs for these issues varies widely, but they can be expensive.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

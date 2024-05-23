@@ -34,6 +34,19 @@ The 2017 Volkswagen Worker is a compact pickup truck available with a single eng
         * Solution: Transmission rebuild or replacement
         * Estimated Cost to Fix: $2,000 - $4,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front Suspension Noise**
         * Description/Symptoms: Squeaking or rattling noise from the front suspension
@@ -76,3 +89,15 @@ The 2017 Volkswagen Worker is a compact pickup truck available with a single eng
 
 **Summary**
 The 2017 Volkswagen Worker has reported several issues that can range in severity and cost. Some of the more serious issues, such as timing chain tensioner failure and transmission slipping, can result in expensive repairs. Other issues, such as battery drain and interior noise, may be less severe and less costly to fix. However, it is important to address any issues promptly to avoid further damage or safety concerns.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

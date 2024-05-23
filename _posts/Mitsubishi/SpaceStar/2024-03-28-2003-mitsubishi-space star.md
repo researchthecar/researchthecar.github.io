@@ -69,6 +69,19 @@ The 2003 Mitsubishi Space Star is a compact car available with two engine option
     - Estimated Cost to Fix: $200 - $500+
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Failure:**
@@ -128,3 +141,15 @@ The 2003 Mitsubishi Space Star is a compact car available with two engine option
 **Summary:**
 
 The 2003 Mitsubishi Space Star is an inexpensive and fuel-efficient vehicle, but it has several common issues that can be costly to repair. Owners should be aware of potential engine problems, particularly with the larger 1.6-liter engine. Transmission issues can also arise, especially with the automatic transmission. Other areas of concern include suspension components, electrical systems, and interior rattles. The severity and cost of these issues vary, but some can require major repairs that may exceed the value of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

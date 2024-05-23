@@ -37,6 +37,19 @@ The 2020 Volkswagen Tiguan is a compact SUV that offers a combination of practic
   - Estimated Cost to Fix: $1000 - $2000+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **No Issues Found**
@@ -86,3 +99,15 @@ The 2020 Volkswagen Tiguan is a compact SUV that offers a combination of practic
 **Summary**
 
 Overall, the 2020 Volkswagen Tiguan is a generally reliable vehicle, but it has experienced some common issues. The majority of the reported problems are minor and can be resolved relatively inexpensively. However, some issues, such as clutch wear in the DSG transmission, can be more costly to repair. It is recommended that owners stay informed about potential issues and have their vehicles regularly serviced to minimize the risk of experiencing major problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

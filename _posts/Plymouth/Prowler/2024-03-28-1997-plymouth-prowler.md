@@ -30,6 +30,19 @@ People loved the Prowler's striking design, powerful engine, and handling capabi
 
 **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension**
@@ -81,3 +94,15 @@ People loved the Prowler's striking design, powerful engine, and handling capabi
 **Summary**
 
 Overall, the 1997 Plymouth Prowler is a unique and sought-after vehicle, but it does come with some potential reliability issues. The most common issues include intake manifold gasket failure, lower control arm bushing wear, alternator failure, and sticky dashboard material. While these issues can be relatively expensive to fix, they are not uncommon.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -69,6 +69,19 @@ The 2017 Volkswagen Volksbus is a light commercial vehicle known for its spaciou
         * Estimated Cost to Fix: $1,000 - $3,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
     * **Rear Leaf Spring Failure:**
@@ -122,3 +135,15 @@ The 2017 Volkswagen Volksbus is a light commercial vehicle known for its spaciou
 * **Summary:**
 
 The 2017 Volkswagen Volksbus has been reported to have various issues, particularly affecting the engine, transmission, and suspension components. Some of the issues can be costly to repair, such as DPF clogging or transmission rebuilds. It is recommended to research and address these potential issues before purchasing or owning a Volksbus to avoid unexpected expenses.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

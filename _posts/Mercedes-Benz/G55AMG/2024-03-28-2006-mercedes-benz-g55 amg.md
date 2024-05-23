@@ -42,6 +42,19 @@ The 2006 Mercedes-Benz G55 AMG is a high-performance SUV powered by a supercharg
         * Estimated Cost to Fix: $1000 - $2000
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -88,3 +101,15 @@ The 2006 Mercedes-Benz G55 AMG is a high-performance SUV powered by a supercharg
 **Summary:**
 
 Overall, the 2006 Mercedes-Benz G55 AMG has some potential issues that can be costly to repair, such as engine and transmission problems. However, these issues are not particularly widespread or severe, and the vehicle is known for its durable construction and overall reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

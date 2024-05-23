@@ -35,6 +35,19 @@ The 1994 Mitsubishi Expo is a compact MPV that offers versatile seating and carg
         * Solution: Rebuild or replace transmission
         * Estimated Cost to Fix: $1,500 - $3,000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -67,3 +80,15 @@ The 1994 Mitsubishi Expo is a compact MPV that offers versatile seating and carg
 **Summary**
 
 The 1994 Mitsubishi Expo has a mix of minor and moderate issues, but nothing that is overwhelmingly severe. The most costly potential repairs are transmission rebuilds and catalytic converter replacements. Overall, the Expo is a reliable and affordable MPV, but it's important to be aware of the potential problems before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

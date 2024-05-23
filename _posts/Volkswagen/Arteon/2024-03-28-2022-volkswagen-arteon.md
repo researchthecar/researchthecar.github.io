@@ -35,6 +35,19 @@ The 2022 Volkswagen Arteon is a stylish and practical midsize sedan that offers 
     * Estimated Cost to Fix: $200 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **No Issues Found**
@@ -84,3 +97,15 @@ The 2022 Volkswagen Arteon is a stylish and practical midsize sedan that offers 
 **Summary:**
 
 Overall, the 2022 Volkswagen Arteon is a generally reliable vehicle with a few potential issues to watch out for. The engine and transmission problems are relatively rare but can be costly to repair. Electrical and exterior issues are somewhat common but typically less severe and expensive. Interior issues are infrequent and generally affordable to resolve. The severity and cost of these issues vary, so it's essential to consider them when making a purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

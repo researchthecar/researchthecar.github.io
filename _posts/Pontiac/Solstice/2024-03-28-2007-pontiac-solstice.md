@@ -43,6 +43,19 @@ The 2007 Pontiac Solstice is a compact convertible sports car powered by a 2.4-l
         * Solution: Replacement of shift solenoids.
         * Estimated Cost to Fix: $300 - $800
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mounts:**
@@ -74,3 +87,15 @@ The 2007 Pontiac Solstice is a compact convertible sports car powered by a 2.4-l
 **Summary**
 
 The Pontiac Solstice faced a number of issues, ranging from severe engine problems to minor cosmetic issues. Engine issues were particularly costly to fix, while electrical and exterior problems were relatively inexpensive. The severity and cost of these issues could significantly impact the reliability and overall enjoyment of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

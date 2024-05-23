@@ -28,6 +28,19 @@ The 1990 Oldsmobile Cutlass Supreme is a midsize sedan that was powered by a 3.1
 * **Overheating:** Can cause the transmission to shudder or slip, eventually leading to failure.
 * **Valve body issues:** Can cause erratic shifting or transmission failure.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut mounts:** Can wear out and cause clunking noises when driving over bumps.
@@ -59,3 +72,15 @@ The 1990 Oldsmobile Cutlass Supreme is a midsize sedan that was powered by a 3.1
 **Summary:**
 
 The 1990 Oldsmobile Cutlass Supreme had several issues that could affect its reliability and performance. These issues ranged in severity and repair costs, with some being relatively minor and others potentially leading to major expenses. Overall, the Cutlass Supreme's reliability was below average for its class, and it is important for potential owners to be aware of these issues before purchasing one of these vehicles.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

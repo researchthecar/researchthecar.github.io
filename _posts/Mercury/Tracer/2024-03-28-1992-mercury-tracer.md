@@ -64,6 +64,19 @@ The 1992 Mercury Tracer was a sporty compact car available with three engine opt
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Struts/Shocks Wear:**
@@ -114,3 +127,15 @@ The 1992 Mercury Tracer was a sporty compact car available with three engine opt
 **Summary**
 
 The 1992 Mercury Tracer is a reliable and economical vehicle, but it has some known issues that can be expensive to repair. The most common issues are related to the head gasket, timing belt, and transmission. Owners should be aware of these potential problems and have their vehicles inspected regularly to avoid costly repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

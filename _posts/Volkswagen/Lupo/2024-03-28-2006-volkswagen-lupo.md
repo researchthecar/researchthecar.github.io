@@ -27,6 +27,19 @@ The 2006 Volkswagen Lupo is a subcompact car known for its fuel efficiency and c
         * Estimated Cost to Fix: $500 - $1,500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension:**
@@ -79,3 +92,15 @@ The 2006 Volkswagen Lupo is a subcompact car known for its fuel efficiency and c
 **Summary**
 
 The Volkswagen Lupo experiences several issues, including engine oil consumption, gearbox noise, suspension failures, and electrical problems. While some repairs are relatively inexpensive, others can be quite costly. Owners need to be aware of these potential issues and factor in the potential repair costs when considering a Lupo purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

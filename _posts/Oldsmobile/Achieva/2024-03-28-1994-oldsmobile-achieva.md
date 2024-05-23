@@ -97,6 +97,19 @@ The 1994 Oldsmobile Achieva was a compact sedan that offered a decent combinatio
     * Estimated Cost to Fix: $400 - $800
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Bearing Failure:**
@@ -150,3 +163,15 @@ The 1994 Oldsmobile Achieva was a compact sedan that offered a decent combinatio
 **Summary**
 
 The 1994 Oldsmobile Achieva had a mix of minor and some more severe issues. The most common and costly problems were related to the engine, particularly the 3.1L V6 and 3.3L V6. Transmission issues were also relatively common, especially with the 4-speed automatic. Other components such as the suspension, electrical system, and interior had fewer reported problems. Overall, the severity and cost of repairs for the Achieva were moderate, but some issues could potentially lead to higher repair bills.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

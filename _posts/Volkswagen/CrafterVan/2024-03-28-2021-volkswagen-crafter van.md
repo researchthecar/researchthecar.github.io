@@ -35,6 +35,19 @@ Solution: Update the transmission software or replace the transmission control m
 Estimated Cost to Fix: $500 - $2,000+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension wear:** Front suspension components, such as ball joints and bushings, can wear prematurely, leading to excessive noise and vibration.
@@ -82,3 +95,15 @@ Recalls: None Found
 **Summary**
 
 While the 2021 Volkswagen Crafter Van offers many features and capabilities, it has experienced some issues that users have reported. The severity of these issues varies, with some being minor inconveniences (e.g., dashboard trim peeling) while others can be more significant and expensive to fix (e.g., turbocharger failure). Potential owners should consider these issues when evaluating the Crafter Van and factor in the potential costs of repairs or maintenance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

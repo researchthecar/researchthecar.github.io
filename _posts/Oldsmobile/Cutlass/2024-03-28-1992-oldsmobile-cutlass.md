@@ -31,6 +31,19 @@ The 1992 Oldsmobile Cutlass is a popular mid-size sedan known for its comfortabl
 * **Transmission Slippage:** Occurs when the transmission loses pressure and fails to engage gears. Replaced with a rebuilt or new transmission. $1,500 - $3,000+
 * **Torque Converter Shudder:** Causes vibrations and shuddering during acceleration. Replaced with a new torque converter. $500 - $1,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut/Shock Mount Failure:** Causes knocking or clunking noises, poor ride quality, and uneven tire wear. Replaced with new struts and shock mounts. $400 - $600+
@@ -53,3 +66,15 @@ The 1992 Oldsmobile Cutlass is a popular mid-size sedan known for its comfortabl
 **Summary:**
 
 The 1992 Oldsmobile Cutlass has a range of issues that can vary in severity and cost. Transmission issues are the most prevalent and can be expensive to fix. Other issues, such as engine leaks and suspension problems, are common but typically less costly to repair. Overall, the Cutlass is a reliable vehicle, but owners should be aware of potential issues and budget accordingly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

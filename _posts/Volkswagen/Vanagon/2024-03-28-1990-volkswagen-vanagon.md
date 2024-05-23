@@ -25,6 +25,19 @@ The 1990 Volkswagen Vanagon was a versatile and spacious van available with a ch
 * **Automatic Transmission (All Engines)**
     * **Torque Converter Failure:** Description/Symptoms: The torque converter may fail, causing shuddering, slipping, and reduced power. Solution: Replace the torque converter. Estimated Cost to Fix: $1,000 - $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Ball Joint Failure:** Description/Symptoms: The front ball joints can wear out, causing knocking noises and reduced handling stability. Solution: Replace the ball joints. Estimated Cost to Fix: $200 - $400
@@ -48,3 +61,15 @@ The 1990 Volkswagen Vanagon was a versatile and spacious van available with a ch
 **Summary:**
 
 The 1990 Volkswagen Vanagon was a flawed but beloved vehicle. Despite its spacious interior and versatile nature, it was plagued by a number of serious engine and transmission issues. While some problems were relatively minor and inexpensive to fix, others could be catastrophic and costly to repair. The Vanagon's propensity for rust and interior problems further added to its maintenance headaches. Overall, its reliability and long-term ownership costs were below average.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

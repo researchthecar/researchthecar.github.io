@@ -27,6 +27,19 @@ People like the Pathfinder for its spacious interior, comfortable ride, and fuel
 * **Shuddering:** The transmission may shudder when shifting gears. Symptoms include shuddering, vibration, and noise. The transmission may need to be reprogrammed or replaced. **Estimated Cost to Fix:** $500 - $2,000+**
 * **Failure:** The transmission may fail completely, causing the vehicle to be unable to move. Symptoms include no power, no gears, and a grinding noise. The transmission will need to be replaced. **Estimated Cost to Fix:** $4,000 - $8,000+**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** The front struts may fail prematurely, causing the vehicle to bounce and handle poorly. Symptoms include bouncing, excessive body roll, and poor handling. The struts will need to be replaced. **Estimated Cost to Fix:** $800 - $1,200+**
@@ -54,3 +67,15 @@ People like the Pathfinder for its spacious interior, comfortable ride, and fuel
 **Summary**
 
 The 2016 Nissan Pathfinder is a relatively reliable vehicle, but it has some common issues that can be expensive to fix. The most severe issues include engine failure, transmission failure, and suspension failure. The cost of these issues can range from $4,000 to $8,000 or more. However, it is important to note that most of these issues are not common and that the Pathfinder is still a good choice for a reliable SUV.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

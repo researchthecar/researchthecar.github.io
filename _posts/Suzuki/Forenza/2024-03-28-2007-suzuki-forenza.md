@@ -45,6 +45,19 @@ The 2007 Suzuki Forenza is a compact sedan powered by a 2.0L inline-4 engine pai
     * Estimated Cost to Fix: $1000 - $2000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mount bearing failure:** Causes clunking or rattling noises when turning or driving over uneven surfaces.
@@ -88,3 +101,15 @@ The 2007 Suzuki Forenza is a compact sedan powered by a 2.0L inline-4 engine pai
 **Summary:**
 
 The 2007 Suzuki Forenza has a number of potential issues, particularly in the engine, transmission, suspension, and electrical systems. While the issues range in severity and cost to fix, some of the more common and costly repairs include valve adjustments, transmission leaks, and electrical shorts. It's important for owners to be aware of these potential problems and seek repairs promptly to prevent further damage or safety concerns.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

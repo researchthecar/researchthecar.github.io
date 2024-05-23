@@ -43,6 +43,19 @@ Solution: Replacement of the clutch assembly.
 Estimated Cost to Fix: $1,200 - $2,000
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Suspension Strut Mount**
@@ -80,3 +93,15 @@ Recalls: NHTSA Campaign Number 20V271000
 The 2018 Volkswagen Golf R has experienced a significant number of issues affecting various components. The engine problems, such as valve seat recessions and timing chain tensioner failures, are particularly concerning as they can lead to catastrophic engine damage. The clutch failure and other transmission issues can also result in costly repairs.
 
 The cost of these issues can range from a few hundred dollars to several thousand dollars, depending on the severity of the problem and the labor required to fix it.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

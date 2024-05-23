@@ -35,6 +35,19 @@ Drivers like the Jetta for its comfortable ride, spacious interior, and fun-to-d
 
 * **No issues found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mount failure:** Symptoms include clunking noises from the front suspension and reduced ride comfort. Solution: Replace the strut mounts. Estimated cost to fix: $200 - $400+
@@ -58,3 +71,15 @@ Drivers like the Jetta for its comfortable ride, spacious interior, and fun-to-d
 **Summary**
 
 Overall, the 1996 Volkswagen Jetta is a reliable and well-built vehicle. However, some owners have reported issues with the engine, transmission, suspension, electrical system, and interior components. The severity and cost of these issues vary depending on the specific problem.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

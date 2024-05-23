@@ -43,6 +43,19 @@ Solution: Replace mechatronic unit.
 Estimated Cost to Fix: $2,500 - $3,500+
 Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -74,3 +87,15 @@ Recalls: N/A
 **Summary:**
 
 The 2014 Volkswagen Passat has a few major issues, particularly with the 1.8L turbocharged engine and 6-speed automatic transmission. The timing chain tensioner failure can be a costly repair, while the mechatronic unit failure can sideline the vehicle. Other issues are less severe but still impact the overall reliability of the vehicle. Repair costs can vary depending on the specific issue and the location of the repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

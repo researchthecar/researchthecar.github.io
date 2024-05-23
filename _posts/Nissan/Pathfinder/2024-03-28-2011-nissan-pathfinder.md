@@ -41,6 +41,19 @@ The 2011 Nissan Pathfinder is a 7-passenger SUV powered by a 4.0L V6 engine pair
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Failure:**
@@ -100,3 +113,15 @@ The 2011 Nissan Pathfinder is a 7-passenger SUV powered by a 4.0L V6 engine pair
 **Summary:**
 
 The 2011 Nissan Pathfinder is known for its practicality and spacious interior, but it has faced several common issues, including timing chain failure, transmission problems, suspension wear, electrical malfunctions, and interior rattles. The timing chain failure, in particular, can be a costly and potentially catastrophic repair. Other issues, such as valve cover leaks and battery drain, are more minor but can still be inconvenient and expensive to fix. Overall, the severity and cost of these issues can vary depending on individual vehicles and maintenance history.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -48,6 +48,19 @@ The Achieva was praised for its spacious interior, comfortable ride, and afforda
     * Estimated Cost to Fix: $1,000 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front struts leaking**
@@ -107,3 +120,15 @@ The Achieva was praised for its spacious interior, comfortable ride, and afforda
 **Summary**
 
 The 1996 Oldsmobile Achieva is a reliable and affordable vehicle, but it does have some common issues that owners should be aware of. The most serious issues, such as transmission slipping and blown head gaskets, can be expensive to repair. However, many of the other issues, such as plastic trim fading and climate control issues, are relatively minor and inexpensive to fix. Overall, the Achieva is a good value for the money, but it is important to be aware of the potential issues before buying one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

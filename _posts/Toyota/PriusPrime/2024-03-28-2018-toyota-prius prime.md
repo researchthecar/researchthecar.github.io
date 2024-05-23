@@ -34,6 +34,19 @@ The 2018 Toyota Prius Prime is a plug-in hybrid vehicle that offers the fuel eff
         * Estimated Cost to Fix: $1,000 - $3,000
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Noise:**
@@ -74,3 +87,15 @@ The 2018 Toyota Prius Prime is a plug-in hybrid vehicle that offers the fuel eff
 **Summary:**
 
 The 2018 Toyota Prius Prime has a good reputation for reliability, but it has experienced some issues, particularly with its engine and transmission. These issues can be costly to repair, but they are not widespread and most owners report satisfaction with their vehicles.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

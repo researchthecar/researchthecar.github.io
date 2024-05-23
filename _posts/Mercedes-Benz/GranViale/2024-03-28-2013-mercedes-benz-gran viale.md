@@ -102,3 +102,15 @@ The 2013 Mercedes-Benz Gran Viale is a full-size luxury sedan that slots between
 ## Summary
 
 The 2013 Mercedes-Benz Gran Viale is a spacious and comfortable luxury sedan that has been marred by several issues. Many of the issues are relatively minor and inexpensive to fix, such as battery drain, alternator failure, and interior climate control malfunctions. However, some issues, such as timing chain tensioner failure, valve stem seal failure, and sunroof leaks, can be more severe and expensive to repair. Overall, the Gran Viale is not a particularly reliable vehicle and potential buyers should be aware of the potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

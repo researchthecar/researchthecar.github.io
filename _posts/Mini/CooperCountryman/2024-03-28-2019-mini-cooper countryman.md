@@ -45,6 +45,19 @@ The 2019 Mini Cooper Countryman is a compact crossover SUV that offers a spaciou
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: NHTSA Campaign Number 19V820
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -92,3 +105,15 @@ The 2019 Mini Cooper Countryman is a compact crossover SUV that offers a spaciou
 **Summary:**
 
 While the 2019 Mini Cooper Countryman offers a fun and versatile driving experience, it has been subject to several reported issues, including premature engine and transmission failures, electrical problems, and suspension and interior malfunctions. The severity of these issues can vary, and the cost to repair them can be significant. It is important for potential buyers to be aware of these issues before making a purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

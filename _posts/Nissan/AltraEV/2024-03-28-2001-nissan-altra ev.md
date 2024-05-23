@@ -23,6 +23,19 @@ Solution: Replace the battery pack.
 Estimated Cost to Fix: $5,000 - $10,000+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Strut Mount Failure**
@@ -54,3 +67,15 @@ Recalls: None Found
 **Summary**
 
 The 2001 Nissan Altra EV is a reliable and efficient electric vehicle. However, the vehicle is prone to battery pack failure, which can be expensive to repair. Other issues, such as strut mount failure and charging system failure, are less common but can also be costly. Overall, the Altra EV is a good choice for drivers who are looking for an affordable and environmentally friendly vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

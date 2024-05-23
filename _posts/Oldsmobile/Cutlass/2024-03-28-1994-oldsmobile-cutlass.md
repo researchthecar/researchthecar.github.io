@@ -53,6 +53,19 @@ The 1994 Oldsmobile Cutlass is a mid-size sedan that was praised for its comfort
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Struts/Shock Absorbers Worn Out:**
@@ -108,3 +121,15 @@ The 1994 Oldsmobile Cutlass is a mid-size sedan that was praised for its comfort
 **Summary**
 
 While the 1994 Oldsmobile Cutlass offers a comfortable ride and spacious interior, it has a few potential issues that owners should be aware of. Engine problems can be severe and costly, while transmission issues can also be expensive to repair. Suspension and electrical issues are generally more minor and affordable to fix. Exterior and interior problems are relatively minor and inexpensive to resolve.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

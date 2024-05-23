@@ -39,6 +39,19 @@ Despite its popularity, the Crosstrek has been plagued by a number of issues sin
         * Estimated Cost to Fix: $5,000 - $8,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mounting Points**
@@ -77,3 +90,15 @@ Despite its popularity, the Crosstrek has been plagued by a number of issues sin
 **Summary**
 
 The 2021 Subaru Crosstrek has a number of significant issues that can be costly to repair. Some of these issues, such as excessive oil consumption and premature CVT wear, can lead to major engine and transmission problems. While the Crosstrek remains a popular choice for its rugged design and all-wheel-drive system, potential buyers should be aware of the potential issues they may face before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

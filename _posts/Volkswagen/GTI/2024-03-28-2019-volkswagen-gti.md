@@ -41,6 +41,19 @@ The 2019 Volkswagen GTI is a compact performance hatchback powered by a turbocha
     * Estimated Cost to Fix: $2500 - $4000+
     * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Shock Absorber Failure:** Premature failure of the front shock absorbers can result in reduced handling and ride quality.
@@ -76,3 +89,15 @@ The 2019 Volkswagen GTI is a compact performance hatchback powered by a turbocha
 **Summary**
 
 The 2019 Volkswagen GTI is a highly competent performance hatchback; however, it is not without its share of potential issues. The most severe and costly issues are related to the timing chain tensioner and the mechatronic unit, which can lead to catastrophic engine damage or transmission failure. Other problems, such as carbon buildup, transmission shudder, and electrical harness issues, can also impact the vehicle's reliability. While some issues are relatively minor and inexpensive to fix, the more serious ones can be time-consuming and costly repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

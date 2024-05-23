@@ -84,3 +84,15 @@ Recalls: None Found
 ### Summary
 
 The 2015 Porsche Cayman is a reliable sports car with few reported issues. The most common problems involve the intake valves on the 2.7-liter engine, synchro issues on the 6-speed manual transmission, and mechatronic unit failure on the 7-speed PDK transmission. These issues can be costly to fix, so it is important to have the vehicle inspected by a qualified mechanic before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

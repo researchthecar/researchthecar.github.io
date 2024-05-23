@@ -59,6 +59,19 @@ The 2007 Nissan Frontier is a mid-size pickup truck that was offered in several 
 
 * **No issues found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear leaf spring failure**
@@ -109,3 +122,15 @@ The 2007 Nissan Frontier is a mid-size pickup truck that was offered in several 
 **Summary**
 
 The 2007 Nissan Frontier has several potential issues that can vary in severity and cost to fix. Some of the more common issues include leaking cylinder head gaskets, excessive oil consumption, and a cracked dashboard. Overall, the Frontier is a reliable vehicle with good off-road capabilities, but owners should be aware of these potential issues before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

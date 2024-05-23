@@ -42,6 +42,19 @@ The 2017 Volkswagen Golf Alltrack is a compact crossover wagon that offers a ble
     * Estimated Cost to Fix: $2500 - $3500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Control Arm Bushings Failing**
@@ -97,3 +110,15 @@ The 2017 Volkswagen Golf Alltrack is a compact crossover wagon that offers a ble
 **Summary:**
 
 The 2017 Volkswagen Golf Alltrack has a range of potential issues that vary in severity and cost to fix. The most serious issues involve the engine timing chain tensioner and transmission torque converter, which can lead to significant performance issues and costly repairs. Other issues, such as suspension and electrical problems, are less severe but can still be frustrating and expensive to address. Overall, the Golf Alltrack has a moderate number of reported issues, and its reliability is considered average compared to similar vehicles in its class.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -45,3 +45,15 @@ People liked the Toronado for its stylish design, comfortable interior, and powe
 ### Summary
 
 The 1992 Oldsmobile Toronado is a stylish and powerful car, but it also has a number of potential problems. The most severe and expensive issues include engine failure, transmission failure, and clearcoat peeling. However, most of the other issues are relatively minor and inexpensive to fix. Overall, the Toronado is a good choice for people who are looking for a classic car with a lot of character.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

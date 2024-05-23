@@ -45,6 +45,19 @@ The 1998 Toyota Corolla is a compact sedan known for its reliability and fuel ef
 
 * **Shift linkage bushings loose:** Causes sloppy or imprecise shifting. Requires replacement of the shift linkage bushings. $100 - $250
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mounts worn:** Causes noise and vibration when driving over bumps. Requires replacement of the strut mounts. $150 - $300
@@ -80,3 +93,15 @@ The 1998 Toyota Corolla is a compact sedan known for its reliability and fuel ef
 **Summary**
 
 While the 1998 Toyota Corolla is generally a reliable vehicle, it has some common issues that owners should be aware of. The most severe issues, such as timing chain noise and transmission problems, can be costly to repair. However, many of the other issues are relatively minor and inexpensive to fix. Overall, the Corolla is still a good choice for those looking for a budget-friendly and reliable compact car.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

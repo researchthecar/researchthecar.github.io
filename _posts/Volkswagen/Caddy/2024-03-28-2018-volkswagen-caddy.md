@@ -37,6 +37,19 @@ The 2018 Volkswagen Caddy is a versatile commercial vehicle offered in various c
    - Estimated Cost to Fix: $2000 - $3000+
    - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
  - **No Issues Found**
@@ -68,3 +81,15 @@ The 2018 Volkswagen Caddy is a versatile commercial vehicle offered in various c
 **Summary**
 
 Overall, the 2018 Volkswagen Caddy has received some complaints regarding issues with the turbocharger, transmission, and electrical system. While these issues can be inconvenient and costly to repair, they are not widespread and do not affect all vehicles. The Caddy remains a reliable and practical vehicle for commercial and personal use. The severity of the issues and the cost of repairs vary depending on the specific issue and the extent of the damage. Regular maintenance and addressing issues promptly can help prevent more significant problems and extend the vehicle's lifespan.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

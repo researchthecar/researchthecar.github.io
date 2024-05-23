@@ -52,6 +52,19 @@ The 2018 Mini Cooper Clubman is a compact wagon-style vehicle that offers a spac
     * Solution: Replacement of the entire mechatronic unit, which includes electrical components, sensors, and actuators.
     * Estimated Cost to Fix: $2,500 - $4,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front Strut Bearing Failure:**
     * Description/Symptoms: Worn strut bearings can result in clunking or knocking noises, especially over rough surfaces.
@@ -86,3 +99,15 @@ The 2018 Mini Cooper Clubman is a compact wagon-style vehicle that offers a spac
 
 **Summary:**
 Overall, the 2018 Mini Cooper Clubman has received mixed reviews regarding reliability. While it offers a fun and engaging driving experience, it has been plagued by several issues across different components, including the engine, transmission, suspension, electrical, exterior, and interior. The severity and cost of repairs vary depending on the specific issue and the extent of damage. Prospective owners should carefully consider these potential issues before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

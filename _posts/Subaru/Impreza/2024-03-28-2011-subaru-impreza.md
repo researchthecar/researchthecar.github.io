@@ -24,6 +24,19 @@ The 2011 Subaru Impreza is a compact car available in sedan and hatchback body s
 * **4-speed automatic transmission**
     * **Delayed shifts:** Delayed shifts can be caused by a faulty solenoid or a worn transmission filter. Symptoms include slow or delayed gear changes. The fix involves replacing the faulty solenoid or filter. Estimated cost to fix: $200 - $400
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front struts:** The front struts can wear out prematurely, causing a loss of ride quality and handling. Symptoms include abouncy ride, excessive body roll, and uneven tire wear. The fix involves replacing the struts. Estimated cost to fix: $400 - $800
@@ -47,3 +60,15 @@ The 2011 Subaru Impreza is a compact car available in sedan and hatchback body s
 **Summary**
 
 The 2011 Subaru Impreza is a reliable and capable car, but it is not without its issues. The most common problems include engine oil leaks, timing belt tensioner failure, transmission fluid leaks, and suspension wear. These issues can be costly to fix, so it is important to factor them into your decision when buying an Impreza.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

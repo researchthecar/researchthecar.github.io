@@ -39,6 +39,19 @@ The 2023 Subaru Impreza is a compact car that offers a choice of two engines: a 
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Noise:** Clunking or rattling noises from the front suspension, especially over bumps.
@@ -78,3 +91,15 @@ The 2023 Subaru Impreza is a compact car that offers a choice of two engines: a 
 **Summary:**
 
 The 2023 Subaru Impreza has some common issues that can be costly to repair. Engine problems, such as valve train noise and oil consumption, can require major repairs. Transmission issues with the CVT can also be expensive to fix. However, the Impreza's suspension, electrical, and interior issues are generally less severe and can be resolved for a more reasonable cost. Overall, the Impreza's reliability and durability may be affected by these issues, especially if they are not addressed promptly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

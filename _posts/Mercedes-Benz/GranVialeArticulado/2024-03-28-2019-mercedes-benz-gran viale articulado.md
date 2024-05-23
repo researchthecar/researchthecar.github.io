@@ -14,6 +14,19 @@ The 2019 Mercedes-Benz Gran Viale Articulado is a luxury bus that has a 12.8L in
 **Transmission**
 * 6-speed automatic
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * No Issues Found
 
@@ -38,3 +51,15 @@ Estimated Cost to Fix: $200 - $800
 
 **Summary**
 The 2019 Mercedes-Benz Gran Viale Articulado is a comfortable and spacious bus, but it has been reported to have some electrical and interior issues. The severity of these issues varies, and the cost to fix them can range from $200 to $1,500.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

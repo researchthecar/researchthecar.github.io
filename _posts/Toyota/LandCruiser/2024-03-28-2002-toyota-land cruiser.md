@@ -39,6 +39,19 @@ The 2002 Toyota Land Cruiser is a full-size SUV known for its ruggedness, off-ro
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Bushing Failure:**
@@ -89,3 +102,15 @@ The 2002 Toyota Land Cruiser is a full-size SUV known for its ruggedness, off-ro
 **Summary:**
 
 The 2002 Toyota Land Cruiser is a generally reliable vehicle, but it has some common issues that owners should be aware of, particularly with the engine and transmission. The severity and cost of these issues can vary significantly, but they can add up for older models with high mileage.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

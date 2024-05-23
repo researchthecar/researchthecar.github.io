@@ -31,6 +31,19 @@ The 2016 Mercedes-Benz GLE450 AMG is a luxury SUV that combines performance and 
         * Estimated Cost to Fix: $2,000 - $5,000+
         * Recall: MB Campaign: 2015030081
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -72,3 +85,15 @@ The 2016 Mercedes-Benz GLE450 AMG is a luxury SUV that combines performance and 
 **Summary**
 
 The 2016 Mercedes-Benz GLE450 AMG is a luxury SUV with known issues that can be severe and expensive to repair. The most common problems reported are turbocharger failure, transmission shifting issues, battery failure, sunroof leaking, and navigation system failure. Owners should be aware of these issues and factor in potential repair costs when considering the GLE450 AMG.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

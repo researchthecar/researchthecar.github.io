@@ -38,6 +38,19 @@ Owners praise the Cross Sport for its comfortable ride, spacious cabin, and shar
 - Estimated Cost to Fix: $2,000 - $4,000+
 - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Squeaking:**
@@ -77,3 +90,15 @@ Owners praise the Cross Sport for its comfortable ride, spacious cabin, and shar
 **Summary:**
 
 Overall, the 2022 Volkswagen Cross Sport has received mixed reviews regarding its reliability. While some owners have reported minimal issues, others have encountered problems with specific components such as the transmission and electrical system. The severity and cost of these issues vary, but most are relatively minor and can be resolved through repairs or replacements. However, it's important for potential buyers to be aware of these potential issues before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

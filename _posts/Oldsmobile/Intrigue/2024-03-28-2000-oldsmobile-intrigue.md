@@ -59,6 +59,19 @@ Despite its overall reliability, the Intrigue has experienced some common issues
   - Estimated Cost to Fix: $500 - $1,200
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Wear**
@@ -100,3 +113,15 @@ Despite its overall reliability, the Intrigue has experienced some common issues
 **Summary**
 
 Overall, the 2000 Oldsmobile Intrigue is a reliable vehicle. However, some common issues can occur, particularly with the engine, transmission, and suspension. The severity and cost of these issues vary, but most can be repaired for a reasonable price. It is important for owners to be aware of these potential issues and have them addressed promptly to maintain the vehicle's performance and longevity.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -39,6 +39,19 @@ Owners of the Volkswagen Polo appreciate its affordability, fuel efficiency, and
     Estimated Cost to Fix: $1,500 - $2,500+
     Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Front suspension struts**
     Description/Symptoms: The front suspension struts can wear out prematurely, causing the ride to become harsh and the handling to become unstable. Symptoms include excessive bouncing, noise while driving over bumps, and uneven tire wear.
@@ -70,3 +83,15 @@ Owners of the Volkswagen Polo appreciate its affordability, fuel efficiency, and
 **Summary:**
 
 The 2006 Volkswagen Polo has some common issues that can be costly to repair. The most severe and expensive issues are related to the engine and transmission. However, many of the issues are relatively minor and can be fixed for a reasonable cost. Overall, the 2006 Volkswagen Polo is a reliable and affordable vehicle that offers good fuel economy and fun-to-drive handling.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -41,6 +41,19 @@ The 2008 Volkswagen Bora is a midsize sedan available with a range of engine and
     * Estimated Cost to Fix: $2500 - $4000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Shock Absorber Failure:**
@@ -76,3 +89,15 @@ The 2008 Volkswagen Bora is a midsize sedan available with a range of engine and
 **Summary**
 
 The Volkswagen Bora offers a reliable and comfortable ride but has some reported issues in specific areas like the intake manifold, turbocharger, and gearbox. The severity and cost of these issues can vary, but it's important for owners to be aware of them to ensure proper maintenance and timely repairs. The electrical, exterior, and interior issues are generally minor and have relatively low repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

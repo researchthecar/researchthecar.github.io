@@ -35,6 +35,19 @@ The Grand Prix received praise for its comfortable ride, spacious interior, and 
         * Estimated Cost to Fix: $1,000 - $2,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -86,3 +99,15 @@ The Grand Prix received praise for its comfortable ride, spacious interior, and 
 **Summary:**
 
 The 1990 Pontiac Grand Prix has a number of potential issues, ranging from minor inconveniences to major repairs. The most severe and costly issues include head gasket failure and transmission failure. However, many of the other issues are relatively inexpensive to fix. Overall, the Grand Prix is a decent choice for those looking for a comfortable and powerful mid-size car, but it's important to be aware of the potential problems that may arise.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

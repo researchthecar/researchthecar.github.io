@@ -38,6 +38,19 @@ The 2010 Volkswagen GLI is a performance-oriented version of the Jetta sedan. It
         * **Estimated Cost to Fix:** $2,000 - $3,000+
         * **Recalls:** 10V803
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -70,3 +83,15 @@ The 2010 Volkswagen GLI is a performance-oriented version of the Jetta sedan. It
 **Summary**
 
 Overall, the 2010 Volkswagen GLI has a few potential issues, but none are particularly severe or expensive to fix. The most common problems are turbocharger failure and carbon buildup on intake valves, both of which can lead to reduced power and performance. The DSG transmission can also experience some shifting problems due to mechatronic unit issues, but these are less common.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -31,6 +31,19 @@ The 2001 Oldsmobile Aurora was a luxury sedan that offered a choice of two engin
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Wear:** Description/Symptoms: Clunking or rattling noise when going over bumps, uneven tire wear. Solution: Replace control arm bushings. Estimated Cost to Fix: $200 - $300+
@@ -53,3 +66,15 @@ The 2001 Oldsmobile Aurora was a luxury sedan that offered a choice of two engin
 **Summary**
 
 The 2001 Oldsmobile Aurora is a generally reliable vehicle with a few common issues. The most severe and costly issue is the intake manifold gasket failure, which can lead to overheating and engine damage. The torque converter shudder and solenoid failure in the 4-speed automatic transmission can also be costly to repair. The Aurora's electrical and interior issues are relatively minor and inexpensive to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

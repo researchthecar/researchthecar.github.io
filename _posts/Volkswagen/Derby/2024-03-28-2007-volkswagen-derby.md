@@ -59,6 +59,19 @@ Owners of the 2007 Volkswagen Derby generally praised the vehicle for its fuel e
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut mounts failure**
@@ -105,3 +118,15 @@ Owners of the 2007 Volkswagen Derby generally praised the vehicle for its fuel e
 **Summary**
 
 The 2007 Volkswagen Derby is a generally reliable vehicle, but it has some common issues that owners should be aware of. The most severe issues include transmission failure, which can be expensive to repair. However, many of the other issues are relatively minor and can be fixed for a reasonable cost. Overall, the Derby is a good value for the money, but potential buyers should be prepared for the possibility of some repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -17,6 +17,19 @@ The 2016 Mercedes-Benz C450 AMG is a compact executive sedan powered by a potent
 
 * 9-Speed Automatic
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Premature Wear of Control Arms:**
@@ -58,3 +71,15 @@ The 2016 Mercedes-Benz C450 AMG is a compact executive sedan powered by a potent
 **Summary:**
 
 Overall, the 2016 Mercedes-Benz C450 AMG is a reliable vehicle with several reported issues. While some issues, such as control arm wear and battery sensor failures, can be relatively inexpensive to fix, other problems like shock absorber leaks and electrical harness damage can be more costly to repair. Despite these issues, the vehicle remains a popular choice for its performance and luxury features.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

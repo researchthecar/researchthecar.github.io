@@ -27,6 +27,19 @@ The 2019 Mitsubishi Outlander PHEV is a plug-in hybrid SUV that combines a 2.4-l
     * **Estimated Cost to Fix:** $200 - $500
     * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:** Premature failure of the front strut mounts has been reported, causing noise and vibration.
@@ -66,3 +79,15 @@ The 2019 Mitsubishi Outlander PHEV is a plug-in hybrid SUV that combines a 2.4-l
 **Summary**
 
 While the 2019 Mitsubishi Outlander PHEV offers a spacious interior and advanced features, it has faced several issues that can impact its performance and reliability. Engine oil consumption and transmission hesitation are significant concerns. Electrical problems, such as battery discharge and charging system issues, can be costly to repair. Additionally, exterior and interior components have also experienced defects. The severity and cost of these issues should be considered when evaluating this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

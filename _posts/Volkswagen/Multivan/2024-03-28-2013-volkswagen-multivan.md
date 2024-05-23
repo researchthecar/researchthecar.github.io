@@ -38,6 +38,19 @@ The 2013 Volkswagen Multivan is a versatile and practical vehicle, offering ampl
         - Estimated Cost to Fix: $2,000 - $4,000+
         - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Front Suspension:**
     - **Strut Mount Bearing Failure:** Premature failure of the strut mount bearings, causing excessive noise and vibration.
@@ -79,3 +92,15 @@ The 2013 Volkswagen Multivan is a versatile and practical vehicle, offering ampl
 **Summary:**
 
 While the 2013 Volkswagen Multivan offers a number of advantages, it is not without its flaws. Several issues have been reported, including engine problems, transmission malfunction, suspension issues, electrical failures, and various interior and exterior problems. These issues can be costly to repair and may impact the overall reliability and safety of the vehicle. It is important for potential buyers to be aware of these potential problems before purchasing a Multivan. The severity and cost of these issues vary depending on the specific problem and the extent of the repairs required, but it is essential to consider these factors when evaluating the cost of ownership.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

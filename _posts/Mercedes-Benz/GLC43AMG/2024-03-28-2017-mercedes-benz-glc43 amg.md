@@ -32,6 +32,19 @@ The 2017 Mercedes-Benz GLC43 AMG is a performance-oriented SUV powered by a 3.0L
         * Estimated Cost to Fix: $200 - $2,500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -64,3 +77,15 @@ The 2017 Mercedes-Benz GLC43 AMG is a performance-oriented SUV powered by a 3.0L
 **Summary:**
 
 The 2017 Mercedes-Benz GLC43 AMG is a desirable SUV that generally receives positive feedback. However, it has encountered some notable issues, including oil leaks, misfiring cylinders, shifting hesitations, battery discharge, dashboard cracking, and malfunctioning steering wheel controls. While some of these issues can be addressed with relatively inexpensive repairs, others may require more significant investments. It is important to be aware of these potential issues when considering the purchase or maintenance of this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -51,6 +51,19 @@ The V90 Cross Country is praised for its elegant design, comfortable interior, a
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Squeak**
@@ -96,3 +109,15 @@ The V90 Cross Country is praised for its elegant design, comfortable interior, a
 **Summary**
 
 While the 2019 Volvo V90 Cross Country offers a comfortable ride, elegant design, and advanced safety features, it has been plagued by several issues affecting the engine, transmission, suspension, electrical system, exterior, and interior. The severity of these issues ranges from minor annoyances to major breakdowns, with estimated repair costs varying significantly. It's important to note that these issues may not affect all V90 Cross Country models, and individual vehicles may have different experiences.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

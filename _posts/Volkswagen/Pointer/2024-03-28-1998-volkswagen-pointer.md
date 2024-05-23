@@ -22,6 +22,19 @@ The 1998 Volkswagen Pointer, a subcompact sedan, was offered with a variety of e
 **4-Speed Automatic**
 - **Faulty Torque Converter:** A malfunctioning torque converter can result in slipping gears, rough shifting, and excessive vibration. Replacement of the torque converter and transmission fluid is required. ($800 - $1200+)
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -42,3 +55,15 @@ The 1998 Volkswagen Pointer, a subcompact sedan, was offered with a variety of e
 **Summary:**
 
 The 1998 Volkswagen Pointer is a reliable and affordable vehicle with a few common issues. The severity of the issues is generally minor, with most repairs costing under $500. However, some more significant problems, such as a faulty torque converter or a leaking head gasket, can be costly to rectify.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

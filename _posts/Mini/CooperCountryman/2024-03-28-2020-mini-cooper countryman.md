@@ -61,6 +61,19 @@ The Mini Cooper Countryman is praised for its distinctive design, premium cabin,
     * Estimated Cost to Fix: $1,000 - $1,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -120,3 +133,15 @@ The Mini Cooper Countryman is praised for its distinctive design, premium cabin,
 **Summary:**
 
 Overall, the 2020 Mini Cooper Countryman is a generally reliable vehicle, but it is not without its issues. The timing chain rattle and turbocharger failure in the 1.5-liter engine are the most concerning, as they can lead to major engine damage if not addressed promptly. Other issues are less severe but can still be costly to repair. Potential buyers should be aware of these issues and factor them into their purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

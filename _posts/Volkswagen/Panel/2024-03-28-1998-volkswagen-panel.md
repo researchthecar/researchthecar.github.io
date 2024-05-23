@@ -22,6 +22,19 @@ The 1998 Volkswagen Panel is a versatile commercial vehicle that offers ample ca
 
 * **Synchronizer Wear:** The synchronizers in the transmission can wear out, making it difficult or impossible to shift gears. Symptoms include grinding noises when shifting, difficulty getting into gear, and popping out of gear. Replacement of the synchronizers and associated components costs around $800 - $1,200+.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Strut Mount Failure:** The strut mounts can fail, causing a clunking noise when going over bumps. Symptoms include a rattling noise from the front of the vehicle, poor handling, and uneven tire wear. Replacement of the strut mounts costs around $300 - $500+.
@@ -48,3 +61,15 @@ The 1998 Volkswagen Panel is a versatile commercial vehicle that offers ample ca
 **Summary:**
 
 The 1998 Volkswagen Panel is a reasonably reliable commercial vehicle, but it does have some significant issues to consider. The potential for catastrophic engine failure due to timing belt failure is concerning, and the cost of repair is substantial. Other issues, such as transmission synchronizer wear, suspension component failures, electrical problems, and interior malfunctions, can also be expensive to fix. While the Panel offers decent fuel economy and a spacious cargo area, its numerous potential issues may make it a less desirable choice for buyers seeking a reliable and low-maintenance vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -51,6 +51,19 @@ The 2007 Mercedes-Benz Multego is a mid-size SUV offered with a choice of two en
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air suspension compressor failure**
@@ -88,3 +101,15 @@ The 2007 Mercedes-Benz Multego is a mid-size SUV offered with a choice of two en
 **Summary**
 
 The 2007 Mercedes-Benz Multego has some notable reliability issues, especially with the 5.0-liter V8 engine and timing chain tensioner. Other issues include transmission problems, suspension failures, and certain electrical and interior malfunctions. The severity and cost of these issues can vary depending on the specific problem and the extent of the damage. Overall, the Multego is a comfortable and luxurious SUV, but potential buyers should be aware of the potential reliability concerns before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -29,6 +29,19 @@ The Tribeca has received generally positive reviews from critics, who praise its
 * **Transmission Fluid Leaks:** Leaks can occur from the transmission pan, torque converter seal, or input/output shaft seals. Symptoms include low transmission fluid levels, fluid spots under the vehicle, and slipping gears. The leaks can be fixed by replacing the leaking gaskets or seals. Estimated Cost to Fix: $200 - $1,000+
 * **Slipping Gears:** The transmission may slip gears, causing the vehicle to lose power or accelerate unexpectedly. Symptoms include difficulty shifting gears, loss of power, and a check engine light. The transmission may need to be rebuilt or replaced to fix the issue. Estimated Cost to Fix: $1,500 - $3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Bearing Failure:** The strut mount bearings can fail, causing a clunking noise from the front of the vehicle. Symptoms include a clunking noise when turning or going over bumps, and uneven tire wear. The strut mount bearings can be replaced to fix the issue. Estimated Cost to Fix: $300 - $600+
@@ -52,3 +65,15 @@ The Tribeca has received generally positive reviews from critics, who praise its
 **Summary**
 
 The 2013 Subaru Tribeca has a number of potential issues, including engine oil leaks, timing chain tensioner failure, transmission fluid leaks, suspension noise, electrical system malfunctions, roof rack crossbar issues, infotainment system malfunctions, and climate control malfunctions. The severity and cost of these issues can vary depending on the specific issue and the severity of the failure. Overall, the Tribeca is a reliable vehicle, but it is important to be aware of these potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

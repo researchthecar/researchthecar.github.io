@@ -25,6 +25,19 @@ Owners of the 1995 Oldsmobile Cutlass have reported a number of issues, includin
 * **5-speed manual**
     * **Transmission fluid leak:** This issue can cause the transmission to slip or shift hard. The solution is to replace the transmission fluid seal. Estimated cost to fix: $100-$200
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front struts:** These struts can wear out over time, causing the vehicle to ride rough and handle poorly. The solution is to replace the front struts. Estimated cost to fix: $400-$600
 * **Rear shocks:** These shocks can also wear out over time, causing the vehicle to ride rough and handle poorly. The solution is to replace the rear shocks. Estimated cost to fix: $200-$400
@@ -42,3 +55,15 @@ Owners of the 1995 Oldsmobile Cutlass have reported a number of issues, includin
 
 **Summary**
 The 1995 Oldsmobile Cutlass is a reliable vehicle that has a number of potential issues. The most common issues are intake manifold gasket failure, water pump failure, and head gasket failure. The severity of these issues can vary, but they can all be expensive to fix. Overall, the Cutlass is a good choice for those who are looking for a reliable and affordable midsize sedan.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

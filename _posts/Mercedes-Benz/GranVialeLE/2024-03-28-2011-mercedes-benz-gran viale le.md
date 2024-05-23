@@ -29,6 +29,19 @@ The 2011 Mercedes-Benz Gran Viale LE was a limited-edition luxury sedan based on
     * **Estimated Cost to Fix:** $300 - $600
     * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Failure**
@@ -64,3 +77,15 @@ The 2011 Mercedes-Benz Gran Viale LE was a limited-edition luxury sedan based on
 **Summary**
 
 Overall, the 2011 Mercedes-Benz Gran Viale LE is a well-engineered vehicle. However, like most vehicles, it has its share of potential issues. The most severe and expensive problems seem to be related to the air suspension system and navigation system. Regular maintenance and prompt attention to potential issues can help minimize the likelihood and severity of these problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

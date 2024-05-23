@@ -29,6 +29,19 @@ The 2010 Toyota Land Cruiser is a full-size SUV known for its exceptional off-ro
     * Estimated Cost to Fix: $1,200 - $1,800+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Air Suspension Failure**
@@ -64,3 +77,15 @@ The 2010 Toyota Land Cruiser is a full-size SUV known for its exceptional off-ro
 **Summary**
 
 The 2010 Toyota Land Cruiser is a capable SUV with some common issues that can be costly to repair. The most severe issue is the premature camshaft failure, which can lead to engine failure and expensive repairs. While the transmission and suspension problems are less severe, they can still affect the overall driving experience and safety. The electrical, exterior, and interior issues are generally minor but can be annoying for owners. Overall, the Land Cruiser is a reliable vehicle, but potential buyers should be aware of these potential problems and factor them into their purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

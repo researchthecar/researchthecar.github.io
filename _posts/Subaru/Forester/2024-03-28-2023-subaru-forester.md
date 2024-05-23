@@ -27,6 +27,19 @@ The 2023 Subaru Forester is a compact SUV that is known for its versatility, rel
 * **6-speed manual transmission**
     * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Rear suspension**
     * **Premature wear of rear trailing arm bushings**
@@ -79,3 +92,15 @@ The 2023 Subaru Forester is a compact SUV that is known for its versatility, rel
 
 **Summary**
 Overall, the 2023 Subaru Forester is a reliable vehicle with a spacious interior and impressive fuel economy. However, it is not without its issues. Some owners have reported problems with the engine, transmission, and other components, which can be costly to repair. Before purchasing a 2023 Forester, it is important to be aware of the potential issues and to factor in the cost of repairs into your decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

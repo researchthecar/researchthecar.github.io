@@ -24,6 +24,19 @@ The 2008 Mercedes-Benz CL65 AMG is a high-performance luxury coupe powered by a 
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Airmatic Suspension Compressor Failure:** The air suspension compressor may fail, causing the vehicle to lower and become inoperable.
@@ -52,3 +65,15 @@ The 2008 Mercedes-Benz CL65 AMG is a high-performance luxury coupe powered by a 
 **Summary**
 
 The 2008 Mercedes-Benz CL65 AMG is a potent luxury coupe that has faced some common issues. The most significant issues lie with the engine wastegate failure, suspension compressor failure, and premature battery discharge. These issues can be expensive to repair, but fortunately, they are not considered widespread. Overall, the CL65 AMG remains a compelling choice for those seeking extreme performance and luxury, but it's essential to be aware of these potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

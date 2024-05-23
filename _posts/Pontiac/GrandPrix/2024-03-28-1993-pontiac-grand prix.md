@@ -45,6 +45,19 @@ People who like the 1993 Pontiac Grand Prix often cite its spacious interior, co
 * **Transmission fluid leaks:** The transmission fluid can leak from the transmission pan, seals, or lines. This can lead to transmission damage. The solution is to fix the leak and replace the transmission fluid. Estimated cost to fix: $200 - $400.
 * **Grinding gears:** The transmission may grind gears when shifting. The solution is to have the transmission inspected and repaired. Estimated cost to fix: $500 - $1,000.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front suspension**
@@ -79,3 +92,15 @@ People who like the 1993 Pontiac Grand Prix often cite its spacious interior, co
 **Summary**
 
 The 1993 Pontiac Grand Prix is a reliable vehicle with a comfortable interior and powerful engine options. However, it is not without its problems. The most common issues reported by owners are intake manifold gasket failure, head gasket failure, and transmission fluid leaks. These issues can be expensive to fix, so it is important to have the vehicle inspected by a qualified mechanic before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

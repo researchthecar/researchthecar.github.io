@@ -34,6 +34,19 @@ The 2001 Volkswagen Pointer Truck is a compact pickup truck available with a sin
     * Estimated Cost to Fix: $800 - $1200+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arm Bushing Wear:**
@@ -79,3 +92,15 @@ The 2001 Volkswagen Pointer Truck is a compact pickup truck available with a sin
 **Summary**
 
 The 2001 Volkswagen Pointer Truck has a handful of potential issues, primarily related to the engine, transmission, suspension, electrical, and exterior components. While some issues are relatively minor and inexpensive to fix, others can be costly and require significant repairs. Owners should be aware of these potential issues and factor repair costs into their ownership budget.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

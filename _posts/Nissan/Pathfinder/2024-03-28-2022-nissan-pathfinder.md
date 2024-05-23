@@ -37,6 +37,19 @@ The 2022 Nissan Pathfinder is a three-row SUV that offers a spacious cabin and v
     * Estimated Cost to Fix: $0 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Noise:**
@@ -64,3 +77,15 @@ The 2022 Nissan Pathfinder is a three-row SUV that offers a spacious cabin and v
 **Summary:**
 
 While the 2022 Nissan Pathfinder offers a comfortable and spacious interior, it has faced several issues that have impacted owner satisfaction. The most significant issues lie in engine valve buildup, transmission delays, and electrical glitches. While many of these issues can be resolved through software updates or relatively simple repairs, some, such as sunroof leaks and center console malfunctions, can be more costly to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

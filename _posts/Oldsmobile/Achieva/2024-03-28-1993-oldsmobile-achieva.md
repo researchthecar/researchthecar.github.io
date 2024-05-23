@@ -49,6 +49,19 @@ Owners generally praised the Achieva for its affordability, practicality, and ea
         * Estimated Cost to Fix: $500 - $800
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Strut mount failure**
     * Description/Symptoms: Clunking or rattling noise from the front suspension, poor handling.
@@ -89,3 +102,15 @@ Owners generally praised the Achieva for its affordability, practicality, and ea
 
 **Summary:**
 The 1993 Oldsmobile Achieva had some common issues, particularly with the intake manifold gasket on the 2.3L engine. Other common problems included transmission slipping, power window failure, and plastic bumper fading. While the Achieva was generally a reliable and affordable car, some of these issues could be costly to fix, especially if they occurred after the warranty period.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

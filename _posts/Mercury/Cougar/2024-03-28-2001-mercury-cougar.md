@@ -49,6 +49,19 @@ The 2001 Mercury Cougar was a stylish coupe with a sleek design and a range of e
     * Estimated Cost to Fix: $200 - $500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **No Issues Found**
@@ -76,3 +89,15 @@ The 2001 Mercury Cougar was a stylish coupe with a sleek design and a range of e
 **Summary:**
 
 The 2001 Mercury Cougar had several potential issues, including engine valve problems, transmission failures, and electrical malfunctions. While some issues were minor and relatively inexpensive to fix, others could lead to significant expenses and potentially affect vehicle safety. Overall, the severity and cost of the issues varied, so potential owners should carefully consider the potential risks and maintenance costs before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

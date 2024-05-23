@@ -43,6 +43,19 @@ The 1990 Mitsubishi Mirage is a subcompact hatchback with a spacious interior an
         * Estimated Cost to Fix: $1200 - $2000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Front Suspension**
@@ -95,3 +108,15 @@ The 1990 Mitsubishi Mirage is a subcompact hatchback with a spacious interior an
 **Summary:**
 
 The 1990 Mitsubishi Mirage faces some common issues related to engine components, such as intake manifold gaskets and timing belts. The transmission, suspension, electrical, and interior may also experience problems, including synchronizer wear, valve body failure, strut mount bearing failure, alternator failure, and HVAC blower motor failure. While many of these issues are not severe and can be repaired at a reasonable cost, some can be more expensive, such as timing belt failure and transmission rebuilds. Overall, the Mirage has received mixed reviews, with its affordability and fuel efficiency being praised, but its reliability and build quality being criticized.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

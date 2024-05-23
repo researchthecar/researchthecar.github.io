@@ -25,6 +25,19 @@ The 1996 Mitsubishi Galant is a midsize sedan that comes with two engine options
 
 * **4-speed automatic transmission:** The 4-speed automatic transmission can fail, causing the vehicle to lose power or stall. Symptoms include slipping gears, a whining noise, and a check engine light. The solution is to rebuild or replace the transmission. **Estimated Cost to Fix:** $2,000 - $3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** The struts can fail, causing the vehicle to ride rough and handle poorly. Symptoms include a rough ride, poor handling, and a rattling noise. The solution is to replace the struts. **Estimated Cost to Fix:** $500 - $800+
@@ -49,3 +62,15 @@ The 1996 Mitsubishi Galant is a midsize sedan that comes with two engine options
 **Summary:**
 
 The 1996 Mitsubishi Galant is a reliable and fuel-efficient vehicle, but it has been plagued by a number of issues over the years. The most common issues include intake manifold gasket failure, valve cover gasket leaks, and transmission failure. The severity of these issues varies, but they can be costly to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

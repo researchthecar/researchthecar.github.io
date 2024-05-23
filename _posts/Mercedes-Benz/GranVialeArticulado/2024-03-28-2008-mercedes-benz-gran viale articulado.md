@@ -22,6 +22,19 @@ The 2008 Mercedes-Benz Gran Viale Articulado is a luxury articulated bus that co
 
 * **Transmission Control Module (TCM) Issues:** Symptoms include erratic shifting, delayed gear engagement, and limp mode. Solution: Replacement or reprogramming of TCM. Estimated Cost to Fix: $1,000-$2,000+.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Compressor Failure:** Symptoms include uneven ride height, suspension sagging, and reduced handling. Solution: Replacement of air suspension compressor. Estimated Cost to Fix: $800-$1,200+.
@@ -43,3 +56,15 @@ The 2008 Mercedes-Benz Gran Viale Articulado is a luxury articulated bus that co
 **Summary**
 
 While the 2008 Mercedes-Benz Gran Viale Articulado is a reliable and well-built vehicle, it has been reported to have some specific issues that can affect its performance and functionality. These issues range in severity and cost to fix. While some issues, like electrical malfunctions or interior system problems, may be relatively minor and affordable to resolve, others, such as transmission control module issues or suspension compressor failure, can be more costly and impact the vehicle's overall drivability. It is important for owners and potential buyers to be aware of these issues and to factor them into their maintenance and repair budgets.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

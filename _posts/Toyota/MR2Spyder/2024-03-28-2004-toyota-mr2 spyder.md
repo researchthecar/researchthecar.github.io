@@ -43,6 +43,19 @@ The 2004 Toyota MR2 Spyder is a mid-engined, rear-wheel-drive roadster that debu
     * Estimated Cost to Fix: $600 - $1,200+
     * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear suspension alignment issues:**
@@ -83,3 +96,15 @@ The 2004 Toyota MR2 Spyder is a mid-engined, rear-wheel-drive roadster that debu
 **Summary**
 
 The 2004 Toyota MR2 Spyder offers agile handling but faces some reliability concerns, particularly with its engine and transmission. While not all issues are major or expensive to fix, potential buyers should be aware of these potential problems. The estimated cost to fix these issues can range from a few hundred dollars to over a few thousand dollars.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

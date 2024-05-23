@@ -43,6 +43,19 @@ While the Cougar received praise for its sporty handling and powerful engines, i
 * **Transmission fluid leak:** This can cause the transmission to overheat and fail. The transmission fluid leak will need to be repaired. **Estimated Cost to Fix:** $200 - $500
 * **Solenoid failure:** This can cause the transmission to shift erratically or not shift at all. The solenoid will need to be replaced. **Estimated Cost to Fix:** $200 - $500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** This can cause the vehicle to ride rough and handle poorly. The struts will need to be replaced. **Estimated Cost to Fix:** $500 - $1,000
@@ -66,3 +79,15 @@ While the Cougar received praise for its sporty handling and powerful engines, i
 **Summary**
 
 The 2000 Mercury Cougar had a number of potential issues that could affect its engine, transmission, suspension, electrical system, and interior. While some of these issues were minor and inexpensive to fix, others could be more serious and costly. Overall, the Cougar was a reliable vehicle, but it is important to be aware of its potential problems before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -36,6 +36,19 @@ Owners of the 2012 Volkswagen Tiguan praise the vehicle for its spacious interio
    * Estimated Cost to Fix: $1,500 - $3,000+
    * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Worn Coil Springs:**
@@ -81,3 +94,15 @@ Owners of the 2012 Volkswagen Tiguan praise the vehicle for its spacious interio
 **Summary**
 
 The 2012 Volkswagen Tiguan is a generally reliable vehicle, but it has been known to experience some issues, particularly with the engine, transmission, and electrical systems. The severity and cost of these issues can vary depending on the specific problem and the extent of the damage. Overall, it is important to have the vehicle inspected by a qualified mechanic if any issues are suspected.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

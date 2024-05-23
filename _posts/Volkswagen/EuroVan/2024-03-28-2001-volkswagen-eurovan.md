@@ -31,6 +31,19 @@ The 2001 Volkswagen EuroVan is a minivan known for its spacious interior, rugged
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Strut Mount Bearing Failure:**
     * Description/Symptoms: Squeaking or creaking noises when turning, rough ride
@@ -61,3 +74,15 @@ The 2001 Volkswagen EuroVan is a minivan known for its spacious interior, rugged
 
 **Summary:**
 Overall, the 2001 Volkswagen EuroVan is a generally reliable vehicle with some common issues that can be costly to repair. Owners report issues with the intake manifold gasket, clutch, transmission slipping, strut mount bearings, alternator, rear door hinges, and dashboard cracking. The cost of repairs can range from minor to major, so it's crucial to maintain the vehicle regularly and budget for potential repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

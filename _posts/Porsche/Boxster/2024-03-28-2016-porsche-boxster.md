@@ -57,6 +57,19 @@ The Boxster is known for its sharp handling, precise steering, and powerful engi
   * Estimated Cost to Fix: $2,000 - $4,000+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Suspension**
@@ -94,3 +107,15 @@ The Boxster is known for its sharp handling, precise steering, and powerful engi
 **Summary**
 
 The 2016 Porsche Boxster is a well-built sports car with excellent handling and performance. However, some owners have reported issues with the vehicle's engine, transmission, suspension, electrical system, exterior, and interior. The severity and cost of these issues can vary depending on the specific problem. Overall, the Boxster is a reliable vehicle, but it is important to be aware of the potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -41,6 +41,19 @@ The 1994 Mitsubishi Expo LRV is a compact SUV that was available with a choice o
 * Estimated Cost to Fix: $1,500 - $3,000+
 * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Clunking:** Worn front suspension components, such as the control arms or bushings, can cause a clunking sound when driving over bumps.
@@ -76,3 +89,15 @@ The 1994 Mitsubishi Expo LRV is a compact SUV that was available with a choice o
 **Summary**
 
 The 1994 Mitsubishi Expo LRV is generally a reliable vehicle, but it has some potential issues that owners should be aware of. The most severe and expensive issue is the excessive oil consumption issue with the 2.4-liter four-cylinder engine, which can lead to engine damage if not addressed. Other issues, such as transmission problems, suspension wear, and electrical issues, are less severe but can still be costly to repair. Overall, the 1994 Mitsubishi Expo LRV is a decent choice for a used SUV, but it is important to have it inspected by a mechanic before purchasing to identify any potential issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

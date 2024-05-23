@@ -31,6 +31,19 @@ The 2017 Mercedes-Benz Coraza S2 is a high-performance sports car that offers a 
 * **9-speed automatic**
     * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -67,3 +80,15 @@ The 2017 Mercedes-Benz Coraza S2 is a high-performance sports car that offers a 
 **Summary**
 
 The 2017 Mercedes-Benz Coraza S2 is a powerful and impressive sports car, but it does have some issues that can be costly to fix. The most common issues include turbocharger failure on the 4.0L V8 engine, transmission shudder on the 7-speed automatic transmission, and infotainment system glitches. The severity and cost of these issues can vary depending on the specific part that fails.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

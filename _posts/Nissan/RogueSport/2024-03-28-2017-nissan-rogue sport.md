@@ -43,6 +43,19 @@ The 2017 Nissan Rogue Sport is a compact crossover SUV that offers a comfortable
     * Solution: Repair the source of the leak, such as replacing a seal or gasket.
     * Estimated Cost to Fix: $200 - $500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -75,3 +88,15 @@ The 2017 Nissan Rogue Sport is a compact crossover SUV that offers a comfortable
 **Summary**
 
 The 2017 Nissan Rogue Sport is a generally reliable vehicle with some minor issues that can be addressed. The most common engine problems involve valve train noise and timing chain rattle, while the CVT transmission may experience hesitation or jerking. Other issues include battery drain, headlight hazing, and occasional infotainment system lag. Overall, the severity of these issues is moderate, and they can be repaired at a reasonable cost.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

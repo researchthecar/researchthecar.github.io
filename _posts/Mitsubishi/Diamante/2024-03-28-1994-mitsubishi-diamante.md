@@ -36,6 +36,19 @@ The Diamante was praised for its comfortable interior, quiet ride, and impressiv
 * **No reverse gear**: The transmission may not engage reverse gear, making it impossible to move the vehicle backward. This issue may require replacing the reverse gear solenoid or the transmission control module. Estimated cost: $200 - $500+.
 * **Fluid leaks**: Transmission fluid leaks can occur from the pan gasket, seals, or lines. Replacing the leaking components is necessary to prevent low fluid levels and transmission damage. Estimated cost: $100 - $300+.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut and shock absorber failure**: Worn struts or shocks can lead to a rough ride, poor handling, and uneven tire wear. Replacing the suspension components is necessary to restore ride quality and safety. Estimated cost: $400 - $800+ per axle.
@@ -63,3 +76,15 @@ The Diamante was praised for its comfortable interior, quiet ride, and impressiv
 **Summary**
 
 Overall, the 1994 Mitsubishi Diamante is a reliable and comfortable mid-size sedan. However, it is not without its issues. Some of the most common problems reported by owners include head gasket failure, transmission slipping or jerking, and suspension component failure. The severity and cost of repairs can vary depending on the issue, but some of the more serious issues can be expensive to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

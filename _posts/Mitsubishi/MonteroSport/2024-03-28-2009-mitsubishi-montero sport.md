@@ -27,6 +27,19 @@ The 2009 Mitsubishi Montero Sport is a mid-size SUV powered by a 3.8L V6 engine 
     * Estimated Cost to Fix: $1,000 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaking Shock Absorbers:** Shock absorbers leak fluid, causing reduced ride quality and handling issues.
@@ -66,3 +79,15 @@ The 2009 Mitsubishi Montero Sport is a mid-size SUV powered by a 3.8L V6 engine 
 **Summary**
 
 The 2009 Mitsubishi Montero Sport has some reported issues that can be costly to repair. The severity and frequency of these problems vary, and not all Montero Sports will experience them. It is recommended to have the vehicle inspected by a qualified mechanic before purchasing and to keep up with regular maintenance to minimize the risk of future problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

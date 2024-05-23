@@ -122,3 +122,15 @@ The Cutlass Supreme was praised for its comfortable ride, spacious interior, and
 ## Summary
 
 The 1995 Oldsmobile Cutlass Supreme is a generally reliable vehicle, but it does have some common issues that owners should be aware of. The most serious issues include head gasket failure, timing chain tensioner failure, and transmission fluid leaks. However, most of the other issues are relatively minor and inexpensive to fix. Overall, the Cutlass Supreme is a good value for the money, but it is important to factor in the potential cost of repairs when considering purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

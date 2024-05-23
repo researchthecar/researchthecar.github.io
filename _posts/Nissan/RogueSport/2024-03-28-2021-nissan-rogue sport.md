@@ -32,6 +32,19 @@ The 2021 Nissan Rogue Sport is a compact SUV with a standard 2.5L 4-cylinder eng
         * Estimated Cost to Fix: $200 - $500
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Bushing Failure:**
@@ -72,3 +85,15 @@ The 2021 Nissan Rogue Sport is a compact SUV with a standard 2.5L 4-cylinder eng
 **Summary:**
 
 The 2021 Nissan Rogue Sport has received mixed reviews regarding reliability. Some of the reported issues can be minor inconveniences, while others, such as engine or transmission problems, can be more severe and costly to repair. It is recommended to research and consider potential repair costs before purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

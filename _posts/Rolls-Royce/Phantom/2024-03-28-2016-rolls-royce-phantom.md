@@ -24,6 +24,19 @@ Owners appreciate the Phantom's smooth ride, luxurious interior, and powerful en
 
 * **Shifting problems:** The transmission may hesitate or slip when shifting gears. Symptoms include rough shifting and difficulty accelerating. The solution is to reprogram the transmission control module or replace the transmission. Estimated Cost to Fix: $1,500 - $3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air suspension failure:** The air suspension system may fail, causing the vehicle to ride lower than normal. Symptoms include a drop in ride height and a rough ride. The solution is to replace the faulty air suspension components. Estimated Cost to Fix: $2,000 - $4,000+
@@ -46,3 +59,15 @@ Owners appreciate the Phantom's smooth ride, luxurious interior, and powerful en
 **Summary:**
 
 The 2016 Rolls-Royce Phantom is a luxurious vehicle with impressive performance. However, it has been reported with some issues, particularly with the engine, transmission, and suspension. The severity of these issues varies, and the cost to fix them can be significant.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

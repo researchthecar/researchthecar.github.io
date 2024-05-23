@@ -30,6 +30,19 @@ The 2010 Mercedes-Benz Multego is a mid-size luxury sedan that was available wit
         * Estimated Cost to Fix: $1,500 - $2,500
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front suspension strut failure**
     * Description/Symptoms: The front suspension struts can fail, causing a loss of ride comfort and handling.
@@ -65,3 +78,15 @@ The 2010 Mercedes-Benz Multego is a mid-size luxury sedan that was available wit
 
 **Summary:**
 Overall, the 2010 Mercedes-Benz Multego is a reliable and comfortable luxury sedan. However, it has some common issues that owners should be aware of, including timing chain tensioner failure, intake manifold gasket failure, and torque converter shudder. The severity of these issues can vary, but some of them can be expensive to repair. If you are considering purchasing a Multego, be sure to have it inspected by a qualified mechanic to identify any potential problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

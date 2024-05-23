@@ -44,6 +44,19 @@ Recalls: NHTSA Campaign ID 21V280 & 21V569
         * Solution: Replace the transmission.
         * Estimated Cost to Fix: $5,000 - $10,000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension**
@@ -107,3 +120,15 @@ Recalls: NHTSA Campaign ID 21V280 & 21V569
 The 2020 Toyota Land Cruiser is a capable and reliable SUV, but it is not immune to issues. Some of the issues it has experienced are relatively minor, such as headlight condensation or tailgate latch failure. However, others, such as engine knock or transmission failure, can be more severe and expensive to fix.
 
 Overall, the 2020 Toyota Land Cruiser is a solid choice for those who need a rugged and dependable SUV. However, it is important to be aware of the potential issues that it may experience and to budget accordingly for repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -46,6 +46,19 @@ The 2004 Smart Roadster is a stylish and compact sports car. It was available wi
     * Solution: Repair the leak and replace the transmission fluid
     * Estimated Cost to Fix: $500 - $800
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front suspension strut failure:** The front suspension struts can fail, causing the vehicle to bounce and handle poorly.
     * Symptoms: Excessive bouncing, poor handling
@@ -88,3 +101,15 @@ The 2004 Smart Roadster is a stylish and compact sports car. It was available wi
 
 **Summary**
 The Smart Roadster is a fun and stylish sports car, but it is not without its problems. Some of the most common issues include timing chain tensioner failure, transmission fluid leaks, and suspension strut failure. While these issues can be expensive to fix, they are not uncommon for a car of this age and mileage. Overall, the Roadster is a reliable and enjoyable car for those who appreciate its unique design and driving experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

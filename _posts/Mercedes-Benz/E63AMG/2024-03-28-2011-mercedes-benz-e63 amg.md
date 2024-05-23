@@ -54,3 +54,15 @@ Recalls: None Found
 The 2011 Mercedes-Benz E63 AMG is a powerful and luxurious car, but it has been reported to have some significant issues. The most severe issue is the valve seat recession, which can cause catastrophic engine failure. Other issues, such as transmission failure, battery drain, and COMAND system failure, are also expensive to repair.
 
 Overall, the E63 AMG is a car that should be purchased with caution. It is important to have the vehicle inspected by a qualified mechanic before purchase, and to be aware of the potential costs of repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

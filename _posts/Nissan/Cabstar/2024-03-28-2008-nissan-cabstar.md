@@ -35,6 +35,19 @@ The 2008 Nissan Cabstar is a versatile light commercial vehicle known for its re
 * **Transmission Fluid Leaks:** Description/Symptoms: Transmission fluid leaking from seals or gaskets. Solution: Seal or gasket replacement. Estimated Cost to Fix: $200 - $400+
 * **Shift Solenoid Malfunction:** Description/Symptoms: Rough shifting, delayed gear changes. Solution: Shift solenoid replacement. Estimated Cost to Fix: $300 - $500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Failure:** Description/Symptoms: Excessive bouncing, uneven tire wear. Solution: Strut replacement. Estimated Cost to Fix: $500 - $700+
@@ -58,3 +71,15 @@ The 2008 Nissan Cabstar is a versatile light commercial vehicle known for its re
 **Summary:**
 
 The Nissan Cabstar is generally a reliable vehicle, but it is not without its potential issues. The most severe and costly potential problem is timing chain failure, which can result in major engine damage if not addressed promptly. Other issues range from moderate to minor in terms of severity and cost, and most can be resolved for a reasonable price.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

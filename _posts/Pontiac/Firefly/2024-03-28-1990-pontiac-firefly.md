@@ -33,6 +33,19 @@ Solution: The transmission may need to be rebuilt or replaced.
 Estimated Cost to Fix: $1,500 - $2,500+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Struts**
@@ -74,3 +87,15 @@ Recalls: None Found
 **Overall Summary**
 
 The 1990 Pontiac Firefly is a vehicle with numerous issues affecting its engine, transmission, suspension, electrical system, and other components. These issues can result in expensive repairs and decreased reliability. The severity and cost of the repairs vary depending on the specific issue. As such, it is not a recommended vehicle for purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

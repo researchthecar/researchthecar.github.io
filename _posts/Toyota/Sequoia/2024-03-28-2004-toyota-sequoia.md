@@ -31,6 +31,19 @@ The 2004 Toyota Sequoia is a full-size SUV that offers a spacious interior, powe
 - **Estimated Cost to Fix:** $1,500 - $3,000+
 - **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Rear leaf spring failure:** The rear leaf springs can fail, causing the rear of the vehicle to sag and impacting handling. The issue primarily affects leaf springs installed on early production models.
@@ -66,3 +79,15 @@ The 2004 Toyota Sequoia is a full-size SUV that offers a spacious interior, powe
 **Summary**
 
 The 2004 Toyota Sequoia is a generally reliable vehicle, but it has some potential issues that owners should be aware of. The severity of these issues varies, with some being minor inconveniences and others requiring expensive repairs. Overall, the cost of fixing the identified issues can range from a few hundred dollars to several thousand dollars.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

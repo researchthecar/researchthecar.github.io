@@ -29,6 +29,19 @@ Owners praised the Tribeca's roomy interior, comfortable ride, and standard all-
 * **Transmission shudder:** This issue can occur when the transmission is shifting gears. Symptoms include a vibration or shuddering sensation. The solution is to replace the transmission fluid and filter. Estimated Cost to Fix: $200 - $500+
 * **Transmission slipping:** This issue can occur when the transmission is unable to engage gear properly. Symptoms include difficulty accelerating or shifting gears. The solution is to rebuild or replace the transmission. Estimated Cost to Fix: $2,000 - $4,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** The struts are responsible for supporting the vehicle's weight and absorbing road impacts. If they fail, they can cause the vehicle to ride rough or handle poorly. The solution is to replace the struts. Estimated Cost to Fix: $500 - $1,000+ per axle
@@ -51,3 +64,15 @@ Owners praised the Tribeca's roomy interior, comfortable ride, and standard all-
 **Summary:**
 
 Overall, the 2006 Subaru B9 Tribeca is a generally reliable vehicle. However, there are some common issues that owners should be aware of, including head gasket failure, timing belt failure, valve spring failure, transmission shudder, and transmission slipping. The severity and cost of these issues can vary depending on the specific problem and the extent of the damage. Regular maintenance and repairs can help to prevent or address these issues and extend the vehicle's lifespan.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

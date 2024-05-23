@@ -47,6 +47,19 @@ The 1999 Subaru Forester is a compact SUV known for its versatility, all-wheel d
     * Estimated Cost to Fix: $800 - $1,200
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Wear:**
@@ -87,3 +100,15 @@ The 1999 Subaru Forester is a compact SUV known for its versatility, all-wheel d
 **Summary:**
 
 The 1999 Subaru Forester is a capable and versatile SUV that offers a comfortable interior and impressive off-road capabilities. However, it is not without its issues. Engine problems, such as head gasket failure and timing belt wear, can be major concerns that require significant repairs. Transmission issues can also be costly, while suspension, electrical, exterior, and interior issues are generally less severe and expensive to fix. Overall, considering the model's age and the potential for repairs, buyers should inspect used Foresters carefully and prepare for potential expenses to maintain the vehicle in good condition.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

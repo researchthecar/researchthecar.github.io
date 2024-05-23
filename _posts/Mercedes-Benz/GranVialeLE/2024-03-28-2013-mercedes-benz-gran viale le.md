@@ -24,6 +24,19 @@ The 2013 Mercedes-Benz Gran Viale LE is a full-size luxury sedan offered with a 
 * **Shifting problems:** The transmission may experience difficulties shifting gears, slipping gears, or refusing to shift at all. These issues can be caused by worn clutches, faulty sensors, or a defective transmission control module. The transmission may need to be overhauled or replaced. **Estimated Cost to Fix:** $2,000 - $5,000+
 * **Torque converter shudder:** The torque converter may shudder when the vehicle is accelerating or shifting gears. This can be caused by a worn torque converter or a faulty lock-up solenoid. The torque converter or solenoid may need to be replaced. **Estimated Cost to Fix:** $1,000 - $2,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air suspension leaks:** The air suspension system can leak air, causing the vehicle to ride lower than normal. The leak can occur from damaged air lines, faulty air struts, or a leak in the compressor. The leaking component needs to be replaced. **Estimated Cost to Fix:** $500 - $2,000+
@@ -46,3 +59,15 @@ The 2013 Mercedes-Benz Gran Viale LE is a full-size luxury sedan offered with a 
 **Summary:**
 
 The 2013 Mercedes-Benz Gran Viale LE is a luxurious and powerful sedan, but it has been reported to have some significant issues. The most common issues affect the engine, transmission, suspension, and electrical systems. The severity and cost of these issues can vary, but some repairs can be quite expensive. Potential buyers should be aware of these issues before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

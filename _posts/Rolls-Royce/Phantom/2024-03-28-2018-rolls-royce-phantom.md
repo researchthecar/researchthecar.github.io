@@ -17,6 +17,19 @@ The 2018 Rolls-Royce Phantom is powered by a 6.75-liter V12 engine that produces
 * **Eight-speed automatic**
     * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **No Issues Found**
 
@@ -66,3 +79,15 @@ The 2018 Rolls-Royce Phantom is powered by a 6.75-liter V12 engine that produces
 **Summary**
 
 The 2018 Rolls-Royce Phantom is a high-end luxury vehicle with a powerful engine and luxurious interior. However, it has some notable issues, particularly with the electrical system and interior trim. While some of these issues are relatively minor and inexpensive to fix, others can be more costly. Overall, the Phantom is a reliable vehicle, but it is important to be aware of the potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

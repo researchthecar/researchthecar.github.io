@@ -31,6 +31,19 @@ The 2007 Mercury Montego was a mid-size sedan that offered a comfortable and spa
         * Solution: Replace leaking seals or gaskets.
         * Estimated Cost to Fix: $300 - $600+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Bearing Failure:** Worn or damaged strut mount bearings, causing clunking noises and poor handling.
@@ -78,3 +91,15 @@ The 2007 Mercury Montego was a mid-size sedan that offered a comfortable and spa
 **Summary**
 
 The 2007 Mercury Montego is a mid-size sedan with a comfortable interior and refined ride. However, it suffers from a range of issues, including engine oil leaks, transmission problems, suspension failures, and electrical malfunctions. These issues can be costly to repair, and some have been subject to safety recalls. Overall, the severity and cost of the issues make the 2007 Mercury Montego a less desirable choice in its class.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

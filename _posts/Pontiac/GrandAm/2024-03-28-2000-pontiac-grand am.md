@@ -56,3 +56,15 @@ The 2000 Pontiac Grand Am is a compact sedan powered by a standard 2.4L 4-cylind
 ### **Summary**
 
 The 2000 Pontiac Grand Am has several common issues that owners should be aware of. The most severe issues include engine and transmission failures, which can be expensive to repair. However, many of the other issues are relatively minor and can be fixed for a reasonable cost. Overall, the Grand Am is a reliable and affordable vehicle, but it is important to be aware of its potential problems before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

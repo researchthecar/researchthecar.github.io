@@ -59,6 +59,19 @@ The Galant received praise for its comfortable ride, spacious interior, and stro
     * Estimated Cost to Fix: $1,200 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mounts**
@@ -112,3 +125,15 @@ The Galant received praise for its comfortable ride, spacious interior, and stro
 **Summary**
 
 The 1992 Mitsubishi Galant is a reliable and affordable sedan, but it does have some potential issues that owners should be aware of. The most severe and expensive issues include head gasket failure, timing belt failure, and transmission problems. However, many of these issues can be prevented with proper maintenance and repair. Overall, the Galant is a good choice for those looking for a comfortable and spacious sedan with a strong V6 engine.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

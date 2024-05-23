@@ -32,6 +32,19 @@ The 2009 Mercedes-Benz CLS63 AMG is a high-performance, four-door coupe that com
         * Estimated Cost to Fix: $2,000 - $3,000+
         * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -73,3 +86,15 @@ The 2009 Mercedes-Benz CLS63 AMG is a high-performance, four-door coupe that com
 **Summary**
 
 While the 2009 Mercedes-Benz CLS63 AMG is a highly capable vehicle, it has several notable issues. The most severe and expensive issues are related to the engine and transmission, including fuel injector failure, intake manifold runner valve failure, and mechatronics unit failure. Electrical problems, such as battery drain and alternator failure, are also common. Interior issues and exterior issues are generally less costly to repair. Overall, owners should be aware of these potential issues before purchasing or owning this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

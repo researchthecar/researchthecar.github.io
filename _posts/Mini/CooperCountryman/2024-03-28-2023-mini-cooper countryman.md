@@ -53,6 +53,19 @@ The 2023 Mini Cooper Countryman is a compact crossover SUV that offers a combina
     - Estimated Cost to Fix: $150 - $300+
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Loud Noise from Front Suspension**
@@ -88,3 +101,15 @@ The 2023 Mini Cooper Countryman is a compact crossover SUV that offers a combina
 **Summary**
 
 The 2023 Mini Cooper Countryman is a well-rounded crossover SUV that offers a premium feel and engaging driving experience. However, it is not without its fair share of issues, including potential engine problems, transmission leaks, suspension noise, and electrical malfunctions. While some of these issues may be minor and inexpensive to fix, others could be more severe and costly. Potential buyers should be aware of these potential issues and factor them into their purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

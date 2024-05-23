@@ -53,6 +53,19 @@ Owners appreciate the Countryman's stylish design, spacious interior, and handli
     * Estimated Cost to Fix: $300 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Shock Absorber Failure**
@@ -90,3 +103,15 @@ Owners appreciate the Countryman's stylish design, spacious interior, and handli
 While the 2014 Mini Cooper Countryman offers a fun and stylish driving experience, some owners have reported various issues. The potential for engine problems, such as intake valve carbon buildup and timing chain tensioner failure, are notable. Transmission concerns, including gear grinding and transmission shudder, should also be considered. Additionally, issues with the rear shock absorbers and electrical system may arise.
 
 The cost of repairs for these issues can vary depending on the severity of the problem, but some can be expensive, such as replacing the timing chain tensioner or transmission components. It is important for owners to be aware of these potential issues and have their vehicles regularly serviced to minimize the risk of costly repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

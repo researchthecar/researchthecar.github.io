@@ -33,6 +33,19 @@ The 2017 Mitsubishi Lancer is a compact sedan that offers a choice between two e
         * Estimated Cost to Fix: $2,000 - $4,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension:**
@@ -75,3 +88,15 @@ The 2017 Mitsubishi Lancer is a compact sedan that offers a choice between two e
 **Summary:**
 
 The 2017 Mitsubishi Lancer has some potential issues that can be costly to repair, including cylinder head gasket leaks, valve train damage, CVT problems, and suspension issues. However, the severity and cost of some of these issues may vary depending on the severity of the damage and the specific parts affected. It's important to note that not all Lancers will experience these issues, and many owners have had positive experiences with their vehicles.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

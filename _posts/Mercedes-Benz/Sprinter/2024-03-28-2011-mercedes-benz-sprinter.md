@@ -48,6 +48,19 @@ Owners appreciate the Sprinter's reliability, durability, and cargo capacity. Ho
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Leaf Spring Failure:**
@@ -93,3 +106,15 @@ Owners appreciate the Sprinter's reliability, durability, and cargo capacity. Ho
 **Summary**
 
 The 2011 Mercedes-Benz Sprinter is a reliable van with a spacious interior and powerful engines. However, some issues have been reported with fuel injectors, turbochargers, transmissions, rear leaf springs, alternators, and interior components. The severity and cost of these issues vary, but some can be expensive to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

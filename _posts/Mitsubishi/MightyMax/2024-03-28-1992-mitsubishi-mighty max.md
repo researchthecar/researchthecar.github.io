@@ -24,6 +24,19 @@ The 1992 Mitsubishi Mighty Max was a compact pickup truck available with either 
 * **4-speed automatic**
     * **Torque converter failure:** Description/Symptoms: Shuddering or slipping during acceleration, loss of power. Solution: Replace the torque converter. Estimated Cost to Fix: $1200 - $1800+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension:** No Issues Found
@@ -46,3 +59,15 @@ The 1992 Mitsubishi Mighty Max was a compact pickup truck available with either 
 **Summary**
 
 The 1992 Mitsubishi Mighty Max was a reliable and affordable compact pickup truck. However, it had some common issues, including head gasket failure, intake manifold gasket failure, and dashboard cracking. These issues could be expensive to repair, but they were generally not severe enough to prevent the Mighty Max from being a good choice for those looking for a durable and inexpensive truck.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

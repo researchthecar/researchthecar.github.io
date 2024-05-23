@@ -36,6 +36,19 @@ The 2000 Volkswagen Passat is a reliable and spacious midsize sedan. It offers a
     - **Estimated Cost to Fix:** $300 - $500+
     - **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Front Control Arm Bushings:**
     - **Description/Symptoms:** Squeaking or rattling noises when turning or over bumps, reduced handling.
@@ -71,3 +84,15 @@ The 2000 Volkswagen Passat is a reliable and spacious midsize sedan. It offers a
 
 **Summary**
 While the 2000 Volkswagen Passat is generally a reliable vehicle, it can have some issues that can be costly to repair, such as the timing chain tensioner failure and the alternator failure. Other issues, such as clutch problems and seat heater failure, are less severe and less expensive to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

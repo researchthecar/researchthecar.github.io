@@ -41,6 +41,19 @@ The 2000 Mitsubishi Montero Sport is a midsize SUV known for its off-road capabi
     * Estimated Cost to Fix: $200 - $500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Front Shock Absorber Failure**
@@ -76,3 +89,15 @@ The 2000 Mitsubishi Montero Sport is a midsize SUV known for its off-road capabi
 **Summary:**
 
 The 2000 Mitsubishi Montero Sport is a generally reliable vehicle but is prone to some common issues. The engine intake manifold gasket and alternator failures can be significant expenses, while transmission slippage and suspension problems can impact the driving experience. Interior and exterior issues, such as dashboard panel cracking and sunroof leaks, are less severe but can detract from the overall ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

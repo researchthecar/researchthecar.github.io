@@ -28,6 +28,19 @@ The 2016 Mercedes-Benz Viale BRT is a heavy-duty bus designed for public transpo
 * **Estimated Cost to Fix:** $1,500 - $3,000
 * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Airbag suspension failure:** The airbags responsible for supporting the vehicle can fail, causing the bus to sag on one side and compromising stability.
@@ -59,3 +72,15 @@ The 2016 Mercedes-Benz Viale BRT is a heavy-duty bus designed for public transpo
 **Summary**
 
 The 2016 Mercedes-Benz Viale BRT has been subject to several significant issues that have affected its reliability and user satisfaction. The most severe and costly issues include turbocharger failure and airbag suspension failure. While some issues are relatively minor and inexpensive to fix, others require substantial repairs and can lead to costly downtime. It is important for potential buyers to be aware of these potential problems before making a purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

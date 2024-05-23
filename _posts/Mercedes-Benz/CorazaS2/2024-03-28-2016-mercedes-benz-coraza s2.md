@@ -41,6 +41,19 @@ The 2016 Mercedes-Benz Coraza S2 is a high-performance sports car featuring a 4.
         * Solution: Replace or repair valve body.
         * Estimated Cost to Fix: $500 - $1,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Failure:**
@@ -104,3 +117,15 @@ The 2016 Mercedes-Benz Coraza S2 is a high-performance sports car featuring a 4.
 **Summary:**
 
 The 2016 Mercedes-Benz Coraza S2 is a high-performance sports car with a capable engine and impressive handling. However, it has encountered issues ranging from fuel injector failures to transmission slipping. These issues can be costly to repair and may affect the overall reliability of the vehicle. Potential buyers should be aware of these potential problems and factor in the cost of repairs when considering this model.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

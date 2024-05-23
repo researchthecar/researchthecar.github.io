@@ -34,6 +34,19 @@ The Paradiso 1800 has received praise for its spacious cabin, refined ride, and 
 * **G 270-9 9-speed automated manual**
     * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air suspension system:** The air suspension system on some buses may develop leaks or malfunctions, leading to uneven ride height and reduced handling.
@@ -69,3 +82,15 @@ The Paradiso 1800 has received praise for its spacious cabin, refined ride, and 
 **Summary**
 
 Overall, the Mercedes-Benz Paradiso 1800 is a reliable and capable coach. However, some owners have reported issues with certain components, including the turbochargers, fuel injectors, transmission, suspension, electrical system, wipers, climate control, and infotainment system. The severity of these issues varies, and the cost to fix can range from a few hundred dollars to several thousand dollars.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

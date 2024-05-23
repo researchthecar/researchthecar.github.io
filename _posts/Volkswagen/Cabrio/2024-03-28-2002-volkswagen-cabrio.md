@@ -37,6 +37,19 @@ The 2002 Volkswagen Cabrio is a compact convertible that offers a stylish exteri
     * Estimated Cost to Fix: $300 - $800+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Strut and Shock Failure:**
@@ -84,3 +97,15 @@ The 2002 Volkswagen Cabrio is a compact convertible that offers a stylish exteri
 **Summary:**
 
 The 2002 Volkswagen Cabrio has a few common issues that potential owners should consider before purchasing. While some issues, such as timing chain failure, can be severe and costly to fix, many others are relatively minor and can be fixed at a reasonable cost. Overall, the Cabrio is still a fun and stylish convertible, but it's important to be aware of its potential problems and budget for potential repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -37,6 +37,19 @@ The 2013 Nissan Pathfinder is a midsize SUV offered with a variety of engine and
 **6-Speed Manual**
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure:**
@@ -98,3 +111,15 @@ The 2013 Nissan Pathfinder is a midsize SUV offered with a variety of engine and
 **Summary**
 
 The 2013 Nissan Pathfinder has several significant issues, particularly with the engine, transmission, and suspension. While it offers a comfortable interior and good fuel economy, these issues can be costly to repair. The timing chain failure is especially concerning and can lead to catastrophic engine damage. The CVT transmission is also prone to failure, and the 5-speed automatic has been known to experience shifting issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

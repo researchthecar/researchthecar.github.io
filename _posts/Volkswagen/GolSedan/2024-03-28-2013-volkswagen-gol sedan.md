@@ -25,6 +25,19 @@ The 2013 Volkswagen Gol Sedan is a compact sedan that offers a practical and fue
     * Estimated Cost to Fix: $500 - $1000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Bearing Failure:**
@@ -78,3 +91,15 @@ The 2013 Volkswagen Gol Sedan is a compact sedan that offers a practical and fue
 **Summary:**
 
 The 2013 Volkswagen Gol Sedan has several common issues that owners should be aware of. These issues range in severity and cost, with some being relatively minor (such as sunroof drain clogging) and others being more significant (such as head gasket failure). It is important for owners to stay informed about these potential problems and have them addressed promptly to ensure safety and reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

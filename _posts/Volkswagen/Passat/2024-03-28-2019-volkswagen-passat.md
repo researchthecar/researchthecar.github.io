@@ -149,3 +149,15 @@ Owners of the 2019 Volkswagen Passat have reported a number of issues with their
 ### Summary
 
 The 2019 Volkswagen Passat has received mixed reviews from owners. While it is praised for its comfortable interior, powerful engine, and impressive fuel economy, it has also been plagued by a number of reliability issues. These issues range in severity from minor annoyances to major repairs, and can be costly to fix. Overall, the Passat is a solid choice for a midsize sedan, but potential buyers should be aware of the potential issues it may face.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

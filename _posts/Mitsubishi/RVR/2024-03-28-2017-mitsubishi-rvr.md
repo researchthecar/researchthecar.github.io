@@ -52,6 +52,19 @@ Despite its overall reliability, the 2017 Mitsubishi RVR has some reported issue
     * Estimated Cost to Fix: $200 - $600+
     * Recalls: NHTSA Campaign Number: 19V219000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Bearing Noise**
@@ -92,3 +105,15 @@ Despite its overall reliability, the 2017 Mitsubishi RVR has some reported issue
 **Summary**
 
 While the 2017 Mitsubishi RVR is generally a reliable vehicle, it has some common issues, especially related to the engine, transmission, and suspension. These issues can range in severity and cost from minor inconveniences to more significant repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

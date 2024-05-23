@@ -34,6 +34,19 @@ The 2009 Subaru Tribeca is a midsize SUV offered with a 3.6L H6 engine and a 5-s
         * Estimated Cost to Fix: $1200 - $2000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut failure:**
@@ -69,3 +82,15 @@ The 2009 Subaru Tribeca is a midsize SUV offered with a 3.6L H6 engine and a 5-s
 **Summary**
 
 The 2009 Subaru Tribeca faces several potential issues, particularly with its engine, transmission, and interior. While some of these issues can be severe and costly to repair, others are relatively minor. However, potential buyers should be aware of these issues and factor them into their decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

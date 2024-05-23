@@ -60,6 +60,19 @@ The 2000 Suzuki Grand Vitara is a compact SUV that was available with two engine
     * Estimated Cost to Fix: $150 - $300+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Failure:**
@@ -110,3 +123,15 @@ The 2000 Suzuki Grand Vitara is a compact SUV that was available with two engine
 **Summary:**
 
 The 2000 Suzuki Grand Vitara has some notable issues to watch out for, particularly with its engines, transmission, and suspension. The severity and cost of these issues vary, but some can be quite expensive to repair. The Grand Vitara's rugged off-road capabilities and comfortable ride make it a popular choice for outdoor enthusiasts, but potential buyers should be aware of the potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

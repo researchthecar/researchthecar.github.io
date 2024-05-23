@@ -61,6 +61,19 @@ The 2018 Mitsubishi Outlander is a compact crossover SUV available with two engi
   * Estimated Cost to Fix: $2000 - $4000+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Shock Absorber Leaking:**
@@ -134,3 +147,15 @@ The 2018 Mitsubishi Outlander is a compact crossover SUV available with two engi
 
 **Summary:**
 The 2018 Mitsubishi Outlander has received mixed reviews, with some owners reporting significant issues while others have had relatively problem-free experiences. The most common issues include engine problems such as timing chain tensioner failure and valve cover leaks, as well as transmission issues like fluid leaks and harsh shifting. Suspension and electrical issues are also present, with problems such as shock absorber leaks and battery drain. While many of the issues are minor and inexpensive to fix, some engine and transmission issues can be more severe and costly to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

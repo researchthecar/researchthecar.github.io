@@ -31,6 +31,19 @@ The 2021 Toyota Land Cruiser is a full-size SUV renowned for its robust off-road
     * Solution: Transmission rebuild or replacement.
     * Estimated Cost to Fix: $3,000 - $5,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Axle Seal Leak:** Leaking rear axle seals can cause fluid loss and jeopardize the integrity of the axle components.
@@ -70,3 +83,15 @@ The 2021 Toyota Land Cruiser is a full-size SUV renowned for its robust off-road
 **Summary**
 
 While the 2021 Toyota Land Cruiser offers exceptional off-road capabilities and legendary durability, it is not without its issues. The most severe and expensive issues revolve around engine ticking noise, piston ring failure, transmission slipping, and rear axle seal leaks. However, the majority of issues are relatively minor and can be addressed with moderate repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

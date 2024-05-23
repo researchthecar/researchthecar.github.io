@@ -47,6 +47,19 @@ The Monterey was praised for its spacious interior, comfortable ride, and powerf
 
 **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front suspension**
@@ -110,3 +123,15 @@ The Monterey was praised for its spacious interior, comfortable ride, and powerf
 **Summary**
 
 The 2004 Mercury Monterey is a generally reliable vehicle. However, it is susceptible to a number of common issues, including intake manifold gasket failure, timing belt tensioner failure, and door lock actuator failure. These issues can be costly to repair, so it is important to factor them into your decision when purchasing a Monterey.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

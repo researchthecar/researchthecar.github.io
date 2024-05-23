@@ -49,6 +49,19 @@ The 2011 Mercedes-Benz Gran Viale Articulado is a large, luxury bus powered by a
     - Estimated Cost to Fix: $500 - $1,500+
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Air Bag Leaks:**
@@ -76,3 +89,15 @@ The 2011 Mercedes-Benz Gran Viale Articulado is a large, luxury bus powered by a
 **Summary:**
 
 The 2011 Mercedes-Benz Gran Viale Articulado has a number of reported issues, including turbocharger failure, EGR valve problems, shifting issues, electrical shorts, air bag leaks, headlight condensation, and infotainment system malfunctions. The severity of these issues varies, and the cost to fix them can be significant. However, the Gran Viale Articulado remains a popular choice for luxury transportation due to its comfortable ride and spacious interior.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

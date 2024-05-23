@@ -69,6 +69,19 @@ Owners praise the Countryman's sporty handling, comfortable interior, and versat
     * Solution: Replace the mechatronic unit.
     * Estimated Cost to Fix: $1,000 - $1,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Strut Mount Bearing Failure:** The strut mount bearings can fail, leading to a clunking noise when turning or driving over bumps.
@@ -98,3 +111,15 @@ Owners praise the Countryman's sporty handling, comfortable interior, and versat
 The 2017 Mini Cooper Countryman has some reliability concerns, particularly with the engine and transmission. Engine issues range from valve cover gaskets leaks to potential catastrophic failures. Transmission problems include shift fork issues, torque converter failure, and clutch pack wear. The Countryman also experiences some electrical and suspension issues.
 
 The severity and cost of these problems can vary significantly, but they can be a significant inconvenience and expense for owners. It is recommended to research these issues and consider extended warranty coverage before purchasing a Countryman.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -34,6 +34,19 @@ The 2018 Mercedes-Benz Paradiso 1350 is a luxurious coach bus powered by a Merce
     * Estimated Cost to Fix: $3,000 - $5,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Failure**
@@ -74,3 +87,15 @@ The 2018 Mercedes-Benz Paradiso 1350 is a luxurious coach bus powered by a Merce
 **Summary**
 
 Overall, the 2018 Mercedes-Benz Paradiso 1350 is a reliable and comfortable coach bus. However, it has experienced some issues with its engine, transmission, and electrical system. The severity and cost of these issues vary, but they should be considered before purchasing or leasing a Paradiso 1350.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

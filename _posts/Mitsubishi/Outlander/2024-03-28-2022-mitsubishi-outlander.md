@@ -39,6 +39,19 @@ The 2022 Mitsubishi Outlander is a midsize SUV that offers a bold design and a s
     Estimated Cost to Fix: $2,000 - $3,000+
     Recalls: VTSC22-016
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
     * **No Issues Found**
@@ -70,3 +83,15 @@ The 2022 Mitsubishi Outlander is a midsize SUV that offers a bold design and a s
 **Summary:**
 
 The 2022 Mitsubishi Outlander has a mix of minor and potentially severe issues that range from a few hundred dollars to several thousand dollars to fix. The most concerning problems include excessive oil consumption and timing chain tensioner failure in the 2.5-liter engine, and CVT slipping in the transmission. While the other issues are less serious, they can still be annoying and impact the vehicle's overall reliability. Overall, the Outlander appears to have a higher than average number of reported problems for a vehicle of its age, and potential buyers should be aware of these issues before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

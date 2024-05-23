@@ -55,6 +55,19 @@ The 2000 Volkswagen Jetta is a compact sedan known for its affordability and spo
     * Estimated Cost to Fix: $1,500 - $2,500
     * Recalls: 01V161000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Control Arm Bushings:**
@@ -110,3 +123,15 @@ The 2000 Volkswagen Jetta is a compact sedan known for its affordability and spo
 **Summary**
 
 The 2000 Volkswagen Jetta offers a good balance of performance, fuel efficiency, and affordability. However, it has some reliability concerns, particularly with the 1.8T engine and 4-speed automatic transmission. The severity and cost of the issues vary, but some can be significant. Owners should be aware of these potential issues and budget accordingly for maintenance and repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -25,6 +25,19 @@ The 2009 Volkswagen Jetta City is a compact sedan that offers a comfortable ride
 
 * **Transmission Slippage:** The transmission may slip when shifting gears, causing a loss of power. Symptoms include a slipping sensation when shifting gears and a loss of acceleration. The solution is to replace or rebuild the transmission. Estimated Cost to Fix: $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:** The strut mounts can fail, causing a clunking noise when going over bumps. Symptoms include a loud clunking noise from the front suspension and poor handling. The solution is to replace the strut mounts. Estimated Cost to Fix: $200 - $400
@@ -45,3 +58,15 @@ The 2009 Volkswagen Jetta City is a compact sedan that offers a comfortable ride
 **Summary**
 
 Overall, the 2009 Volkswagen Jetta City has some potentially serious issues, particularly with the engine and transmission. The cost of repairs for these issues can be significant, ranging from hundreds of dollars to thousands of dollars. While the Jetta City offers a comfortable ride and good fuel efficiency, potential buyers should be aware of these issues before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -40,6 +40,19 @@ The 1995 Rolls-Royce Flying Spur is a luxury sedan powered by a 6.75L V8 engine 
     * Solution: Repair or replace leaking components, such as seals or gaskets.
     * Estimated Cost to Fix: $300 - $600+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Failure**
@@ -84,3 +97,15 @@ The 1995 Rolls-Royce Flying Spur is a luxury sedan powered by a 6.75L V8 engine 
 **Summary**
 
 The 1995 Rolls-Royce Flying Spur is a luxurious and imposing vehicle, but it is not immune to issues. Some of the common problems it faces include engine performance issues, transmission failures, suspension malfunctions, and electrical problems. The estimated costs to fix these issues can range from a few hundred dollars to several thousand dollars, depending on the severity of the repair. While the Flying Spur is an impressive and desirable vehicle, potential owners should be aware of the potential costs and issues associated with owning one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -29,6 +29,19 @@ The 2008 Nissan Frontier is a mid-size pickup truck that offers a variety of cab
 * **Six-Speed Manual**
     * **No known issues**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Ball joint failure:** The ball joints may wear out or fail, causing the suspension to become loose or unstable. Symptoms include clunking noises, vibration, and difficulty steering. The solution is to replace the failed ball joint. Estimated cost: $200 - $400+
@@ -56,3 +69,15 @@ The 2008 Nissan Frontier is a mid-size pickup truck that offers a variety of cab
 **Summary**
 
 The 2008 Nissan Frontier is a reliable and capable pickup truck, but it is not without its issues. Some of the most common problems reported by owners include timing chain failure, valve cover gasket leaks, intake manifold gasket leaks, spark plug failure, clutch failure, transmission fluid leaks, ball joint failure, leaf spring failure, shock absorber failure, alternator failure, starter failure, battery failure, tail light failure, headlight failure, rust, HVAC blower motor failure, dashboard light failure, and window regulator failure. The severity of these issues ranges from minor inconveniences to major repairs. The cost of repairs can vary depending on the issue and the extent of the damage.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

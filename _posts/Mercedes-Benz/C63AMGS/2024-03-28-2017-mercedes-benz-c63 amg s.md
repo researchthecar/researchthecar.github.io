@@ -34,6 +34,19 @@ The 2017 Mercedes-Benz C63 AMG S is a high-performance sports sedan that is powe
   * Estimated Cost to Fix: $200 - $600
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Adaptive Suspension Failure**
@@ -65,3 +78,15 @@ The 2017 Mercedes-Benz C63 AMG S is a high-performance sports sedan that is powe
 **Summary**
 
 The 2017 Mercedes-Benz C63 AMG S is a high-performance sports sedan that offers blistering acceleration, sharp handling, and a luxurious interior. However, it also comes with a hefty price tag and relatively high maintenance costs. While the vehicle has some reliability concerns, such as engine and transmission issues, these problems are not widespread and can be addressed under warranty.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

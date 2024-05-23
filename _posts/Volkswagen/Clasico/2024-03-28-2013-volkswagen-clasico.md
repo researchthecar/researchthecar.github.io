@@ -37,6 +37,19 @@ The 2013 Volkswagen Clasico is a subcompact sedan that offers a modest and relia
     * Estimated Cost to Fix: $2,000 - $4,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Failure:** Struts may become worn or damaged, leading to poor handling and ride quality.
@@ -72,3 +85,15 @@ The 2013 Volkswagen Clasico is a subcompact sedan that offers a modest and relia
 **Summary:**
 
 Overall, the 2013 Volkswagen Clasico has some notable issues, primarily related to the engine, transmission, and suspension. While some repairs can be relatively minor, severe issues such as transmission slippage or oil consumption can be costly and time-consuming to fix. These issues may affect the reliability and longevity of the vehicle. Potential buyers should be aware of these potential problems before purchasing a Clasico.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

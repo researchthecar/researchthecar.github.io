@@ -38,6 +38,19 @@ The 2016 Suzuki Kizashi is a midsize sedan that was discontinued after the 2016 
     * Estimated Cost to Fix: $300 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Worn Front Control Arm Bushings**
@@ -84,3 +97,15 @@ The 2016 Suzuki Kizashi is a midsize sedan that was discontinued after the 2016 
 **Summary:**
 
 The 2016 Suzuki Kizashi has a moderate number of potential issues, with the engine and transmission being the most problematic areas. Some issues, such as the timing chain stretch and electrical shorts, can be costly to fix. However, the majority of issues are relatively minor and can be addressed at a reasonable cost. Overall, the Kizashi is a reliable vehicle with good handling and performance, but potential buyers should be aware of its potential issues before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

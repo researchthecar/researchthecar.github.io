@@ -34,6 +34,19 @@ However, there have been some issues reported by owners with the 2021 Volkswagen
         *Estimated Cost to Fix: $1,000 - $3,000+
         *Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -85,3 +98,15 @@ However, there have been some issues reported by owners with the 2021 Volkswagen
 **Summary**
 
 Overall, the 2021 Volkswagen Robust is a reliable and capable SUV, but it has had some reported issues with its engine, transmission, electrical system, and interior. The severity of these issues varies, and some may be more costly to repair than others. It is important to weigh the potential costs and risks when considering purchasing or owning a 2021 Volkswagen Robust.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

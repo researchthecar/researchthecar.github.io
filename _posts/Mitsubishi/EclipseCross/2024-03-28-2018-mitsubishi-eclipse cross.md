@@ -41,6 +41,19 @@ Solution: The CVT fluid and filter must be flushed.
 Estimated Cost to Fix: $200 - $400+
 Recalls: NHTSA Campaign Number: 18V818000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -74,3 +87,15 @@ Recalls: None Found
 **Summary**
 
 The 2018 Mitsubishi Eclipse Cross is a reliable vehicle with few reported issues. The most common problems are with the engine intake valves and the CVT transmission. The severity of these issues can range from minor to moderate, and the cost to fix them can be significant. Overall, the Eclipse Cross is a good choice for consumers who are looking for a stylish and fuel-efficient SUV.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -45,6 +45,19 @@ The 2018 Mercedes-Benz Paradiso 1200 is a popular coach bus that caters to long-
     * Estimated Cost to Fix: $1000 - $2000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Compressor Noise:**
@@ -80,3 +93,15 @@ The 2018 Mercedes-Benz Paradiso 1200 is a popular coach bus that caters to long-
 **Summary:**
 
 Overall, the 2018 Mercedes-Benz Paradiso 1200 is a generally reliable vehicle with some minor issues reported by owners. The most prevalent issues seem to be related to the EGR valve on the OM 471 engine, turbocharger failures on the OM 470 engine, and gear synchronizer issues on the 6-speed manual transmission. While these issues can be costly to repair, they are typically not severe and can be addressed with proper maintenance and timely repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

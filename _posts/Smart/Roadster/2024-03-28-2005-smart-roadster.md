@@ -23,6 +23,19 @@ The 2005 Smart Roadster is a two-seater roadster produced by Smart. It was avail
 * **Shifting Problems:** The transmission may have difficulty shifting gears, or it may slip out of gear. Replacing the transmission control module or the clutch fixes the issue. $500 - $1,000+
 * **Clutch Failure:** The clutch can wear out prematurely, causing the transmission to slip or chatter. Replacing the clutch fixes the issue. $500 - $1,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Strut Failure:** The front struts can fail, causing the vehicle to bounce or handle poorly. Replacing the struts fixes the issue. $400 - $600+
 * **Ball Joint Failure:** The ball joints can wear out, causing the vehicle to wander or pull to one side. Replacing the ball joints fixes the issue. $200 - $400+
@@ -42,3 +55,15 @@ The 2005 Smart Roadster is a two-seater roadster produced by Smart. It was avail
 
 **Summary**
 The 2005 Smart Roadster is a fun and fuel-efficient car, but it is not without its problems. The engine, transmission, and suspension components can all be problematic, and the electrical system is prone to shorts. The cost of repairs can be high, so it is important to factor this into the cost of ownership.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

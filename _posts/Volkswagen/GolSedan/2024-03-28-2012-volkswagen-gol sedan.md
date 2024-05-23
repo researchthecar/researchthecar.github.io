@@ -52,6 +52,19 @@ The 2012 Volkswagen Gol Sedan is a compact sedan powered by a 1.6-liter, inline-
     * Estimated Cost to Fix: $500 - $1,500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Worn or damaged shock absorbers**
@@ -107,3 +120,15 @@ The 2012 Volkswagen Gol Sedan is a compact sedan powered by a 1.6-liter, inline-
 **Summary**
 
 The 2012 Volkswagen Gol Sedan is generally a reliable and affordable vehicle. However, like any vehicle, it has certain issues that can be encountered. Most of the problems are minor and relatively inexpensive to fix. However, issues such as transmission slipping, battery drains, and faulty wiring harnesses can be more severe and costly to repair. Overall, the Gol Sedan is a good choice for those seeking a budget-friendly vehicle with decent reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -40,6 +40,19 @@ The 2003 Oldsmobile Aurora is a mid-size luxury sedan that was offered with two 
 
 * **No Major Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushings Failure:**
@@ -85,3 +98,15 @@ The 2003 Oldsmobile Aurora is a mid-size luxury sedan that was offered with two 
 **Summary**
 
 The 2003 Oldsmobile Aurora is a reliable vehicle overall, but it does have some common issues that can be expensive to fix. The most notable issues include intake manifold gasket failure and timing chain tensioner failure for the 3.5L V6 engine, TCC solenoid failure for the 4-speed automatic transmission, and front control arm bushing failure for the suspension. The severity of these issues ranges from minor annoyances to major mechanical failures that can render the vehicle inoperable. The cost of repairs can also be significant, especially for the more involved repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

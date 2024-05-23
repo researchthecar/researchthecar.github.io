@@ -39,6 +39,19 @@ People who like the Sunfire praise its sporty handling, responsive steering, and
      - Estimated Cost to Fix: $200 - $400+
      - Recalls: 97V136000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Front Struts**
    - **Strut Mount Failure**
@@ -93,3 +106,15 @@ People who like the Sunfire praise its sporty handling, responsive steering, and
 
 **Summary**
 The 1997 Pontiac Sunfire is a generally reliable vehicle, but it has some known issues. The most common issues include intake manifold gasket failure, timing chain tensioner failure, shifter linkage problems, and dashboard cracking. The severity of these issues varies, but some can be costly to repair. Overall, the Sunfire is a good value for the money, but it's important to be aware of potential problems before buying one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

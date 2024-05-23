@@ -40,6 +40,19 @@ The 2011 Nissan Cabstar is a light-duty commercial vehicle available with a rang
         * Solution: Rebuild or replace transmission
         * Estimated Cost to Fix: $2,000 - $3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension**
@@ -95,3 +108,15 @@ The 2011 Nissan Cabstar is a light-duty commercial vehicle available with a rang
 **Summary**
 
 The 2011 Nissan Cabstar has faced some issues, particularly with the engine and transmission. However, most of these issues are relatively minor and can be resolved at a reasonable cost. The vehicle is still regarded as reliable and efficient, but potential buyers should be aware of these reported issues to make an informed decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

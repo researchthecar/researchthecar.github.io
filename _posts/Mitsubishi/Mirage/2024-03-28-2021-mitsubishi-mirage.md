@@ -52,3 +52,15 @@ Recalls: None Found
 ## Summary
 
 The 2021 Mitsubishi Mirage is a budget-friendly subcompact hatchback that offers good fuel economy and a spacious interior. However, it is known for its lack of power and some reliability issues, particularly with the engine and transmission. Piston ring failure and transmission slipping are the most common problems reported by owners, which can be costly to repair. Other issues, such as climate control malfunctions, are less severe but can still be inconvenient. Overall, the Mirage is a decent option for those seeking an affordable and fuel-efficient car, but potential buyers should be aware of its potential reliability issues before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

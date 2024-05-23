@@ -27,6 +27,19 @@ The 2018 Mercedes-Benz GLE550e is a plug-in hybrid SUV that combines a 3.0L turb
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Compressor Failure:** The air suspension compressor can fail, causing the vehicle to lose ride height and stability.
@@ -58,3 +71,15 @@ The 2018 Mercedes-Benz GLE550e is a plug-in hybrid SUV that combines a 3.0L turb
 **Summary:**
 
 Overall, the 2018 Mercedes-Benz GLE550e is a luxurious and powerful SUV, but it has some notable issues that can be costly to fix. The most severe issues concern the engine, such as intake valve carbon buildup and turbocharger failure, which can lead to decreased performance and engine damage. Other issues include electrical problems, suspension issues, and interior technology malfunctions. The severity and cost of these issues vary, but it's important to be aware of them before purchasing or owning this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

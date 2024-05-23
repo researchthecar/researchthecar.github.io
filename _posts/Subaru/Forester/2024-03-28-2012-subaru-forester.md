@@ -47,6 +47,19 @@ The Forester is known for its reliability, spacious interior, and all-wheel driv
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: NHTSA ID: 15V525000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mount failure:**
@@ -81,3 +94,15 @@ The Forester is known for its reliability, spacious interior, and all-wheel driv
 
 **Summary**
 Overall, the Subaru Forester is a reliable and capable SUV. However, it has some common problems with its engine, transmission, and suspension. The severity of these issues can vary depending on the specific model and mileage. The cost to fix these issues can range from a few hundred dollars to several thousand dollars.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -43,6 +43,19 @@ The 2000 Mitsubishi Diamante is a mid-size sedan that was available with two eng
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure**
@@ -102,3 +115,15 @@ The 2000 Mitsubishi Diamante is a mid-size sedan that was available with two eng
 **Summary**
 
 The 2000 Mitsubishi Diamante is a generally reliable vehicle with a few common issues. The most serious issues include intake manifold gasket failure, timing belt tensioner failure, transmission slipping, and electrical system problems. These issues can be costly to fix, so it's important to have the vehicle inspected by a qualified mechanic before purchasing. Overall, the Diamante is a comfortable and spacious sedan with a powerful engine, but it may not be the best choice for buyers who prioritize handling and fuel efficiency.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

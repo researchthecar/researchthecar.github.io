@@ -43,6 +43,19 @@ The 1993 Mitsubishi Precis is a compact sedan known for its affordability, fuel 
 * Solution: Replace the transmission fluid pan and gasket.
 * Estimated Cost to Fix: $200 - $400+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Struts**
@@ -89,3 +102,15 @@ The 1993 Mitsubishi Precis is a compact sedan known for its affordability, fuel 
 **Summary:**
 
 The 1993 Mitsubishi Precis is generally reliable but experiences some common issues, particularly with the head gasket and suspension. The severity and cost of these issues vary, so it's important to have the vehicle inspected regularly and address any problems promptly. Overall, the Precis offers good value for money, but potential buyers should be aware of its potential repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

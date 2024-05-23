@@ -38,6 +38,19 @@ The 1991 Pontiac Firebird was a stylish and sporty muscle car available in hardt
     * Solution: Adjust or replace shift linkage
     * Estimated Cost to Fix: $100 - $200
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -84,3 +97,15 @@ The 1991 Pontiac Firebird was a stylish and sporty muscle car available in hardt
 **Summary:**
 
 The 1991 Pontiac Firebird is a powerful and stylish muscle car, but it has its fair share of reported issues. The most significant problems are transmission issues in the 4-speed automatic, which can be costly to repair. Other issues, such as engine gasket failures and electrical problems, are more manageable and less expensive to fix. Overall, the Firebird is a reliable vehicle, but it's essential to be aware of these potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

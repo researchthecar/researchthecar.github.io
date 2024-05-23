@@ -41,6 +41,19 @@ Solution: Replace valve body.
 Estimated Cost to Fix: $500 - $1,500
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Control Arm Bushing Failure**
@@ -88,3 +101,15 @@ Recalls: None Found
 **Summary:**
 
 Overall, the 2012 Volkswagen Eos is a reliable and enjoyable vehicle. However, it is not without its potential issues. Some of these issues, such as the turbocharger failure or valve body failure, can be expensive to fix. However, many of the other issues are relatively minor and inexpensive to resolve. It is important for owners to be aware of these potential issues and to have them addressed promptly to ensure the safety and longevity of their vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

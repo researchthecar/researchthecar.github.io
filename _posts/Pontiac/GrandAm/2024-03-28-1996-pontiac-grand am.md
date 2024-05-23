@@ -55,6 +55,19 @@ Recalls: None Found
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Front Suspension Strut Failure:**
@@ -104,3 +117,15 @@ Recalls: None Found
 **Summary:**
 
 The 1996 Pontiac Grand Am is a reliable and affordable vehicle, but it is not without its issues. The most common problems reported by owners include engine gasket failures, transmission slipping or shuddering, suspension strut failure, alternator failure, and heater core failure. The severity and cost of these issues can vary depending on the specific problem and the condition of the vehicle. Regular maintenance and repairs can help to prevent or mitigate these issues and keep the Grand Am running smoothly for many years to come.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

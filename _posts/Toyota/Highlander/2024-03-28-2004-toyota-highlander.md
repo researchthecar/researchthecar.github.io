@@ -37,6 +37,19 @@ The 2004 Toyota Highlander is a mid-size SUV available in a wide range of trim l
     - Estimated Cost to Fix: $600 - $1,000
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Front Strut Mount Failure:**
@@ -72,3 +85,15 @@ The 2004 Toyota Highlander is a mid-size SUV available in a wide range of trim l
 **Summary:**
 
 The 2004 Toyota Highlander is a reliable and spacious SUV, but it is not without its issues. The most common problems include excessive oil consumption, transmission shift solenoid failure, and all-wheel drive system malfunctions. While these issues can be costly to fix, they are generally not severe and can be prevented with regular maintenance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

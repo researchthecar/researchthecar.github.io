@@ -30,6 +30,19 @@ The 2000 Oldsmobile Bravada was a mid-size SUV offered with two engine options: 
   - Estimated Cost to Fix: $500 - $1,000+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Front lower control arm bushings wear out**
   - Description/Symptoms: Clunking or rattling noise when driving over bumps, uneven tire wear
@@ -59,3 +72,15 @@ No Issues Found
 **Summary**
 
 The 2000 Oldsmobile Bravada is a reliable SUV that offers a comfortable ride and spacious interior. However, it is not without its issues. The most common problems include intake manifold gasket failure, head gasket failure, torque converter shudder, and worn-out control arm bushings. These issues can be costly to repair, but they are not as severe as the problems found in some other vehicles. Overall, the Bravada is a solid choice for those who need a dependable SUV for everyday use.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

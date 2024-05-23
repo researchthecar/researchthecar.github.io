@@ -53,6 +53,19 @@ The 1993 Mitsubishi Expo was a compact SUV that offered a spacious interior and 
     * Estimated Cost to Fix: $300 - $700
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear leaf spring failure**
@@ -128,3 +141,15 @@ The 1993 Mitsubishi Expo was a compact SUV that offered a spacious interior and 
 **Summary**
 
 The 1993 Mitsubishi Expo has several potential issues, particularly with its engine, transmission, and suspension systems. The cost to fix these issues can be significant, especially for major component failures like head gasket failure or transmission replacement. Owners should be prepared for potential repairs and maintenance costs when buying and maintaining this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

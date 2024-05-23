@@ -29,6 +29,19 @@ Solution: Transmission fluid change, solenoid replacement, or transmission rebui
 Estimated Cost to Fix: $1,000 - $3,000+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -56,3 +69,15 @@ Recalls: None Found
 **Summary:**
 
 The 2002 Mercedes-Benz C32 AMG's engine and transmission are susceptible to specific issues, namely excessive oil consumption and shifting problems. Exterior rust and HVAC system malfunctions are also notable concerns. While these issues can be costly to repair, they are not as severe to compromise the overall ownership experience for most owners. The C32 AMG remains a desirable performance sedan for enthusiasts who appreciate its power and handling prowess.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

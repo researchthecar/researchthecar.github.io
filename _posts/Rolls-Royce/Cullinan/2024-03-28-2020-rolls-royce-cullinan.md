@@ -31,6 +31,19 @@ Solution: Updating transmission software or replacing transmission fluid may res
 Estimated Cost to Fix: $250 - $1,000+
 Recalls: #20V-561
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Electronic Air Suspension Failure**
@@ -62,3 +75,15 @@ Recalls: None Found
 **Summary**
 
 The 2020 Rolls-Royce Cullinan is a luxurious and capable SUV that has received positive feedback from owners. However, some issues have been reported with the engine, transmission, suspension, and electrical system. These issues range in severity from minor annoyances to more significant repairs, with estimated costs varying depending on the specific problem.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -96,3 +96,15 @@ The 2006 Mercedes-Benz Multego was a compact luxury SUV available with two engin
 ### Summary
 
 The 2006 Mercedes-Benz Multego has experienced a range of issues, some of which can be costly to repair. The V6 engine has been known for oil leaks and timing chain failures, while the V8 has issues with the intake manifold. The transmission can experience shifting problems and torque converter failures. The suspension, electrical system, and interior components have also had reported issues. While not all Multegos will experience these problems, those considering purchasing one should be aware of the potential costs and severity of these issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

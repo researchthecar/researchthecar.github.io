@@ -33,6 +33,19 @@ The 2017 Subaru Impreza is a compact sedan or hatchback known for its reliabilit
 - Estimated Cost to Fix: $1,000 - $1,500
 - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -63,3 +76,15 @@ The 2017 Subaru Impreza is a compact sedan or hatchback known for its reliabilit
 **Summary**
 
 While the 2017 Subaru Impreza offers impressive reliability and safety, it has a few notable issues that owners should be aware of. The 2.0-liter engine's oil consumption concerns are a serious problem that requires timely repair to avoid potential engine damage. The CVT transmission's fluid leak issue can also cause performance issues if not addressed promptly. Other problems, such as headlight condensation and dashboard rattles, are less severe but can still impact the overall ownership experience. The estimated costs to fix these issues can range from minimal to several thousand dollars, depending on the extent of the problem and the solution required.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

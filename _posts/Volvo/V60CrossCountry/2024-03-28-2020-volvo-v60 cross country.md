@@ -42,6 +42,19 @@ Solution: Replacing the clutch assembly is the necessary fix.
 Estimated Cost to Fix: $1,500 - $2,500
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Front suspension noise**
 Description/Symptoms: A clunking or rattling noise may be heard from the front suspension when driving over rough surfaces.
@@ -79,3 +92,15 @@ Recalls: None Found
 **Summary**
 
 Overall, the 2020 Volvo V60 Cross Country is a reliable and capable vehicle with minimal reported issues. The most common problems are related to the engine (hesitation on acceleration), transmission (shifting issues), suspension (front suspension noise), and electrical (infotainment system glitches). The severity of the issues is generally minor, and the repair costs are within the average range for luxury vehicles.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

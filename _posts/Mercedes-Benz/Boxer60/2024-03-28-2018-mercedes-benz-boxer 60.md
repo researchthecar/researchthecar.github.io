@@ -34,6 +34,19 @@ The 2018 Mercedes-Benz Boxer 60 is a premium light-duty pickup truck powered by 
     * Estimated Cost to Fix: $200 - $500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Ball Joint Failure:**
@@ -70,3 +83,15 @@ The 2018 Mercedes-Benz Boxer 60 is a premium light-duty pickup truck powered by 
 **Summary:**
 
 While the 2018 Mercedes-Benz Boxer 60 is a capable and luxurious pickup truck, it has experienced some reported issues. The engine and transmission issues are relatively minor and inexpensive to fix, but the electrical and interior issues can be more costly. Overall, the Boxer 60's issues are not widespread or severe, but it is important to be aware of these potential problems before purchasing or owning one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

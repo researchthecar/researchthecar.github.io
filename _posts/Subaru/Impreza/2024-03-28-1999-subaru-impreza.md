@@ -41,3 +41,15 @@ Drivers appreciate the Impreza's all-wheel drive system, which provides excellen
 
 * **Transmission slip:** Occurs when the transmission fails to engage the gears properly, resulting in a lack of power. Symptoms include slipping gears, a delay in gear engagement, and a check engine light. The solution is to replace the transmission. **Estimated Cost to Fix:** $2,000 - $3,000+
 * **Torque converter failure:** Occurs when the torque converter fails, preventing the transmission from engaging the gears. Symptoms include a lack of power, a slipping transmission, and a check engine light. The solution is to replace
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

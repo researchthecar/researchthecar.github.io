@@ -46,6 +46,19 @@ The 2021 Subaru Outback is a midsize SUV known for its versatility, ruggedness, 
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -86,3 +99,15 @@ The 2021 Subaru Outback is a midsize SUV known for its versatility, ruggedness, 
 **Summary**
 
 While the Subaru Outback is generally a reliable vehicle, it has experienced some issues with certain components. The most common problems reported are engine oil consumption, timing chain noise, transmission hesitation, strut mount failure, battery drain, sunroof leaks, infotainment system bugs, and climate control malfunctions. The severity and cost of these issues vary depending on the specific part and labor required for repairs. Owners should be aware of these potential issues and address them promptly to maintain the vehicle's performance and safety.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

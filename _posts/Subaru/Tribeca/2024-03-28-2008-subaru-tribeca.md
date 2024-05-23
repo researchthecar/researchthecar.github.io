@@ -39,6 +39,19 @@ The 2008 Subaru Tribeca is a midsize SUV powered by a 3.6-liter H6 engine, produ
 * **6-speed Manual**
     * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arm Bushing Failure**
@@ -99,3 +112,15 @@ The 2008 Subaru Tribeca is a midsize SUV powered by a 3.6-liter H6 engine, produ
 **Summary**
 
 The 2008 Subaru Tribeca has some notable issues, including head gasket failure, timing chain rattle, and transmission slippage. These issues can be costly to repair, ranging from $1,500 to over $4,000. However, the Tribeca also has some minor issues, such as dashboard cracks and door panel trim separation, which are less severe and less expensive to fix. Overall, the Tribeca's issues are not as widespread or severe as some other vehicles in its class.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

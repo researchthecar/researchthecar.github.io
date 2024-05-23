@@ -41,6 +41,19 @@ The 2020 Mercedes-Benz Maybach S650 is the flagship luxury sedan from the German
 - Estimated Cost to Fix: $1,500 - $3,000+
 - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Air Suspension Failure**
@@ -88,3 +101,15 @@ The 2020 Mercedes-Benz Maybach S650 is the flagship luxury sedan from the German
 **Summary**
 
 The 2020 Mercedes-Benz Maybach S650 is a luxurious and powerful sedan, but it has also been plagued by a number of issues, particularly with its engine and transmission. These issues can be costly to repair, and they can significantly impact the vehicle's reliability and performance. Potential buyers should be aware of these issues before purchasing a Maybach S650.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

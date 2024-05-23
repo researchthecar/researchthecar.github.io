@@ -38,6 +38,19 @@ People like the Impreza for its comfortable ride, excellent fuel economy, and al
 
 * **Chain Stretch:** The CVT chain can stretch over time, causing slipping, hesitation, and a loss of power. The solution is to replace the CVT chain, which typically costs $1,500 - $2,000+.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:** The front strut mounts can fail, causing a clunking noise and decreased ride comfort. The solution is to replace the strut mounts, which typically costs $200 - $300+.
@@ -61,3 +74,15 @@ People like the Impreza for its comfortable ride, excellent fuel economy, and al
 The 2006 Subaru Impreza is a reliable and fuel-efficient car with a spacious interior and good all-weather capability. However, it is not without its issues, including head gasket leaks, turbocharger failure, and transmission slippage. These issues can be costly to fix, but they are not common and most Imprezas will not experience any major problems.
 
 Overall, the Impreza is a good value for the price, but potential buyers should be aware of its potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

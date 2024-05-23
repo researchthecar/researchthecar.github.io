@@ -62,6 +62,19 @@ People generally praise the Crafter Van for its cargo capacity, comfortable inte
     * Estimated Cost to Fix: Free (if covered under warranty)
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 **No specific issues reported**
 
@@ -103,3 +116,15 @@ People generally praise the Crafter Van for its cargo capacity, comfortable inte
 
 **Summary:**
 Overall, the 2018 Volkswagen Crafter Van has received generally positive feedback from users. However, it is important to be aware of potential issues with certain components, particularly the engine and transmission. The severity and cost of repairs can vary depending on the specific issue, and it is recommended to seek professional diagnosis and repair for any problems encountered.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -13,6 +13,19 @@ The 2000 Nissan Altra EV was a compact electric vehicle powered by a 45-kWh lith
 
 **None Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Suspension Struts**
@@ -60,3 +73,15 @@ The 2000 Nissan Altra EV was a compact electric vehicle powered by a 45-kWh lith
 **Summary**
 
 The 2000 Nissan Altra EV faced several issues, particularly with its battery pack and suspension. These problems could significantly impact its reliability and ownership costs. The battery pack degradation issue is especially concerning, as it can render the vehicle unusable if not addressed promptly. However, the vehicle also received praise for its low running costs and spacious interior, making it a potentially appealing choice for those seeking an affordable and environmentally friendly driving experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

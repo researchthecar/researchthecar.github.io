@@ -53,6 +53,19 @@ Despite its popularity, the Mini Cooper Countryman has encountered various issue
     * Estimated Cost to Fix: $2,000 - $4,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension noise:**
@@ -108,3 +121,15 @@ Despite its popularity, the Mini Cooper Countryman has encountered various issue
 **Summary:**
 
 The 2012 Mini Cooper Countryman presents a mixed bag of reliability concerns. Engine and transmission issues, particularly with the 1.6-liter turbocharged engine and 6-speed automatic transmission, pose significant financial risks for owners. Suspension problems and electrical faults also demand attention. However, buyers should note that some issues may vary depending on the specific trim level and maintenance history of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

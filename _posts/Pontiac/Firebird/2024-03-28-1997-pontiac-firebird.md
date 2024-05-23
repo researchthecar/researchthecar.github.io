@@ -57,6 +57,19 @@ The 1997 Pontiac Firebird, a rear-wheel-drive sports car, offered a thrilling dr
   * Solution: Replace torque converter seal
   * Estimated Cost to Fix: $300 - $600+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Failure:**
@@ -100,3 +113,15 @@ The 1997 Pontiac Firebird, a rear-wheel-drive sports car, offered a thrilling dr
 **Summary:**
 
 The 1997 Pontiac Firebird is known for its performance and handling capabilities, but it has also been known to experience some issues. Common problems include engine intake manifold gasket failures, transmission fluid leaks, and electrical component failures. While some issues can be minor inconveniences, others, such as head gasket failures, can be costly to repair. Potential owners should be aware of these issues and factor them into their decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

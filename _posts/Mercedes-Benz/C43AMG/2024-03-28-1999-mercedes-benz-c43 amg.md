@@ -35,6 +35,19 @@ Solution: Replace the shift solenoids.
 Estimated Cost to Fix: $500 - $1,200
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Control Arm Bushing Failure**
@@ -70,3 +83,15 @@ Recalls: None Found
 **Summary**
 
 The 1999 Mercedes-Benz C43 AMG is a powerful and fun-to-drive car, but it does have some potential issues that buyers should be aware of. The most common issues appear to be timing chain tensioner failure and shift solenoid failure. While these issues can be expensive to fix, they are not particularly common. Overall, the C43 AMG is a reliable and enjoyable car that can provide years of driving pleasure.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

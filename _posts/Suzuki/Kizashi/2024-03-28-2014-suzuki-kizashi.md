@@ -37,6 +37,19 @@ The 2014 Suzuki Kizashi is a compact sedan that was praised for its handling and
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -74,3 +87,15 @@ The 2014 Suzuki Kizashi is a compact sedan that was praised for its handling and
 **Summary**
 
 The 2014 Suzuki Kizashi has a mix of minor and more serious issues. The most severe and costly issue is the timing chain tensioner failure on the 3.6-liter V6 engine. Other issues are relatively minor and inexpensive to fix. Overall, the Kizashi is a reliable vehicle with good performance and handling, but potential buyers should be aware of the potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

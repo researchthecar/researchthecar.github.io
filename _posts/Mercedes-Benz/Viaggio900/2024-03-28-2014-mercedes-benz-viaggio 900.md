@@ -64,3 +64,15 @@ People like the Viaggio 900 for its comfortable interior, spacious layout, and p
 ### Summary
 
 The 2014 Mercedes-Benz Viaggio 900 is a well-equipped luxury motorhome, but it has been plagued by a number of issues, including fuel injector failure, turbocharger failure, shifting problems, air suspension failure, and electrical shorts. The severity and cost of these issues vary, but some can be quite expensive to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

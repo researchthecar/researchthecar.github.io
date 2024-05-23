@@ -33,6 +33,19 @@ Owners appreciate the Tribeca's spacious interior, comfortable ride, and standar
 
 * **Transmission valve body failure:** Description/Symptoms: Shifting problems, transmission slipping. Solution: Replace transmission valve body. Estimated Cost to Fix: $1500 - $2500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut mount failure:** Description/Symptoms: Clunking noise from the front suspension, especially over bumps. Solution: Replace front strut mounts. Estimated Cost to Fix: $300 - $600+
@@ -56,3 +69,15 @@ Owners appreciate the Tribeca's spacious interior, comfortable ride, and standar
 **Summary**
 
 The 2007 Subaru B9 Tribeca has a mix of common and severe issues, particularly with its engine and transmission. The cost of repairs can range from minor to very expensive, depending on the issue. However, the Tribeca's spacious interior, comfortable ride, and standard all-wheel drive make it an appealing option for those who can tolerate potential mechanical problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

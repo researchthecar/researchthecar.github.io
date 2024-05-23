@@ -32,6 +32,19 @@ The 2003 Toyota Land Cruiser is a full-size SUV known for its ruggedness, off-ro
   * Estimated Cost to Fix: $300 - $600+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Rear suspension links wear:** Links in the rear suspension can wear out, causing excessive noise and bouncing while driving.
@@ -73,3 +86,15 @@ The 2003 Toyota Land Cruiser is a full-size SUV known for its ruggedness, off-ro
 **Summary:**
 
 Overall, the 2003 Toyota Land Cruiser has a good reputation for reliability. However, like most vehicles, it can experience some issues. The most common problems involve engine and transmission components, potentially costing several hundred to over a thousand dollars to fix. While there are some reported electrical and suspension issues, they are less frequent and typically less expensive to resolve.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

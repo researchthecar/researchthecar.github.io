@@ -39,6 +39,19 @@ The 2010 Volkswagen Tiguan is a compact SUV that offers a comfortable ride, spac
     * Solution: Replace the leaking seals or gaskets and refill the transmission fluid.
     * Estimated Cost to Fix: $300 - $600
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushings**
@@ -70,3 +83,15 @@ The 2010 Volkswagen Tiguan is a compact SUV that offers a comfortable ride, spac
 **Summary**
 
 Overall, the 2010 Volkswagen Tiguan is a relatively reliable vehicle. However, it has experienced some issues, particularly with the timing chain tensioner and transmission fluid leaks. These issues can be costly to repair and can impact the vehicle's performance. It is important for owners to be aware of these potential problems and to have their vehicles inspected regularly to identify and address any emerging issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

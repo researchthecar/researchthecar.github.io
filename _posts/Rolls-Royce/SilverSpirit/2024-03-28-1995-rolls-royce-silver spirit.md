@@ -19,6 +19,19 @@ The 1995 Rolls-Royce Silver Spirit is a luxurious, full-size sedan with a timele
 * **4-Speed Automatic Transmission**
     * **Harsh Shifting:** Harsh or jerky shifting can indicate wear or damage to the transmission components. Overhauling or replacing the transmission may be necessary to fix this problem. Estimated Cost to Fix: $2000 - $4000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Air Suspension Leaks:** Leaks in the air suspension system can cause the vehicle to sag or ride unevenly. Replacing the faulty air springs or hoses is usually required to resolve this issue. Estimated Cost to Fix: $1000 - $2000+ per corner
 * **Rear Shock Absorber Failure:** Worn or damaged rear shock absorbers can lead to a rough ride and reduced handling stability. Replacing the rear shock absorbers is necessary to fix this problem. Estimated Cost to Fix: $500 - $1000+ per pair
@@ -38,3 +51,15 @@ The 1995 Rolls-Royce Silver Spirit is a luxurious, full-size sedan with a timele
 
 **Summary**
 The 1995 Rolls-Royce Silver Spirit is a luxurious vehicle, but it is not immune to mechanical issues. The most common problems include oil leaks, transmission issues, and electrical malfunctions. Some of these issues can be costly to repair, especially those involving the engine or transmission. However, with proper maintenance and attention to these known issues, owners can enjoy the comfort and elegance that the Silver Spirit has to offer for many years to come.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

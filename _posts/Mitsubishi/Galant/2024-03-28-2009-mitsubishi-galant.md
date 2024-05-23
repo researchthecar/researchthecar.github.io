@@ -65,6 +65,19 @@ The Galant was praised for its comfortable interior, spacious trunk, and afforda
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Wear**
@@ -106,3 +119,15 @@ No Issues Found
 **Summary**
 
 The 2009 Mitsubishi Galant is a reliable and affordable midsize sedan. However, it does have some potential issues that buyers should be aware of. The most serious issues include intake valve carbon buildup, timing chain tensioner failure, and CVT belt wear. These issues can be costly to repair, so it is important to factor them into the purchase price of the vehicle. Overall, the 2009 Mitsubishi Galant is a good choice for buyers who are looking for a comfortable and affordable sedan. However, buyers should be aware of the potential issues that the vehicle may have before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

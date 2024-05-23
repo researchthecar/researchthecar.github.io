@@ -41,6 +41,19 @@ The 2022 Toyota Highlander is a three-row SUV known for its reliability, versati
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Noise:**
@@ -73,3 +86,15 @@ The 2022 Toyota Highlander is a three-row SUV known for its reliability, versati
 **Summary:**
 
 While the 2022 Toyota Highlander is a commendable SUV, it has faced some issues with specific components. The severity of these issues ranges from minor inconveniences (shift hesitation) to more significant concerns (excessive oil consumption). Estimated repair costs also vary, but some repairs are covered under warranty. Overall, potential buyers should be aware of these potential issues and consider their impact on their purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

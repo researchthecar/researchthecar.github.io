@@ -39,6 +39,19 @@ The 2020 Mercedes-Benz G63 AMG is a high-performance luxury SUV known for its ru
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -80,3 +93,15 @@ The 2020 Mercedes-Benz G63 AMG is a high-performance luxury SUV known for its ru
 **Summary**
 
 While the 2020 Mercedes-Benz G63 AMG is a highly capable and luxurious SUV, it has experienced several issues that have affected owners. The most notable issues include engine knocks, oil leaks, transmission problems, and electrical malfunctions. The severity of these issues ranges from minor inconveniences to major repairs that can be costly. It is important for potential buyers to be aware of these issues and consider the estimated repair costs when making a purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

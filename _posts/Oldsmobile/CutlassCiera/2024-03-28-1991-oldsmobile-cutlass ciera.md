@@ -68,6 +68,19 @@ People like the Cutlass Ciera for its comfortable ride, spacious interior, and a
         * Estimated Cost to Fix: $500 - $1,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Struts/Shocks Failure**
@@ -114,3 +127,15 @@ People like the Cutlass Ciera for its comfortable ride, spacious interior, and a
 **Summary**
 
 The 1991 Oldsmobile Cutlass Ciera is a solid car that is known for its comfortable ride and spacious interior. However, it does have some common issues that can be costly to fix. The most common issues include intake manifold gasket failure, head gasket failure, and transmission problems. Overall, the Cutlass Ciera is a good value for the money, but it is important to be aware of the potential problems before buying one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -90,6 +90,19 @@ The Cutlass Supreme was praised for its comfortable ride, spacious interior, and
     * Estimated Cost to Fix: $500 - $700+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure**
@@ -145,3 +158,15 @@ The Cutlass Supreme was praised for its comfortable ride, spacious interior, and
 **Summary**
 
 The 1991 Oldsmobile Cutlass Supreme is a popular vehicle that is known for its comfort and style. However, some owners have reported issues with the vehicle's reliability. The most common issues include engine problems, transmission problems, and electrical problems. The severity of these issues can vary depending on the specific problem and the condition of the vehicle. The cost to fix these issues can also vary significantly. Overall, the 1991 Oldsmobile Cutlass Supreme is a reliable vehicle, but it is important to be aware of the potential problems that can occur.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

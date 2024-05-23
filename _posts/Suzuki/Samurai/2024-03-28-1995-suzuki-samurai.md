@@ -46,6 +46,19 @@ Introduced in 1985, the Suzuki Samurai is a compact, off-road SUV known for its 
     * Estimated Cost to Fix: $500 - $1000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf Spring Breakage:** Overloaded or weakened leaf springs can break, affecting ride quality and handling.
@@ -92,3 +105,15 @@ Introduced in 1985, the Suzuki Samurai is a compact, off-road SUV known for its 
 **Summary**
 
 The 1995 Suzuki Samurai is a rugged and capable off-road vehicle but suffers from several reliability issues, especially in its engine, transmission, and suspension. While some issues are minor and easy to fix, others can be more severe and costly to repair. The vehicle's lack of safety features and poor on-road handling also contribute to its drawbacks. Overall, the Samurai is a compromised choice for those prioritizing reliability and safety but remains a favorite among off-road enthusiasts.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

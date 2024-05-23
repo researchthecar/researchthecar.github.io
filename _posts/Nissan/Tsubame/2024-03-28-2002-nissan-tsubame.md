@@ -29,6 +29,19 @@ The 2002 Nissan Tsubame is a mid-size sedan known for its sleek styling and comf
         * Estimated Cost to Fix: $700 - $1,200
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Failure:** Worn or damaged front suspension struts can cause reduced handling and stability, as well as excessive tire wear.
@@ -72,3 +85,15 @@ The 2002 Nissan Tsubame is a mid-size sedan known for its sleek styling and comf
 **Summary**
 
 While the 2002 Nissan Tsubame offers a comfortable and stylish driving experience, it has encountered a range of issues that can be costly to repair. The valve seat recall and transmission solenoid failure can lead to significant expenses, while other problems like suspension and electrical failures can impact the vehicle's overall performance and reliability. Potential buyers should be aware of these potential issues before purchasing a used Tsubame.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

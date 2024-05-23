@@ -34,6 +34,19 @@ The 2018 Mercedes-Benz GLC63 AMG S is a high-performance SUV with impressive pow
     * Estimated Cost to Fix: $1,000 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Malfunction:**
@@ -74,3 +87,15 @@ The 2018 Mercedes-Benz GLC63 AMG S is a high-performance SUV with impressive pow
 **Summary**
 
 The 2018 Mercedes-Benz GLC63 AMG S is a high-caliber SUV with outstanding performance. However, owners have reported some issues with various components, including excessive oil consumption in engines, shifting problems in transmissions, and malfunctions in the electrical and suspension systems. These issues can vary in severity and cost to fix, with some being relatively minor and others requiring significant repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

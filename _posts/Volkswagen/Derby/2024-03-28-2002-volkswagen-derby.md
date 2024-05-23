@@ -34,6 +34,19 @@ The 2002 Volkswagen Derby was a compact sedan manufactured by Volkswagen. It was
         * Estimated Cost to Fix: $100 - $200+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure:**
@@ -74,3 +87,15 @@ The 2002 Volkswagen Derby was a compact sedan manufactured by Volkswagen. It was
 **Summary:**
 
 The 2002 Volkswagen Derby has a few common issues that owners should be aware of. The engine can experience intake manifold gasket failures and oil pan gasket leaks. The transmission may have shift linkage problems. The suspension can have strut mount failures. The electrical system can have alternator failures and battery drains. The exterior can develop rust on body panels. The interior may have door panel trim issues. Overall, the severity of these issues is moderate, and the cost to fix them is generally affordable.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

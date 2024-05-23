@@ -48,6 +48,19 @@ Owners generally appreciate the Achieva's reliability, fuel efficiency, and affo
 
 * **Clutch failure:** Symptoms include difficulty shifting gears and slipping clutch. The clutch needs to be replaced. Estimated Cost to Fix: $500 - $1,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut failure:** Symptoms include excessive bouncing, poor handling, and unusual noises. The front struts need to be replaced. Estimated Cost to Fix: $400 - $800+
@@ -82,3 +95,15 @@ Owners generally appreciate the Achieva's reliability, fuel efficiency, and affo
 **Summary:**
 
 Overall, the 1997 Oldsmobile Achieva has several common issues that affect its engine, transmission, suspension, electrical system, and interior. While some of these issues are relatively minor and inexpensive to fix, others can be more severe and costly. It is important for owners to be aware of these potential problems and to have their vehicles inspected and serviced regularly to prevent or address them promptly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

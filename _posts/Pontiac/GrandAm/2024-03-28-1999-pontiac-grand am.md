@@ -69,6 +69,19 @@ The 1999 Pontiac Grand Am is a sporty midsize sedan known for its sleek styling,
  - Estimated Cost to Fix: $200 - $400+
  - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut/Shock Failure:**
@@ -128,3 +141,15 @@ The 1999 Pontiac Grand Am is a sporty midsize sedan known for its sleek styling,
 **Summary**
 
 The 1999 Pontiac Grand Am has a number of common issues, primarily related to its engine, transmission, and electrical systems. While the Grand Am is known for its performance and comfort, its reliability issues can be a significant concern for potential buyers. The estimated cost of repairs can range from a few hundred dollars to over $2,000, depending on the severity of the issue.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

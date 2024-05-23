@@ -35,6 +35,19 @@ The Sunbird was praised for its sporty handling and responsive engines. However,
 
 * **Transmission slipping:** Symptoms include delayed or erratic shifting, loss of power, and a whining noise from the transmission. Solution: Rebuild or replace the transmission. Estimated Cost to Fix: $1,500 - $3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mount failure:** Symptoms include clunking noises from the suspension, poor handling, and uneven tire wear. Solution: Replace the strut mounts. Estimated Cost to Fix: $200 - $500+
@@ -60,3 +73,15 @@ The Sunbird was praised for its sporty handling and responsive engines. However,
 **Summary**
 
 The 1992 Pontiac Sunbird had a number of issues, including head gasket failure, intake manifold gasket failure, water pump failure, valve cover gasket leak, oil pan gasket leak, timing chain failure, clutch failure, transmission slipping, strut mount failure, control arm bushing failure, battery issues, alternator failure, starter failure, rust, and headlight failure. These issues range in severity from minor annoyances to major mechanical failures, and the cost to fix them can vary depending on the severity of the issue and the specific parts that need to be replaced.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

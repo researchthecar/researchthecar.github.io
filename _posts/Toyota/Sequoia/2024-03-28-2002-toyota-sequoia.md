@@ -32,6 +32,19 @@ The 2002 Toyota Sequoia is a full-size SUV known for its spacious interior, towi
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Axle Bearing Failure:** The rear axle bearings have been known to fail prematurely, leading to a growling or humming noise from the rear of the vehicle. Replacement of the affected bearings is required.
@@ -54,3 +67,15 @@ The 2002 Toyota Sequoia is a full-size SUV known for its spacious interior, towi
 **Summary:**
 
 The 2002 Toyota Sequoia is generally a reliable vehicle, but it has had some reported issues. The most severe issues affect the engine, including excessive oil consumption and camshaft position sensor failure. The transmission has also experienced some problems, such as harsh shifting and slipping. Other issues include suspension component failure, electrical system problems, and minor interior defects. The cost of repairs can range from minor to significant, depending on the severity of the issue.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

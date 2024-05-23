@@ -43,6 +43,19 @@ The 2011 Mitsubishi Endeavor is a mid-size SUV with a roomy interior and robust 
 **5-speed Manual (3.0L V6)**
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Strut Mounting Plate Corrosion:**
     * Description/Symptoms: Corrosion of the strut mounting plates can cause a rattling noise over bumps and premature tire wear.
@@ -93,3 +106,15 @@ The 2011 Mitsubishi Endeavor is a mid-size SUV with a roomy interior and robust 
 
 **Summary**
 While the 2011 Mitsubishi Endeavor offers a spacious and comfortable ride, it has faced several issues affecting various components. Engine concerns, such as intake manifold cracking and timing belt failure, can be severe and expensive to fix. Transmission issues with the valve body and torque converter are also prevalent. Suspension issues, including strut mounting plate corrosion and worn rear bushings, can impact handling and stability. Electrical problems, such as ignition coil and alternator failures, can cause a range of symptoms and inconvenience. The exterior may experience hatch lift support failure and fog light condensation, while the interior can suffer from sunroof leaks and window motor issues. The severity and cost of these issues vary, with some repairs being relatively minor, while others can be more extensive and costly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

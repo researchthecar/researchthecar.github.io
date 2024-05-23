@@ -39,6 +39,19 @@ People who like the 1998 Pontiac Grand Prix praise its powerful engines, sporty 
 **6-speed manual transmission**
 - No known issues
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - Worn sway bar links: Clunking noise when driving over bumps or turning. Replace the sway bar links. $300 - $500+
@@ -61,3 +74,15 @@ People who like the 1998 Pontiac Grand Prix praise its powerful engines, sporty 
 **Summary**
 
 The 1998 Pontiac Grand Prix is a powerful and sporty sedan that can be reliable when properly maintained. However, the vehicle has some potential issues that can be expensive to fix. Some of the most common issues include a leaking intake manifold gasket, a blown head gasket, and a slipping transmission.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

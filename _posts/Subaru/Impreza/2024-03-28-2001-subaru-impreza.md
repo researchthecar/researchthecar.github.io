@@ -45,6 +45,19 @@ Solution: The transmission needs to be overhauled or replaced.
 Estimated Cost to Fix: $1,500 - $2,500+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Strut Failure:**
@@ -80,3 +93,15 @@ Recalls: None Found
 **Summary**
 
 Overall, the 2001 Subaru Impreza is a reliable and capable vehicle, but it is not without its issues. The most common problems include head gasket failure on the 2.2-liter engine, turbocharger failure on the 2.5-liter turbocharged engine, grinding noises in the manual transmission, shifting problems in the automatic transmission, strut failure, alternator failure, window regulator failure, and rust. The severity and cost of these issues vary, but many of them can be relatively expensive to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

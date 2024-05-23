@@ -26,6 +26,19 @@ Overall, the 2010 Mitsubishi Eclipse is a reliable and fun-to-drive car. However
 * **Four-speed automatic transmission:**
     * **Transmission slipping:** The transmission can slip gears, causing the car to lose power or hesitate when accelerating. Symptoms include a slipping transmission, difficulty shifting gears, and a loss of power. The solution is to replace the transmission, which costs between $2,000 and $3,000.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** The struts can fail, causing the car to ride rough and handle poorly. Symptoms include a rough ride, poor handling, and a clunking noise when going over bumps. The solution is to replace the struts, which costs between $500 and $1,000.
@@ -47,3 +60,15 @@ Overall, the 2010 Mitsubishi Eclipse is a reliable and fun-to-drive car. However
 **Summary**
 
 Overall, the 2010 Mitsubishi Eclipse is a reliable and fun-to-drive car. However, there are a few issues that owners have reported, such as timing chain failure, intake manifold failure, and valve cover gasket leaks. The severity of these issues varies, but most of them can be fixed for a reasonable cost.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

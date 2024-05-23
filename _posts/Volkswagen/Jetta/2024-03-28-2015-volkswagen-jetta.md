@@ -50,6 +50,19 @@ The 2015 Volkswagen Jetta is a compact sedan offered with three engine options a
         * Estimated Cost to Fix: $2,000 - $4,000+
         * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Struts**
@@ -89,3 +102,15 @@ The 2015 Volkswagen Jetta is a compact sedan offered with three engine options a
 **Summary**
 
 Overall, the 2015 Volkswagen Jetta is a reliable and well-rounded vehicle. However, some specific issues can be expensive to fix, such as timing chain tensioner failure, water pump failure, and mechatronic unit failure. These issues are not common but can be costly to repair if they occur. It is important to factor in the potential cost of these repairs when considering the purchase of a used Jetta.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

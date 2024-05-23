@@ -61,6 +61,19 @@ Owners of the 2008 Mitsubishi Outlander have reported a variety of issues, inclu
     * Estimated Cost to Fix: $5,000 - $7,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mount failure**
@@ -116,3 +129,15 @@ Owners of the 2008 Mitsubishi Outlander have reported a variety of issues, inclu
 **Summary**
 
 The 2008 Mitsubishi Outlander has a number of potential issues, including engine problems, transmission problems, and electrical problems. The severity of these issues can vary, and the cost to fix them can be significant. However, the Outlander is a generally reliable vehicle, and many owners are satisfied with its performance and value.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

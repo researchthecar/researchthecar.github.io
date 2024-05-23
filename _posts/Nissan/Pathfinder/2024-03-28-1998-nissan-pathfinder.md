@@ -33,6 +33,19 @@ Owners praise the Pathfinder for its spacious interior, comfortable ride, and im
 
 * **No major issues reported**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** The struts can fail, causing the vehicle to sag and lose stability. This can lead to premature tire wear and suspension damage. Symptoms include a bouncy ride, excessive sway, and uneven tire wear. **Solution:** Replace the struts. **Estimated Cost to Fix:** $400 - $600
@@ -54,3 +67,15 @@ Owners praise the Pathfinder for its spacious interior, comfortable ride, and im
 **Summary**
 
 The 1998 Nissan Pathfinder is a reliable SUV with some known issues. Engine issues, such as intake manifold gasket failure and timing chain tensioner failure, are moderate in severity and cost. Transmission issues, such as fluid leaks and torque converter failure, are more severe and expensive to fix. Suspension issues, such as strut failure and control arm bushing wear, are moderate in severity and cost. Electrical issues, such as alternator failure and battery terminal corrosion, are minor and inexpensive to fix. Interior issues, such as power window failure, are minor and inexpensive to fix. Overall, the Pathfinder is a solid choice for those looking for a mid-size SUV with good off-road capabilities, but it is important to be aware of the potential issues before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

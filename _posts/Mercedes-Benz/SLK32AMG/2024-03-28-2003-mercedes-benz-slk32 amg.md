@@ -34,6 +34,19 @@ The 2003 Mercedes-Benz SLK32 AMG is a high-performance roadster that combines lu
   * Estimated Cost to Fix: $1,500 - $3,000+
   * Recalls: MB: 2003070001
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Sagging**
@@ -79,3 +92,15 @@ The 2003 Mercedes-Benz SLK32 AMG is a high-performance roadster that combines lu
 **Summary**
 
 The 2003 Mercedes-Benz SLK32 AMG is a highly capable sports car, but it is not exempt from potential issues. Some of the more serious problems can be expensive to repair, so it is important to factor in the cost of potential maintenance when considering this vehicle. However, the SLK32 AMG's performance and driving experience often make it worth the trouble for enthusiasts who are willing to invest in its upkeep.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

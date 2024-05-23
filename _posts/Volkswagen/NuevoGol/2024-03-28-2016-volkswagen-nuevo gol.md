@@ -29,6 +29,19 @@ The 2016 Volkswagen Nuevo Gol is a compact hatchback powered by a 1.6-liter inli
         * Solution: Replace clutch master cylinder.
         * Estimated Cost to Fix: $150 - $300
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -67,3 +80,15 @@ The 2016 Volkswagen Nuevo Gol is a compact hatchback powered by a 1.6-liter inli
 **Summary:**
 
 The 2016 Volkswagen Nuevo Gol has a range of issues, including engine noise, transmission problems, and electrical malfunctions. While the severity of the issues varies, some repairs can be costly. Overall, the Gol's reliability and build quality may be a concern for potential buyers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

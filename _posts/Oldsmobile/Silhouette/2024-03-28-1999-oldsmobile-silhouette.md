@@ -74,3 +74,15 @@ Despite its positive attributes, the Oldsmobile Silhouette has been plagued by a
 **Summary:**
 
 The 1999 Oldsmobile Silhouette has a number of reported issues, including engine intake manifold gasket failure, transmission slippage, power window failure, alternator failure, sunroof leaks, and dashboard cracking. These issues range in severity from minor annoyances to more serious mechanical problems that can be costly to repair. Overall, the Silhouette's reliability is below average, which may be a concern for potential buyers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

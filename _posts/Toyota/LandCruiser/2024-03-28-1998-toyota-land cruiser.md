@@ -23,6 +23,19 @@ The 1998 Toyota Land Cruiser is a full-size SUV known for its off-road capabilit
 
 * **Transmission slipping:** Symptoms include difficulty shifting gears, delayed engagement, and loss of power. Solution: Rebuild or replace the transmission. Estimated Cost to Fix: $2500-$4000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Worn out shock absorbers:** Symptoms include rough ride, poor handling, and excessive bouncing. Solution: Replace the shock absorbers. Estimated Cost to Fix: $800-$1200+. Recalls: None Found
@@ -46,3 +59,15 @@ The 1998 Toyota Land Cruiser is a full-size SUV known for its off-road capabilit
 **Summary**
 
 Overall, the 1998 Toyota Land Cruiser is a reliable and capable vehicle, but it is not without its potential issues. While some issues, such as dashboard cracks or cupholder breakage, are relatively minor and inexpensive to fix, others, like intake manifold gasket failure or transmission slipping, can be more severe and costly. Potential buyers and current owners should be aware of these issues and factor them into their decision-making or maintenance plans.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -33,6 +33,19 @@ The 2012 Mercedes-Benz Boxer 50 is a highly capable and luxurious pickup truck. 
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 * **Rear Leaf Spring Sagging:**
     * Description/Symptoms: Excessive rear end sag, uneven suspension height
@@ -88,3 +101,15 @@ The 2012 Mercedes-Benz Boxer 50 is a highly capable and luxurious pickup truck. 
 **Summary:**
 
 The 2012 Mercedes-Benz Boxer 50 is a generally reliable vehicle, but it is not immune to potential issues. The most common problems reported by owners are related to the engine's fuel injectors, turbocharger wastegate, transmission fluid leaks, and suspension components. While the costs of repairs can vary, they are generally within the average range for vehicles of this class. Overall, the Boxer 50 offers a solid balance of performance, luxury, and off-road capability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

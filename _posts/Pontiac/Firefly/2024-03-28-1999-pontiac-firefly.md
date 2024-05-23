@@ -22,6 +22,19 @@ The 1999 Pontiac Firefly is a compact car offered with a single engine and trans
 
 * **Synchronizer Ring Wear:** Difficulty shifting into certain gears, grinding noise when shifting. Replaced with new synchronizer rings. Estimated Cost to Fix: $400 - $700.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mounts Failing:** Clunking or rattling noise from the front suspension, especially over bumps. Replaced with new strut mounts. Estimated Cost to Fix: $200 - $400.
@@ -43,3 +56,15 @@ The 1999 Pontiac Firefly is a compact car offered with a single engine and trans
 **Summary**
 
 The 1999 Pontiac Firefly has some common issues, particularly with the engine, transmission, and suspension. The cost of repairs can vary depending on the severity of the issue and the specific parts that need replacing. As with any used car, it is important to have the vehicle inspected by a mechanic before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

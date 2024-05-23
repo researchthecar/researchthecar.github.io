@@ -37,6 +37,19 @@ The 2018 Rolls-Royce Wraith is a luxury coupe with a powerful 6.6L V12 engine th
         * Estimated Cost to Fix: $500 - $1,500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Compressor Failure:** The air suspension compressor may fail, leading to a loss of ride height and handling.
@@ -80,3 +93,15 @@ The 2018 Rolls-Royce Wraith is a luxury coupe with a powerful 6.6L V12 engine th
 **Summary:**
 
 Overall, the 2018 Rolls-Royce Wraith is a luxurious and powerful vehicle, but it is not without its issues. The reported engine problems, while potentially severe, are relatively infrequent. Transmission issues are also uncommon, but they can be costly to fix. Suspension and electrical problems are more common, but they are typically minor and less expensive to resolve. Interior issues are generally minor and can be addressed with software updates or component replacements. The exterior door handle malfunction is a more significant issue, but it has been addressed by a recall. Overall, the severity of the issues and the cost to fix them should be carefully considered before purchasing a 2018 Rolls-Royce Wraith.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

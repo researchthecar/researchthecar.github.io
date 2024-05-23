@@ -35,6 +35,19 @@ The 2017 Mercedes-Benz Metris is a versatile cargo van that offers impressive pe
   * Solution: Replacement of the torque converter
   * Estimated Cost to Fix: $1,500 - $2,500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Suspension**
@@ -87,3 +100,15 @@ The 2017 Mercedes-Benz Metris is a versatile cargo van that offers impressive pe
 **Summary**
 
 While the 2017 Mercedes-Benz Metris offers a reliable and versatile option for cargo transportation, it has been subject to a few issues, particularly with its engine, transmission, and electrical systems. The severity of these issues varies, with some being relatively minor and inexpensive to fix, while others can be more costly and time-consuming. It is important for owners to be aware of these potential problems and to seek professional maintenance and repairs promptly to minimize the risk of costly failures and ensure the safety and reliability of their Metris.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

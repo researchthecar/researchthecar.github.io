@@ -39,6 +39,19 @@ The 2013 Porsche Boxster is a mid-engine sports car available in base and S trim
       * Estimated Cost to Fix: $5,000 - $7,000
       * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arm Bushing Premature Wear:**
@@ -84,3 +97,15 @@ The 2013 Porsche Boxster is a mid-engine sports car available in base and S trim
 **Summary:**
 
 The 2013 Porsche Boxster is a highly capable sports car, but like any vehicle, it has the potential for certain issues. While the cost of repairs can be significant, the severity of the problems is generally not catastrophic, and most can be resolved with proper maintenance and timely repairs. Owners should be aware of the potential issues outlined above and budget accordingly to ensure a positive ownership experience with their Boxster.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

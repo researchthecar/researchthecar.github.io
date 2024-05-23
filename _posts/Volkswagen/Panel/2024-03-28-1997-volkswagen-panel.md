@@ -58,6 +58,19 @@ Owners praised the Panel's spacious interior and comfortable ride, but criticize
     * Solution: Replace valve body
     * Estimated Cost to Fix: $500 - $1,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Failure:**
@@ -97,3 +110,15 @@ Owners praised the Panel's spacious interior and comfortable ride, but criticize
 **Summary**
 
 The 1997 Volkswagen Panel faced several issues that could be costly to repair, particularly engine and transmission issues. While it offered a spacious interior and comfortable ride, its limited power and poor fuel economy were drawbacks. The severity of the issues and the potential costs should be considered before making a decision to purchase or maintain this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -34,6 +34,19 @@ The 2006 Volkswagen Bora, also known as the Jetta in North America, is a compact
 * **Tiptronic Automatic Transmission**
     * **Mechatronic Unit Failure:** The mechatronic unit may fail due to a software issue or a faulty component. Symptoms include difficulty shifting gears, a loss of gears, or a flashing check engine light. Solution: Replace the mechatronic unit. Estimated Cost to Fix: $2,000 - $3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Failure:** The front control arm bushings may fail due to wear, leading to a knocking noise from the front suspension and poor handling. Solution: Replace the control arm bushings. Estimated Cost to Fix: $200 - $400+
@@ -65,3 +78,15 @@ The 2006 Volkswagen Bora, also known as the Jetta in North America, is a compact
 **Summary**
 
 Overall, the 2006 Volkswagen Bora is a reliable and well-rounded vehicle. However, like all cars, it is not without its potential issues. The most severe issues, such as turbocharger failure or engine oil consumption, can be costly to repair. Regular maintenance and timely repairs can help prevent or minimize these problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

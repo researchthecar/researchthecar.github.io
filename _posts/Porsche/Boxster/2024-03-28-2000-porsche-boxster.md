@@ -36,6 +36,19 @@ The 2000 Porsche Boxster is a mid-engine sports car that debuted in 1996. It is 
         * Solution: The torque converter must be replaced. The estimated cost of this repair is $2,000 - $3,000.
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front control arm bushings**
@@ -64,3 +77,15 @@ The 2000 Porsche Boxster is a mid-engine sports car that debuted in 1996. It is 
 **Summary**
 
 The 2000 Porsche Boxster is a fun and exciting sports car to drive, but it is not without its problems. The most common problems are with the engine, transmission, and electrical system. The severity of these problems varies, but some can be quite expensive to fix. Overall, the Boxster is a reliable car, but it is important to be aware of its potential problems before buying one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

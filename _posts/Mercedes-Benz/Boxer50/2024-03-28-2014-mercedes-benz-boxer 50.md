@@ -39,6 +39,19 @@ The 2014 Mercedes-Benz Boxer 50 is a high-performance SUV powered by a 4.7L V8 e
     * Estimated Cost to Fix: $200 - $500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Bearing Failure:**
@@ -84,3 +97,15 @@ The 2014 Mercedes-Benz Boxer 50 is a high-performance SUV powered by a 4.7L V8 e
 **Summary:**
 
 The 2014 Mercedes-Benz Boxer 50 has experienced some issues, primarily with the engine, transmission, and electrical systems. While some of these issues are minor and inexpensive to fix, others can be more expensive and require extensive repairs. Owners may want to consider the cost and potential frequency of these issues when making their purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

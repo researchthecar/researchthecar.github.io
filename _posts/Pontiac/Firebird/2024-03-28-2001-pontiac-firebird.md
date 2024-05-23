@@ -51,6 +51,19 @@ The 2001 Pontiac Firebird was a powerful sports coupe available with various eng
     * Estimated Cost to Fix: $500 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Failure:**
@@ -110,3 +123,15 @@ The 2001 Pontiac Firebird was a powerful sports coupe available with various eng
 **Summary:**
 
 The 2001 Pontiac Firebird is a performance-oriented vehicle that has been praised for its handling and power. However, it has also experienced some common issues with its engine, transmission, suspension, and other components. The severity and cost of these issues vary, with some being minor and inexpensive to fix while others can be more serious and require significant repairs. Overall, the Firebird offers an exciting driving experience but requires regular maintenance and attention to potential issues to ensure its longevity and reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

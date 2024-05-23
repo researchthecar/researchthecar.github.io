@@ -50,6 +50,19 @@ Overall, the 2010 Volkswagen Golf is a well-rounded car that offers a comfortabl
         * Estimated Cost to Fix: $1,000 - $2,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front Suspension Strut Failure**
     * Description/Symptoms: The front suspension struts can fail, causing the car to ride rough and handle poorly.
@@ -95,3 +108,15 @@ Overall, the 2010 Volkswagen Golf is a well-rounded car that offers a comfortabl
 
 **Summary**
 The 2010 Volkswagen Golf is a generally reliable car, but it does have some common issues. The most serious issues are the timing chain tensioner failure on the 2.0L inline-4 engine and the transmission control module failure on the 6-speed automatic transmission. Other issues, such as the intake manifold runner control valve failure and the door handle failure, are less severe but can still be frustrating. Overall, the cost of repairs for the 2010 Volkswagen Golf can range from minor to moderate.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -45,6 +45,19 @@ The 2005 Toyota Land Cruiser is a full-size SUV known for its ruggedness and off
         * Estimated Cost to Fix: $500 - $1,500
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension**
@@ -108,3 +121,15 @@ The 2005 Toyota Land Cruiser is a full-size SUV known for its ruggedness and off
 **Summary**
 
 The 2005 Toyota Land Cruiser is a reliable and rugged vehicle, but it does have some common issues. Engine problems can be expensive to fix, particularly for the 4.2-liter diesel engine. Suspension and electrical components can also fail prematurely. However, overall, the Land Cruiser is still a popular choice for off-road enthusiasts and those seeking a durable SUV. The severity of the issues varies, and many of them can be prevented with proper maintenance and care.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

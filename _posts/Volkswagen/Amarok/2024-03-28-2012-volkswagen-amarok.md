@@ -60,6 +60,19 @@ The Amarok was praised for its comfortable interior, rugged capabilities, and ef
     * Estimated Cost to Fix: $2,000 - $4,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Components Wear**
@@ -96,3 +109,15 @@ The Amarok was praised for its comfortable interior, rugged capabilities, and ef
 **Summary**
 
 The 2012 Volkswagen Amarok is generally a reliable vehicle. However, it has some known issues, particularly with its fuel injector system, turbocharger, and transmission. Repair costs for these issues can be high, so it's important to consider the potential costs and risks of ownership before purchasing an Amarok. Overall, the severity and cost of the issues are moderate, affecting essential vehicle components such as the engine, transmission, and suspension.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -36,6 +36,19 @@ The 1995 Mercury Villager is a minivan that can seat up to seven passengers. It 
     * Estimated Cost to Fix: $300 - $1,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension strut failure**
@@ -70,3 +83,15 @@ The 1995 Mercury Villager is a minivan that can seat up to seven passengers. It 
 
 **Summary**
 The 1995 Mercury Villager has been reported to have some issues, including intake manifold gasket failure, head gasket failure, transmission slipping or shuddering, front suspension strut failure, battery drain, dashboard cracking, and seat belt retractor failure. The severity and cost of these issues can vary depending on the specific problem and the extent of the damage. It is important to note that not all Villagers will experience these issues, and the overall reliability of the vehicle will depend on factors such as maintenance history and driving conditions.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

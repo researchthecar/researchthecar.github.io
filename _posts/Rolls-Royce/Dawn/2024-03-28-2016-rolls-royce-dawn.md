@@ -22,6 +22,19 @@ The 2016 Rolls-Royce Dawn is a luxury convertible powered by a 6.6-liter twin-tu
 
 **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front and rear air suspension**
 
@@ -63,3 +76,15 @@ The 2016 Rolls-Royce Dawn is a luxury convertible powered by a 6.6-liter twin-tu
 
 **Summary**
 The 2016 Rolls-Royce Dawn is a luxurious and high-performance convertible. However, it has some reported issues with the engine, suspension, electrical system, and interior. The severity of the issues varies, with some being minor and others requiring significant repairs. The cost of repairs can also be substantial, so owners should be prepared for potentially high maintenance costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

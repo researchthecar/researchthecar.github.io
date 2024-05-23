@@ -42,6 +42,19 @@ The Routan received generally positive reviews from critics. It was praised for 
         * Estimated Cost to Fix: $500 - $1,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front struts leaking**
@@ -97,3 +110,15 @@ The Routan received generally positive reviews from critics. It was praised for 
 **Summary**
 
 The 2010 Volkswagen Routan is generally a reliable vehicle that is well-liked by owners for its comfortable interior, spacious cargo area, and good fuel economy. However, it has been known to have some issues, particularly with the engine and transmission. The severity and cost of these issues vary depending on the specific problem, but some of them can be quite expensive to repair. It is important to weigh the pros and cons of the Routan before making a decision about purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

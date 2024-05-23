@@ -28,6 +28,19 @@ Owners generally appreciate the Crosstrek's spacious interior, good fuel economy
 
 * **Jerking or hesitation during acceleration:** The CVT may experience occasional jerking or hesitation during acceleration. The issue can often be resolved by performing a transmission fluid change or updating the transmission control software. Estimated Cost to Fix: $150 - $500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mount bearing failure:** The strut mount bearings may fail, causing clunking or knocking noises from the front suspension. The solution involves replacing the strut mounts. Estimated Cost to Fix: $400 - $800+
@@ -49,3 +62,15 @@ Owners generally appreciate the Crosstrek's spacious interior, good fuel economy
 **Summary**
 
 The 2019 Subaru Crosstrek has several common issues across various components. Some issues, such as the head gasket failure, can be severe and costly to fix. However, the majority of issues are relatively minor and can be resolved at a reasonable cost. Overall, the Crosstrek remains a reliable and capable vehicle for its class.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

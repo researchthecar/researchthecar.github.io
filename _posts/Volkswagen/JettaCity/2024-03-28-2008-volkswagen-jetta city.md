@@ -28,6 +28,19 @@ The 2008 Volkswagen Jetta City is a compact sedan that was praised for its styli
     * **Solenoid failure:** Can cause transmission to fail to shift properly or remain in gear. Fix: Replace the faulty solenoid. $300 - $500+
     * **Transmission fluid leaks:** May occur from seals or gaskets. Fix: Replace the faulty seals or gaskets. $200 - $500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut mount bearing failure:** Causes a clunking noise when turning or over bumps. Fix: Replace the strut mount bearings. $300 - $600+
@@ -52,3 +65,15 @@ The 2008 Volkswagen Jetta City is a compact sedan that was praised for its styli
 **Summary:**
 
 Overall, the 2008 Volkswagen Jetta City has been reported to have a moderate number of issues. Engine problems appear to be the most common, with potential issues affecting both the 2.5L and 2.0L engines. The transmission, suspension, and electrical systems have also been known to experience some issues. However, the severity and cost of the repairs for these problems vary greatly, and the Jetta City remains a generally reliable and affordable compact sedan.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

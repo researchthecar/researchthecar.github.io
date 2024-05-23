@@ -49,6 +49,19 @@ The Cayenne is praised for its handling, performance, and luxurious interior. Ho
     Estimated Cost to Fix: $2,000 - $3,000+
     Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Air suspension compressor failure**
@@ -100,3 +113,15 @@ The Cayenne is praised for its handling, performance, and luxurious interior. Ho
     Recalls: None Found
 
 **Summary:** The 2013 Porsche Cayenne is a well-regarded SUV, but it has some potential issues that owners should be aware of. The most severe issues include timing chain tensioner failure, torque converter shudder, and electrical harness issues, which can be expensive to repair. However, many of the other reported issues are relatively minor and can be fixed at a reasonable cost.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

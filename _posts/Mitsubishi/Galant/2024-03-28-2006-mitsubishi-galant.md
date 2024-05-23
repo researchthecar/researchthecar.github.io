@@ -39,6 +39,19 @@ Drivers appreciate the Galant's comfortable ride and impressive performance for 
 
 * **Clutch Master Cylinder Failure:** Leaking cylinder can prevent the clutch from engaging properly, resulting in difficulty shifting gears. Repair includes replacing the faulty cylinder. **$200 - $400**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mounts:** Worn or deteriorated mounts can cause a clunking noise when driving over bumps or uneven surfaces. Replacement of mounts is necessary to eliminate the noise. **$250 - $400**
@@ -62,3 +75,15 @@ Drivers appreciate the Galant's comfortable ride and impressive performance for 
 **Summary:**
 
 The 2006 Mitsubishi Galant offers a balance of comfort, performance, and affordability. However, it is not immune to various issues that can affect the engine, transmission, suspension, electrical system, and interior. While some repairs are relatively minor and inexpensive, others, such as timing chain tensioner failure or transmission problems, can be costly and require extensive labor. Potential buyers should carefully consider the potential repair costs associated with the Galant before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

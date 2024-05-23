@@ -31,6 +31,19 @@ While the Gran Viale has received positive reviews for its spacious interior, po
 * **Shifting Problems:** Symptoms include rough shifts, delayed or hesitant shifting, and slipping gears. Solution: Repair or replace the faulty transmission components, such as solenoids or valve body. Estimated Cost to Fix: $500 - $1500+
 * **Transmission Fluid Leak:** Symptoms include a visible leak under the transmission, low transmission fluid levels, and slipping gears. Solution: Replace the leaking part or gasket. Estimated Cost to Fix: $200 - $500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Failure:** Symptoms include uneven ride height, difficulty leveling the vehicle, and excessive body roll. Solution: Replace or repair the faulty air suspension components, such as the air springs or compressor. Estimated Cost to Fix: $1000 - $2500+
@@ -54,3 +67,15 @@ While the Gran Viale has received positive reviews for its spacious interior, po
 **Summary**
 
 The 2014 Mercedes-Benz Gran Viale has been reported to have a range of issues, including engine problems, transmission issues, suspension issues, electrical issues, exterior issues, and interior issues. While some of these issues are minor and relatively inexpensive to fix, others can be more severe and require costly repairs. Potential owners should be aware of these issues and factor in the potential costs of repairs when considering purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

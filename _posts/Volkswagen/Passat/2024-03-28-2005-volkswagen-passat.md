@@ -81,6 +81,19 @@ Owners appreciate the Passat's comfortable and roomy interior, as well as its sp
     - Estimated Cost to Fix: $2,000 - $3,000+
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Suspension**
@@ -150,3 +163,15 @@ Owners appreciate the Passat's comfortable and roomy interior, as well as its sp
 **Summary**
 
 The 2005 Volkswagen Passat has a range of severe and expensive issues that can make ownership costly. The most serious issues include timing chain tensioner failure, transmission failure, and turbocharger failure. The Passat's electrical system, climate control, and navigation system can also be problematic. While the Passat offers a comfortable ride and spacious interior, these issues may outweigh its positive attributes for many buyers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

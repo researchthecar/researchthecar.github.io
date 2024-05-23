@@ -39,6 +39,19 @@ The 1999 Oldsmobile Bravada, a mid-size SUV, was powered by a 4.3L V6 engine mat
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Ball Joints Wear:**
@@ -89,3 +102,15 @@ The 1999 Oldsmobile Bravada, a mid-size SUV, was powered by a 4.3L V6 engine mat
 **Summary:**
 
 The 1999 Oldsmobile Bravada had several reported issues, ranging from minor annoyances like dashboard creaking to more significant problems like intake manifold gasket leaks and torque converter shudder. The severity and cost of these issues can vary depending on the specific part failure and the labor costs associated with the repair. Overall, while the Bravada offered a comfortable ride, some owners may face potential repair expenses.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

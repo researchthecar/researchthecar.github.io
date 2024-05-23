@@ -25,6 +25,19 @@ The 2008 Mitsubishi Grandis is a mid-size crossover SUV that offers a spacious i
 * **6-Speed Manual**
     * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension:**
@@ -49,3 +62,15 @@ The 2008 Mitsubishi Grandis is a mid-size crossover SUV that offers a spacious i
 **Summary:**
 
 The 2008 Mitsubishi Grandis has a number of potential issues, some of which can be costly to repair. Engine problems, transmission slippage, and suspension issues are the most common. While the Grandis offers a spacious interior and practical design, its dated appearance and lackluster performance may be a turnoff for some buyers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

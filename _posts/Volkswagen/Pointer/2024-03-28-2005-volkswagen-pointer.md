@@ -29,6 +29,19 @@ The 2005 Volkswagen Pointer was a compact hatchback offered with a single engine
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Struts Wear Out Prematurely:**
@@ -76,3 +89,15 @@ The 2005 Volkswagen Pointer was a compact hatchback offered with a single engine
 **Summary:**
 
 Overall, the 2005 Volkswagen Pointer has a moderate number of issues, especially for its age. The most severe and expensive issue is the timing chain tensioner failure, which can lead to catastrophic engine damage. Other issues are typically less severe and costly to repair. However, the vehicle's interior is relatively cramped, and some exterior components are prone to breakage or corrosion.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

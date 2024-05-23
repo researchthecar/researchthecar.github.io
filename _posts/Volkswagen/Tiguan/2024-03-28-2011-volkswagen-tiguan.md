@@ -48,6 +48,19 @@ People who like the 2011 Volkswagen Tiguan praise its comfortable interior, spac
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Bearing Failure**
@@ -83,3 +96,15 @@ People who like the 2011 Volkswagen Tiguan praise its comfortable interior, spac
 **Summary**
 
 The 2011 Volkswagen Tiguan has a number of potential issues, including timing chain tensioner failure, carbon buildup on intake valves, clutch failure, mechatronic unit failure, strut mount bearing failure, battery drain, tailgate latch failure, and climate control malfunction. The severity of these issues varies, but some can be expensive to fix. Overall, the 2011 Volkswagen Tiguan is a reliable vehicle, but it is important to be aware of its potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

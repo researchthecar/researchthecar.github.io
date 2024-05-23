@@ -27,6 +27,19 @@ Recalls: None Found
 * **Overheating Issues:** Transmission overheating due to excessive towing or transmission component failure can cause slipping gears or burnt transmission fluid. Repairing the transmission costs $3,000 - $5,000+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Worn Front Lower Control Arms:** Worn bushings or ball joints in the front lower control arms can lead to clunking or rattling noises, imprecise handling, or excessive tire wear. Replacing the control arms costs $600 - $1,000+
@@ -58,3 +71,15 @@ Recalls: None Found
 **Summary**
 
 While the 2018 Mercedes-Benz Viaggio 1050 offers many desirable features and capabilities, it has experienced some reported issues that potential buyers should be aware of. These issues can vary in severity and cost to repair. The electrical and suspension issues appear to be minor and relatively affordable to fix. The engine and transmission issues, however, can be more severe and expensive. Overall, the reliability of the Viaggio 1050 may be a concern for some potential buyers, especially considering the high cost of ownership associated with luxury vehicles.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

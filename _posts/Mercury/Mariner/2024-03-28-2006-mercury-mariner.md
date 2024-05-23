@@ -53,6 +53,19 @@ The 2006 Mercury Mariner is a compact SUV that offers a combination of performan
     * Estimated Cost to Fix: $2000 - $3000+
     * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Ball Joint Failure:**
@@ -100,3 +113,15 @@ The 2006 Mercury Mariner is a compact SUV that offers a combination of performan
 **Summary**
 
 The 2006 Mercury Mariner has a range of potential issues, with varying severity and cost to repair. Engine problems can be expensive to fix, with piston ring failure and intake manifold runner control failure being common issues. Transmission problems, such as synchronizer wear and torque converter shudder, can also be costly. Suspension issues, like ball joint and strut mounting failure, can affect handling and safety. Electrical issues, including alternator failure and battery drain, can be frustrating and expensive to diagnose. Interior problems, such as headliner sagging, are less severe but can be annoying. Overall, the 2006 Mariner's reliability has been mixed, with some owners reporting significant problems while others have had few issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

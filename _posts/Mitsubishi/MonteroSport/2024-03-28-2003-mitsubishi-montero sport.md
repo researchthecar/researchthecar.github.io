@@ -38,6 +38,19 @@ Popular with families and outdoor enthusiasts, the Montero Sport is known for it
     Estimated Cost to Fix: $1500 - $2000+
     Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension ball joint wear**
@@ -83,3 +96,15 @@ Popular with families and outdoor enthusiasts, the Montero Sport is known for it
 **Summary**
 
 The 2003 Mitsubishi Montero Sport is a generally reliable SUV, but it has been reported to have some issues with its engine (timing belt failure), transmission (slipping), suspension (ball joint wear), and electrical system (alternator failure). These issues can be moderate to severe in terms of expense and impact on drivability. It is important to consider these issues when evaluating the vehicle and to factor in the potential cost of repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -20,6 +20,19 @@ The 2008 Volkswagen Lupo is a compact city car available with a 1.2-liter gasoli
 * **5-speed manual transmission**
     * **Clutch problems**: The clutch may slip or shudder when engaging, making shifting difficult. Replacing the clutch kit can cost $800 - $1,200+.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -44,3 +57,15 @@ The 2008 Volkswagen Lupo is a compact city car available with a 1.2-liter gasoli
 **Summary:**
 
 The 2008 Volkswagen Lupo has reported issues with engine coolant leaks, oil leaks, clutch problems, battery drains, alternator problems, rear light failure, door lock issues, window regulator problems, dashboard cracking, HVAC fan issues, and radio display failure. The severity and cost of these issues vary depending on the specific problem and the required repairs. While some issues may be minor inconveniences, others can lead to more serious mechanical failures and higher repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

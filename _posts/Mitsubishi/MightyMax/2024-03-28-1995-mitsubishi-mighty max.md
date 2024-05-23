@@ -32,6 +32,19 @@ The 1995 Mitsubishi Mighty Max is a compact pickup truck known for its reliabili
 * **Transmission Fluid Leak:** Symptoms include fluid leaking from the transmission, slipping gears, and overheating. Solution: Replace the transmission fluid lines, gaskets, or seals. Estimated Cost to Fix: $200 - $600+
 * **Torque Converter Failure:** Symptoms include shuddering, slipping, and overheating of the transmission. Solution: Replace the torque converter. Estimated Cost to Fix: $1000 - $2000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Wear:** Symptoms include clunking noises from the front end, uneven tire wear, and misalignment. Solution: Replace the worn bushings. Estimated Cost to Fix: $200 - $400+
@@ -54,3 +67,15 @@ The 1995 Mitsubishi Mighty Max is a compact pickup truck known for its reliabili
 **Summary**
 
 The 1995 Mitsubishi Mighty Max is generally a reliable and affordable pickup truck. However, it has some common issues that can be expensive to fix, particularly those related to the engine and transmission. It is important to address these issues promptly to prevent further damage and ensure the vehicle's longevity.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

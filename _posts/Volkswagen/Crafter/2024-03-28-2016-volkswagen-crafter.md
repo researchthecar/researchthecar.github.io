@@ -34,6 +34,19 @@ The 2016 Volkswagen Crafter is a full-size van available with a choice of 2.0L a
     * Solution: Replace the mechatronic unit.
     * Estimated Cost to Fix: $2,000 - $3,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Mount Failure:** The front suspension strut mounts can fail, leading to abnormal suspension noises and reduced handling.
@@ -65,3 +78,15 @@ The 2016 Volkswagen Crafter is a full-size van available with a choice of 2.0L a
 **Summary:**
 
 The 2016 Volkswagen Crafter has been reported to have several issues, including engine injector failures, timing chain tensioner failures, transmission problems, suspension strut mount failures, and electrical problems. The severity of these issues varies, with some being minor and others potentially leading to major repairs. As with any vehicle, it's important to address these issues promptly to ensure the reliability and safety of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

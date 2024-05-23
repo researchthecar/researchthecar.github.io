@@ -37,6 +37,19 @@ The 2015 Mercedes-Benz Torino is a midsize sedan that offers a luxurious driving
         * Solution: Replace the leaking seal.
         * Estimated Cost to Fix: $200 - $400
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arm Bushing Failure**
@@ -72,3 +85,15 @@ The 2015 Mercedes-Benz Torino is a midsize sedan that offers a luxurious driving
 **Summary**
 
 Overall, the 2015 Mercedes-Benz Torino has been prone to a range of issues, affecting various components. The severity and cost of repairs can vary depending on the specific problem. While the Torino offers a luxurious experience, it is crucial to be aware of potential issues before purchasing. Regular maintenance and inspections can help detect and mitigate these issues early on, reducing the risk of costly repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

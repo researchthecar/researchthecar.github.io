@@ -39,6 +39,19 @@ Owners generally praised the Grand Marquis for its comfortable ride, spacious in
     * Estimated Cost to Fix: $1500 - $3000+
     * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension clunking**
@@ -74,3 +87,15 @@ Owners generally praised the Grand Marquis for its comfortable ride, spacious in
 **Summary**
 
 Overall, the 2011 Mercury Grand Marquis had a few common issues, primarily with the engine and suspension. The severity and cost of these issues range from minor and affordable to more serious and expensive. It is important for owners to be aware of these potential problems and to address them promptly to ensure the reliability and longevity of their vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

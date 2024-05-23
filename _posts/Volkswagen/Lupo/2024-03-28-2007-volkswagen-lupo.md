@@ -32,6 +32,19 @@ Solution: Replacing the gear linkage, shift cables, or synchronizers can resolve
 Estimated Cost to Fix: $300 - $800+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **No Issues Found**
 
@@ -54,3 +67,15 @@ Recalls: None Found
 
 **Summary**
 Overall, the 2007 Volkswagen Lupo has a relatively low number of commonly reported issues. The most severe issue is excessive oil consumption in the 1.0L 3-cylinder gasoline engine, which can lead to engine damage if not addressed promptly. Other issues, such as difficulty shifting gears and battery drain, are less severe but can still be frustrating for owners. The estimated cost to fix these issues varies depending on the severity of the problem and the labor rates in your area.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

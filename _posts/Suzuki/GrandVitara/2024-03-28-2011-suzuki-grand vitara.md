@@ -29,6 +29,19 @@ The 2011 Suzuki Grand Vitara is a compact SUV that comes with two engine options
         * Estimated Cost to Fix: $1,500 - $2,500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Struts:** The front struts can develop leaks, causing the suspension to sag and reduce handling.
@@ -74,3 +87,15 @@ The 2011 Suzuki Grand Vitara is a compact SUV that comes with two engine options
 **Summary**
 
 The 2011 Suzuki Grand Vitara is a generally reliable vehicle with some common issues that owners should be aware of. The most severe problems include timing chain guide failure, torque converter failure, and airbag control module issues. The cost of repairs for these issues can be significant. Other issues, such as dashboard rattles and climate control problems, are less costly but can still be annoying.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

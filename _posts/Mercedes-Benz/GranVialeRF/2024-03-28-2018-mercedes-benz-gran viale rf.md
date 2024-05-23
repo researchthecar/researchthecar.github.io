@@ -23,6 +23,19 @@ The 2018 Mercedes-Benz Gran Viale RF is a luxury convertible that combines elega
 
 * **Shifting Issues:** The transmission may hesitate or jerk when shifting gears, particularly during low-speed maneuvers. Solution: Software updates or transmission overhauls. Estimated Cost to Fix: $200 - $3000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Compressor Failure:** The air suspension compressor may fail, causing the suspension to sag or become unresponsive. Solution: Replace air suspension compressor. Estimated Cost to Fix: $2000 - $3000+
@@ -46,3 +59,15 @@ The 2018 Mercedes-Benz Gran Viale RF is a luxury convertible that combines elega
 **Summary:**
 
 Overall, the 2018 Mercedes-Benz Gran Viale RF is a reliable and well-built vehicle, but it does have some reported issues that can be costly to repair. The engine and transmission issues are the most concerning, as they can potentially lead to catastrophic failures. While the suspension, electrical, and interior issues may not be as severe, they can still be annoying and detract from the overall driving experience. It's important to note that not all vehicles will experience these issues, and the severity and cost of repairs can vary depending on the specific circumstances.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -36,6 +36,19 @@ The Prius Plug-In is available with a continuously variable transmission (CVT). 
     * Estimated Cost to Fix: $3,000 - $5,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Bushings Wear:**
@@ -81,3 +94,15 @@ The Prius Plug-In is available with a continuously variable transmission (CVT). 
 **Summary**
 
 The 2015 Toyota Prius Plug-In is a fuel-efficient and reliable hybrid electric vehicle. However, some owners have experienced issues with the engine, transmission, suspension, electrical system, exterior, and interior. The severity and cost of these issues vary depending on the specific problem. Some issues, such as piston ring failure and CVT failure, can be major expenses to repair. Other issues, such as dashboard panel cracking and infotainment system crashing, are less severe but can still be frustrating for owners. Overall, the Prius Plug-In has a good track record for reliability, but it is important to be aware of the potential issues that owners may encounter.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

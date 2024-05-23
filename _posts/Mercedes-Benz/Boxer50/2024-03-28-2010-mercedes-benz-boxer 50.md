@@ -34,6 +34,19 @@ The 2010 Mercedes-Benz Boxer 50 is a high-performance sports car equipped with a
     * Estimated Cost to Fix: $800 - $1,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Worn Front Suspension Components**
@@ -71,3 +84,15 @@ The 2010 Mercedes-Benz Boxer 50 is a high-performance sports car equipped with a
 **Summary**
 
 The 2010 Mercedes-Benz Boxer 50 is a high-performance vehicle that has faced some common issues. While the engine and transmission components have been subject to potential problems, the issues are generally not widespread and can be addressed with proper maintenance and repairs. The cost of these repairs can vary depending on the severity and complexity of the issue. Overall, the Boxer 50 remains a solid choice for sports car enthusiasts who are willing to invest in maintaining its performance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

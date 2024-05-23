@@ -43,6 +43,19 @@ While the Outlander has received praise for its spaciousness and affordability, 
   * Estimated Cost to Fix: $500 - $1,000+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Strut Failure (Rear):**
   * Description/Symptoms: Knocking or clunking noises from the rear, uneven tire wear
@@ -73,3 +86,15 @@ While the Outlander has received praise for its spaciousness and affordability, 
 
 **Summary:**
 The 2005 Mitsubishi Outlander has experienced a range of issues, including engine malfunctions, transmission problems, and electrical failures. While some of these issues can be costly to repair, others are relatively minor. Overall, the Outlander's reliability issues are a concern for potential buyers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

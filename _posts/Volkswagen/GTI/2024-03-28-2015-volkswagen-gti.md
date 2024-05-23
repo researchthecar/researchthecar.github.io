@@ -39,6 +39,19 @@ The 2015 Volkswagen GTI is a compact performance hatchback that is offered with 
         * Estimated Cost to Fix: $2,000 - $3,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension**
@@ -102,3 +115,15 @@ The 2015 Volkswagen GTI is a compact performance hatchback that is offered with 
 **Summary**
 
 The 2015 Volkswagen GTI is a fun-to-drive performance hatchback, but it has been plagued by a number of issues. The most common issues include intake valve carbon buildup, timing chain tensioner failure, synchronizer wear, mechatronic unit failure, control arm bushing wear, rear shock absorber leaks, premature battery failure, electrical shorts, rust, and cracks in the dashboard. The severity and cost of these issues can vary, but some of them can be expensive to repair. Overall, the 2015 Volkswagen GTI is a good car, but buyers should be aware of the potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

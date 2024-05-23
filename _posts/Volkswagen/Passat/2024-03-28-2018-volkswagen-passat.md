@@ -41,6 +41,19 @@ Drivers appreciate the Passat's spacious interior, comfortable ride, and impress
         * Estimated Cost to Fix: $2,500 - $4,000+
         * Recalls: NHTSA Campaign Number: 19V591000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushings:**
@@ -81,3 +94,15 @@ Drivers appreciate the Passat's spacious interior, comfortable ride, and impress
 **Summary**
 
 The 2018 Volkswagen Passat has several reported issues, including engine problems, transmission concerns, and suspension and electrical faults. While some of these issues are relatively minor and inexpensive to fix, others can be more serious and costly. Potential buyers should be aware of these potential problems before purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

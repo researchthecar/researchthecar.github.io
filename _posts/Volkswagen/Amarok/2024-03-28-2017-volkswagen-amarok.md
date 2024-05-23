@@ -37,6 +37,19 @@ The 2017 Volkswagen Amarok is a mid-size pickup truck that offers a variety of e
     * Estimated Cost to Fix: $2,500 - $3,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Rear Leaf Spring Failure:**
@@ -78,3 +91,15 @@ The 2017 Volkswagen Amarok is a mid-size pickup truck that offers a variety of e
 **Summary:**
 
 The 2017 Volkswagen Amarok is a capable and versatile pickup truck, but it is not without its issues. The most severe and expensive issues include transmission slipping, turbocharger failure, and clearcoat peeling. However, many of the interior and electrical issues are relatively minor and inexpensive to fix. Overall, the Amarok is a well-built vehicle with a solid reputation for reliability, but potential buyers should be aware of these potential problems before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

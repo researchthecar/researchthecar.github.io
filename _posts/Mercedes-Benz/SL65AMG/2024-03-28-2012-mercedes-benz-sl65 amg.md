@@ -44,6 +44,19 @@ The 2012 Mercedes-Benz SL65 AMG is a high-performance luxury convertible powered
     * Estimated Cost to Fix: $1,500 - $4,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Failure:**
@@ -94,3 +107,15 @@ The 2012 Mercedes-Benz SL65 AMG is a high-performance luxury convertible powered
 **Summary:**
 
 The 2012 Mercedes-Benz SL65 AMG is a high-performance convertible with a powerful engine and luxurious interior. However, it has been known to have issues with its engine, transmission, and electrical system. The cost to repair these issues can be significant, so it is important to factor this into the cost of ownership. Despite its potential reliability concerns, the SL65 AMG remains a desirable vehicle for those seeking an exhilarating driving experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

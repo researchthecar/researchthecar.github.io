@@ -42,6 +42,19 @@ The 2016 Volkswagen GTI is a popular hot hatch that enthusiasts love for its agi
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -73,3 +86,15 @@ The 2016 Volkswagen GTI is a popular hot hatch that enthusiasts love for its agi
 **Summary:**
 
 While the 2016 Volkswagen GTI is a great-performing hot hatch, it has some reliability issues that potential buyers should be aware of. The most common issues are carbon buildup on intake valves, fuel injector failures, grinding noises when shifting, and faulty door lock actuators. These issues can be costly to repair, but it's important to keep in mind that not all GTIs will experience these problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

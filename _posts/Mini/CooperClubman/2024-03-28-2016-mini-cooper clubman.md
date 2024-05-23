@@ -28,6 +28,19 @@ The 2016 Mini Cooper Clubman is a compact station wagon that offers a unique ble
 - **Transmission Fluid Leak:** Description/Symptoms: Loss of transmission fluid, visible leaks. Solution: Repair or replacement of the leaking component, fluid refill. Estimated Cost to Fix: $300 - $800.
 - **Shifting Issues:** Description/Symptoms: Rough or delayed gear shifts, inconsistent gear engagement. Solution: Software updates, transmission module replacement, or mechanical repairs. Estimated Cost to Fix: $500 - $1,500.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Strut Mount Bearing Failure:** Description/Symptoms: Noise over bumps, clunking or rattling sounds. Solution: Replacement of the strut mount bearings. Estimated Cost to Fix: $300 - $600.
@@ -50,3 +63,15 @@ The 2016 Mini Cooper Clubman is a compact station wagon that offers a unique ble
 **Summary**
 
 Overall, the 2016 Mini Cooper Clubman has received mixed reviews from owners. While some appreciate its unique design and driving experience, others have encountered various issues with the engine, transmission, suspension, and electrical systems. The severity and cost of these issues vary, but they can be a source of frustration for owners. It is important to note that not all Clubmans will experience these problems, and some owners have reported positive experiences with their vehicles.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

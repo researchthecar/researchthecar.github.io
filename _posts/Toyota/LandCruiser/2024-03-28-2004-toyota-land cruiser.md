@@ -67,6 +67,19 @@ People who love the Land Cruiser appreciate its powerful engines, spacious and l
   - Estimated Cost to Fix: $800 - $2,000
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Worn ball joints:**
@@ -117,3 +130,15 @@ People who love the Land Cruiser appreciate its powerful engines, spacious and l
 **Summary:**
 
 The 2004 Toyota Land Cruiser is generally a reliable vehicle, however, some owners have reported issues such as engine gasket leaks, transmission problems, suspension wear, and electrical malfunctions. The severity of these issues varies, but some can be costly to repair. It is important to note that not all Land Cruisers experience these issues, and many owners are very satisfied with their vehicles. However, it is recommended to have a thorough inspection conducted before purchasing a used 2004 Land Cruiser.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

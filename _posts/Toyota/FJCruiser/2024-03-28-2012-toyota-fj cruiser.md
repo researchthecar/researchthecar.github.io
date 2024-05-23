@@ -37,6 +37,19 @@ The 2012 Toyota FJ Cruiser is a mid-size SUV known for its rugged off-road capab
         * Estimated Cost to Fix: $300 - $700+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -78,3 +91,15 @@ The 2012 Toyota FJ Cruiser is a mid-size SUV known for its rugged off-road capab
 **Summary**
 
 While the 2012 Toyota FJ Cruiser is generally considered a reliable vehicle, it has been known to experience a few specific issues. The engine valve seat recession and transmission fluid leak are the most notable, as they can be expensive to repair. Other issues, such as the alternator failure and dashboard cracking, are less common but can still be frustrating. Overall, the severity and cost of these issues should be carefully considered when purchasing a used FJ Cruiser.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

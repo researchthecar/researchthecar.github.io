@@ -84,3 +84,15 @@ People like the Outback for its spacious interior, comfortable seats, and good f
 ### Summary
 
 The 2015 Subaru Outback has a number of reported issues, including engine oil consumption, head gasket failure, CVT hesitation and shuddering, premature CVT failure, rear suspension noise, battery drain, electrical system failure, windshield wiper motor failure, dashboard rattle, and navigation system issues. The severity of these issues varies, with some being relatively minor and inexpensive to fix, while others can be major and expensive. Overall, the Outback has a good reliability rating, but potential buyers should be aware of these potential issues before purchasing a vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

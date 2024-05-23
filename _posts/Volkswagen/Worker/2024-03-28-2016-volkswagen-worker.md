@@ -39,6 +39,19 @@ The 2016 Volkswagen Worker is a compact pickup truck that is available with a 2.
     * Solution: Rebuild or replace the transmission.
     * Estimated Cost to Fix: $2,000 - $4,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Squeak**
@@ -86,3 +99,15 @@ The 2016 Volkswagen Worker is a compact pickup truck that is available with a 2.
 **Summary**
 
 The 2016 Volkswagen Worker is a rugged and affordable pickup truck, but it is not without its issues. The most common problems reported by owners include premature timing chain failure, carbon buildup on intake valves, and shift hesitation in the automatic transmission. Suspension squeaks, electrical drains, and leaks are also common. While some of these issues are relatively minor, others can be costly to repair. Overall, the severity and cost of the reported problems are moderate.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

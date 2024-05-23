@@ -52,6 +52,19 @@ The 2008 Pontiac Montana is a minivan offered with two engine options: a 3.5L V6
     * Estimated Cost to Fix: $1,000 - $1,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure:**
@@ -102,3 +115,15 @@ The 2008 Pontiac Montana is a minivan offered with two engine options: a 3.5L V6
 **Summary**
 
 The 2008 Pontiac Montana is known for its spacious interior and comfortable ride, but it has many reliability issues. The engine and transmission are particularly problematic, with issues ranging from intake manifold gasket failure to excessive oil consumption. The suspension, electrical, exterior, and interior also have a number of potential problems. The severity and cost of these issues can vary widely, so it's important to have the vehicle inspected by a qualified mechanic before purchasing it.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

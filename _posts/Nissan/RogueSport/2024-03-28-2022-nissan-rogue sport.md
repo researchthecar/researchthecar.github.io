@@ -84,3 +84,15 @@ While the Rogue Sport has received praise for its comfort and practicality, it h
 ### Summary
 
 While the 2022 Nissan Rogue Sport offers a comfortable and practical ride, it has faced some reliability issues, including excessive oil consumption, transmission problems, and battery drain. These issues can be costly to fix, ranging from a few hundred dollars to several thousand dollars. However, many of these issues can be addressed through recalls or software updates, mitigating some of the expenses for owners.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

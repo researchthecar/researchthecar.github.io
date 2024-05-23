@@ -33,6 +33,19 @@ The 2017 Mercedes-Benz Torino is a mid-size SUV that offers a luxurious blend of
         * Estimated Cost to Fix: $500 - $1,500
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension**
@@ -72,3 +85,15 @@ The 2017 Mercedes-Benz Torino is a mid-size SUV that offers a luxurious blend of
 **Summary**
 
 While the 2017 Mercedes-Benz Torino generally receives positive reviews for its performance, comfort, and features, some owners have faced specific issues. The severity and cost of these issues vary, with some being relatively minor and affordable to fix while others can be more significant and expensive. It is important to note that not all Torinos will experience these problems, and the overall reliability and satisfaction with the vehicle remain positive.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

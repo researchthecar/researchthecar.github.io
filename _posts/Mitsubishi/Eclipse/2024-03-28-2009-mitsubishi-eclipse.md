@@ -55,6 +55,19 @@ The 2009 Mitsubishi Eclipse is a sporty coupe that was offered with three differ
         - Solution: Replace CVT belt
         - Estimated Cost to Fix: $1,500 - $2,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **No Issues Found**
 
@@ -87,3 +100,15 @@ The 2009 Mitsubishi Eclipse is a sporty coupe that was offered with three differ
 **Summary**
 
 The 2009 Mitsubishi Eclipse has several potential issues that can range in severity and cost. Engine problems can be particularly costly to repair, especially for the turbocharged 2.0L inline-4 engine. Transmission issues can also be expensive, with CVT failures being the most common. Electrical problems and interior issues are generally less severe and less expensive to fix. Overall, potential buyers should be aware of these issues and factor in the potential cost of repairs when considering purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

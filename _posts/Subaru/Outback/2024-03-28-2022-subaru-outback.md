@@ -29,6 +29,19 @@ Owners appreciate the Outback's versatile design, excellent fuel economy, and co
 * **Premature wear:** Rough shifting, shuddering, slipping. Solution: CVT replacement. Estimated Cost to Fix: $5000 - $8000
 * **Software issues:** Hesitation, delayed response, shuddering. Solution: Software update. Estimated Cost to Fix: Free
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** Abnormal noises, reduced handling, poor ride quality. Solution: Strut replacement. Estimated Cost to Fix: $500 - $1000
@@ -51,3 +64,15 @@ Owners appreciate the Outback's versatile design, excellent fuel economy, and co
 **Summary**
 
 Overall, the 2022 Subaru Outback has received generally positive reviews. However, owners have reported a range of issues, including engine problems, transmission issues, and electrical glitches. The severity and cost of these issues vary, with some being relatively minor and others requiring significant repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

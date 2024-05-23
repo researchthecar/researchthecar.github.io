@@ -38,6 +38,19 @@ The 2014 Suzuki Grand Vitara is a compact SUV that offers rugged off-road capabi
         * Estimated Cost to Fix: $600 - $1,500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arm Bushings Failure:**
@@ -93,3 +106,15 @@ The 2014 Suzuki Grand Vitara is a compact SUV that offers rugged off-road capabi
 **Summary:**
 
 Overall, the 2014 Suzuki Grand Vitara has had a mixed history of reliability. Some owners have reported significant engine and transmission issues, while others have had relatively few problems. The cost of repairs can vary depending on the severity of the issue and the location of the repair. It is important to regularly maintain the vehicle and address any potential issues as they arise to ensure its longevity.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

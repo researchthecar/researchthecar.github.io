@@ -71,6 +71,19 @@ The Boxster was available with two transmission options: a 5-speed manual and a 
     * Solution: Replace the transmission pan gasket or seal.
     * Estimated Cost to Fix: $200 - $500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Trailing Arm Bushings**
@@ -134,3 +147,15 @@ The Boxster was available with two transmission options: a 5-speed manual and a 
 **Summary**
 
 The 1997 Porsche Boxster is a fun and rewarding car to drive, but it is not without its problems. The engine is prone to several serious issues, including IMS bearing failure and cylinder head stud failure. The transmission can also be problematic, with common issues including difficult shifting and torque converter failure. The suspension, electrical system, exterior, and interior also have their share of issues, although they are generally less severe and less expensive to fix. Overall, the 1997 Porsche Boxster is a car that should be purchased with caution and only by those who are willing to spend a significant amount of money on maintenance and repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

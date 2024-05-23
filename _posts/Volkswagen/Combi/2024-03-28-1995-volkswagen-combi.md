@@ -26,6 +26,19 @@ The 1995 Volkswagen Combi is a versatile vehicle offered with multiple engine an
     - **Clutch Failure:** Difficulty shifting gears, slipping. Replace the clutch. $500 - $800+
     - **Transmission Mount Failure:** Excessive vibration during acceleration or braking. Replace the failed mount. $200 - $300+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Leaking Shock Absorbers:** Worn or damaged shock absorbers. Replace the shocks. $400 - $600+
 - **Worn Control Arm Bushings:** Clunking or rattling sounds from the suspension. Replace the bushings. $200 - $400+
@@ -48,3 +61,15 @@ The 1995 Volkswagen Combi is a versatile vehicle offered with multiple engine an
 **Summary:**
 
 The 1995 Volkswagen Combi offers a variety of engine and transmission options. While it is a practical and capable vehicle, it is not without its issues. The recurring issues with the engine and transmission can be expensive to fix. The suspension and electrical components may also require attention over time. The interior can develop some annoying issues, while the exterior is prone to rust. Overall, the severity and cost of the potential problems should be considered when contemplating ownership of this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

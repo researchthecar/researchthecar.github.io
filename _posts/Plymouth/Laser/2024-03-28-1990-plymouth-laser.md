@@ -33,6 +33,19 @@ The 1990 Plymouth Laser was a sporty coupe that offered a range of engine and tr
 - **Transmission Fluid Leak:** Symptoms include fluid spots under the vehicle and slipping or delayed shifting. Solution: Repair or replace the leaking component. Estimated Cost to Fix: $150 - $600+
 - **Transmission Failure:** Symptoms include no forward or reverse gears, slipping gears, and grinding noises. Solution: Rebuild or replace the transmission. Estimated Cost to Fix: $1,500 - $3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Strut Wear:** Symptoms include a rough ride, difficulty controlling the vehicle, and uneven tire wear. Solution: Replace the struts. Estimated Cost to Fix: $500 - $1,000+
@@ -63,3 +76,15 @@ The 1990 Plymouth Laser was a sporty coupe that offered a range of engine and tr
 **Summary**
 
 The 1990 Plymouth Laser has some common issues that can be costly to repair, such as head gasket failure and transmission failure. However, many of the other issues are relatively minor and inexpensive to fix. Overall, the Laser is a reliable and affordable vehicle with a sporty design and handling.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

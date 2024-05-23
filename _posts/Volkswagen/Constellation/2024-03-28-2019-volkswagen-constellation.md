@@ -28,6 +28,19 @@ The 2019 Volkswagen Constellation is a heavy-duty truck available with various e
 **12-Speed Eaton Fuller Automated Manual Transmission**
 - **Shifting Problems:** Some vehicles may encounter difficulty shifting gears or may get stuck in a specific gear. **Solution:** Diagnosing and repairing the transmission issue, which could involve replacing worn parts or reprogramming the TCM. **Estimated Cost to Fix:** $1,000 - $3,000+. **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Rear Axle Seal Failure:** Some Constellations may experience failure of the rear axle seals, leading to oil leaks that can affect braking performance. **Solution:** Replacing the axle seals. **Estimated Cost to Fix:** $500 - $1,200+. **Recalls:** None Found
@@ -51,3 +64,15 @@ The 2019 Volkswagen Constellation is a heavy-duty truck available with various e
 **Summary**
 
 While the 2019 Volkswagen Constellation is known for its durability and reliability, it does have some reported issues that owners should be aware of before purchasing. The severity and cost of these issues vary, but some, such as engine leaks or transmission problems, can be costly to repair. It's important for potential owners to consider these issues and weigh them against the vehicle's overall capabilities and reputation before making a decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

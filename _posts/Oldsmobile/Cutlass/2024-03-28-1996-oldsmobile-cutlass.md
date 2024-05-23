@@ -52,6 +52,19 @@ Owners of the 1996 Oldsmobile Cutlass generally appreciate its spacious interior
         * Estimated Cost to Fix: $500 - $1,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushings**
@@ -97,3 +110,15 @@ Owners of the 1996 Oldsmobile Cutlass generally appreciate its spacious interior
 **Summary**
 
 Overall, the 1996 Oldsmobile Cutlass is a reliable and affordable mid-size sedan. However, like any vehicle, it has its share of potential issues. The most severe and expensive issues to look out for include timing chain failure on the 3.4L V6 and transmission slippage on the 4-speed automatic. Regular maintenance and timely repairs can help to extend the lifespan of the vehicle and mitigate the potential cost of major repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

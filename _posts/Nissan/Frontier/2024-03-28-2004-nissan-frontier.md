@@ -51,6 +51,19 @@ The Frontier is known for its rugged design, off-road capabilities, and spacious
 - **Valve Body Failure:** The valve body may malfunction, leading to erratic shifting and transmission slipping. Symptoms include difficulty shifting gears, delayed gear shifts, and a check engine light. Solution: Replacing the valve body is the most common solution. Estimated Cost to Fix: $500 - $1,200
 - **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Front Suspension Noise:** The front suspension may develop excessive noise, such as clunking or creaking. Symptoms include noise over bumps and uneven surfaces. Solution: Replacing worn or damaged suspension components, such as lower control arms or struts, is necessary. Estimated Cost to Fix: $500 - $1,000
@@ -77,3 +90,15 @@ The Frontier is known for its rugged design, off-road capabilities, and spacious
 **Summary:**
 
 The 2004 Nissan Frontier has some reported issues, but overall, it is a reliable vehicle. The most common issues include oil consumption and valve seal failure in the 2.5L engine, transmission noise and failure in both manual and automatic transmissions, and suspension noise and sagging. The severity of the issues varies, and the cost of repairs can range from relatively minor to substantial. Therefore, it is important to factor these potential issues into consideration when purchasing or maintaining a 2004 Nissan Frontier.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

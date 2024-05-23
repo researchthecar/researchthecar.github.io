@@ -36,6 +36,19 @@ The 2009 Suzuki Grand Vitara is a compact SUV that offers both on- and off-road 
 **Six-Speed Automatic Transmission**
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Rear Axle Seals:** The rear axle seals may fail, causing oil leaks from the differential.
 * **Solution:** Replace the rear axle seals.
@@ -60,3 +73,15 @@ The 2009 Suzuki Grand Vitara is a compact SUV that offers both on- and off-road 
 
 **Summary:**
 The 2009 Suzuki Grand Vitara generally has a good reputation for reliability and durability. However, it does have some potential issues to be aware of, particularly with the engine, transmission, and electrical components. The cost to fix these issues can vary depending on the severity of the issue and the location of the repair. Overall, it is recommended to have the vehicle inspected by a qualified mechanic before purchasing to assess any potential problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

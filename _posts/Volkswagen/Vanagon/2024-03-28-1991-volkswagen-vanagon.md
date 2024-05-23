@@ -31,6 +31,19 @@ Owners of the 1991 Vanagon praised its reliability, fuel efficiency, and off-roa
 - **Clutch failure:** Symptoms include difficulty shifting gears, slipping clutch, and grinding noises. Solution: Replace the clutch. Estimated Cost to Fix: $500 - $1,000+
 - **Transmission noise:** Symptoms include whining, grinding, or humming noises from the transmission. Solution: Inspect and repair the affected components. Estimated Cost to Fix: $300 - $800+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Worn ball joints:** Symptoms include clunking or rattling noises when turning or going over bumps. Solution: Replace the ball joints. Estimated Cost to Fix: $200 - $400+
@@ -54,3 +67,15 @@ Owners of the 1991 Vanagon praised its reliability, fuel efficiency, and off-roa
 **Summary:**
 
 The 1991 Volkswagen Vanagon is a reliable and versatile vehicle, but it is not without its issues. The most common problems include head gasket failure, oil leaks, transmission issues, suspension wear, and electrical problems. While the cost of repairs can be significant, the vehicle's durability and solid platform make it a worthwhile investment for those seeking a sturdy and functional minivan.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

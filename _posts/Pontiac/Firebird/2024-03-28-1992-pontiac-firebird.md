@@ -44,6 +44,19 @@ The 1992 Pontiac Firebird was a popular muscle car that offered several engine a
         * Solution: Replace the synchronizers
         * Estimated Cost to Fix: $300 - $600+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Struts/Shock Absorbers**
@@ -97,3 +110,15 @@ The 1992 Pontiac Firebird was a popular muscle car that offered several engine a
 **Summary**
 
 The 1992 Pontiac Firebird is a classic muscle car with a number of appealing features. However, like any vehicle, it has its share of issues that potential buyers should be aware of. The severity and cost of these issues vary, but some of the more common problems include engine gasket failures, transmission issues, and suspension wear. It's important to have any potential purchase inspected by a qualified mechanic to assess its condition and identify any potential problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

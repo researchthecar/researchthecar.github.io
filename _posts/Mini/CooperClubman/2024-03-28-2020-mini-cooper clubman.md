@@ -57,6 +57,19 @@ The 2020 Mini Cooper Clubman is a compact luxury wagon that offers a unique blen
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Shock Absorber Failure:** Premature failure of the rear shock absorbers, resulting in a rough ride and reduced handling.
@@ -104,3 +117,15 @@ The 2020 Mini Cooper Clubman is a compact luxury wagon that offers a unique blen
 **Summary:**
 
 While the 2020 Mini Cooper Clubman offers a satisfying driving experience and unique style, it is not without its issues. Engine problems can be costly, such as oil consumption and timing chain tensioner failure. Transmission concerns, while less common, can also lead to significant expenses. Suspension issues and electrical malfunctions can impact comfort and convenience. Interior issues, though not as severe, can be annoying and detract from the overall ownership experience. Potential buyers should be aware of these issues and factor them into their purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

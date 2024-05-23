@@ -32,6 +32,19 @@ The 1991 Volkswagen Passat is a mid-size sedan that was available with a variety
         * Estimated Cost to Fix: $2,000 - $5,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * Worn suspension components: May include worn shock absorbers, springs, or bushings, leading to poor handling and stability.
@@ -60,3 +73,15 @@ The 1991 Volkswagen Passat is a mid-size sedan that was available with a variety
 **Summary**
 
 Overall, the 1991 Volkswagen Passat has a mixed reputation for reliability. While some owners have experienced serious issues, such as transmission problems and oil consumption, others have found the Passat to be a reliable and durable vehicle. Potential buyers should be aware of the potential issues and factor the cost of repairs into their decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

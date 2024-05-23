@@ -70,6 +70,19 @@ The 1999 Volkswagen Jetta is a compact sedan offered with two engine and transmi
     * Estimated Cost to Fix: $1,200 - $2,500+
     * Recalls: 04V417000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure**
@@ -130,3 +143,15 @@ The 1999 Volkswagen Jetta is a compact sedan offered with two engine and transmi
 **Summary**
 
 The 1999 Volkswagen Jetta has a range of issues, particularly with its engine and transmission. The estimated cost to repair these issues can be significant, ranging from hundreds to thousands of dollars. While it is generally a reliable car, potential buyers should be aware of the potential expenses associated with owning and maintaining one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

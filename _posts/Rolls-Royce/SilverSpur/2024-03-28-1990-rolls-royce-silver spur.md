@@ -40,6 +40,19 @@ The 1990 Rolls-Royce Silver Spur was a luxurious sedan powered by a 6.75-liter V
     * Solution: Replace leaking seals
     * Estimated Cost to Fix: $500 - $1000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Failure:** The air suspension system can fail, resulting in uneven ride height and reduced driving stability.
@@ -87,3 +100,15 @@ The 1990 Rolls-Royce Silver Spur was a luxurious sedan powered by a 6.75-liter V
 **Summary:**
 
 The 1990 Rolls-Royce Silver Spur is a classic luxury vehicle with a number of common issues. While the issues can be costly to repair, they are relatively minor and do not significantly affect the overall driving experience or reliability of the vehicle. However, potential buyers should be aware of these issues and factor in the potential costs of repairs when considering purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

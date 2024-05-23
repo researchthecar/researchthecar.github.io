@@ -41,6 +41,19 @@ The 2009 Volkswagen Derby is a compact sedan known for its fuel efficiency and s
     * Estimated Cost to Fix: $150 - $300
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Axle Bushing Failure:**
@@ -77,3 +90,15 @@ The 2009 Volkswagen Derby is a compact sedan known for its fuel efficiency and s
 **Summary:**
 
 Overall, the 2009 Volkswagen Derby has received mixed reviews. While it offers good fuel economy and a spacious interior, some owners have reported issues with timing chain rattle, transmission shift delays, and electrical problems. The severity of the issues varies, and the cost of repairs can range from minor to expensive. Potential buyers should consider carefully the potential maintenance costs before purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

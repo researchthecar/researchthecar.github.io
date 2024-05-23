@@ -45,6 +45,19 @@ The Golf R is praised for its impressive performance, sharp handling, and comfor
     * Solution: Replacing the mechatronic control unit.
     * Estimated Cost to Fix: $2,000 - $2,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -77,3 +90,15 @@ The Golf R is praised for its impressive performance, sharp handling, and comfor
 **Summary**
 
 The 2016 Volkswagen Golf R is a sporty and capable car, but it has a history of reliability issues. Engine problems, transmission failures, electrical glitches, sunroof leaks, and interior issues have all been reported by owners. The severity and cost of these issues can vary widely, so it's important to do your research before purchasing a Golf R.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

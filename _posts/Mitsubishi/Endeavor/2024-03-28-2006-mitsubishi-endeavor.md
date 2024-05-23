@@ -40,6 +40,19 @@ The 2006 Mitsubishi Endeavor is a mid-size SUV powered by a 3.8L V6 engine rated
 
     * No Issues Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arms:** Premature wear or failure of the front lower control arms, leading to misalignment and handling problems.
@@ -80,3 +93,15 @@ The 2006 Mitsubishi Endeavor is a mid-size SUV powered by a 3.8L V6 engine rated
 **Summary**
 
 The 2006 Mitsubishi Endeavor has a moderate to high severity of issues, with significant potential repair costs. While it has several strengths, such as its spacious interior and powerful engine, buyers should be aware of the potential reliability problems before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

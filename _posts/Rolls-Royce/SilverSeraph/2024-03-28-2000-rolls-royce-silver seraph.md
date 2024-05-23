@@ -32,6 +32,19 @@ The 2000 Rolls-Royce Silver Seraph is a luxurious sedan that is powered by a 5.4
         * Estimated Cost to Fix: $1,500 - $2,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -73,3 +86,15 @@ The 2000 Rolls-Royce Silver Seraph is a luxurious sedan that is powered by a 5.4
 **Summary:**
 
 The 2000 Rolls-Royce Silver Seraph is a luxurious and sophisticated vehicle, but it is not without its issues. The most significant problems are related to the engine, transmission, and electrical systems. While some of these issues may be minor, others can be quite costly to repair. It is important to factor in the potential for repairs when considering the purchase of a used Silver Seraph.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

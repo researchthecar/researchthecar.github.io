@@ -25,6 +25,19 @@ The 2005 Pontiac Montana is a popular minivan that offers a spacious interior, c
     * **Slipping:** The transmission may slip or hesitate during gear changes, causing rough or delayed shifts. The issue can be fixed by replacing the torque converter or transmission clutch pack. Estimated cost to fix: $1,000 - $2,000.
     * **Solenoid Issues:** Transmission solenoids can fail, resulting in erratic shifting, delayed engagement, or a lack of response. The solenoids should be replaced to restore proper transmission function. Estimated cost to fix: $200 - $500.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Strut/Shock Failure:** The struts or shocks may fail, leading to reduced ride quality, handling problems, and uneven tire wear. The struts or shocks should be replaced in pairs. Estimated cost to fix: $500 - $800.
@@ -47,3 +60,15 @@ The 2005 Pontiac Montana is a popular minivan that offers a spacious interior, c
 **Summary:**
 
 The 2005 Pontiac Montana has some common issues that affect different components, including the engine, transmission, suspension, electrical system, exterior, and interior. The severity and cost of these issues can vary depending on the specific problem and the required repair. Overall, the Montana is a reliable minivan, but it is important to be aware of the potential issues that have been reported.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

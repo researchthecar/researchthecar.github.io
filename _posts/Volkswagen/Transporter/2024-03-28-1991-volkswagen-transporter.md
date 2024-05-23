@@ -58,6 +58,19 @@ The 1991 Volkswagen Transporter, also known as the T3, is a versatile commercial
     * **Estimated Cost to Fix:** $400 - $700
     * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf Spring Wear:** The leaf springs in the suspension can wear out over time, leading to a rough ride and reduced handling.
@@ -109,3 +122,15 @@ The 1991 Volkswagen Transporter, also known as the T3, is a versatile commercial
 **Summary**
 
 Overall, the 1991 Volkswagen Transporter is a reliable and versatile vehicle, but it is not immune to the occasional issue. Common problems include engine fuel pump failure, clogged injector nozzles, and suspension wear. The severity and cost of these issues vary depending on the specific part and required repairs. Regular maintenance and preventative care can help extend the life of the Transporter and minimize the incidence of major issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

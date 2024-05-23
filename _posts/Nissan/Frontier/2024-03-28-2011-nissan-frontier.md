@@ -41,6 +41,19 @@ Solution: Rebuild or replacement of the transmission
 Estimated Cost to Fix: $2000 - $3500+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -72,3 +85,15 @@ Recalls: None Found
 **Summary**
 
 The 2011 Nissan Frontier has some notable issues, particularly with the 4.0L V6 engine and 5-speed automatic transmission. The oil consumption and timing chain tensioner failure issues can be potentially costly repairs. The battery drain and HVAC malfunction are other electrical and interior issues that need attention. Additionally, the rusty frame issue is a major safety concern that can require extensive and expensive repairs. While the Frontier is a competent off-roader, these issues should be taken into consideration when making a purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

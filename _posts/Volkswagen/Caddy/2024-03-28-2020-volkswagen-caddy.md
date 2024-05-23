@@ -43,6 +43,19 @@ The 2020 Volkswagen Caddy is a popular commercial van praised for its practicali
     - Estimated Cost to Fix: $1,200 - $1,800+
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Rear Spring Sag:**
@@ -90,3 +103,15 @@ The 2020 Volkswagen Caddy is a popular commercial van praised for its practicali
 **Summary**
 
 The 2020 Volkswagen Caddy has some reported issues that can be costly to fix, such as turbocharger failure and timing chain tensioner failure. However, many of the issues are minor and relatively inexpensive to resolve. Overall, the Caddy seems to be a reliable vehicle with a good safety record.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

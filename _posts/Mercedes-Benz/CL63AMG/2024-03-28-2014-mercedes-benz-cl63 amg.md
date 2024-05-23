@@ -25,6 +25,19 @@ The 2014 Mercedes-Benz CL63 AMG is a high-performance grand tourer powered by a 
   * Estimated Cost to Fix: Free under warranty
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Malfunction**
@@ -84,3 +97,15 @@ The 2014 Mercedes-Benz CL63 AMG is a high-performance grand tourer powered by a 
 **Summary**
 
 Overall, the 2014 Mercedes-Benz CL63 AMG is a highly capable vehicle, but it is not without its issues. The most common problems reported by owners are related to the engine, transmission, and suspension. These issues can be costly to fix, so it's important to factor in potential repair costs when considering purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

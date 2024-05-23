@@ -41,6 +41,19 @@ The 2010 Porsche Cayman is a compact sports car that provides drivers with an ex
     * Estimated Cost to Fix: $5,000 - $7,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Arm Bushing Premature Wear:**
@@ -72,3 +85,15 @@ The 2010 Porsche Cayman is a compact sports car that provides drivers with an ex
 **Summary**
 
 The 2010 Porsche Cayman is a fun-to-drive sports car with impressive performance and handling. However, it does have some potential issues that buyers should be aware of. The most severe and expensive issue is the mechatronic unit failure on the PDK transmission. Other issues, such as the intermediate shaft bearing failure on the 2.9-liter engine and the dashboard trim panel adhesive failure, are less severe but still require repair. Overall, the Cayman is a reliable sports car, but buyers should factor in the potential costs associated with these issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

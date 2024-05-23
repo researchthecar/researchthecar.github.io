@@ -37,6 +37,19 @@ The 1990 Pontiac Trans Sport was a minivan offered with a single engine and tran
   * Estimated Cost to Fix: $1,500 - $2,500+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mounts failure**
@@ -87,3 +100,15 @@ The 1990 Pontiac Trans Sport was a minivan offered with a single engine and tran
 **Summary**
 
 The 1990 Pontiac Trans Sport had several reliability issues, particularly with its engine, transmission, and suspension components. The severity and cost of these issues could vary widely depending on the specific issue and the extent of the damage. However, many of the issues can be addressed with timely repairs, ensuring a more reliable driving experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

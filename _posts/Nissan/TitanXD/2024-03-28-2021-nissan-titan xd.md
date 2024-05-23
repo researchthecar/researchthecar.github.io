@@ -31,6 +31,19 @@ The 2021 Nissan Titan XD is a heavy-duty pickup truck available with various eng
     * Estimated Cost to Fix: $2,000 - $5,000+
     * Recalls: NHTSA Campaign Number 22V036
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 **No Issues Found**
@@ -66,3 +79,15 @@ The 2021 Nissan Titan XD is a heavy-duty pickup truck available with various eng
 **Summary:**
 
 While the 2021 Nissan Titan XD is a capable truck, it has faced some significant issues that owners have experienced. Transmission problems, electrical issues, and interior glitches have been reported, with varying costs to repair. Some of the issues, such as transmission slipping, can be expensive and require extensive repairs. Potential buyers should consider these issues and consult with mechanics and other sources before purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

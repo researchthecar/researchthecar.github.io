@@ -22,6 +22,19 @@ The 2022 Mercedes-Benz CLA35 AMG is a compact luxury sedan powered by a potent 2
 
 * **Shifting Issues:** Inconsistent or delayed gear shifts, especially during low-speed driving. Solution: Software updates or replacement of transmission components. Estimated Cost to Fix: $1,000 - $2,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **No Issues Found**
@@ -43,3 +56,15 @@ The 2022 Mercedes-Benz CLA35 AMG is a compact luxury sedan powered by a potent 2
 **Overall Summary:**
 
 While the CLA35 AMG offers an engaging driving experience, it has experienced some reported issues primarily related to its engine, transmission, and electrical systems. The severity of the issues varies, but some, such as the turbocharger failure, can be costly to repair. It's important for owners to be aware of these potential problems and to consult with their authorized Mercedes-Benz dealer if they encounter any symptoms.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

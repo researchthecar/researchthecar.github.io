@@ -55,6 +55,19 @@ Solution: Replace leaking seals or gaskets. May also involve transmission fluid 
 Estimated Cost to Fix: $200 - $800+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Control Arm Bushings**
@@ -92,3 +105,15 @@ Recalls: None Found
 **Summary**
 
 The 2022 Mini Cooper Countryman is a fun and stylish crossover SUV, but it is not without its issues. The engine and transmission components can experience serious problems, such as engine knock, fuel pump failure, clutch failure, and transmission fluid leaks. The suspension and electrical systems may also have issues. However, the exterior and interior components are generally reliable. The severity of the issues varies, and the cost to fix them can range from minor to major.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

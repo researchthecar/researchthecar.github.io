@@ -30,6 +30,19 @@ The 2014 Mitsubishi ASX is a compact SUV that offers a comfortable ride, spaciou
 **6-Speed Automatic Transmission**
 * **Delayed Shifting:** The transmission may delay or hesitate when shifting gears. Updating the transmission software or replacing the transmission solenoids may resolve the issue. Estimated Cost to Fix: $300-$800+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front Suspension Strut Failure:** The front suspension struts can wear out prematurely, leading to a bumpy ride, excessive tire wear, and decreased handling. Replacing the struts is necessary. Estimated Cost to Fix: $600-$1,000+
 
@@ -52,3 +65,15 @@ The 2014 Mitsubishi ASX is a compact SUV that offers a comfortable ride, spaciou
 
 **Summary**
 While the 2014 Mitsubishi ASX offers good fuel efficiency, handling, and a spacious interior, it has been reported to have several issues, particularly with the engine, CVT transmission, and suspension. Some repairs can be costly, such as engine rebuilds or transmission replacements. Potential buyers should be aware of these potential issues and consider the cost of repairs when making a decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

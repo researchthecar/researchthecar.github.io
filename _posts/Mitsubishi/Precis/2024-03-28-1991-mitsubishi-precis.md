@@ -30,6 +30,19 @@ The 1991 Mitsubishi Precis was a subcompact car available in two trim levels: ba
     * **Shifting Problems:** Solenoids or sensors can fail, causing the transmission to shift erratically or not shift at all. Replace or repair the failed components. **$300 - $600+**
     * **Torque Converter Failure:** A faulty torque converter can cause shuddering or slipping during acceleration. Replace the torque converter. **$800 - $1,200+**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * No Issues Found
@@ -51,3 +64,15 @@ The 1991 Mitsubishi Precis was a subcompact car available in two trim levels: ba
 **Summary**
 
 The 1991 Mitsubishi Precis is known for being affordable and fuel-efficient, but it has some common issues that can be costly to repair. Engine issues can include oil leaks, timing belt failures, and head gasket failures. Transmission problems may occur, such as clutch slipping, transmission noise, and shifting issues. Electrical shorts and battery drain are also common. The Precis may experience fading plastic bumpers and issues with power windows and the dashboard. The severity and cost of the issues can vary depending on the specific problem and the age of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

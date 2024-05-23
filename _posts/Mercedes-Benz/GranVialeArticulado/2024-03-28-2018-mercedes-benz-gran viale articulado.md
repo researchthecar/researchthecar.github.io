@@ -46,6 +46,19 @@ The 2018 Mercedes-Benz Gran Viale Articulado is a sleek and spacious commercial 
     * Solution: Replace the torque converter
     * Estimated Cost to Fix: $3,000 - $5,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension System Malfunctions:**
@@ -89,3 +102,15 @@ The 2018 Mercedes-Benz Gran Viale Articulado is a sleek and spacious commercial 
 **Summary:**
 
 While the 2018 Mercedes-Benz Gran Viale Articulado is generally a reliable vehicle, it is not immune to some common issues. Engine and transmission problems can be expensive to repair, while suspension and electrical malfunctions can also be costly to address. Interior issues, while not as severe, can still be annoying to deal with. Overall, it is important to consider the potential costs associated with these issues before purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

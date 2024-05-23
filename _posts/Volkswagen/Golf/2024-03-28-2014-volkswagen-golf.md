@@ -51,6 +51,19 @@ The Golf is praised for its agile handling, comfortable interior, and impressive
     * Estimated Cost to Fix: $1,500 - $2,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear suspension springs snapping**
@@ -86,3 +99,15 @@ The Golf is praised for its agile handling, comfortable interior, and impressive
 **Summary**
 
 The 2014 Volkswagen Golf is a reliable and affordable compact car with good performance and fuel economy. However, it does have some potential issues that can be costly to repair. The most common issues include timing chain tensioner failure, carbon buildup on intake valves, transmission control module failure, and rear suspension springs snapping. While these issues can be a nuisance, they are not widespread and can be fixed by a qualified mechanic.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

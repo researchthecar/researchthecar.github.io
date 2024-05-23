@@ -51,6 +51,19 @@ The Grand Am was praised for its comfortable ride and spacious interior. However
         * Estimated Cost to Fix: $1,000 - $2,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -94,3 +107,15 @@ The Grand Am was praised for its comfortable ride and spacious interior. However
 The 1992 Pontiac Grand Am is a reliable vehicle, but it does have some common problems. The engine can suffer from blown head gaskets, cracked exhaust manifolds, and intake manifold gasket failures. The transmission can experience failed input shaft bearings and torque converter failures. The electrical system can have alternator and starter failures. The exterior can have fading headlights. The interior can have broken window regulators and faulty dashboard gauges.
 
 The severity of these issues varies. Some are minor and inexpensive to fix, while others can be more serious and costly. Overall, the Grand Am is a good value for its price, but potential buyers should be aware of its common problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

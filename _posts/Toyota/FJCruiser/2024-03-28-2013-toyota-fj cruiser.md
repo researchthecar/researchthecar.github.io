@@ -61,6 +61,19 @@ The 2013 Toyota FJ Cruiser is a mid-size SUV known for its rugged and off-road-r
    - Estimated Cost to Fix: $500 - $1,500+
    - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Front Suspension Noise**
@@ -111,3 +124,15 @@ The 2013 Toyota FJ Cruiser is a mid-size SUV known for its rugged and off-road-r
 **Summary**
 
 The 2013 Toyota FJ Cruiser has a range of common issues that owners should be aware of. While some issues, such as dashboard rattles and HVAC blower motor failures, are relatively minor and inexpensive to fix, others, such as exhaust manifold cracks and water pump failures, can be more severe and costly to repair. Overall, the FJ Cruiser's reliability is considered to be average, with many owners reporting positive experiences. However, potential buyers should be aware of the potential issues and factor them into their purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

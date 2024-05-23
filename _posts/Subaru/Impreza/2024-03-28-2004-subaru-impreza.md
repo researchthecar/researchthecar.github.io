@@ -35,6 +35,19 @@ The Impreza is known for its affordability, reliability, and all-wheel drive cap
 
 * **Slipping or Hesitation:** Slipping or hesitation during gear changes is a common issue with the 4-speed automatic transmission. Symptoms include a delayed response when shifting or a loss of power under acceleration. The solution is to replace the faulty transmission components, such as the torque converter or valve body. Estimated cost to fix: $1,500 - $3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure:** Strut failure can occur on the Impreza, leading to a bouncy or unstable ride. Symptoms include excessive noise from the suspension, uneven tire wear, and a decrease in handling. The solution is to replace the worn or damaged struts. Estimated cost to fix: $400 - $800+
@@ -54,3 +67,15 @@ The Impreza is known for its affordability, reliability, and all-wheel drive cap
 **Summary**
 
 The 2004 Subaru Impreza is a generally reliable car, but it does have some potential issues that owners should be aware of. Engine and transmission problems can be costly to repair, so it's important to have the vehicle inspected regularly and address any issues as soon as they arise. Rust and electrical problems are also potential concerns, but they can be minimized with proper maintenance and care. Overall, the Impreza is a solid choice for those seeking an affordable and reliable compact car.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

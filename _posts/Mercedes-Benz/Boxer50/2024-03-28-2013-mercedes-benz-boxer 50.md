@@ -22,6 +22,19 @@ The 2013 Mercedes-Benz Boxer 50 is a full-size luxury SUV that offers a powerful
 
     * **Shifting Delays:** Some drivers experience occasional delays when the transmission shifts gears. The issue is often resolved with a software update. Estimated Cost to Fix: Free
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -42,3 +55,15 @@ The 2013 Mercedes-Benz Boxer 50 is a full-size luxury SUV that offers a powerful
 **Summary**
 
 The 2013 Mercedes-Benz Boxer 50 is a generally reliable SUV with impressive performance and a comfortable interior. However, it has experienced some issues, primarily related to the engine, transmission, and electrical components. The severity of these issues varies, and the cost to fix can be significant.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -19,6 +19,19 @@ The 2012 Toyota Sequoia is a full-size SUV known for its spacious interior, powe
 - **6-speed Automatic Transmission:**
     - **Transmission slipping:** The transmission may slip gears or fail to engage properly. Symptoms include delayed or hesitant shifting, loss of power, and transmission shuddering. Solution: Transmission repair or replacement. Estimated cost: $2,000 - $4,000+. Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Rear leaf spring failure:** The rear leaf springs can fail, causing the rear of the vehicle to sag and affect handling. Symptoms include a sagging rear end, uneven tire wear, and rough ride quality. Solution: Leaf spring replacement. Estimated cost: $500 - $1,000 per leaf spring. Recalls: None Found
 
@@ -34,3 +47,15 @@ The 2012 Toyota Sequoia is a full-size SUV known for its spacious interior, powe
 
 **Summary:**
 The 2012 Toyota Sequoia has faced several issues related to its engine, transmission, and other components. The engine and transmission issues, such as timing belt failure and connecting rod bearing failure, can be severe and expensive to repair. The electrical and exterior issues are generally less serious but can still cause inconvenience. Overall, potential buyers should be aware of these issues and consider the potential costs of repairs before purchasing a used 2012 Sequoia.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

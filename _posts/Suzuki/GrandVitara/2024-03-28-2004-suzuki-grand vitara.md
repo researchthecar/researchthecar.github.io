@@ -49,6 +49,19 @@ Drivers appreciate the Grand Vitara's off-road abilities, spacious interior, and
     * Estimated Cost to Fix: $1,000 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Noise:**
@@ -102,3 +115,15 @@ Drivers appreciate the Grand Vitara's off-road abilities, spacious interior, and
 **Summary**
 
 Overall, the 2004 Suzuki Grand Vitara is a reliable and capable SUV, but it is not without its issues. Engine and transmission problems can be expensive to repair, while suspension and electrical issues are less severe and costly. Interior issues are relatively minor and can be addressed for a reasonable price.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

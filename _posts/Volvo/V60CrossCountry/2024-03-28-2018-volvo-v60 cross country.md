@@ -29,6 +29,19 @@ The 2018 Volvo V60 Cross Country is a compact luxury station wagon that combines
     * Estimated Cost to Fix: $300 - $5,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Failure:**
@@ -70,3 +83,15 @@ The 2018 Volvo V60 Cross Country is a compact luxury station wagon that combines
 **Summary**
 
 The 2018 Volvo V60 Cross Country is a well-rounded vehicle with a few notable issues. The engine and transmission problems can be severe and expensive to fix. However, the other issues are generally less serious and less costly to resolve. Overall, the V60 Cross Country offers a balance of luxury, comfort, and ruggedness but comes with potential issues that prospective buyers should be aware of before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

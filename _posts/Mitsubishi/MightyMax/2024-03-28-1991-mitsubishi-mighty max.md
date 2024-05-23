@@ -45,6 +45,19 @@ The 1991 Mitsubishi Mighty Max was a compact pickup truck available with a choic
 **3-speed Automatic**
 * **No issues found.**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Worn front lower ball joints:** Can cause clunking noises, uneven tire wear, and impaired handling.
   * Solution: Replace worn ball joints.
@@ -87,3 +100,15 @@ The 1991 Mitsubishi Mighty Max was a compact pickup truck available with a choic
 
 **Summary:**
 Overall, the 1991 Mitsubishi Mighty Max is a reliable and fuel-efficient pickup truck with some potential issues. The most severe and expensive to fix include blown head gaskets, transmission slippage, and crankshaft position sensor failure. However, many of the issues are relatively minor and inexpensive to address, and the Mighty Max remains a solid choice for those seeking an affordable and capable compact truck.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

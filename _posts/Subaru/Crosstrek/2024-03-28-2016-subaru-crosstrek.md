@@ -50,6 +50,19 @@ The 2016 Subaru Crosstrek is a compact SUV known for its off-road capabilities, 
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -86,3 +99,15 @@ The 2016 Subaru Crosstrek is a compact SUV known for its off-road capabilities, 
 **Summary**
 
 The 2016 Subaru Crosstrek has several issues, ranging from minor to severe. The engine problems, such as fuel starvation and oil consumption, are the most concerning and can be costly to repair. The transmission issues, while less severe, can affect driving performance. The other issues are mainly related to cosmetic or convenience features. Overall, the severity and cost of the reported issues should be considered before purchasing a used 2016 Crosstrek.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

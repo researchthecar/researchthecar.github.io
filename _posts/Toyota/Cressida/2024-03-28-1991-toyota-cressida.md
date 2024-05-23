@@ -57,6 +57,19 @@ The 1991 Toyota Cressida is a mid-size sedan known for its reliability, comfort,
     * Solution: Repair or replace transmission
     * Estimated Cost to Fix: $2,000 - $3,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure**
@@ -99,3 +112,15 @@ The 1991 Toyota Cressida is a mid-size sedan known for its reliability, comfort,
 
 **Summary**
 The 1991 Toyota Cressida is generally a reliable vehicle, but it is not without its potential issues. The most common problems include head gasket failure (2.0L engine), valve cover gasket leaks (3.0L engine), transmission slipping, and suspension strut failure. While these issues can be costly to repair, they are relatively infrequent and do not affect the overall reliability of the Cressida. Overall, the Cressida is a solid choice for those seeking a comfortable and reliable sedan with good performance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

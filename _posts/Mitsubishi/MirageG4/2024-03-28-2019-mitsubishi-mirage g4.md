@@ -37,6 +37,19 @@ The 2019 Mitsubishi Mirage G4 is a subcompact sedan renowned for its fuel effici
         * Estimated Cost to Fix: $3,000 - $5,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -74,3 +87,15 @@ The 2019 Mitsubishi Mirage G4 is a subcompact sedan renowned for its fuel effici
 **Summary**
 
 The 2019 Mitsubishi Mirage G4 generally has a good reliability record, with few major issues reported. However, certain engine and transmission problems can be costly to repair. The most severe issue is timing chain failure, which can lead to catastrophic engine damage. Other issues, such as battery drain, alternator failure, and climate control malfunction, are less severe but still require attention and repair. Overall, the Mirage G4's reliability is average, with some potential issues that should be considered before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

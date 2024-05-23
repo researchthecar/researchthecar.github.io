@@ -35,6 +35,19 @@ The 2010 Volkswagen Golf City is powered by a 2.5-liter five-cylinder producing 
         * Estimated Cost to Fix: $1,500 - $2,500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front Struts**
     * **Premature Wear**
@@ -87,3 +100,15 @@ The 2010 Volkswagen Golf City is powered by a 2.5-liter five-cylinder producing 
 
 **Summary**
 The 2010 Volkswagen Golf City has several common issues that can be costly to repair. The engine and transmission issues can lead to serious performance problems and breakdowns. Suspension and electrical problems can compromise ride quality and safety. Interior issues can be annoying and detract from the overall user experience. While the Golf City offers a blend of style and practicality, potential buyers should be aware of its potential reliability issues before making a decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -45,6 +45,19 @@ The 2009 Mitsubishi Outlander is a compact SUV that comes standard with a 2.4L i
 * **Estimated Cost to Fix:** $500 - $1,000+
 * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Struts/Shocks Wear:** Struts and shocks can wear out over time, leading to a rough ride and poor handling.
@@ -80,3 +93,15 @@ The 2009 Mitsubishi Outlander is a compact SUV that comes standard with a 2.4L i
 **Summary:**
 
 The 2009 Mitsubishi Outlander has some significant issues that can be costly to repair. The engine issues are particularly concerning, especially the piston ring problems on the V6 engine. The transmission issues can also be expensive to fix, particularly if the CVT needs to be replaced. The electrical issues and interior climate control issues are less severe but can still be annoying and costly to resolve. Overall, the 2009 Mitsubishi Outlander has some serious reliability problems that potential buyers should be aware of before purchasing the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

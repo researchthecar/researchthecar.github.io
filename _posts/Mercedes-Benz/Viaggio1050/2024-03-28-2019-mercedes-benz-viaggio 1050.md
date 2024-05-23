@@ -60,3 +60,15 @@ Recalls: None Found
 ### Summary
 
 The 2019 Mercedes-Benz Viaggio 1050 is a reliable and comfortable coach bus, but it has been reported to have some specific issues with the engine, transmission, and electrical system. These issues can range from minor to severe, and the cost to fix them can be significant. While some issues are covered under warranty, others may require expensive repairs. Potential buyers should be aware of these issues and factor them into their purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

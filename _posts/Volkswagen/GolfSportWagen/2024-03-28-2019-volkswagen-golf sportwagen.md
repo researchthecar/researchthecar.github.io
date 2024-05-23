@@ -41,6 +41,19 @@ Owners of the 2019 Volkswagen Golf SportWagen generally praise its spacious inte
         * Estimated Cost to Fix: $500 - $1,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Mount Failure**
@@ -81,3 +94,15 @@ Owners of the 2019 Volkswagen Golf SportWagen generally praise its spacious inte
 **Summary**
 
 The 2019 Volkswagen Golf SportWagen is a capable and versatile vehicle that offers a comfortable ride and plenty of space for passengers and cargo. However, some owners have reported issues with the vehicle's engine, transmission, suspension, electrical system, exterior, and interior. While some of these issues are relatively minor, others can be more serious and expensive to fix. Overall, the severity and cost of the issues found in the 2019 Volkswagen Golf SportWagen are comparable to those found in other vehicles in its class.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

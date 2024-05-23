@@ -48,6 +48,19 @@ The Frontier is praised for its off-road capabilities, towing capacity, and spac
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf Spring Breakage**
@@ -88,3 +101,15 @@ The Frontier is praised for its off-road capabilities, towing capacity, and spac
 **Summary**
 
 The 2010 Nissan Frontier is a capable workhorse with known issues that range from minor to severe. The engine and transmission issues are potentially costly, requiring major repairs or replacements. The electrical, suspension, exterior, and interior issues are typically less expensive to fix but can still impact the vehicle's overall reliability. Owners should be aware of these potential problems and budget accordingly for maintenance and repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

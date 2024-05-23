@@ -91,6 +91,19 @@ The Sedan was available with the following engine and transmission options:
   * Solution: Replace the torque converter.
   * Estimated Cost to Fix: $1000-$1500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut failure:** The front struts can wear out, causing the vehicle to bounce or handle poorly.
@@ -133,3 +146,15 @@ The Sedan was available with the following engine and transmission options:
 ### Summary
 
 Overall, the 1994 Volkswagen Sedan is a reliable and affordable vehicle. However, it is not without its problems. The most common issues include oil leaks, timing belt failure, intake manifold gasket failure, and suspension problems. The severity of these issues varies, and the cost to fix them can range from a few hundred dollars to over a thousand dollars.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

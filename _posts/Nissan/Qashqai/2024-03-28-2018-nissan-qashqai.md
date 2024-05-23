@@ -34,6 +34,19 @@ The 2018 Nissan Qashqai is a compact crossover SUV available with two engine opt
     * Estimated Cost to Fix: $100 - $1,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -62,3 +75,15 @@ The 2018 Nissan Qashqai is a compact crossover SUV available with two engine opt
 **Summary:**
 
 The 2018 Nissan Qashqai offers a comfortable and spacious driving experience, but it has received some complaints regarding engine, transmission, and electrical issues. The severity of these issues varies, with some being relatively minor and others potentially more expensive to fix. It is important for owners to be aware of these potential problems and to have their vehicles regularly inspected and serviced to address any issues as needed.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

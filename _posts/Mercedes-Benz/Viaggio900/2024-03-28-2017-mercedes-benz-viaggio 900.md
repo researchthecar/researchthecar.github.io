@@ -39,6 +39,19 @@ The 2017 Mercedes-Benz Viaggio 900 is a luxury coach bus known for its spacious 
         * Estimated Cost to Fix: $2,500 - $4,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Compressor Failure:**
@@ -85,3 +98,15 @@ The 2017 Mercedes-Benz Viaggio 900 is a luxury coach bus known for its spacious 
 **Summary**
 
 While the Mercedes-Benz Viaggio 900 offers impressive features and capabilities, it has faced some reliability concerns that can impact its performance and safety. Engine and transmission issues, such as EGR valve failure and shift solenoid problems, can be costly to repair. Suspension and electrical issues can also affect the vehicle's handling and comfort. Additionally, interior and exterior components have experienced issues, including infotainment system bugs and side mirror motor failures. The severity and cost of these issues vary, but they can be a source of frustration for owners of this luxury coach bus.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

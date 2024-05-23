@@ -44,6 +44,19 @@ The 2012 Mercedes-Benz Multego is a midsize luxury SUV available with a variety 
   - Solution: Replace the torque converter.
   - Estimated Cost to Fix: $2,000 - $3,000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -79,3 +92,15 @@ The 2012 Mercedes-Benz Multego is a midsize luxury SUV available with a variety 
 **Summary:**
 
 The 2012 Mercedes-Benz Multego has some common issues that owners should be aware of, including valve cover leaks, intake manifold failures, transmission problems, suspension issues, electrical gremlins, and sunroof problems. The severity and cost of these issues vary, but most can be repaired for a moderate to high cost. Overall, the Multego is a well-built vehicle, but it is important to consider these potential issues when making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

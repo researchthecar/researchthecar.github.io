@@ -34,6 +34,19 @@ The 2014 Nissan Frontier is a midsize pickup truck that combines rugged capabili
 
 * **Clutch Master Cylinder Failure:** Description/Symptoms: Difficulty shifting gears, clutch pedal stuck to floor. Solution: Replace clutch master cylinder. Estimated Cost to Fix: $200 - $400
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Sway Bar End Link Failure:** Description/Symptoms: Clunking or popping noise from front suspension, especially on turns. Solution: Replace sway bar end links. Estimated Cost to Fix: $100 - $200
@@ -57,3 +70,15 @@ The 2014 Nissan Frontier is a midsize pickup truck that combines rugged capabili
 **Overall Summary**
 
 While the 2014 Nissan Frontier is a capable and practical vehicle, it is not without its issues. The most significant problems seem to be concentrated around the engine, transmission, and electrical systems. However, many of these issues are relatively minor and can be repaired at a reasonable cost. It is important to consider the potential for repairs before purchasing any used vehicle, but the Frontier should not be ruled out based solely on its issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

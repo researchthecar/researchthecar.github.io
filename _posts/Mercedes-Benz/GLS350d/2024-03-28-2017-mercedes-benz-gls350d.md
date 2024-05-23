@@ -25,6 +25,19 @@ The 2017 Mercedes-Benz GLS350d is a luxury SUV powered by a 3.0-liter turbodiese
     * Estimated Cost to Fix: $500 - $2,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Compressor Failure**
@@ -72,3 +85,15 @@ The 2017 Mercedes-Benz GLS350d is a luxury SUV powered by a 3.0-liter turbodiese
 **Summary**
 
 While the GLS350d is a luxurious and capable SUV, it has experienced several issues, particularly with its engine, transmission, and electrical systems. The severity of these issues varies, but some can be costly to repair. Owners should be aware of these potential problems and ensure regular maintenance to minimize the risk of encountering them.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

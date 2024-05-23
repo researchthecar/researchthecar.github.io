@@ -26,6 +26,19 @@ The 2020 Volkswagen Virtus is a compact sedan that offers a combination of style
 
 * **Transmission Hesitation:** Some owners have encountered hesitation or delayed shifts from the automatic transmission. The issue is often caused by a faulty transmission control module or solenoid. Reprogramming the transmission control module or replacing the solenoid typically resolves the hesitation. Estimated Cost to Fix: $400 - $800+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Clunking:** A small number of owners have reported a clunking noise from the front suspension, especially over bumps or uneven road surfaces. The issue is usually caused by worn or damaged front strut mounts. Replacing the strut mounts solves the problem. Estimated Cost to Fix: $300 - $500+
@@ -47,3 +60,15 @@ The 2020 Volkswagen Virtus is a compact sedan that offers a combination of style
 **Summary:**
 
 Overall, the 2020 Volkswagen Virtus is a reliable and relatively issue-free vehicle. However, the reported issues, such as oil leaks, transmission hesitation, and electrical problems, could affect the driving experience or require costly repairs. Potential buyers should carefully consider these issues before making a purchase decision to avoid any potential inconveniences or expenses. The severity and cost of the issues vary, with some being minor and inexpensive to fix, while others can be more significant and require more extensive repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

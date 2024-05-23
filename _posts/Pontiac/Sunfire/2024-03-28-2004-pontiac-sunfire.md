@@ -63,6 +63,19 @@ The Sunfire was praised for its sporty handling and comfortable interior. Howeve
     * Estimated Cost to Fix: $1,500 - $2,500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure**
@@ -98,3 +111,15 @@ The Sunfire was praised for its sporty handling and comfortable interior. Howeve
 **Summary**
 
 The 2004 Pontiac Sunfire is a compact car with a number of potential issues. The most serious and expensive issue is the 2.4L Ecotec I4 oil consumption problem, which can lead to engine failure. Other common issues include intake manifold gasket failure, timing chain failure, and transmission slipping. The Sunfire also has a tendency to rust and the dashboard can crack. Overall, the Sunfire is not a particularly reliable car and can be expensive to maintain.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

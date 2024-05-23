@@ -44,6 +44,19 @@ The 2002 Toyota MR2 Spyder is a mid-engine, two-seater sports car known for its 
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front and Rear Suspension:**
@@ -107,3 +120,15 @@ The 2002 Toyota MR2 Spyder is a mid-engine, two-seater sports car known for its 
 **Summary:**
 
 Overall, the 2002 Toyota MR2 Spyder has a few notable issues that potential buyers should consider before purchasing. While the engine and transmission are generally reliable, issues such as oil consumption, valve cover gasket leaks, and timing chain tensioner failure can be costly to repair. Suspension and electrical issues are also common and can impact both performance and safety. Exterior and interior problems are generally minor but should still be factored into the overall cost of ownership.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -29,6 +29,19 @@ Solution: Torque converter replacement.
 Estimated Cost to Fix: $1,500 - $2,500+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * Front Suspension
@@ -94,3 +107,15 @@ Recalls: None Found
 **Summary:**
 
 The 2016 Toyota Land Cruiser has experienced various issues, including engine intake valve carbon buildup, transmission torque converter shudder, suspension leaks and failures, electrical malfunctions, and exterior latch failures. Some interior components have also had problems, such as climate control malfunctions and instrument cluster failures. The severity of these issues is generally moderate, with estimated repair costs ranging from a few hundred to over a thousand dollars. Regular maintenance and prompt attention to problems can help owners minimize the impact of these issues on their Land Cruiser ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

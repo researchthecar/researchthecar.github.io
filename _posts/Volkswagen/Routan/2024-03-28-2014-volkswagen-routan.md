@@ -31,6 +31,19 @@ The 2014 Volkswagen Routan is a minivan that offers versatility and spaciousness
     * Solution: Transmission fluid replacement, software updates, or transmission rebuilding
     * Estimated Cost to Fix: $200 - $3,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mounts:**
@@ -66,3 +79,15 @@ The 2014 Volkswagen Routan is a minivan that offers versatility and spaciousness
 **Summary**
 
 The 2014 Volkswagen Routan is a generally reliable vehicle with a comfortable interior and strong engine performance. However, certain issues, such as intake valve deposits, oil leaks, and electrical shorts, have been reported by owners. The severity and cost of these issues can vary depending on the specific problem. Potential buyers should be aware of these potential issues and consider the estimated repair costs before purchasing a used Routan.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -58,6 +58,19 @@ The 2013 Mercedes-Benz Coraza S2 is a high-performance sports sedan powered by a
     * Solution: Replace valve body.
     * Estimated Cost to Fix: $1,500 - $2,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Failure:**
@@ -101,3 +114,15 @@ The 2013 Mercedes-Benz Coraza S2 is a high-performance sports sedan powered by a
 **Summary:**
 
 The 2013 Mercedes-Benz Coraza S2 has a powerful engine and luxurious interior, but it has also been known to have several issues. The engine and transmission problems can be particularly costly to fix, ranging from $1,000 to $5,000 or more. Suspension, electrical, and interior issues can also be a source of frustration, with repair costs varying depending on the severity of the problem.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -32,6 +32,19 @@ People like the G63 AMG for its powerful engine, luxurious interior, and off-roa
    - Estimated Cost to Fix: $5,000 - $10,000+
    - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
  - **Rear Axle Failure:**
    - Description/Symptoms: Axle vibration, difficulty steering, loss of control
@@ -73,3 +86,15 @@ People like the G63 AMG for its powerful engine, luxurious interior, and off-roa
 **Summary:**
 
 The 2022 Mercedes-Benz G63 AMG has some potential issues that can be costly to repair. The engine and transmission problems are particularly concerning. However, the severity and cost of the issues vary depending on the specific problem and part affected.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

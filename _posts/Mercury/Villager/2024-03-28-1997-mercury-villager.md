@@ -27,6 +27,19 @@ The 1997 Mercury Villager is a minivan that was available with two engine option
 * **Transmission slipping:** The transmission may slip when shifting gears. Symptoms include difficulty accelerating, a rough ride, and a burning smell. The fix involves rebuilding or replacing the transmission. Estimated cost to fix: $1,500 - $3,000+
 * **No other known issues**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** The front struts can fail, causing a rough ride and poor handling. Symptoms include excessive bouncing, a clunking noise, and uneven tire wear. The fix involves replacing the struts. Estimated cost to fix: $500 - $1,000+
@@ -49,3 +62,15 @@ The 1997 Mercury Villager is a minivan that was available with two engine option
 **Summary**
 
 The 1997 Mercury Villager is a spacious and comfortable minivan, but it is also prone to a number of issues, including engine, transmission, suspension, electrical, exterior, and interior problems. The cost to fix these issues can range from a few hundred dollars to several thousand dollars, depending on the severity of the issue.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

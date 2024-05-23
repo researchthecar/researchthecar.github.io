@@ -39,6 +39,19 @@ The 2013 Volkswagen Golf SportWagen is a versatile compact station wagon that co
     * Estimated Cost to Fix: $1,000 - $1,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mount bearing failure:**
@@ -74,3 +87,15 @@ The 2013 Volkswagen Golf SportWagen is a versatile compact station wagon that co
 **Summary:**
 
 While the 2013 Volkswagen Golf SportWagen offers a well-balanced package, it is not without its issues. Some of the engine and transmission problems can be costly to repair, and the electrical gremlins can be frustrating to diagnose. The exterior and interior issues are generally less severe and less expensive to fix. Overall, the SportWagen is a reliable vehicle, but potential buyers should be aware of these potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

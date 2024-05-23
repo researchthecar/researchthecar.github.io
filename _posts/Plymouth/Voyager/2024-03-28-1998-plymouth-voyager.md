@@ -54,6 +54,19 @@ People like the Voyager for its versatility, practicality, and value. However, i
     * Estimated Cost to Fix: $600 - $1,200+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Struts Wearing Out**
@@ -104,3 +117,15 @@ People like the Voyager for its versatility, practicality, and value. However, i
 **Summary:**
 
 The 1998 Plymouth Voyager has some common issues, particularly with its engine and transmission. The cost of repairs can be significant, and some of the issues, such as head gasket failure, can be major and expensive to fix. However, the Voyager is generally a reliable vehicle for its class and age, and many of the issues can be prevented or addressed with regular maintenance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

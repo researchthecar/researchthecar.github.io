@@ -46,6 +46,19 @@ Owners appreciate the Montana's roomy interior, its smooth handling, and its amp
         * Solution: Replace shift solenoid.
         * Estimated Cost to Fix: $400 - $800
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front strut failure:** Causes excessive noise, vibration, and decreased handling.
         * Solution: Replace front struts.
@@ -81,3 +94,15 @@ Owners appreciate the Montana's roomy interior, its smooth handling, and its amp
 **Summary:**
 
 The 2001 Pontiac Montana has a history of significant issues with its engine, transmission, and electrical systems. These issues can be costly to repair, and can affect the reliability and overall value of the vehicle. Potential owners should be aware of these issues before purchasing a used Montana.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -35,6 +35,19 @@ The 1997 Rolls-Royce Silver Dawn is a luxurious hardtop convertible powered by a
     * Estimated Cost to Fix: $2,500 - $4,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Bushing Wear:**
@@ -88,3 +101,15 @@ The 1997 Rolls-Royce Silver Dawn is a luxurious hardtop convertible powered by a
 **Summary:**
 
 The 1997 Rolls-Royce Silver Dawn is a luxurious convertible with a few notable issues. The most severe and costly issues are related to transmission slippage and electrical harness problems. Suspension and electrical system repairs can also be expensive. While some interior issues are present, they are less severe compared to the mechanical problems. Overall, the Silver Dawn's maintenance costs can be high, but its timeless elegance and driving experience continue to appeal to luxury car enthusiasts.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

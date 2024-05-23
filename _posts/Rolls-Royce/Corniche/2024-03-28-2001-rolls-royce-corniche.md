@@ -24,6 +24,19 @@ The 2001 Rolls-Royce Corniche is a luxurious convertible renowned for its opulen
     * Estimated Cost to Fix: $1,000 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 * **Air Suspension Compressor Failure:**
     * Description/Symptoms: Sagging suspension, reduced ride height, dashboard warning
@@ -59,3 +72,15 @@ The 2001 Rolls-Royce Corniche is a luxurious convertible renowned for its opulen
 
 **Summary:**
 Overall, the 2001 Rolls-Royce Corniche is a highly sought-after luxury vehicle, but it is not without its potential issues. The most severe and expensive problems involve the engine (intake valve guide wear) and transmission (valve body failure). Other issues are generally less serious and costly to repair. Potential buyers should be aware of these issues and factor in the potential cost of repairs into their purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

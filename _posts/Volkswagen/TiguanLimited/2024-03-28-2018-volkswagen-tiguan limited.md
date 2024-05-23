@@ -36,6 +36,19 @@ The 2018 Volkswagen Tiguan Limited is a compact SUV that offers a spacious cabin
 * **Transmission shudder:** Shuddering or vibration during acceleration or gear changes has been reported. The issue is caused by worn clutch plates. The solution involves replacing the clutch plates and transmission fluid. Estimated cost to fix: $1,500 - $2,500+
 * **Transmission failure:** Complete transmission failure has been reported, resulting in loss of drive and no movement. The issue is caused by a faulty torque converter. The solution involves replacing the torque converter and transmission fluid. Estimated cost to fix: $2,000 - $5,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -61,3 +74,15 @@ The 2018 Volkswagen Tiguan Limited is a compact SUV that offers a spacious cabin
 **Summary:**
 
 The 2018 Volkswagen Tiguan Limited has received mixed reviews from owners. While it offers a spacious interior and comfortable ride, it has been plagued by several reliability issues, particularly with its engine, transmission, and electrical systems. The severity and cost of these issues can vary, but some repairs can be costly. Overall, the Tiguan Limited is a decent option for those who prioritize space and comfort over performance and reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

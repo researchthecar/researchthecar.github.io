@@ -47,6 +47,19 @@ The 2008 Mercedes-Benz Torino is a mid-size luxury sedan that offers a combinati
     * Estimated Cost to Fix: $2,000 - $4,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension System Malfunction:**
@@ -92,3 +105,15 @@ The 2008 Mercedes-Benz Torino is a mid-size luxury sedan that offers a combinati
 **Summary**
 
 The 2008 Mercedes-Benz Torino is a reliable and luxurious vehicle, but it is not immune to certain issues. The most severe problems reported include engine failures, transmission slipping, and suspension malfunction. However, the frequency and cost of these issues vary depending on the specific engine and transmission options. Potential owners should be aware of these potential problems and consider the estimated repair costs before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -41,6 +41,19 @@ The 2019 Volkswagen Gol is a subcompact hatchback offered in a variety of trim l
    - Estimated Cost to Fix: $1,500 - $2,500+
    - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -72,3 +85,15 @@ The 2019 Volkswagen Gol is a subcompact hatchback offered in a variety of trim l
 **Summary:**
 
 While the 2019 Volkswagen Gol offers affordability and fuel efficiency, it has been reported to experience certain reliability issues, particularly with its transmission and electrical system. The severity of these issues can vary, with some being minor annoyances and others potentially more costly to repair. Potential buyers should be aware of these potential problems before purchasing a used Gol and factor in the potential cost of repairs when considering their budget.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

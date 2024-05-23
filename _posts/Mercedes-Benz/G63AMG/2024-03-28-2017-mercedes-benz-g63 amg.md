@@ -39,6 +39,19 @@ The 2017 Mercedes-Benz G63 AMG is a luxury SUV powered by a hand-built 5.5-liter
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **AirMatic suspension leaks:**
@@ -84,3 +97,15 @@ The 2017 Mercedes-Benz G63 AMG is a luxury SUV powered by a hand-built 5.5-liter
 **Summary**
 
 The 2017 Mercedes-Benz G63 AMG is a powerful and capable SUV, but it can experience some significant issues. Engine problems, such as connecting rod bearing failure, can be costly to repair. Transmission and electrical problems are also common issues with this vehicle. Additionally, owners may encounter leaks in the air suspension system and rust on the vehicle's frame. Overall, the severity and cost of these issues can be significant.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

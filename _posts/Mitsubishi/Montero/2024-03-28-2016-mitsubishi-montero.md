@@ -34,6 +34,19 @@ The 2016 Mitsubishi Montero is a mid-size SUV that offers a combination of off-r
     * Estimated Cost to Fix: $2,000 - $4,000+
     * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Shock Absorber Failure:**
@@ -74,3 +87,15 @@ The 2016 Mitsubishi Montero is a mid-size SUV that offers a combination of off-r
 **Summary:**
 
 The 2016 Mitsubishi Montero has some common issues that owners have reported. The severity of these issues ranges from minor annoyances (such as dashboard squeaks) to more serious problems (such as engine or transmission failures). The estimated cost to fix these issues can vary depending on the issue and the specific vehicle. It is important for owners to be aware of these potential problems and to have their vehicles regularly serviced and inspected to prevent or address them in a timely manner.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

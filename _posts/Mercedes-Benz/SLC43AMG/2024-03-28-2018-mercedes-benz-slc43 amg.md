@@ -25,6 +25,19 @@ While the SLC43 is a desirable vehicle, it is not without its problems. Here's a
 
 * **Transmission slipping:** The transmission may slip or shudder during gear changes. This can be caused by worn-out clutches or a faulty transmission control module. The transmission may need to be rebuilt or replaced. Estimated Cost to Fix: $2,500 - $5,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension clunking noise:** The front suspension can develop a clunking noise when driving over rough roads. This is typically caused by worn-out ball joints or control arms. The suspension components will need to be replaced. Estimated Cost to Fix: $500 - $1,000 per side
@@ -47,3 +60,15 @@ While the SLC43 is a desirable vehicle, it is not without its problems. Here's a
 **Summary**
 
 The 2018 Mercedes-Benz SLC43 AMG is a high-performance convertible that offers a thrilling driving experience. However, it is not without its problems. The vehicle has been known to experience engine problems, transmission issues, suspension problems, electrical problems, exterior problems, and interior problems. The severity and cost of these issues can be significant, so it is important to be aware of them before purchasing an SLC43.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

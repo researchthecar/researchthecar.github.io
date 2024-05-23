@@ -42,6 +42,19 @@ Owners have praised the Sequoia's reliability, off-road capabilities, and comfor
     * Estimated Cost to Fix: $3,000 - $8,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear suspension creaking:** Noisy creaking or popping sounds from the rear suspension, especially over bumps or uneven surfaces.
@@ -83,3 +96,15 @@ No Issues Found
 **Summary**
 
 While the 2023 Toyota Sequoia is generally a reliable vehicle, it is not without its potential issues. Some of the reported problems, such as excessive oil consumption or electrical shorts, can be serious and costly to fix. However, many of the issues are relatively minor and can be addressed through software updates or repairs. Overall, the severity and cost of the issues are comparable to other vehicles in this class, and the Sequoia remains a solid choice for those seeking a spacious and capable SUV.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

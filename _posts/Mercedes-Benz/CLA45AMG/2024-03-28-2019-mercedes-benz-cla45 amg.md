@@ -29,6 +29,19 @@ The 2019 Mercedes-Benz CLA45 AMG is a high-performance compact luxury sedan know
 * Estimated Cost to Fix: $2,000 - $5,000
 * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 **No Issues Found**
@@ -52,3 +65,15 @@ The 2019 Mercedes-Benz CLA45 AMG is a high-performance compact luxury sedan know
 **Summary:**
 
 Overall, the 2019 Mercedes-Benz CLA45 AMG is a well-regarded vehicle for its performance and luxury features. However, some owners have encountered issues related to the engine's fuel system, transmission slipping, and infotainment system glitches. While these issues may not affect all CLA45 AMG models, it is important to be aware of them when considering purchasing or maintaining the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

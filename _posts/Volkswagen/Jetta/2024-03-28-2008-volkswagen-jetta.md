@@ -60,6 +60,19 @@ The 2008 Volkswagen Jetta is a compact sedan available with a range of engine an
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushings Wear**
@@ -115,3 +128,15 @@ The 2008 Volkswagen Jetta is a compact sedan available with a range of engine an
 **Summary**
 
 The 2008 Volkswagen Jetta has a range of issues, with some being more severe and costly than others. The most serious issues include timing chain tensioner failure and oil consumption issues on the 2.5L engine, and shift solenoid and TCM failure on the 6-speed automatic transmission. These issues can lead to major engine or transmission repairs, which can be expensive. Other issues, such as suspension wear and exterior seal failures, are generally less severe and less costly to repair. Overall, the severity and cost of the issues found in the 2008 Volkswagen Jetta should be considered when making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

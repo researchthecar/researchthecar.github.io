@@ -52,6 +52,19 @@ The Outback is praised for its spacious interior, comfortable ride, and excellen
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: NHTSA Campaign ID Number: 10V182000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mount failure**
@@ -92,3 +105,15 @@ The Outback is praised for its spacious interior, comfortable ride, and excellen
 **Summary**
 
 The 2008 Subaru Outback has a number of known issues, including head gasket failure, timing belt failure, and transmission slippage. However, it is also a popular vehicle with many happy owners. The severity and cost of the repairs vary, but it is important to be aware of these potential problems before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

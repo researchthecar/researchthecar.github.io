@@ -57,6 +57,19 @@ The 2000 Nissan Frontier is a mid-size pickup truck available with three engine 
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Leaf Spring Failure:** The rear leaf springs break prematurely, leading to sagging and poor handling.
@@ -92,3 +105,15 @@ The 2000 Nissan Frontier is a mid-size pickup truck available with three engine 
 **Summary:**
 
 The 2000 Nissan Frontier has a number of potential issues, particularly with its engine, transmission, and suspension. While some issues are relatively minor and inexpensive to fix, others can be more severe and expensive. Owners should be aware of these potential problems before purchasing or owning a Frontier.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

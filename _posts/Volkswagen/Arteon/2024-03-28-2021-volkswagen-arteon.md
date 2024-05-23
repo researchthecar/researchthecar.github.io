@@ -53,6 +53,19 @@ Owners generally praise the Arteon for its stylish design, spacious interior, an
     * Solution: Replacement of the mechatronic unit.
     * Estimated Cost to Fix: $3,000 - $5,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Bearing Failure**
@@ -92,3 +105,15 @@ Owners generally praise the Arteon for its stylish design, spacious interior, an
 **Summary**
 
 The 2021 Volkswagen Arteon is a generally reliable vehicle with a comfortable and engaging driving experience. However, some potential issues have been reported that range in severity and cost. The most common issues include carbon buildup in the 2.0-liter engine, transmission hesitation or jerking, and electrical glitches. Overall, the majority of owners are satisfied with their Arteon, but some may encounter these issues that can be costly to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

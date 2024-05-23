@@ -33,6 +33,19 @@ Solution: Replace the leaking component and add new transmission fluid.
 Estimated Cost to Fix: $200 - $400+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Upper Control Arm Bushings**
@@ -74,3 +87,15 @@ Recalls: None Found
 **Summary:**
 
 The 1998 Oldsmobile Silhouette is a reliable vehicle with a few common issues. The most severe issues include transmission fluid leaks and alternator failure, which can cost over $400 to fix. Other issues, such as intake manifold gasket failure, upper control arm bushing wear, and power window motor failure, are less severe and can be fixed for under $500. Overall, the Silhouette is a good choice for families and anyone looking for a spacious and comfortable minivan.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

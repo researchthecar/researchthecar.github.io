@@ -35,6 +35,19 @@ Solution: Replace or repair transmission components.
 Estimated Cost to Fix: $2,000 - $4,500+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Rear Shock Absorber Mount Failure:**
@@ -66,3 +79,15 @@ Recalls: None Found
 **Summary:**
 
 The 2016 Volvo V40 Cross Country is a generally reliable vehicle, but like any car, it has its fair share of issues. The most significant issues reported are with the engine (camshaft and valve guide issues), transmission (slippage), and suspension (rear shock absorber mount failure). These problems can be expensive to fix, ranging from $1,000 to $4,500 or more. Overall, the severity and cost of the issues should be considered when making a purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

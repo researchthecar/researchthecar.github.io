@@ -39,6 +39,19 @@ The 1991 Rolls-Royce Corniche II is a luxurious grand tourer powered by a 6.75-l
     * Estimated Cost to Fix: $200 - $800+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Strut Mount Failure:**
@@ -84,3 +97,15 @@ The 1991 Rolls-Royce Corniche II is a luxurious grand tourer powered by a 6.75-l
 **Summary:**
 
 The 1991 Rolls-Royce Corniche II is generally a reliable and prestigious vehicle, but it is not without its potential issues. Engine oil leaks, exhaust manifold cracks, shifting problems, and electrical gremlins are some of the most commonly reported issues. While some of these issues can be relatively minor, others can be more expensive or time-consuming to fix. Potential buyers should be aware of these issues and factor the potential cost of repairs into their purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

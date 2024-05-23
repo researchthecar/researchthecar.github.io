@@ -64,6 +64,19 @@ The 2010 Suzuki Grand Vitara is a compact SUV available with three engine and tr
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut mount failure:**
@@ -119,3 +132,15 @@ The 2010 Suzuki Grand Vitara is a compact SUV available with three engine and tr
 **Summary**
 
 The 2010 Suzuki Grand Vitara is a reliable and capable compact SUV. However, it does have some common issues, particularly with the engine, transmission, and suspension. The severity of the issues varies, with some being relatively minor and others requiring major repairs. The cost of repairs can be significant, especially for the more serious issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

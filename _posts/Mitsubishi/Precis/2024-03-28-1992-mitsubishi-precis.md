@@ -65,6 +65,19 @@ The 1992 Mitsubishi Precis was a subcompact car that was available with two engi
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure**
@@ -115,3 +128,15 @@ The 1992 Mitsubishi Precis was a subcompact car that was available with two engi
 **Summary**
 
 The 1992 Mitsubishi Precis is a budget-friendly subcompact car with a few common issues. Engine problems are relatively minor and inexpensive to fix, but transmission issues can be more serious and costly. Suspension and electrical problems are generally not very severe, and interior issues are mostly cosmetic. Overall, the Precis is a reliable and affordable car for those on a tight budget.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -37,6 +37,19 @@ The 1992 Suzuki Sidekick is a compact SUV known for its off-road capabilities an
     * Solution: Rebuild or replace the transmission.
     * Estimated Cost to Fix: $1000 - $2000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Failure:** Struts fail prematurely, causing excessive bounce or vibration.
@@ -70,3 +83,15 @@ The 1992 Suzuki Sidekick is a compact SUV known for its off-road capabilities an
 **Summary:**
 
 The Suzuki Sidekick is generally a dependable vehicle with off-road capabilities. However, some owners have reported issues with valve cover gasket leaks, transmission bearings, and premature rust. The severity of the issues varies, with some being minor inconveniences while others can be costly to repair. It's important to consult a qualified mechanic to address any specific concerns or potential issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

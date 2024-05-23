@@ -34,6 +34,19 @@ The 2017 Nissan Titan XD is a heavy-duty pickup truck that offers a variety of e
 **6-Speed Automatic Transmission (with 5.0L V8 Diesel Engine)**
 - **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Front Suspension Bushing Wear**: Describe/Symptoms: Worn or damaged front suspension bushings can result in excessive steering play, knocking or clunking noises, and decreased handling. Solution: Replacement of worn bushings. Estimated Cost to Fix: $200 - $500+
@@ -65,3 +78,15 @@ The 2017 Nissan Titan XD is a heavy-duty pickup truck that offers a variety of e
 
 **Summary:**
 The 2017 Nissan Titan XD is a capable heavy-duty truck with various engine and transmission options. However, it is not without its issues. While some problems are common to all versions, others are specific to certain engine or transmission configurations. The severity of the issues ranges from minor annoyances to potentially costly repairs. It's essential for potential buyers to be aware of these potential issues and consider the estimated cost of repairs before making a purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

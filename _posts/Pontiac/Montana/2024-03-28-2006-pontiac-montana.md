@@ -61,6 +61,19 @@ The 2006 Pontiac Montana is a minivan offered with a choice of two engine option
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -121,3 +134,15 @@ The 2006 Pontiac Montana is a minivan offered with a choice of two engine option
 **Summary**
 
 The 2006 Pontiac Montana is a generally reliable minivan with a roomy interior and practical features. However, it is not without its issues. The most common problems appear to be related to the intake manifold gasket, throttle position sensor, and ignition coils in the engine, and slipping gears and torque converter shudder in the transmission. These issues can range from minor inconveniences to major repairs, with estimated costs varying widely. If considering a used 2006 Pontiac Montana, it is advisable to thoroughly inspect the vehicle for any potential issues and have them addressed before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

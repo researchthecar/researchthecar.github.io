@@ -39,6 +39,19 @@ The 2012 Nissan Cabstar is a versatile commercial vehicle available with diverse
   - Estimated Cost to Fix: $2,500 - $3,500+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Leaking Shock Absorbers:** Worn-out shock absorbers cause excessive vehicle bouncing and reduced stability.
@@ -75,3 +88,15 @@ The 2012 Nissan Cabstar is a versatile commercial vehicle available with diverse
 **Summary**
 
 The 2012 Nissan Cabstar exhibits several issues across various components. The engine and transmission problems can be costly to repair, potentially impacting the vehicle's reliability and performance. Other issues, such as suspension and electrical problems, may compromise the driving experience and overall functionality. While the Cabstar offers versatility, potential buyers should be aware of these issues and consider the associated repair costs before making a decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

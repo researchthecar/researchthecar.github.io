@@ -25,6 +25,19 @@ The 2022 Subaru Crosstrek is a compact SUV offered with two engine options: a 2.
 * **6-speed manual**
     * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front struts:** Some owners have reported premature failure of the front struts. Symptoms include a rough, bouncy ride and uneven tire wear. The solution is to replace the front struts. Estimated cost to fix: $400 - $600+
@@ -49,3 +62,15 @@ The 2022 Subaru Crosstrek is a compact SUV offered with two engine options: a 2.
 **Summary**
 
 The 2022 Subaru Crosstrek has received generally positive reviews, but there have been some reported issues. The most common issues include oil consumption, transmission hesitation, and suspension problems. While these issues can be frustrating, they are not widespread and most owners are satisfied with their Crosstrek. The estimated cost of repairs varies depending on the severity of the problem, but most issues can be fixed for a reasonable price.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -35,6 +35,19 @@ The 2018 Mercedes-Benz C43 AMG is an exhilarating vehicle delivering a perfect b
     * Estimated Cost to Fix: Free if under warranty
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Failure**
@@ -82,3 +95,15 @@ The 2018 Mercedes-Benz C43 AMG is an exhilarating vehicle delivering a perfect b
 **Summary**
 
 The 2018 Mercedes-Benz C43 AMG is generally a reliable vehicle, but it has some reported issues that potential buyers should be aware of. The severity and cost of these issues vary, with some being minor and inexpensive to fix, while others can be more substantial and costly. It is recommended to have the vehicle thoroughly inspected by a qualified mechanic before purchasing and to perform regular maintenance to help prevent potential issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

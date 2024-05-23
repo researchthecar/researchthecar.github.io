@@ -34,6 +34,19 @@ The 2012 Mitsubishi Eclipse is a compact sports car powered by a 2.4L 4-cylinder
     * **Estimated Cost to Fix:** $2,000 - $4,000+
     * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut mounts fail:**
@@ -89,3 +102,15 @@ The 2012 Mitsubishi Eclipse is a compact sports car powered by a 2.4L 4-cylinder
 **Summary:**
 
 The 2012 Mitsubishi Eclipse has a number of significant issues that can be costly to repair. The most severe issues involve the transmission and electrical system, which can lead to safety concerns and significant expenses. While some of the issues, such as interior and exterior issues, are less severe, they can still be frustrating and diminish the overall ownership experience. Before purchasing a 2012 Mitsubishi Eclipse, it is important to be aware of these potential problems and factor the cost of potential repairs into your decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

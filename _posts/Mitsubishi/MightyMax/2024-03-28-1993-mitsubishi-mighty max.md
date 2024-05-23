@@ -53,6 +53,19 @@ Solution: Replacing or rebuilding the transfer case.
 Estimated Cost to Fix: $500 - $1,000+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 - Issue: Worn or broken leaf springs
@@ -100,3 +113,15 @@ Recalls: None Found
 **Summary:**
 
 The 1993 Mitsubishi Mighty Max has several potential issues, ranging from minor annoyances to more serious and costly repairs. While the engine and transmission issues are relatively common, the severity and cost of repairs can vary depending on the specific problem. Overall, the Mighty Max is a reliable and affordable vehicle, but it's important to be aware of the potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

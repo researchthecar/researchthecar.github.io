@@ -37,6 +37,19 @@ The 2023 Volvo V60 Cross Country is a versatile luxury wagon that delivers a ble
         * Estimated Cost to Fix: $1,500 - $2,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -64,3 +77,15 @@ The 2023 Volvo V60 Cross Country is a versatile luxury wagon that delivers a ble
 **Summary**
 
 While the 2023 Volvo V60 Cross Country offers a compelling blend of performance and luxury, it is not without its fair share of issues. Engine problems, particularly with the T5 engine, can be costly to repair, and hybrid battery degradation can be a major concern for T8 owners, potentially requiring a significant investment. Electrical wiring harness corrosion can lead to various electrical faults, while the infotainment system may experience lag or freezing. Overall, the severity of these issues varies, and the estimated cost to fix ranges from a few hundred dollars to upwards of $10,000.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

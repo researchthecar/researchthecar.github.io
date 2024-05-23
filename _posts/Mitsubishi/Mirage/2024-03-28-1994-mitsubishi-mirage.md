@@ -43,6 +43,19 @@ The 1994 Mitsubishi Mirage is a subcompact hatchback that offers reliable and fu
     * Estimated Cost to Fix: $250 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Front Struts Failure**
@@ -88,3 +101,15 @@ The 1994 Mitsubishi Mirage is a subcompact hatchback that offers reliable and fu
 **Summary:**
 
 The 1994 Mitsubishi Mirage is a budget-friendly hatchback with generally good reliability. However, it has faced some common issues such as intake manifold gasket failure, crankshaft position sensor failure, TCC solenoid failure, and front strut failure. The severity of these issues ranges from minor inconveniences to potential engine damage. The estimated cost to fix these problems varies from relatively affordable to more expensive repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

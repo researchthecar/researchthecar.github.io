@@ -35,6 +35,19 @@ The 2019 Mercedes-Benz C63 AMG S is a performance-oriented sedan that combines l
 * **Estimated Cost to Fix:** $2,000 - $3,000+
 * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Adaptive Suspension**
@@ -78,3 +91,15 @@ The 2019 Mercedes-Benz C63 AMG S is a performance-oriented sedan that combines l
 **Summary**
 
 While the 2019 Mercedes-Benz C63 AMG S offers exceptional performance, owners have reported specific issues. The severity and cost of these issues vary, with some requiring major repairs. Potential buyers should be aware of these potential problems before purchasing this vehicle. It is recommended to carefully inspect any used C63 AMG S and consider a comprehensive warranty to cover potential repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

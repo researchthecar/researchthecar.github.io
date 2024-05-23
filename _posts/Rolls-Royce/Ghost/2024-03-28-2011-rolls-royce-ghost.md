@@ -28,6 +28,19 @@ No major issues found.
     * Estimated Cost to Fix: $1,000 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Failure**
@@ -83,3 +96,15 @@ No major issues found.
 **Summary**
 
 The 2011 Rolls-Royce Ghost is a luxurious and powerful vehicle, but it is not immune to potential issues. The most common problems seem to be related to the transmission and suspension, with costs for repairs varying depending on the severity of the issue. Some electrical and interior issues have also been reported, although they are generally less significant and less costly to fix. Overall, the issues with the Ghost are not particularly widespread or severe, but they can be a factor to consider when evaluating this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -54,6 +54,19 @@ The 1993 Nissan Tsubame is a compact sedan that was available with two engine an
         * Estimated Cost to Fix: $300 - $500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Bushings**
@@ -99,3 +112,15 @@ The 1993 Nissan Tsubame is a compact sedan that was available with two engine an
 **Summary**
 
 Overall, the 1993 Nissan Tsubame is a reliable and affordable vehicle with some minor known issues. The most severe and expensive issues are related to engine and transmission failures, with costs ranging from $1,000 to $2,000+. Other issues, such as suspension bushings and electrical components, are relatively minor and less expensive to fix. The Tsubame's interior and exterior issues are also manageable and do not pose major concerns.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -30,6 +30,19 @@ The 2012 Mercedes-Benz Vito is a versatile commercial van offered in various con
 
 * **Transmission Slippage:** Slipping transmissions can cause delays in gear changes, abnormal noises, and reduced torque transfer. Solution: A transmission rebuild or replacement costs $1,500 - $3,000+.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Leaf Spring Failure:** Excessive weight or heavy loads can cause rear leaf springs to break or sag. Solution: Replacing leaf springs costs $500 - $1,200+.
@@ -52,3 +65,15 @@ The 2012 Mercedes-Benz Vito is a versatile commercial van offered in various con
 **Summary**
 
 The 2012 Mercedes-Benz Vito has several known issues that can impact its reliability and performance. Engine problems like DPF clogging and turbocharger failure can be costly to repair. Transmission slippage and rear leaf spring failure are also common issues. Electrical issues, such as battery drain and alternator failure, can lead to various malfunctions. While interior and exterior issues are less severe, they can still affect the overall experience of owning the vehicle. These issues can vary in severity and cost, so potential buyers should inspect vehicles carefully and consider the potential maintenance expenses.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

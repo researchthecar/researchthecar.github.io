@@ -94,3 +94,15 @@ The 2018 Mercedes-Benz CLA45 AMG is a high-performance compact sedan powered by 
 ## Summary
 
 Overall, the 2018 Mercedes-Benz CLA45 AMG is a high-performance sedan, but it has several reported issues that can be costly to fix. The engine and transmission are the most problematic areas, with frequent failures that can result in significant expenses. The suspension, electrical, and interior also have some issues, adding to the overall cost of ownership.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

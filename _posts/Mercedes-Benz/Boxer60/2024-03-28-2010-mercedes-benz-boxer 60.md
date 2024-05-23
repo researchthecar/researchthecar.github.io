@@ -41,6 +41,19 @@ The Boxer 60 is praised for its powerful engine, spacious interior, and impressi
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Axle Bushing Failure:**
@@ -76,3 +89,15 @@ The Boxer 60 is praised for its powerful engine, spacious interior, and impressi
 **Summary**
 
 The 2010 Mercedes-Benz Boxer 60 is a reliable and capable vehicle, but it is not without potential issues. Some of the more common problems include valve cover gasket leaks, exhaust manifold cracking, and suspension bushing failure. While these issues can be costly to repair, they are generally not major and can be addressed by a qualified mechanic. Overall, the Boxer 60 is a solid choice for those seeking a luxurious and rugged SUV, but prospective buyers should be aware of the potential issues outlined above.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

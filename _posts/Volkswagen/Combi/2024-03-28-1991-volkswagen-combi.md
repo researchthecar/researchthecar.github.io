@@ -24,6 +24,19 @@ The 1991 Volkswagen Combi is a popular minivan that offers spacious seating and 
 * **4-Speed Automatic**
     * **Transmission slipping:** The transmission may slip out of gear when driving, causing a loss of power. Solution: Rebuild or replace the transmission. Estimated Cost to Fix: $1,000 - $2,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front struts:** The front struts may wear out, causing a loss of ride quality and handling. Solution: Replace the front struts. Estimated Cost to Fix: $500 - $700+
@@ -50,3 +63,15 @@ The 1991 Volkswagen Combi is a popular minivan that offers spacious seating and 
 **Summary**
 
 Overall, the 1991 Volkswagen Combi is a reliable and durable vehicle. However, it does have a few common issues that owners may encounter. These issues can range in severity from minor annoyances to more serious mechanical problems. The cost to fix these issues can also vary depending on the severity of the problem and the location of the repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

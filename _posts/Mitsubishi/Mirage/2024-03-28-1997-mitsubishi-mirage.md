@@ -59,3 +59,15 @@ _Estimated Cost to Fix:_ $300 - $500+
 
 ## Summary
 Overall, the 1997 Mitsubishi Mirage is a reliable and affordable vehicle that has some common issues that can be expensive to fix. The most severe issues are related to the engine and transmission, which can result in catastrophic engine damage or transmission failure. The interior and exterior issues are generally cosmetic and do not affect the functionality of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

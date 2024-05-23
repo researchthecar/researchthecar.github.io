@@ -43,6 +43,19 @@ The 2003 Oldsmobile Silhouette was a minivan offered with two engine options: a 
     * Estimated Cost to Fix: $1,000 - $1,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Failure**
@@ -83,3 +96,15 @@ The 2003 Oldsmobile Silhouette was a minivan offered with two engine options: a 
 **Summary**
 
 The 2003 Oldsmobile Silhouette has some potential issues that can be costly to repair, particularly with the engine and transmission. Issues with the intake manifold gasket, head gasket, shifting problems, and torque converter failure can all be expensive to fix. However, many other components are generally reliable and the Silhouette offers a comfortable and spacious ride.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -34,6 +34,19 @@ The 2017 Mercedes-Benz E43 AMG is a mid-size luxury sedan that combines performa
         * Estimated Cost to Fix: $200 - $1,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Compressor Failure:**
@@ -65,3 +78,15 @@ The 2017 Mercedes-Benz E43 AMG is a mid-size luxury sedan that combines performa
 **Summary:**
 
 The 2017 Mercedes-Benz E43 AMG is prone to some common issues, primarily with the engine and transmission. While most issues can be resolved with routine maintenance and software updates, some may require costly repairs. Overall, the severity and cost of the issues are moderate compared to other high-performance vehicles.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -45,6 +45,19 @@ The 2000 Nissan Tsubame is a mid-size sedan known for its sleek design, comforta
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mounts Failure:**
@@ -80,3 +93,15 @@ The 2000 Nissan Tsubame is a mid-size sedan known for its sleek design, comforta
 **Summary:**
 
 The Nissan Tsubame is generally a reliable vehicle, but some common issues have been reported. The most severe and expensive issue is the potential for transmission problems. The cost of repairs for the other issues can vary depending on the severity of the problem and the location of the repair. Overall, the Tsubame is a well-regarded vehicle that offers a comfortable ride and good performance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

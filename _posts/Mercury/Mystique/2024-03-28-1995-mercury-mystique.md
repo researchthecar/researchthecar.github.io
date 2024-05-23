@@ -49,3 +49,15 @@ The 1995 Mercury Mystique is a midsize sedan that was available with a variety o
 **Summary**
 
 The 1995 Mercury Mystique is a comfortable and spacious sedan with a variety of engine and transmission options. However, it has a number of potential problems that can be costly to fix. The most common issues include intake manifold gasket failure, timing belt failure, and transmission problems. These issues can range in severity from minor annoyances to catastrophic damage.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

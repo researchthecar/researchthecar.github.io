@@ -29,6 +29,19 @@ The 2015 Mitsubishi Montero Sport is a midsize SUV powered by a single engine op
     * Estimated Cost to Fix: $2,000 - $4,000+
     * Recalls: NHTSA 17V-493
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -65,3 +78,15 @@ The 2015 Mitsubishi Montero Sport is a midsize SUV powered by a single engine op
 **Summary:**
 
 The 2015 Mitsubishi Montero Sport is generally reliable, but some owners have reported issues with the engine, transmission, and electrical systems. These issues can be costly to repair, with some estimates exceeding $4,000. While the vehicle offers a comfortable and spacious interior, it has some quirks such as a dashboard rattle and a malfunctioning rear window wiper motor. Overall, potential buyers should consider these potential issues and factor them into their decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

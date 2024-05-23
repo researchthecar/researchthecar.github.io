@@ -28,6 +28,19 @@ Recalls: 99V155000
 - **Shift Solenoid Failure:** Description/Symptoms: The shift solenoids can fail, causing the transmission to shift erratically or not shift at all. This can lead to transmission overheating and damage. Solution: The shift solenoids must be replaced. Estimated Cost to Fix: $300 - $500+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Strut Mount Failure:** Description/Symptoms: The strut mounts can fail, causing the struts to make noise and the vehicle to handle poorly. This can lead to uneven tire wear and decreased stability. Solution: The strut mounts must be replaced. Estimated Cost to Fix: $200 - $400+
 - **Ball Joint Failure:** Description/Symptoms: The ball joints can fail, causing the vehicle to drift or pull to one side. This can also lead to a loss of control and increased tire wear. Solution: The ball joints must be replaced. Estimated Cost to Fix: $300 - $500+
@@ -48,3 +61,15 @@ Recalls: None Found
 
 **Summary:**
 The 1999 Pontiac Trans Sport has a number of common issues that can be costly to repair. Engine problems, such as intake manifold gasket failure and head gasket failure, are particularly serious. Transmission problems, including slipping and torque converter failure, can also be a major expense. The suspension, electrical system, and interior of the Trans Sport are also prone to various issues. While the Trans Sport has some positive qualities, such as its spacious interior and versatile seating, potential buyers should be aware of the vehicle's reliability issues before considering a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -52,6 +52,19 @@ The Torino was praised for its luxurious interior, comfortable ride, and powerfu
       * Estimated Cost to Fix: $1,000 - $2,000+
       * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension**
@@ -117,3 +130,15 @@ The Torino was praised for its luxurious interior, comfortable ride, and powerfu
 **Summary**
 
 The 2010 Mercedes-Benz Torino is a high-end luxury sedan that has been praised for its comfort and performance. However, it is not without its issues. The most common problems reported by owners include camshaft adjuster failure, valve stem seal leaks, torque converter problems, transmission control module failures, air strut leaks, battery drain, electrical wiring issues, xenon bulb failure, seat control module malfunctions, and COMAND system glitches. These issues can vary in severity and cost to repair, ranging from minor inconveniences to major expenses. Potential buyers should be aware of these potential problems before purchasing a used Torino.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

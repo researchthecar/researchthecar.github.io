@@ -57,6 +57,19 @@ The 2001 Nissan Frontier is a mid-size pickup truck available with two engine op
  - Solution: Replace the torque converter.
  - Estimated Cost to Fix: $500 - $1000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf Spring Sag:**
@@ -116,3 +129,15 @@ The 2001 Nissan Frontier is a mid-size pickup truck available with two engine op
 **Summary**
 
 The 2001 Nissan Frontier has some common issues that vary in severity and cost to fix. While some issues, such as intake manifold gasket failure or door lock actuator failure, are relatively minor and inexpensive to repair, others, like transmission slipping or torque converter shudder, can be more serious and costly. Overall, the reliability of the Frontier is average for its class, and most issues can be addressed with proper maintenance and repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -27,6 +27,19 @@ Description/Symptoms: Shifting between gears may be delayed or occur at the wron
 Solution: The transmission control module (TCM) may need to be updated or replaced.
 Estimated Cost to Fix: $500 - $1,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Air Suspension Failure**
@@ -78,3 +91,15 @@ Estimated Cost to Fix: $200 - $800+
 **Summary:**
 
 The 2014 Rolls-Royce Ghost is a luxury sedan with a number of potential issues. The most common problems include intake valve carbon buildup, shifting delays, suspension failures, electrical problems, and interior issues. The severity of the issues varies, but some can be costly to repair. It is important for owners to be aware of these potential issues and to have their vehicles regularly serviced to prevent or address them及时.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

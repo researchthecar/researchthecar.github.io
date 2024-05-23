@@ -66,3 +66,15 @@ The 2020 Subaru Crosstrek is a compact SUV that offers versatility, all-wheel dr
 **Summary**
 
 The 2020 Subaru Crosstrek has a relatively minor issue list, with the most significant being the CVT overheating issue on the 2.0L engine. While some issues can be costly to fix, others are relatively inexpensive. Overall, the Crosstrek is a reliable and capable SUV with few major concerns.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -46,6 +46,19 @@ Despite its popularity, the Samurai has been plagued by a number of issues over 
   - Estimated Cost to Fix: $400 - $1,200+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Leaf Spring Failure:** Leaf springs can break or crack, affecting ride quality and handling.
@@ -92,3 +105,15 @@ Despite its popularity, the Samurai has been plagued by a number of issues over 
 **Summary**
 
 The 1990 Suzuki Samurai is a capable off-road vehicle, but it has been plagued by numerous issues over the years. While some of these issues are relatively minor, others can be serious and expensive to repair. The severity of the issues varies, but some, such as engine and transmission problems, can be significant. The cost of repairs can also vary widely, but many issues can be addressed for a reasonable price.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

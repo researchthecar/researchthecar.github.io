@@ -25,6 +25,19 @@ The 2021 Mercedes-Benz Boxer 50 is a high-powered sports car powered by an 8-cyl
 * **Solution:** Transmission fluid flush, software update, or transmission replacement.
 * **Estimated Cost to Fix:** $500 - $3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -51,3 +64,15 @@ The 2021 Mercedes-Benz Boxer 50 is a high-powered sports car powered by an 8-cyl
 **Summary:**
 
 The 2021 Mercedes-Benz Boxer 50 is a reliable and enjoyable sports car with some reported issues. The engine and transmission problems can be severe and costly to fix, while other issues like electrical glitches and clearcoat peeling are less common and less expensive. Overall, the Boxer 50 remains a desirable vehicle, but potential buyers should be aware of these potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

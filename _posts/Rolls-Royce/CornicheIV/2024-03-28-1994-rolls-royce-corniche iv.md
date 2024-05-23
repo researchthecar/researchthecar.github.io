@@ -31,6 +31,19 @@ The 1994 Rolls-Royce Corniche IV is the fourth and final generation of the Rolls
 
 - **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Air Suspension Failure**
@@ -66,3 +79,15 @@ The 1994 Rolls-Royce Corniche IV is the fourth and final generation of the Rolls
   - Description/Symptoms: The cruise control system malfunctions, preventing the vehicle from maintaining set speeds. Symptoms include the cruise control switch not activating, or the vehicle accelerating or decelerating unintentionally.
   - Solution: Diagnose and repair or replace the faulty cruise control module or associated components.
   - Estimated Cost to Fix: $600 - $1,000
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -58,6 +58,19 @@ The 2020 Volkswagen Jetta is a compact sedan that offers a comfortable and pract
   - Recalls: None Found
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -105,3 +118,15 @@ The 2020 Volkswagen Jetta is a compact sedan that offers a comfortable and pract
 **Overall Summary:**
 
 The 2020 Volkswagen Jetta is a generally reliable vehicle, but it has been affected by some significant issues. The engine issues, particularly with the 1.4L and 1.8L engines, can be expensive to repair. The transmission issues with the 7-speed dual-clutch automatic can also be costly. However, the Jetta's electrical, exterior, and interior components seem to be relatively trouble-free.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

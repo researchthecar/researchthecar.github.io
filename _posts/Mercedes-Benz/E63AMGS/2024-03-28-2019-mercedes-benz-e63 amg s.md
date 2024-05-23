@@ -32,6 +32,19 @@ The 2019 Mercedes-Benz E63 AMG S is a high-performance sedan powered by a twin-t
     * Estimated Cost to Fix: $500 - $5,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -68,3 +81,15 @@ The 2019 Mercedes-Benz E63 AMG S is a high-performance sedan powered by a twin-t
 **Summary:**
 
 Overall, the 2019 Mercedes-Benz E63 AMG S is a powerful and impressive vehicle, but it has not been without its issues. Engine and transmission problems are the most concerning, with potential costs exceeding $5,000. Electrical and interior issues are also present, but the estimated costs to fix are generally lower. Prospective buyers should be aware of these potential problems before considering this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

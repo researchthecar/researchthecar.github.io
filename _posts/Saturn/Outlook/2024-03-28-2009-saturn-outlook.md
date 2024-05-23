@@ -19,6 +19,19 @@ The 2009 Saturn Outlook is a midsize crossover SUV available with two engine opt
 - **6-speed automatic:**
     - **Torque converter failure:** Description/Symptoms: Failure of the torque converter can cause shuddering, slipping, or loss of power while driving. Solution: Replacement of the torque converter. Estimated Cost to Fix: $2,000 - $3,000. Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Rear suspension**
     - **Leaf spring breakage:** Description/Symptoms: Broken leaf springs can cause a harsh ride, a decrease in handling, and a potential for the vehicle to lean to one side. Solution: Replacement of the leaf springs. Estimated Cost to Fix: $500 - $800+ per side. Recalls: None Found
@@ -37,3 +50,15 @@ The 2009 Saturn Outlook is a midsize crossover SUV available with two engine opt
 
 **Summary:**
 The 2009 Saturn Outlook is a spacious and comfortable crossover SUV, but it is not without its issues. The engine and transmission can experience severe problems that can be expensive to repair. The suspension, electrical system, and interior also have some common issues. Overall, these issues are not as serious or costly to fix as the engine and transmission problems, but they can still be frustrating for owners.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
