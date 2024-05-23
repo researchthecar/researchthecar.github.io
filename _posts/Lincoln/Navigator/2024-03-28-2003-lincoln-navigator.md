@@ -74,15 +74,3 @@ The 2003 Lincoln Navigator is a full-size luxury SUV that offers a powerful engi
 ## Summary
 
 The 2003 Lincoln Navigator is a generally reliable vehicle, but it does have some potential issues that buyers should be aware of. The most serious issues are related to the engine, transmission, and suspension, which can all be expensive to repair. However, the electrical, exterior, and interior issues are typically less severe and less costly to fix. Overall, the Navigator is a good choice for buyers who are looking for a powerful and spacious SUV, but they should be prepared for the possibility of some repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

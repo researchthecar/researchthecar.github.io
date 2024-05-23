@@ -42,19 +42,6 @@ The 2015 Alfa Romeo Mito is a stylish and sporty subcompact hatchback that offer
         * Estimated Cost to Fix: $500 - $1,500
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -66,19 +53,6 @@ The 2015 Alfa Romeo Mito is a stylish and sporty subcompact hatchback that offer
         * Solution: Replace the alternator.
         * Estimated Cost to Fix: $500 - $1,000
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -99,15 +73,3 @@ The 2015 Alfa Romeo Mito is a stylish and sporty subcompact hatchback that offer
 **Summary**
 
 Overall, the 2015 Alfa Romeo Mito has a few significant issues that can be costly to repair, such as excessive oil consumption and turbocharger failure. However, some issues, like dashboard squeaks and rattles, are relatively minor and inexpensive to fix. It is important to note that these issues may not affect all Mito models, and some may have been addressed through recalls or software updates. Potential buyers should carefully consider the potential risks and costs associated with these issues before purchasing a used 2015 Alfa Romeo Mito.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

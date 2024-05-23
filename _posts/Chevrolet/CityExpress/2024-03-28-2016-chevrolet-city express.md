@@ -32,19 +32,6 @@ The 2016 Chevrolet City Express is a compact cargo van manufactured in partnersh
         * Estimated Cost to Fix: $2,500 - $4,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -56,19 +43,6 @@ The 2016 Chevrolet City Express is a compact cargo van manufactured in partnersh
         * Solution: Identify and repair electrical fault
         * Estimated Cost to Fix: $150 - $500+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -94,15 +68,3 @@ The 2016 Chevrolet City Express is a compact cargo van manufactured in partnersh
 **Summary:**
 
 The Chevrolet City Express is a budget-friendly compact van with some reliable components. However, it has experienced issues with the engine, transmission, and electrical systems. The severity of these issues ranges from minor inconveniences to potentially expensive repairs. Owners should be aware of these potential problems and factor in the cost of repairs when considering the purchase or ownership of the City Express.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

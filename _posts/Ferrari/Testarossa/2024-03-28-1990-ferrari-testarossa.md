@@ -42,19 +42,6 @@ The 1990 Ferrari Testarossa was a high-performance sports car renowned for its i
         * Estimated Cost to Fix: $200 - $600+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -71,19 +58,6 @@ The 1990 Ferrari Testarossa was a high-performance sports car renowned for its i
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $700 - $1,200+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -109,15 +83,3 @@ The 1990 Ferrari Testarossa was a high-performance sports car renowned for its i
 **Summary:**
 
 The 1990 Ferrari Testarossa is a highly sought-after classic sports car, but it does come with its fair share of potential issues. Many of the problems are related to age and normal wear and tear, but some can be more serious and expensive to fix. The severity and cost of the issues vary, but owners should be prepared for occasional maintenance and repairs to keep their Testarossa in top condition.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -39,19 +39,6 @@ While the Chevrolet Chevy is highly regarded for its ruggedness and workhorse ca
       Estimated Cost to Fix: $1,500 - $2,500+
       Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Leaking Shocks**
   Description/Symptoms: Reduced ride quality, uneven tire wear, oil leaks on shocks
@@ -66,19 +53,6 @@ While the Chevrolet Chevy is highly regarded for its ruggedness and workhorse ca
   Solution: Replace alternator
   Estimated Cost to Fix: $300 - $600+
   Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Rust Prone**
@@ -97,15 +71,3 @@ While the Chevrolet Chevy is highly regarded for its ruggedness and workhorse ca
 **Summary**
 
 The 1997 Chevrolet Chevy, while generally reliable, has some known issues that can impact its performance and longevity. The engine and transmission issues can be severe and costly to repair, while the suspension, electrical, exterior, and interior issues are typically less serious and less expensive to address. Potential buyers and owners should be aware of these potential problems to make informed decisions regarding maintenance, repairs, and overall vehicle ownership costs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

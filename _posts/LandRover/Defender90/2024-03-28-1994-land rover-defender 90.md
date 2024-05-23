@@ -38,19 +38,6 @@ The 1994 Land Rover Defender 90 is a renowned 4x4 off-road vehicle with a distin
   - Solution: Replace clutch assembly
   - Estimated Cost to Fix: $800 - $1,200
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Leaf spring breakage:**
   - Description/Symptoms: Sagging suspension, uneven ride height
@@ -74,19 +61,6 @@ The 1994 Land Rover Defender 90 is a renowned 4x4 off-road vehicle with a distin
   - Description/Symptoms: Electrical shorts, intermittent problems
   - Solution: Repair or replace wiring harness
   - Estimated Cost to Fix: $500 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Rust:**
@@ -119,15 +93,3 @@ The 1994 Land Rover Defender 90 is a renowned 4x4 off-road vehicle with a distin
 
 **Summary:**
 The 1994 Land Rover Defender 90 is a rugged and capable off-roader but comes with its fair share of issues. Engine problems, such as head gasket failure and injector seal leaks, are relatively common and can be expensive to repair. Transmission issues, including synchro ring wear and clutch failure, can also arise. While suspension and electrical problems are not as prevalent, they can still be costly to address. Interior issues, such as cracking dashboards and seat adjustments loosening, are less severe but can still be annoying. Exterior concerns, primarily rust and door handle failure, are mostly related to the vehicle's age and exposure to the elements. The severity and cost of the issues can vary depending on the specific problem and the condition of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

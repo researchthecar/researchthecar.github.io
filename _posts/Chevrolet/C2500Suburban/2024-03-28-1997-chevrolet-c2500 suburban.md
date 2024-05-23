@@ -50,19 +50,6 @@ The 1997 Chevrolet C2500 Suburban is a full-size SUV offered with several engine
 
 * **No Major Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Ball Joint Wear**
@@ -85,19 +72,6 @@ The 1997 Chevrolet C2500 Suburban is a full-size SUV offered with several engine
     * Solution: Repair or replace power window switch or motor.
     * Estimated Cost to Fix: $200 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust on Frame and Body**
@@ -119,15 +93,3 @@ The 1997 Chevrolet C2500 Suburban is a full-size SUV offered with several engine
 **Summary**
 
 The 1997 Chevrolet C2500 Suburban is a capable SUV with a spacious interior and impressive towing capacity. However, it is not immune to common issues such as engine oil consumption, transmission slippage, and suspension wear. The severity and cost of repairs vary depending on the specific issue encountered. It is important for owners to be aware of these potential problems and perform regular maintenance to prevent or mitigate them.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

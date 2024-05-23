@@ -31,19 +31,6 @@ The 2000 Ford Econoline is a full-size cargo van offered in two different body l
 
 * **Clutch Wear:** The clutch can wear out prematurely, causing difficulty shifting gears. The fix involves replacing the clutch. Estimated Cost to Fix: $500 - $1,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Ball Joint Failure:** The front ball joints can wear out, causing clunking or squeaking noises and decreased handling. The fix involves replacing the ball joints. Estimated Cost to Fix: $200 - $400 per side
@@ -53,19 +40,6 @@ The 2000 Ford Econoline is a full-size cargo van offered in two different body l
 
 * **Battery Drain:** The battery can drain prematurely, even when the vehicle is not in use. The fix involves identifying and repairing the source of the drain. Estimated Cost to Fix: Varies depending on the cause
 * **Alternator Failure:** The alternator can fail, causing the battery to not charge properly. The fix involves replacing the alternator. Estimated Cost to Fix: $500 - $800
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -79,15 +53,3 @@ The 2000 Ford Econoline is a full-size cargo van offered in two different body l
 **Summary**
 
 The 2000 Ford Econoline has several reported issues, including engine problems, transmission issues, electrical problems, and suspension problems. Some of these issues, such as the cam phaser failure and spark plug blowout, can be catastrophic and expensive to fix. However, many of the other issues are relatively minor and can be fixed for a reasonable cost. Overall, the Econoline is a reliable vehicle, but potential buyers should be aware of the potential issues before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -85,15 +85,3 @@ Recalls: None Found
 ## **Summary**
 
 Overall, the 2004 Hyundai Santa Fe has a number of potential issues to watch out for, including intake manifold gasket failure, timing belt tensioner failure, transmission slipping, rear suspension bushing failure, alternator failure, starter failure, sunroof leak, dashboard cracking, fuel pump failure, and brake rotor warping. The severity of these issues can vary, but some of them can be quite costly to repair. As with any used vehicle, it is important to have a thorough pre-purchase inspection performed before purchasing a 2004 Hyundai Santa Fe to identify any potential problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

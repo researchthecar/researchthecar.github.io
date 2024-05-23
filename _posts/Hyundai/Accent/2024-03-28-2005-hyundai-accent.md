@@ -31,19 +31,6 @@ The Accent has received generally positive reviews from critics, who praise its 
         * Estimated Cost to Fix: $1,500 - $3,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -60,19 +47,6 @@ The Accent has received generally positive reviews from critics, who praise its 
     * Solution: Replace the battery or find and repair the electrical drain
     * Estimated Cost to Fix: $100 - $300+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -98,15 +72,3 @@ The Accent has received generally positive reviews from critics, who praise its 
 **Summary**
 
 The 2005 Hyundai Accent is a reliable and affordable car, but it is not without its problems. Some of the most common issues with the Accent include intake manifold gasket failure, transmission slipping, alternator failure, battery drain, rust on the body panels, climate control problems, and power window failure. The severity of these issues varies, but some of them can be expensive to fix. Overall, the Accent is a good value for the money, but it is important to be aware of the potential problems that can occur.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

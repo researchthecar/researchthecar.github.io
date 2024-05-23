@@ -36,19 +36,6 @@ The 2009 Chevrolet Chevy (also known as the Chevrolet Cruze) is a compact sedan 
 * **Torque Converter Clutch Failure:** The torque converter clutch can wear out or fail, causing slipping or shuddering during gear changes. Replacing the torque converter is necessary. Estimated Cost to Fix: $1,000 - $2,000+
 * **Valve Body Contamination:** Contaminants may accumulate in the valve body, causing erratic shifting patterns. Cleaning or replacing the valve body is required. Estimated Cost to Fix: $500 - $1,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Sway Bar End Link Failure:** Sway bar end links can wear out or break, causing clunking noises and unstable handling. Replacement of the end links is necessary. Estimated Cost to Fix: $100 - $200 per end link
@@ -59,19 +46,6 @@ The 2009 Chevrolet Chevy (also known as the Chevrolet Cruze) is a compact sedan 
 * **Battery Draining:** The battery may drain prematurely due to parasitic electrical draws. Identifying and eliminating the cause of the draw is required. Estimated Cost to Fix: Varies depending on the cause
 * **Alternator Failure:** The alternator may fail to properly charge the battery, resulting in electrical problems and potential engine stalling. Replacement of the alternator is necessary. Estimated Cost to Fix: $500 - $1,000
 * **Headlight Malfunction:** Headlights may experience various issues, including flickering, dimming, or failure. Replacing bulbs or repairing electrical connections is necessary. Estimated Cost to Fix: $100 - $500
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -86,15 +60,3 @@ The 2009 Chevrolet Chevy (also known as the Chevrolet Cruze) is a compact sedan 
 **Summary:**
 
 The 2009 Chevrolet Chevy is a reliable and affordable compact sedan, but it has experienced numerous issues in various components. The most severe and costly issues include engine problems, such as timing chain tensioner failure and piston slap. Transmission problems, such as solenoid and torque converter clutch failures, are also prevalent. Electrical issues, suspension problems, and interior concerns further contribute to the overall maintenance burden of this vehicle. Potential owners should be aware of these potential issues before purchasing a 2009 Chevrolet Chevy.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -42,19 +42,6 @@ The 2016 Bentley Continental, a pinnacle of automotive luxury, is powered by a p
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Compressor Failure:**
@@ -81,19 +68,6 @@ The 2016 Bentley Continental, a pinnacle of automotive luxury, is powered by a p
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight Condensation:**
@@ -118,15 +92,3 @@ The 2016 Bentley Continental, a pinnacle of automotive luxury, is powered by a p
 **Summary**
 
 Despite its luxurious appeal, the 2016 Bentley Continental is not without its issues. Engine issues, such as timing chain tensioner failure and intake valve carbon buildup, can be costly to repair. Transmission hesitations, suspension component wear, and electrical glitches further contribute to the potential for expensive repairs. While interior issues are generally minor, they still add to the overall cost of ownership. Owners should be prepared for higher maintenance and repair expenses than they would for a more common luxury vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

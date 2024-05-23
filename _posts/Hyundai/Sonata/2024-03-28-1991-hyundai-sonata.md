@@ -27,19 +27,6 @@ The 1991 Hyundai Sonata was a compact sedan that offered a budget-friendly optio
 
 * **Transmission slipping:** The transmission may slip or fail to engage properly. Symptoms include a lack of power or acceleration, hesitation when shifting, and a burning smell. Fix involves repairing or replacing the transmission. Cost: $1000 - $2500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front strut mounts:** Worn or damaged front strut mounts can cause clunking or rattling noises, especially over bumps. Fix involves replacing the strut mounts. Cost: $200 - $500
@@ -49,19 +36,6 @@ The 1991 Hyundai Sonata was a compact sedan that offered a budget-friendly optio
 
 * **Battery drain:** A parasitic drain can deplete the battery when the vehicle is parked. This can be caused by faulty electronics or a faulty alternator. Symptoms include difficulty starting the vehicle and a dead battery. Fix involves identifying and repairing the source of the drain. Cost: $100 - $500+
 * **Starter motor failure:** A faulty starter motor may prevent the vehicle from starting. Symptoms include a clicking noise when turning the key or no response at all. Fix involves replacing the starter motor. Cost: $200 - $500
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -74,15 +48,3 @@ The 1991 Hyundai Sonata was a compact sedan that offered a budget-friendly optio
 **Summary**
 
 The 1991 Hyundai Sonata has several potential issues that owners may encounter, including engine problems, transmission issues, and suspension concerns. The severity of these issues can vary, but some, such as timing chain failure and transmission slipping, can be quite costly to repair. Overall, the 1991 Hyundai Sonata's reliability is considered average, and owners should be prepared for potential repair expenses.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

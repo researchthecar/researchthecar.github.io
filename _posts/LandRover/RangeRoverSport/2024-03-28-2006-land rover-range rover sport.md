@@ -24,19 +24,6 @@ The 2006 Land Rover Range Rover Sport is a luxury SUV renowned for its off-road 
 * **Transmission Slippage:** Occurs during gear changes, resulting in loss of power and erratic shifting. Transmission rebuild or replacement is usually required. $2,000 - $4,000+
 * **Torque Converter Failure:** Causes shuddering, slipping, and reduced power transfer. Replacement of the torque converter is necessary. $1,500 - $2,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Failure:** Loss of pressure in the air suspension system leads to sagging, uneven ride height, and poor handling. Compressor, air lines, or struts may need replacement. $1,000 - $3,000+
@@ -45,19 +32,6 @@ The 2006 Land Rover Range Rover Sport is a luxury SUV renowned for its off-road 
 
 * **Battery Drain:** Excessive battery drain may occur due to faulty electronics, especially the radio or navigation system. The faulty component needs to be diagnosed and replaced. $400 - $1,000+
 * **Headlight Malfunction:** Headlights may fail to turn on or may experience excessive condensation. Replacement of the headlight assembly or wiring harness may be required. $500 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -72,15 +46,3 @@ The 2006 Land Rover Range Rover Sport is a luxury SUV renowned for its off-road 
 **Summary**
 
 While the 2006 Land Rover Range Rover Sport offers impressive performance and luxury, it has been subject to some significant issues. Engine and transmission problems can be costly to repair, while electrical and suspension issues can compromise the vehicle's reliability. Interior and exterior issues are generally less severe but can still detract from the overall experience. Potential buyers should be aware of these potential issues before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

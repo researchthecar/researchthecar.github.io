@@ -29,19 +29,6 @@ The 2022 Lamborghini Urus is a high-performance SUV powered by a twin-turbocharg
         * Estimated Cost to Fix: $500 - $1,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Air Suspension System Failure**
         * Description/Symptoms: Vehicle sagging on one or more corners, reduced ride comfort
@@ -61,19 +48,6 @@ The 2022 Lamborghini Urus is a high-performance SUV powered by a twin-turbocharg
         * Estimated Cost to Fix: $500 - $1,500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 * **Window Trim Peeling**
         * Description/Symptoms: Trim around windows becomes loose or detaches
@@ -90,15 +64,3 @@ The 2022 Lamborghini Urus is a high-performance SUV powered by a twin-turbocharg
 
 **Summary:**
 The 2022 Lamborghini Urus is a powerful and technologically advanced SUV. However, owners have reported issues with certain components, such as engine fuel injectors, suspension components, electrical systems, and interior features. The severity of these issues varies, with some being relatively minor and others potentially more costly or affecting performance or safety.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -28,19 +28,6 @@ Owners of the 2010 Hyundai Santa Fe have reported a number of issues with their 
 * **Five-Speed Automatic Transmission**
     * **Transmission Fluid Leak:** The transmission fluid can leak, causing the transmission to overheat or fail. The solution is to replace the transmission fluid and seal. The estimated cost to fix this issue is $200 - $500.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension:** The front suspension can wear out, causing the vehicle to ride rough or handle poorly. The solution is to replace the worn suspension components. The estimated cost to fix this issue is $500 - $1,000+.
@@ -50,19 +37,6 @@ Owners of the 2010 Hyundai Santa Fe have reported a number of issues with their 
 
 * **Battery Failure:** The battery can fail, causing the vehicle to not start. The solution is to replace the battery. The estimated cost to fix this issue is $100 - $200+.
 * **Alternator Failure:** The alternator can fail, causing the vehicle to not charge the battery. The solution is to replace the alternator. The estimated cost to fix this issue is $500 - $1,000.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -77,15 +51,3 @@ Owners of the 2010 Hyundai Santa Fe have reported a number of issues with their 
 **Summary**
 
 The 2010 Hyundai Santa Fe is a popular SUV, but it is not without its problems. Some of the issues that owners have reported are serious and can be expensive to fix. However, many of the issues are relatively minor and can be fixed for a reasonable price. Overall, the Santa Fe is a reliable vehicle, but it is important to be aware of the potential problems before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

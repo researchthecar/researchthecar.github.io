@@ -54,19 +54,6 @@ The 2010 Ford Econoline Van is a full-size cargo van available with a 4.6L V6 en
     * Solution: Replace the torque converter.
     * Estimated Cost to Fix: $1,000 - $1,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Shock Absorber Failure:**
@@ -88,19 +75,6 @@ The 2010 Ford Econoline Van is a full-size cargo van available with a 4.6L V6 en
     * Description/Symptoms: The alternator may fail, leading to reduced electrical power, battery drain, and potential engine damage.
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $500 - $800
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -127,15 +101,3 @@ The 2010 Ford Econoline Van is a full-size cargo van available with a 4.6L V6 en
 **Summary:**
 
 The 2010 Ford Econoline Van is a capable and affordable full-size van, but it has been plagued by a significant number of issues. The engine and transmission problems can be costly to repair, and the suspension and electrical systems can also experience issues. While the interior and exterior are generally reliable, the HVAC system and instrument panel can be prone to failure. Potential buyers should be aware of these issues and factor the potential repair costs into their purchasing decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

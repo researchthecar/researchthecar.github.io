@@ -42,19 +42,6 @@ The Spark is praised for its fuel efficiency, maneuverability, and affordable pr
     * **Estimated Cost to Fix:** $1,000 - $2,500+
     * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -66,19 +53,6 @@ The Spark is praised for its fuel efficiency, maneuverability, and affordable pr
     * **Solution:** Battery replacement or alternator repair/replacement.
     * **Estimated Cost to Fix:** $200 - $800+
     * **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -104,15 +78,3 @@ The Spark is praised for its fuel efficiency, maneuverability, and affordable pr
 **Summary:**
 
 The 2017 Chevrolet Spark has several potential issues, including excessive oil consumption, transmission problems, rear bumper cracking, and interior rattles. While the majority of these issues are relatively minor in nature, the oil consumption issue can lead to catastrophic engine damage if not addressed promptly. The cost of repairs can vary significantly depending on the nature of the problem and the location of the repairs. Overall, the Spark's issues are generally not severe and can be addressed without causing substantial financial burden.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

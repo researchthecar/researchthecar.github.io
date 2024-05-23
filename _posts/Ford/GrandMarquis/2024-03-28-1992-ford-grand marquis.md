@@ -40,19 +40,6 @@ People liked the Grand Marquis for its spacious interior, comfortable ride, and 
 * **Clutch failure:** The clutch can wear out over time, causing difficulty shifting gears. Symptoms include a slipping clutch, difficulty shifting, and a burning smell. The solution is to replace the clutch. Estimated cost to fix: $500 - $1,000+
 * **Transmission fluid leak:** The transmission fluid can leak from the transmission pan gasket or other seals. Symptoms include a low transmission fluid level, slipping gears, and a check engine light. The solution is to replace the leaking gasket or seal. Estimated cost to fix: $200 - $400
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut failure:** The struts can wear out over time, causing a decrease in ride quality. Symptoms include a rough ride, uneven tire wear, and difficulty controlling the vehicle. The solution is to replace the struts. Estimated cost to fix: $500 - $1,000+
@@ -63,19 +50,6 @@ People liked the Grand Marquis for its spacious interior, comfortable ride, and 
 * **Battery failure:** The battery can fail over time, causing the vehicle to not start. Symptoms include a dead battery, difficulty starting the engine, and a dimming of the headlights. The solution is to replace the battery. Estimated cost to fix: $100 - $200
 * **Alternator failure:** The alternator can fail, causing the battery to not charge. Symptoms include a flickering or dim dashboard, difficulty starting the engine, and a dead battery. The solution is to replace the alternator. Estimated cost to fix: $300 - $500+
 * **Starter failure:** The starter can fail, causing the engine to not start. Symptoms include a clicking noise when turning the key, difficulty starting the engine, and a dead battery. The solution is to replace the starter. Estimated cost to fix: $200 - $400
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -91,15 +65,3 @@ People liked the Grand Marquis for its spacious interior, comfortable ride, and 
 **Summary**
 
 Overall, the 1992 Ford Grand Marquis is a reliable and comfortable car, but it is not without its issues. The most common issues reported by owners include engine problems, transmission problems, and electrical problems. The cost to fix these issues can vary depending on the severity of the problem and the specific parts that need to be replaced. However, many of these issues can be prevented with regular maintenance and by having the vehicle inspected by a qualified mechanic on a regular basis.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

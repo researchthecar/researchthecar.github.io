@@ -17,19 +17,6 @@ The 2022 Chevrolet Captiva is a compact SUV offered with a 2.5L ECOTEC I-4 engin
 
 * **9-Speed Automatic Transmission**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension**
@@ -58,19 +45,6 @@ The 2022 Chevrolet Captiva is a compact SUV offered with a 2.5L ECOTEC I-4 engin
     * **Estimated Cost to Fix:** $200 - $600+
     * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Body Panels**
@@ -96,15 +70,3 @@ The 2022 Chevrolet Captiva is a compact SUV offered with a 2.5L ECOTEC I-4 engin
 **Summary**
 
 Overall, the 2022 Chevrolet Captiva faces a limited number of issues, primarily electrical in nature. While battery drain and alternator issues can be inconvenient, the relatively low cost to fix them makes them less severe. The occasional reports of headlight condensation and cracked dashboards are more concerning, as they can affect visibility and aesthetics. However, the lack of major engine or transmission problems is a positive sign for this SUV's reliability.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

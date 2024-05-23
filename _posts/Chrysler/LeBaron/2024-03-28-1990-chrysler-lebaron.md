@@ -69,19 +69,6 @@ Owners of the 1990 Chrysler LeBaron appreciate its comfortable ride, spacious in
     * Estimated Cost to Fix: $400 - $800+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut failure:** Causes the vehicle to bounce or handle poorly.
@@ -107,19 +94,6 @@ Owners of the 1990 Chrysler LeBaron appreciate its comfortable ride, spacious in
     * Solution: Find and repair the short circuit.
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -150,15 +124,3 @@ Owners of the 1990 Chrysler LeBaron appreciate its comfortable ride, spacious in
 **Summary:**
 
 The 1990 Chrysler LeBaron has a number of potential issues, including engine, transmission, suspension, electrical, exterior, and interior problems. The severity of these issues varies, but some can be costly to repair. Overall, the LeBaron is a reliable vehicle, but it is important to be aware of its potential issues before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -28,19 +28,6 @@ The 1995 Ford E-150 Econoline Club Wagon is a full-size passenger van known for 
 * **5-Speed Manual**
     * **Clutch Failure:** Symptoms include difficulty shifting gears, slipping, and grinding noises. Requires replacement of the clutch assembly. Cost: $600 - $800+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Ball Joints:** Symptoms include clunking or popping noises, uneven tire wear, and reduced steering stability. Requires replacement of the ball joints. Cost: $200 - $400+ per side
@@ -50,19 +37,6 @@ The 1995 Ford E-150 Econoline Club Wagon is a full-size passenger van known for 
 
 * **Alternator Failure:** Symptoms include flickering lights, dim headlights, and difficulty starting. Requires replacement of the alternator. Cost: $300 - $500+
 * **Ignition Module Failure:** Symptoms include no-start conditions, intermittent stalling, and rough idling. Requires replacement of the ignition module. Cost: $150 - $250+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -77,15 +51,3 @@ The 1995 Ford E-150 Econoline Club Wagon is a full-size passenger van known for 
 **Summary**
 
 The 1995 Ford E-150 Econoline Club Wagon has experienced various issues, ranging from minor electrical and interior problems to more serious engine and transmission concerns. While some repairs may be relatively inexpensive, major issues can be costly to address. Overall, the severity and cost of these issues can vary depending on the specific problem, the affected components, and the labor involved. Knowing about these common issues can help owners anticipate potential expenses and make informed decisions regarding maintenance and repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -63,19 +63,6 @@ The 2000 Chevrolet Chevy is a mid-size sedan that offers a range of engine and t
     - Estimated Cost to Fix: $500 - $1,000+
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Struts or Shocks Failure:**
@@ -102,19 +89,6 @@ The 2000 Chevrolet Chevy is a mid-size sedan that offers a range of engine and t
     - Estimated Cost to Fix: $100 - $250+
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 **No Issues Found**
@@ -132,15 +106,3 @@ The 2000 Chevrolet Chevy is a mid-size sedan that offers a range of engine and t
 The 2000 Chevrolet Chevy has a mixed bag of reliability issues. Some components, such as the intake manifold gasket and timing chain on the 3.4L V6, are known to be problematic. The automatic transmissions can also experience issues with slippage or valve body failure. However, other components, such as the 3.8L V6 and suspension, generally have a good track record.
 
 The severity and cost of the issues vary depending on the specific problem. Some issues, such as the oil pressure sensor failure on the 5.7L V8, are relatively minor and inexpensive to fix, while others, such as the transmission rebuild, can be quite costly. Overall, it is essential to consider these potential issues before purchasing a used 2000 Chevrolet Chevy.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

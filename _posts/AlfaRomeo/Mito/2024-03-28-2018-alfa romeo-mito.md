@@ -50,19 +50,6 @@ The 2018 Alfa Romeo Mito is a compact hatchback known for its stylish design, re
   * Estimated Cost to Fix: $1,500 - $3,000+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Bearing Failure:** The strut bearings may fail, causing a knocking or clunking noise over bumps.
@@ -87,19 +74,6 @@ The 2018 Alfa Romeo Mito is a compact hatchback known for its stylish design, re
   * Estimated Cost to Fix: $100 - $200
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door Handle Failure:** The exterior door handles may break or become loose, making it difficult to open the doors.
@@ -122,15 +96,3 @@ The 2018 Alfa Romeo Mito is a compact hatchback known for its stylish design, re
 **Summary**
 
 The 2018 Alfa Romeo Mito has been reported to have some issues, primarily in the engine, transmission, suspension, and electrical systems. The severity and cost of the issues can vary, but some may require significant repairs. Owners should be aware of these potential problems and consult qualified mechanics for proper diagnosis and repair.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

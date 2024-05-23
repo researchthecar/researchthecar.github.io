@@ -21,19 +21,6 @@ The 2023 Audi S7 Sportback is a high-performance luxury sedan powered by a 2.9L 
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Adaptive Air Suspension**
@@ -56,19 +43,6 @@ The 2023 Audi S7 Sportback is a high-performance luxury sedan powered by a 2.9L 
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: 11V237000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Roof Drain Clogging**
@@ -86,15 +60,3 @@ The 2023 Audi S7 Sportback is a high-performance luxury sedan powered by a 2.9L 
 **Summary**
 
 Overall, the 2023 Audi S7 Sportback appears to have a relatively low number of common issues. The most severe and costly issues are related to the suspension (air springs and air compressor failures), electrical (ECU failure), and interior (headliner sagging). However, it's important to note that these issues may not affect all S7 Sportback models and that the severity and cost of repairs can vary depending on factors such as the extent of the damage and location of the mechanic.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

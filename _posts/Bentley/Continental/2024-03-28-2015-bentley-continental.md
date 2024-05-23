@@ -41,15 +41,3 @@ People like the Continental for its luxurious interior, powerful engine, and sle
 ### Summary
 
 The 2015 Bentley Continental is a luxurious and powerful vehicle. However, it can experience a variety of issues ranging from minor inconveniences to major mechanical failures. Repairs can be expensive due to the complexity of the vehicle and the high cost of parts.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

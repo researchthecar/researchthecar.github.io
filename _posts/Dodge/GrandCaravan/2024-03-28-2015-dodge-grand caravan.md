@@ -26,38 +26,12 @@ The 2015 Dodge Grand Caravan is a minivan offered with two engine options: a 3.6
 **4-Speed Automatic**
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **No Issues Found**
 
 **Electrical**
 * **Battery Drain:** Vehicles may experience battery drain, leading to difficulty starting or electrical system failures. **Solution:** Diagnose and repair electrical system issues. **Cost:** $200 - $1,000+
 * **Headlight Failure:** Headlights may experience premature failure or flickering. **Solution:** Replace headlights. **Cost:** $200 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Door Handle Issues:** Door handles can become loose or break, making it difficult to open or close the doors. **Solution:** Replace door handles. **Cost:** $100 - $300+
@@ -69,15 +43,3 @@ The 2015 Dodge Grand Caravan is a minivan offered with two engine options: a 3.6
 
 **Summary**
 The 2015 Dodge Grand Caravan has several potential issues, including engine oil consumption, timing chain failure, transmission hesitation, and electrical system problems. The severity and cost of repairs can vary depending on the specific issue and the required parts. Overall, it is important for owners to be aware of these potential issues and to have their vehicles inspected and serviced regularly to minimize the risk of breakdowns or expensive repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

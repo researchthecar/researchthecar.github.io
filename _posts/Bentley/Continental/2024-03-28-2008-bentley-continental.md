@@ -36,19 +36,6 @@ The 2008 Bentley Continental is a luxury grand tourer that offers a combination 
     * Estimated Cost to Fix: $2,000 - $4,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air suspension problems:** The air suspension system may fail, causing the vehicle to sag or ride at an uneven height.
@@ -73,19 +60,6 @@ The 2008 Bentley Continental is a luxury grand tourer that offers a combination 
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **No Issues Found**
@@ -105,15 +79,3 @@ The 2008 Bentley Continental is a luxury grand tourer that offers a combination 
 **Summary**
 
 The 2008 Bentley Continental is a luxurious grand tourer that offers impressive performance and refinement. However, it is important to be aware of the potential issues that come with owning one. The engine and transmission are generally reliable, but they can experience some problems that can be costly to fix. The suspension, electrical system, and interior also have some known issues that can affect the vehicle's operation and comfort. Overall, the Continental is a vehicle that requires significant maintenance and can be expensive to repair.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

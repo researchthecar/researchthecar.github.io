@@ -45,19 +45,6 @@ The 1990 Chevrolet W7500 Tiltmaster is a medium-duty commercial truck available 
         * Estimated Cost to Fix: $1,200 - $3,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Leaf Springs**
@@ -82,19 +69,6 @@ The 1990 Chevrolet W7500 Tiltmaster is a medium-duty commercial truck available 
         * Estimated Cost to Fix: $400 - $800+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlights**
@@ -116,15 +90,3 @@ The 1990 Chevrolet W7500 Tiltmaster is a medium-duty commercial truck available 
 **Summary**
 
 The 1990 Chevrolet W7500 Tiltmaster is generally considered a reliable and capable heavy-duty truck. However, it is not without its issues, as outlined in this report. The most common issues involve the engine, transmission, and electrical systems, which can be costly to repair. Additionally, the suspension and interior components may also experience problems over time. It is important for owners to address these issues promptly to ensure the safety and performance of their vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

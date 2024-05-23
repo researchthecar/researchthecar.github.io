@@ -42,19 +42,6 @@ The 2009 Audi TTS Quattro is a two-door compact sports car known for its perform
     * Estimated Cost to Fix: $2,500 - $3,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushing Wear:**
@@ -75,19 +62,6 @@ The 2009 Audi TTS Quattro is a two-door compact sports car known for its perform
     * Solution: Replace faulty headlights or wiring harness.
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -113,15 +87,3 @@ The 2009 Audi TTS Quattro is a two-door compact sports car known for its perform
 **Summary:**
 
 While the 2009 Audi TTS Quattro is generally a reliable vehicle, it has experienced some issues over the years. The most common problems relate to the engine (timing chain and carbon buildup), transmission (synchronizer wear and clutch pack failure), and suspension (control arm bushing wear). Electrical issues, such as battery discharge and malfunctioning headlights, have also been reported. The severity and cost of these issues can vary, but some can be major and expensive to fix. It is important to note that these issues may not affect all vehicles and should be considered when researching and purchasing a used 2009 Audi TTS Quattro.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -22,19 +22,6 @@ The 2000 Land Rover Range Rover is a luxury SUV known for its off-road capabilit
 **4-speed Automatic Transmission**
 **No Specific Transmission Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -48,19 +35,6 @@ Estimated Cost to Fix: $100 - $200+
 
 **Recalls:**
 * **NHTSA Campaign Number 00V199000:** Power window switch failure
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -97,15 +71,3 @@ Estimated Cost to Fix: $1,000 - $2,000+
 **Summary**
 
 Overall, the 2000 Land Rover Range Rover has a moderate number of issues affecting its electrical, exterior, and interior components. Some issues, such as faulty window switches and sunroof leaks, can be relatively minor and inexpensive to fix. However, more severe issues like climate control malfunctions and rear differential failure can be costly to repair. Potential owners should be aware of these common issues and factor them into their purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

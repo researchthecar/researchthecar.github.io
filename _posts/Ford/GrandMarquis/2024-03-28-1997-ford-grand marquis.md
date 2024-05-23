@@ -105,15 +105,3 @@ Some of the things people dislike about the Grand Marquis include its:
 ## Summary
 
 The 1997 Ford Grand Marquis has a number of common issues that can affect the engine, transmission, suspension, electrical, exterior, and interior components. The severity and cost of these issues can vary widely depending on the specific problem. Some issues, such as intake manifold gasket failure, can be relatively minor and inexpensive to fix, while others, such as transmission failure, can be more serious and costly. Overall, the Grand Marquis is a reliable vehicle, but it is important to be aware of the potential issues that it may face.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

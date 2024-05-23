@@ -53,19 +53,6 @@ Drivers appreciate the Tucson's spacious interior, user-friendly infotainment sy
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Suspension Sagging:**
@@ -81,19 +68,6 @@ Drivers appreciate the Tucson's spacious interior, user-friendly infotainment sy
     * Solution: Testing and diagnosing the source of the drain.
     * Estimated Cost to Fix: $100 - $300+ (depending on the cause)
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior (excluding paint chips/fading)**
 
@@ -119,15 +93,3 @@ Drivers appreciate the Tucson's spacious interior, user-friendly infotainment sy
 **Summary**
 
 The 2009 Hyundai Tucson is a generally reliable vehicle, but some owners have reported issues with excessive oil consumption, timing chain guide wear, and transmission fluid leaks. The estimated cost to fix these issues can range from $100 to over $3,000, which can be a significant expense. It is important for owners to regularly inspect and maintain their Tucson to prevent these problems from occurring.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

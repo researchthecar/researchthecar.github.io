@@ -65,19 +65,6 @@ The 2003 Chevrolet Silverado 3500 is a heavy-duty pickup truck that offers a ran
   - Estimated Cost to Fix: $300 - $500+
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Leaf spring failure:**
@@ -103,19 +90,6 @@ The 2003 Chevrolet Silverado 3500 is a heavy-duty pickup truck that offers a ran
   - Solution: Replacement of starter
   - Estimated Cost to Fix: $200 - $400+
   - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -146,15 +120,3 @@ The 2003 Chevrolet Silverado 3500 is a heavy-duty pickup truck that offers a ran
 **Summary:**
 
 The 2003 Chevrolet Silverado 3500 has several reported issues that can affect the engine, transmission, suspension, electrical, exterior, and interior components. While some issues may be minor and inexpensive to fix, others can be more severe and costly. Owners should be aware of these potential issues and consider the estimated repair costs when purchasing or maintaining this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

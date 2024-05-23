@@ -38,19 +38,6 @@ The 2007 Chevrolet Equinox is a compact crossover SUV powered by either a 3.4L V
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Mount Bearing Failure:**
@@ -77,19 +64,6 @@ The 2007 Chevrolet Equinox is a compact crossover SUV powered by either a 3.4L V
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rear Bumper Cover Cracking:**
@@ -114,15 +88,3 @@ The 2007 Chevrolet Equinox is a compact crossover SUV powered by either a 3.4L V
 **Summary:**
 
 Overall, the 2007 Chevrolet Equinox has a mixed reputation for reliability. While it has received praise for its spacious cabin and comfortable ride, it has also been criticized for its dated interior design and lack of fuel efficiency. The major issues experienced with this vehicle include oil leaks, intake manifold gasket leaks, and timing chain tensioner failure. The severity and cost of these issues can vary depending on the specific part that fails and the severity of the problem.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

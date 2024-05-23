@@ -43,19 +43,6 @@ The 2012 Chevrolet Silverado 3500 HD is a heavy-duty pickup truck known for its 
 > Estimated Cost to Fix: $1500 - $2000+
 > Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf Spring Failure:** 
@@ -84,19 +71,6 @@ The 2012 Chevrolet Silverado 3500 HD is a heavy-duty pickup truck known for its 
 > Estimated Cost to Fix: $50 - $200+
 > Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust on Frame:** 
@@ -116,15 +90,3 @@ The 2012 Chevrolet Silverado 3500 HD is a heavy-duty pickup truck known for its 
 **Summary:**
 
 The 2012 Chevrolet Silverado 3500 HD has faced several issues, ranging from engine fuel injector failures to suspension leaf spring problems. While some issues like battery drains and climate control malfunctions are relatively minor, others like turbocharger failures and torque converter shudder can be more costly and time-consuming to fix. It's important for potential buyers to research these issues and factor in the potential costs when considering this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

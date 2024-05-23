@@ -33,19 +33,6 @@ The 2005 Chevrolet Monte Carlo is a large coupe that was available with three en
 * **Clutch Master Cylinder Failure:** Description/Symptoms: Difficulty shifting gears, clutch pedal feels spongy. Solution: Replace clutch master cylinder. Estimated Cost to Fix: $200 - $400+
 * **Throw-Out Bearing Failure:** Description/Symptoms: Noisy or grinding noise while shifting gears, difficult to disengage clutch. Solution: Replace throw-out bearing. Estimated Cost to Fix: $400 - $600+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Mount Failure:** Description/Symptoms: Noise and vibration from the front suspension, reduced handling. Solution: Replace front strut mounts. Estimated Cost to Fix: $400 - $600+
@@ -55,19 +42,6 @@ The 2005 Chevrolet Monte Carlo is a large coupe that was available with three en
 
 * **Alternator Failure:** Description/Symptoms: Dimming headlights, difficulty starting the engine. Solution: Replace alternator. Estimated Cost to Fix: $400 - $600+
 * **Battery Failure:** Description/Symptoms: Difficulty starting the engine, reduced electrical power. Solution: Replace battery. Estimated Cost to Fix: $100 - $200+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -82,15 +56,3 @@ The 2005 Chevrolet Monte Carlo is a large coupe that was available with three en
 **Summary**
 
 The 2005 Chevrolet Monte Carlo has a range of potential issues, some of which can be costly to repair. The most serious and expensive issues include intake manifold gasket failure, timing chain tensioner failure, and transmission problems. While some of the interior and exterior problems are less severe and less expensive to fix, they can still be frustrating and detract from the overall driving experience.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

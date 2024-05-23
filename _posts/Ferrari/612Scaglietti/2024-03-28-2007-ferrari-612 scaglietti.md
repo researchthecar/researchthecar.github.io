@@ -49,19 +49,6 @@ The 612 Scaglietti is praised for its elegant design, powerful performance, and 
     * Estimated Cost to Fix: $4,000 - $6,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -73,19 +60,6 @@ The 612 Scaglietti is praised for its elegant design, powerful performance, and 
     * Solution: Identify and replace the faulty electrical component causing the drain (e.g., alternator, starter, lights, etc.).
     * Estimated Cost to Fix: $200 - $1,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -106,15 +80,3 @@ The 612 Scaglietti is praised for its elegant design, powerful performance, and 
 **Summary:**
 
 The 2007 Ferrari 612 Scaglietti is generally a reliable and well-built vehicle, but it is not without its potential issues. Engine bearing failures, clutch pack issues, and mechatronic unit failures can be costly to repair. However, the severity of these issues and the cost to fix them are generally not excessive compared to other high-performance luxury vehicles.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

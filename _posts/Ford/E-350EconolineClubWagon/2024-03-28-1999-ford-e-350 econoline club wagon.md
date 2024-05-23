@@ -84,15 +84,3 @@ The 1999 Ford E-350 Econoline Club Wagon is a popular full-size van known for it
 ### **Summary**
 
 The 1999 Ford E-350 Econoline Club Wagon is a versatile and powerful van with some notable issues to consider. While the engine and transmission issues can be costly to fix, the suspension and electrical problems are generally less severe and less expensive. The severity of the rust issue varies depending on the van's history and location. Overall, the Econoline Club Wagon is a reliable option for those needing a spacious and capable van, but potential buyers should be aware of the common issues and factor in the potential costs of repair or maintenance.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

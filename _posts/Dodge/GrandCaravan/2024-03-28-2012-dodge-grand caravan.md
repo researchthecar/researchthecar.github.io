@@ -31,19 +31,6 @@ The 2012 Dodge Grand Caravan is a minivan that offers ample space and functional
     * Estimated Cost to Fix: $500 - $3,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Noise:** Rattling or clunking noises from the front suspension.
@@ -65,19 +52,6 @@ The 2012 Dodge Grand Caravan is a minivan that offers ample space and functional
     * Solution: Replace battery or diagnose and repair parasitic drain.
     * Estimated Cost to Fix: $100 - $500
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -104,15 +78,3 @@ The 2012 Dodge Grand Caravan is a minivan that offers ample space and functional
 **Summary**
 
 The 2012 Dodge Grand Caravan has a range of common issues, particularly engine oil consumption, transmission shifting problems, and suspension noise. The cost to fix these issues can be significant, with some repairs exceeding $5,000. However, it is worth noting that not all vehicles may experience all of these issues, and some may be covered under the manufacturer's warranty or recalls. Nevertheless, potential buyers should be aware of these common problems and consider their potential cost when purchasing a used 2012 Dodge Grand Caravan.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

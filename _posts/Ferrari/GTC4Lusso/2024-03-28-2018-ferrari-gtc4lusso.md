@@ -46,19 +46,6 @@ The 2018 Ferrari GTC4Lusso is a high-performance grand tourer that combines slee
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Air Suspension Failure:** The rear air suspension system can malfunction, causing the vehicle to sag or ride unevenly.
@@ -80,19 +67,6 @@ The 2018 Ferrari GTC4Lusso is a high-performance grand tourer that combines slee
     * Solution: Replacement of the faulty battery.
     * Estimated Cost to Fix: $300 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -119,15 +93,3 @@ The 2018 Ferrari GTC4Lusso is a high-performance grand tourer that combines slee
 **Summary**
 
 The 2018 Ferrari GTC4Lusso is a powerful and luxurious grand tourer with a reputation for thrilling performance and exquisite craftsmanship. However, it is essential to be aware of the potential issues that can arise with this high-performance vehicle. While some issues are minor and relatively inexpensive to fix, others can be more severe and costly. Proper maintenance and regular inspections are crucial to avoid costly repairs and ensure the vehicle's longevity and optimal performance.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

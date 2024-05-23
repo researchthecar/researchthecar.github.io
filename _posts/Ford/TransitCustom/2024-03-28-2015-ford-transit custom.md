@@ -28,19 +28,6 @@ The 2015 Ford Transit Custom is a versatile and capable commercial van. Engine a
     * **Gearbox Bearing Failure:** The gearbox bearing can fail, causing excessive noise and difficulty shifting gears.
     * **Clutch Pedal Assembly Issues:** The clutch pedal assembly may experience problems, such as stiffness or spongy feel.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Leaf Spring Failure:** The rear leaf springs can prematurely fail, resulting in excessive body roll, poor handling, and premature tire wear.
@@ -58,19 +45,6 @@ The 2015 Ford Transit Custom is a versatile and capable commercial van. Engine a
 * **Alternator Failures:** The alternator may fail, preventing the battery from charging.
     * **Solution:** Replace the faulty alternator.
     * **Estimated Cost to Fix:** $600 - $1000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -90,15 +64,3 @@ The 2015 Ford Transit Custom is a versatile and capable commercial van. Engine a
 **Summary**
 
 The 2015 Ford Transit Custom faces several issues, including engine, transmission, suspension, electrical, and interior problems. While some of these issues are minor annoyances, others, such as turbocharger failure or gearbox bearing failure, can be costly and impact vehicle performance significantly. The severity and cost of the issues vary depending on the specific problem and affected components.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

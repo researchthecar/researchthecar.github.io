@@ -41,19 +41,6 @@ The 2010 Ford Econoline Wagon is a full-size van available with multiple engine 
   * Estimated Cost to Fix: $300 - $800+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Ball Joint Failure**
@@ -81,19 +68,6 @@ The 2010 Ford Econoline Wagon is a full-size van available with multiple engine 
   * Solution: Replace starter solenoid
   * Estimated Cost to Fix: $200 - $400+
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -126,15 +100,3 @@ The 2010 Ford Econoline Wagon is a full-size van available with multiple engine 
 **Summary**
 
 The 2010 Ford Econoline Wagon has several reported issues, including engine and transmission problems, suspension failures, electrical malfunctions, and interior concerns. The severity and cost of repairs can vary widely depending on the specific issue. Owners should be aware of these potential problems and consider preventive maintenance or repairs to avoid costly breakdowns.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

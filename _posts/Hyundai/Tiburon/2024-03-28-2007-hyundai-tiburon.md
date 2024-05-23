@@ -36,19 +36,6 @@ Owners of the 2007 Hyundai Tiburon generally praise its sporty handling, respons
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Bearing Failure:** The strut mount bearings may fail, causing a clunking noise when turning or driving over bumps. Symptoms include a rattling noise from the suspension, reduced steering response, and uneven tire wear. It is fixed by replacing the strut mount bearings. Estimated cost: $200 - $400
@@ -57,19 +44,6 @@ Owners of the 2007 Hyundai Tiburon generally praise its sporty handling, respons
 
 * **Alternator Failure:** The alternator may fail, causing a loss of electrical power and difficulty starting the vehicle. Symptoms include a dimming of lights, a flickering dashboard, and difficulty starting the engine. It is fixed by replacing the alternator. Estimated cost: $300 - $600
 * **Battery Drain:** The battery may drain prematurely, causing difficulty starting the vehicle. Symptoms include a dead battery, a clicking noise when starting the engine, and reduced electrical power. It is fixed by testing the battery and electrical system to find the source of the drain. Estimated cost: $100 - $400
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -83,15 +57,3 @@ Owners of the 2007 Hyundai Tiburon generally praise its sporty handling, respons
 **Summary**
 
 Overall, the 2007 Hyundai Tiburon is a reliable and sporty vehicle with a few potential issues. The engine and transmission issues can be costly to repair, but they are relatively uncommon. The suspension, electrical, exterior, and interior issues are generally less severe and less expensive to fix.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -43,19 +43,6 @@ The 2008 Audi TT Quattro is a sporty coupe with a 2.0L turbocharged inline-4 eng
     * Estimated Cost to Fix: $2,500 - $3,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Control Arm Bushings Wear:** The control arm bushings can wear out, leading to noise, vibrations, and reduced handling.
@@ -69,19 +56,6 @@ The 2008 Audi TT Quattro is a sporty coupe with a 2.0L turbocharged inline-4 eng
     * Solution: Locate and eliminate the source of the draw (e.g., faulty alternator, aftermarket accessories).
     * Estimated Cost to Fix: $150 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -104,15 +78,3 @@ The 2008 Audi TT Quattro is a sporty coupe with a 2.0L turbocharged inline-4 eng
 **Summary**
 
 The 2008 Audi TT Quattro is generally a reliable vehicle, but it has some common issues that can be costly to repair. Engine oil consumption, timing chain tensioner failure, and transmission control module failure are among the most significant problems. While the suspension and electrical systems are less prone to issues, the sunroof motor and interior components can occasionally cause problems. Overall, the severity and cost of the issues should be considered when evaluating the potential ownership costs of the TT Quattro.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

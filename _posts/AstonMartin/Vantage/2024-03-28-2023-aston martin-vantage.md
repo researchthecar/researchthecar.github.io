@@ -34,19 +34,6 @@ The 2023 Aston Martin Vantage is a high-performance sports car powered by a 4.0-
     * Estimated Cost to Fix: Free (under warranty)
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Lower Control Arm Bushings:**
@@ -68,19 +55,6 @@ The 2023 Aston Martin Vantage is a high-performance sports car powered by a 4.0-
     * Estimated Cost to Fix: $500 - $2,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Convertible Top Mechanism Failure:**
@@ -100,15 +74,3 @@ The 2023 Aston Martin Vantage is a high-performance sports car powered by a 4.0-
 **Summary:**
 
 Overall, the 2023 Aston Martin Vantage is a high-performance sports car that offers an exhilarating driving experience and luxurious amenities. However, owners have reported various issues, including engine problems, transmission delays, suspension issues, electrical malfunctions, and exterior and interior defects. While some issues are minor and relatively inexpensive to fix, others can be more severe and costly. Potential buyers should be aware of these issues before purchasing a Vantage.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

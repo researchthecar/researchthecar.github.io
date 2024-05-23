@@ -27,19 +27,6 @@ The 2012 Dodge Challenger is a classic muscle car with a modern twist. It is ava
 **6-Speed Manual**
 
 * **Transmission grinding or difficulty shifting:** The transmission can grind or become difficult to shift, especially when cold. Symptoms include a grinding noise and a check engine light. The solution requires replacing the transmission synchronizers and other components. Estimated cost to fix: $1,000 - $1,500
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut mount failure:** The strut mounts can fail on high-mileage vehicles, causing a clunking noise and a rough ride. Symptoms include a clunking noise and a loss of alignment. The solution requires replacing the strut mounts. Estimated cost to fix: $500 - $1,000
@@ -52,19 +39,6 @@ The 2012 Dodge Challenger is a classic muscle car with a modern twist. It is ava
 * **Starter failure:** The starter can fail on high-mileage vehicles, preventing the engine from starting. Symptoms include a clicking noise and a check engine light. The solution requires replacing the starter. Estimated cost to fix: $500 - $1,000
 * **Battery drain:** The battery can drain prematurely on high-mileage vehicles due to a faulty parasitic draw. Symptoms include a dead battery and a check engine light. The solution requires finding and fixing the source of the parasitic draw. Estimated cost to fix: $200 - $500
 * **ECU failure:** The Engine Control Unit (ECU) can fail on high-mileage vehicles, causing a loss of power and a check engine light. Symptoms include a rough idle and a check engine light. The solution requires replacing the ECU. Estimated cost to fix: $1,000 - $2,000
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door latch failure:** The door latches can fail on high-mileage vehicles, causing the doors to open unexpectedly. Symptoms include a loose door handle and a door that opens on its own. The solution requires replacing the door latch. Estimated cost to fix: $200 - $500
@@ -72,15 +46,3 @@ The 2012 Dodge Challenger is a classic muscle car with a modern twist. It is ava
 **Interior**
 
 * **Heater core failure:** The heater core can fail on high-mileage vehicles, causing a lack of heat in the cabin. Symptoms include a cold cabin and a musty odor. The solution requires replacing the heater core. Estimated cost to fix: $500 - $1,000
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

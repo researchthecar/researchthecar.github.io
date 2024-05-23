@@ -54,19 +54,6 @@ Drivers appreciate the Range Rover's ruggedness, comfort, and prestige, but some
     * Estimated Cost to Fix: $200 - $500
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Air Suspension Failure:**
     * Description/Symptoms: Loss of ride height, sagging suspension
@@ -80,19 +67,6 @@ Drivers appreciate the Range Rover's ruggedness, comfort, and prestige, but some
     * Solution: Test electrical system for parasitic draw
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Sunroof Leaks:**
@@ -111,15 +85,3 @@ Drivers appreciate the Range Rover's ruggedness, comfort, and prestige, but some
 **Summary**
 
 The 2002 Land Rover Range Rover offers a luxurious and capable driving experience, but it is not without its issues. Owners have reported problems with the engine, transmission, suspension, electrical system, and interior. While some issues are relatively minor and inexpensive to fix, others can be more severe and costly. It is important for potential buyers to be aware of these potential problems before purchasing a used Range Rover.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

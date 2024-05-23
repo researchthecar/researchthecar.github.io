@@ -49,19 +49,6 @@ Description/Symptoms: Extended use in off-road conditions can overheat the clutc
 Solution: Replacing the clutch assembly is typically required.
 Estimated Cost to Fix: $2,000 - $4,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Air Suspension Leaks**
@@ -75,19 +62,6 @@ Estimated Cost to Fix: $1,000 - $2,500+
 Description/Symptoms: The battery may discharge prematurely, especially after short trips or prolonged inactivity.
 Solution: Identifying and disconnecting the source of the electrical drain is typically required.
 Estimated Cost to Fix: $200 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -106,15 +80,3 @@ Estimated Cost to Fix: $500 - $1,500+
 **Summary**
 
 The 2018 Land Rover Range Rover Evoque is a desirable luxury SUV with relatively few reported issues. While some of the engine and transmission problems can be severe and expensive to fix, most issues seem to be minor electrical or cosmetic concerns. Overall, the Evoque's reliability is comparable to other luxury vehicles in its class.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

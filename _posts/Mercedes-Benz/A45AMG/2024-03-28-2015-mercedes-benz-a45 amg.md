@@ -29,19 +29,6 @@ The 2015 Mercedes-Benz A45 AMG is a high-performance hatchback powered by a turb
 * Estimated Cost to Fix: $2,500 - $4,000+
 * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Sway Bar End Links:** Owners have reported loose or broken sway bar end links, resulting in rattling or clunking noises while driving over bumps.
@@ -57,19 +44,6 @@ The 2015 Mercedes-Benz A45 AMG is a high-performance hatchback powered by a turb
 * Solution: Diagnose and repair faulty electrical components, replace battery.
 * Estimated Cost to Fix: $200 - $1,000+
 * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -90,15 +64,3 @@ The 2015 Mercedes-Benz A45 AMG is a high-performance hatchback powered by a turb
 **Summary:**
 
 While the 2015 Mercedes-Benz A45 AMG is a desirable performance vehicle, it has faced some reliability issues reported by owners. Engine oil leaks, clutch wear, and electrical problems have been the most prevalent. The cost to fix these issues can vary widely, depending on the severity of the problem. It's essential for potential buyers to be aware of these issues before making a purchase and consider the potential costs of repairs and maintenance.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

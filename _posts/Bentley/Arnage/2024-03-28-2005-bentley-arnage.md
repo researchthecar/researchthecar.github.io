@@ -33,19 +33,6 @@ The Arnage is known for its luxurious interior, which is appointed with high-qua
 * **Transmission shudder:** The transmission can shudder, which can be caused by a variety of problems. This is a less common problem that can cost around $1,000 to fix.
 * **Transmission failure:** The transmission can fail completely, which can cost up to $5,000 to fix.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air suspension failure:** The air suspension system can fail, which can cause the car to ride too low or too high. This is a relatively common problem that can cost around $2,000 to fix.
@@ -57,19 +44,6 @@ The Arnage is known for its luxurious interior, which is appointed with high-qua
 * **Battery failure:** The battery can fail, which can prevent the car from starting. This is a relatively common problem that can cost around $200 to fix.
 * **Alternator failure:** The alternator can fail, which can prevent the car from charging its battery. This is a less common problem that can cost around $1,000 to fix.
 * **Starter failure:** The starter can fail, which can prevent the car from starting. This is a relatively common problem that can cost around $500 to fix.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -86,15 +60,3 @@ The Arnage is known for its luxurious interior, which is appointed with high-qua
 **Summary**
 
 The 2005 Bentley Arnage is a luxurious and powerful sedan that is known for its high-quality interior and stylish exterior. However, the car is not without its problems. Some of the most common issues include oil leaks, timing chain tensioner failure, transmission slipping, air suspension failure, and battery failure. The cost to fix these problems can range from a few hundred dollars to several thousand dollars.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

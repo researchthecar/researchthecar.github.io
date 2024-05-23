@@ -32,19 +32,6 @@ The 2001 Chevrolet Impala is a full-size sedan that was praised for its comfort,
 * **5-speed automatic transmission**
     * **No known issues**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 * **Front lower control arm bushings:** The front lower control arm bushings can wear out, causing a clunking noise when turning or going over bumps.
 * Description/Symptoms: Clunking noise when turning or going over bumps, uneven tire wear.
@@ -59,19 +46,6 @@ The 2001 Chevrolet Impala is a full-size sedan that was praised for its comfort,
 * Estimated Cost to Fix: $500 - $700+
 * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior:**
 * **No known issues**
 
@@ -84,15 +58,3 @@ The 2001 Chevrolet Impala is a full-size sedan that was praised for its comfort,
 
 **Summary:**
 Overall, the 2001 Chevrolet Impala is a reliable vehicle with some minor issues. The engine and transmission issues can be costly to repair, but they are not common. The suspension and electrical issues are more affordable to fix. The interior issue with the power windows is also relatively inexpensive.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

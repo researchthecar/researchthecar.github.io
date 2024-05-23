@@ -40,19 +40,6 @@ The 2003 Chevrolet Chevy Suburban 1500 is a popular full-size SUV powered by a 5
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: 03V282000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Squeaking:**
@@ -73,19 +60,6 @@ The 2003 Chevrolet Chevy Suburban 1500 is a popular full-size SUV powered by a 5
     * Solution: Check for parasitic drain and fix accordingly
     * Estimated Cost to Fix: $0 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -111,15 +85,3 @@ The 2003 Chevrolet Chevy Suburban 1500 is a popular full-size SUV powered by a 5
 **Summary:**
 
 The 2003 Chevrolet Chevy Suburban 1500 is generally a reliable vehicle with some common issues that are mostly moderate in severity and cost to repair. Most of the issues can be prevented with regular maintenance and early detection.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

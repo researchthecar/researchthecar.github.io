@@ -58,19 +58,6 @@ Owners of the 2007 Ford Explorer Sport Trac appreciate its spacious interior, po
 
 * **No issues found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension clunking**
@@ -96,19 +83,6 @@ Owners of the 2007 Ford Explorer Sport Trac appreciate its spacious interior, po
     * Solution: Diagnose and repair the specific electrical issue.
     * Estimated Cost to Fix: Varies depending on the issue
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -139,15 +113,3 @@ Owners of the 2007 Ford Explorer Sport Trac appreciate its spacious interior, po
 **Summary**
 
 The 2007 Ford Explorer Sport Trac is a capable and versatile vehicle, but it has experienced some reliability issues. The most common problems include intake manifold runner control issues, timing chain tensioner failure, torque converter shudder, front suspension clunking, and electrical gremlins. The severity and cost of these issues can vary, but some can be significant. Before purchasing a used 2007 Explorer Sport Trac, it is important to have it thoroughly inspected by a qualified mechanic to identify any potential problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

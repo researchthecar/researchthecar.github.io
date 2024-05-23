@@ -28,19 +28,6 @@ The 1995 Chrysler Cirrus is a mid-size sedan offered with a range of engine and 
 * **6-speed manual**
     * **No major issues found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front upper control arm bushings:** Symptoms include clunking noises from the front end and premature tire wear. Solution: Replacing the front upper control arm bushings. Estimated Cost to Fix: $300 - $700+
@@ -50,19 +37,6 @@ The 1995 Chrysler Cirrus is a mid-size sedan offered with a range of engine and 
 
 * **Power window failure:** Symptoms include intermittent or complete failure of the power windows. Solution: Replacing the failing window motors or switches. Estimated Cost to Fix: $200 - $500+
 * **Headlight switch failure:** Symptoms include headlights not turning on or flickering. Solution: Replacing the headlight switch. Estimated Cost to Fix: $100 - $300+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -77,15 +51,3 @@ The 1995 Chrysler Cirrus is a mid-size sedan offered with a range of engine and 
 **Summary**
 
 The 1995 Chrysler Cirrus is a comfortable and well-built sedan with some known issues that can range in severity and cost of repair. The most significant issues to watch out for include engine problems such as intake manifold gasket failure and piston ring failure, transmission problems like torque converter failure, and suspension issues with front upper control arm bushings and rear shock absorbers. While these issues can be costly to fix, they are relatively common and can be resolved by qualified mechanics.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -29,19 +29,6 @@ The 2020 Audi TT RS Quattro is a high-performance sports car powered by a 2.5L t
 - Estimated Cost to Fix: $1,000 - $5,000+
 - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Front MacPherson Struts:**
@@ -58,19 +45,6 @@ The 2020 Audi TT RS Quattro is a high-performance sports car powered by a 2.5L t
 - Estimated Cost to Fix: $500 - $2,000
 - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 - No Issues Found
 **Interior**
@@ -78,15 +52,3 @@ The 2020 Audi TT RS Quattro is a high-performance sports car powered by a 2.5L t
 **Summary**
 
 Overall, while the 2020 Audi TT RS Quattro is generally a reliable and well-built sports car, it is not entirely free from potential issues. The reported engine oil consumption and transmission shifting problems can be costly to fix, which could be a concern for prospective buyers. However, the majority of owners seem to have positive experiences with the vehicle, enjoying its performance and handling capabilities.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

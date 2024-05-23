@@ -23,19 +23,6 @@ The 2002 Bentley Continental is a luxurious grand tourer known for its refined s
     * **Solenoid failure:** Delayed or harsh shifting. Replacement of failed solenoids. $1,000 - $2,000+
     * **Torque converter shudder:** Vibrations while driving at low speeds. Replacement of torque converter. $2,500 - $3,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air suspension:**
@@ -52,19 +39,6 @@ The 2002 Bentley Continental is a luxurious grand tourer known for its refined s
     * **Wiring damage:** Electrical malfunctions, such as inoperative gauges or headlights. Diagnosis and repair of damaged wiring. Varies depending on extent of damage.
 * **Infotainment system:**
     * **Software glitches:** Freezing, crashing, or unresponsive touchscreen. Software update or replacement of infotainment unit. $500 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -85,15 +59,3 @@ The 2002 Bentley Continental is a luxurious grand tourer known for its refined s
 **Summary:**
 
 The 2002 Bentley Continental is generally a reliable vehicle, but like any luxury car, it can experience some issues. The engine and transmission are generally robust, but the turbochargers and tensioners can fail over time. The suspension system may develop problems with the air springs or compressor. Electrical issues can arise due to battery drain or wiring damage. Some interior components, such as navigation and control units, may malfunction or become outdated. The severity and cost of these issues vary, but they should be considered when purchasing and maintaining a used Bentley Continental.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

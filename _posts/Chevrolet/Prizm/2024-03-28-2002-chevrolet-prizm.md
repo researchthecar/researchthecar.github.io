@@ -34,19 +34,6 @@ The 2002 Chevrolet Prizm is a compact sedan powered by a 1.8L inline-4 engine (1
       * Estimated Cost to Fix: $1,500 - $2,500+
       * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mounts:** Worn strut mounts can cause excessive noise, vibration, and handling problems.
@@ -68,19 +55,6 @@ The 2002 Chevrolet Prizm is a compact sedan powered by a 1.8L inline-4 engine (1
   * Solution: Identify and repair the source of the drain.
   * Estimated Cost to Fix: $100 - $250+
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -107,15 +81,3 @@ The 2002 Chevrolet Prizm is a compact sedan powered by a 1.8L inline-4 engine (1
 **Summary**
 
 The 2002 Chevrolet Prizm is a reliable and economical vehicle, but it has some common issues to watch out for, primarily with the engine and transmission. While some repairs can be costly, many of the issues are affordable to fix. Overall, the Prizm offers a good value for its price point, but prospective buyers should be aware of potential repair expenses.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

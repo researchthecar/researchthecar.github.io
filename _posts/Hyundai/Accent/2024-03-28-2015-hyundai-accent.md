@@ -41,19 +41,6 @@ The 2015 Hyundai Accent is a subcompact sedan available with two engine options:
       - Estimated Cost to Fix: $500 - $1,000
       - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **No Issues Found**
 
@@ -68,19 +55,6 @@ The 2015 Hyundai Accent is a subcompact sedan available with two engine options:
    - Solution: Replace the alternator.
    - Estimated Cost to Fix: $500 - $1,000+
    - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **No Issues Found**
@@ -99,15 +73,3 @@ The 2015 Hyundai Accent is a subcompact sedan available with two engine options:
 
 **Summary:**
 The 2015 Hyundai Accent has a number of potential issues, particularly with its engine and transmission. While some repairs may be minor and affordable, others can be costly, such as timing chain tensioner failure or transmission slippage. Potential buyers should be aware of these issues and factor them into their purchasing decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

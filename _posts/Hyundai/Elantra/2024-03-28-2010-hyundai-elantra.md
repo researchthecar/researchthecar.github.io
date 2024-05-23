@@ -58,19 +58,6 @@ The 2010 Hyundai Elantra is a compact sedan available with four-cylinder engines
     * Estimated Cost to Fix: $1,000 - $3,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Strut Assembly Failure:**
     * Description/Symptoms: Leaking struts, excessive bouncing, uneven tire wear.
@@ -94,19 +81,6 @@ The 2010 Hyundai Elantra is a compact sedan available with four-cylinder engines
     * Solution: Replace headlight bulb or repair wiring harness.
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Rust on Roof:**
@@ -134,15 +108,3 @@ The 2010 Hyundai Elantra is a compact sedan available with four-cylinder engines
 
 **Summary:**
 The 2010 Hyundai Elantra is a reliable and economical compact sedan, but it has its share of potential issues. Some of the most common problems are engine misfires, oil leaks, and transmission issues. While the cost to fix these problems can vary widely, most repairs can be made for under $1,000. The severity of these issues ranges from minor inconveniences to potential safety hazards. Overall, the Elantra remains a good choice for budget-minded consumers, but potential buyers should be aware of its potential maintenance needs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

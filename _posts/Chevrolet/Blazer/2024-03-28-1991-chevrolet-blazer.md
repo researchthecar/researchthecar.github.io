@@ -40,19 +40,6 @@ The 1991 Chevrolet Blazer was a popular mid-size SUV known for its ruggedness an
     * Estimated Cost to Fix: $200 - $300+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Front Suspension Wear**
@@ -81,19 +68,6 @@ The 1991 Chevrolet Blazer was a popular mid-size SUV known for its ruggedness an
   * Estimated Cost to Fix: $100 - $300+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior:**
 
 * **Door Lock Failure**
@@ -119,15 +93,3 @@ The 1991 Chevrolet Blazer was a popular mid-size SUV known for its ruggedness an
 **Summary:**
 
 Overall, the 1991 Chevrolet Blazer has a moderate number of issues, predominantly related to the engine, transmission, and suspension. The severity and cost of repairs vary depending on the specific issue. While some issues are relatively minor and inexpensive to fix, others can be more serious and costly.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

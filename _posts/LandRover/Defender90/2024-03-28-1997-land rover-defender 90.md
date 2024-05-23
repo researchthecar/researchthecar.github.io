@@ -29,19 +29,6 @@ The 1997 Land Rover Defender 90 is a rugged and capable off-road vehicle. It is 
 * **Solenoid failure:** The solenoids can fail, causing the transmission to shift erratically or not at all. Symptoms include harsh shifting, slipping gears, and a lack of response from the transmission. The solution is to replace the solenoids. Estimated cost to fix: $500 - $1,000.
 * **Torque converter failure:** The torque converter can fail, causing the transmission to slip and overheat. Symptoms include a loss of power, increased fuel consumption, and a whining noise from the transmission. The solution is to replace the torque converter. Estimated cost to fix: $1,500 - $2,500.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf spring failure:** The leaf springs can fail, causing the vehicle to sit lower and handle poorly. Symptoms include a sagging suspension, a rough ride, and difficulty steering. The solution is to replace the leaf springs. Estimated cost to fix: $500 - $1,000.
@@ -52,19 +39,6 @@ The 1997 Land Rover Defender 90 is a rugged and capable off-road vehicle. It is 
 * **Battery failure:** The battery can fail, causing the vehicle to lose power. Symptoms include difficulty starting the engine, dimming lights, and a lack of response from the electrical system. The solution is to replace the battery. Estimated cost to fix: $100 - $200.
 * **Alternator failure:** The alternator can fail, causing the vehicle to lose power and the battery to drain. Symptoms include dimming lights, a loss of power, and a warning light on the dashboard. The solution is to replace the alternator. Estimated cost to fix: $500 - $1,000.
 * **Starter failure:** The starter can fail, causing the vehicle to be unable to start. Symptoms include a clicking noise when the key is turned, a lack of response from the engine, and a warning light on the dashboard. The solution is to replace the starter. Estimated cost to fix: $500 - $1,000.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -92,15 +66,3 @@ The 1997 Land Rover Defender 90 is a rugged and capable off-road vehicle, but it
 The severity of the issues varies, but some of them can be expensive to fix. For example, head gasket failure can cost $1,000 - $2,000 to repair, and turbocharger failure can cost $1,500 - $2,500 to repair.
 
 Overall, the 1997 Land Rover Defender 90 is a vehicle that should be purchased with caution. Potential buyers should be aware of the potential problems and be prepared to spend money on repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

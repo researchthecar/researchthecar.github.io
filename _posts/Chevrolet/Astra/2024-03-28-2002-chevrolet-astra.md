@@ -27,19 +27,6 @@ The 2002 Chevrolet Astra was a popular compact car known for its sporty handling
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut mounts failure:** Symptoms include clunking noises, vibration, and poor handling. Solution: Replace strut mounts. Estimated Cost to Fix: $400 - $800+
@@ -49,19 +36,6 @@ The 2002 Chevrolet Astra was a popular compact car known for its sporty handling
 
 * **Alternator failure:** Symptoms include dim headlights, electrical problems, and difficulty starting. Solution: Replace alternator. Estimated Cost to Fix: $300 - $600+
 * **Starter failure:** Symptoms include difficulty starting, clicking noises, and grinding noises. Solution: Replace starter. Estimated Cost to Fix: $200 - $400+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -75,15 +49,3 @@ The 2002 Chevrolet Astra was a popular compact car known for its sporty handling
 **Summary**
 
 Overall, the 2002 Chevrolet Astra is a reliable vehicle with some common issues. The most serious issues are related to the CVT transmission, which can be expensive to repair or replace. However, most other issues are relatively minor and inexpensive to fix.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

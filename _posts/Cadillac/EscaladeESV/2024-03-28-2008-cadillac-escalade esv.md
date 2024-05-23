@@ -31,19 +31,6 @@ While the Escalade ESV offers a comfortable and luxurious driving experience, it
     - Estimated Cost to Fix: $300 - $700+
     - Recalls: NHTSA Recall #11V241000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
  - **Front Suspension Strut Failure:**
@@ -65,19 +52,6 @@ While the Escalade ESV offers a comfortable and luxurious driving experience, it
    - Solution: Replace headlight bulbs or ballast.
    - Estimated Cost to Fix: $100 - $300+
    - Recalls: NHTSA Recall #08V165000
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -104,15 +78,3 @@ While the Escalade ESV offers a comfortable and luxurious driving experience, it
 **Summary**
 
 Overall, the 2008 Cadillac Escalade ESV is a reliable vehicle, but it has some potential issues to be aware of. The most common problems tend to be relatively minor and inexpensive to fix, but some issues, such as transmission shift solenoid failure, can be more costly.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

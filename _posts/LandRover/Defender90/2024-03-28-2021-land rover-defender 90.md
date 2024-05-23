@@ -37,19 +37,6 @@ The 2021 Land Rover Defender 90 is a capable off-road SUV that offers a powerful
 * Estimated Cost to Fix: $3,000 - $5,000+
 * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension clunking:** The front suspension may make clunking noises over bumps or uneven roads.
@@ -65,19 +52,6 @@ The 2021 Land Rover Defender 90 is a capable off-road SUV that offers a powerful
 * Solution: Diagnose and repair the cause of the battery drain.
 * Estimated Cost to Fix: Varies depending on the cause
 * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -104,15 +78,3 @@ The 2021 Land Rover Defender 90 is a capable off-road SUV that offers a powerful
 **Summary:**
 
 While the 2021 Land Rover Defender 90 is a capable and stylish off-road SUV, it has some potential issues that owners should be aware of. The engine, transmission, suspension, and electrical systems have all reported issues, ranging from minor annoyances to major repairs. Some interior trim rattles and infotainment system bugs have also been reported, but they are typically less severe. The severity and cost of these issues vary depending on the specific problem and the vehicle's mileage and maintenance history.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

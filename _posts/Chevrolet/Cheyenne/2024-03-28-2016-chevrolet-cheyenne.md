@@ -48,19 +48,6 @@ The 2016 Chevrolet Cheyenne is a full-size pickup truck that is available with a
     * Estimated Cost to Fix: $800 - $1,200+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Shock Absorber Failure**
@@ -88,19 +75,6 @@ The 2016 Chevrolet Cheyenne is a full-size pickup truck that is available with a
     * Solution: Replace instrument cluster.
     * Estimated Cost to Fix: $400 - $600+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -133,15 +107,3 @@ The 2016 Chevrolet Cheyenne is a full-size pickup truck that is available with a
 **Summary**
 
 The 2016 Chevrolet Cheyenne has experienced several issues that can be costly to repair. Engine problems, such as AFM lifter failure and piston slap, are common. The transmission can also have issues, including shift solenoid failure and TCM failure. Suspension components such as shock absorbers and leaf springs may also need replacement. Electrical problems with battery drain and faulty instrument clusters can be frustrating. Exterior issues like fender rust and tailgate hinge failure are also present. While the interior may be generally comfortable, issues like climate control malfunction and wiper switch failure can occur.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

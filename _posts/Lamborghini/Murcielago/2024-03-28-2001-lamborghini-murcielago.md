@@ -46,19 +46,6 @@ The Murcielago was praised for its sleek design, powerful engine, and impressive
     * Estimated Cost to Fix: $4,000 - $6,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -75,19 +62,6 @@ The Murcielago was praised for its sleek design, powerful engine, and impressive
     * Solution: Identify and repair the short circuit.
     * Estimated Cost to Fix: $500 - $5,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -113,15 +87,3 @@ The Murcielago was praised for its sleek design, powerful engine, and impressive
 **Summary:**
 
 The 2001 Lamborghini Murcielago has several potential issues owners should be aware of. Engine problems can be severe and expensive to repair, including oil leaks, con rod failures, and timing chain tensioner failures. Transmission issues, such as grinding gears and clutch slipping, are also prevalent. Electrical issues, including battery drain and electrical shorts, can be inconvenient and potentially dangerous. Interior problems, like air conditioning failure and electrical window failure, while less severe, can still be costly to fix. Overall, the Murcielago's issues are significant and can result in high repair bills.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

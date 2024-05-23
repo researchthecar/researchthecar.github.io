@@ -83,15 +83,3 @@ The 1997 Cadillac Eldorado is a full-size luxury coupe that was available with t
 ### Summary
 
 The 1997 Cadillac Eldorado is a reliable vehicle overall, but it is not without its issues. The most severe and expensive issue is the timing chain failure on the 4.6L Northstar V8 engine. Other common issues include intake manifold gasket failure, transmission slippage, and suspension problems. However, many of these issues are relatively inexpensive to fix and can be prevented with regular maintenance.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

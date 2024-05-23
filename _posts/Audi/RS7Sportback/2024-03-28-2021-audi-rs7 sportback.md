@@ -41,19 +41,6 @@ The 2021 Audi RS7 Sportback is a high-performance luxury hatchback that combines
     Estimated Cost to Fix: $2,000 - $3,000+
     Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -71,19 +58,6 @@ The 2021 Audi RS7 Sportback is a high-performance luxury hatchback that combines
     Solution: Inspection and replacement of affected wiring harnesses.
     Estimated Cost to Fix: $1,000 - $2,000+ per harness
     Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -116,15 +90,3 @@ The 2021 Audi RS7 Sportback is a high-performance luxury hatchback that combines
 **Summary**
 
 The 2021 Audi RS7 Sportback, while a powerful and luxurious performance vehicle, has exhibited several common issues that owners have reported. The most significant concerns lie in the engine, specifically with intake valve failures and turbocharger malfunctions, which can lead to costly repairs. Some transmission problems, including control module failures and torque converter shudder, have also been encountered. Electrical glitches and leaks in the exterior are other reported issues, though the severity of these problems varies. Interior issues, such as wiper motor failures and climate control malfunctions, are present but less common. Overall, the RS7 Sportback's reliability may be compromised by these recurring problems, which can impact the ownership experience and increase maintenance costs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -41,19 +41,6 @@ The 1990 Chevrolet Astro was a compact van available with two engine options: a 
 * Estimated Cost to Fix: $600 - $1,000
 * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Sway Bar Link Failure:** Corroded or weakened sway bar links, resulting in excessive body roll and reduced handling.
@@ -72,19 +59,6 @@ The 1990 Chevrolet Astro was a compact van available with two engine options: a 
 * Solution: Identify and fix the source of the parasitic drain.
 * Estimated Cost to Fix: $200 - $600
 * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -113,15 +87,3 @@ The 1990 Chevrolet Astro was a compact van available with two engine options: a 
 **Summary:**
 
 Overall, the 1990 Chevrolet Astro is a reliable and versatile vehicle but has some known issues to watch out for. The cost of repairs can range from minor to moderate, but potential issues such as engine or transmission failures can be costly. Regular maintenance and inspections are crucial to prevent or mitigate these problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

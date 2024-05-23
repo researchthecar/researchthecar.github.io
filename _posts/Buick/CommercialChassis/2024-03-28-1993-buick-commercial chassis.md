@@ -35,19 +35,6 @@ The 1993 Buick Commercial Chassis was a full-size commercial vehicle available w
     - Estimated Cost to Fix: $500 - $700+
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Front suspension:**
   - **Ball joint failure:**
@@ -67,19 +54,6 @@ The 1993 Buick Commercial Chassis was a full-size commercial vehicle available w
     - Solution: Replace battery.
     - Estimated Cost to Fix: $100 - $200+
     - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Rust:**
@@ -102,15 +76,3 @@ The 1993 Buick Commercial Chassis was a full-size commercial vehicle available w
 
 **Summary:**
 Overall, the 1993 Buick Commercial Chassis had some common issues, particularly with the engine and transmission. The severity of these issues can vary widely, and the cost of repairs can be significant. However, the vehicle's durability and towing capability make it a worthwhile choice for those who can tolerate potential maintenance costs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

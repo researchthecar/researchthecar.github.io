@@ -55,19 +55,6 @@ Owners appreciate the Cherokee's powerful engines and comfortable interior, whil
     * Estimated Cost to Fix: $1000 - $1500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Sway bar links:** The sway bar links may become worn or damaged, causing clunking noises over bumps.
@@ -90,19 +77,6 @@ Owners appreciate the Cherokee's powerful engines and comfortable interior, whil
     * Estimated Cost to Fix: $300 - $500+
     * Recalls: 14V518000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight condensation:** Moisture can build up inside the headlight assemblies, causing condensation and reduced visibility.
@@ -124,15 +98,3 @@ Owners appreciate the Cherokee's powerful engines and comfortable interior, whil
 **Summary**
 
 The 2005 Jeep Grand Cherokee has some common issues that can range in severity and cost. The most serious issue is the valve seat failure on the 5.7L Hemi V8 engine, which can result in catastrophic engine damage. Other issues, such as oil consumption and electrical problems, are less severe but can still be costly to repair. Overall, the Cherokee is a reliable SUV, but potential buyers should be aware of these potential issues before making a purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

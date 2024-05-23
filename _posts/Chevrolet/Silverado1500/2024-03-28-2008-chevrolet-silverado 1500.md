@@ -54,19 +54,6 @@ The 2008 Chevrolet Silverado 1500 is a full-size pickup truck available in sever
         * Estimated Cost to Fix: $1,000 - $1,500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front End Vibration**
@@ -93,19 +80,6 @@ The 2008 Chevrolet Silverado 1500 is a full-size pickup truck available in sever
     * Solution: Replace the starter motor or solenoid.
     * Estimated Cost to Fix: $400 - $600+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door Handle Failure**
@@ -123,15 +97,3 @@ The 2008 Chevrolet Silverado 1500 is a full-size pickup truck available in sever
 **Summary:**
 
 The 2008 Chevrolet Silverado 1500 has a number of potential issues that can range in severity and cost. Some engine and transmission problems can be serious and expensive to fix, while other issues may be minor and affordable to address. Careful maintenance and regular inspections can help identify and prevent some of these issues, but it's important for potential owners to be aware of the potential problems associated with this vehicle before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

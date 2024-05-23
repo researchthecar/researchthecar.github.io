@@ -24,19 +24,6 @@ The 2005 Chevrolet Uplander was a popular minivan that offered a variety of engi
 * **6-Speed Automatic Transmission**
     * **Torque Converter Failure:** The torque converter can fail, causing the transmission to shudder or stall. The solution is to replace the torque converter. Estimated cost: $500 - $1,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Struts:** The front suspension struts can wear out, causing a rough ride and poor handling. The solution is to replace the struts. Estimated cost: $400 - $600+ per pair
@@ -46,19 +33,6 @@ The 2005 Chevrolet Uplander was a popular minivan that offered a variety of engi
 
 * **Battery Drain:** The battery may drain quickly due to a faulty alternator or parasitic draw. The solution is to diagnose and repair the underlying issue. Estimated cost: $100 - $500+
 * **Headlight Switch Failure:** The headlight switch can fail, causing the headlights to not work. The solution is to replace the switch. Estimated cost: $100 - $200+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -73,15 +47,3 @@ The 2005 Chevrolet Uplander was a popular minivan that offered a variety of engi
 **Summary**
 
 Overall, the 2005 Chevrolet Uplander is a reliable vehicle, but it has its share of common issues. The severity and cost of these issues can vary widely, but most are relatively minor and affordable to repair.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

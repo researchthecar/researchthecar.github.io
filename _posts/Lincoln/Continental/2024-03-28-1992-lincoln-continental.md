@@ -49,19 +49,6 @@ Popular features of the 1992 Lincoln Continental included its spacious interior,
   * **Estimated Cost to Fix:** $1,200 - $2,500+
   * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Sagging**
@@ -87,19 +74,6 @@ Popular features of the 1992 Lincoln Continental included its spacious interior,
   * **Solution:** Diagnose and repair electrical system
   * **Estimated Cost to Fix:** Varies depending on the cause
   * **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -130,15 +104,3 @@ Popular features of the 1992 Lincoln Continental included its spacious interior,
 **Summary**
 
 The 1992 Lincoln Continental has several common issues, including engine gasket failures, transmission problems, suspension sagging, electrical malfunctions, and interior issues. While the V8 engines provide good power, they are also prone to expensive repairs. The transmission can experience slipping, while the suspension may sag or squeak. Electrical problems are relatively minor but can still be costly to fix. The interior is well-appointed but may suffer from cracking dashboards and power window motor failures. Overall, the 1992 Lincoln Continental is a reliable vehicle, but potential owners should be aware of these potential issues and their associated costs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

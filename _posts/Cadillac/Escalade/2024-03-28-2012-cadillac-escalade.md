@@ -34,19 +34,6 @@ The 2012 Cadillac Escalade is a full-size luxury SUV that offers a powerful V8 e
     * Estimated Cost to Fix: $300 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushing Wear:**
@@ -67,19 +54,6 @@ The 2012 Cadillac Escalade is a full-size luxury SUV that offers a powerful V8 e
     * Solution: Replacement of window motor or switch assembly
     * Estimated Cost to Fix: $200 - $500
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -105,15 +79,3 @@ The 2012 Cadillac Escalade is a full-size luxury SUV that offers a powerful V8 e
 **Summary:**
 
 Overall, the 2012 Cadillac Escalade is a reliable and capable vehicle, but it does have some potential issues that owners should be aware of. The most common problems include engine cam phaser failure, intake manifold gasket leaks, and electrical issues. While some of these issues can be costly to repair, they are generally not major and can be addressed with regular maintenance and repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

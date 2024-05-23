@@ -32,19 +32,6 @@ The 1994 Land Rover Discovery is a capable off-road vehicle known for its rugged
   * Estimated Cost to Fix: $2,500 - $4,000+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaking Shock Absorbers:** Worn or damaged shock absorbers can leak fluid, leading to poor handling and reduced ride quality.
@@ -68,19 +55,6 @@ The 1994 Land Rover Discovery is a capable off-road vehicle known for its rugged
   * Solution: Diagnosing and repairing the faulty wiring or components.
   * Estimated Cost to Fix: Varies depending on the location of the short circuit.
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -109,15 +83,3 @@ The 1994 Land Rover Discovery is a capable off-road vehicle known for its rugged
 **Summary:**
 
 The 1994 Land Rover Discovery is a rugged off-road performer, but it is not immune to mechanical and electrical issues. The most severe and costly problems are head gasket failure and transmission slippage, which can require significant repairs. Rust is also a common issue, and interior materials may deteriorate with age. Overall, the cost of ownership for this vehicle can be high, especially if major repairs are needed.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -56,19 +56,6 @@ The Freestyle received praise for its spacious interior, comfortable ride, and v
     * Estimated Cost to Fix: $800 - $1,200+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Strut Mount Failure:**
@@ -89,19 +76,6 @@ The Freestyle received praise for its spacious interior, comfortable ride, and v
     * Solution: Diagnose and repair electrical system drain
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -127,15 +101,3 @@ The Freestyle received praise for its spacious interior, comfortable ride, and v
 **Summary:**
 
 The 2006 Ford Freestyle has several potential issues, ranging from minor annoyances to more expensive repairs. The most common issues include intake manifold gasket failure, timing belt tensioner failure, and torque converter failure. Overall, the severity of the issues is moderate, but the cost to fix them can be significant. Regular maintenance and timely repairs are important to prevent major problems and extend the life of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

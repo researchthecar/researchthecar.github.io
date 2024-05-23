@@ -89,15 +89,3 @@ Estimated Cost to Fix: $100 - $200+
 ## Summary
 
 The 1995 Chrysler New Yorker offers a comfortable and spacious ride, but it is known for some potential reliability issues, particularly with the engine, transmission, and electrical system. While some repairs can be relatively inexpensive, others, such as replacing the head gasket or performing major transmission work, can be quite costly. Overall, this vehicle may require more frequent and potentially expensive repairs compared to other vehicles in its class.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

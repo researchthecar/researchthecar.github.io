@@ -43,19 +43,6 @@ The 2022 Land Rover Discovery is a midsize luxury SUV known for its off-road cap
 
 * No Issues Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Strut Noise (2021-2022)**
@@ -78,19 +65,6 @@ The 2022 Land Rover Discovery is a midsize luxury SUV known for its off-road cap
     * Solution: Diagnosis and repair of electrical system or replacement of faulty components
     * Estimated Cost to Fix: $200 - $1,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Roof Rail Trim Corrosion (2021-2022)**
@@ -112,15 +86,3 @@ The 2022 Land Rover Discovery is a midsize luxury SUV known for its off-road cap
 **Overall Summary**
 
 The 2022 Land Rover Discovery has experienced several issues, including timing chain problems, valve cover gasket leaks, transmission fluid leaks, suspension noise, electrical system malfunctions, and interior component failures. While many issues are minor and relatively inexpensive to fix, some can be costly, such as major engine repairs or transmission replacements. It is important for owners to be aware of these potential problems and address them promptly to avoid further damage or inconvenience.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

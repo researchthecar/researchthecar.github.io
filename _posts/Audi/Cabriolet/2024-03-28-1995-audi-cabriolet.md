@@ -37,19 +37,6 @@ The 1995 Audi Cabriolet is a stylish and luxurious convertible that offers a thr
     * Estimated Cost to Fix: $300 - $600+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mounts:**
@@ -71,19 +58,6 @@ The 1995 Audi Cabriolet is a stylish and luxurious convertible that offers a thr
     * Solution: Replace the window regulator motor or switch.
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -110,15 +84,3 @@ The 1995 Audi Cabriolet is a stylish and luxurious convertible that offers a thr
 **Summary:**
 
 The 1995 Audi Cabriolet is a desirable vehicle that offers a combination of performance and style. However, it is not without its share of issues. The most common problems are related to the intake manifold gasket, synchronizer wear, transmission fluid leaks, and electrical malfunctions. While these repairs can be costly, they are generally not severe and can be easily addressed by a qualified mechanic. Overall, the Cabriolet remains a popular choice for enthusiasts who appreciate its timeless design and thrilling driving experience.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

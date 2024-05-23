@@ -48,19 +48,6 @@ Owners praise the Econoline Van's spacious interior, powerful engines, and towin
 
 * **Valve body failure:** Valve body fails, causing shifting problems and check engine light; **Symptoms:** Shifting problems, check engine light; **Solution:** Replace valve body; **Estimated Cost to Fix:** $500 - $1,000; **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension ball joint failure:** Ball joints wear out prematurely, causing knocking noises and poor handling; **Symptoms:** Knocking noises, poor handling, uneven tire wear; **Solution:** Replace ball joints; **Estimated Cost to Fix:** $300 - $600; **Recalls:** None Found
@@ -70,19 +57,6 @@ Owners praise the Econoline Van's spacious interior, powerful engines, and towin
 
 * **Starter failure:** Starter fails, preventing the engine from starting; **Symptoms:** Engine won't start, no crank; **Solution:** Replace starter; **Estimated Cost to Fix:** $300 - $500; **Recalls:** None Found
 * **Battery failure:** Battery fails prematurely, causing electrical problems; **Symptoms:** Electrical problems, difficulty starting, dim lights; **Solution:** Replace battery; **Estimated Cost to Fix:** $100 - $200; **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -95,15 +69,3 @@ Owners praise the Econoline Van's spacious interior, powerful engines, and towin
 **Summary:**
 
 The 2011 Ford Econoline Van is known for its reliable engines and powerful performance, but it also suffers from several common issues. The most severe and costly issue is transmission failure, which can lead to significant downtime and repairs. Other common problems include engine intake manifold gasket failure, timing chain tensioner failure, spark plug failure, exhaust manifold bolts failure, torque converter failure, transmission control module (TCM) failure, and suspension ball joint failure. While the Econoline Van has solid capabilities, potential buyers should be aware of these issues and factor in the cost of potential repairs before making a purchasing decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

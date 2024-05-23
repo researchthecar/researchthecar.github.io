@@ -30,19 +30,6 @@ Owners generally praise the Escalade ESV for its spacious interior, comfortable 
 * **Transmission Slipping:** The transmission may slip, causing the vehicle to hesitate or fail to shift smoothly. Symptoms include slipping gears, loss of power, and increased fuel consumption. The solution is to rebuild or replace the transmission. Estimated Cost to Fix: $2,000 - $4,000
 * **Torque Converter Failure:** The torque converter may fail, causing the transmission to overheat or fail to engage. Symptoms include slipping gears, shuddering, and increased fuel consumption. The solution is to replace the torque converter. Estimated Cost to Fix: $1,000 - $2,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Sagging:** The front suspension may sag, causing the vehicle to ride lower in the front. Symptoms include a noticeable drop in ride height and reduced handling. The solution is to replace the front suspension components. Estimated Cost to Fix: $500 - $1,000
@@ -50,19 +37,6 @@ Owners generally praise the Escalade ESV for its spacious interior, comfortable 
 **Electrical**
 
 * **Electrical Harness Faults:** The electrical harness may develop faults, causing various electrical problems. Symptoms may include flickering lights, inoperative accessories, and battery drain. The solution is to repair or replace the faulty wiring. Estimated Cost to Fix: Varies depending on the extent of the damage
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -81,15 +55,3 @@ Owners generally praise the Escalade ESV for its spacious interior, comfortable 
 **Summary**
 
 The 2011 Cadillac Escalade ESV is a spacious and powerful SUV that has received generally positive feedback. However, it has been reported to have some reliability issues, particularly with the engine, transmission, and electrical system. The severity and cost of these issues can vary depending on the specific problem and the extent of the damage.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

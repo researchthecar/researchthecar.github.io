@@ -45,19 +45,6 @@ The 2022 Aston Martin DBX is a high-performance luxury SUV that combines the bra
 * Solution: Replace worn clutch packs or torque converter.
 * Estimated Cost to Fix: $2,000 - $4,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Adaptive Air Suspension**
@@ -84,19 +71,6 @@ The 2022 Aston Martin DBX is a high-performance luxury SUV that combines the bra
 * Solution: Update software or replace infotainment system.
 * Estimated Cost to Fix: $500 - $1,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **No Issues Found**
@@ -120,15 +94,3 @@ The 2022 Aston Martin DBX is a high-performance luxury SUV that combines the bra
 **Summary**
 
 The 2022 Aston Martin DBX is a highly capable luxury SUV with exceptional performance and refinement. However, it is not without its issues. Engine misfiring, fuel pump failure, and suspension problems are among the most commonly reported complaints. While these issues can be costly to fix, they are generally not considered severe enough to detract significantly from the overall driving experience.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

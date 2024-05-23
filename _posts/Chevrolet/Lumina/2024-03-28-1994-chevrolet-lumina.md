@@ -32,19 +32,6 @@ Despite its strengths, the Lumina had several issues that affected its overall r
 
 * **Transmission slipping or failure:** Causes difficulty shifting, loss of power, and transmission damage. Solution: Overhaul or replace the transmission. Estimated Cost to Fix: $1,500 - $2,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Struts/shocks failure:** Can lead to poor handling, excessive tire wear, and a bumpy ride. Solution: Replace the struts or shocks. Estimated Cost to Fix: $200 - $400+
@@ -54,19 +41,6 @@ Despite its strengths, the Lumina had several issues that affected its overall r
 
 * **Battery drain:** Caused by faulty alternator, starter, or electrical components. Solution: Diagnose and repair the faulty component. Estimated Cost to Fix: $100 - $500+
 * **Headlight switch failure:** Causes headlights to flicker or not work. Solution: Replace the headlight switch. Estimated Cost to Fix: $100 - $200+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -80,15 +54,3 @@ Despite its strengths, the Lumina had several issues that affected its overall r
 **Summary:**
 
 The 1994 Chevrolet Lumina has several potential issues that can affect its reliability and functionality. The most severe and expensive issues include engine and transmission failures, which can cost thousands of dollars to repair. While some issues are minor and relatively inexpensive to fix, the overall reliability of the Lumina is compromised by the frequency and severity of these problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

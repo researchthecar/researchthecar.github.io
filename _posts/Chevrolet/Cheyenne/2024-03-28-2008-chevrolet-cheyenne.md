@@ -63,19 +63,6 @@ The 2008 Chevrolet Cheyenne is a full-size pickup truck offered with a variety o
     - Estimated Cost to Fix: $500 - $1,000
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Leaking shocks:**
@@ -101,19 +88,6 @@ The 2008 Chevrolet Cheyenne is a full-size pickup truck offered with a variety o
     - Solution: Electrical system inspection to find and fix parasitic drain
     - Estimated Cost to Fix: $100 - $500
     - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -144,15 +118,3 @@ The 2008 Chevrolet Cheyenne is a full-size pickup truck offered with a variety o
 **Summary**
 
 The 2008 Chevrolet Cheyenne is a powerful and capable pickup truck, but it is not without its issues. Some of the common problems owners may encounter include engine issues, transmission problems, suspension issues, and electrical issues. The severity of these issues can vary, and the cost of repairs can range from a few hundred dollars to several thousand dollars. Overall, the Cheyenne is a reliable vehicle, but it is important to be aware of the potential issues before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -117,15 +117,3 @@ The Malibu was praised for its spacious interior, comfortable ride, and good fue
 ## Summary
 
 The 1998 Chevrolet Malibu is a reliable vehicle with a few common issues. The most severe and expensive issue is the CVT transmission failure, which can cost up to $5,000 to repair. Other issues, such as intake manifold gasket failure and alternator failure, are less severe and less expensive to repair. Overall, the Malibu is a good choice for a used car, but it is important to be aware of the potential issues before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

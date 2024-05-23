@@ -60,19 +60,6 @@ The 2014 Chevrolet Express Cargo is a full-size van that combines spaciousness a
     * Estimated Cost to Fix: $1,000 - $1,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Front Suspension**
@@ -104,19 +91,6 @@ The 2014 Chevrolet Express Cargo is a full-size van that combines spaciousness a
     * Estimated Cost to Fix: $500 - $800+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door Handle Failure:**
@@ -143,15 +117,3 @@ The 2014 Chevrolet Express Cargo is a full-size van that combines spaciousness a
 The 2014 Chevrolet Express Cargo has a number of potential issues to be aware of. The most severe and costly problems relate to the engine, such as intake manifold gasket failure, piston ring failure, and oil pump failure. Transmission issues, while less expensive, can also be problematic. While other components like the suspension, electrical system, and interior have their own set of issues, these are generally less impactful and expensive to repair.
 
 Overall, the Express Cargo is a reliable vehicle for its intended purpose, but potential owners should be aware of the potential problems it may face and factor that into their purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

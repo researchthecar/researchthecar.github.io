@@ -22,19 +22,6 @@ The 2019 Bentley Flying Spur is a luxurious sedan powered by a 6.0L twin-turboch
 * **Clutch Pack Failure:** Some owners have reported premature wear and failure of the clutch packs within the transmission, leading to slipping gears and reduced power. Requires replacement or repair of the clutch packs. Estimated Cost to Fix: $3,000 - $5,000+
 * **Transmission Control Module Failure:** This issue affects W12 engines produced before a specific production date and can cause the transmission to enter limp mode and limit vehicle speed. Requires replacement of the transmission control module. Estimated Cost to Fix: $2,000 - $3,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Fault:** Some owners have reported faults with the air suspension system, causing the vehicle to sag or ride unevenly. Requires diagnosis and repair or replacement of the affected components. Estimated Cost to Fix: Varies depending on the specific issue.
@@ -43,19 +30,6 @@ The 2019 Bentley Flying Spur is a luxurious sedan powered by a 6.0L twin-turboch
 
 * **Battery Drain:** Some owners have experienced excessive battery drain when the vehicle is parked, leading to a dead battery. Requires diagnosis and repair of the electrical system. Estimated Cost to Fix: Varies depending on the specific cause.
 * **Infotainment System Glitches:** Occasional glitches and bugs have been reported with the infotainment system, causing it to freeze or become unresponsive. Requires software updates or component replacement. Estimated Cost to Fix: Varies depending on the specific issue.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -68,15 +42,3 @@ The 2019 Bentley Flying Spur is a luxurious sedan powered by a 6.0L twin-turboch
 **Summary:**
 
 The 2019 Bentley Flying Spur is an opulent and powerful luxury sedan that may encounter some issues. The severity and cost of these issues vary, with some being relatively minor and others more significant and expensive. It's recommended to research specific issues thoroughly and consider the vehicle's overall reliability and maintenance costs before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

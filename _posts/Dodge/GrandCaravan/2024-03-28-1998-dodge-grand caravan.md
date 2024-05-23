@@ -51,19 +51,6 @@ The 1998 Dodge Grand Caravan is a versatile minivan with a spacious interior and
     * Solution: Replace input shaft bearing
     * Estimated Cost to Fix: $200 - $400
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Failure:**
@@ -86,19 +73,6 @@ The 1998 Dodge Grand Caravan is a versatile minivan with a spacious interior and
     * Solution: Replace starter
     * Estimated Cost to Fix: $200 - $400
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Tailgate Corrosion:**
@@ -120,15 +94,3 @@ The 1998 Dodge Grand Caravan is a versatile minivan with a spacious interior and
 **Summary:**
 
 While the 1998 Dodge Grand Caravan offers a practical and spacious driving experience, it has encountered some issues over time. Some of these issues, such as water pump failure or transmission slipping gears, can be costly to repair. However, other issues, such as dashboard cracking or center console lid failure, are less severe and more affordable to address. Overall, while the vehicle may require some attention, it generally provides a decent value for its cost.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

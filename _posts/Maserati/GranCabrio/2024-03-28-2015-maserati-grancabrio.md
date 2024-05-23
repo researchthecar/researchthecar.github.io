@@ -26,19 +26,6 @@ The Maserati GranCabrio is a performance-oriented convertible with a luxurious i
     * **Torque converter failure:** Affects vehicles with the 6-speed automatic transmission. Symptoms include shuddering or slipping while driving, loss of power, and overheating. Solution: Replace the torque converter. Estimated cost to fix: $3,000 - $5,000+
     * **Transmission control module failure:** Can occur on vehicles with the 6-speed automatic transmission. Symptoms include erratic shifting, delayed engagement, and transmission fault messages. Solution: Replace the transmission control module. Estimated cost to fix: $2,000 - $3,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension strut mount failure:** Affects vehicles with both the 4.7-liter and 5.3-liter V8 engines. Symptoms include clunking or rattling noises from the front suspension, uneven tire wear, and misalignment. Solution: Replace the front suspension strut mounts. Estimated cost to fix: $500 - $1,000
@@ -48,19 +35,6 @@ The Maserati GranCabrio is a performance-oriented convertible with a luxurious i
 * **Battery drain:** Affects vehicles with both the 4.7-liter and 5.3-liter V8 engines. Symptoms include a dead battery after the vehicle has been sitting for an extended period, dimming headlights, and electrical malfunctions. Solution: Diagnose and repair any electrical components that are causing the battery drain. Estimated cost to fix: Varies
 * **Alternator failure:** Affects vehicles with both the 4.7-liter and 5.3-liter V8 engines. Symptoms include a warning light on the dashboard, flickering lights, and loss of electrical power. Solution: Replace the alternator. Estimated cost to fix: $500 - $1,000
 * **ECU failure:** Can occur on vehicles with both the 4.7-liter and 5.3-liter V8 engines. Symptoms include random engine stalling, loss of power, and difficulty starting. Solution: Replace the ECU. Estimated cost to fix: $2,000 - $4,000
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -75,15 +49,3 @@ The Maserati GranCabrio is a performance-oriented convertible with a luxurious i
 **Summary**
 
 The Maserati GranCabrio is a high-performance convertible that offers a thrilling driving experience and luxurious appointments. However, it has faced some reliability issues with its engine, transmission, electrical system, and other components. The severity of the issues varies, with some being relatively minor and inexpensive to fix, while others are more serious and can result in significant downtime and repair costs. Before purchasing a GranCabrio, potential buyers should be aware of the potential issues and factor in the potential costs of repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -25,19 +25,6 @@ The 2023 Aston Martin DBS is a powerful, luxurious grand tourer that captivates 
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Adaptive Damping System Malfunction**
@@ -60,19 +47,6 @@ The 2023 Aston Martin DBS is a powerful, luxurious grand tourer that captivates 
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Carbon Fiber Body Panel Delamination**
@@ -92,15 +66,3 @@ The 2023 Aston Martin DBS is a powerful, luxurious grand tourer that captivates 
 **Summary:**
 
 The 2023 Aston Martin DBS is a high-performance grand tourer that provides thrilling performance and luxurious comfort. However, it has faced some issues, including turbocharger failures, transmission shuddering, suspension malfunctions, and electrical problems. While some of these issues are relatively minor, others can be more costly to repair. Owners should be aware of these potential problems and consider factoring the potential repair costs into their purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

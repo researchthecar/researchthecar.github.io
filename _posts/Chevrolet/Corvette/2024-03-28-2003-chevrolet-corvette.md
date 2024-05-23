@@ -96,15 +96,3 @@ The Corvette is praised for its powerful engines, sporty handling, and iconic de
 ### Summary
 
 The 2003 Chevrolet Corvette is a high-performance sports car with a range of issues across various components. The severity and cost of the issues vary, with some minor problems being inexpensive to fix, while others can be more costly and require extensive repairs. However, it's important to note that not all Corvettes will experience these issues, and proper maintenance and care can help prevent or mitigate some problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

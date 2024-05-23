@@ -30,19 +30,6 @@ The 1991 Chevrolet Tracker is a compact SUV that was available with two engine o
 
 * **Transmission Slipping:** Description: Transmission failing to engage gears properly, resulting in loss of power and difficulty shifting. Solution: Rebuild or replace the transmission. Estimated Cost to Fix: $1,500 - $2,500+ Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Wear:** Description: Worn or damaged ball joints, tie rods, and/or control arms leading to loose handling, vibration, and uneven tire wear. Solution: Replace the affected components. Estimated Cost to Fix: $500 - $1,000+ Recalls: None Found
@@ -52,19 +39,6 @@ The 1991 Chevrolet Tracker is a compact SUV that was available with two engine o
 
 * **Alternator Failure:** Description: Failure of the alternator to charge the battery, leading to electrical issues and potential stalling. Solution: Replace the alternator. Estimated Cost to Fix: $400 - $600+ Recalls: None Found
 * **Starter Problems:** Description: Failure of the starter to engage or turn over the engine. Solution: Replace the starter or repair electrical connections. Estimated Cost to Fix: $200 - $500+ Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -79,15 +53,3 @@ The 1991 Chevrolet Tracker is a compact SUV that was available with two engine o
 **Summary**
 
 The 1991 Chevrolet Tracker has some common issues, particularly with the engine, transmission, and suspension. The cost of repairs can vary significantly depending on the severity of the problem. While the Tracker is a reliable vehicle overall, it is essential to be aware of potential issues before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

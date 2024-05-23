@@ -43,19 +43,6 @@ The 1996 Lamborghini Diablo was a high-performance sports car powered by a mid-m
   - Solution: Replace the TCM or repair the wiring harness.
   - Estimated Cost to Fix: $1,000 - $2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension Issues**
 
 **Front and Rear Suspension**
@@ -81,19 +68,6 @@ The 1996 Lamborghini Diablo was a high-performance sports car powered by a mid-m
 - **Electrical Shorts:** Damaged wiring or faulty electrical components can cause electrical shorts, resulting in blown fuses or intermittent electrical malfunctions.
   - Solution: Identify and repair the electrical short.
   - Estimated Cost to Fix: $500 - $1,500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior Issues**
 
@@ -122,15 +96,3 @@ The 1996 Lamborghini Diablo was a high-performance sports car powered by a mid-m
 **Summary:**
 
 The 1996 Lamborghini Diablo was a powerful and exotic sports car; however, it also had a reputation for reliability issues. The engine, transmission, suspension, and electrical systems were all prone to various problems, which could be costly to repair. The interior also had some issues, but they were generally less severe. Overall, the Diablo was an exciting car to drive, but it required significant maintenance and repairs to keep it in optimal condition. The cost of ownership could be prohibitively high for many potential buyers.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

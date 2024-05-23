@@ -51,15 +51,3 @@ The 2021 Lamborghini Huracan is a high-performance sports car that delivers an e
 ### Summary
 
 Overall, the 2021 Lamborghini Huracan is a well-engineered and thrilling sports car. However, it is not immune to certain issues that can arise with high-performance vehicles. The most common problems include engine valve issues, transmission clutch slippage, suspension bushing failures, electrical system malfunctions, and interior glitches. These issues can vary in severity and cost to fix, ranging from minor inconveniences to major repairs. Owners should be prepared for potential expenses associated with maintaining and repairing their Huracan.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

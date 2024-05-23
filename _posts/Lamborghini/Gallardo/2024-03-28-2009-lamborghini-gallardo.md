@@ -42,19 +42,6 @@ The 2009 Lamborghini Gallardo is a mid-engined sports car that was produced from
     * Estimated Cost to Fix: $2,500 - $4,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -72,19 +59,6 @@ The 2009 Lamborghini Gallardo is a mid-engined sports car that was produced from
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **No Issues Found**
@@ -100,15 +74,3 @@ The 2009 Lamborghini Gallardo is a mid-engined sports car that was produced from
 **Summary**
 
 The 2009 Lamborghini Gallardo is a high-performance sports car that is known for its exotic styling, blistering acceleration, and sharp handling. However, it is also known for its high cost and maintenance requirements. The Gallardo is prone to various issues, including engine valve spring failure, connecting rod bearing failure, transmission synchronizer failure, electrical shorts, and HVAC system malfunctions. The severity and cost of these issues can vary widely, depending on the specific problem.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -57,19 +57,6 @@ The 2011 Lincoln Navigator is a full-size SUV known for its spacious cabin, powe
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front lower control arm failure:**
@@ -95,19 +82,6 @@ The 2011 Lincoln Navigator is a full-size SUV known for its spacious cabin, powe
     * Solution: Replacement of alternator
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -143,15 +117,3 @@ The 2011 Lincoln Navigator is a full-size SUV known for its spacious cabin, powe
 **Summary:**
 
 The 2011 Lincoln Navigator offers a comfortable ride and luxurious features, but it has experienced several notable issues. Engine problems, such as timing chain tensioner failure and cylinder head failure, can be costly to repair. The transmission may also develop torque converter shudder or fluid leaks. Other issues include suspension failure, electrical problems, and interior malfunctions. Some of these issues have led to recalls, highlighting the severity and potential safety concerns associated with these problems. While the Navigator is a popular SUV, potential buyers should be aware of these issues and factor in the potential costs associated with repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

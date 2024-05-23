@@ -52,19 +52,6 @@ The 1995 Chevrolet W5500 Tiltmaster is a heavy-duty commercial truck known for i
     * Estimated Cost to Fix: $300 - $600+
     * Recalls: #01V162000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf Spring Sag**
@@ -90,19 +77,6 @@ The 1995 Chevrolet W5500 Tiltmaster is a heavy-duty commercial truck known for i
     * Solution: Replacing or repairing damaged wiring harness
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -133,15 +107,3 @@ The 1995 Chevrolet W5500 Tiltmaster is a heavy-duty commercial truck known for i
 **Summary**
 
 The 1995 Chevrolet W5500 Tiltmaster offers high towing and hauling capabilities but may face certain issues depending on the specific engine and transmission options. The most common issues include intake manifold gasket failure, fuel injector failure, and transmission fluid leaks. While some issues are relatively minor and inexpensive to fix, others can be more severe and costly. Overall, the reliability of the vehicle depends on proper maintenance and repairs as needed.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

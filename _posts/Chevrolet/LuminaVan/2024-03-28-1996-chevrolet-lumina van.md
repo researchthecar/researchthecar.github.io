@@ -59,19 +59,6 @@ The 1996 Chevrolet Lumina Van was a part of the third generation Lumina lineup. 
   * Solution: Replace clutch
   * Estimated Cost to Fix: $400 - $600+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Front Suspension Strut Failure:** Causes clunking noises, reduced ride quality, and potential loss of control
   * Solution: Replace front suspension struts
@@ -91,19 +78,6 @@ The 1996 Chevrolet Lumina Van was a part of the third generation Lumina lineup. 
 * **Alternator Failure:** Insufficient charging of the battery, causing electrical problems and potential vehicle failure
   * Solution: Replace alternator
   * Estimated Cost to Fix: $400 - $600+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -129,15 +103,3 @@ The 1996 Chevrolet Lumina Van was a part of the third generation Lumina lineup. 
 **Summary:**
 
 The 1996 Chevrolet Lumina Van is a reliable and versatile vehicle with a few potential issues. Some of the more severe and costly repairs include intake manifold and head gasket failures on the engines, transmission overhauls, and suspension strut replacements. However, many of the issues can be resolved at a reasonable cost. Overall, the Lumina Van is a well-liked vehicle for its comfort, space, and safety.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -26,19 +26,6 @@ The 2019 Chevrolet Spark is a subcompact hatchback available with two engine opt
         * Estimated Cost to Fix: $100 - $200+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -50,19 +37,6 @@ The 2019 Chevrolet Spark is a subcompact hatchback available with two engine opt
         * Solution: Replace the battery or check for electrical system malfunctions.
         * Estimated Cost to Fix: $100 - $300+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -83,15 +57,3 @@ The 2019 Chevrolet Spark is a subcompact hatchback available with two engine opt
 **Summary**
 
 While the 2019 Chevrolet Spark offers affordability and fuel efficiency, it has encountered some issues with the engine, transmission, electrical system, exterior, and interior components. The severity and cost to fix these issues vary, but some, such as excessive oil consumption and loose tail lights, can be significant. It is recommended to address these issues promptly to avoid further damage or inconvenience.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

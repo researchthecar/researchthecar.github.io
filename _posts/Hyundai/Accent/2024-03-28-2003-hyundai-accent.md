@@ -24,19 +24,6 @@ The 2003 Hyundai Accent is a compact sedan known for its affordability and fuel 
 * **4-speed Automatic**
     * **Transmission Fluid Leak:** Description/Symptoms: Transmission fluid leaking from the transmission pan or lines, causing slipping gears and transmission failure. Solution: Repair or replace the leaking component. Estimated Cost to Fix: $250 - $400+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Bearing Failure:** Description/Symptoms: Clunking or rattling noise from the front suspension, especially when turning or going over bumps. Solution: Replace the strut mount bearings. Estimated Cost to Fix: $200 - $300+
@@ -46,19 +33,6 @@ The 2003 Hyundai Accent is a compact sedan known for its affordability and fuel 
 
 * **Battery Drain:** Description/Symptoms: Battery drains quickly, even when the vehicle is turned off. Solution: Diagnose and repair the source of the electrical drain, such as a faulty alternator or parasitic battery draw. Estimated Cost to Fix: $200 - $500+
 * **Ignition Switch Failure:** Description/Symptoms: Difficulty starting the vehicle or the ignition switch sticking or breaking. Solution: Replace the ignition switch. Estimated Cost to Fix: $250 - $400+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -73,15 +47,3 @@ The 2003 Hyundai Accent is a compact sedan known for its affordability and fuel 
 **Summary:**
 
 Overall, the 2003 Hyundai Accent is a budget-friendly vehicle that offers good fuel efficiency. However, it has several common issues that can be costly to repair, such as engine oil leaks, transmission fluid leaks, and suspension problems. These issues can range in severity from minor annoyances to major breakdowns, so it's important to be aware of them when purchasing or owning a 2003 Hyundai Accent.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

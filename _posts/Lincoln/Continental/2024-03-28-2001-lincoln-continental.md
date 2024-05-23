@@ -84,15 +84,3 @@ No Issues Found
 ## **Summary**
 
 The 2001 Lincoln Continental is a reliable and comfortable vehicle, but it is not without its issues. The most common problems include intake manifold gasket failure (V8 engine), transmission slipping (both transmissions), air suspension failure, alternator failure, headlight switch failure, instrument cluster failure, and power window motor failure. The severity and cost of these issues vary, but overall, the Continental is a solid choice for a used luxury sedan.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -52,15 +52,3 @@ The 2023 Hyundai Kona Electric is a compact electric SUV that offers a compellin
 ## **Summary**
 
 While the 2023 Hyundai Kona Electric offers many desirable features, it also has some reported issues that owners should be aware of. The electric motor's battery capacity degradation is a potentially significant concern, as it can impact the vehicle's range and overall performance. Other issues, such as suspension noise, electrical problems, and interior issues, are generally less severe but can still be annoying or costly to fix. Overall, prospective buyers should weigh the potential benefits and drawbacks carefully before making a decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

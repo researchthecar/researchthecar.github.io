@@ -43,19 +43,6 @@ Solution: Software updates or transmission fluid replacement
 Estimated Cost to Fix: $0 - $400 (Software updates)
 Recalls: NHTSA Campaign Number 19V571000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Front Suspension Struts Failure**
@@ -84,19 +71,6 @@ Solution: Replacement of starter
 Estimated Cost to Fix: $300 - $500
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 **Headlight Condensation**
@@ -122,15 +96,3 @@ Recalls: None Found
 **Summary:**
 
 While the 2017 Chevrolet Aveo offers a practical and fuel-efficient option, some owners have encountered issues with reliability. The valve cover gasket leak and alternator failure are relatively common problems, while timing chain failure and transmission issues can be more severe and expensive to repair. The suspension and electrical systems have also been reported to experience problems. Overall, the Aveo's reliability concerns may be a deterrent for some potential buyers.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

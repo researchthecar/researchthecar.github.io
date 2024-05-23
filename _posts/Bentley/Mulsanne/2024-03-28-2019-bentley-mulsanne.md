@@ -37,19 +37,6 @@ While the Mulsanne has garnered praise for its lavish amenities and exceptional 
         - Solution: Repair or replace faulty transmission components.
         - Estimated Cost to Fix: $2,000 - $4,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Air Suspension**
@@ -72,19 +59,6 @@ While the Mulsanne has garnered praise for its lavish amenities and exceptional 
     - Description/Symptoms: Inoperative or unresponsive infotainment system, including navigation, audio, and climate controls.
     - Solution: Software update or hardware replacement.
     - Estimated Cost to Fix: $500 - $2,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -111,15 +85,3 @@ While the Mulsanne has garnered praise for its lavish amenities and exceptional 
 **Summary**
 
 Overall, the 2019 Bentley Mulsanne is a remarkably luxurious and capable vehicle, but not without its share of potential issues. The most common problems reported by owners include oil leaks, turbocharger failures, transmission slipping, air suspension issues, battery drain, and instrument cluster faults. While the severity of these issues can vary, some can be quite costly to repair, especially those involving engine or transmission components. It is important for potential buyers to be aware of these potential issues and factor in the associated repair costs when considering a Mulsanne. Regular maintenance and timely repairs are crucial for keeping this opulent sedan in top condition.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

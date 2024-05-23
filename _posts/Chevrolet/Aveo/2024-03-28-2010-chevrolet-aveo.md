@@ -46,19 +46,6 @@ Owners appreciate the Aveo's affordability, fuel efficiency, and compact size. H
     * Estimated Cost to Fix: $2,500 - $3,500
     * Recalls: NHTSA Campaign Number 11V151000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Bearing Failure:**
@@ -72,19 +59,6 @@ Owners appreciate the Aveo's affordability, fuel efficiency, and compact size. H
     * Description/Symptoms: Random electrical issues, such as flickering lights, dead batteries, and loss of power.
     * Solution: Diagnosis and repair of faulty electrical components
     * Estimated Cost to Fix: Varies depending on the specific issue
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -103,15 +77,3 @@ Owners appreciate the Aveo's affordability, fuel efficiency, and compact size. H
 **Summary:**
 
 The 2010 Chevrolet Aveo has several known issues, including premature engine failure, transmission problems, suspension issues, electrical failures, and interior problems. The severity of these issues varies, with some requiring major repairs that can be costly. While it may not be the most reliable vehicle on the market, the Aveo remains an affordable and fuel-efficient option for those with a limited budget.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

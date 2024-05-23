@@ -24,19 +24,6 @@ The 1996 Chevrolet Astro is a versatile midsize van available in passenger and c
   - **Transmission fluid leaks:** Seals or gaskets leak, causing transmission fluid loss. Repair or replacement of leaking components needed. $400 - $800+
   - **Internal transmission failure:** Major component failures within the transmission, leading to complete transmission replacement. $2,000 - $3,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Front suspension:**
@@ -51,19 +38,6 @@ The 1996 Chevrolet Astro is a versatile midsize van available in passenger and c
 - **Alternator failure:** Alternator malfunctions, not charging the battery, or leading to electrical system issues. Alternator replacement required. $200 - $400+
 - **Starter failure:** Starter malfunctions, preventing the engine from starting. Starter replacement required. $300 - $500+
 - **Battery drain:** Electrical components or wiring faults drain the battery, causing difficulty starting the vehicle. Repair or replacement of faulty components needed. $100 - $400+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -80,15 +54,3 @@ The 1996 Chevrolet Astro is a versatile midsize van available in passenger and c
 **Summary:**
 
 The 1996 Chevrolet Astro is a capable van with various engine and transmission options. However, it is prone to certain issues that can be costly to repair. Engine-related problems can be severe and involve substantial expenses. Transmission issues are also common, potentially leading to significant repair bills. Other issues, while not as severe, can still impact the ownership experience and convenience of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

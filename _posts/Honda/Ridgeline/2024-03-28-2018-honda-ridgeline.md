@@ -53,19 +53,6 @@ The Ridgeline is available with the following engine and transmission options:
 
 - **No issues found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Rear suspension sag:**
@@ -92,19 +79,6 @@ The Ridgeline is available with the following engine and transmission options:
     - **Estimated Cost to Fix:** $500 - $2,000
     - **Recalls:** 2018 Honda Ridgeline (Recall # 18V691000)
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 - **No issues found**
@@ -125,15 +99,3 @@ The Ridgeline is available with the following engine and transmission options:
 **Summary**
 
 The 2018 Honda Ridgeline is a popular pickup truck that has been plagued by a number of issues. The most common problems include engine misfires, excessive oil consumption, timing chain noise, transmission shifting problems, and electrical glitches. While some of these issues are relatively minor and inexpensive to fix, others can be more serious and costly. Overall, the Ridgeline has received mixed reviews from owners, with some praising its spacious cabin and versatile bed, while others have complained about its reliability issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

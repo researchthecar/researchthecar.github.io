@@ -39,19 +39,6 @@ The 2004 Maserati Coupe is a stylish and powerful grand tourer that was praised 
    * **Solution:** Replace torque converter
    * **Estimated Cost to Fix:** $1,500 - $2,500
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Sagging:** The front suspension components can wear out prematurely, leading to sagging and uneven tire wear.
@@ -69,19 +56,6 @@ The 2004 Maserati Coupe is a stylish and powerful grand tourer that was praised 
    * **Symptoms:** Dead battery, reduced electrical performance
    * **Solution:** Diagnose and fix electrical draw issue
    * **Estimated Cost to Fix:** $200 - $800+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -104,15 +78,3 @@ The 2004 Maserati Coupe is a stylish and powerful grand tourer that was praised 
 **Summary:**
 
 Overall, the 2004 Maserati Coupe is known for its performance and style, but it is also plagued by a range of issues that can be costly to repair. Engine and transmission problems are common, and suspension, electrical, and interior components can also cause headaches for owners. While some issues are minor and relatively inexpensive to fix, others can be severe and require significant investment. It is important for prospective buyers to be aware of these potential problems and factor them into their purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

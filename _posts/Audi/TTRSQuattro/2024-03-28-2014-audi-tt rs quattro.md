@@ -38,19 +38,6 @@ The 2014 Audi TT RS Quattro is a high-performance sports car powered by a 2.5-li
         * Solution: Replace the mechatronic unit.
         * Estimated Cost to Fix: $3,000 - $5,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushing Wear:**
@@ -64,19 +51,6 @@ The 2014 Audi TT RS Quattro is a high-performance sports car powered by a 2.5-li
     * Description/Symptoms: Battery discharges prematurely, difficulty starting the vehicle.
     * Solution: Identify the source of parasitic drain and rectify it.
     * Estimated Cost to Fix: $100 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -99,15 +73,3 @@ The 2014 Audi TT RS Quattro is a high-performance sports car powered by a 2.5-li
 **Summary:**
 
 The 2014 Audi TT RS Quattro is a thrilling sports car with impressive performance. However, it is not immune to issues. The most significant concerns include potential engine misfiring, turbocharger failure, and transmission problems. Interior and exterior issues are generally less severe and less costly to fix. While the TT RS is a desirable vehicle, potential buyers should be aware of these potential issues and consider the associated repair costs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

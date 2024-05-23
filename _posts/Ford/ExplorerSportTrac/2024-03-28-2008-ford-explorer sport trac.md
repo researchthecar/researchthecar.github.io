@@ -38,19 +38,6 @@ The 2008 Ford Explorer Sport Trac is a midsize pickup truck based on the Ford Ex
 * **Reverse gear failure:** Symptoms include difficulty engaging reverse gear or slipping out of reverse gear. Solution: Replace the reverse gear assembly. Estimated cost to fix: $500 - $1000+
 * **Valve body failure:** Symptoms include erratic shifting, delayed engagement, and a check engine light. Solution: Replace the valve body. Estimated cost to fix: $500 - $1000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension strut failure:** Symptoms include excessive noise, vibrations, and decreased ride quality. Solution: Replace the front suspension struts. Estimated cost to fix: $500 - $1000+
@@ -60,19 +47,6 @@ The 2008 Ford Explorer Sport Trac is a midsize pickup truck based on the Ford Ex
 
 * **Battery drain:** Symptoms include a dead battery, difficulty starting the vehicle, and electrical system failures. Solution: Diagnose and repair the source of the battery drain. Estimated cost to fix: Varies depending on the cause
 * **Alternator failure:** Symptoms include dim headlights, flickering electronics, and a check engine light. Solution: Replace the alternator. Estimated cost to fix: $500 - $1000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -87,15 +61,3 @@ The 2008 Ford Explorer Sport Trac is a midsize pickup truck based on the Ford Ex
 **Summary**
 
 Overall, the 2008 Ford Explorer Sport Trac has a moderate number of reported issues. The most common and severe problems involve the engine and transmission, which can be expensive to repair. However, many of the other issues are relatively minor and affordable to fix.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

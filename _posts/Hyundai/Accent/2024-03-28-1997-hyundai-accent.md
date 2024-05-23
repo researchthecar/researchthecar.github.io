@@ -61,19 +61,6 @@ The 1997 Hyundai Accent is a subcompact car that was available with two engine a
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mounts Worn:**
@@ -99,19 +86,6 @@ The 1997 Hyundai Accent is a subcompact car that was available with two engine a
     * Solution: Replace alternator
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -142,15 +116,3 @@ The 1997 Hyundai Accent is a subcompact car that was available with two engine a
 **Summary:**
 
 The 1997 Hyundai Accent is a reliable and affordable vehicle, but it does have some potential issues that owners should be aware of. The engine and transmission are generally reliable, but the base 1.3-liter engine lacks power. The automatic transmission can experience slippage and torque converter failure. The suspension can develop worn strut mounts and leaking shock absorbers. Electrical issues include battery drain and alternator failure. Common exterior issues include tail light lens fading and body rust. Inside, the dashboard can crack and the headliner can sag. Overall, the severity of these issues is relatively minor, and the cost of repairs is generally reasonable.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

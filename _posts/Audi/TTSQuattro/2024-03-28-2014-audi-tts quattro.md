@@ -37,19 +37,6 @@ While the 2014 Audi TTS Quattro is a well-rounded sports car, it has had some re
     * **Estimated Cost to Fix:** $2,000 - $3,000+
     * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension:**
@@ -69,19 +56,6 @@ While the 2014 Audi TTS Quattro is a well-rounded sports car, it has had some re
     * **Solution:** Identifying and fixing the source of the electrical drain.
     * **Estimated Cost to Fix:** Varies depending on the cause of the issue
     * **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -104,15 +78,3 @@ While the 2014 Audi TTS Quattro is a well-rounded sports car, it has had some re
 **Summary**
 
 Overall, the 2014 Audi TTS Quattro is a reliable and enjoyable sports car. However, it has had some reported issues, particularly with the engine, transmission, and suspension. The severity of the issues varies, and the cost to fix them can be significant. It is important to do thorough research and consider the potential costs of ownership before purchasing a used 2014 Audi TTS Quattro.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

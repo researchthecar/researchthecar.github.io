@@ -27,19 +27,6 @@ The 2017 Hyundai Accent is a subcompact sedan that offers a blend of fuel effici
     - **Estimated Cost to Fix:** $2,500 - $4,000+
     - **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **No Issues Found**
 
@@ -49,19 +36,6 @@ The 2017 Hyundai Accent is a subcompact sedan that offers a blend of fuel effici
     - **Solution:** Replace battery or identify and fix electrical draw
     - **Estimated Cost to Fix:** $100 - $250
     - **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Headlight Condensation:** 
@@ -79,15 +53,3 @@ The 2017 Hyundai Accent is a subcompact sedan that offers a blend of fuel effici
 
 **Summary:**
 Overall, the 2017 Hyundai Accent has received mixed reviews from owners. While some have reported issues with the transmission and electrical system, others have praised its reliability and value. The severity and cost of the issues vary, with some requiring minor fixes and others potentially leading to more expensive repairs. It is important to consider the potential expenses when purchasing a used 2017 Hyundai Accent.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -36,19 +36,6 @@ The 2002 Ford Excursion is a full-size SUV built on the F-250 Super Duty platfor
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Axle Death Wobble:** The 2002 Ford Excursion is prone to a condition known as "death wobble," which is a violent shaking of the front end that can occur at highway speeds.
@@ -67,19 +54,6 @@ The 2002 Ford Excursion is a full-size SUV built on the F-250 Super Duty platfor
   * Solution: Replace the cruise control module or switch.
   * Estimated Cost to Fix: $200 - $500
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -108,15 +82,3 @@ The 2002 Ford Excursion is a full-size SUV built on the F-250 Super Duty platfor
 **Summary**
 
 The 2002 Ford Excursion is a spacious and capable SUV, but it is not without its issues. Some of the most common problems include spark plug thread stripping in the 5.4L V8 engine, injector O-ring failure in the 7.3L Power Stroke V8 diesel engine, and death wobble in the suspension. While some of these issues are relatively minor and inexpensive to fix, others can be more serious and costly. Overall, the severity and cost of the issues with the 2002 Ford Excursion vary depending on the specific problem and the condition of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

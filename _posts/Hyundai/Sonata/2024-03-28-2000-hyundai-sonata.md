@@ -39,19 +39,6 @@ The 2000 Hyundai Sonata is a mid-size sedan that was available with two engine a
 **5-Speed Automatic Transmission**
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Front Strut Leak:** The front struts can prematurely leak, causing a reduction in ride quality and handling.
     * Solution: Replace leaking struts.
@@ -72,19 +59,6 @@ The 2000 Hyundai Sonata is a mid-size sedan that was available with two engine a
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 * **Headlight Condensation:** Headlights can develop condensation inside the lens, impairing visibility.
     * Solution: Replace affected headlights.
@@ -103,15 +77,3 @@ The 2000 Hyundai Sonata is a mid-size sedan that was available with two engine a
 
 **Summary**
 The 2000 Hyundai Sonata has several potential issues, particularly with its engine and transmission. Valve cover gasket leaks, piston ring failure, and transmission slipping are common problems with the 2.4L inline-4 engine and 4-speed automatic transmission, respectively. Additionally, the timing belt on the 3.0L V6 has a history of premature failure. Electrical problems, such as alternator and starter failures, are also not uncommon. Suspension, exterior, and interior issues are generally less severe and less expensive to address. Overall, the Sonata's reliability may vary depending on the specific engine and transmission combination, with the V6 and 5-speed automatic offering a better track record.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

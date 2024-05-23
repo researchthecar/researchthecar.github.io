@@ -57,19 +57,6 @@ The 2019 Land Rover Discovery is a luxury SUV known for its spacious interior, o
     * Solution: Replace mechatronic unit
     * Estimated Cost to Fix: $2,000 - $3,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension strut failure:**
@@ -95,19 +82,6 @@ The 2019 Land Rover Discovery is a luxury SUV known for its spacious interior, o
     * Description/Symptoms: Dimming lights, reduced battery charging, check engine light
     * Solution: Replace alternator
     * Estimated Cost to Fix: $500 - $800
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -135,15 +109,3 @@ The 2019 Land Rover Discovery is a luxury SUV known for its spacious interior, o
 **Summary:**
 
 The 2019 Land Rover Discovery has been known to experience a range of issues, some of which can be costly to fix. Major concerns include engine problems (EGR valve failure, turbocharger failure), transmission malfunctions (shudder, torque converter failure), suspension issues (strut failure, rear differential failure), and electrical problems (battery drain, alternator failure). Interior issues such as infotainment system freezing and sunroof failures have also been reported. While the Discovery offers a comfortable and capable driving experience, potential buyers should be aware of the potential issues and associated repair costs before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

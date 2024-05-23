@@ -52,19 +52,6 @@ While appreciated for its comfort and performance, the Roadmaster has faced some
     * Estimated Cost to Fix: $600 - $1,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Sway Bar Link Failure**
@@ -90,19 +77,6 @@ While appreciated for its comfort and performance, the Roadmaster has faced some
     * Solution: Replace battery
     * Estimated Cost to Fix: $100 - $200+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -135,15 +109,3 @@ While appreciated for its comfort and performance, the Roadmaster has faced some
 The 1993 Buick Roadmaster had several issues, ranging from minor to major. Engine problems were primarily related to gaskets and ignition systems, while transmission issues involved slipping gears and synchronizer failure. Suspension problems included worn-out components, while electrical issues centered around alternator and battery failures. Some exterior and interior components also experienced issues.
 
 The severity and cost of these issues vary, but major repairs, such as transmission rebuilding or suspension overhauls, can be expensive. Potential owners should be aware of these potential problems and factor the cost of repairs into their decision-making process.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

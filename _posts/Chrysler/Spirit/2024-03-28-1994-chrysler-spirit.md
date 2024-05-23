@@ -61,19 +61,6 @@ The 1994 Chrysler Spirit was a midsize sedan offered with a range of engine and 
   - Estimated Cost to Fix: $200 - $400+
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Strut Failure:**
@@ -100,19 +87,6 @@ The 1994 Chrysler Spirit was a midsize sedan offered with a range of engine and 
   - Estimated Cost to Fix: $200 - $400+
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 - **Rust:**
@@ -137,15 +111,3 @@ The 1994 Chrysler Spirit was a midsize sedan offered with a range of engine and 
 **Summary:**
 
 The Chrysler Spirit has known issues with its engine, transmission, and suspension. The severity of these issues can vary, and repair costs can be significant. Other areas, such as electrical, exterior, and interior, have fewer reported problems. While the Spirit is a comfortable and spacious sedan, potential buyers should be aware of the potential costs associated with its repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

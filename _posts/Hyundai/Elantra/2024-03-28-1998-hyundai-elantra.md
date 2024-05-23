@@ -47,19 +47,6 @@ The 1998 Hyundai Elantra is a compact sedan known for its affordability, fuel ef
   - Estimated Cost to Fix: $1,000 - $3,000+
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Sagging Front Suspension**
@@ -88,19 +75,6 @@ The 1998 Hyundai Elantra is a compact sedan known for its affordability, fuel ef
   - Estimated Cost to Fix: $400 - $800+
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 - **Rust on Rear Panel**
@@ -126,15 +100,3 @@ The 1998 Hyundai Elantra is a compact sedan known for its affordability, fuel ef
 **Summary:**
 
 The 1998 Hyundai Elantra is a reliable and affordable compact sedan, but it is not without its issues. While some problems, such as battery issues, are relatively inexpensive to fix, more severe issues like transmission problems can be costly. Overall, the Elantra's issues are on par with other vehicles of its age and price range.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -42,19 +42,6 @@ The 1991 Chevrolet V2500 Suburban is a full-size SUV known for its spacious inte
     * Estimated Cost to Fix: $1,500 - $4,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Ball Joint Wear:**
@@ -81,19 +68,6 @@ The 1991 Chevrolet V2500 Suburban is a full-size SUV known for its spacious inte
     * Estimated Cost to Fix: $100 - $300+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust on Body Panels:**
@@ -118,15 +92,3 @@ The 1991 Chevrolet V2500 Suburban is a full-size SUV known for its spacious inte
 **Summary**
 
 The 1991 Chevrolet V2500 Suburban is generally a reliable vehicle but can experience some common issues as it ages, particularly with its intake manifold gasket and transmission. The severity and cost of these issues can vary depending on the specific issue and the vehicle's overall condition.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -48,19 +48,6 @@ Owners praise the Grand Caravan for its comfortable seats, spacious cabin, and g
     * Estimated Cost to Fix: $1,000 - $1,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Noises:** The front suspension may develop noises such as clunking or squeaking due to worn control arms or ball joints.
@@ -82,19 +69,6 @@ Owners praise the Grand Caravan for its comfortable seats, spacious cabin, and g
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust:** The body panels, especially the rear wheel wells and rockers, may be prone to rust.
@@ -114,15 +88,3 @@ Owners praise the Grand Caravan for its comfortable seats, spacious cabin, and g
 **Summary**
 
 The 2010 Dodge Grand Caravan is a spacious and practical minivan, but it faces several issues that can be costly to repair. The 3.3-liter V6 engine is prone to timing belt failure, while the 3.8-liter V6 has a history of intake manifold gasket leaks and water pump failures. The transmission may experience shifting problems, and the suspension may develop noises. Electrical issues include starter failures and power window malfunctions. Rust can be a problem on the exterior, and the interior may encounter HVAC issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -36,36 +36,10 @@ The Continental is praised for its luxurious interior, powerful engines, and ele
 * **Battery Drain:** A parasitic battery drain can cause the battery to discharge prematurely. **Solution:** Diagnosis and repair of the cause of the drain. **Estimated Cost to Fix:** $200 - $500+
 * **Infotainment System Glitches:** The infotainment system can experience occasional glitches or freezes. **Solution:** Software updates or component replacement. **Estimated Cost to Fix:** $500 - $2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Compressor Failure:** The air suspension compressor can fail, causing the suspension to sag. **Solution:** Replacement of compressor. **Estimated Cost to Fix:** $2,000 - $3,000+
 * **Adaptive Dampers Malfunction:** The adaptive dampers can malfunction, leading to a rough or uncomfortable ride. **Solution:** Replacement of dampers. **Estimated Cost to Fix:** $1,500 - $2,500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -80,15 +54,3 @@ The Continental is praised for its luxurious interior, powerful engines, and ele
 **Summary:**
 
 The 2019 Bentley Continental is a luxury vehicle with a high price tag. While it offers impressive performance and refinement, it is not immune to various issues. Engine problems, transmission failures, electrical glitches, suspension malfunctions, exterior trim problems, and interior component failures are among the reported issues. The severity and cost of these issues can vary widely, depending on the specific problem and the necessary repairs. Potential buyers should be aware of these potential issues and factor them into their purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

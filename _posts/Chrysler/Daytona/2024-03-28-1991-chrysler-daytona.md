@@ -32,19 +32,6 @@ The 1991 Chrysler Daytona was a sporty coupe powered by a 2.2L 4-cylinder engine
         * Estimated Cost to Fix: $500 - $800
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -61,19 +48,6 @@ The 1991 Chrysler Daytona was a sporty coupe powered by a 2.2L 4-cylinder engine
         * Solution: Replace power window motor or switch
         * Estimated Cost to Fix: $200 - $400
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -99,15 +73,3 @@ The 1991 Chrysler Daytona was a sporty coupe powered by a 2.2L 4-cylinder engine
 **Summary:**
 
 The 1991 Chrysler Daytona faced several issues, including blown head gaskets, intake manifold gasket failure, alternator failure, power window failure, rust, climate control malfunction, and dashboard cracking. While some of the issues are relatively common, others are less severe. The estimated cost to fix varies depending on the issue and its severity, ranging from a few hundred dollars to over a thousand dollars.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

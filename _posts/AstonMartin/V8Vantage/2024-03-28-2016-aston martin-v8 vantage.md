@@ -42,19 +42,6 @@ The 2016 Aston Martin V8 Vantage is a high-performance sports car that delivers 
     * Estimated Cost to Fix: $400 - $800+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -71,19 +58,6 @@ The 2016 Aston Martin V8 Vantage is a high-performance sports car that delivers 
     * Solution: Inspecting the electrical system for parasitic drains and replacing the affected components is required.
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -104,15 +78,3 @@ The 2016 Aston Martin V8 Vantage is a high-performance sports car that delivers 
 **Summary**
 
 The 2016 Aston Martin V8 Vantage offers an exhilarating driving experience with exceptional performance and handling. However, like all vehicles, it has some reported issues that potential buyers should be aware of, such as engine stalling, oil leaks, electrical malfunctions, and interior trim rattle. While some issues may be minor and relatively inexpensive to fix, others can be more severe and costly to repair. It's important to carefully consider these potential issues and factor the repair costs into your decision when purchasing a used V8 Vantage.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

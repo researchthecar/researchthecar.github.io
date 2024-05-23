@@ -79,19 +79,6 @@ Solution: Replace the valve body assembly.
 Estimated Cost to Fix: $800 - $1,200+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Ball Joint Wear**
@@ -119,19 +106,6 @@ Description/Symptoms: The battery can drain excessively, making it difficult to 
 Solution: Diagnose the source of the battery drain (e.g., faulty electrical components, parasitic draw).
 Estimated Cost to Fix: $200 - $500+
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -164,15 +138,3 @@ Recalls: None Found
 **Summary**
 
 The 1998 Chevrolet Suburban 1500 has a range of potential issues that can vary in severity and cost of repair. Common engine and transmission issues include intake manifold bolt failure, piston slap, overdrive band failure, and solenoid pack failure. Suspension, electrical, exterior, and interior components can also experience problems. Overall, the cost of repairs can be significant, especially for major engine or transmission issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

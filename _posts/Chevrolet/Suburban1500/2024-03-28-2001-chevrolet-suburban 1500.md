@@ -55,19 +55,6 @@ The 2001 Chevrolet Suburban 1500 is a full-size SUV that offers a spacious inter
     * Estimated Cost to Fix: $1,000 - $1,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Upper Control Arm Bushing Failure**
@@ -83,19 +70,6 @@ The 2001 Chevrolet Suburban 1500 is a full-size SUV that offers a spacious inter
     * Solution: Replace alternator
     * Estimated Cost to Fix: $500 - $800+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -116,15 +90,3 @@ The 2001 Chevrolet Suburban 1500 is a full-size SUV that offers a spacious inter
 **Summary**
 
 The 2001 Chevrolet Suburban 1500 is a reliable and capable vehicle, but it is not without its issues. Some of the more common problems include intake manifold gasket and valve cover gasket leaks on the 5.3L V8 engine, and sun shell sprag failure on the 4-speed automatic transmission. The cost to repair these issues can range from a few hundred dollars to over $2,000. However, overall, the Suburban 1500 is a solid choice for those who need a spacious and powerful SUV.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

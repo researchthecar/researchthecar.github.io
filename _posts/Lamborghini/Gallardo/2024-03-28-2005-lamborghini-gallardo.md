@@ -32,19 +32,6 @@ The 2005 Lamborghini Gallardo is a high-performance sports car powered by a natu
   * Estimated Cost to Fix: $1,500 - $2,500+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Bushings:** Over time, the rubber bushings in the front suspension can deteriorate, leading to increased noise and vibration, as well as reduced handling precision.
@@ -69,19 +56,6 @@ The 2005 Lamborghini Gallardo is a high-performance sports car powered by a natu
   * Estimated Cost to Fix: $500 - $2,000+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rear Window Seal Leaks:** The rear window seal may deteriorate or fail, causing water leaks into the trunk.
@@ -104,15 +78,3 @@ The 2005 Lamborghini Gallardo is a high-performance sports car powered by a natu
 **Summary:**
 
 The 2005 Lamborghini Gallardo is a powerful and desirable sports car, but it is not without its issues. Engine and transmission problems are the most common, and some electrical, suspension, and interior issues have also been reported. The severity and cost of these issues can vary greatly, but it is important for potential buyers to be aware of them before purchasing a used Gallardo. Regular maintenance and proper driving techniques can help mitigate some of these issues and extend the lifespan of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

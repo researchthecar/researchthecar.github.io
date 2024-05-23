@@ -31,19 +31,6 @@ The 1998 Lamborghini Diablo is a legendary supercar known for its aggressive sty
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front control arm bushings:** The front control arm bushings can wear out prematurely, leading to a loss of handling stability and increased road noise.
@@ -61,19 +48,6 @@ The 1998 Lamborghini Diablo is a legendary supercar known for its aggressive sty
     * Solution: Identify and fix the source of the current drain.
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -96,15 +70,3 @@ The 1998 Lamborghini Diablo is a legendary supercar known for its aggressive sty
 **Summary:**
 
 The 1998 Lamborghini Diablo is an iconic supercar but is known for its potential reliability issues. Engine and transmission problems can be costly to repair, while suspension and electrical problems can impact the safety and handling of the vehicle. Interior issues and exterior concerns are less severe but can add up over time. Owners should be prepared for potential maintenance and repair costs when owning a Diablo.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

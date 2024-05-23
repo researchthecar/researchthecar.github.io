@@ -21,19 +21,6 @@ The 2002 Bentley Arnage is a luxurious sedan powered by a 6.75-liter V8 engine a
     * **Slipping gears:** The transmission may experience difficulty engaging or holding gears, resulting in jerking or loss of power. Symptoms include delayed gear engagement and gear slipping. Solution involves rebuilding or replacing the transmission. Estimated Cost to Fix: $3,000 - $5,000+
     * **Fluid leakage:** The transmission may develop leaks from its seals or gaskets, leading to fluid loss and overheating. Symptoms include low transmission fluid levels, delayed gear engagement, and slipping gears. Solution involves replacing the faulty seals or gaskets and replenishing the fluid. Estimated Cost to Fix: $500 - $1,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air suspension failure:** The air suspension system may experience leaks or malfunctions, causing the vehicle to sag or ride unevenly. Symptoms include uneven suspension height, reduced ride quality, and handling problems. Solution involves repairing or replacing the faulty air springs, compressors, or control units. Estimated Cost to Fix: $1,500 - $3,000+
@@ -43,19 +30,6 @@ The 2002 Bentley Arnage is a luxurious sedan powered by a 6.75-liter V8 engine a
 
 * **Battery drain:** The battery may drain prematurely due to faulty electrical components or accessories. Symptoms include difficulty starting the vehicle or a completely dead battery. Solution involves diagnosing the faulty components or accessories and replacing them. Estimated Cost to Fix: $500 - $1,500+
 * **Electrical gremlins:** Occasional electrical problems may occur, such as malfunctioning instruments, lights, or power windows. Symptoms vary depending on the affected component. Solution involves diagnosing and repairing the faulty electrical system or components. Estimated Cost to Fix: $500 - $2,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -69,15 +43,3 @@ The 2002 Bentley Arnage is a luxurious sedan powered by a 6.75-liter V8 engine a
 **Summary:**
 
 The 2002 Bentley Arnage offers a unique combination of luxury and performance but has faced various issues throughout its lifespan. The engine and transmission components are prone to coolant leaks, intake manifold failures, slipping gears, and fluid leaks. The suspension system may encounter air suspension failures and strut mount issues. Electrical problems, door handle failures, dashboard cracking, and navigation system malfunctions are also reported. While some issues are minor and relatively inexpensive to fix, others can be costly and require significant repairs. Potential owners should be aware of these concerns before purchasing and factor in potential repair costs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

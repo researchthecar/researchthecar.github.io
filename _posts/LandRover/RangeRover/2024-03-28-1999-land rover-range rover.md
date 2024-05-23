@@ -28,19 +28,6 @@ The 1999 Land Rover Range Rover is a luxury SUV known for its off-road capabilit
 **5-Speed Manual**
 - **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Air Suspension Failure:** Air bags leak or compressor fails, causing vehicle to sag. Replace air bags or compressor. $1000 - $2000+
@@ -51,19 +38,6 @@ The 1999 Land Rover Range Rover is a luxury SUV known for its off-road capabilit
 - **Alternator Failure:** Battery does not charge. Replace alternator. $500 - $1000+
 - **Starter Solenoid Failure:** Starter fails to engage. Replace starter solenoid. $200 - $400+
 - **Fuse Box Issues:** Fuses blow repeatedly, indicating electrical shorts. Trace and repair electrical shorts. $200 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -78,15 +52,3 @@ The 1999 Land Rover Range Rover is a luxury SUV known for its off-road capabilit
 **Summary:**
 
 The 1999 Land Rover Range Rover has a range of issues that can impact the engine, transmission, suspension, electrical systems, exterior, and interior. Some issues, such as intake manifold gasket failure and head gasket failure, can be severe and expensive to repair. Overall, owners should be prepared for potential repair costs and regular maintenance to keep their vehicles in good condition.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

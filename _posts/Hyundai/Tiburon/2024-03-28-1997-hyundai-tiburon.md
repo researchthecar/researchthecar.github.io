@@ -47,19 +47,6 @@ The 1997 Hyundai Tiburon is a compact sports coupe with a front-engine, front-wh
     * Solution: Replacing the torque converter.
     * Estimated Cost to Fix: $1,000 - $1,500
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Front Strut Failure:**
     * Description/Symptoms: The front struts leak or break, affecting the ride quality and handling.
@@ -84,19 +71,6 @@ The 1997 Hyundai Tiburon is a compact sports coupe with a front-engine, front-wh
     * Solution: Replacing the fuel pump.
     * Estimated Cost to Fix: $200 - $400
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 * **Door Handle Failure:**
     * Description/Symptoms: The door handle breaks or becomes loose, making it difficult to open the door.
@@ -111,15 +85,3 @@ The 1997 Hyundai Tiburon is a compact sports coupe with a front-engine, front-wh
 
 **Summary:**
 The 1997 Hyundai Tiburon has several potential issues that owners should be aware of. Some of these issues, such as excessive oil consumption and timing belt failure, can be quite serious and expensive to repair. However, many of the issues are relatively minor and inexpensive to fix. Overall, the Tiburon is a reliable and enjoyable car to drive, but it is important to be aware of its potential problems before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -44,19 +44,6 @@ The 1996 Bentley Turbo R is a high-performance luxury sedan powered by a 6.75-li
     * Estimated Cost to Fix: $300 - $800+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Compressor Failure:**
@@ -91,19 +78,6 @@ The 1996 Bentley Turbo R is a high-performance luxury sedan powered by a 6.75-li
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight Switch Failure:**
@@ -120,15 +94,3 @@ The 1996 Bentley Turbo R is a high-performance luxury sedan powered by a 6.75-li
 **Summary:**
 
 The 1996 Bentley Turbo R is a luxurious vehicle with impressive performance, but its complex systems and aging components make it prone to a range of potential issues. Engine problems, such as timing belt failure and gasket leaks, can be severe and costly to repair. Transmission issues, including leaks and solenoid failures, can also impact the vehicle's reliability. The suspension, electrical, interior, and exterior components are also susceptible to problems, adding to the overall cost of ownership. While the Bentley Turbo R offers a unique driving experience, its higher maintenance costs and potential for expensive repairs should be carefully considered by potential buyers.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

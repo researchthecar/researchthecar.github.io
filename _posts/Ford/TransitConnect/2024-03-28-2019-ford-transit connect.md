@@ -66,19 +66,6 @@ The 2019 Ford Transit Connect is a compact cargo van available in a variety of c
 
 * **No issues found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front strut mounts**
@@ -104,19 +91,6 @@ The 2019 Ford Transit Connect is a compact cargo van available in a variety of c
     * Solution: Repair or replace wiring harness
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -147,15 +121,3 @@ The 2019 Ford Transit Connect is a compact cargo van available in a variety of c
 **Summary:**
 
 The 2019 Ford Transit Connect has some reliability concerns, particularly with the 2.5L engine and six-speed automatic transmission. Repairs can be costly, with some issues exceeding $1,500 to fix. The 2.0L EcoBoost engine and eight-speed automatic transmission seem to be more reliable, but still have some potential issues. Overall, the severity and cost of the issues found for the 2019 Transit Connect can be a concern for potential buyers.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

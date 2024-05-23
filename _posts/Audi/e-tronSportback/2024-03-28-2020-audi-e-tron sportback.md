@@ -13,19 +13,6 @@ The 2020 Audi e-tron Sportback is a fully electric luxury SUV. It features a sin
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **No Issues Found**
@@ -45,19 +32,6 @@ The 2020 Audi e-tron Sportback is a fully electric luxury SUV. It features a sin
     * Description/Symptoms: The vehicle's charging system may malfunction, preventing it from charging properly.
     * Solution: Repair or replace the charging system components.
     * Estimated Cost to Fix: $500-$2,000
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -80,15 +54,3 @@ The 2020 Audi e-tron Sportback is a fully electric luxury SUV. It features a sin
 **Summary:**
 
 Overall, the 2020 Audi e-tron Sportback has relatively few reported issues. The most common problems are related to the electrical system, particularly the 12-volt battery and software glitches. The cost to fix these issues can vary from minimal to moderate, but no major mechanical problems have been widely reported.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -60,19 +60,6 @@ Drivers appreciate the Chevy Pickup's towing and hauling capabilities, spacious 
     * Solution: Repair or replace leaking component
     * Estimated Cost to Fix: Varies depending on location of leak
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushings:**
@@ -86,19 +73,6 @@ Drivers appreciate the Chevy Pickup's towing and hauling capabilities, spacious 
     * Description/Symptoms: Dimming lights, battery warning light illuminated, difficulty starting
     * Solution: Replace alternator
     * Estimated Cost to Fix: $300 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -117,15 +91,3 @@ Drivers appreciate the Chevy Pickup's towing and hauling capabilities, spacious 
 **Summary**
 
 While the 2002 Chevrolet Chevy Pickup is generally a reliable vehicle, some issues can be costly to repair. Most notably, the timing chain stretch issue on the 4.8L V8 can be a major expense. Other common problems include intake manifold gasket failure, piston ring failure, and electrical issues. It's important for owners to be aware of these potential issues and budget accordingly for repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

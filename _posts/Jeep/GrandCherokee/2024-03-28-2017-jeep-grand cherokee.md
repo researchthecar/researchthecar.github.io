@@ -49,19 +49,6 @@ Drivers appreciate the Grand Cherokee's comfortable ride, advanced safety featur
     * Estimated Cost to Fix: $800 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -72,19 +59,6 @@ Drivers appreciate the Grand Cherokee's comfortable ride, advanced safety featur
 * Solution: Inspect and repair or replace faulty electrical components.
 * Estimated Cost to Fix: $50 - $800+
 * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -103,15 +77,3 @@ Drivers appreciate the Grand Cherokee's comfortable ride, advanced safety featur
 **Summary**
 
 The 2017 Jeep Grand Cherokee has encountered various issues, predominantly affecting the engine and transmission. The severity of these issues ranges from minor (oil leaks) to major (transmission failure). Repair costs can be substantial, especially for more significant problems. While the Grand Cherokee offers many strengths, potential buyers should be aware of these potential issues before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -35,19 +35,6 @@ The 2022 McLaren Artura is a high-performance hybrid supercar powered by a 3.0-l
     Estimated Cost to Fix: $2,500 - $6,000+
     Recalls: NHTSA Recall ID: 22V-129
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Adaptive Damping System Failures**
@@ -81,15 +68,3 @@ The 2022 McLaren Artura is a high-performance hybrid supercar powered by a 3.0-l
 **Summary**
 
 The McLaren Artura has several known issues that can affect its performance, reliability, and user experience. These issues range in severity from minor inconveniences to major mechanical failures. The cost of repairs can be significant, so potential owners should be aware of these issues before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

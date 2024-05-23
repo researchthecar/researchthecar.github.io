@@ -40,19 +40,6 @@ Owners of the 2013 Lincoln Mark LT generally praise its spacious and luxurious i
     - Estimated Cost to Fix: $1,000 - $3,000+
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **No Major Issues Found**
@@ -64,19 +51,6 @@ Owners of the 2013 Lincoln Mark LT generally praise its spacious and luxurious i
     - Solution: Diagnose and repair the source of the battery drain, which may involve replacing the battery or electrical components.
     - Estimated Cost to Fix: $100 - $500+
     - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -102,15 +76,3 @@ Owners of the 2013 Lincoln Mark LT generally praise its spacious and luxurious i
 **Summary**
 
 Overall, the 2013 Lincoln Mark LT appears to have some potential issues, particularly with the timing chain, spark plugs, and transmission. However, these issues are not widespread and may not affect all vehicles. The severity and cost of these issues can vary, so it is important to have the vehicle inspected by a qualified mechanic before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

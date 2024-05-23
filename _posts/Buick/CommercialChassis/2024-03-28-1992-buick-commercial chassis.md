@@ -45,19 +45,6 @@ Solution: Replacing or rebuilding the transmission, including the torque convert
 Estimated Cost to Fix: $1,500 - $2,500+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -69,19 +56,6 @@ Description/Symptoms: The starter solenoid clicks but does not engage the starte
 Solution: Replacing the starter or its solenoid.
 Estimated Cost to Fix: $250 - $400+
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -102,15 +76,3 @@ Recalls: None Found
 **Summary:**
 
 The 1992 Buick Commercial Chassis is generally reliable but can experience certain issues with its engine and transmission. The gasoline V8 engine is susceptible to intake manifold gasket failure, while the diesel V8 engine may suffer from injector pump issues. The manual transmission can develop gear grinding, and the automatic transmission may experience gear slipping. Other problems include starter failure, headlight switch failure, and dashboard light malfunctions. The severity and cost of these issues can vary significantly depending on the specific parts affected and the extent of the repairs required.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -52,19 +52,6 @@ The 2005 Chevrolet Trailblazer EXT is a midsize SUV with rugged off-road capabil
     * Estimated Cost to Fix: $300 - $600+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Lower Control Arm Bushing Failure:**
@@ -85,19 +72,6 @@ The 2005 Chevrolet Trailblazer EXT is a midsize SUV with rugged off-road capabil
     * Solution: Replace battery
     * Estimated Cost to Fix: $100 - $200+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -123,15 +97,3 @@ The 2005 Chevrolet Trailblazer EXT is a midsize SUV with rugged off-road capabil
 **Summary**
 
 The 2005 Chevrolet Trailblazer EXT has a number of issues that can be costly to repair. The most common issues include engine leaks, transmission problems, and suspension failures. While the Trailblazer EXT is a capable SUV, it is important to be aware of these issues before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

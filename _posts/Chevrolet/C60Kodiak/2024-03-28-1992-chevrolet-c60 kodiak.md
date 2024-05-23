@@ -25,19 +25,6 @@ The 1992 Chevrolet C60 Kodiak was a heavy-duty pickup truck offered with a range
     * **Clutch Failure:** Symptoms include difficulty engaging gears, slipping gears, and a burning smell. Solution: Replacement of the clutch. Estimated Cost to Fix: $1,000 - $1,800+
     * **Transmission Bearing Failure:** Symptoms include grinding noises, difficulty shifting, and loss of gears. Solution: Replacement of the faulty bearing. Estimated Cost to Fix: $500 - $1,200+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf Spring Failure:** Symptoms include sagging rear end, uneven tire wear, and a rough ride. Solution: Replacement of the leaf springs. Estimated Cost to Fix: $500 - $1,500+
@@ -47,19 +34,6 @@ The 1992 Chevrolet C60 Kodiak was a heavy-duty pickup truck offered with a range
 
 * **Battery Drain:** Symptoms include a dead battery, dim lights, and slow starting. Solution: Diagnosis and repair of the electrical system. Estimated Cost to Fix: $50 - $500+
 * **Alternator Failure:** Symptoms include dim lights, flickering gauges, and a dead battery. Solution: Replacement of the alternator. Estimated Cost to Fix: $300 - $800+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -74,15 +48,3 @@ The 1992 Chevrolet C60 Kodiak was a heavy-duty pickup truck offered with a range
 **Summary**
 
 The 1992 Chevrolet C60 Kodiak had a range of issues affecting various components, including the engine, transmission, suspension, electrical system, and interior. Some of these issues, such as fuel injector failure and transmission bearing failure, could be costly to repair. However, many of the issues were relatively minor and inexpensive to fix. Overall, the C60 Kodiak was a reliable and capable truck, but it was not immune to the occasional mechanical problem.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

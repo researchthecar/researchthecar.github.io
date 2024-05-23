@@ -29,19 +29,6 @@ The 2019 Chevrolet Silverado 5500 HD is a heavy-duty pickup truck available in s
     * Estimated Cost to Fix: $1,500-$2,500
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf Spring Failure:**
@@ -63,19 +50,6 @@ The 2019 Chevrolet Silverado 5500 HD is a heavy-duty pickup truck available in s
     * Solution: Reprogramming or replacement of ECM
     * Estimated Cost to Fix: $300-$1,500
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -108,15 +82,3 @@ The 2019 Chevrolet Silverado 5500 HD is a heavy-duty pickup truck available in s
 **Summary**
 
 Overall, while the 2019 Chevrolet Silverado 5500 HD is generally a reliable vehicle, some minor issues have been reported by owners. The most common issues include fuel injector failure, torque converter shudder, and electrical problems. The severity of these issues varies, but most can be resolved at a moderate cost.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

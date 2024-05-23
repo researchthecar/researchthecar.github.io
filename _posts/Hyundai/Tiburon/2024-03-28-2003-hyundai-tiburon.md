@@ -28,19 +28,6 @@ The 2003 Hyundai Tiburon is a sporty coupe that was available with various engin
 **4-Speed Automatic Transmission**
 - **Slipping or erratic shifting:** Faulty transmission solenoid, torque converter, or valve body causing slipping gears, delayed shifting, or hard shifts. Solution: Repair or replacement of transmission components. Estimated Cost to Fix: $1,500 - $3,000+ Recalls: NHTSA Campaign Number 03V200000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Strut mount failure:** Worn or damaged strut mounts causing clunking or knocking noises, reduced ride quality, and misalignment. Solution: Replacement of strut mounts. Estimated Cost to Fix: $300 - $600+ Recalls: N/A
@@ -50,19 +37,6 @@ The 2003 Hyundai Tiburon is a sporty coupe that was available with various engin
 
 - **Alternator failure:** Faulty alternator leading to charging system issues, battery drain, and electrical problems. Solution: Replacement of the alternator. Estimated Cost to Fix: $400 - $600+ Recalls: N/A
 - **Power window failure:** Malfunctioning power window motor, switch, or wiring causing slow or inoperative power windows. Solution: Repair or replacement of affected components. Estimated Cost to Fix: $200 - $400+ Recalls: N/A
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Rust on rear fenders:** Corrosion and rust formation on the rear fenders, particularly around the wheel arches. Solution: Rust repair or replacement of affected panels. Estimated Cost to Fix: Varies depending on the severity of rust Recalls: N/A
@@ -74,15 +48,3 @@ The 2003 Hyundai Tiburon is a sporty coupe that was available with various engin
 **Summary**
 
 Overall, the 2003 Hyundai Tiburon has been reported to have some potential issues, including engine head gasket failure, timing belt failure, transmission problems, and various electrical and interior issues. While some of these issues can be minor and inexpensive to fix, others can be more severe and costly. It is important for potential buyers to be aware of these issues and consider the estimated cost to fix before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

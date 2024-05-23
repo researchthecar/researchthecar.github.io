@@ -39,19 +39,6 @@ The 2023 BMW M440i xDrive Gran Coupe is a four-door fastback sedan with a 3.0-li
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushing Wear:**
@@ -78,19 +65,6 @@ The 2023 BMW M440i xDrive Gran Coupe is a four-door fastback sedan with a 3.0-li
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Sunroof Drain Clogs:**
@@ -115,15 +89,3 @@ The 2023 BMW M440i xDrive Gran Coupe is a four-door fastback sedan with a 3.0-li
 **Summary:**
 
 Overall, the 2023 BMW M440i xDrive Gran Coupe is a reliable and well-built vehicle. However, like any car, it is not without its problems. The most common issues reported by owners relate to the engine (timing chain tensioner failure), transmission (TCU failure), and suspension (control arm bushing wear). While some of these issues can be costly to repair, they are generally not severe and should not significantly affect the overall ownership experience.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -55,15 +55,3 @@ Recalls: None Found
 ## Summary
 
 The 2020 Hyundai Veloster is a reliable car with few reported issues. The most common issues are the valve cover gasket leak on the 2.0L turbocharged four-cylinder engine and the clunking noise when shifting gears on the seven-speed dual-clutch automatic transmission. These issues are relatively inexpensive to fix and do not pose a major safety concern. Overall, the Veloster is a good choice for those looking for a stylish and fun-to-drive car.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

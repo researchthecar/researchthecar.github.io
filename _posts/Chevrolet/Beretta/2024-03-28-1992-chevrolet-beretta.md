@@ -56,19 +56,6 @@ The 1992 Chevrolet Beretta was a sporty compact car available in both coupe and 
     * Solution: Replace torque converter
     * Estimated Cost to Fix: $500 - $1,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension Issues**
 
 * **Strut Mount Failure:**
@@ -82,19 +69,6 @@ The 1992 Chevrolet Beretta was a sporty compact car available in both coupe and 
     * Symptoms: Dim lights, flickering gauges, dead battery
     * Solution: Replace alternator
     * Estimated Cost to Fix: $300 - $500
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior Issues**
 
@@ -113,15 +87,3 @@ The 1992 Chevrolet Beretta was a sporty compact car available in both coupe and 
 **Summary**
 
 The 1992 Chevrolet Beretta is a generally reliable vehicle with a few common issues. Engine issues tend to be minor and relatively inexpensive to fix, while transmission issues can be more severe and costly. Suspension and electrical issues are typically not too severe but can require attention over time. Interior issues are mostly cosmetic and can be addressed fairly easily. Overall, the Beretta is a good choice for a compact car that offers a balance of performance and affordability.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

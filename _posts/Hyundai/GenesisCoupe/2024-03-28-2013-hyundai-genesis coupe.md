@@ -49,19 +49,6 @@ The 2013 Hyundai Genesis Coupe is a sporty rear-wheel-drive coupe that offers a 
   - Solution: Reprogram transmission control module (TCM) or replace transmission valve body
   - Estimated Cost to Fix: $300 - $600+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 - **Strut Mount Bearing Failure:**
@@ -75,19 +62,6 @@ The 2013 Hyundai Genesis Coupe is a sporty rear-wheel-drive coupe that offers a 
   - Description/Symptoms: Headlights, taillights, or dash lights not working
   - Solution: Replace headlight switch
   - Estimated Cost to Fix: $100 - $200+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -111,15 +85,3 @@ The 2013 Hyundai Genesis Coupe is a sporty rear-wheel-drive coupe that offers a 
 **Summary:**
 
 Overall, the 2013 Hyundai Genesis Coupe has moderate reliability, with some common issues including engine knock, clutch wear, and suspension noise. These issues are generally not severe or costly to fix, but they can affect the vehicle's performance and comfort. Potential buyers should be aware of these potential problems before purchasing a used Genesis Coupe.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -22,19 +22,6 @@ The 2020 Bentley Mulsanne is a luxurious flagship sedan hand-built in Crewe, Eng
 
 * **Shifting Hesitation:** Some Mulsannes experience hesitation or delayed shifts, particularly when downshifting. Updating the transmission software can resolve this issue. The software update is typically free.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -43,19 +30,6 @@ The 2020 Bentley Mulsanne is a luxurious flagship sedan hand-built in Crewe, Eng
 
 **Central Control Module Failure:** The central control module, responsible for controlling various electronic functions, can malfunction, causing glitches or a complete loss of electronics. Replacing the module can cost around $5,000 - $7,000+.
 * **Battery Drain:** Some Mulsannes have reported unusual battery drain issues, even when the vehicle is not in use. Diagnosing and resolving this issue can vary greatly in cost depending on the underlying cause.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -69,15 +43,3 @@ The 2020 Bentley Mulsanne is a luxurious flagship sedan hand-built in Crewe, Eng
 **Summary**
 
 While the 2020 Bentley Mulsanne is a remarkable vehicle, it is not immune to some common issues. The engine intake manifold and turbocharger actuator malfunctions can lead to decreased performance, while electrical problems such as central control module failure can be costly to fix. The transmission shifting hesitation can be resolved through a software update, while interior issues like in-car entertainment system glitches and climate control malfunctions are relatively minor. Overall, the severity and cost of the issues are not significant considering the high price tag of the Mulsanne, but they do represent potential concerns for potential buyers.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

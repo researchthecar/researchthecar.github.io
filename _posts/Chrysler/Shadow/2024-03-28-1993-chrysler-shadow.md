@@ -52,19 +52,6 @@ Owners of the Shadow have praised its comfortable interior, stylish exterior, an
     * Estimated Cost to Fix: $1,200 - $2,500
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Failure**
@@ -91,19 +78,6 @@ Owners of the Shadow have praised its comfortable interior, stylish exterior, an
     * Estimated Cost to Fix: $100 - $300
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust**
@@ -128,15 +102,3 @@ Owners of the Shadow have praised its comfortable interior, stylish exterior, an
 **Summary**
 
 The 1993 Chrysler Shadow has received positive feedback from owners for its comfort, style, and reliability. However, it has also been reported to have some issues, including engine gasket failures, transmission problems, suspension issues, electrical malfunctions, rust, and interior problems. The severity of these issues can vary depending on the maintenance history and driving conditions. The cost of repairs can also be significant, especially for major components such as the transmission.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

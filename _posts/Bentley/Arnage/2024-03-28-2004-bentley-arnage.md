@@ -35,19 +35,6 @@ The 2004 Bentley Arnage is a stately luxury sedan powered by a potent 6.75-liter
     - Estimated Cost to Fix: $1,000 - $3,000+
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Air Suspension Leaks:**
@@ -69,19 +56,6 @@ The 2004 Bentley Arnage is a stately luxury sedan powered by a potent 6.75-liter
     - Solution: Diagnose and repair or replace source of battery drain (e.g., faulty components, parasitic draw).
     - Estimated Cost to Fix: $200 - $1,000+
     - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -108,15 +82,3 @@ The 2004 Bentley Arnage is a stately luxury sedan powered by a potent 6.75-liter
 **Summary:**
 
 The 2004 Bentley Arnage is a luxury vehicle known for its comfort and refinement, but it can be susceptible to some potential issues. Many of the problems are related to the engine or transmission, which can be expensive to repair. Additionally, there are some common electrical and suspension issues that can arise. Overall, the Arnage requires regular maintenance and attention to its complex systems to ensure optimal performance and reliability.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

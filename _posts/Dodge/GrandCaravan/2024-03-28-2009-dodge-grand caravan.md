@@ -45,19 +45,6 @@ The 2009 Dodge Grand Caravan is a versatile and spacious minivan that offers amp
     * Solution: Replace reverse gear solenoid or other transmission components.
     * Estimated Cost to Fix: $500 - $1,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Ball Joint Failure**
@@ -79,19 +66,6 @@ The 2009 Dodge Grand Caravan is a versatile and spacious minivan that offers amp
     * Description/Symptoms: Alternator not charging the battery, battery warning light on.
     * Solution: Replace alternator or other charging system components.
     * Estimated Cost to Fix: $500 - $1,000
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -115,15 +89,3 @@ The 2009 Dodge Grand Caravan is a versatile and spacious minivan that offers amp
 **Summary**
 
 The 2009 Dodge Grand Caravan has a number of issues that can affect its reliability and performance. Some of the most severe issues include timing chain failure and valve seat recession, which can require major engine repairs. The transmission can also be problematic, with issues such as slipping and reverse gear failure. Other common issues include ball joint failure and battery or alternator problems. While the Grand Caravan offers a spacious interior and convenience features, its reliability concerns should be considered before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

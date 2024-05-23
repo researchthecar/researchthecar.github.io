@@ -52,19 +52,6 @@ Owners appreciate the Fleetwood's spacious interior, comfortable ride, and class
     * Estimated Cost to Fix: $300 - $500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Struts Leaking**
@@ -91,19 +78,6 @@ Owners appreciate the Fleetwood's spacious interior, comfortable ride, and class
     * Estimated Cost to Fix: $400 - $600+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Weatherstripping Deterioration**
@@ -123,15 +97,3 @@ Owners appreciate the Fleetwood's spacious interior, comfortable ride, and class
 **Summary:**
 
 The 1994 Cadillac Fleetwood has some common issues, including intake manifold gasket failure, head gasket failure, and transmission problems. These issues can range in severity and cost to fix, but most are relatively minor. Overall, the Fleetwood is a reliable and comfortable vehicle with a few known weaknesses.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

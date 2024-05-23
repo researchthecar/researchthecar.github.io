@@ -34,19 +34,6 @@ The 2023 Audi RS7 Sportback is a high-performance hatchback powered by a 4.0-lit
     * Solution: Torque converter replacement
     * Estimated Cost to Fix: $2,500 - $4,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Trapezoidal-Link Front Axle:**
@@ -76,19 +63,6 @@ The 2023 Audi RS7 Sportback is a high-performance hatchback powered by a 4.0-lit
     * Solution: Headlight seal replacement
     * Estimated Cost to Fix: $200 - $400 per headlight assembly
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Paint Scratches:** Scratches on the exterior paint, affecting the appearance of the vehicle.
@@ -104,15 +78,3 @@ The 2023 Audi RS7 Sportback is a high-performance hatchback powered by a 4.0-lit
 **Summary**
 
 While the 2023 Audi RS7 Sportback is a high-performance vehicle with many positive attributes, it is not immune to certain issues. The most common problems reported by owners include turbocharger failure, transmission shuddering, suspension bushing wear, electrical system glitches, and exterior paint scratches. The severity and cost of the issues vary, but some can be expensive to repair. It is important for potential buyers to be aware of these potential problems and factor them into their purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

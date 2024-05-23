@@ -39,19 +39,6 @@ The Ghibli is a popular choice for drivers who want a luxurious and sporty sedan
 * **Transmission noise:** The transmission can make noise when shifting gears. The solution is to replace the transmission bearings or gears. The estimated cost to fix is $1,500 - $2,500.
 * **Shifting problems:** The transmission can have problems shifting gears, causing the car to jerk or hesitate. The solution is to adjust the shift linkage or replace the transmission synchronizers. The estimated cost to fix is $200 - $500.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension noise:** The front suspension can make noise when driving over bumps or rough roads. The solution is to replace the front suspension struts or control arms. The estimated cost to fix is $500 - $1,000.
@@ -63,19 +50,6 @@ The Ghibli is a popular choice for drivers who want a luxurious and sporty sedan
 * **Battery drain:** The battery can drain quickly, even when the car is not being used. The solution is to replace the battery or find the electrical drain and fix it. The estimated cost to fix is $200 - $500.
 * **Electrical glitches:** The car can experience electrical glitches, such as flickering lights or power windows that do not work properly. The solution is to diagnose the electrical system and repair or replace the faulty components. The estimated cost to fix is $200 - $1,000.
 * **Infotainment system issues:** The infotainment system can have problems, such as freezing or not responding to inputs. The solution is to update the software or replace the infotainment system. The estimated cost to fix is $500 - $1,500.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -92,15 +66,3 @@ The Ghibli is a popular choice for drivers who want a luxurious and sporty sedan
 **Summary**
 
 The Maserati Ghibli is a stylish and powerful luxury sports sedan. However, it has some issues that owners should be aware of. The most common issues are with the engine, transmission, suspension, and electrical system. The severity of the issues can range from minor annoyances to major problems that can require expensive repairs. The cost to fix the issues can also be high, especially for major repairs. If you are considering buying a Maserati Ghibli, be sure to research the common issues and factor in the potential cost of repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -51,19 +51,6 @@ Drivers appreciate the Captiva Sport's roomy interior and comfortable seats. The
   - Estimated Cost to Fix: $1,000 - $2,000
   - Recalls: 14V320000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Front strut mounts**
@@ -79,19 +66,6 @@ Drivers appreciate the Captiva Sport's roomy interior and comfortable seats. The
   - Solution: Identifying and fixing the source of the power drain
   - Estimated Cost to Fix: $100 - $1,000+
   - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -112,15 +86,3 @@ Drivers appreciate the Captiva Sport's roomy interior and comfortable seats. The
 **Summary**
 
 The 2012 Chevrolet Captiva Sport is a generally reliable vehicle, but it has had some reported issues, particularly with its engine and transmission. The severity of the issues varies, with some being minor and others potentially leading to significant expenses. It is important for owners to be aware of these issues and to have their vehicles regularly inspected and maintained to address any potential problems early on.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

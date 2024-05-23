@@ -29,19 +29,6 @@ The 2018 BMW Alpina B6 xDrive Gran Coupe is a high-performance luxury sedan feat
 * Estimated Cost to Fix: $500 - $2,000
 * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Rear Air Suspension Failure:**
@@ -58,19 +45,6 @@ The 2018 BMW Alpina B6 xDrive Gran Coupe is a high-performance luxury sedan feat
 * Estimated Cost to Fix: $200 - $500
 * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 **No Issues Found**
@@ -86,15 +60,3 @@ The 2018 BMW Alpina B6 xDrive Gran Coupe is a high-performance luxury sedan feat
 **Summary:**
 
 The 2018 BMW Alpina B6 xDrive Gran Coupe is known for its impressive performance and luxury. However, potential issues include fuel injector failure, transmission jerking, rear air suspension failure, battery discharge, and instrument cluster failure. The severity of these issues varies from minor inconveniences to major repairs. The estimated cost to fix these issues ranges from $200 to $2,000, making them relatively affordable to address.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

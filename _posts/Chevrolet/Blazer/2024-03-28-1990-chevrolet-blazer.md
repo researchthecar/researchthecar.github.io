@@ -45,19 +45,6 @@ Despite its popularity, the 1990 Chevrolet Blazer has been plagued by a number o
 * **Transmission fluid leak:** This issue can cause the transmission to lose fluid, leading to overheating and transmission damage. The cost to fix this issue is typically between $200 and $400.
 * **Synchronizer failure:** This issue can make it difficult to shift gears, especially when the transmission is cold. The cost to fix this issue is typically between $500 and $1,000.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Ball joint failure:** This issue can cause the suspension to become unstable, leading to loss of control and potential accidents. The cost to fix this issue is typically between $300 and $500.
@@ -69,19 +56,6 @@ Despite its popularity, the 1990 Chevrolet Blazer has been plagued by a number o
 * **Battery failure:** This issue can cause the vehicle to lose power, making it impossible to start. The cost to fix this issue is typically between $100 and $200.
 * **Alternator failure:** This issue can cause the vehicle to lose power, making it impossible to start. The cost to fix this issue is typically between $200 and $400.
 * **Starter failure:** This issue can make it difficult to start the vehicle. The cost to fix this issue is typically between $200 and $400.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -98,15 +72,3 @@ Despite its popularity, the 1990 Chevrolet Blazer has been plagued by a number o
 **Summary**
 
 The 1990 Chevrolet Blazer is a popular SUV that has been plagued by a number of issues over the years. These issues range from minor annoyances to major safety concerns. The severity and cost of these issues can vary greatly depending on the specific issue and the severity of the damage. However, it is important to be aware of these issues before purchasing a 1990 Chevrolet Blazer so that you can make an informed decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

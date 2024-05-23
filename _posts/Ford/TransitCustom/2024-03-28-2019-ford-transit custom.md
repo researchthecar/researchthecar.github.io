@@ -31,19 +31,6 @@ The 2019 Ford Transit Custom is a mid-size commercial van that offers a spacious
 
 * **Transmission Fluid Leaks:** Symptoms include fluid drips under the vehicle and reduced transmission performance. Solution: Replace transmission fluid seals. Estimated Cost to Fix: $200 - $500. Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Failure:** Symptoms include rattling noises, poor handling, and uneven tire wear. Solution: Replace front struts. Estimated Cost to Fix: $300 - $600 per strut. Recalls: None Found
@@ -52,19 +39,6 @@ The 2019 Ford Transit Custom is a mid-size commercial van that offers a spacious
 **Electrical**
 
 * **Battery Drain:** Symptoms include difficulty starting the vehicle, dim headlights, and dead battery. Solution: Replace battery or identify and fix the source of the electrical drain. Estimated Cost to Fix: $150 - $500. Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -77,15 +51,3 @@ The 2019 Ford Transit Custom is a mid-size commercial van that offers a spacious
 **Summary**
 
 The 2019 Ford Transit Custom's engine and transmission issues can be significant and expensive to repair. The suspension, electrical, and exterior problems, while less severe, can still cause inconvenience and additional costs. While there are some recalls related to the Transit Custom, many of the issues reported by owners remain without official recalls or solutions from Ford.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

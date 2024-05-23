@@ -29,19 +29,6 @@ The 2022 Hyundai Veloster N is a sporty compact hatchback that offers impressive
         * Estimated Cost to Fix: $200 - $500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Stiff Suspension:** Vehicles equipped with the Performance Package experience excessive stiffness, leading to a harsh ride.
@@ -59,19 +46,6 @@ The 2022 Hyundai Veloster N is a sporty compact hatchback that offers impressive
         * Solution: Software updates or hardware replacements.
         * Estimated Cost to Fix: $0 - $500+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -98,15 +72,3 @@ The 2022 Hyundai Veloster N is a sporty compact hatchback that offers impressive
 **Summary:**
 
 Overall, the 2022 Hyundai Veloster N has experienced several issues across various components. While some issues are minor and can be easily resolved, others, such as engine hesitations and suspension stiffness, can be more serious and impact the overall driving experience. The cost of repairs varies widely, but most issues can be addressed for under $500. It is important to note that some issues may require more extensive repairs, increasing the overall cost.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

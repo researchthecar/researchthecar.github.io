@@ -64,19 +64,6 @@ People who enjoy the Camaro appreciate its sporty handling, powerful engines, an
     * Estimated Cost to Fix: $1,500 - $3,500
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Control Arm Bushing Wear**
@@ -102,19 +89,6 @@ People who enjoy the Camaro appreciate its sporty handling, powerful engines, an
     * Solution: Replace the power window motors.
     * Estimated Cost to Fix: $200 - $400 per window
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -145,15 +119,3 @@ People who enjoy the Camaro appreciate its sporty handling, powerful engines, an
 **Summary**
 
 The 2001 Chevrolet Camaro is a popular performance car with a range of engine and transmission options. However, it has been known to experience some common issues, particularly with the engine and electrical system. While these issues can be costly to fix, the Camaro remains a popular choice for enthusiasts due to its sporty handling and powerful engines.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

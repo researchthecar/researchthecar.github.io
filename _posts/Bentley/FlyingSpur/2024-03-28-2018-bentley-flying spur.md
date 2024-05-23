@@ -30,19 +30,6 @@ The 2018 Bentley Flying Spur is a luxury sedan that offers a combination of styl
 
 * **Shift Solenoid Failure:** The shift solenoids can fail, causing the transmission to shift erratically or not at all. The solution is to replace the shift solenoids. Estimated cost to fix: $1,000 - $2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Failure:** The air suspension system can fail, causing the vehicle to sag or become unstable. The solution is to repair or replace the air suspension system. Estimated cost to fix: $2,000 - $5,000+
@@ -52,19 +39,6 @@ The 2018 Bentley Flying Spur is a luxury sedan that offers a combination of styl
 * **Battery Failure:** The battery can fail, causing the vehicle to lose power. The solution is to replace the battery. Estimated cost to fix: $200 - $500+
 * **Alternator Failure:** The alternator can fail, causing the battery to not charge. The solution is to replace the alternator. Estimated cost to fix: $500 - $1,000+
 * **Starter Failure:** The starter can fail, causing the engine to not start. The solution is to replace the starter. Estimated cost to fix: $500 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -78,15 +52,3 @@ The 2018 Bentley Flying Spur is a luxury sedan that offers a combination of styl
 **Summary**
 
 The 2018 Bentley Flying Spur is a luxury sedan that offers a high level of performance, luxury, and technology. However, it has been reported to have some issues with its engine, transmission, suspension, and electrical system. The severity and cost of these issues vary depending on the specific problem. It is important to note that these issues are not common and that most Flying Spurs will not experience any major problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

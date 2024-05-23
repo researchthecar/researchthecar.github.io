@@ -68,15 +68,3 @@ The 2021 Chevrolet Corvette is a mid-engine sports car available with two engine
 ### **Summary**
 
 The 2021 Chevrolet Corvette has some reported issues, but most are relatively minor and easily resolved. The more severe issues, such as engine and transmission failures, are less common but can be costly to fix. Overall, the Corvette remains a well-regarded sports car, but potential buyers should be aware of the potential issues before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

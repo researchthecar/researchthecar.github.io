@@ -57,19 +57,6 @@ The Special Service Police Sedan has received generally positive reviews from la
     * **Estimated Cost to Fix:** $2,500-$4,000+
     * **Recalls:** 18T05 and 19C02
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -87,19 +74,6 @@ The Special Service Police Sedan has received generally positive reviews from la
     * **Estimated Cost to Fix:** Varies depending on the location and severity of the short.
     * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 **No Issues Found**
@@ -115,15 +89,3 @@ The Special Service Police Sedan has received generally positive reviews from la
 **Summary**
 
 Overall, the 2018 Ford Special Service Police Sedan is a capable and reliable vehicle that has received generally positive reviews from law enforcement officers. However, some owners have reported a number of issues with the vehicle, including engine and transmission problems, electrical shorts, and climate control system failures. The severity and cost of these issues vary, but some of them can be quite expensive to repair.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

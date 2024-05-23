@@ -56,15 +56,3 @@ The 2004 Aston Martin Vanquish is a British grand tourer manufactured by Aston M
 
 ## Summary
 The 2004 Aston Martin Vanquish is a powerful and luxurious grand tourer. However, it is not without its issues. Some of the most common problems reported by owners include timing chain failure, intake manifold failure, synchro failure, control arm failure, battery drain, power window failure, and heater core failure. These issues can be expensive to repair, especially the timing chain failure and intake manifold failure. As a result, it is important to factor in the potential cost of repairs when considering the purchase of a used Vanquish.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

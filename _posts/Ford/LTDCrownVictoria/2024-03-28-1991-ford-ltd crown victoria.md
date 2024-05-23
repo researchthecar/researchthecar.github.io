@@ -36,19 +36,6 @@ The 1991 Ford LTD Crown Victoria is a full-size sedan powered by a 5.0L V8 engin
      - Estimated Cost to Fix: $400-$600
      - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Front Suspension:**
    - **Strut Failure:**
@@ -63,19 +50,6 @@ The 1991 Ford LTD Crown Victoria is a full-size sedan powered by a 5.0L V8 engin
      - Solution: Replace alternator
      - Estimated Cost to Fix: $400-$600
      - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Rust:**
@@ -92,15 +66,3 @@ The 1991 Ford LTD Crown Victoria is a full-size sedan powered by a 5.0L V8 engin
 
 **Summary:**
 The 1991 Ford LTD Crown Victoria has several issues with its engine, transmission, and suspension, which can be costly to repair. The severity and cost of these issues vary depending on the specific problem. However, it is important to address these issues promptly to ensure the safety and reliability of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

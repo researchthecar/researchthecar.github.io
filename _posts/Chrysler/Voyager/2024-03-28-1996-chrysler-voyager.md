@@ -53,19 +53,6 @@ The 1996 Chrysler Voyager is a minivan known for its versatility, spacious cabin
   * Estimated Cost to Fix: $1,500 - $3,000+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut/shock failure:** Worn or damaged struts/shocks can lead to poor ride quality, excessive body roll, and premature tire wear.
@@ -87,19 +74,6 @@ The 1996 Chrysler Voyager is a minivan known for its versatility, spacious cabin
   * Solution: Replace the starter or ignition switch.
   * Estimated Cost to Fix: $200 - $500+
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -126,15 +100,3 @@ The 1996 Chrysler Voyager is a minivan known for its versatility, spacious cabin
 **Summary:**
 
 The 1996 Chrysler Voyager has a history of issues that can affect various components of the vehicle. While the engine and transmission options have their share of problems, other areas such as the suspension, electrical system, and interior also experience their fair share of difficulties. The severity and cost of these issues can vary depending on the specific problem and the extent of the damage. Therefore, it is important for owners to be aware of these potential issues and to address them promptly to avoid more significant problems down the road.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

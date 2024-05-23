@@ -25,19 +25,6 @@ The 1997 Cadillac Catera was a luxury sedan that offered a refined driving exper
 * **5-speed Manual**
     * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Failure:** The strut mounts may prematurely fail, causing a clunking noise over bumps. Symptoms include poor handling and reduced ride comfort. The fix is to replace the strut mounts. Estimated Cost to Fix: $400 - $600
@@ -49,19 +36,6 @@ The 1997 Cadillac Catera was a luxury sedan that offered a refined driving exper
 * **Exterior Lighting Malfunctions:** Exterior lighting components, such as headlights, taillights, or turn signals, may malfunction due to faulty bulbs, wiring, or switches. The solution is to replace the affected components. Estimated Cost to Fix: $100 - $300
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 **Interior**
@@ -72,15 +46,3 @@ The 1997 Cadillac Catera was a luxury sedan that offered a refined driving exper
 **Summary**
 
 The 1997 Cadillac Catera exhibited a range of reliability issues affecting various components. While some issues, such as oil leaks and electrical malfunctions, were relatively minor and inexpensive to fix, others, like transmission slipping and timing chain tensioner failure, could be more severe and costly. Overall, the Catera's reliability record was average, with some owners experiencing significant repairs while others had few problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

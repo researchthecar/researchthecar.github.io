@@ -31,19 +31,6 @@ Owners praise the 650i xDrive Gran Coupe for its impressive performance, stylish
 
 * **Hesitation when shifting:** Some drivers have reported experiencing hesitation when shifting gears, particularly during low-speed driving. The fix may involve updating the transmission software or replacing the transmission control module, with an estimated cost of $500 - $1,500+.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -53,19 +40,6 @@ Owners praise the 650i xDrive Gran Coupe for its impressive performance, stylish
 * **Battery drain:** Some owners have reported experiencing battery drain issues, particularly after the vehicle has been sitting for a period of time. The fix may involve replacing the battery or alternator, with an estimated cost of $150 - $600+.
 
 * **Infotainment system glitches:** The iDrive infotainment system has been known to experience occasional glitches, such as freezing or unresponsive screens. The fix may involve updating the software or replacing the infotainment unit, with an estimated cost of $100 - $1,000+.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -82,15 +56,3 @@ Owners praise the 650i xDrive Gran Coupe for its impressive performance, stylish
 **Summary**
 
 Overall, the 2018 BMW 650i xDrive Gran Coupe is a reliable and well-built vehicle, but it is not without its potential issues. While some of the reported problems are minor annoyances, others can be more costly to fix. It is important to keep up with regular maintenance and to address any potential issues as soon as they arise to avoid more severe problems down the road.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

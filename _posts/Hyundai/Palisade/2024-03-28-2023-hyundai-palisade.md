@@ -49,19 +49,6 @@ The 2023 Hyundai Palisade is a mid-size SUV known for its spacious interior, com
     * Estimated Cost to Fix: $300 - $800
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Knock:**
@@ -77,19 +64,6 @@ The 2023 Hyundai Palisade is a mid-size SUV known for its spacious interior, com
     * Solution: Diagnosis of the electrical system to identify and resolve the parasitic drain.
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -110,15 +84,3 @@ The 2023 Hyundai Palisade is a mid-size SUV known for its spacious interior, com
 **Summary:**
 
 While the 2023 Hyundai Palisade is generally appreciated for its comfort and features, some common issues have been reported by owners. Engine issues tend to be more severe and costly to repair, while transmission and suspension problems can affect drivability. Electrical and exterior issues are less significant and typically less expensive to fix. Interior concerns mainly revolve around noise from the panoramic sunroof. Overall, the severity and cost of these issues vary depending on the specific problem and the extent of the damage.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

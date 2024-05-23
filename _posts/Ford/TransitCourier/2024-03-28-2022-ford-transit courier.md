@@ -20,19 +20,6 @@ The 2022 Ford Transit Courier is a versatile commercial van that offers a combin
 * **6-Speed Manual**
     * **Gear Grinding:** Symptoms include difficulty shifting gears, especially from second to third gear. Solution may involve adjusting or replacing the gear shift linkage. Estimated cost: $200 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Failure:** Symptoms include knocking or rattling noises from the front suspension, especially when driving over bumps. Solution involves replacing the worn-out struts. Estimated cost: $500 - $700+ per strut
@@ -40,19 +27,6 @@ The 2022 Ford Transit Courier is a versatile commercial van that offers a combin
 **Electrical**
 
 * **Battery Drain:** Symptoms include a dead battery after prolonged periods of parking. Solution involves diagnosing and repairing any electrical faults that may be causing the drain. Estimated cost: Varies depending on the cause
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -65,15 +39,3 @@ The 2022 Ford Transit Courier is a versatile commercial van that offers a combin
 **Summary:**
 
 While the 2022 Ford Transit Courier offers a range of benefits, some owners have experienced issues with certain components. Engine problems, such as turbocharger failure and timing chain stretch, can be costly to repair. The potential for suspension and electrical issues may also require attention. However, the severity and cost of these issues vary, and many owners have had positive experiences with the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

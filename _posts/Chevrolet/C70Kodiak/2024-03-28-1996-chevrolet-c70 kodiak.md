@@ -60,19 +60,6 @@ The C70 Kodiak is known for its durability, reliability, and spacious cab. Howev
 
 * No Issues Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf Spring Breakage:**
@@ -94,19 +81,6 @@ The C70 Kodiak is known for its durability, reliability, and spacious cab. Howev
     * Description/Symptoms: Difficulty starting, grinding noises.
     * Solution: Replace starter.
     * Estimated Cost to Fix: $300 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -133,15 +107,3 @@ The C70 Kodiak is known for its durability, reliability, and spacious cab. Howev
 **Summary**
 
 Overall, the 1996 Chevrolet C70 Kodiak is a reliable and capable commercial truck. However, it is not immune to potential issues, particularly related to the engine, suspension, and electrical systems. While some of these issues can be costly to repair, regular maintenance and preventative measures can help minimize the likelihood of major problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

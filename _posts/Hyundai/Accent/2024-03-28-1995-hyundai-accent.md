@@ -39,19 +39,6 @@ Drivers appreciate the Accent's fuel efficiency, affordability, and reliability.
       - Estimated Cost to Fix: $300 - $900+
       - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Coil Springs**
@@ -84,19 +71,6 @@ Drivers appreciate the Accent's fuel efficiency, affordability, and reliability.
       - Estimated Cost to Fix: $200 - $400+
       - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 - **Body Panels**
@@ -125,15 +99,3 @@ Drivers appreciate the Accent's fuel efficiency, affordability, and reliability.
 **Summary**
 
 Overall, the 1995 Hyundai Accent is a reliable and affordable subcompact car. However, it is not without its potential issues, particularly with the engine head gasket, transmission shifting, and suspension components. The estimated cost of repairs can vary widely depending on the severity of the issue, labor rates, and availability of parts.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

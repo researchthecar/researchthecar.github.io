@@ -68,19 +68,6 @@ The 1995 Dodge Intrepid was a mid-size sedan offered with three engine options: 
     - Estimated Cost to Fix: $100 - $200+
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Front Suspension**
@@ -124,19 +111,6 @@ The 1995 Dodge Intrepid was a mid-size sedan offered with three engine options: 
     - Estimated Cost to Fix: $200 - $500+
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 - **Door Lock Failure**
@@ -165,15 +139,3 @@ The 1995 Dodge Intrepid was a mid-size sedan offered with three engine options: 
 
 **Summary**
 The 1995 Dodge Intrepid has a number of potential issues, with the most severe and expensive being engine and transmission problems. The cost to fix these issues can range from a few hundred dollars to over a thousand dollars. Overall, the Intrepid has a moderate level of reliability with some potential issues to be aware of.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

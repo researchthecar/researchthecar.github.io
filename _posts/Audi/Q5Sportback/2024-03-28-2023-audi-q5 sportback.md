@@ -43,19 +43,6 @@ People like the Audi Q5 Sportback for its stylish design, comfortable interior, 
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Lower Control Arm Bushing Wear**
@@ -71,19 +58,6 @@ People like the Audi Q5 Sportback for its stylish design, comfortable interior, 
     * Solution: Replacing the alternator.
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -104,15 +78,3 @@ People like the Audi Q5 Sportback for its stylish design, comfortable interior, 
 **Summary**
 
 The 2023 Audi Q5 Sportback is a reliable and capable luxury crossover SUV. However, it is not without its issues. The most common problems reported by owners include intake valve deposits on the 2.0T engine, timing chain tensioner failure on the 3.0T engine, mechatronic unit failure on the 7-speed S tronic transmission, front lower control arm bushing wear, alternator failure, headlight condensation, and sunroof rattle. The severity and cost of these issues can vary widely, so it is important to have the vehicle inspected by a qualified mechanic before making a purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

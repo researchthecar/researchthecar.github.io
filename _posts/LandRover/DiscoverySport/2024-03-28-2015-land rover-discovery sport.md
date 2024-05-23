@@ -31,19 +31,6 @@ The 2015 Land Rover Discovery Sport is a compact luxury SUV that offers a spacio
 
 * **Torque Converter Failure:** Description/Symptoms: The torque converter can fail due to a loss of fluid pressure, resulting in a lack of power or a shuddering sensation during acceleration. Solution: The torque converter will need to be replaced. Estimated Cost to Fix: $1,500 - $2,500+ Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Noise:** Description/Symptoms: Some models may experience a clunking or rattling noise from the front suspension, especially over rough roads. Solution: The suspension components may need to be inspected and replaced if necessary. Estimated Cost to Fix: $500 - $1,000+ Recalls: None Found
@@ -53,19 +40,6 @@ The 2015 Land Rover Discovery Sport is a compact luxury SUV that offers a spacio
 
 * **Battery Drain:** Description/Symptoms: The battery may discharge quickly due to a parasitic drain from a faulty electrical component. Solution: The electrical system will need to be inspected to locate the source of the drain, and the faulty component will need to be repaired or replaced. Estimated Cost to Fix: $300 - $1,000+ Recalls: None Found
 * **Infotainment System Issues:** Description/Symptoms: The infotainment system may experience glitches, freezing, or other issues. Solution: The software may need to be updated or the system may need to be repaired or replaced. Estimated Cost to Fix: $500 - $1,500+ Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -80,15 +54,3 @@ The 2015 Land Rover Discovery Sport is a compact luxury SUV that offers a spacio
 **Summary**
 
 Overall, the 2015 Land Rover Discovery Sport is a capable and luxurious SUV that offers a wide range of features and capabilities. However, it has been plagued by several significant issues, including engine problems, transmission issues, suspension problems, and electrical issues. These issues can be costly to repair and can significantly impact the reliability and value of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

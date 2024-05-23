@@ -35,19 +35,6 @@ The 2016 Ford Expedition is a popular full-size SUV known for its spacious cabin
     * Estimated Cost to Fix: $200 - $800+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Strut Failure:**
@@ -69,19 +56,6 @@ The 2016 Ford Expedition is a popular full-size SUV known for its spacious cabin
     * Solution: Replace key fob batteries or remote control module
     * Estimated Cost to Fix: $100 - $250
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -108,15 +82,3 @@ The 2016 Ford Expedition is a popular full-size SUV known for its spacious cabin
 **Summary:**
 
 The 2016 Ford Expedition has some common issues that vary in severity and cost of repair. The most significant are turbocharger and fuel injector failures within the 3.5L EcoBoost V6 engine, which can be costly to resolve. Transmission hesitation and suspension strut failures are other notable concerns. Interior and electrical issues, while less severe, can still be inconvenient. Overall, potential buyers should be aware of these issues and factor in the potential repair costs when considering this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

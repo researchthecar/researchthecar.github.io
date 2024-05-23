@@ -37,19 +37,6 @@ The Aviator was praised for its comfortable ride, luxurious interior, and powerf
 * **6-speed automatic transmission**
     * **No major issues reported**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension:**
@@ -71,19 +58,6 @@ The Aviator was praised for its comfortable ride, luxurious interior, and powerf
         * Estimated Cost to Fix: Varies depending on the cause of the battery drain.
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **No major issues reported**
@@ -103,15 +77,3 @@ The Aviator was praised for its comfortable ride, luxurious interior, and powerf
 **Summary**
 
 The 2004 Lincoln Aviator is a comfortable and luxurious SUV, but it has been plagued by a number of issues over the years. Some of the most common issues include: IMRC failure, timing chain tensioner failure, torque converter shudder, ball joint failure, air suspension compressor failure, battery drain, and cupholder lid failure. The severity and cost of these issues can vary depending on the specific issue and the extent of the damage.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

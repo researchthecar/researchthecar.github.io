@@ -29,19 +29,6 @@ The 1997 Ford Club Wagon is a 12-passenger van powered by a 5.4L V8 engine gener
         * Estimated Cost to Fix: $1,500 - $3,000
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Ball Joint Failure**
@@ -71,19 +58,6 @@ The 1997 Ford Club Wagon is a 12-passenger van powered by a 5.4L V8 engine gener
     * Estimated Cost to Fix: $200 - $400
     * Recalls: None Found
 
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -116,15 +90,3 @@ The 1997 Ford Club Wagon is a 12-passenger van powered by a 5.4L V8 engine gener
 **Summary**
 
 The 1997 Ford Club Wagon is a reliable van with a few common issues. The most severe and expensive issues revolve around transmission problems and rust on body panels. Other issues, such as interior dashboard cracking and electrical malfunctions, are less common and relatively inexpensive to fix. Overall, the cost of repairs should be considered when purchasing this vehicle to ensure it remains an affordable option for transportation.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

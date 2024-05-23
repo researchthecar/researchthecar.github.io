@@ -51,19 +51,6 @@ Overall, the Elantra is praised for its comfortable interior, fuel-efficient per
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Excessive body roll or sway:**
@@ -79,19 +66,6 @@ Overall, the Elantra is praised for its comfortable interior, fuel-efficient per
     * Solution: Identifying and replacing faulty electrical components, such as the alternator or starter, can resolve this issue.
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -112,15 +86,3 @@ Overall, the Elantra is praised for its comfortable interior, fuel-efficient per
 **Summary:**
 
 The 2022 Hyundai Elantra is an overall reliable vehicle. However, some reported issues include knocking or pinging noises from the 2.0-liter engine, transmission hesitation or jerking, suspension sway, electrical drain, condensation in taillights, and rattling or squeaking noises from the interior. The severity of these issues varies, but most can be resolved at a reasonable cost.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

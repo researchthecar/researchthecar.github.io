@@ -52,19 +52,6 @@ People generally praised the 1994 Corvette for its performance, handling, and st
   * Estimated Cost to Fix: $1,500 - $3,000+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear suspension bushings:** May wear prematurely, leading to a harsh ride and instability.
@@ -82,19 +69,6 @@ People generally praised the 1994 Corvette for its performance, handling, and st
   * Solution: Replace alternator.
   * Estimated Cost to Fix: $500 - $700+
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -117,15 +91,3 @@ People generally praised the 1994 Corvette for its performance, handling, and st
 **Summary**
 
 The 1994 Chevrolet Corvette is generally reliable, but it can have some issues. Engine and transmission problems are the most severe and costly to fix, while electrical and exterior issues are typically less serious and less expensive. Overall, the Corvette is a solid performance car, but it's important to be aware of potential problems before buying one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

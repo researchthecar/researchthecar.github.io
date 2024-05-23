@@ -47,19 +47,6 @@ People who liked the 1991 Chevrolet Camaro praised its stylish design, powerful 
     * Estimated Cost to Fix: $1,000 - $2,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -76,19 +63,6 @@ People who liked the 1991 Chevrolet Camaro praised its stylish design, powerful 
     * Solution: The solution to starter failure is to replace the starter.
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -114,15 +88,3 @@ People who liked the 1991 Chevrolet Camaro praised its stylish design, powerful 
 **Summary**
 
 The 1991 Chevrolet Camaro is a popular sports car that is known for its stylish design, powerful engines, and fun-to-drive handling. However, the car has some potential issues that can be expensive to fix. The most common issues include piston ring failure, intake manifold gasket failure, valve stem seal failure, synchronizer failure, torque converter failure, alternator failure, starter failure, rust, HVAC system failure, and power window failure. If you are considering buying a 1991 Chevrolet Camaro, be sure to have it inspected by a qualified mechanic to check for any potential issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

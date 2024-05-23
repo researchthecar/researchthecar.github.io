@@ -45,19 +45,6 @@ The 2005 Cadillac DeVille was a full-size luxury sedan offered with two engine a
   - Estimated Cost to Fix: $100 - $200
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Strut Mount Failure:**
@@ -79,19 +66,6 @@ The 2005 Cadillac DeVille was a full-size luxury sedan offered with two engine a
   - Solution: Check and repair the source of the parasitic draw (e.g., alternator, lights)
   - Estimated Cost to Fix: Varies depending on the source of the draw
   - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -118,15 +92,3 @@ The 2005 Cadillac DeVille was a full-size luxury sedan offered with two engine a
 **Summary:**
 
 The 2005 Cadillac DeVille had a range of issues that could affect various components of the vehicle. The most significant engine and transmission issues were the timing chain tensioner failure and shift solenoid failure, respectively. Suspension problems and electrical issues were also common, though they were generally less severe. Interior and exterior issues were mostly minor in nature but could still be problematic for owners. Overall, the 2005 Cadillac DeVille was a comfortable and luxurious sedan, but potential buyers should be aware of the possible issues listed above.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

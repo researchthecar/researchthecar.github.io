@@ -53,19 +53,6 @@ The 2003 Tracker is lauded for its compact size and affordability, but it also h
     * Solution: Replace the torque converter.
     * Estimated Cost to Fix: $500 - $1000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Failure:** The strut mounts prematurely wear out, causing a clunking or rattling noise over bumps.
@@ -83,19 +70,6 @@ The 2003 Tracker is lauded for its compact size and affordability, but it also h
 * **Starter Failure:** The starter fails to engage the engine, preventing it from starting.
     * Solution: Replace the starter.
     * Estimated Cost to Fix: $200 - $400
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -120,15 +94,3 @@ The 2003 Tracker is lauded for its compact size and affordability, but it also h
 The 2003 Chevrolet Tracker has a moderate number of potential issues across its various components. While some of these issues are relatively minor and inexpensive to fix, others, such as timing chain tensioner failure or transmission slipping, can be more severe and costly to repair.
 
 Overall, the Tracker is a reliable and affordable SUV, but potential buyers should be aware of these common issues before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

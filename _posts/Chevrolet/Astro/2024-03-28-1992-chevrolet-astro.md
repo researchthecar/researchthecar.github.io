@@ -41,19 +41,6 @@ The Astro is known for its spacious interior and ample cargo capacity. However, 
 - **Torque converter failure:** Symptoms include slipping gears, shuddering, and loss of power. Solution: Replace the torque converter. Cost to Fix: $1,000 - $2,000
 - **Transmission fluid leaks:** Symptoms include low transmission fluid levels and puddles under the vehicle. Solution: Replace the leaking seals or gaskets. Cost to Fix: $200 - $500
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Ball joint failure:** Symptoms include clunking noises, uneven tire wear, and poor handling. Solution: Replace the worn ball joints. Cost to Fix: $200 - $500 per joint
@@ -63,19 +50,6 @@ The Astro is known for its spacious interior and ample cargo capacity. However, 
 
 - **Alternator failure:** Symptoms include dim headlights, battery drain, and electrical system malfunctions. Solution: Replace the alternator. Cost to Fix: $300 - $500
 - **Starter failure:** Symptoms include difficulty starting the engine, clicking sounds, and a grinding noise. Solution: Replace the starter motor. Cost to Fix: $200 - $400
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -90,15 +64,3 @@ The Astro is known for its spacious interior and ample cargo capacity. However, 
 **Summary**
 
 The 1992 Chevrolet Astro is a spacious and versatile vehicle, but it is plagued by numerous issues that can be costly to repair. The engine, transmission, suspension, and electrical systems are particularly prone to problems. The cost of these repairs can range from a few hundred dollars to several thousand dollars, depending on the severity of the issue. Owners should be prepared for unexpected expenses and consider purchasing an extended warranty or service contract.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

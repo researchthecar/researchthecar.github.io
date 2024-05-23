@@ -20,19 +20,6 @@ The 2020 Ford Transit Custom is a versatile van designed for various commercial 
 * **10-Speed Automatic Transmission:**
     * **Shifting Problems:** Description/Symptoms: Delayed or rough shifting, hesitation during acceleration. Solution: Update transmission software or replace transmission components. Estimated Cost to Fix: $500 - $2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Suspension Spring Failure:** Description/Symptoms: Sagging, excessive bounce, uneven tire wear. Solution: Replace rear suspension springs. Estimated Cost to Fix: $250 - $400+
@@ -42,19 +29,6 @@ The 2020 Ford Transit Custom is a versatile van designed for various commercial 
 
 * **Battery Drain:** Description/Symptoms: Slow starting, dead battery, electrical malfunctions. Solution: Diagnose and repair electrical system, replace battery if necessary. Estimated Cost to Fix: $200 - $600+
 * **Alternator Failure:** Description/Symptoms: Battery warning light illuminated, dimming headlights, electrical issues. Solution: Replace alternator. Estimated Cost to Fix: $500 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -69,15 +43,3 @@ The 2020 Ford Transit Custom is a versatile van designed for various commercial 
 **Summary**
 
 The 2020 Ford Transit Custom is a practical and capable van with some known issues affecting the engine, transmission, suspension, and electrical systems. While some repairs may be minor, others can be more costly. It's important for potential buyers to be aware of these issues and consider their potential impact on the vehicle's reliability and cost of ownership.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

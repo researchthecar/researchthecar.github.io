@@ -56,15 +56,3 @@ The Astro was popular for its spacious interior and versatile seating configurat
 ### Summary
 
 The 1994 Chevrolet Astro is a spacious and versatile van, but it is also known for its poor fuel economy and handling. The most common issues with the Astro include intake manifold gasket failure, head gasket failure, transmission slipping, torque converter failure, front end alignment, rear leaf springs, alternator failure, battery failure, rust, door lock failure, dashboard cracking, and seat fabric tearing. The severity of these issues can vary depending on the specific model and year of the vehicle. The cost to fix these issues can also vary depending on the labor rates in your area.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

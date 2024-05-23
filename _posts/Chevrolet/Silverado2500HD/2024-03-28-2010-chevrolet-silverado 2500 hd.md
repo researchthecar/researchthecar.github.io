@@ -69,19 +69,6 @@ The 2010 Chevrolet Silverado 2500 HD is a heavy-duty pickup truck offered with a
     * Estimated Cost to Fix: $300 - $600
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf Spring Failure:**
@@ -109,19 +96,6 @@ The 2010 Chevrolet Silverado 2500 HD is a heavy-duty pickup truck offered with a
     * Solution: Diagnosis of electrical system and repair of faulty component
     * Estimated Cost to Fix: $100 - $300
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -154,15 +128,3 @@ The 2010 Chevrolet Silverado 2500 HD is a heavy-duty pickup truck offered with a
 **Summary:**
 
 The 2010 Chevrolet Silverado 2500 HD has a wide range of reported issues affecting various components, including the engine, transmission, suspension, electrical system, and interior. While some issues are relatively minor and inexpensive to fix, others can be more severe and costly. The presence and severity of these issues vary depending on the individual vehicle and its maintenance history. Potential buyers should be aware of these issues and consider the estimated repair costs before purchasing this model.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

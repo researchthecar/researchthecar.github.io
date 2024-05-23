@@ -55,19 +55,6 @@ The A7 is offered with three engine options: a 2.0-liter turbocharged inline-4, 
     * Estimated Cost to Fix: $3,000 - $5,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Malfunction**
@@ -89,19 +76,6 @@ The A7 is offered with three engine options: a 2.0-liter turbocharged inline-4, 
     * Solution: System updates, software reprogramming, or hardware replacement.
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -128,15 +102,3 @@ The A7 is offered with three engine options: a 2.0-liter turbocharged inline-4, 
 **Summary**
 
 While the 2021 Audi A7 Sportback is a highly regarded vehicle, it is not without its issues. Some of the most common problems experienced by owners include engine issues such as intake valve carbon buildup and water pump failure, transmission problems like clutch wear and mechatronic unit failure, suspension issues such as air suspension malfunction, and electrical issues such as battery drain and infotainment system glitches. The severity and cost of these issues vary, but some can be quite expensive to repair. It's important for potential buyers to be aware of these potential problems before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

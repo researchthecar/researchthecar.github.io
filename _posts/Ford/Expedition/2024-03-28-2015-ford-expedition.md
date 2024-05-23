@@ -33,19 +33,6 @@ The 2015 Ford Expedition was a full-size SUV offered with two engine options: a 
     Estimated Cost to Fix: $1,000 - $2,000
     Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Lower Control Arms**
@@ -61,19 +48,6 @@ The 2015 Ford Expedition was a full-size SUV offered with two engine options: a 
     Solution: Replace or repair the faulty BCM.
     Estimated Cost to Fix: $500 - $1,000
     Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -94,15 +68,3 @@ The 2015 Ford Expedition was a full-size SUV offered with two engine options: a 
 **Summary**
 
 While the 2015 Ford Expedition is a popular SUV with many positive attributes, some owners have reported various issues with its engine, transmission, suspension, electrical, exterior, and interior components. The severity and cost of the issues can vary, but most are relatively minor and can be fixed at a reasonable cost.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

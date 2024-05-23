@@ -39,19 +39,6 @@ Despite its performance and popularity, the 2020 Ferrari F8 Tributo has been pla
         * Estimated Cost to Fix: $2,000 - $4,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension**
@@ -77,19 +64,6 @@ Despite its performance and popularity, the 2020 Ferrari F8 Tributo has been pla
     * Estimated Cost to Fix: $500 - $5,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **No Issues Found**
@@ -110,15 +84,3 @@ Despite its performance and popularity, the 2020 Ferrari F8 Tributo has been pla
 **Summary**
 
 The 2020 Ferrari F8 Tributo is a high-performance sports car, but it has been plagued by several issues that have affected its reliability and performance. The most common issues are with the engine, transmission, and suspension. The estimated cost to fix these issues can range from a few hundred dollars to several thousand dollars. Owners who have experienced these issues have reported being dissatisfied with the reliability of the vehicle and have expressed concerns about the long-term durability of the F8 Tributo.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

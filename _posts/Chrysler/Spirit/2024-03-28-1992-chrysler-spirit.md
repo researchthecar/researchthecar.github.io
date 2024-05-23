@@ -88,15 +88,3 @@ Recalls: None Found
 ### Summary
 
 Overall, the 1992 Chrysler Spirit is a reliable and affordable vehicle that has some known issues. However, most of these issues are relatively minor and inexpensive to fix. The engine and transmission problems can be more severe and costly to repair, so it is important to have the vehicle inspected by a qualified mechanic before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

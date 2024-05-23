@@ -44,19 +44,6 @@ Despite its popularity, the 1998 Chevrolet Silverado has been plagued by several
     * Estimated Cost to Fix: $600 - $1,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front ball joint failure**
@@ -83,19 +70,6 @@ Despite its popularity, the 1998 Chevrolet Silverado has been plagued by several
     * Estimated Cost to Fix: $50 - $200
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door handle breakage**
@@ -120,15 +94,3 @@ Despite its popularity, the 1998 Chevrolet Silverado has been plagued by several
 **Summary**
 
 The 1998 Chevrolet Silverado is a popular pickup truck, but it has been plagued by a number of issues that can be costly to repair. The most common problems include intake manifold gasket failure, throttle position sensor failure, transmission shudder, front ball joint failure, battery drain, and power window failure. The severity and cost of these issues vary depending on the specific problem, but some of them can lead to major expenses.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

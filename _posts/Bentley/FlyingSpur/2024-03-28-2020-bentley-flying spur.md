@@ -44,19 +44,6 @@ The 2020 Bentley Flying Spur is a luxurious sedan powered by a 6.0L twin-turboch
         * Estimated Cost to Fix: $2,000 - $4,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Adaptive Air Suspension (Optional)**
@@ -79,19 +66,6 @@ The 2020 Bentley Flying Spur is a luxurious sedan powered by a 6.0L twin-turboch
         * Estimated Cost to Fix: Covered under warranty
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door Lock Failure**
@@ -111,15 +85,3 @@ The 2020 Bentley Flying Spur is a luxurious sedan powered by a 6.0L twin-turboch
 **Summary**
 
 The 2020 Bentley Flying Spur has faced some issues, mainly related to the engine, transmission, and electrical components. However, it's important to note that these issues are relatively infrequent, and many vehicles are unaffected. Overall, the Flying Spur remains a high-quality and luxurious sedan with impressive performance, though it can come with some potential repair costs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

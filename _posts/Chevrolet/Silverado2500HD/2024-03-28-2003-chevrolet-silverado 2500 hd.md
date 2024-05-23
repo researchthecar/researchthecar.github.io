@@ -24,19 +24,6 @@ Solution: Rebuild or replace the transmission.
 Estimated Cost to Fix: $1,500 - $3,000+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 **Front Suspension**
 **Ball Joint Wear**
@@ -51,19 +38,6 @@ Description/Symptoms: Faulty batteries can cause starting issues, electrical mal
 Solution: Replace the battery.
 Estimated Cost to Fix: $100 - $200+
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 **Rust Prone**
@@ -81,15 +55,3 @@ Recalls: None Found
 
 **Summary:**
 While the 2003 Chevrolet Silverado 2500 HD is a capable and popular pickup truck, it has some common issues that owners should be aware of. Engine problems, such as cylinder head cracking, can be severe and costly to repair. Transmission issues, like overdrive failure, can also be expensive to fix. Electrical problems, suspension issues, and corrosion are other areas of concern. While many of the issues listed can be addressed with regular maintenance and care, the potential for repairs can add to the overall cost of ownership.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

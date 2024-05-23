@@ -60,19 +60,6 @@ Drivers love the Challenger's powerful engines, aggressive styling, and comforta
 **10-Speed Automatic Transmission**
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Suspension Bushing Failure:**
@@ -97,19 +84,6 @@ Drivers love the Challenger's powerful engines, aggressive styling, and comforta
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Hood Alignment Issues:**
@@ -121,15 +95,3 @@ Drivers love the Challenger's powerful engines, aggressive styling, and comforta
 **Summary**
 
 The 2014 Dodge Challenger is a powerful and stylish muscle car, but it is not without its issues. The most common engine problems include excessive oil consumption, cam phaser failure, and head gasket failure. The transmission may experience grinding gears, shift hesitations, or complete failure. The suspension can suffer from rear bushing failures, and electrical problems such as battery drain can occur. Interior quality is generally good, but power seat adjusters may malfunction. Exterior issues are relatively minor and include hood alignment problems. The severity and cost of these issues vary depending on the specific problem and the affected parts.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

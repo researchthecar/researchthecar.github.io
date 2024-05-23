@@ -94,19 +94,6 @@ Owners generally praise the Grand Voyager for its roomy interior, comfortable se
         * Estimated Cost to Fix: $100 - $200
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut failure**
@@ -143,19 +130,6 @@ Owners generally praise the Grand Voyager for its roomy interior, comfortable se
     * Estimated Cost to Fix: $100 - $200
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust**
@@ -185,15 +159,3 @@ Owners generally praise the Grand Voyager for its roomy interior, comfortable se
 **Summary**
 
 The 1995 Chrysler Grand Voyager has a number of potential issues that can affect its engine, transmission, suspension, electrical system, exterior, and interior. The severity and cost of these issues can vary depending on the specific problem and the extent of the damage. Some of the most common and expensive issues include head gasket failure, transmission slipping, and strut failure. However, with proper maintenance and timely repairs, the Grand Voyager can provide years of reliable service.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -33,19 +33,6 @@ The 2023 Audi SQ5 Sportback is a performance-oriented SUV that combines a spacio
         - Solution: Replace the faulty components or seals.
         - Estimated Cost to Fix: $500 - $1000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Front suspension noise**
     - Description/Symptoms: The front suspension may make creaking or rattling noises over bumps or uneven surfaces.
@@ -67,19 +54,6 @@ The 2023 Audi SQ5 Sportback is a performance-oriented SUV that combines a spacio
     - Estimated Cost to Fix: $500 - $1500+
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 - **Trims and badges peeling**
     - Description/Symptoms: Various trim pieces or badges on the exterior of the vehicle may start to peel or chip off.
@@ -98,15 +72,3 @@ The 2023 Audi SQ5 Sportback is a performance-oriented SUV that combines a spacio
 
 **Summary**
 Overall, the 2023 Audi SQ5 Sportback offers a comfortable and powerful driving experience. However, it has not been without its issues, particularly with the engine and transmission. While many of the problems are not severe and can be addressed with relatively minor repairs, some can lead to more expensive and time-consuming fixes. Potential owners should be aware of these issues and consider them before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -82,15 +82,3 @@ Drivers appreciate the Discovery's comfortable ride, spacious interior, and rugg
 ### Summary
 
 The 2004 Land Rover Discovery is a capable off-roader with a comfortable interior. However, it has been reported to have several issues, including engine failures, transmission problems, and electrical issues. The severity and cost of these issues can vary, but some of them can be quite expensive to repair.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

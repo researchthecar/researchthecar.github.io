@@ -35,19 +35,6 @@ The 2019 Hyundai Tucson is a compact SUV that comes with a variety of engine and
 * **8-speed automatic:**
     * **No issues found.**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Front suspension noise:**
@@ -73,19 +60,6 @@ The 2019 Hyundai Tucson is a compact SUV that comes with a variety of engine and
     * Solution: Headlight bulb or wiring replacement.
         * Estimated Cost to Fix: $50 - $300
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -116,15 +90,3 @@ The 2019 Hyundai Tucson is a compact SUV that comes with a variety of engine and
 **Summary:**
 
 Overall, the 2019 Hyundai Tucson has some significant issues with its engine, transmission, and suspension. These issues can be costly to repair and can affect the reliability and safety of the vehicle. However, it also has some positive features and reasonable fuel efficiency.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

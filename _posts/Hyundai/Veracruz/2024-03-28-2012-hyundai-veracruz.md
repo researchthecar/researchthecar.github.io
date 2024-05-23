@@ -35,19 +35,6 @@ The 2012 Hyundai Veracruz is a mid-size crossover SUV offered with a single engi
     * Estimated Cost to Fix: $400 - $600
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Bearing Failure:**
@@ -87,19 +74,6 @@ The 2012 Hyundai Veracruz is a mid-size crossover SUV offered with a single engi
     * Estimated Cost to Fix: $200 - $300
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight Condensation:**
@@ -116,15 +90,3 @@ The 2012 Hyundai Veracruz is a mid-size crossover SUV offered with a single engi
 **Summary**
 
 While the 2012 Hyundai Veracruz is generally reliable, there are a few common issues that owners have reported. The most prevalent concerns are related to the engine, such as the intake manifold runner control issue and the crankshaft sensor failure. Transmission problems, including shift solenoid failure, have also been reported. Other issues include suspension component wear, electrical faults, and minor interior and exterior issues. The severity of these issues varies, but many are relatively inexpensive to fix. Overall, the Veracruz is a solid vehicle with a good reputation for reliability.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

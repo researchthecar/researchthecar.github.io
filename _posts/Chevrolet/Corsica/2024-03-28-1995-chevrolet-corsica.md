@@ -79,19 +79,6 @@ The Corsica was praised for its comfortable interior, good fuel economy, and aff
   * Estimated Cost to Fix: $1,000 - $2,000
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Failure**
@@ -118,19 +105,6 @@ The Corsica was praised for its comfortable interior, good fuel economy, and aff
   * Estimated Cost to Fix: $200 - $400
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust**
@@ -155,15 +129,3 @@ The Corsica was praised for its comfortable interior, good fuel economy, and aff
 **Summary**
 
 Overall, the 1995 Chevrolet Corsica is a relatively reliable vehicle, but it does have some common issues to watch out for, especially with the 2.2-liter I4 engine. The most severe and costly issue is the timing chain failure on the 2.2-liter, which can lead to major engine damage. The transmission and electrical systems are generally reliable, but some issues can occur with the 4-speed automatic and the CVT. The suspension and exterior can also develop problems over time, but these are typically less severe and less expensive to fix.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

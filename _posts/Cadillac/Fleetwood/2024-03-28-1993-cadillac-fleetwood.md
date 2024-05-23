@@ -39,19 +39,6 @@ The 1993 Cadillac Fleetwood is a full-size luxury sedan that offers a comfortabl
         * Solution: Replace shift solenoid
         * Estimated Cost to Fix: $200 - $500
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -66,19 +53,6 @@ The 1993 Cadillac Fleetwood is a full-size luxury sedan that offers a comfortabl
     * Description/Symptoms: Dimming headlights, electrical system malfunctions
     * Solution: Replace alternator
     * Estimated Cost to Fix: $400 - $700
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -101,15 +75,3 @@ The 1993 Cadillac Fleetwood is a full-size luxury sedan that offers a comfortabl
 **Summary**
 
 The 1993 Cadillac Fleetwood is a reliable and comfortable luxury sedan. However, it is not without its share of potential issues. The engine and transmission are the most common sources of problems, with intake manifold gasket failure and slipping transmission being the most prevalent issues. The electrical system can also be troublesome, with battery drain and alternator failure being reported. While these issues can be costly to fix, the Fleetwood remains a popular choice among classic car enthusiasts.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

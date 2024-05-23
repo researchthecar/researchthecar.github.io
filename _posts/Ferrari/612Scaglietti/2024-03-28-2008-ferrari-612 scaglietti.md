@@ -34,19 +34,6 @@ The 2008 Ferrari 612 Scaglietti is a high-performance sports car powered by a na
         * Estimated Cost to Fix: $3,000 - $5,000
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -57,19 +44,6 @@ The 2008 Ferrari 612 Scaglietti is a high-performance sports car powered by a na
         * Solution: Diagnose and repair the electrical issue.
         * Estimated Cost to Fix: $500 - $1,500
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -88,15 +62,3 @@ The 2008 Ferrari 612 Scaglietti is a high-performance sports car powered by a na
 **Summary**
 
 The 2008 Ferrari 612 Scaglietti is a desirable sports car, but it is not immune to potential issues. Some of the reported problems include intake manifold failure, timing chain tensioner failure, clutch wear, TCM failure, and brake caliper seizing. While these issues can be costly to repair, it is important to note that the severity and frequency of these problems vary. With proper maintenance and care, owners can enjoy the thrilling performance and luxurious amenities of this iconic Ferrari.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

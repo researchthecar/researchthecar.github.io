@@ -85,19 +85,6 @@ The 2018 Chevrolet Silverado 1500 is a full-size pickup truck offered in various
   - Estimated Cost to Fix: $3,000 - $6,000
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Front Shock Absorber Failure**
@@ -126,19 +113,6 @@ The 2018 Chevrolet Silverado 1500 is a full-size pickup truck offered in various
   - Estimated Cost to Fix: $50 - $250
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 - **Door Handle Breakage**
@@ -166,15 +140,3 @@ The 2018 Chevrolet Silverado 1500 is a full-size pickup truck offered in various
 The 2018 Chevrolet Silverado 1500 faces various issues across its major components. Engine problems, particularly with the 5.3L V8 and 6.2L V8, can be significant and expensive to repair. Transmission issues are also present, with several reported failures across different transmission options. Suspension and electrical components also experience issues, but they are generally less severe and less costly to fix. Interior issues mainly revolve around electronic systems like the infotainment system and climate control.
 
 Overall, the 2018 Chevrolet Silverado 1500 has some potential reliability concerns that could affect its ownership experience. However, it's important to note that not all vehicles will experience these issues, and the severity and cost of repairs will vary depending on the specific problem.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

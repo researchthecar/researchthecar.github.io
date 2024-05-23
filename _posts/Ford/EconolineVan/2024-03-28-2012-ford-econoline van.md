@@ -162,15 +162,3 @@ Owners appreciate the Econoline Van's spacious interior, comfortable seating, an
 ## Summary
 
 The 2012 Ford Econoline Van has received mixed reviews. While it offers a spacious interior, comfortable seating, and powerful engine options, it has also been criticized for its outdated design, poor fuel economy, and limited safety features. The vehicle has experienced several issues, including engine problems, transmission issues, and electrical malfunctions. However, the severity and cost of these issues vary depending on the specific issue and the extent of the repairs needed. Overall, the Econoline Van has decent reliability but may require occasional maintenance and repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

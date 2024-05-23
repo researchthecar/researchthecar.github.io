@@ -54,19 +54,6 @@ The 2002 Chevrolet Trailblazer is a mid-size SUV available with various engine a
     Estimated Cost to Fix: $200 - $400
     Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -84,19 +71,6 @@ Description/Symptoms: Battery goes dead after sitting for a period of time
 Solution: Diagnose and repair electrical system issue causing drain
 Estimated Cost to Fix: Varies depending on issue
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -122,15 +96,3 @@ Recalls: None Found
 **Summary**
 
 The 2002 Chevrolet Trailblazer has a history of various issues, particularly with its engines and transmissions. The 4.2L inline-6 and 5.3L V8 engines have experienced problems with intake manifold gaskets, lifter failure, and intake manifold runner control systems. The 4L60-E and 5L40-E transmissions have exhibited issues with torque converter shudder, slipping or harsh shifting, and shift solenoid failure. Additionally, electrical problems such as alternator failure and battery drain have been reported. The Trailblazer's interior has also been prone to broken climate control knobs and sagging headliners. The severity and cost of these issues can vary, but some can be expensive to repair.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

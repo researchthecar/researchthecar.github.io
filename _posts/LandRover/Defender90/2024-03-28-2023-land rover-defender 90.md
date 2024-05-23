@@ -24,19 +24,6 @@ The Defender 90 is praised for its rugged design, powerful engine, and comfortab
 * **8-Speed Automatic Transmission**
     * **Shifting Issues:** The transmission may hesitate or slip when shifting gears. The solution may involve reprogramming the transmission control module, replacing the transmission fluid, or overhauling the transmission. Estimated Cost to Fix: $500 - $2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -45,19 +32,6 @@ The Defender 90 is praised for its rugged design, powerful engine, and comfortab
 
 * **Battery Drain:** The vehicle's battery may discharge prematurely due to faulty wiring, parasitic draw, or a failing alternator. The solution is to diagnose and repair the underlying cause. Estimated Cost to Fix: $100 - $1,000+
 * **Infotainment System Issues:** The infotainment system may experience glitches, freezing, or connectivity problems. The solution may involve updating the software, replacing the head unit, or resetting the system. Estimated Cost to Fix: $300 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -69,15 +43,3 @@ The Defender 90 is praised for its rugged design, powerful engine, and comfortab
 
 ## Summary
 The 2023 Land Rover Defender 90 is a capable off-roader with a powerful engine and luxurious interior. However, it has been plagued by a number of issues, including engine leaks, timing chain problems, fuel injector failures, and electrical problems. Some of these issues can be costly to repair, but others can be addressed by software updates or minor repairs. Overall, the severity and cost of the issues with the Defender 90 vary depending on the specific problem.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

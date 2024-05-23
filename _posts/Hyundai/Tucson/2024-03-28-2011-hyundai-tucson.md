@@ -39,19 +39,6 @@ The 2011 Hyundai Tucson is a compact SUV powered by a 2.0L inline-4 G4KC engine 
   * Estimated Cost to Fix: $200 - $2,500+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -63,19 +50,6 @@ The 2011 Hyundai Tucson is a compact SUV powered by a 2.0L inline-4 G4KC engine 
   * Solution: Replace battery or diagnose and repair electrical system issue causing the drain.
   * Estimated Cost to Fix: $150 - $500+
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -102,15 +76,3 @@ The 2011 Hyundai Tucson is a compact SUV powered by a 2.0L inline-4 G4KC engine 
 **Summary**
 
 The 2011 Hyundai Tucson has several issues, ranging from engine oil consumption and transmission problems to interior and electrical glitches. The severity of these issues varies, and some can be costly to fix. However, the Tucson offers a good overall value for the price and remains a popular choice in the compact SUV segment.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

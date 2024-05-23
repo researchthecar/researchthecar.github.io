@@ -40,19 +40,6 @@ The 2005 Chevrolet Tornado is a compact pickup truck that was produced by Genera
         * Solution: Replace torque converter
         * Estimated Cost to Fix: $800 - $1,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front strut mount failure:** Clunking or rattling noise over bumps
@@ -73,19 +60,6 @@ The 2005 Chevrolet Tornado is a compact pickup truck that was produced by Genera
 * **Starter failure:** Engine cranks but won't start
         * Solution: Replace starter
         * Estimated Cost to Fix: $200 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -108,15 +82,3 @@ The 2005 Chevrolet Tornado is a compact pickup truck that was produced by Genera
 **Summary**
 
 The 2005 Chevrolet Tornado has a number of reported issues, including engine, transmission, and electrical problems. While some of these issues are relatively minor and inexpensive to fix, others can be more severe and costly. However, it's important to note that not all Tornados will experience these issues, and many owners have reported a positive experience with their vehicles.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

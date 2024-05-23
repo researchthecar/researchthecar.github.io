@@ -52,19 +52,6 @@ Solution: Replace the gear selector switch or transmission cables
 Estimated Cost to Fix: $200 - $400
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Ball Joint Failure:**
@@ -100,19 +87,6 @@ Description/Symptoms: Difficulty starting, grinding noises
 Solution: Replace the starter
 Estimated Cost to Fix: $300 - $500+
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -153,15 +127,3 @@ Recalls: None Found
 **Summary:**
 
 The 1998 Chevrolet C1500 Suburban is a generally reliable vehicle with a few minor issues. The most common problems include transmission slippage, intake manifold gasket failure, and ball joint failure. However, these issues can be costly to repair, especially if the transmission needs to be replaced. Overall, the Suburban is a good choice for those who need a spacious and capable SUV, but it's important to be aware of the potential issues and associated repair costs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -42,19 +42,6 @@ The 2006 Audi TT Quattro is a sporty coupe known for its sleek design, responsiv
     * Estimated Cost to Fix: $300-$600+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushings:**
@@ -75,19 +62,6 @@ The 2006 Audi TT Quattro is a sporty coupe known for its sleek design, responsiv
     * Solution: Replace headlights
     * Estimated Cost to Fix: $500-$1,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -113,15 +87,3 @@ The 2006 Audi TT Quattro is a sporty coupe known for its sleek design, responsiv
 **Summary**
 
 The 2006 Audi TT Quattro is generally a reliable vehicle, but it has some common issues that can be costly to repair. Engine problems, such as ignition coil and timing chain tensioner failures, and transmission issues can be particularly severe. Interior problems are typically less serious and less expensive to fix. It's important to weigh the potential costs and severity of these issues when considering the TT Quattro as a purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

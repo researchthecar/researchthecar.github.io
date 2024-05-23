@@ -47,19 +47,6 @@ The Santa Fe has received generally positive reviews from critics, who praise it
     * Estimated Cost to Fix: $1,500 - $2,500
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front strut mount failure**
@@ -88,19 +75,6 @@ The Santa Fe has received generally positive reviews from critics, who praise it
     * Estimated Cost to Fix: Less than $100
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **No major issues found**
@@ -122,15 +96,3 @@ The Santa Fe has received generally positive reviews from critics, who praise it
 **Summary**
 
 The 2009 Hyundai Santa Fe is a generally reliable vehicle. However, it has some potential issues that can be expensive to fix. The most serious issue is the timing chain tensioner failure, which can lead to catastrophic engine damage. Other potential issues include the intake manifold gasket failure, the shift solenoid failure, and the torque converter failure. Overall, the Santa Fe is a good choice for a midsize SUV, but it's important to be aware of the potential issues before buying one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

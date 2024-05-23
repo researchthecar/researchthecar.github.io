@@ -52,19 +52,6 @@ The 1996 Chevrolet Lumina APV was a popular minivan, offering seating for up to 
     * Estimated Cost to Fix: $800 - $1,200
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Strut Failure:**
@@ -90,19 +77,6 @@ The 1996 Chevrolet Lumina APV was a popular minivan, offering seating for up to 
     * Solution: Replace battery
     * Estimated Cost to Fix: $100 - $200
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -133,15 +107,3 @@ The 1996 Chevrolet Lumina APV was a popular minivan, offering seating for up to 
 **Summary:**
 
 The 1996 Chevrolet Lumina APV had some reliability issues that could be costly to fix. Engine and transmission problems were the most prevalent, with issues ranging from intake manifold gasket leaks to transmission slippage. Suspension, electrical, exterior, and interior components also had their fair share of problems. Owners should be aware of these issues and budget accordingly for potential repairs. The severity and cost of repairs can vary depending on the specific issue and the condition of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

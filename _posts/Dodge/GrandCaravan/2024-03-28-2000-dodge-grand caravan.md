@@ -39,19 +39,6 @@ The 2000 Dodge Grand Caravan is a popular minivan offered with a variety of engi
         * Estimated Cost to Fix: $500 - $1,000
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Assembly Failure:**
@@ -78,19 +65,6 @@ The 2000 Dodge Grand Caravan is a popular minivan offered with a variety of engi
     * Estimated Cost to Fix: $50 - $200+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Power Sliding Door Failure:**
@@ -115,15 +89,3 @@ The 2000 Dodge Grand Caravan is a popular minivan offered with a variety of engi
 **Summary**
 
 While the 2000 Dodge Grand Caravan offers practical features and versatility, it has faced some common issues over the years. Transmission problems, suspension failures, and electrical issues are among the most notable. The severity and cost of these issues vary depending on the specific problem. However, these issues do not appear to be widespread or particularly severe compared to other vehicles in its class.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

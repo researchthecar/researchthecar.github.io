@@ -52,15 +52,3 @@ The 1995 Chevrolet C60 Kodiak is a heavy-duty commercial truck with a gross vehi
 ### Summary
 
 The 1995 Chevrolet C60 Kodiak is a capable commercial truck but has some potential issues that buyers should consider. The most common issues seem to be related to the engine and transmission, such as intake manifold gasket failure, exhaust manifold bolt failure, and throttle position sensor failure. These issues can be costly to repair, especially for the transmission problems. The suspension and electrical components also have some known issues, but they are generally less severe and less expensive to fix. Overall, the C60 Kodiak is a reliable workhorse, but potential buyers should be aware of these potential problems and factor the potential repair costs into their decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -99,19 +99,6 @@ The Caprice was praised for its comfort, ample storage space, and strong perform
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Ball Joint Failure:**
@@ -139,19 +126,6 @@ The Caprice was praised for its comfort, ample storage space, and strong perform
     * Solution: Replace or repair starter
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -184,15 +158,3 @@ The Caprice was praised for its comfort, ample storage space, and strong perform
 **Summary**
 
 The 1990 Chevrolet Caprice had a range of issues, most of which were moderate in terms of severity and cost to repair. Engine problems were common, with intake manifold gasket failures and fuel injector issues being particularly prevalent. Transmission issues included transmission slippage, torque converter failure, and shift solenoid failure. The suspension, electrical, exterior, and interior components also faced various problems. Overall, while the Caprice offered ample space and power, these issues could impact the reliability and overall experience of owning the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

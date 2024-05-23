@@ -45,19 +45,6 @@ The 1991 Chrysler LeBaron was a popular mid-size sedan that offered a comfortabl
         * Estimated Cost to Fix: $200 - $500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front struts**
@@ -74,19 +61,6 @@ The 1991 Chrysler LeBaron was a popular mid-size sedan that offered a comfortabl
     * Solution: Replace the alternator
     * Estimated Cost to Fix: $300 - $600+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -111,15 +85,3 @@ The 1991 Chrysler LeBaron was a popular mid-size sedan that offered a comfortabl
 **Summary**
 
 The 1991 Chrysler LeBaron had a range of issues that could affect its reliability and overall performance, particularly with the engine, transmission, and electrical systems. The severity of these issues could vary depending on the specific engine and transmission option, ranging from minor cosmetic problems to major mechanical failures. The estimated cost to fix these issues can be significant, so it's important to consider the potential repair costs before buying a used LeBaron.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -25,19 +25,6 @@ People like the ActiveHybrid 7 for its luxurious cabin, powerful engine, and fue
 - **ZF 8-Speed Automatic Transmission:**
   - **No issues found.**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Adaptive M Suspension:**
   - **Air suspension failure:** The air suspension can fail, causing the vehicle to ride lower than normal. Symptoms include a lack of ground clearance, a rough ride, and a check engine light. The solution is to replace the air suspension, which costs around $2,000 - $3,000+.
@@ -47,19 +34,6 @@ People like the ActiveHybrid 7 for its luxurious cabin, powerful engine, and fue
 **Electrical**
 - **Battery failure:** The battery can fail, causing the vehicle to lose power and stall. Symptoms include a lack of power, a dead battery, and a check engine light. The solution is to replace the battery, which costs around $200 - $400+.
 - **Electrical system failure:** The electrical system can fail, causing the vehicle to lose power and stall. Symptoms include a lack of power, a loss of lights, and a check engine light. The solution is to replace the electrical system, which costs around $1,000 - $2,000+.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Headlight failure:** The headlights can fail, causing the vehicle to lose visibility at night. Symptoms include a lack of light, a flickering light, and a check engine light. The solution is to replace the headlights, which costs around $500 - $1,000+.
@@ -80,15 +54,3 @@ People like the ActiveHybrid 7 for its luxurious cabin, powerful engine, and fue
 **Summary**
 
 Overall, the 2014 BMW ActiveHybrid 7 is a reliable vehicle. However, some people have experienced issues with the engine, transmission, suspension, electrical system, and interior. The severity and cost of these issues vary depending on the specific issue.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

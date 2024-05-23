@@ -21,19 +21,6 @@ The 2021 Chevrolet Onix is a subcompact sedan that offers a budget-friendly opti
 * **Continuously Variable Transmission (Optional)**
     * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **No Issues Found**
 
@@ -41,19 +28,6 @@ The 2021 Chevrolet Onix is a subcompact sedan that offers a budget-friendly opti
 * **Battery Drain:** The vehicle's battery drains prematurely, even when the car is off. **Solution:** Electrical system inspection, alternator or battery replacement. **Estimated Cost to Fix:** $500-$1,500
 * **Electrical Component Failures:** Various electrical components, such as window regulators, power door locks, and infotainment system, experience intermittent failures. **Solution:** Component replacement. **Estimated Cost to Fix:** $200-$800 per component
 * **Recall:** NHTSA Campaign Number 22V682000 - Turn Signal Inoperative Due to Incorrect Wiring Harness.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Rear Bumper Sagging:** The rear bumper may sag or detach from the vehicle due to weak support. **Solution:** Bumper reinforcement or replacement. **Estimated Cost to Fix:** $500-$1,000
@@ -65,15 +39,3 @@ The 2021 Chevrolet Onix is a subcompact sedan that offers a budget-friendly opti
 
 **Summary**
 The 2021 Chevrolet Onix is a generally reliable vehicle with a few common issues that can affect the engine, transmission, and other components. While some issues are minor and inexpensive to fix, others can be more severe and costly. It's important for owners to be aware of these potential problems and to have their vehicles regularly inspected and maintained to avoid major repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

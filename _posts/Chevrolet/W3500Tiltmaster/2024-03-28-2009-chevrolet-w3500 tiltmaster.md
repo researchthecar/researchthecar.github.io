@@ -50,19 +50,6 @@ The 2009 Chevrolet W3500 Tiltmaster is a heavy-duty pickup truck offered with tw
     - Estimated Cost to Fix: $1,000 - $2,000+
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Front Leaf Spring Failure**
     - Description/Symptoms: Sagging front end, rough ride, contact with tires during turning.
@@ -76,19 +63,6 @@ The 2009 Chevrolet W3500 Tiltmaster is a heavy-duty pickup truck offered with tw
     - Solution: Diagnose electrical system for parasitic draw, replace battery if necessary.
     - Estimated Cost to Fix: $100 - $500+
     - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Rust on Frame**
@@ -107,15 +81,3 @@ The 2009 Chevrolet W3500 Tiltmaster is a heavy-duty pickup truck offered with tw
 **Summary**
 
 The 2009 Chevrolet W3500 Tiltmaster has several common issues that owners should be aware of before purchasing or owning. The engine and transmission issues can be expensive to repair, while suspension, electrical, exterior, and interior problems can range from minor inconveniences to significant safety hazards. It is recommended to have a pre-purchase inspection by a qualified mechanic to identify any potential problems before buying a W3500 Tiltmaster.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

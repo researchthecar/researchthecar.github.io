@@ -44,19 +44,6 @@ The 1997 Lincoln Mark VIII was a luxurious personal luxury coupe known for its p
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Front Control Arm Bushings:**
@@ -83,19 +70,6 @@ The 1997 Lincoln Mark VIII was a luxurious personal luxury coupe known for its p
   * Estimated Cost to Fix: $100 - $200
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior:**
 
 * **Headlight Hazing:**
@@ -120,15 +94,3 @@ The 1997 Lincoln Mark VIII was a luxurious personal luxury coupe known for its p
 **Summary:**
 
 The 1997 Lincoln Mark VIII is a comfortable and powerful personal luxury coupe with a few common issues. The most severe and costly issue is timing chain failure, which can lead to significant engine damage if not addressed promptly. Other issues, such as suspension bushings and electrical problems, are generally less severe and less expensive to fix. Overall, the Mark VIII is a solid choice for those seeking a stylish and luxurious vehicle, but potential buyers should be aware of the potential issues and associated repair costs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

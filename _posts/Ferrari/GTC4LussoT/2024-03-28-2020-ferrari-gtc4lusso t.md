@@ -34,19 +34,6 @@ While the GTC4Lusso T is a well-regarded vehicle, there have been some reported 
     Estimated Cost to Fix: $1,500 - $2,500+
     Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -58,19 +45,6 @@ While the GTC4Lusso T is a well-regarded vehicle, there have been some reported 
     Solution: Inspect the electrical system for parasitic drains and replace the battery if necessary.
     Estimated Cost to Fix: $200 - $500+
     Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -87,15 +61,3 @@ While the GTC4Lusso T is a well-regarded vehicle, there have been some reported 
 **Summary**
 
 The 2020 Ferrari GTC4Lusso T is a desirable vehicle with impressive performance and practicality. However, it has been reported to experience some issues, particularly with the engine, transmission, and electrical system. While these issues can be costly to repair, they are not widespread and most vehicles are likely to be reliable. Potential buyers should be aware of these issues before making a purchase decision and should consider the cost of potential repairs when budgeting for ownership.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

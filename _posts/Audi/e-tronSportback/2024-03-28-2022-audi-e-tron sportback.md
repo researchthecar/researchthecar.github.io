@@ -52,15 +52,3 @@ Recalls: None Found
 **Summary**
 
 The 2022 Audi e-tron Sportback is a well-made electric SUV, but it has had some issues with battery drain and condensation in the headlights. The cost of repairs for these issues can be high, but Audi has issued software updates and recalls to address them. Overall, the e-tron Sportback is a reliable and enjoyable vehicle to drive.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

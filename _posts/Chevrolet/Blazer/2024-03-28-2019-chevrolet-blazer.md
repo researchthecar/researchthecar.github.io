@@ -39,19 +39,6 @@ Solution: The transmission control module may need to be reprogrammed or replace
 Estimated Cost to Fix: $200 - $500+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -63,19 +50,6 @@ Description/Symptoms: The battery may drain prematurely, even when the vehicle i
 Solution: The battery may need to be replaced, or there may be a parasitic drain on the electrical system.
 Estimated Cost to Fix: $100 - $500+
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -92,15 +66,3 @@ Recalls: None Found
 **Summary**
 
 The 2019 Chevrolet Blazer is a solid SUV with a few minor issues. The most common engine issue is intake valve deposits on the 3.6L V6 engine, which can cause a loss of power and hesitation on acceleration. The 9-speed automatic transmission can also experience shift hesitation, which may require a reprogramming or replacement of the transmission control module. Overall, the issues with the Blazer are relatively minor and should not deter potential buyers from considering this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

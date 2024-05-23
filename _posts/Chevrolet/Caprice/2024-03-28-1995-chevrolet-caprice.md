@@ -26,19 +26,6 @@ The 1995 Chevrolet Caprice was a full-size sedan known for its powerful engine a
 * **Clutch Wear:** The clutch may wear prematurely, leading to difficulty shifting and slipping. Symptoms include slipping, difficulty disengaging, and grinding noises. Solution: Replace the clutch assembly. Estimated Cost to Fix: $600 - $1,000+
 * **Synchronizer Failure:** The synchronizers in the transmission may fail, causing difficulty shifting and grinding noises. Symptoms include difficulty shifting, grinding noises, and popping out of gear. Solution: Replace the faulty synchronizers. Estimated Cost to Fix: $800 - $1,200+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Front Lower Control Arm Bushing Failure:** The front lower control arm bushings may wear and fail, causing clunking noises and decreased handling. Symptoms include clunking noises, poor handling, and vibration. Solution: Replace the worn bushings. Estimated Cost to Fix: $200 - $400+
 * **Rear Shock Absorber Mount Failure:** The rear shock absorber mounts may fail, causing the shocks to become loose and noisy. Symptoms include clunking noises, poor handling, and decreased stability. Solution: Replace the shock absorber mounts. Estimated Cost to Fix: $150 - $300+
@@ -46,19 +33,6 @@ The 1995 Chevrolet Caprice was a full-size sedan known for its powerful engine a
 **Electrical**
 * **Alternator Failure:** The alternator may fail, resulting in a loss of electrical power. Symptoms include dim headlights, difficulty starting, and a dead battery. Solution: Replace the alternator. Estimated Cost to Fix: $400 - $600+
 * **Battery Terminals Corrosion:** The battery terminals may corrode, causing poor electrical connections. Symptoms include difficulty starting, electrical malfunctions, and a dead battery. Solution: Clean or replace the battery terminals. Estimated Cost to Fix: $50 - $150+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Trunk Lid Rust:** The trunk lid may rust, leading to paint bubbling and flaking. Solution: Repair the rust and repaint the trunk lid. Estimated Cost to Fix: $500 - $1,000+
@@ -71,15 +45,3 @@ The 1995 Chevrolet Caprice was a full-size sedan known for its powerful engine a
 **Summary**
 
 The 1995 Chevrolet Caprice has a variety of potential issues, ranging from minor to severe. The most common engine problems include intake manifold gasket and timing chain tensioner failure, while the transmission is prone to shift solenoid and torque converter clutch issues. Suspension issues such as control arm bushing and shock absorber mount failure can affect handling and comfort. Electrical problems include alternator failure and battery terminal corrosion. Some exterior and interior components may experience fading, rust, or electrical malfunctions. While the severity of these issues varies, the cost of repairs can be significant, especially for engine and transmission issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

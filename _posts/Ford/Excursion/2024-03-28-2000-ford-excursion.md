@@ -36,19 +36,6 @@ While the Excursion is praised for its capabilities, it has several known issues
     * Estimated Cost to Fix: $2,500 - $4,000
     * Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Coil Spring Failure:**
@@ -64,19 +51,6 @@ While the Excursion is praised for its capabilities, it has several known issues
     * Solution: Diagnose the source of the battery drain and repair or replace the affected components.
     * Estimated Cost to Fix: Varies depending on the cause
     * Recalls: N/A
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -97,15 +71,3 @@ While the Excursion is praised for its capabilities, it has several known issues
 **Summary**
 
 While the 2000 Ford Excursion offers impressive capabilities, it is not without its drawbacks. The potential issues can result in significant repair costs and affect the overall reliability of the vehicle. Owners should be aware of these issues before purchasing an Excursion and factor in the potential cost of repairs when considering their budget.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

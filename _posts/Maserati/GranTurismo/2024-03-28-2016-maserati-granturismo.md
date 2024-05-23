@@ -35,19 +35,6 @@ The 2016 Maserati GranTurismo is a grand touring sports car powered by a natural
     * Solution: Replacing the torque converter.
     * Estimated Cost to Fix: $2,000 - $4,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Bushing Wear:**
@@ -65,19 +52,6 @@ The 2016 Maserati GranTurismo is a grand touring sports car powered by a natural
     * Description/Symptoms: Various electrical malfunctions, including engine management issues, instrument cluster errors, and transmission problems.
     * Solution: Replacing the ECU (Engine Control Unit).
     * Estimated Cost to Fix: $1,500 - $3,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -104,15 +78,3 @@ The 2016 Maserati GranTurismo is a grand touring sports car powered by a natural
 **Summary:**
 
 The 2016 Maserati GranTurismo can be a thrilling and rewarding car to own, but it has had its fair share of reliability concerns. The severity of these issues can vary, with some requiring immediate attention, while others may be more manageable. Owners should be prepared for potential repair costs, especially regarding the engine, transmission, and electrical systems. However, the GranTurismo's performance, style, and emotional appeal may still outweigh the associated risks for some enthusiasts.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

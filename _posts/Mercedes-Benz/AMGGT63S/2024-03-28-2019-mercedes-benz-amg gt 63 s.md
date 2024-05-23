@@ -49,19 +49,6 @@ Despite its impressive performance, the AMG GT 63 S has received a fair share of
     * Estimated Cost to Fix: $5,000 - $7,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Adaptive Suspension Failure**
@@ -83,19 +70,6 @@ Despite its impressive performance, the AMG GT 63 S has received a fair share of
     * Solution: Software updates or replacement of the infotainment unit may be required.
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -122,15 +96,3 @@ Despite its impressive performance, the AMG GT 63 S has received a fair share of
 **Summary**
 
 Overall, the 2019 Mercedes-Benz AMG GT 63 S is a powerful and impressive sports car that offers blistering performance. However, it has been plagued by a number of reliability issues that can be both frustrating and expensive to fix. The most common problems revolve around the engine, transmission, and electrical systems. While some of these issues are minor and can be resolved relatively inexpensively, others can lead to major repairs that can cost thousands of dollars. As a result, it's important to carefully consider the potential costs associated with owning and maintaining an AMG GT 63 S before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

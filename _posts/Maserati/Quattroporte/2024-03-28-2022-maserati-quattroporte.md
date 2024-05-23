@@ -29,19 +29,6 @@ The 2022 Maserati Quattroporte is a luxury sedan offered with a 3.0L V6 engine p
   Estimated Cost to Fix: $1,000 - $3,000+
   Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Noise**
@@ -63,19 +50,6 @@ The 2022 Maserati Quattroporte is a luxury sedan offered with a 3.0L V6 engine p
   Solution: Diagnose the electrical system to identify the faulty component and replace it.
   Estimated Cost to Fix: $500 - $2,000+
   Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -102,15 +76,3 @@ The 2022 Maserati Quattroporte is a luxury sedan offered with a 3.0L V6 engine p
 **Summary**
 
 While the 2022 Maserati Quattroporte is a luxurious and powerful sedan, it has been reported to have several issues that can be costly to repair. The most serious issues include timing chain failure, transmission problems, and electrical system failures. However, it is worth noting that these issues are not widespread and most owners have not experienced any major problems with their vehicles.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

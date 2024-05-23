@@ -45,19 +45,6 @@ tags: ["Chevrolet", "Astra", "2005"]
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Failures:**
@@ -80,19 +67,6 @@ tags: ["Chevrolet", "Astra", "2005"]
     * Estimated Cost to Fix: $100 - $200+ per coil
     * Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight Condensation:**
@@ -112,15 +86,3 @@ tags: ["Chevrolet", "Astra", "2005"]
 **Summary:**
 
 The 2005 Chevrolet Astra is generally a reliable and affordable compact car, but it is not without its issues. The most common issues found with the vehicle involve the timing chain tensioner, intake manifold, and transmission solenoids. While these issues can be costly to repair, they are relatively infrequent. Overall, the Astra is a well-rounded vehicle with a comfortable interior, sporty handling, and reasonable fuel economy.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

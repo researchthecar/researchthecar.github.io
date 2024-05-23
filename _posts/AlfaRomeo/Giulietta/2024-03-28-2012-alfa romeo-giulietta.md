@@ -33,19 +33,6 @@ The 2012 Alfa Romeo Giulietta is a stylish and sporty compact hatchback that off
 * Estimated Cost to Fix: $2,000 - $3,000+
 * Recalls: N182
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Issue:** Premature shock absorber wear
@@ -61,19 +48,6 @@ The 2012 Alfa Romeo Giulietta is a stylish and sporty compact hatchback that off
 * Solution: Replace or repair alternator
 * Estimated Cost to Fix: $500 - $1,000+
 * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -94,15 +68,3 @@ The 2012 Alfa Romeo Giulietta is a stylish and sporty compact hatchback that off
 **Summary**
 
 The 2012 Alfa Romeo Giulietta is a fun and engaging vehicle to drive, but it has some potential reliability issues. The most severe and costly problems are related to the turbocharger and transmission, which can require expensive repairs. However, most issues are relatively minor and inexpensive to fix. Overall, the Giulietta is a solid choice for drivers who value performance and style, but it is important to be aware of its potential drawbacks.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -25,19 +25,6 @@ Description/Symptoms: Shift solenoids can fail, leading to delayed or erratic sh
 Solution: Replace the faulty shift solenoid(s).
 Estimated Cost to Fix: $300 - $700
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 **Front Suspension**
 
@@ -52,19 +39,6 @@ Description/Symptoms: The body control module (BCM) can malfunction, leading to 
 Solution: Replace the faulty BCM.
 Estimated Cost to Fix: $1,000 - $1,500+
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 **Headlight Condensation**
@@ -86,15 +60,3 @@ Estimated Cost to Fix: $500 - $2,000+
 
 **Summary**
 The 2009 Cadillac Escalade ESV is a capable and luxurious SUV, but it has some issues that can affect its performance and reliability. The severity of the issues varies, but some, such as the intake valve seat failure, can be costly to repair. Potential buyers should be aware of these issues before purchasing an Escalade ESV.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

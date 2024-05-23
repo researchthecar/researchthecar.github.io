@@ -37,19 +37,6 @@ The 1991 Chevrolet W5500 Tiltmaster is a heavy-duty commercial truck known for i
         - Estimated Cost to Fix: $600 - $1,000+
 - **Recall #05V129000** - Transmission control valve position sensor may cause a loss of drive
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Leaf Spring Breakage**
     - Description/Symptoms: Broken leaf springs, sagging rear end, uneven tire wear
@@ -61,19 +48,6 @@ The 1991 Chevrolet W5500 Tiltmaster is a heavy-duty commercial truck known for i
     - Description/Symptoms: Dimming lights, battery not charging, electrical issues
     - Solution: Replace alternator
     - Estimated Cost to Fix: $300 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Rust on Frame and Body**
@@ -89,15 +63,3 @@ The 1991 Chevrolet W5500 Tiltmaster is a heavy-duty commercial truck known for i
 
 **Summary:**
 While the 1991 Chevrolet W5500 Tiltmaster is a capable heavy-duty truck, it has some common issues that owners should be aware of. The severity and cost of these issues can vary depending on the specific problem and the extent of the damage. Regular maintenance and inspections are crucial for preventing or addressing these issues promptly.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

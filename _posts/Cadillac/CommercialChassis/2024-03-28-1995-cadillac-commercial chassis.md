@@ -23,19 +23,6 @@ The 1995 Cadillac Commercial Chassis was a versatile platform designed for vario
 * **Slipping Gears:** Worn clutches or a faulty valve body can cause the transmission to slip gears while driving. Overhaul or replacement of the transmission components is often needed. **$1500 - $3000+**
 * **Torque Converter Lockup Issues:** Converter clutch failure prevents the transmission from locking up and leads to poor fuel economy and overheating. Replacement of the torque converter is necessary. **$1000 - $1500+**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf Spring Wear:** Worn leaf springs can cause a rough ride and impact handling. Replacement of the leaf springs is typically required. **$500 - $1000+**
@@ -45,19 +32,6 @@ The 1995 Cadillac Commercial Chassis was a versatile platform designed for vario
 
 * **Alternator Failure:** Malfunctions and fails to charge the battery. Replacement of the alternator is required. **$500 - $800+**
 * **Starter Issues:** Worn or damaged components can prevent the starter from engaging. Replacement of the starter or related components is necessary. **$300 - $600+**
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -72,15 +46,3 @@ The 1995 Cadillac Commercial Chassis was a versatile platform designed for vario
 **Summary:**
 
 The 1995 Cadillac Commercial Chassis had a combination of power and reliability but was not without its issues. Engine and transmission problems were the most prevalent and could be expensive to repair. Suspension, electrical, exterior, and interior issues were also encountered, adding to the overall cost of ownership. While the vehicle served its commercial purpose well, its reliability concerns should be considered before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

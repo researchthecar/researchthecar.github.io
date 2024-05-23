@@ -44,19 +44,6 @@ The 2015 Maserati GranTurismo is a high-performance luxury sports car that offer
     * Solution: Replacement of torque converter.
     * Estimated Cost to Fix: $3,000 - $5,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushing Failure:**
@@ -70,19 +57,6 @@ The 2015 Maserati GranTurismo is a high-performance luxury sports car that offer
     * Description/Symptoms: Battery drains prematurely, leaving the vehicle unable to start.
     * Solution: Diagnosis and repair of electrical component draining the battery.
     * Estimated Cost to Fix: Varies depending on the cause
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -105,15 +79,3 @@ The 2015 Maserati GranTurismo is a high-performance luxury sports car that offer
 **Summary**
 
 The 2015 Maserati GranTurismo is a powerful and stylish sports car, but it is not without its issues. Some of the most common problems include timing chain failure, oil filter housing failure, torque converter failure, and electrical issues. These issues can be expensive to repair, and some of them can lead to serious engine damage. However, overall, the GranTurismo is a well-built car with a solid reputation for performance and reliability.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -69,19 +69,6 @@ The 2011 Hyundai Santa Fe is a midsize SUV known for its spacious cabin, comfort
     * Solution: Synchronizer replacement
     * Estimated Cost to Fix: $400 - $600
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Lower Control Arm Bushings**
@@ -100,19 +87,6 @@ The 2011 Hyundai Santa Fe is a midsize SUV known for its spacious cabin, comfort
     * Solution: Alternator replacement
     * Estimated Cost to Fix: $300 - $600
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Sunroof Leak**
@@ -130,15 +104,3 @@ The 2011 Hyundai Santa Fe is a midsize SUV known for its spacious cabin, comfort
 **Summary**
 
 Overall, the 2011 Hyundai Santa Fe has some potential issues, particularly with the engine. The excessive oil consumption problem can be severe and expensive to repair, while timing chain failure can lead to catastrophic engine damage. However, issues with the transmission, suspension, electrical, and interior systems are generally less common and less costly to fix.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

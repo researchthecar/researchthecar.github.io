@@ -55,19 +55,6 @@ The 2009 Dodge Challenger is a rear-wheel-drive muscle car that was praised for 
     * Estimated Cost to Fix: $200 - $500
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaking Shocks/Struts:**
@@ -94,19 +81,6 @@ The 2009 Dodge Challenger is a rear-wheel-drive muscle car that was praised for 
     * Estimated Cost to Fix: $500 - $800
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Body Panel Misalignment:**
@@ -131,15 +105,3 @@ The 2009 Dodge Challenger is a rear-wheel-drive muscle car that was praised for 
 **Summary**
 
 The 2009 Dodge Challenger has some potential issues to be aware of, especially with the 3.5-liter V6 engine. Issues with the electrical system, suspension, and interior are relatively minor and can be addressed for a reasonable cost. However, engine problems can be more severe and expensive to repair. Overall, the Challenger is a well-received muscle car, but potential buyers should research and be prepared for potential maintenance costs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

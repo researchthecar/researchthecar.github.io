@@ -31,19 +31,6 @@ The 2010 Ferrari 612 Scaglietti is a high-performance luxury grand tourer powere
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaking Shock Absorbers:**
@@ -72,19 +59,6 @@ The 2010 Ferrari 612 Scaglietti is a high-performance luxury grand tourer powere
     * Estimated Cost to Fix: $500 - $1,200+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **No Issues Found**
@@ -106,15 +80,3 @@ The 2010 Ferrari 612 Scaglietti is a high-performance luxury grand tourer powere
 **Summary:**
 
 The 2010 Ferrari 612 Scaglietti is a high-performance vehicle with the potential for some significant issues. Some of the reported problems can be expensive to repair, such as engine carbon buildup and timing belt failure. However, many of the issues are relatively minor and can be resolved at a reasonable cost. Overall, the 612 Scaglietti remains a desirable vehicle for enthusiasts willing to invest in its maintenance and repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

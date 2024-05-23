@@ -62,19 +62,6 @@ Despite its impressive performance and features, the 2019 Audi A5 Sportback has 
     - Solution: Updating the transmission software or replacing the torque converter
     - Estimated Cost to Fix: $500 - $1,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Premature wear of suspension components**
@@ -92,19 +79,6 @@ Despite its impressive performance and features, the 2019 Audi A5 Sportback has 
     - Description/Symptoms: Intermittent electrical problems, such as flickering lights, inoperative electronics, and engine stalling
     - Solution: Diagnosing and repairing the faulty electrical component or wiring
     - Estimated Cost to Fix: $500 - $1,500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -132,15 +106,3 @@ Despite its impressive performance and features, the 2019 Audi A5 Sportback has 
 **Summary**
 
 The 2019 Audi A5 Sportback is a stylish and sporty luxury hatchback that offers a comfortable and luxurious interior, a powerful engine, and a responsive driving experience. However, it has been plagued by a number of issues, including engine problems, transmission issues, suspension problems, electrical problems, exterior problems, and interior problems. Some of these issues are minor annoyances, while others can be more serious and affect the vehicle's safety and performance. The cost to fix these issues can vary widely depending on the severity of the problem and the location of the repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -27,38 +27,12 @@ Owners appreciate the Santa Fe XL's roomy cabin, smooth ride, and impressive tow
 **8-Speed Automatic**
 * **Hesitation and Jerking:** The transmission hesitates or jerks upon acceleration, especially at low speeds. Updating the transmission software is a potential solution, though some owners have reported recurring problems. Estimated cost for software update: $100 - $200.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Strut Mount Noise:** The strut mounts make noise when driving over bumps, especially at low speeds. Replacing the strut mounts is the solution, costing approximately $200 - $400 per side.
 
 **Electrical**
 * **Electrical Short in Headlight Harness:** An electrical short in the headlight harness causes the headlights to malfunction. Replacing the headlight harness is the solution, costing approximately $1,000 - $1,500.
 * **Battery Drain:** The battery drains rapidly, especially when the vehicle is parked. Replacing the battery is often the solution, costing approximately $100 - $250.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Headlight Bulb Failure:** The headlight bulbs fail prematurely, requiring replacement. Replacing the headlight bulbs costs approximately $50 - $100 per bulb.
@@ -68,15 +42,3 @@ Owners appreciate the Santa Fe XL's roomy cabin, smooth ride, and impressive tow
 
 **Summary**
 The 2015 Hyundai Santa Fe XL has a variety of issues, including engine and transmission problems that can be costly to repair. While some issues are minor and easily fixable, others can be more serious and expensive. It's important for owners to be aware of these potential issues and to consult with a qualified mechanic for proper diagnosis and repairs. Overall, the severity and cost of the issues found in the Santa Fe XL warrant attention and consideration by potential buyers.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

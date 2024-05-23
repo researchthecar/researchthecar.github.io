@@ -27,19 +27,6 @@ The 2020 Lamborghini Urus is a high-performance luxury SUV that boasts a twin-tu
         * Estimated Cost to Fix: $1,000 - $5,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension**
@@ -55,19 +42,6 @@ The 2020 Lamborghini Urus is a high-performance luxury SUV that boasts a twin-tu
         * Solution: Replace the battery.
         * Estimated Cost to Fix: $500 - $1,000+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -86,15 +60,3 @@ The 2020 Lamborghini Urus is a high-performance luxury SUV that boasts a twin-tu
 **Summary:**
 
 While the 2020 Lamborghini Urus offers exhilarating performance, it has faced some reported issues. Turbocharger failures, shifting issues, air suspension compressor problems, and battery issues are among the most common. The severity and cost of these issues vary, but they can be significant for a vehicle of this caliber. Regular maintenance and professional repairs are crucial to mitigate potential problems and ensure optimal performance.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

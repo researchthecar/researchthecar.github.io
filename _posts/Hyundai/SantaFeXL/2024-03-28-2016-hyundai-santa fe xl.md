@@ -58,15 +58,3 @@ Recalls: None Found
 ### Summary
 
 Overall, the 2016 Hyundai Santa Fe XL has been a relatively reliable vehicle with few reported issues. The most common problems include intermittent engine stalling (3.3L V6), transmission hesitation (6-speed automatic), and battery draining issues. These issues typically require moderate to expensive repairs, but they are not widespread and do not significantly detract from the vehicle's overall value.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

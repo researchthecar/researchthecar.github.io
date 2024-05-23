@@ -40,19 +40,6 @@ The 2015 Ford Police Interceptor Sedan is a high-performance law enforcement veh
     - Estimated Cost to Fix: $300-$500+
     - Recalls: 19S33
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Front Control Arm Bushings:**
@@ -79,19 +66,6 @@ The 2015 Ford Police Interceptor Sedan is a high-performance law enforcement veh
     - Estimated Cost to Fix: $400-$1,000+
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 - **Rear Bumper Cover Issues:**
@@ -116,15 +90,3 @@ The 2015 Ford Police Interceptor Sedan is a high-performance law enforcement veh
 **Summary:**
 
 While the 2015 Ford Police Interceptor Sedan offers strong performance and a well-equipped interior, it has been plagued by several reliability issues. Engine and transmission problems, including intake manifold and turbocharger failures, can be expensive to repair. Suspension and electrical issues further contribute to the vehicle's reliability concerns. These issues can not only impact the safety and performance of the vehicle but also result in significant downtime and repair costs for law enforcement agencies.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

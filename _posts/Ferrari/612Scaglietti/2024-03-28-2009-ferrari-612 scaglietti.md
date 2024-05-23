@@ -41,19 +41,6 @@ The 2009 Ferrari 612 Scaglietti is a grand tourer produced by Ferrari. It is pow
         * Solution: Replace the actuators.
         * Estimated Cost to Fix: $2,000 - $4,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -72,19 +59,6 @@ The 2009 Ferrari 612 Scaglietti is a grand tourer produced by Ferrari. It is pow
     * Description/Symptoms: The window switches can fail, causing the windows to not operate properly.
     * Solution: Replace the window switches.
     * Estimated Cost to Fix: $200 - $300+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -124,15 +98,3 @@ The 2009 Ferrari 612 Scaglietti is a grand tourer produced by Ferrari. It is pow
 **Summary**
 
 The 2009 Ferrari 612 Scaglietti has several potential issues, primarily related to the engine, transmission, and electrical system. These issues can be costly to repair, with some estimates exceeding $5,000. However, the vehicle is still praised for its performance and design, and many owners consider the repair costs to be worth the experience of driving such a prestigious car.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

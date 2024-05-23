@@ -34,19 +34,6 @@ The 2017 Chevrolet Express Pasajeros is a full-size passenger van powered by a s
 * **8-Speed Automatic**
     * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Axle Bearing Failure:**
@@ -67,19 +54,6 @@ The 2017 Chevrolet Express Pasajeros is a full-size passenger van powered by a s
     * Solution: Replace the faulty door lock module.
     * Estimated Cost to Fix: $200 - $500+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -110,15 +84,3 @@ The 2017 Chevrolet Express Pasajeros is a full-size passenger van powered by a s
 **Summary:**
 
 The 2017 Chevrolet Express Pasajeros has reported several issues, ranging from minor annoyances to more severe mechanical failures. While some issues may be addressed under warranty, others can be costly to repair. Overall, the vehicle's reliability may be compromised by these issues, but its spaciousness and versatility remain attractive features.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

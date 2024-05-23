@@ -24,19 +24,6 @@ The 2022 Honda Passport is a mid-size SUV praised for its spacious interior, com
         - Estimated Cost to Fix: $100 - $300+
         - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Front Suspension:**
     - **Strut Bearing Failure:**
@@ -65,19 +52,6 @@ The 2022 Honda Passport is a mid-size SUV praised for its spacious interior, com
     - Estimated Cost to Fix: $500 - $800+
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 - **Sunroof Leakage:**
     - Description/Symptoms: Water leaking into the vehicle's interior through the sunroof assembly.
@@ -100,15 +74,3 @@ The 2022 Honda Passport is a mid-size SUV praised for its spacious interior, com
 
 **Summary**
 Overall, the 2022 Honda Passport is a reliable and well-rounded vehicle. The reported issues are generally minor and relatively inexpensive to fix. The most severe and costly potential issue is the alternator failure, which can lead to major electrical problems and a hefty repair bill. However, it is important to note that actual costs may vary depending on the specific issue, location, and labor rates.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

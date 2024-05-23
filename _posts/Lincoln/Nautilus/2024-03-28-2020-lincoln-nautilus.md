@@ -45,19 +45,6 @@ The 2020 Lincoln Nautilus is a luxurious mid-size SUV offered with two engine op
 * **Estimated Cost to Fix:**
     * $300 - $600+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -72,19 +59,6 @@ The 2020 Lincoln Nautilus is a luxurious mid-size SUV offered with two engine op
     * Identify and repair the source of the battery drain
 * **Estimated Cost to Fix:**
     * $150 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -113,15 +87,3 @@ The 2020 Lincoln Nautilus is a luxurious mid-size SUV offered with two engine op
 **Summary:**
 
 Overall, the 2020 Lincoln Nautilus is a reliable and enjoyable vehicle with relatively few reported issues. While some engine concerns have been identified with the 2.7L V6, the issues are generally not severe and can be resolved with timely maintenance and repairs. The cost of repairs varies depending on the issue and the extent of damage.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

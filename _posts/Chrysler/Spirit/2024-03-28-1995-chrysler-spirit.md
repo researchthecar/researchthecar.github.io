@@ -30,19 +30,6 @@ Drivers generally appreciate the Spirit's reliability, fuel efficiency, and valu
     - **Overdrive Band Failure:** The overdrive band can fail, causing slipping in overdrive gear and a loss of power. Symptoms include delayed shifts into overdrive, slipping while cruising, and poor highway performance. Solution: Replace the overdrive band. Estimated Cost to Fix: $300 - $500
     - **Valve Body Leaks:** The valve body can develop leaks, leading to shifting problems, fluid leaks, and premature failure. Symptoms include hard shifting, inconsistent shifting, and fluid leaking from the transmission pan. Solution: Repair or replace the valve body. Estimated Cost to Fix: $500 - $1,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Struts and Shocks:** Struts and shocks can wear out over time, leading to poor ride quality, excessive bouncing, and uneven tire wear. Symptoms include a rough ride, body roll, and difficulty handling. Solution: Replace the struts and shocks. Estimated Cost to Fix: $400 - $800+
 - **Tie Rods:** Tie rods can bend or break, causing the vehicle to pull to one side while driving. Symptoms include a pulling sensation, uneven tire wear, and poor steering response. Solution: Replace the tie rods. Estimated Cost to Fix: $200 - $400
@@ -50,19 +37,6 @@ Drivers generally appreciate the Spirit's reliability, fuel efficiency, and valu
 **Electrical**
 - **Alternator Failure:** Alternators can fail, leaving the vehicle without power and potentially causing battery damage. Symptoms include dim headlights, flickering lights, and difficulty starting the vehicle. Solution: Replace the alternator. Estimated Cost to Fix: $300 - $500
 - **Starter Failure:** Starters can fail, preventing the vehicle from starting. Symptoms include a clicking noise when trying to start, no response from the engine, and a dead battery. Solution: Replace the starter. Estimated Cost to Fix: $200 - $400
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Headlight Switch Failure:** The headlight switch can fail, causing intermittent or complete loss of headlights. Symptoms include headlights not turning on or flickering, and difficulty switching between low and high beams. Solution: Replace the headlight switch. Estimated Cost to Fix: $150 - $250
@@ -74,15 +48,3 @@ Drivers generally appreciate the Spirit's reliability, fuel efficiency, and valu
 **Summary:**
 
 The 1995 Chrysler Spirit generally has good reliability, but some common issues can occur, especially with the engine and transmission. These issues can be costly to repair, and it is important to address them promptly to prevent further damage. However, the Spirit remains a relatively affordable and comfortable vehicle with a spacious interior and decent fuel efficiency.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

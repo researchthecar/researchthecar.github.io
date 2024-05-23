@@ -26,19 +26,6 @@ The 2014 BMW ActiveHybrid 5 is a luxury hybrid sedan that combines a 3.0-liter t
 * **Mechatronic unit failure:** The mechatronic unit, which controls the transmission's hydraulic and electronic functions, may fail due to electrical or mechanical issues. Symptoms include transmission shifting problems, loss of power, and check engine light illumination. **Solution:** Replace the mechatronic unit. **Estimated Cost to Fix:** $2,000 - $3,000+
 * **Driveline vibration:** The driveline, which connects the transmission to the wheels, may vibrate due to worn or damaged components such as CV joints or driveshafts. Symptoms include a noticeable vibration or shudder when accelerating or driving at higher speeds. **Solution:** Inspect and replace the affected components. **Estimated Cost to Fix:** $500 - $1,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut mount bearing failure:** The strut mount bearings may fail due to wear or mechanical issues, causing clunking or rattling noises from the front of the vehicle. Symptoms include a clunking sound when turning or driving over bumps. **Solution:** Replace the strut mount bearings. **Estimated Cost to Fix:** $500 - $1,000+
@@ -50,19 +37,6 @@ The 2014 BMW ActiveHybrid 5 is a luxury hybrid sedan that combines a 3.0-liter t
 * **Battery discharge:** The 12-volt battery may discharge prematurely due to electrical drain or faulty components. Symptoms include difficulty starting the vehicle, dim headlights, and electrical system malfunctions. **Solution:** Replace the battery or identify and repair the electrical drain. **Estimated Cost to Fix:** $200 - $500+
 * **Alternator failure:** The alternator may fail due to electrical or mechanical issues, resulting in the inability to charge the battery. Symptoms include dim headlights, flickering dashboard lights, and vehicle stalling. **Solution:** Replace the alternator. **Estimated Cost to Fix:** $500 - $1,000+
 * **Wiring harness issues:** The wiring harness may experience shorts, breaks, or corrosion due to moisture or mechanical damage. Symptoms vary depending on the affected circuit but can include electrical malfunctions, loss of power, and check engine light illumination. **Solution:** Inspect and repair or replace the affected wiring harness. **Estimated Cost to Fix:** $500 - $2,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -79,15 +53,3 @@ The 2014 BMW ActiveHybrid 5 is a luxury hybrid sedan that combines a 3.0-liter t
 **Summary**
 
 The 2014 BMW ActiveHybrid 5 is a well-regarded vehicle that offers impressive performance and fuel economy, but it is not without its issues. The most significant concerns appear to be related to the engine, transmission, and electrical systems. Repairs for these issues can be costly, with some estimated to range from $2,000 to $5,000 or more. However, it's important to note that not all owners will experience these problems, and the severity and cost of repairs may vary depending on the specific issues encountered.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

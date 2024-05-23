@@ -42,19 +42,6 @@ The 2001 Land Rover Range Rover is a luxury SUV known for its off-road capabilit
     * Solution: Replace torque converter.
     * Estimated Cost to Fix: $1,000 - $1,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Compressor Failure:**
@@ -80,19 +67,6 @@ The 2001 Land Rover Range Rover is a luxury SUV known for its off-road capabilit
     * Description/Symptoms: Intermittent electrical issues, warning lights, malfunctioning systems.
     * Solution: Diagnose and fix specific electrical faults.
     * Estimated Cost to Fix: Varies depending on the specific issue
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -123,15 +97,3 @@ The 2001 Land Rover Range Rover is a luxury SUV known for its off-road capabilit
 **Summary:**
 
 The 2001 Land Rover Range Rover has several known issues, particularly with its engine, transmission, and electrical systems. Engine problems can be expensive to fix, while transmission repairs can also be costly. Suspension and electrical issues are less common but can still be inconvenient and costly. While the vehicle has desirable features, the potential for expensive repairs should be considered before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -48,15 +48,3 @@ People like the Tornado for its affordability, fuel efficiency, and maneuverabil
 ## Summary
 
 The 2011 Chevrolet Tornado is a budget-friendly pickup truck that has a few common issues. The most severe issues are the oil leaks from the camshaft cover and the rear leaf springs sagging. The other issues are relatively minor and inexpensive to fix. Overall, the Tornado is a decent choice for those who need a basic pickup truck for light-duty tasks.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

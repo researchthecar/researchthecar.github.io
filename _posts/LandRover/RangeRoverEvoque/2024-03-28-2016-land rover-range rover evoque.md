@@ -46,19 +46,6 @@ The 2016 Land Rover Range Rover Evoque is a compact luxury SUV that combines rug
     * Estimated Cost to Fix: $2,000 - $3,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Air Suspension Compressor Failure**
     * Description/Symptoms: Reduced ride height, harsh ride quality, or inability to adjust the suspension.
@@ -83,19 +70,6 @@ The 2016 Land Rover Range Rover Evoque is a compact luxury SUV that combines rug
     * Estimated Cost to Fix: $600 - $1,200
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 * **Roof Rail Cracking**
     * Description/Symptoms: Stress cracks developing in the aluminum roof rails.
@@ -117,15 +91,3 @@ The 2016 Land Rover Range Rover Evoque is a compact luxury SUV that combines rug
 
 **Summary**
 The 2016 Land Rover Range Rover Evoque is a capable and stylish SUV, but it is not without its issues. Engine problems, such as intake valve and timing chain tensioner failures, can lead to costly repairs. Transmission issues, including shifting problems and torque converter shudder, are also common. While most electrical issues are relatively minor, alternator failures can be a more significant concern. Exterior and interior issues are less severe and generally less expensive to fix. Overall, the 2016 Range Rover Evoque has some potential problems that owners should be aware of before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

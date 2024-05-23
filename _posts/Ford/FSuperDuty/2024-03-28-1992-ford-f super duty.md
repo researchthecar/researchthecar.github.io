@@ -38,15 +38,3 @@ The 1992 Ford F Super Duty is a heavy-duty pickup truck that was introduced as a
 
 * **Clutch failure:** This can cause the transmission to slip or not engage. Solution: Replace the clutch. Estimated Cost to Fix: $600 - $1,200
 * **Synchronizer failure:** This can make it difficult to shift gears
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -45,19 +45,6 @@ The 2023 Chevrolet Tracker is a compact SUV that comes standard with a 1.5L inli
   * Estimated Cost to Fix: $4,000 - $6,000+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -69,19 +56,6 @@ The 2023 Chevrolet Tracker is a compact SUV that comes standard with a 1.5L inli
   * Solution: Battery replacement, alternator repair, or wiring harness inspection
   * Estimated Cost to Fix: $100 - $1,000+
   * Recalls: NHTSA Campaign Number: 22V199000
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -102,15 +76,3 @@ The 2023 Chevrolet Tracker is a compact SUV that comes standard with a 1.5L inli
 **Summary**
 
 The 2023 Chevrolet Tracker is generally a reliable vehicle, but it has experienced some issues with its engine, transmission, electrical system, and interior. While some issues are minor and inexpensive to fix, others can be costly, such as CVT problems. However, most of the issues are not widespread and can be addressed under warranty or with regular maintenance.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -41,19 +41,6 @@ The 530e xDrive iPerformance offers an impressive combination of performance and
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Air Suspension Compressor Failure:**
@@ -79,19 +66,6 @@ The 530e xDrive iPerformance offers an impressive combination of performance and
     * Solution: Diagnosing and repairing the source of the drain is necessary.
     * Estimated Cost to Fix: $200 - $800+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -122,15 +96,3 @@ The 530e xDrive iPerformance offers an impressive combination of performance and
 **Summary:**
 
 While the 2018 BMW 530e xDrive iPerformance offers an impressive driving experience and advanced features, it has several reported issues to be aware of. Engine issues, such as intake valve deposits and turbocharger failure, can be costly to repair. Transmission problems, including harsh shifting and slipping, may also require significant investment. Suspension components can wear out prematurely, and electrical gremlins can cause headaches. Exterior and interior issues, while generally less severe, can still be frustrating for owners. It is important to consider these potential issues before purchasing or leasing a 530e xDrive iPerformance.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

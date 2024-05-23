@@ -59,19 +59,6 @@ The 2012 Chevrolet Camaro is a muscle car that shares its platform with the Pont
   - Estimated Cost to Fix: $300 - $600
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Front Suspension Noise**
   - Description/Symptoms: Noise from the front suspension when driving over bumps or rough roads.
@@ -108,19 +95,6 @@ The 2012 Chevrolet Camaro is a muscle car that shares its platform with the Pont
   - Estimated Cost to Fix: $200 - $400
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 - **Rear Bumper Sag**
   - Description/Symptoms: The rear bumper sags or is not aligned properly.
@@ -136,15 +110,3 @@ The 2012 Chevrolet Camaro is a muscle car that shares its platform with the Pont
 **Summary**
 
 The 2012 Chevrolet Camaro is a powerful and stylish muscle car, but it has some common issues that owners should be aware of. Some of the most serious issues include piston ring failure, timing chain failure, and torque converter shudder. These issues can be expensive to repair, and they can significantly impact the performance and reliability of the vehicle. However, many of the other issues, such as climate control malfunctions and door lock malfunctions, are relatively minor and inexpensive to fix.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

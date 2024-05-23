@@ -72,19 +72,6 @@ The 1994 Chevrolet Camaro, the fourth generation of the iconic muscle car, boast
         * Estimated Cost to Fix: $200 - $400+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushings Wear**
@@ -116,19 +103,6 @@ The 1994 Chevrolet Camaro, the fourth generation of the iconic muscle car, boast
     * Estimated Cost to Fix: $100 - $200+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight Switch Failure**
@@ -158,15 +132,3 @@ The 1994 Chevrolet Camaro, the fourth generation of the iconic muscle car, boast
 **Summary**
 
 Overall, the 1994 Chevrolet Camaro is a reliable and powerful muscle car. However, it does have some known issues that potential owners should be aware of. The most common issues are related to the engine, transmission, and electrical system. The severity and cost of these issues vary, but some of them can be significant. If you are considering purchasing a 1994 Camaro, it is important to have a thorough inspection by a qualified mechanic to identify any potential problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

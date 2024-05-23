@@ -34,19 +34,6 @@ The 1993 Chevrolet C60 Kodiak is a heavy-duty commercial pickup truck renowned f
     * Estimated Cost to Fix: $600 - $1200
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Coil Spring Sagging:**
@@ -73,19 +60,6 @@ The 1993 Chevrolet C60 Kodiak is a heavy-duty commercial pickup truck renowned f
     * Estimated Cost to Fix: $50 - $150
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust on Undercarriage:**
@@ -110,15 +84,3 @@ The 1993 Chevrolet C60 Kodiak is a heavy-duty commercial pickup truck renowned f
 **Summary**
 
 Overall, the 1993 Chevrolet C60 Kodiak is a reliable and capable heavy-duty truck. However, it has faced several issues, including intake manifold gasket failure, fuel injector failure, torque converter failure, and rust on the undercarriage. While some of these issues can be costly to fix, others are relatively inexpensive. It is important for owners of this vehicle to be aware of these potential problems and to address them promptly to ensure the truck continues to perform optimally.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

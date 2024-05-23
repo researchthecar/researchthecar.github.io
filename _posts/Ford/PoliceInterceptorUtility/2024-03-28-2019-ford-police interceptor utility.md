@@ -85,19 +85,6 @@ The 2019 Ford Police Interceptor Utility is a purpose-built law enforcement vehi
     * Estimated Cost to Fix: $0 - $500
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension clunking noise**
@@ -125,19 +112,6 @@ The 2019 Ford Police Interceptor Utility is a purpose-built law enforcement vehi
     * Solution: Diagnose and repair the faulty electrical components or wiring.
     * Estimated Cost to Fix: Varies widely depending on the components affected
     * Recalls: 20V-366
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -170,15 +144,3 @@ The 2019 Ford Police Interceptor Utility is a purpose-built law enforcement vehi
 **Summary**
 
 The 2019 Ford Police Interceptor Utility has experienced several issues, ranging in severity and cost. These include engine problems such as intake manifold runner control failure, timing chain tensioner failure, and oil leaks; transmission issues including torque converter shudder and shifting problems; suspension issues like front suspension clunking and rear suspension sagging; electrical issues such as battery drain and electrical system failure; exterior issues such as headlight condensation and tailgate handle failure; and interior issues including center console lid breakage and heated/cooled seat malfunctions. Some of these issues, such as timing chain tensioner failure and turbocharger failure, can be costly to repair. However, the Police Interceptor Utility is generally a reliable and durable vehicle, and many of the issues listed here affect a relatively small number of units.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

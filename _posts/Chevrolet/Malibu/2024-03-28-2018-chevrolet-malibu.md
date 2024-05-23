@@ -47,19 +47,6 @@ Overall, the 2018 Chevrolet Malibu is a reliable car with few major issues. Howe
         * Estimated Cost to Fix: $2,000 - $3,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -76,19 +63,6 @@ Overall, the 2018 Chevrolet Malibu is a reliable car with few major issues. Howe
     * Solution: The electrical short needs to be found and repaired.
         * Estimated Cost to Fix: $200 - $1,000+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -110,15 +84,3 @@ Overall, the 2018 Chevrolet Malibu is a reliable car with few major issues. Howe
 **Summary**
 
 Overall, the 2018 Chevrolet Malibu is a reliable car with few major issues. However, there are a few issues that owners should be aware of, such as intake valve deposits on the 1.5-liter turbocharged four-cylinder engine, piston ring failure on the 2.0-liter turbocharged four-cylinder engine, and torque converter shudder on the eight-speed automatic transmission. The severity of these issues varies, and the cost to fix them can range from $200 to $5,000 or more.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

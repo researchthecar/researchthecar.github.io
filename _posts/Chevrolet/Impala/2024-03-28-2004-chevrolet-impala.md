@@ -71,19 +71,6 @@ Owners praise the Impala's roomy interior, comfortable ride, and affordable pric
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Failure**
@@ -126,19 +113,6 @@ Owners praise the Impala's roomy interior, comfortable ride, and affordable pric
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door Handle Breakage**
@@ -156,15 +130,3 @@ Owners praise the Impala's roomy interior, comfortable ride, and affordable pric
 **Summary:**
 
 The 2004 Chevrolet Impala has a mix of minor and moderate issues across different components. Engine issues, such as intake manifold gasket failure and timing chain tensioner failure, can be costly to repair. Transmission problems, like shift solenoid failure and torque converter failure, are also common and can lead to expensive repairs. Electrical issues, such as alternator failure and battery discharge, are less severe but can still be inconvenient. Interior and exterior issues, while less costly, can affect the comfort and appearance of the vehicle. Overall, the reliability and repair costs for the 2004 Chevrolet Impala are average for its class, with some issues being more common than others.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

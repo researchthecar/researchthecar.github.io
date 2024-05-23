@@ -39,19 +39,6 @@ The 1994 Jeep Grand Cherokee is a mid-size SUV that was first introduced in 1993
 
 - **No issues found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **No issues found**
@@ -61,19 +48,6 @@ The 1994 Jeep Grand Cherokee is a mid-size SUV that was first introduced in 1993
 - **Battery drain:** The battery can drain prematurely, especially when the vehicle is parked. Symptoms include a dead battery and difficulty starting the vehicle. The solution is to diagnose the cause of the drain and repair or replace the faulty component. Estimated cost to fix: $100 - $500+
 
 - **Recalls:** 94V-141, 95V-067, 95V-106, 96V-016, 96V-161
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -87,15 +61,3 @@ The 1994 Jeep Grand Cherokee is a mid-size SUV that was first introduced in 1993
 **Summary**
 
 The 1994 Jeep Grand Cherokee is a capable off-road SUV with a spacious interior and comfortable ride. However, it is important to be aware of the potential issues that can occur with this vehicle. The most common issues include intake manifold gasket failure, cylinder head gasket failure, valve train noise, torque converter failure, and battery drain. The severity of these issues can vary, and the cost to fix them can range from $100 to over $2000. It is important to have the vehicle inspected by a qualified mechanic before purchasing it and to keep up with regular maintenance to prevent or address any potential issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -55,19 +55,6 @@ The Cheyenne is praised for its powerful engines, spacious cabin, and comfortabl
 
 **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Rear Leaf Spring Failure**
@@ -83,19 +70,6 @@ The Cheyenne is praised for its powerful engines, spacious cabin, and comfortabl
 * Solution: The electrical system may need to be reprogrammed or a new battery may need to be installed.
 * Estimated Cost to Fix: $200 - $500+
 * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -116,15 +90,3 @@ The Cheyenne is praised for its powerful engines, spacious cabin, and comfortabl
 **Summary**
 
 Overall, the 2019 Chevrolet Cheyenne is a capable and comfortable full-size pickup truck. However, it is important to be aware of the potential issues that have been reported with the vehicle. Some of the issues, such as the fuel injector failure and transmission slipping, can be serious and costly to fix. It is recommended that potential buyers research these issues thoroughly before purchasing a 2019 Chevrolet Cheyenne.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

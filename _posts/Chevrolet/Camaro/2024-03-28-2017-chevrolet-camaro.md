@@ -45,19 +45,6 @@ The 2017 Chevrolet Camaro is a popular sports car known for its stylish design, 
         * Estimated Cost to Fix: $1,000 - $2,000+
         * Recalls: 18V333
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -74,19 +61,6 @@ The 2017 Chevrolet Camaro is a popular sports car known for its stylish design, 
         * Solution: Replace the battery or identify and fix any underlying electrical issues.
         * Estimated Cost to Fix: $100 - $300+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -112,15 +86,3 @@ The 2017 Chevrolet Camaro is a popular sports car known for its stylish design, 
 **Summary:**
 
 While the 2017 Chevrolet Camaro offers an enjoyable driving experience, it has encountered some issues that owners and drivers should be aware of. The most serious issues include excessive oil consumption in the 2.0L turbocharged engine, timing chain failure in the 3.6L V6, and transmission issues in both the 6-speed manual and 8-speed automatic transmissions. The electrical system and interior components have also experienced some glitches and problems. While not all Camaros will experience these issues, potential buyers should consider the severity and cost of potential repairs when making their decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -54,15 +54,3 @@ The 2020 Audi A5 Sportback is a luxury sedan that combines stylish design and hi
 ## Summary
 
 The 2020 Audi A5 Sportback is a well-rounded vehicle, but not without its shortcomings. The engine and transmission issues can be severe and costly to fix, while the electrical and exterior problems are less pressing. Potential buyers should carefully consider these issues and the associated repair costs before purchasing an A5 Sportback.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

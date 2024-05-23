@@ -32,19 +32,6 @@ The Chrysler Town & Country is a luxury minivan that was first introduced in 199
         * Estimated Cost to Fix: $500 - $2,000
         * Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front struts/shocks worn**
@@ -71,19 +58,6 @@ The Chrysler Town & Country is a luxury minivan that was first introduced in 199
     * Estimated Cost to Fix: $300 - $500
     * Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Tail light lenses crack or fade**
@@ -108,15 +82,3 @@ The Chrysler Town & Country is a luxury minivan that was first introduced in 199
 **Summary**
 
 The 1990 Chrysler Town & Country is a comfortable and powerful minivan that has some common issues to watch out for. The most severe issues include intake manifold gasket failure and transmission slipping, which can be expensive to repair. Other issues, such as worn suspension components and cracked taillight lenses, are less severe but can still affect the vehicle's reliability and safety. Overall, the Town & Country is a solid choice for those looking for a minivan, but it is important to be aware of its potential issues before making a purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

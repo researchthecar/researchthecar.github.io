@@ -40,19 +40,6 @@ tags: ["Chevrolet", "Traverse", "2012"]
   * Estimated Cost: $1,000 to $1,500
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Failure:** The front struts may fail, causing abnormal noises, decreased stability, and poor ride quality.
@@ -76,19 +63,6 @@ tags: ["Chevrolet", "Traverse", "2012"]
   * Solution: Replace the headlights or repair the electrical system.
   * Estimated Cost: $100 to $500
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -115,15 +89,3 @@ tags: ["Chevrolet", "Traverse", "2012"]
   * Recalls: None Found
 
 **Summary:** The 2012 Chevrolet Traverse has faced specific issues, primarily related to the engine, transmission, and suspension systems. Some issues, such as oil consumption and timing chain problems, can be severe and costly to repair. However, other issues, like exterior door handle problems and dashboard cracking, are generally less severe and more affordable to fix. Overall, the Traverse is a reliable and spacious vehicle but may require attention to potential issues before they become major problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

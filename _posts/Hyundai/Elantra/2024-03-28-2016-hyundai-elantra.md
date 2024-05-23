@@ -83,15 +83,3 @@ The 2016 Hyundai Elantra is a compact sedan praised for its fuel efficiency, aff
 ## **Summary**
 
 While the 2016 Hyundai Elantra has received positive reviews for its fuel efficiency and value, it has faced some issues that have affected some owners. The severity and cost of these issues vary, with some being minor annoyances and others potentially more serious. Potential buyers should be aware of these issues before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

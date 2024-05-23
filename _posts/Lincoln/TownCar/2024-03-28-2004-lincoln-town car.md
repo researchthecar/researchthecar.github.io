@@ -37,19 +37,6 @@ The 2004 Lincoln Town Car was a full-size luxury sedan powered by a 4.6L V8 engi
         * Estimated Cost to Fix: $600 - $1,200+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Front suspension worn bushings:**
@@ -76,19 +63,6 @@ The 2004 Lincoln Town Car was a full-size luxury sedan powered by a 4.6L V8 engi
     * Estimated Cost to Fix: $150 - $300+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior:**
 
 * **Chrome trim peeling:**
@@ -113,15 +87,3 @@ The 2004 Lincoln Town Car was a full-size luxury sedan powered by a 4.6L V8 engi
 **Summary:**
 
 The 2004 Lincoln Town Car had a number of reported issues, ranging from minor cosmetic problems to more significant mechanical concerns. Intake manifold gasket failure, spark plug blowout, transmission slipping, and dashboard cracking were among the most common issues. Overall, these issues were not very severe or costly to fix, but they could still be a source of frustration for owners.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

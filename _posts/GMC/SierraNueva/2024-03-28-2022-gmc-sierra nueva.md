@@ -41,19 +41,6 @@ The 2022 GMC Sierra Nueva is a full-size pickup truck available with a range of 
     * Estimated Cost to Fix: $1,200 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Spring Breakage:** Some owners have reported breakage of the rear leaf springs, resulting in uneven ride height and potential handling issues.
@@ -67,19 +54,6 @@ The 2022 GMC Sierra Nueva is a full-size pickup truck available with a range of 
     * Solution: Diagnose and repair source of drain.
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -98,15 +72,3 @@ The 2022 GMC Sierra Nueva is a full-size pickup truck available with a range of 
 **Summary**
 
 While the 2022 GMC Sierra Nueva is a capable and desirable pickup truck, it is not without its issues. Engine and transmission problems, particularly with the 6.2-liter V8 and 10-speed transmission, can be costly to repair. Suspension concerns and electrical glitches add to the list of potential expenses. Exterior and interior issues are less severe and expensive to address. Overall, the severity and cost of repairs vary depending on the individual issue. It is important for owners to be aware of potential problems and factor in maintenance and repair costs when considering the purchase of a Sierra Nueva.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

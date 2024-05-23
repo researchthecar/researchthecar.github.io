@@ -36,19 +36,6 @@ The 2019 Hyundai Santa Fe is a mid-size SUV that offers a comfortable and spacio
     * Estimated Cost to Fix: $1,000 - $2,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Suspension Sagging**
@@ -64,19 +51,6 @@ The 2019 Hyundai Santa Fe is a mid-size SUV that offers a comfortable and spacio
     * Solution: Find and fix the source of the drain
     * Estimated Cost to Fix: $100 - $500
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -97,15 +71,3 @@ The 2019 Hyundai Santa Fe is a mid-size SUV that offers a comfortable and spacio
 **Summary**
 
 The 2019 Hyundai Santa Fe is a generally reliable vehicle, but it has been known to experience some issues with its engine, transmission, and suspension. The most severe issue is the knocking noise from the 2.4-liter engine, which can require a costly engine replacement. The cost to fix the issues with the Santa Fe can range from a few hundred dollars to several thousand dollars, depending on the severity of the issue.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

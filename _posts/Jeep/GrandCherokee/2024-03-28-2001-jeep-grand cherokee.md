@@ -56,19 +56,6 @@ The 2001 Jeep Grand Cherokee is a popular mid-size SUV known for its rugged off-
    - Estimated Cost to Fix: $2,000 - $3,000+
    - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Front Lower Control Arm Bushing Failure:**
@@ -91,19 +78,6 @@ The 2001 Jeep Grand Cherokee is a popular mid-size SUV known for its rugged off-
    - Estimated Cost to Fix: $100 - $500
    - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 - **Sunroof Leaks:**
@@ -123,15 +97,3 @@ The 2001 Jeep Grand Cherokee is a popular mid-size SUV known for its rugged off-
 **Summary:**
 
 The 2001 Jeep Grand Cherokee has a mix of minor and moderate issues, some of which can be costly to repair. The most severe issues include cylinder head cracking in the 4.0L Inline-6 engine and slipping gears in the 5-speed automatic transmission. Other concerns, such as leaks and electrical problems, are generally less expensive to address. Overall, the Grand Cherokee shows a fair reliability record, but owners should be aware of these potential issues and factor them into their maintenance and repair budgets.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

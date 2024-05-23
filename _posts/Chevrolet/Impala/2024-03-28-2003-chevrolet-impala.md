@@ -68,19 +68,6 @@ The 2003 Chevrolet Impala is a full-size sedan that offers a spacious cabin, com
     * Estimated Cost to Fix: $200 - $500
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Shock Absorber Failure:**
@@ -101,19 +88,6 @@ The 2003 Chevrolet Impala is a full-size sedan that offers a spacious cabin, com
     * Solution: Test and replace faulty components (e.g., starter, parasitic drain)
     * Estimated Cost to Fix: $100 - $500
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -139,15 +113,3 @@ The 2003 Chevrolet Impala is a full-size sedan that offers a spacious cabin, com
 **Summary:**
 
 The 2003 Chevrolet Impala is a reliable vehicle that offers a comfortable ride and spacious cabin. However, it has been known to experience some issues, particularly with the engine and transmission. The intake manifold gasket leak and valve cover gasket leak are common problems with the 3.4-liter V6 engine, while the plenum gasket leak and cam chain tensioner failure are more prevalent in the 3.8-liter V6 engine. The Active Fuel Management System failure is a known issue with the 5.3-liter V8 engine. Transmission issues include transmission slippage in the 4-speed automatic and torque converter lockup failure or shift solenoid failure in the 5-speed automatic. While the severity of these issues varies, they can be costly to repair, ranging from a few hundred dollars to over $1,000.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -54,19 +54,6 @@ People who like the Passport praise its reliability, off-road capability, and ro
         * Estimated Cost to Fix: $500 - $700+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front lower control arm bushing failure:**
@@ -87,19 +74,6 @@ People who like the Passport praise its reliability, off-road capability, and ro
     * Solution: Replace the starter
     * Estimated Cost to Fix: $300 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -130,15 +104,3 @@ People who like the Passport praise its reliability, off-road capability, and ro
 **Summary:**
 
 The 2002 Honda Passport is generally considered a reliable vehicle, but it is not immune to certain issues. The most common problems reported include engine leaks, transmission issues, suspension failures, electrical problems, and interior defects. The severity and cost of these issues vary depending on the specific problem. While some repairs may be relatively inexpensive, others can be quite costly, potentially exceeding $1,000.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

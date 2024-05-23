@@ -33,19 +33,6 @@ People appreciate the 840i's elegant design, spacious and luxurious interior, an
     * Solution: Replacement of the faulty solenoid
     * Estimated Cost to Fix: $500 - $1,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Adaptive Suspension System Failure:**
@@ -63,19 +50,6 @@ People appreciate the 840i's elegant design, spacious and luxurious interior, an
     * Description/Symptoms: Electrical malfunctions, flickering lights, burning smell
     * Solution: Identification and repair of the electrical short
     * Estimated Cost to Fix: $500 - $1,500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -100,15 +74,3 @@ People appreciate the 840i's elegant design, spacious and luxurious interior, an
 The 2020 BMW 840i xDrive Gran Coupe is a highly desirable vehicle, but it is not immune to potential issues. The most common issues reported by owners include fuel injector failure, turbocharger wastegate issues, transmission solenoid malfunctions, adaptive suspension system failure, and sunroof seal failure.
 
 While some of these issues can be relatively minor and inexpensive to fix, others can be more severe and costly. It is important for owners to be aware of these potential problems and to have them addressed promptly to avoid further complications.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

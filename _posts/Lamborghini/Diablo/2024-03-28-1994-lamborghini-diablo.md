@@ -37,19 +37,6 @@ The 1994 Lamborghini Diablo is a high-performance sports car produced by Lamborg
         * Solution: Replace or rebuild gearbox
         * Estimated Cost to Fix: $3,000 - $5,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Shock Absorber Failure**
@@ -68,19 +55,6 @@ The 1994 Lamborghini Diablo is a high-performance sports car produced by Lamborg
     * Solution: Replace faulty battery or diagnose and repair underlying electrical issue
     * Estimated Cost to Fix: $150 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight Lens Fogging**
@@ -98,15 +72,3 @@ The 1994 Lamborghini Diablo is a high-performance sports car produced by Lamborg
 **Summary**
 
 The 1994 Lamborghini Diablo is a powerful and exotic sports car, but it is also prone to certain issues. The engine and transmission require careful maintenance and repair can be expensive. Electrical problems and suspension issues are also not uncommon. However, many owners find that the thrill and prestige of owning a Diablo outweighs the potential drawbacks.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

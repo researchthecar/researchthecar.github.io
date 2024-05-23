@@ -39,19 +39,6 @@ The 2013 Chevrolet Traverse is a three-row, mid-size SUV that combines spaciousn
         * Estimated Cost to Fix: $100 - $300
         * Recalls: NHTSA Campaign Number: 21V585000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -72,19 +59,6 @@ The 2013 Chevrolet Traverse is a three-row, mid-size SUV that combines spaciousn
     * Solution: The tail light assembly or harnesses may need to be replaced.
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -115,15 +89,3 @@ The 2013 Chevrolet Traverse is a three-row, mid-size SUV that combines spaciousn
 **Summary:**
 
 The 2013 Chevrolet Traverse has some reported issues, particularly with the timing chain on the 3.6L V6 engine, transmission software issues, and potential cosmetic concerns. However, these issues do not appear to be widespread, and many Traverse owners enjoy a positive ownership experience. The cost to fix the reported issues can vary depending on the severity of the problem and the specific parts involved, but overall, the Traverse is not known for having extremely costly repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

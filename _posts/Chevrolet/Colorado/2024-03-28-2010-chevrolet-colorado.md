@@ -40,19 +40,6 @@ The 2010 Chevrolet Colorado is a mid-size pickup truck available with two engine
  -11V013000: Park/Neutral Interlock Cable
 -14V040000: Transmission Control Module
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Worn Front Suspension Components:** The front suspension components, such as ball joints and control arms, can wear prematurely, leading to poor handling and noise. Solution: Replacement of the worn components. Estimated Cost to Fix: $500 - $1,500+
@@ -64,19 +51,6 @@ The 2010 Chevrolet Colorado is a mid-size pickup truck available with two engine
 - **Recalls:**
  - 14V053000: Stabilitrak System
  - 14V560000: Backup Camera
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -90,15 +64,3 @@ The 2010 Chevrolet Colorado is a mid-size pickup truck available with two engine
 **Summary:**
 
 The 2010 Chevrolet Colorado has a number of common issues that owners should be aware of. These issues range in severity and cost, but many are relatively minor and can be repaired without breaking the bank. However, some major issues, such as engine failure or transmission problems, can be very expensive to fix. Overall, the Colorado is a generally reliable vehicle, but it is important to be aware of its potential problems before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -47,19 +47,6 @@ The 2009 Lamborghini Murcielago is a high-performance sports car featuring a mid
     * Estimated Cost to Fix: $3,000 - $5,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Front Suspension:**
@@ -91,19 +78,6 @@ The 2009 Lamborghini Murcielago is a high-performance sports car featuring a mid
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rear Wing Vibration:**
@@ -128,15 +102,3 @@ The 2009 Lamborghini Murcielago is a high-performance sports car featuring a mid
 **Summary**
 
 The 2009 Lamborghini Murcielago is a capable sports car, but it has some potential issues. The engine is prone to intake manifold leaks and timing chain tensioner failures, while the transmission can experience clutch problems (manual) or TCU failures (semi-automatic). The suspension may have worn lower control arm bushings and faulty rear shock absorbers. Electrical issues include alternator failures and power window malfunctions. Exterior problems are limited to rear wing vibration, while interior issues include navigation system failures and HVAC control unit failures. While these issues can be costly to fix, they are relatively rare, and the Murcielago remains a sought-after vehicle for enthusiasts and collectors.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -75,19 +75,6 @@ The 2009 Chevrolet Optra is a compact sedan that offers a balance of practicalit
     * Estimated Cost to Fix: $400+
     * Recalls: 10V354000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Failure**
@@ -116,19 +103,6 @@ The 2009 Chevrolet Optra is a compact sedan that offers a balance of practicalit
     * Estimated Cost to Fix: $300+
     * Recalls: 10V354000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Fender Liner Clips Breaking**
@@ -154,15 +128,3 @@ The 2009 Chevrolet Optra is a compact sedan that offers a balance of practicalit
 **Summary**
 
 Overall, the 2009 Chevrolet Optra is generally a reliable vehicle. However, it is not without its problems. Some of the more common issues include engine piston ring and timing chain failures, intake valve sticking, transmission torque converter and solenoid failures, suspension strut mount and sway bar link failures, and battery drain and alternator issues. These problems can range in severity from minor inconveniences to major repairs that can cost thousands of dollars. It is important to weigh the potential costs of these issues against the Optra's affordability, fuel efficiency, and overall practicality when making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

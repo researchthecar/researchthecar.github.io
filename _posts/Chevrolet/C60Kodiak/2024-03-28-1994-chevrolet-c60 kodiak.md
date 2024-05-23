@@ -34,19 +34,6 @@ The 1994 Chevrolet C60 Kodiak is a heavy-duty pickup truck offered with various 
         * Estimated Cost to Fix: $300 - $500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf Spring Failure**
@@ -68,19 +55,6 @@ The 1994 Chevrolet C60 Kodiak is a heavy-duty pickup truck offered with various 
     * Solution: Locate and repair electrical drain, replace battery if necessary
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -107,15 +81,3 @@ The 1994 Chevrolet C60 Kodiak is a heavy-duty pickup truck offered with various 
 **Summary**
 
 The 1994 Chevrolet C60 Kodiak generally has a good reputation for reliability, but it is not immune to issues. The most common concerns reported by owners are related to the injector failure in the 6.5L diesel engine and synchronizer wear in the 5-speed manual transmission. The cost of repairs can range from minor to significant, so it is important to consider the potential expenses when considering this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

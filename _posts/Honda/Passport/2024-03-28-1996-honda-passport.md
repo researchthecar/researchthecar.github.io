@@ -34,19 +34,6 @@ The 1996 Honda Passport was a mid-size SUV renowned for its ruggedness, reliabil
    Estimated Cost to Fix: $1,000 - $2,500+
    Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Front Suspension Bushing Wear:** Worn bushings can cause the vehicle to feel loose or unstable, especially during turns and on rough roads.
@@ -66,19 +53,6 @@ The 1996 Honda Passport was a mid-size SUV renowned for its ruggedness, reliabil
    Estimated Cost to Fix: $300 - $600
    Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior:**
 
 * **Rust on Undercarriage:** The Passport's undercarriage is prone to rust, especially in areas with harsh weather conditions.
@@ -96,15 +70,3 @@ The 1996 Honda Passport was a mid-size SUV renowned for its ruggedness, reliabil
 **Summary:**
 
 Overall, the 1996 Honda Passport is a reliable and capable SUV. However, it is not without its issues, including engine oil leaks, transmission slipping, suspension bushings wear, and electrical problems. The cost of these issues can range from minor to major, and it is important to factor in the potential repair expenses when considering this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

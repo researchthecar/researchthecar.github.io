@@ -41,19 +41,6 @@ Solution: Replace the transmission fluid and filter, or perform a transmission r
 Estimated Cost to Fix: $200 - $1500+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Squeaking or Rumbling Noise from Front Suspension:**
@@ -69,19 +56,6 @@ Description/Symptoms: Battery drains quickly even when the vehicle is not in use
 Solution: Inspect and replace faulty electrical components, such as the alternator, battery, or wiring.
 Estimated Cost to Fix: $100 - $500+
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -106,15 +80,3 @@ Recalls: None Found
 **Summary:**
 
 Overall, the 2015 Chevrolet Tornado has a mixed record in terms of reliability. While it has received praise for its performance and handling, it also faces issues related to engine oil leaks, transmission shifting problems, suspension noise, battery drain, and tailgate rust. The severity of these issues can vary depending on the individual vehicle and its maintenance history. Repair costs can range from a few hundred dollars to over $1000 in some cases. It's important for potential buyers to consider these issues and thoroughly inspect the vehicle before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

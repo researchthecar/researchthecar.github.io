@@ -37,19 +37,6 @@ The 1990 Chevrolet V2500 Suburban is a full-size SUV available with a 5.7L V8 en
         * Estimated Cost to Fix: $1,000 - $2,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front End Alignment Issues:** Some owners report alignment issues, causing uneven tire wear and handling problems.
@@ -71,19 +58,6 @@ The 1990 Chevrolet V2500 Suburban is a full-size SUV available with a 5.7L V8 en
         * Solution: Replace the window motor, switch, or wiring.
         * Estimated Cost to Fix: $200 - $500+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -110,15 +84,3 @@ The 1990 Chevrolet V2500 Suburban is a full-size SUV available with a 5.7L V8 en
 **Summary:**
 
 The 1990 Chevrolet V2500 Suburban has a few common issues to watch out for, including engine oil consumption, intake manifold gasket failure, and suspension problems. These issues can be costly to repair, so it's important to consider these factors when purchasing or maintaining this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

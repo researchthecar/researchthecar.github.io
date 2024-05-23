@@ -26,19 +26,6 @@ The 1994 Chrysler LeBaron is a front-wheel-drive luxury coupe that was available
 - **Slipping Gears:** Can cause the transmission to lose power or gears to slip out of place. Requires transmission rebuild or replacement. $1,500 - $3,000+
 - **Torque Converter Shudder:** Can cause the transmission to shudder during acceleration. Requires replacement of the torque converter. $700 - $1,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Strut Mount Bearing Failure:** Can cause clunking or grinding noises, and uneven tire wear. Requires replacement of the strut mount bearings. $200 - $400+
@@ -49,19 +36,6 @@ The 1994 Chrysler LeBaron is a front-wheel-drive luxury coupe that was available
 - **Alternator Failure:** Can cause the battery to drain, difficulty starting the engine, or electrical system malfunctions. Requires replacement of the alternator. $300 - $700+
 - **Battery Cable Corrosion:** Can cause difficulty starting the engine or electrical system malfunctions. Requires cleaning or replacement of the battery cables. $50 - $150+
 - **Lighting Switch Failure:** Can cause the headlights, taillights, or other lights to malfunction. Requires replacement of the lighting switch. $100 - $250+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -77,15 +51,3 @@ The 1994 Chrysler LeBaron is a front-wheel-drive luxury coupe that was available
 **Summary:**
 
 The 1994 Chrysler LeBaron has a variety of issues that can range in severity and cost from minor repairs to major engine or transmission problems. While it is a comfortable and stylish car, potential buyers should be aware of the potential issues before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -46,19 +46,6 @@ The 1991 Ford F Super Duty is a heavy-duty pickup truck offered in various confi
     * Estimated Cost to Fix: $2,000 - $4,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf Spring Failure:** Broken or sagging leaf springs can affect ride quality, handling, and towing capacity.
@@ -81,19 +68,6 @@ The 1991 Ford F Super Duty is a heavy-duty pickup truck offered in various confi
     * Estimated Cost to Fix: $200 - $400
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust:** The F Super Duty is susceptible to rust, especially on the undercarriage and body panels.
@@ -115,15 +89,3 @@ The 1991 Ford F Super Duty is a heavy-duty pickup truck offered in various confi
 **Summary**
 
 The 1991 Ford F Super Duty is a capable pickup truck, but it has its fair share of reliability issues. Engine and transmission problems are the most common and can be expensive to repair. Suspension and electrical components can also fail, but the severity and cost of these issues vary. Overall, the F Super Duty's issues are moderate to severe, and repairs can be costly.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

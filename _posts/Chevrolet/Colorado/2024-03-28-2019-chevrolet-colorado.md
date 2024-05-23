@@ -61,19 +61,6 @@ The 2019 Chevrolet Colorado is a midsize pickup truck known for its ruggedness, 
     * Estimated Cost to Fix: $200 - $500
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf Spring Breakage:**
@@ -95,19 +82,6 @@ The 2019 Chevrolet Colorado is a midsize pickup truck known for its ruggedness, 
     * Solution: Replacement of headlight bulbs or wiring harness
     * Estimated Cost to Fix: $100 - $250
     * Recalls: 20V213000, 20V213000
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -134,15 +108,3 @@ The 2019 Chevrolet Colorado is a midsize pickup truck known for its ruggedness, 
 **Summary:**
 
 The 2019 Chevrolet Colorado has some reported issues, particularly with the engine, transmission, and electrical system. Timing chain failures, shifting difficulties, and torque converter shudder are among the more significant concerns. Suspension problems, such as leaf spring breakage, can affect ride quality and safety. Electrical issues can range from battery drain to headlight failures. While these issues can be frustrating and costly, it's important to note that they are not widespread and may vary depending on factors like driving habits, maintenance, and individual vehicle build.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

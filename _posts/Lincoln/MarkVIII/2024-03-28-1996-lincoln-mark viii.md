@@ -39,19 +39,6 @@ The 1996 Lincoln Mark VIII was a full-size luxury coupe that offered a combinati
         * Estimated Cost to Fix: $1,500 - $3,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Strut Failure**
@@ -72,19 +59,6 @@ The 1996 Lincoln Mark VIII was a full-size luxury coupe that offered a combinati
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $400 - $800+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -110,15 +84,3 @@ The 1996 Lincoln Mark VIII was a full-size luxury coupe that offered a combinati
 **Summary**
 
 The 1996 Lincoln Mark VIII was a popular luxury coupe that offered a lot of desirable features. However, it was not without its issues. Engine problems, transmission issues, electrical problems, and suspension problems were all common complaints among owners. The severity and cost of these issues could vary greatly depending on the specific problem and the condition of the vehicle. Overall, it is important to carefully consider the potential issues before purchasing a 1996 Lincoln Mark VIII, especially if the vehicle has high mileage or has not been well-maintained.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

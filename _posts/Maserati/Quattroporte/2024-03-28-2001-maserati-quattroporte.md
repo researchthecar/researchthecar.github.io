@@ -42,19 +42,6 @@ The 2001 Maserati Quattroporte is an executive sedan known for its luxurious int
         * Solution: Overhaul or replace transmission
         * Estimated Cost to Fix: $2,500 - $4,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushings**
@@ -77,19 +64,6 @@ The 2001 Maserati Quattroporte is an executive sedan known for its luxurious int
     * Solution: Replace starter motor
     * Estimated Cost to Fix: $500 - $1,200+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight Lens Fogging**
@@ -111,15 +85,3 @@ The 2001 Maserati Quattroporte is an executive sedan known for its luxurious int
 **Summary**
 
 The 2001 Maserati Quattroporte is a luxurious and powerful sedan, but it is not without its issues. Common problems include engine valve sticking, transmission shifting issues, suspension bushing wear, and electrical problems. While the cost of repairs can be high, the Quattroporte remains a desirable vehicle for enthusiasts who value its performance and exclusivity.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

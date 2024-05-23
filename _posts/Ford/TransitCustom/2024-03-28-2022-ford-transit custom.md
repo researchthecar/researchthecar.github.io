@@ -45,19 +45,6 @@ The 2022 Ford Transit Custom is a mid-size commercial van that offers a variety 
     * Estimated Cost to Fix: Free
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Leaf Spring Failure:**
@@ -73,19 +60,6 @@ The 2022 Ford Transit Custom is a mid-size commercial van that offers a variety 
     * Solution: Identifying and fixing the parasitic draw, such as faulty wiring or a malfunctioning accessory.
     * Estimated Cost to Fix: $200 - $500
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -106,15 +80,3 @@ The 2022 Ford Transit Custom is a mid-size commercial van that offers a variety 
 **Summary:**
 
 While the 2022 Ford Transit Custom is a generally reliable van, some owners have encountered issues with certain components. Engine stalling, turbocharger failure, and gear grinding are notable issues that can be costly to repair. However, the severity and cost of the issues vary, and many owners are satisfied with the vehicle's overall performance and functionality.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -57,19 +57,6 @@ Solution: Software update or transmission reprogramming
 Estimated Cost to Fix: Usually covered under warranty
 Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -81,19 +68,6 @@ Description/Symptoms: Battery drains prematurely, difficulty starting
 Solution: Replace or repair electrical components
 Estimated Cost to Fix: $200 - $500+
 Recalls: N/A
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -114,15 +88,3 @@ Recalls: N/A
 **Summary**
 
 The 2016 Chevrolet Malibu is a generally reliable vehicle, but it has been known to experience some issues in specific areas. The engine and transmission have the most reported problems, with timing chain issues in the 2.0-liter turbocharged engine (196 HP) being the most severe. The severity of the issues varies, and the cost to fix them can be substantial. It is important for owners to be aware of these potential issues and have their vehicles regularly serviced to prevent or address any problems promptly.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

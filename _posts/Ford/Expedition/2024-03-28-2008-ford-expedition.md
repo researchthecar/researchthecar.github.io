@@ -31,19 +31,6 @@ The 2008 Ford Expedition is a full-size SUV that was offered with two engine opt
 * **Transmission Fluid Leak:** The transmission can develop a leak from the pan, lines, or seals. Symptoms include a lack of transmission fluid on the dipstick and fluid spots under the vehicle. The solution is to repair the leak. Estimated cost to fix: $200 - $500+ depending on the location of the leak.
 * **Shifting Problems:** The transmission may have difficulty shifting gears or shifting gears erratically. Symptoms include delayed or rough shifts, slipping gears, and a lack of response from the transmission. The solution is to have the transmission diagnosed and repaired. Estimated cost to fix: $500 - $2,000+ depending on the severity of the issue.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Axle Seal Leak:** The rear axle seals can leak, causing a loss of rear differential fluid. Symptoms include a whining noise from the rear axle, fluid spots under the vehicle, and a reduction in rear-wheel traction. The solution is to replace the rear axle seals. Estimated cost to fix: $200 - $500.
@@ -54,19 +41,6 @@ The 2008 Ford Expedition is a full-size SUV that was offered with two engine opt
 * **Battery Drain:** The battery can drain quickly due to a parasitic draw. Symptoms include a dead battery after the vehicle has been parked for an extended period. The solution is to find the source of the parasitic draw and repair the issue. Estimated cost to fix: $100 - $500+ depending on the complexity of the issue.
 * **Alternator Failure:** The alternator can fail to charge the battery, causing electrical problems and a dead battery. Symptoms include dim lights, a loss of electrical power, and a battery that fails to recharge. The solution is to replace the alternator. Estimated cost to fix: $500 - $1,000.
 * **Window Motor Failure:** The window motors can fail, causing the windows to become inoperable. Symptoms include difficulty opening or closing the windows, windows that move slowly or erratically, and windows that get stuck in the open or closed position. The solution is to replace the window motors. Estimated cost to fix: $200 - $500+ per window.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -81,15 +55,3 @@ The 2008 Ford Expedition is a full-size SUV that was offered with two engine opt
 **Summary**
 
 The 2008 Ford Expedition has some common issues that owners should be aware of, particularly with the engine and transmission. The severity and cost of these issues can vary depending on the specific problem encountered. While some issues, such as spark plug blowout, are relatively minor, others, such as valve seat recession and transmission failure, can be more serious and expensive to repair. Overall, the Expedition is a capable SUV with spacious seating and powerful engines, but it is important to be aware of the potential issues that it may experience.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

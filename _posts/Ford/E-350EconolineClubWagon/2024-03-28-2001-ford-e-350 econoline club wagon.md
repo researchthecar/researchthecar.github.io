@@ -35,19 +35,6 @@ The 2001 Ford E-350 Econoline Club Wagon is a full-size van that seats up to 15 
 
 * **Torque converter failure:** The torque converter can fail, which can cause a loss of power and transmission shudder. The torque converter should be replaced as soon as possible. **Estimated Cost to Fix:** $800 - $1,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension:** The front suspension components, such as the ball joints, tie rods, and struts, can wear out over time, which can cause vibrations, clunking noises, and reduced handling. The front suspension components should be inspected and replaced as needed. **Estimated Cost to Fix:** $500 - $1,500+
@@ -56,19 +43,6 @@ The 2001 Ford E-350 Econoline Club Wagon is a full-size van that seats up to 15 
 
 * **Alternator failure:** The alternator can fail, which can cause the battery to drain and the vehicle to stall. The alternator should be replaced as soon as possible. **Estimated Cost to Fix:** $500 - $1,000+
 * **Starter failure:** The starter can fail, which can prevent the vehicle from starting. The starter should be replaced as soon as possible. **Estimated Cost to Fix:** $300 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -82,15 +56,3 @@ The 2001 Ford E-350 Econoline Club Wagon is a full-size van that seats up to 15 
 **Summary**
 
 The 2001 Ford E-350 Econoline Club Wagon is a spacious and powerful van, but it has also been reported to have some common issues, such as engine, transmission, suspension, electrical, exterior, and interior problems. The severity and cost of the issues can vary depending on the specific issue and the extent of the damage.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -47,19 +47,6 @@ The 2004 Chevrolet Epica is a midsize sedan that offers a comfortable and spacio
     * Estimated Cost to Fix: $600 - $1,200+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Mounts:**
@@ -86,19 +73,6 @@ The 2004 Chevrolet Epica is a midsize sedan that offers a comfortable and spacio
     * Estimated Cost to Fix: $100 - $300+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Brake Light Switch Failure:**
@@ -123,15 +97,3 @@ The 2004 Chevrolet Epica is a midsize sedan that offers a comfortable and spacio
 **Summary**
 
 The 2004 Chevrolet Epica is a reliable vehicle with some common issues that can affect the engine, transmission, suspension, electrical, exterior, and interior components. The severity of the issues ranges from minor inconveniences to potentially serious problems that can affect the safety and performance of the vehicle. The cost to fix these issues can also vary significantly, from a few hundred dollars to over a thousand dollars in some cases. While the Epica offers a comfortable and spacious ride, potential buyers should be aware of these common issues before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

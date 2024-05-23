@@ -54,19 +54,6 @@ Despite its luxurious nature, the Arnage has encountered some issues reported by
   * Estimated Cost to Fix: $500 - $1,000+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Failure:**
@@ -92,19 +79,6 @@ Despite its luxurious nature, the Arnage has encountered some issues reported by
   * Solution: Diagnose and repair the faulty electrical components or wiring.
   * Estimated Cost to Fix: $200 - $1,000+
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -135,15 +109,3 @@ Despite its luxurious nature, the Arnage has encountered some issues reported by
 **Summary:**
 
 The 2008 Bentley Arnage combines luxurious appointments with powerful performance, but it is not without its issues. While some concerns are minor inconveniences, others, such as engine or transmission failures, can be more significant and costly to rectify. The severity and cost of repairs can vary depending on the specific issue and the extent of damage. Owners should be aware of potential problems and consider the cost of maintenance when budgeting for this high-end vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

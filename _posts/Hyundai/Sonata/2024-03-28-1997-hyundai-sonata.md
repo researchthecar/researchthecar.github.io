@@ -33,19 +33,6 @@ The 1997 Hyundai Sonata was a midsize sedan offered with a range of engine and t
 * **Transmission slipping:** Premature failure of the transmission fluid or torque converter, causing the transmission to slip gears. Symptoms include delayed or sudden gear engagement, loss of power, and rough shifting. Requires transmission repair or overhaul. Estimated cost to fix: $1,500 - $3,000+
 * **Shift solenoid failure:** Premature failure of the shift solenoids, causing the transmission to shift improperly. Symptoms include hard shifts, delayed shifts, or failure to shift gears. Requires replacement of the shift solenoids. Estimated cost to fix: $500 - $1,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut mount failure:** Premature failure of the strut mounts, causing knocking or rattling noises from the suspension. Symptoms include excessive noise over bumps, poor handling, and reduced ride quality. Requires replacement of the strut mounts. Estimated cost to fix: $300 - $600+
@@ -55,19 +42,6 @@ The 1997 Hyundai Sonata was a midsize sedan offered with a range of engine and t
 * **Alternator failure:** Premature failure of the alternator, causing the battery to discharge and the vehicle to lose power. Symptoms include dim headlights, difficulty starting the vehicle, and electrical system malfunctions. Requires replacement of the alternator. Estimated cost to fix: $500 - $1,000+
 * **Starter failure:** Premature failure of the starter, causing the vehicle to fail to start. Symptoms include a clicking noise when trying to start the vehicle, no engine cranking, and no power to the electrical system. Requires replacement of the starter. Estimated cost to fix: $300 - $600+
 * **Battery failure:** Premature failure of the battery, causing the vehicle to lose power and fail to start. Symptoms include a weak or dead battery, slow engine cranking, and electrical system malfunctions. Requires replacement of the battery. Estimated cost to fix: $100 - $200+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -82,15 +56,3 @@ The 1997 Hyundai Sonata was a midsize sedan offered with a range of engine and t
 **Summary**
 
 The 1997 Hyundai Sonata is an affordable and spacious vehicle, but it has a number of potential mechanical and electrical issues. The most serious issues are head gasket failure, timing belt failure, and transmission slipping, which can all lead to costly repairs or even engine damage. Other issues, such as suspension noise, alternator failure, and interior leaks, while not as severe, can still be annoying and costly to fix. Overall, the Sonata's reliability and repair costs are average for the midsize sedan segment.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

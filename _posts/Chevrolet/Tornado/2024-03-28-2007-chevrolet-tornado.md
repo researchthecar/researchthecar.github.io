@@ -55,19 +55,6 @@ The 2007 Chevrolet Tornado was a compact pickup truck available with two engine 
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaking Shocks/Struts**
@@ -88,19 +75,6 @@ The 2007 Chevrolet Tornado was a compact pickup truck available with two engine 
     * Solution: Repair or replace the damaged wiring.
     * Estimated Cost to Fix: $200 - $800
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -126,15 +100,3 @@ The 2007 Chevrolet Tornado was a compact pickup truck available with two engine 
 **Summary**
 
 The 2007 Chevrolet Tornado was a budget-friendly pickup truck with some reliability issues. The most common engine problems were excessive oil consumption and head gasket failure. The transmission could also experience slippage or difficulty shifting gears. Suspension and electrical issues were also reported. The exterior could suffer from fading or peeling clear coat and rust. Interior problems were relatively minor, such as broken dashboard clips. The severity and cost of these issues vary, but overall, the Tornado's reliability is considered below average.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

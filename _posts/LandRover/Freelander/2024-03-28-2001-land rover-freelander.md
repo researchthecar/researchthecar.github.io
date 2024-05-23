@@ -23,19 +23,6 @@ The 2001 Land Rover Freelander is a compact SUV that offers a blend of off-road 
 * **Transmission slipping:** The transmission may slip when shifting gears. Symptoms include a lack of power, a shuddering sensation, and difficulty shifting gears. The solution is to replace the transmission. Estimated cost to fix: $2,000 - $3,000+
 * **Torque converter failure:** The torque converter can fail, causing a loss of power and a grinding noise. Symptoms include a lack of power, a shuddering sensation, and difficulty shifting gears. The solution is to replace the torque converter. Estimated cost to fix: $1,000 - $2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension noise:** The front suspension can make a knocking or rattling noise when driving over rough roads. Symptoms include a knocking or rattling sound from the front of the vehicle. The solution is to replace the front suspension components. Estimated cost to fix: $500 - $1,000+
@@ -45,19 +32,6 @@ The 2001 Land Rover Freelander is a compact SUV that offers a blend of off-road 
 
 * **Electrical gremlins:** The Freelander can experience a variety of electrical problems, such as flickering lights, faulty gauges, and power window failures. Symptoms include flickering lights, faulty gauges, and power window failures. The solution is to troubleshoot and repair the electrical system. Estimated cost to fix: $100 - $1,000+
 * **Battery drain:** The battery can drain prematurely, leaving the vehicle stranded. Symptoms include a dead battery, difficulty starting the vehicle, and electrical problems. The solution is to troubleshoot and repair the electrical system. Estimated cost to fix: $100 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -72,15 +46,3 @@ The 2001 Land Rover Freelander is a compact SUV that offers a blend of off-road 
 **Summary:**
 
 The 2001 Land Rover Freelander is a capable SUV that offers a blend of off-road capability and on-road comfort. However, it is plagued by a number of reliability issues, including engine, transmission, suspension, electrical, exterior, and interior problems. These issues can be expensive to repair, and they can significantly reduce the value of the vehicle. If you are considering purchasing a 2001 Land Rover Freelander, be sure to have it inspected by a qualified mechanic before you buy it.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

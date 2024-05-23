@@ -26,19 +26,6 @@ The 2017 Alfa Romeo Mito is a subcompact hatchback featuring a 1.4L turbocharged
         * **Estimated Cost to Fix:** $1,000 - $2,000+
         * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Rear Shock Absorber Leakage:** Leaking shock absorbers reduce suspension effectiveness, causing a rough ride and potential handling problems.
         * **Solution:** Shock absorber replacement
@@ -50,19 +37,6 @@ The 2017 Alfa Romeo Mito is a subcompact hatchback featuring a 1.4L turbocharged
         * **Solution:** BCM replacement
         * **Estimated Cost to Fix:** $500 - $1,200+
         * **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Door Handle Breakage:** Plastic door handles can break, making it difficult to open the doors.
@@ -78,15 +52,3 @@ The 2017 Alfa Romeo Mito is a subcompact hatchback featuring a 1.4L turbocharged
 
 **Summary:**
 While the Alfa Romeo Mito offers a stylish and sporty driving experience, it has faced some notable issues, particularly with its engine, transmission, and electrical components. While some issues are relatively minor and inexpensive to fix, others can be severe and costly. Potential owners should carefully consider the reliability concerns before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

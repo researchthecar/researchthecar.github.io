@@ -39,19 +39,6 @@ The 1990 Cadillac Allante was a luxury convertible powered by a single engine an
     * Estimated Cost to Fix: $300 - $600+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushings Deterioration:**
@@ -78,19 +65,6 @@ The 1990 Cadillac Allante was a luxury convertible powered by a single engine an
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlamp Lens Clouding:**
@@ -115,15 +89,3 @@ The 1990 Cadillac Allante was a luxury convertible powered by a single engine an
 **Summary**
 
 While the 1990 Cadillac Allante offered a luxurious driving experience, its reliability issues significantly dampened its desirability. The engine and transmission were prone to expensive failures, while the suspension and electrical systems required frequent maintenance. Interior issues, though less severe, added to the overall cost of ownership. The estimated repair costs for major issues ranged from $1,500 to $3,500+, making the Allante a risky investment for potential buyers.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

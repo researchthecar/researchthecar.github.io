@@ -26,19 +26,6 @@ Owners of the Vanquish generally praise its stunning design, powerful engine, an
 * **Shift solenoid failure:** Shift solenoids control the flow of transmission fluid into and out of the transmission's clutches. Failure of a shift solenoid can lead to harsh shifting, slipping gears, or no shifting at all. **Solution:** Replacement of the failed shift solenoid. **Estimated Cost to Fix:** $300 - $800+
 * **Torque converter failure:** The torque converter is a fluid coupling that connects the engine to the transmission. Failure of the torque converter can lead to a loss of power, slipping gears, or no movement at all. **Solution:** Replacement of the torque converter. **Estimated Cost to Fix:** $1,500 - $3,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension strut mount failure:** The front suspension strut mount is a bearing that allows the suspension strut to rotate. Failure of the strut mount can lead to a clunking noise, vibration, and reduced handling. **Solution:** Replacement of the strut mount. **Estimated Cost to Fix:** $500 - $1,000+
@@ -50,19 +37,6 @@ Owners of the Vanquish generally praise its stunning design, powerful engine, an
 * **Battery drain:** A battery drain can be caused by a variety of factors, such as a parasitic draw from the electrical system or a faulty battery. **Solution:** Diagnosis and repair of the underlying cause. **Estimated Cost to Fix:** $100 - $500+
 * **Alternator failure:** The alternator is responsible for recharging the battery. Failure of the alternator can lead to a dead battery, electrical problems, and a loss of power. **Solution:** Replacement of the alternator. **Estimated Cost to Fix:** $500 - $1,000+
 * **Starter failure:** The starter is responsible for starting the engine. Failure of the starter can prevent the engine from starting. **Solution:** Replacement of the starter. **Estimated Cost to Fix:** $500 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -79,15 +53,3 @@ Owners of the Vanquish generally praise its stunning design, powerful engine, an
 **Summary**
 
 The 2002 Aston Martin Vanquish is a high-performance grand tourer that offers stunning design, a powerful engine, and a luxurious interior. However, there are some potential issues that owners should be aware of, including engine VANOS system failures, transmission fluid leaks, and suspension strut mount failures. The severity and cost of these issues can vary, but owners should be prepared to spend a significant amount of money on repairs if necessary.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

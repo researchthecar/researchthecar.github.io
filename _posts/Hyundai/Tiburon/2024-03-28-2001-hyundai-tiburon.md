@@ -49,19 +49,6 @@ Owners of the 2001 Hyundai Tiburon generally praise its sporty handling, respons
     * Solution: Replace the leaking seals or gaskets.
     * Estimated Cost to Fix: $200 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Failure:** The strut mounts may fail, causing a clunking noise and reduced ride quality.
@@ -79,19 +66,6 @@ Owners of the 2001 Hyundai Tiburon generally praise its sporty handling, respons
 * **Alternator Failure:** The alternator may fail to charge the battery, leading to decreased electrical performance and potential stalling.
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $200 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -114,15 +88,3 @@ Owners of the 2001 Hyundai Tiburon generally praise its sporty handling, respons
 **Summary**
 
 Overall, the 2001 Hyundai Tiburon has received mixed reviews from owners. While its sporty handling and responsive steering are praised, it has been plagued by reliability issues, particularly with its engine and transmission. The cost to fix these issues can be significant, and some owners have reported experiencing multiple problems within a short period of time.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -41,19 +41,6 @@ The 2013 Chevrolet Aveo is a subcompact sedan that is available with two engine 
 * **Estimated Cost to Fix:** $1,500 - $2,500+
 * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -65,19 +52,6 @@ The 2013 Chevrolet Aveo is a subcompact sedan that is available with two engine 
 * **Solution:** Replace the alternator
 * **Estimated Cost to Fix:** $500 - $700
 * **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -98,15 +72,3 @@ The 2013 Chevrolet Aveo is a subcompact sedan that is available with two engine 
 **Summary**
 
 The 2013 Chevrolet Aveo is a generally reliable vehicle, but it is not without its issues. The most common problems are related to the engine and transmission, particularly the clutch and alternator. The exterior is also prone to rust, especially on the rocker panels. Overall, the severity of these issues is moderate, and the cost to repair them is generally affordable.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

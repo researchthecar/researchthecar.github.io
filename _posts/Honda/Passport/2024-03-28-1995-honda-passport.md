@@ -24,19 +24,6 @@ The 1995 Honda Passport is a mid-size SUV known for its rugged capabilities, spa
     * **Transmission Slipping:** May indicate worn clutches or torque converters. Repair involves transmission removal, disassembly, and replacement of affected components. Estimated Cost to Fix: $1500 - $3000+
 * **CV Axle Failure:** Occurs when the constant velocity joints wear out. Symptoms include clicking noises and vibrations during turns. Replacement requires removal of the CV axle and installation of a new one. Estimated Cost to Fix: $200 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Assembly Failure:** May cause clunking noises over bumps, uneven tire wear, or impaired handling. Replacement involves removing the strut assembly and installing a new unit. Estimated Cost to Fix: $600 - $1200+
@@ -48,19 +35,6 @@ The 1995 Honda Passport is a mid-size SUV known for its rugged capabilities, spa
 * **Alternator Failure:** May cause electrical system issues, dimming lights, or battery drain. Replacement requires removal of the alternator and installation of a new one. Estimated Cost to Fix: $500 - $800+
 * **Starter Failure:** Symptoms include difficulty starting or no response when turning the key. Replacement involves removing the starter and installing a new one. Estimated Cost to Fix: $300 - $600+
 * **Electrical Harness Problems:** Loose connections or shorts in the electrical harness can cause various electrical issues, such as flickering lights, intermittent power loss, or component malfunctions. Diagnosis and repair may involve tracing and repairing faulty wiring. Estimated Cost to Fix: $200 - $1000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -76,15 +50,3 @@ The 1995 Honda Passport is a mid-size SUV known for its rugged capabilities, spa
 **Summary:**
 
 The 1995 Honda Passport is a generally reliable vehicle; however, like any used car, it has its share of issues to watch out for. Engine and transmission problems are relatively common and can be expensive to repair. However, most of the other issues are relatively minor and affordable to fix. Overall, the Passport is a capable SUV that can provide years of reliable service with proper maintenance and repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

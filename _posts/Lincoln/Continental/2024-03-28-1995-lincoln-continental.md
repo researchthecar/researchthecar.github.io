@@ -57,15 +57,3 @@ Despite its luxurious interior and smooth ride, the 1995 Lincoln Continental has
 ### Summary
 
 Overall, the 1995 Lincoln Continental is a comfortable and powerful luxury sedan. However, potential buyers should be aware of the various issues reported with the engine, transmission, suspension, and electrical systems. The severity and cost of these issues can vary, so it is important to have the vehicle inspected by a qualified mechanic before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

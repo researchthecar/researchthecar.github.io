@@ -42,19 +42,6 @@ The 1993 Cadillac Allante is a luxurious convertible that offers a blend of styl
     * Estimated Cost to Fix: $2000 - $4000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushing Failure**
@@ -80,19 +67,6 @@ The 1993 Cadillac Allante is a luxurious convertible that offers a blend of styl
     * Solution: Replace headlight switch
     * Estimated Cost to Fix: $100 - $200
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -123,15 +97,3 @@ The 1993 Cadillac Allante is a luxurious convertible that offers a blend of styl
 **Summary**
 
 The 1993 Cadillac Allante is a luxurious and stylish convertible that offers impressive performance. However, it is not without its fair share of issues. Engine problems, such as intake manifold gasket leaks and timing chain tensioner failures, are among the most common and can be costly to repair. The transmission and suspension also have known problems that can lead to poor handling and decreased reliability. Electrical and interior issues are less severe but can still be frustrating for owners. Overall, the 1993 Cadillac Allante is a vehicle that requires careful maintenance and attention to avoid potential problems, and the cost of repairs can be significant.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

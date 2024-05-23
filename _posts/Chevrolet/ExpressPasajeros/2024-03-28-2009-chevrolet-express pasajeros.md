@@ -69,19 +69,6 @@ The 2009 Chevrolet Express Passenger van is a full-size van that is available in
         * Estimated Cost to Fix: $500 - $700+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension:** The front suspension can wear out prematurely, causing the vehicle to handle poorly and ride rough.
@@ -108,19 +95,6 @@ The 2009 Chevrolet Express Passenger van is a full-size van that is available in
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door locks:** The door locks can fail, causing the doors to not open or close properly.
@@ -146,15 +120,3 @@ The 2009 Chevrolet Express Passenger van is a full-size van that is available in
 **Summary**
 
 The 2009 Chevrolet Express Passenger is a capable van with a comfortable interior and powerful engines. However, it has been plagued by a number of issues, including engine, transmission, suspension, electrical, and interior problems. Many of these issues can be expensive to fix, and they can significantly impact the reliability of the vehicle. As a result, potential buyers should carefully consider the potential costs of ownership before purchasing a 2009 Chevrolet Express Passenger.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

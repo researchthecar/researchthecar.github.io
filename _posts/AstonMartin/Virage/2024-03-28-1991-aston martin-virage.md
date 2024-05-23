@@ -43,19 +43,6 @@ The 1991 Aston Martin Virage is a luxurious grand tourer powered by a 5.3-liter 
 * **Estimated Cost to Fix:** $2,500 - $5,000+
 * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -67,19 +54,6 @@ The 1991 Aston Martin Virage is a luxurious grand tourer powered by a 5.3-liter 
 * **Solution:** Diagnosis and repair of faulty electrical components, including alternator or parasitic drain.
 * **Estimated Cost to Fix:** $500 - $1,500+
 * **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -106,15 +80,3 @@ The 1991 Aston Martin Virage is a luxurious grand tourer powered by a 5.3-liter 
 **Summary**
 
 Overall, the 1991 Aston Martin Virage is a desirable classic car with strong performance and luxurious appointments. However, it is not without its potential issues, which are primarily related to the engine, transmission, electrical system, and interior components. The severity and cost of these issues can vary, but it is important for owners to be aware of them and allocate sufficient funds for maintenance and repairs if necessary.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

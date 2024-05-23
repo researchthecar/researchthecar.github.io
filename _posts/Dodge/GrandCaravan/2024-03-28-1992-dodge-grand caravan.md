@@ -20,19 +20,6 @@ People like the Grand Caravan for its comfortable ride, roomy interior, and affo
 
 - **4-Speed Automatic Transmission (A604):** Description/Symptoms: The transmission may slip or shudder during gear changes, especially when shifting from 1st to 2nd gear. Solution: The transmission may need to be repaired or replaced. Estimated Cost to Fix: $1,500 - $3,000 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Control Arm Bushings:** Description/Symptoms: The control arm bushings may wear out, causing the front end of the vehicle to shake or vibrate. Solution: The control arm bushings will need to be replaced. Estimated Cost to Fix: $300 - $600 Recalls: None Found
@@ -40,19 +27,6 @@ People like the Grand Caravan for its comfortable ride, roomy interior, and affo
 **Electrical**
 
 - **Battery Drain:** Description/Symptoms: The battery may drain prematurely, even when the vehicle is not in use. Solution: The source of the battery drain will need to be identified and repaired. Estimated Cost to Fix: $100 - $500 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -65,15 +39,3 @@ People like the Grand Caravan for its comfortable ride, roomy interior, and affo
 **Summary**
 
 The 1992 Dodge Grand Caravan is a spacious and affordable minivan that has been known to have a number of issues, including excessive oil consumption, timing chain failure, and transmission problems. The severity and cost of the issues can vary depending on the specific problem and the condition of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

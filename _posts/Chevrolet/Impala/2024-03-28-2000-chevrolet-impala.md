@@ -55,19 +55,6 @@ Consumers like the Impala for its spacious interior, comfortable ride, and power
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Failure:**
@@ -96,19 +83,6 @@ Consumers like the Impala for its spacious interior, comfortable ride, and power
     * Estimated Cost to Fix: Varies depending on the cause
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door Handle Failure:**
@@ -134,15 +108,3 @@ Consumers like the Impala for its spacious interior, comfortable ride, and power
 **Summary:**
 
 The 2000 Chevrolet Impala is a vehicle with a spacious interior and comfortable ride, but it is not without its issues. Engine problems, such as intake manifold gasket failure and timing chain failure, are among the most common and expensive repairs. Transmission problems, like slipping gears and clutch issues, can also be costly to fix. Suspension components, such as struts and sway bar links, may also need to be replaced over time. Additionally, electrical problems, such as power window failure and battery drain, can be frustrating to deal with. Interior issues, such as air bag malfunctions and cruise control failure, are also worth noting. The severity and cost of these issues can vary depending on the specific problem and the mechanic performing the repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -46,19 +46,6 @@ Despite its iconic status, the Diablo has faced its fair share of issues over th
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushings Failure:**
@@ -84,19 +71,6 @@ Despite its iconic status, the Diablo has faced its fair share of issues over th
     * Solution: Replacement of headlight switch.
     * Estimated Cost to Fix: $300 - $600+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -129,15 +103,3 @@ Despite its iconic status, the Diablo has faced its fair share of issues over th
 While the Lamborghini Diablo is a captivating sports car, it is not without its flaws. Engine issues can be severe and costly to repair, particularly valve guide wear and timing belt tensioner failures. The transmission and suspension also have their fair share of problems, including synchronizer wear and control arm bushing failures. Electrical issues and poor door fitment are additional concerns. Intermittent issues with dashboard switch failures and air vent deflectors, while less severe, can still be annoying.
 
 Overall, the frequency and severity of the issues on the Diablo can be concerning for some owners, but the vehicle's iconic status and thrilling driving experience may outweigh the potential challenges for enthusiasts.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

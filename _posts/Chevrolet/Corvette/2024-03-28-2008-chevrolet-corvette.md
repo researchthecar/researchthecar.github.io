@@ -50,19 +50,6 @@ The 2008 Chevrolet Corvette is a legendary sports car known for its sleek design
         * Estimated Cost to Fix: $300 - $600
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -79,19 +66,6 @@ The 2008 Chevrolet Corvette is a legendary sports car known for its sleek design
     * Solution: Finding and fixing any electrical drain, such as a faulty module or parasitic draw, is crucial.
     * Estimated Cost to Fix: $200 - $800
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -117,15 +91,3 @@ The 2008 Chevrolet Corvette is a legendary sports car known for its sleek design
 **Summary**
 
 While the 2008 Chevrolet Corvette is a highly regarded sports car, it has faced some notable issues. The engine, transmission, and electrical components have been the primary sources of problems. Engine issues such as knocking noises and oil consumption can lead to significant repairs, while transmission shifting delays can affect driving comfort. Electrical problems, such as headlight switch failure and battery draining, add to the list of concerns. The weak door handles and cracked dashboard are common interior and exterior issues. Despite these issues, the Corvette remains a popular and sought-after vehicle for its performance and iconic status.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

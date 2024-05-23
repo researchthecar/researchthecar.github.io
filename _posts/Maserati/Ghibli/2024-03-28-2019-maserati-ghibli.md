@@ -39,19 +39,6 @@ The 2019 Maserati Ghibli is a mid-size luxury sedan renowned for its sleek desig
     * Estimated Cost to Fix: $2000 - $3000+
     * Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushing Wear:**
@@ -78,19 +65,6 @@ The 2019 Maserati Ghibli is a mid-size luxury sedan renowned for its sleek desig
     * Estimated Cost to Fix: $1000 - $1500+
     * Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight Lens Cracking:**
@@ -115,15 +89,3 @@ The 2019 Maserati Ghibli is a mid-size luxury sedan renowned for its sleek desig
 **Summary**
 
 The 2019 Maserati Ghibli is a desirable vehicle that can provide an enjoyable driving experience. However, potential buyers should be aware of the various issues that have been reported by owners, ranging from minor annoyances to more costly repairs. The severity of the issues varies, and the cost of repairs can be significant. Therefore, it is important to factor these potential expenses into the overall cost of ownership and consider extended warranty options for peace of mind.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

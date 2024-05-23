@@ -41,19 +41,6 @@ The 2001 Ford Econoline is a versatile full-size van available in multiple confi
     - Solution: Adjust or replace clutch components.
     - Estimated Cost to Fix: $150 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -69,19 +56,6 @@ The 2001 Ford Econoline is a versatile full-size van available in multiple confi
 - **Headlight Malfunction:** Failed headlight switch or wiring can cause headlights to malfunction or flicker.
     - Solution: Replace switch or repair wiring.
     - Estimated Cost to Fix: $100 - $400+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -107,15 +81,3 @@ The 2001 Ford Econoline is a versatile full-size van available in multiple confi
 **Conclusion**
 
 The 2001 Ford Econoline is a generally reliable vehicle, although it has some common issues. Transmission problems are the most significant and expensive to repair, while interior and exterior concerns are typically less severe and costly. Overall, the Econoline offers a practical and spacious option for various transportation needs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -54,19 +54,6 @@ Owners generally appreciate the Murcielago's aggressive styling, impressive acce
     * Estimated Cost to Fix: $500 - $800
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushing Wear**
@@ -93,19 +80,6 @@ Owners generally appreciate the Murcielago's aggressive styling, impressive acce
     * Estimated Cost to Fix: $300 - $600
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door Handle Mechanism Failure**
@@ -130,15 +104,3 @@ Owners generally appreciate the Murcielago's aggressive styling, impressive acce
 **Summary**
 
 While the 2008 Lamborghini Murcielago offers exhilarating performance and iconic styling, it has some reliability concerns that can be costly to fix. Engine and transmission issues, such as rear main seal leaks and synchronizer failures, are not uncommon. Owners may also encounter problems with the suspension, electrical system, and interior components. The severity and cost of these issues can vary depending on the specific part and extent of the failure. Regular maintenance and attention to potential problems are essential to ensure the longevity and enjoyment of this high-performance vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

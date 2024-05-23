@@ -34,19 +34,6 @@ The 2023 Audi A5 Sportback is a sleek and stylish hatchback that combines sporty
     * Estimated Cost to Fix: $2,500 - $3,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Arm Bushing Issues:** The front suspension arm bushings may become worn or damaged, resulting in clunking or rattling noises while driving.
@@ -60,19 +47,6 @@ The 2023 Audi A5 Sportback is a sleek and stylish hatchback that combines sporty
     * Solution: Diagnose and repair the source of the battery drain, which may include faulty modules or electrical components.
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -95,15 +69,3 @@ The 2023 Audi A5 Sportback is a sleek and stylish hatchback that combines sporty
 **Summary**
 
 The 2023 Audi A5 Sportback offers a combination of performance, style, and luxury, but it has been reported to have some issues with certain components. While some of these issues are relatively minor and affordable to fix, others can be more severe and costly. It is important for potential buyers to be aware of these potential problems and to factor them into their decision-making process.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

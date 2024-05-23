@@ -23,19 +23,6 @@ The 1991 Buick Roadmaster is a full-size sedan that was powered by a 5.7L V8 eng
     * **Transmission slipping:** The transmission may slip or hesitate during gear changes. Solution: Replace or rebuild the transmission. Estimated Cost to Fix: $1,500 - $3,000+
     * **Torque converter failure:** The torque converter can fail, causing shuddering, slipping, or a loss of power. Solution: Replace the torque converter. Estimated Cost to Fix: $500 - $1,200+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut failure:** The struts can fail, causing a harsh ride, poor handling, and uneven tire wear. Solution: Replace the struts. Estimated Cost to Fix: $500 - $1,000+ per axle
@@ -47,19 +34,6 @@ The 1991 Buick Roadmaster is a full-size sedan that was powered by a 5.7L V8 eng
 * **Alternator failure:** The alternator can fail, causing electrical problems and a dead battery. Solution: Replace the alternator. Estimated Cost to Fix: $300 - $600+
 * **Starter failure:** The starter can fail, preventing the engine from starting. Solution: Replace the starter. Estimated Cost to Fix: $200 - $500+
 * **Battery failure:** The battery can fail, leaving the vehicle stranded. Solution: Replace the battery. Estimated Cost to Fix: $100 - $250+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -75,15 +49,3 @@ The 1991 Buick Roadmaster is a full-size sedan that was powered by a 5.7L V8 eng
 **Summary:**
 
 The 1991 Buick Roadmaster had a number of potential issues, particularly with its engine, transmission, and suspension. The severity and cost of these issues could vary widely depending on the specific problem. Regular maintenance and timely repairs are essential to keep the Roadmaster running smoothly and avoid costly repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

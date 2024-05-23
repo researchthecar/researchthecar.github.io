@@ -88,15 +88,3 @@ The Malibu is praised for its spacious interior, comfortable ride, and intuitive
 The 2019 Chevrolet Malibu exhibits several issues across various components, with the engine and transmission being the most problematic. Engine issues, such as oil consumption and timing chain failure, can be expensive to repair. Transmission slipping and shuddering can also lead to significant repair costs. Other issues, like strut mount failure and HVAC malfunctions, are less severe but still require attention.
 
 Overall, the reliability of the 2019 Chevrolet Malibu is below average due to the frequency and cost of these issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -24,19 +24,6 @@ The 1993 Chrysler New Yorker is a full-size luxury sedan that offers a comfortab
     * **Slipping gears:** Symptoms include difficulty shifting gears, delayed engagement, and gear slippage. Solution: Replace or repair the transmission. Estimated Cost to Fix: $1,500 - $3,000.
     * **Transmission fluid leak:** Symptoms include a drop in transmission fluid levels, slipping gears, and difficulty shifting. Solution: Replace the leaking component (seal, line, or pan). Estimated Cost to Fix: $200 - $500.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut spring failure:** Symptoms include excessive suspension noise, decreased handling, and uneven tire wear. Solution: Replace the strut springs. Estimated Cost to Fix: $500 - $1,000.
@@ -46,19 +33,6 @@ The 1993 Chrysler New Yorker is a full-size luxury sedan that offers a comfortab
 
 * **Alternator failure:** Symptoms include dim or flickering headlights, dead battery, and electrical system malfunctions. Solution: Replace the alternator. Estimated Cost to Fix: $500 - $1,000.
 * **Starter failure:** Symptoms include difficulty starting the engine, clicking noise from the starter, and no engine crank. Solution: Replace the starter. Estimated Cost to Fix: $300 - $600.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -72,15 +46,3 @@ The 1993 Chrysler New Yorker is a full-size luxury sedan that offers a comfortab
 **Summary**
 
 The 1993 Chrysler New Yorker has a number of potential issues, ranging from engine and transmission failures to suspension and electrical problems. The severity of these issues varies, but some can be expensive to repair. Overall, the New Yorker is a well-liked vehicle thanks to its comfortable ride and powerful engines, but its reliability issues should be taken into consideration before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

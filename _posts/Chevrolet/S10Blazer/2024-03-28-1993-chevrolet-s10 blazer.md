@@ -96,19 +96,6 @@ The 1993 Chevrolet S10 Blazer is a compact SUV known for its ruggedness and off-
     - Estimated Cost to Fix: $300-$500+
     - Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Front Control Arms**
@@ -145,19 +132,6 @@ The 1993 Chevrolet S10 Blazer is a compact SUV known for its ruggedness and off-
     - Estimated Cost to Fix: $50-$100
     - Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 - **Rust**
@@ -182,15 +156,3 @@ The 1993 Chevrolet S10 Blazer is a compact SUV known for its ruggedness and off-
 **Summary**
 
 The 1993 Chevrolet S10 Blazer is generally a reliable and capable vehicle, but it does have some known issues. The most common problems include engine leaks, transmission slipping, and electrical failures. The severity and cost of these issues can vary depending on the specific issue and the extent of damage. Regular maintenance, preventive measures, and timely repairs can help extend the lifespan of the vehicle and minimize the risk of major problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

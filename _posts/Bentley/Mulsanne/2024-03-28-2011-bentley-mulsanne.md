@@ -31,19 +31,6 @@ The 2011 Bentley Mulsanne is the pinnacle of British luxury and craftsmanship. P
   * **Overheating:** The 6-speed transmission can overheat during heavy use or towing, leading to premature wear and failure. Symptoms include transmission slipping, delayed shifting, and a burning smell. Solution involves replacing the transmission cooler or modifying the cooling system. **Estimated Cost to Fix:** $1,500 - $3,000
   * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension:**
@@ -58,19 +45,6 @@ The 2011 Bentley Mulsanne is the pinnacle of British luxury and craftsmanship. P
 * **Battery Discharge:** A parasitic draw on the battery can cause it to discharge prematurely, leading to starting issues. Symptoms include a dead battery after a period of non-use, dim headlights, and flickering interior lights. Solution involves tracing the parasitic draw and repairing the fault. **Estimated Cost to Fix:** $200 - $1,000
 * **Electrical System Failure:** Failure of the electrical system, such as a faulty alternator or wiring harness, can cause various electrical problems, including loss of power, malfunctioning components, and battery charging issues. Symptoms vary depending on the specific fault. Solution involves diagnosing and repairing the faulty component. **Estimated Cost to Fix:** $500 - $3,000
 * **No Issues Found**
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -91,15 +65,3 @@ The 2011 Bentley Mulsanne is the pinnacle of British luxury and craftsmanship. P
 **Summary**
 
 The 2011 Bentley Mulsanne is a luxurious and high-performance vehicle, but it has received mixed reviews from owners and critics alike. While known for its opulence and craftsmanship, it has also been plagued by various issues, including engine failures, transmission problems, electrical malfunctions, and interior defects. The severity of these issues can vary, but some can be costly to repair, especially in the case of engine or transmission problems. It is important for potential buyers to be aware of these potential issues before making a purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

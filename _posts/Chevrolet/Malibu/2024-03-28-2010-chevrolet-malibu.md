@@ -46,19 +46,6 @@ Owners of the 2010 Chevrolet Malibu have reported a number of issues with their 
         * Estimated Cost to Fix: $1000 - $1500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Struts**
@@ -84,19 +71,6 @@ Owners of the 2010 Chevrolet Malibu have reported a number of issues with their 
     * Estimated Cost to Fix: $500 - $1000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door Handle Failure**
@@ -108,15 +82,3 @@ Owners of the 2010 Chevrolet Malibu have reported a number of issues with their 
 **Summary**
 
 The 2010 Chevrolet Malibu is a reliable vehicle, but it does have some common issues. The most serious issues are related to the engine and transmission, which can be costly to repair. Other issues, such as those related to the suspension, electrical system, and interior, are less severe and less expensive to fix. Overall, the Malibu is a good choice for drivers who are looking for a comfortable and spacious mid-size sedan.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

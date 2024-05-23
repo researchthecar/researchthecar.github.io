@@ -104,15 +104,3 @@ People like the Traverse for its spacious interior, comfortable ride, and powerf
 ### Summary
 
 The 2010 Chevrolet Traverse has a variety of issues that can affect different parts of the vehicle. Some, such as the oil consumption and timing chain failure on the 3.6L V6 engine, can be quite severe and expensive to fix. Others, like the roof rack noise or seat belt buckle sticking, are less serious and relatively inexpensive to address. Overall, the Traverse's reliability is below average and potential buyers should be aware of the potential issues before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -53,19 +53,6 @@ The 2021 Cadillac Escalade ESV is a full-size luxury SUV manufactured by Cadilla
 
 - **Leaking fluid:** Drips or puddles of fluid under vehicle. **Solution:** Replace transmission pan gasket or other components. **Estimated Cost to Fix:** $500 - $1,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Strut or shock failure:** Noise, vibration, loss of ride comfort. **Solution:** Replace struts or shocks. **Estimated Cost to Fix:** $1,000 - $1,500+ per axle
@@ -81,19 +68,6 @@ The 2021 Cadillac Escalade ESV is a full-size luxury SUV manufactured by Cadilla
 - **Alternator failure:** Dim lights, electrical problems. **Solution:** Replace alternator. **Estimated Cost to Fix:** $500 - $1,000+
 
 - **Infotainment system glitches:** Touchscreen freezing, audio issues. **Solution:** Software updates or module replacement. **Estimated Cost to Fix:** $500 - $1,500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -114,15 +88,3 @@ The 2021 Cadillac Escalade ESV is a full-size luxury SUV manufactured by Cadilla
 **Summary**
 
 The 2021 Cadillac Escalade ESV has received mixed reviews from owners and critics. Some common complaints include engine and transmission issues, suspension problems, and electrical glitches. The severity and cost of these issues can vary depending on the specific problem and the engine/transmission option. While some issues can be minor and easily resolved, others can be more serious and expensive to repair. Before purchasing a 2021 Cadillac Escalade ESV, it is important to do thorough research and consider the potential risks and costs associated with these reported issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

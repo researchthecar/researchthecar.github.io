@@ -49,19 +49,6 @@ Owners generally appreciate the Suburban's towing and off-road abilities, but so
 * **Input Shaft Bearing Failure:** Symptoms include grinding noises, vibration, and loss of power. Solution: Replace the input shaft bearing. **Estimated Cost to Fix:** $800 - $1,500+
 * **Output Shaft Seal Leakage:** Symptoms include fluid leaks from the transmission pan. Solution: Replace the output shaft seal. **Estimated Cost to Fix:** $200 - $400+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Wear and Tear:** Symptoms include excessive bouncing, poor handling, and tire wear. Solution: Replace worn suspension components, such as struts, shocks, and ball joints. **Estimated Cost to Fix:** $400 - $1,000+
@@ -72,19 +59,6 @@ Owners generally appreciate the Suburban's towing and off-road abilities, but so
 * **Headlight Switch Failure:** Symptoms include flickering headlights, inoperable headlights, or headlights that stay on even when the switch is off. Solution: Replace the headlight switch. **Estimated Cost to Fix:** $100 - $250+
 * **Alternator Failure:** Symptoms include a dead battery, dimming lights, and a growling or whining noise from the alternator. Solution: Replace the alternator. **Estimated Cost to Fix:** $300 - $600+
 * **Battery Failure:** Symptoms include a slow or no start, flickering lights, and premature battery discharge. Solution: Replace the battery. **Estimated Cost to Fix:** $100 - $300+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -100,15 +74,3 @@ Owners generally appreciate the Suburban's towing and off-road abilities, but so
 **Summary:**
 
 Overall, the 1998 Chevrolet K2500 Suburban is a capable and reliable vehicle; however, it is not without its issues. Some of the common problems include engine intake manifold gasket failure, transmission slippage, suspension wear and tear, and electrical malfunctions. The severity and cost of repairs can vary depending on the issue and the extent of the damage. Owners should be aware of these potential problems and maintain their vehicles regularly to avoid costly repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

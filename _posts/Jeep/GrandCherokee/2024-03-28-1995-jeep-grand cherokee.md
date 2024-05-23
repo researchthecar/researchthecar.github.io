@@ -74,19 +74,6 @@ Known for its ruggedness and reliability, the Grand Cherokee has received positi
     * Estimated Cost to Fix: $500 - $700
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension coil spring failure:**
@@ -112,19 +99,6 @@ Known for its ruggedness and reliability, the Grand Cherokee has received positi
     * Solution: Replace starter motor
     * Estimated Cost to Fix: $200 - $400
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -155,15 +129,3 @@ Known for its ruggedness and reliability, the Grand Cherokee has received positi
 **Summary**
 
 While the 1995 Jeep Grand Cherokee is generally a reliable vehicle, it has several common issues that owners should be aware of. The most severe and expensive issue is valve seat recession in the 4.0L inline-6 engine, which can require a major engine rebuild or replacement. Other costly repairs can include transmission rebuilds or replacements, and suspension component failures. However, many of the other issues, such as electrical problems, exterior latch failures, and interior trim issues, are relatively minor and inexpensive to fix.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

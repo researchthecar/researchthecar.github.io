@@ -15,19 +15,6 @@ The 2018 Chevrolet Beat is a compact five-door hatchback that offers a balance o
 **Transmission**
 * 5-Speed Manual
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Front Suspension Strut Mount Failure:**
     * Description/Symptoms: Noise and vibration during turns or braking, especially on uneven roads.
@@ -51,19 +38,6 @@ The 2018 Chevrolet Beat is a compact five-door hatchback that offers a balance o
     * Solution: Diagnose the electrical system for parasitic drain and repair any faulty components.
     * Estimated Cost to Fix: Varies depending on the cause
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Rust on Undercarriage:**
@@ -92,15 +66,3 @@ The 2018 Chevrolet Beat is a compact five-door hatchback that offers a balance o
 **Summary**
 
 Overall, the 2018 Chevrolet Beat is a reliable and affordable compact hatchback, but it is not without its issues. The suspension and electrical problems are the most common, but they are not widespread and typically inexpensive to fix. The interior and exterior issues are less severe and mostly cosmetic.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

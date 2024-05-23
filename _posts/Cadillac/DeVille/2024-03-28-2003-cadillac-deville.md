@@ -45,19 +45,6 @@ The 2003 Cadillac DeVille is a full-size luxury sedan that offers a smooth and c
      * Estimated Cost to Fix: $200 - $800+
      * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Control Arm Bushings Failure:**
    * Description/Symptoms: Squeaking or grinding noise from the suspension, poor handling
@@ -81,19 +68,6 @@ The 2003 Cadillac DeVille is a full-size luxury sedan that offers a smooth and c
    * Solution: Replace battery
    * Estimated Cost to Fix: $100 - $200
      * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Headlight Condensation:**
@@ -121,15 +95,3 @@ The 2003 Cadillac DeVille is a full-size luxury sedan that offers a smooth and c
 
 **Summary**
 Overall, the 2003 Cadillac DeVille is a reliable vehicle with a comfortable ride and luxurious interior. However, it has some common issues that can be costly to repair, such as intake manifold gasket failure and power window failure. The severity of the issues and the cost of repairs vary depending on the specific problem and the extent of the damage. It is important to note that these are just some of the most common issues and not every DeVille will experience all of these problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

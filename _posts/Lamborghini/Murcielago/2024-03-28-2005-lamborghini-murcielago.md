@@ -22,19 +22,6 @@ The 2005 Lamborghini Murciélago is a mid-engine sports car manufactured by Lamb
 
 * **Shifting Difficulties:** Symptoms include difficulty shifting gears, grinding noises, and popping out of gear. The issue can be caused by worn-out synchros, faulty shift linkage, or a damaged transmission. Solution: Replace the faulty components. Estimated Cost to Fix: $1,500 - $3,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -44,19 +31,6 @@ The 2005 Lamborghini Murciélago is a mid-engine sports car manufactured by Lamb
 * **Electrical System Failure:** Symptoms include intermittent electrical problems, flickering lights, and dead batteries. The issue can be caused by a faulty battery, alternator, or electrical wiring. Solution: Replace the faulty component. Estimated Cost to Fix: $500 - $1,500
 * **Brake Light Switch Failure:** Symptoms include non-functioning brake lights and a warning light on the dashboard. The issue is caused by a faulty brake light switch. Solution: Replace the brake light switch. Estimated Cost to Fix: $200 - $400
 * **Recalls:** NHTSA Recall No. 05V177000: Airbag Sensor Malfunction
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -71,15 +45,3 @@ The 2005 Lamborghini Murciélago is a mid-engine sports car manufactured by Lamb
 **Summary**
 
 The 2005 Lamborghini Murciélago is a high-performance sports car with impressive capabilities. However, it is also prone to certain reliability issues, particularly with its engine, transmission, and electrical system. The cost of repairs can be significant, and owners should be prepared for potentially high maintenance costs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -36,19 +36,6 @@ While the M850i is generally well-received for its thrilling performance and opu
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -65,19 +52,6 @@ While the M850i is generally well-received for its thrilling performance and opu
     * Solution: Software updates or hardware replacement.
     * Estimated Cost to Fix: $300 - $1,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -103,15 +77,3 @@ While the M850i is generally well-received for its thrilling performance and opu
 **Summary**
 
 While the 2020 BMW M850i xDrive Gran Coupe offers an exhilarating driving experience and luxurious features, it has been associated with some issues that owners and reviewers have reported. Engine and transmission concerns involve potential coolant leaks, turbocharger failure, and premature clutch wear. Electrical issues include battery drain and occasional infotainment malfunctions. The exterior has experienced headlight condensation, while the interior has been plagued by rattling trim panels and sunshade problems. The severity and cost of these issues can vary depending on the specific issue and its underlying cause.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

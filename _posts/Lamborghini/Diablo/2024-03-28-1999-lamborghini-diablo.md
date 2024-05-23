@@ -43,19 +43,6 @@ Solution: Replace damaged synchronizers
 Estimated Cost to Fix: $1000 - $2000+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Shock Absorber Failure**
@@ -78,19 +65,6 @@ Solution: Replace alternator
 Estimated Cost to Fix: $500 - $1000+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rear Spoiler Mechanism Failure**
@@ -110,15 +84,3 @@ Recalls: None Found
 **Summary**
 
 The 1999 Lamborghini Diablo is a powerful and desirable sports car, but it is not without its issues. Some of the most common problems include valve stem seal failure, intake manifold gasket failure, connecting rod bearing failure, synchromesh failure, shock absorber failure, headlight switch failure, alternator failure, rear spoiler mechanism failure, and dashboard pixelation. The severity and cost of these issues can vary widely, so it is important to have the vehicle inspected by a qualified mechanic before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -45,19 +45,6 @@ Drivers and critics alike have praised the BMW 640i xDrive Gran Coupe for its st
         * **Estimated Cost to Fix:** $1,000 - $1,800+
         * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -74,19 +61,6 @@ Drivers and critics alike have praised the BMW 640i xDrive Gran Coupe for its st
     * **Solution:** Replace faulty headlight ballast or bulb
     * **Estimated Cost to Fix:** $200 - $500
     * **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -108,15 +82,3 @@ Drivers and critics alike have praised the BMW 640i xDrive Gran Coupe for its st
 **Summary**
 
 The 2015 BMW 640i xDrive Gran Coupe is generally a reliable and well-regarded vehicle. However, it has been reported to have some potential issues, particularly with the engine, transmission, and electrical system. These issues vary in severity and cost to fix, but many can be resolved through software updates or repairs by a qualified mechanic. It is important to research the specific issues and their potential solutions before purchasing or owning this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -40,19 +40,6 @@ The 2008 Chevrolet Aveo is a subcompact sedan that offers a budget-friendly opti
     * Solution: Repair or rebuild transmission.
     * Estimated Cost to Fix: $1,500 - $3,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Mount Failure:** Worn or damaged front strut mounts can cause clunking or rattling noises over bumps.
@@ -73,19 +60,6 @@ The 2008 Chevrolet Aveo is a subcompact sedan that offers a budget-friendly opti
 * **Battery Drain:** Electrical components such as a faulty ignition switch or parasitic drain can drain the battery.
     * Solution: Identify and repair source of battery drain.
     * Estimated Cost to Fix: Varies depending on the source of the drain
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -111,15 +85,3 @@ The 2008 Chevrolet Aveo is a subcompact sedan that offers a budget-friendly opti
 **Summary:**
 
 The 2008 Chevrolet Aveo is a budget-friendly subcompact car with known issues in areas such as engine oil consumption, transmission slippage, suspension noise, and electrical component failures. While some repairs may be relatively inexpensive, more severe issues like engine damage or transmission failure can be costly. If considering purchasing an Aveo, it is recommended to factor in the potential for repairs and maintenance expenses.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

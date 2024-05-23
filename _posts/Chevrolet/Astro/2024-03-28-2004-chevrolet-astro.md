@@ -53,19 +53,6 @@ The 2004 Chevrolet Astro is a full-size van offered with two engine options: a 4
   * Solution: Replace clutch
   * Estimated Cost to Fix: $500 - $700+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Strut Failure**
@@ -83,19 +70,6 @@ The 2004 Chevrolet Astro is a full-size van offered with two engine options: a 4
   * Description/Symptoms: Engine cranks slowly or not at all
   * Solution: Replace starter
   * Estimated Cost to Fix: $200 - $400+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -125,15 +99,3 @@ The 2004 Chevrolet Astro is a full-size van offered with two engine options: a 4
 **Summary**
 
 The 2004 Chevrolet Astro is a versatile vehicle with a spacious interior and strong towing capacity. However, it does experience a number of issues, including engine problems, transmission issues, and electrical failures. The severity and cost of these issues can vary, but some can be quite expensive to repair. Overall, the 2004 Astro is a solid choice for those who need a capable van, but potential buyers should be aware of the potential issues associated with the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

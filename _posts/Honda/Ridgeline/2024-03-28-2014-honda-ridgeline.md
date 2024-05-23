@@ -28,19 +28,6 @@ The 2014 Honda Ridgeline is a midsize pickup truck that offers a blend of practi
         * Estimated Cost to Fix: $2,000 - $4,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -57,19 +44,6 @@ The 2014 Honda Ridgeline is a midsize pickup truck that offers a blend of practi
         * Solution: Inspecting and repairing or replacing wiring harness.
         * Estimated Cost to Fix: $200 - $500+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -94,15 +68,3 @@ The 2014 Honda Ridgeline is a midsize pickup truck that offers a blend of practi
 
 **Summary**
 The 2014 Honda Ridgeline is a generally reliable vehicle, but it has been reported to experience some issues. The most common problems include intake valve carbon buildup, alternator failure, and tailgate latch issues. The severity and cost of these issues can vary depending on the extent of the problem. However, it is important to address any issues promptly to prevent further damage or inconvenience.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

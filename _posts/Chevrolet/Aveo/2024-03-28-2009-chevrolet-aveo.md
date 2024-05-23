@@ -47,19 +47,6 @@ The 2009 Chevrolet Aveo is a subcompact car that offers two engine options: a 1.
 * Estimated Cost to Fix: $300 - $500
 * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Front Struts Malfunction:**
@@ -76,19 +63,6 @@ The 2009 Chevrolet Aveo is a subcompact car that offers two engine options: a 1.
 * Estimated Cost to Fix: $200 - $300
 * Recalls: 09V524000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 **No Issues Found**
@@ -104,15 +78,3 @@ The 2009 Chevrolet Aveo is a subcompact car that offers two engine options: a 1.
 **Summary:**
 
 The 2009 Chevrolet Aveo has some common issues, including valve cover gasket leaks, cam phaser failure, clutch wear, transmission fluid leaks, front strut malfunctions, ignition coil failure, and heater core malfunctions. The severity of these issues varies, and the cost to fix them can range from $200 to $1,500+. However, the Aveo is still a relatively affordable and fuel-efficient vehicle, which makes it a good option for those on a budget.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

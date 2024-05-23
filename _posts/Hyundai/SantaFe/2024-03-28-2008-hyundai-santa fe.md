@@ -54,19 +54,6 @@ The 2008 Hyundai Santa Fe is a mid-size SUV available with various engine and tr
     * Estimated Cost to Fix: $200 - $500
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mounts:**
@@ -82,19 +69,6 @@ The 2008 Hyundai Santa Fe is a mid-size SUV available with various engine and tr
     * Solution: Check for parasitic draw and replace faulty components
     * Estimated Cost to Fix: $100 - $300
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -115,15 +89,3 @@ The 2008 Hyundai Santa Fe is a mid-size SUV available with various engine and tr
 **Summary:**
 
 The 2008 Hyundai Santa Fe has had some reported issues, primarily with its engine (intake manifold gasket failure and timing chain tensioner failure), transmission (slipping gears), suspension (worn strut mounts), and electrical (battery drain). Some owners have also experienced sunroof leaks and door latch failures. The severity of these issues can range from minor annoyances to more significant problems that may require costly repairs. However, it's important to note that not all Santa Fes will experience all of these issues, and that these problems may vary depending on the specific model year, trim level, and maintenance history of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

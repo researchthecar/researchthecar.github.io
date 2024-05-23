@@ -120,15 +120,3 @@ Recalls: None Found
 ### **Summary**
 
 The 1992 Chevrolet Cavalier is generally considered a reliable vehicle, but it is not immune to certain issues. While some of these issues, such as intake manifold gasket failure and clutch failure, are relatively minor and inexpensive to fix, others, such as timing chain failure and transmission failure, can be more severe and costly. Overall, the severity and cost of the issues vary depending on the specific component that fails.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

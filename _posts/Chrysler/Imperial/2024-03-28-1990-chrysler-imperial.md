@@ -49,19 +49,6 @@ The Imperial was praised for its luxurious interior, spacious cabin, and smooth 
   - Solution: Replace the torque converter.
   - Estimated Cost to Fix: $800 - $1,200+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Front Struts Leaking:**
@@ -92,19 +79,6 @@ The Imperial was praised for its luxurious interior, spacious cabin, and smooth 
   - Solution: Replace the window regulator.
   - Estimated Cost to Fix: $150 - $300+ per window
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 - **Tail Light Lens Cracking:**
@@ -122,15 +96,3 @@ The Imperial was praised for its luxurious interior, spacious cabin, and smooth 
 **Summary**
 
 The 1990 Chrysler Imperial had several significant issues, particularly with its engine, transmission, and suspension. The cost of repairs for these issues could be substantial, ranging from a few hundred dollars to over $2,000. While the Imperial offered a luxurious interior and smooth ride, its reliability concerns and poor fuel economy ultimately diminished its appeal.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

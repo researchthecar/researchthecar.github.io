@@ -38,19 +38,6 @@ The 1994 Bentley Continental is a grand touring coupe known for its luxurious in
     * Estimated Cost to Fix: $3,000 - $5,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear shock absorbers leaking**
@@ -71,19 +58,6 @@ The 1994 Bentley Continental is a grand touring coupe known for its luxurious in
     * Solution: Replace battery or diagnose electrical system for parasitic drain
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -109,15 +83,3 @@ The 1994 Bentley Continental is a grand touring coupe known for its luxurious in
 **Summary**
 
 The 1994 Bentley Continental is a mechanically complex vehicle that can experience a range of issues. The most common concerns are with the engine (valve stem seals, timing belt tensioner), transmission (slipping), suspension (leaking shock absorbers, worn bushings), and interior (climate control system, power window motors). These issues can be expensive to repair, with some potentially costing thousands of dollars. It is crucial for owners to maintain their vehicles regularly and use qualified mechanics for repairs to ensure the longevity and reliability of the Continental.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

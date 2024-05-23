@@ -42,19 +42,6 @@ Owners of the Elantra GT generally praise its spacious interior, comfortable rid
     * Solution: Replace shift solenoid
     * Estimated Cost to Fix: $200 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -69,19 +56,6 @@ Owners of the Elantra GT generally praise its spacious interior, comfortable rid
     * Description/Symptoms: Battery discharges rapidly, difficulty starting the vehicle
     * Solution: Check parasitic draws and replace or repair faulty components
     * Estimated Cost to Fix: Varies depending on the cause
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -100,15 +74,3 @@ Owners of the Elantra GT generally praise its spacious interior, comfortable rid
 **Summary**
 
 The 2015 Hyundai Elantra GT has a mix of positive and negative reviews. While it offers a spacious interior and efficient performance, it has been plagued by several recurring issues, particularly with the engine, transmission, and electrical system. The severity and cost of these issues vary, but they can be a concern for potential buyers.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

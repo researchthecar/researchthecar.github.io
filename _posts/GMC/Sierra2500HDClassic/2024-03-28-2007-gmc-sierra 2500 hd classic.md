@@ -40,19 +40,6 @@ The 2007 GMC Sierra 2500 HD Classic is a heavy-duty pickup truck powered by a 6.
   * Solution: Replacement of the torque converter.
   * Estimated Cost to Fix: $1,000 - $2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Front Suspension Squeaking:**
@@ -70,19 +57,6 @@ The 2007 GMC Sierra 2500 HD Classic is a heavy-duty pickup truck powered by a 6.
   * Description/Symptoms: Dimming headlights, electrical system issues, and difficulty charging the battery.
   * Solution: Replacement of the alternator.
   * Estimated Cost to Fix: $300 - $700+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -105,15 +79,3 @@ The 2007 GMC Sierra 2500 HD Classic is a heavy-duty pickup truck powered by a 6.
 **Summary:**
 
 The 2007 GMC Sierra 2500 HD Classic has potential issues that can affect the engine, transmission, suspension, electrical system, exterior, and interior. The severity of the issues varies, with some being minor while others can be more costly to repair. Owners should be aware of these potential problems and consider regular maintenance and repairs to address them before they cause major damage.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

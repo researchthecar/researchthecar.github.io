@@ -60,15 +60,3 @@ Recalls: None Found
 ### Summary
 
 The 2022 Chevrolet Aveo has a limited number of reported issues, with the most common problems being excessive oil consumption, transmission jerking, alternator failure, and headlight condensation. While these issues can be frustrating, they are generally not major or expensive to fix. Overall, the Aveo is a reliable and affordable subcompact sedan that offers good fuel efficiency and a spacious interior.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

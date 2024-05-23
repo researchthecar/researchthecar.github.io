@@ -39,19 +39,6 @@ The Escalade has been praised for its spacious cabin, powerful engines, and adva
 * Estimated Cost to Fix: $300 - $600+
 * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Magnetic Ride Control System Malfunction**
@@ -67,19 +54,6 @@ The Escalade has been praised for its spacious cabin, powerful engines, and adva
 * Solution: Identify and fix the source of the parasitic draw.
 * Estimated Cost to Fix: Varies depending on the cause
 * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -100,15 +74,3 @@ The Escalade has been praised for its spacious cabin, powerful engines, and adva
 **Summary:**
 
 Overall, the 2022 Cadillac Escalade faces some reliability concerns, particularly with its engine, transmission, and electrical systems. However, the severity and cost of these issues vary depending on the specific problem encountered. It's important for owners to be aware of these potential issues and to have their Escalades regularly serviced to minimize the risk of major repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

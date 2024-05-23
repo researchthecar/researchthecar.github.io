@@ -53,19 +53,6 @@ People generally appreciate the Corvette's performance, handling, and head-turni
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Major Issues Found**
@@ -77,19 +64,6 @@ People generally appreciate the Corvette's performance, handling, and head-turni
     * Solution: Replace the ECM.
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -110,15 +84,3 @@ People generally appreciate the Corvette's performance, handling, and head-turni
 **Summary:**
 
 While the 2010 Chevrolet Corvette is generally praised for its performance and style, it has experienced some issues that may impact ownership. Some components, such as the LS3 engine's valve seats and the ZR1's supercharger, have reported potential issues that could lead to significant repairs. The transmission, suspension, and electrical systems have fewer known concerns. However, the interior air conditioning system and certain exterior alignment issues may also need attention. It's important for potential buyers to consider these issues and factor in potential repair costs when evaluating the 2010 Corvette.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

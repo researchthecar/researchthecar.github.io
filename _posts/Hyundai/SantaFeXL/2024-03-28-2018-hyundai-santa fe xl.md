@@ -104,15 +104,3 @@ The Santa Fe XL is a popular choice for families due to its spacious interior an
 ## **Summary**
 
 The 2018 Hyundai Santa Fe XL is a generally reliable vehicle, but it does have its share of problems. Some of the most common issues include engine knocking, timing chain issues, transmission slipping, and electrical shorts. The severity of these issues varies, but some can be expensive to fix. Overall, the Santa Fe XL is a good choice for families, but it's important to be aware of the potential problems before buying.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

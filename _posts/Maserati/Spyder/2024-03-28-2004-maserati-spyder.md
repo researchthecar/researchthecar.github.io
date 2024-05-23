@@ -35,19 +35,6 @@ The 2004 Maserati Spyder is a convertible sports car powered by a 4.2L V8 engine
         - Solution: Replace the torque converter.
         - Estimated Cost to Fix: $1,500 - $3,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Front and Rear Shock Absorbers**
     - **Leaking shock absorbers**
@@ -66,19 +53,6 @@ The 2004 Maserati Spyder is a convertible sports car powered by a 4.2L V8 engine
         - Description/Symptoms: Issues charging the battery, resulting in electrical system failures, dim headlights, or stalls.
         - Solution: Repair or replace the alternator.
         - Estimated Cost to Fix: $600 - $1,400+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Convertible Top**
@@ -106,15 +80,3 @@ The 2004 Maserati Spyder is a convertible sports car powered by a 4.2L V8 engine
 
 **Summary:**
 The 2004 Maserati Spyder is a potent and stylish sports car, but it has been known to experience some issues with its engine, transmission, suspension, electrical, and interior components. Engine overheating, intake manifold gasket failure, and transmission problems are among the most common issues faced by owners. While the issues vary in severity and cost to fix, they can potentially impact the reliability and driving experience of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

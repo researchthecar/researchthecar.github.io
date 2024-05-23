@@ -28,19 +28,6 @@ While the 2003 Chevrolet Cargo Van is a capable and reliable vehicle, it has bee
     * **Slipping gears:** Difficulty engaging or staying in gear. Solution: Servicing or rebuilding the transmission. Estimated Cost to Fix: $1000 - $2000+
     * **Shift solenoid failure:** Transmission shifting issues, delayed or erratic shifting. Solution: Replacing the faulty shift solenoid. Estimated Cost to Fix: $200 - $400+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension:**
@@ -58,19 +45,6 @@ While the 2003 Chevrolet Cargo Van is a capable and reliable vehicle, it has bee
     * **Alternator failure:** Dimming lights, electrical system issues. Solution: Replacing the alternator. Estimated Cost to Fix: $300 - $600+
 * **Starter:**
     * **Starter failure:** Difficulty starting the vehicle. Solution: Replacing the faulty starter. Estimated Cost to Fix: $200 - $400+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -92,15 +66,3 @@ While the 2003 Chevrolet Cargo Van is a capable and reliable vehicle, it has bee
 **Summary**
 
 While the 2003 Chevrolet Cargo Van is generally a reliable vehicle, it has been reported to experience several issues. The severity and cost of these issues can vary depending on the specific problem, but overall, the van is a capable and serviceable workhorse.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

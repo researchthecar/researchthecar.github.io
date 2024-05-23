@@ -35,19 +35,6 @@ The 2014 Chevrolet Express Pasajeros is a full-size passenger van that offers am
 - Estimated Cost to Fix: $1,500 - $3,000+
 - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Strut mount bearing failure**
@@ -63,19 +50,6 @@ The 2014 Chevrolet Express Pasajeros is a full-size passenger van that offers am
 - Solution: Find and repair parasitic drain
 - Estimated Cost to Fix: $100 - $500+
 - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -102,15 +76,3 @@ The 2014 Chevrolet Express Pasajeros is a full-size passenger van that offers am
 **Summary:**
 
 The 2014 Chevrolet Express Pasajeros has several reported issues, including engine gasket failures, transmission problems, suspension issues, electrical drains, and interior component malfunctions. The severity and cost of these issues can vary, but some repairs can be quite expensive. Potential buyers should be aware of these issues and consider budgeting for potential repairs before purchasing this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

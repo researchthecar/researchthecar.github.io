@@ -44,19 +44,6 @@ Engine options for the 2012 Chevrolet Caprice include a 3.6L V6 with 301 HP and 
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut mount bearing failure**
@@ -72,19 +59,6 @@ Engine options for the 2012 Chevrolet Caprice include a 3.6L V6 with 301 HP and 
     * Solution: Find and repair the source of the parasitic draw.
     * Estimated Cost to Fix: Depends on the source of the parasitic draw.
     * Recalls: NHTSA Recall 14V-396
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -105,15 +79,3 @@ Engine options for the 2012 Chevrolet Caprice include a 3.6L V6 with 301 HP and 
 ## Summary
 
 The 2012 Chevrolet Caprice is a generally reliable vehicle with no major widespread issues. However, there are a few potential problems that owners should be aware of, including intake manifold leaks, timing chain issues, and torque converter shudder. These issues are not extremely common, but they can be costly to repair.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

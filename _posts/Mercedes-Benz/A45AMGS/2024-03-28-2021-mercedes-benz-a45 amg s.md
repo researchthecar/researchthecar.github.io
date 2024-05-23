@@ -32,19 +32,6 @@ The 2021 Mercedes-Benz A45 AMG S is a high-performance hatchback with a turbocha
         * Estimated Cost to Fix: $100 - $500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -61,19 +48,6 @@ The 2021 Mercedes-Benz A45 AMG S is a high-performance hatchback with a turbocha
     * Solution: Replace the starter motor.
     * Estimated Cost to Fix: $600 - $900+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -95,15 +69,3 @@ The 2021 Mercedes-Benz A45 AMG S is a high-performance hatchback with a turbocha
 **Summary**
 
 The 2021 Mercedes-Benz A45 AMG S is a capable and desirable performance hatchback, but it is not without its issues. The engine and electrical systems seem to be the most problematic areas, with reported issues like intake valve sticking, turbocharger failure, alternator failure, and starter motor failure. The transmission and suspension have also had some reported issues, but they are less common. The interior and exterior have relatively minor problems, such as infotainment system glitches and panoramic roof leaks. Overall, the severity and cost of the issues with the A45 AMG S vary depending on the specific problem and the extent of the repairs required.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

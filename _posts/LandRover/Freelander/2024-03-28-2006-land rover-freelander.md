@@ -26,19 +26,6 @@ The 2006 Land Rover Freelander is a compact luxury SUV known for its rugged off-
 
 * **Transmission Control Module (TCM) Failure:** Faulty TCM causing shifting issues, transmission slipping, or check engine light. Replacing the TCM is the fix, costing around $1000 - $1500 for the part and labor.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Rear Suspension Bushing Wear:** The rear suspension bushings can wear out overtime, causing clunking noises, misalignment, and unstable handling. Replacing them with new bushings typically costs $500 - $700 including labor.
@@ -47,19 +34,6 @@ The 2006 Land Rover Freelander is a compact luxury SUV known for its rugged off-
 
 * **Battery Drain:** Parasitic battery drain due to faulty alternator, starter, or other electrical components. The solution involves identifying and replacing the faulty component, costing around $300 - $600 including diagnosis.
 * **Headlight Switch Failure:** Malfunctioning headlight switch causing intermittent headlights or complete failure. Replacing the switch is the fix, costing approximately $200 - $300 for parts and labor.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -73,15 +47,3 @@ The 2006 Land Rover Freelander is a compact luxury SUV known for its rugged off-
 **Summary:**
 
 The 2006 Land Rover Freelander offers a capable off-road experience, but it has some reported issues, particularly with the engine and transmission. Head gasket failure and intake manifold gasket leaks are known concerns with the K-Series petrol engine. The automatic transmission may encounter TCM failures, while the manual transmission can experience gear shift linkage problems. Other issues include suspension bushing wear, electrical problems, sunroof leaks, and interior component failures. The severity and cost of the issues vary, but some repairs, such as head gasket replacement, can be substantial. Proper maintenance and timely repairs are crucial to mitigate these issues and ensure the vehicle's reliability.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

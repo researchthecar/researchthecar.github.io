@@ -46,19 +46,6 @@ The 1992 Chevrolet C70 Kodiak is a heavy-duty commercial truck known for its rel
     - Solution: Replace the clutch assembly
     - Estimated Cost to Fix: $400 - $800+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Leaf Spring Failure**
@@ -80,19 +67,6 @@ The 1992 Chevrolet C70 Kodiak is a heavy-duty commercial truck known for its rel
   - Description/Symptoms: Dimming lights, electrical malfunctions, and difficulty starting the engine
   - Solution: Replace the alternator
   - Estimated Cost to Fix: $200 - $600+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -119,15 +93,3 @@ The 1992 Chevrolet C70 Kodiak is a heavy-duty commercial truck known for its rel
 **Overall Summary**
 
 The 1992 Chevrolet C70 Kodiak is generally considered a reliable and durable truck. However, it has some common issues, particularly with the engine, suspension, and electrical systems. The severity and cost of the issues can vary depending on the severity of the problem and the specific parts involved. Regular maintenance and proper repairs are crucial to keep the vehicle running smoothly and minimize costly repairs in the long run.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

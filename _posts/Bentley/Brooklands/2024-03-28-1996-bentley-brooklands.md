@@ -34,19 +34,6 @@ The 1996 Bentley Brooklands is a luxurious grand tourer hand-built by Bentley Mo
         * Estimated Cost to Fix: $1,500 - $3,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Strut Failure**
@@ -72,19 +59,6 @@ The 1996 Bentley Brooklands is a luxurious grand tourer hand-built by Bentley Mo
     * Solution: Inspect and repair electrical system for current draw (e.g., faulty alternator, parasitic drain)
     * Estimated Cost to Fix: Varies depending on the source
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -115,15 +89,3 @@ The 1996 Bentley Brooklands is a luxurious grand tourer hand-built by Bentley Mo
 **Summary**
 
 The 1996 Bentley Brooklands is a luxurious vehicle but is known for experiencing certain mechanical issues, including engine problems, transmission issues, suspension failures, and electrical problems. The severity of these issues can vary, and repair costs can be substantial, especially for major components like the engine or transmission. Therefore, potential owners should carefully consider these issues when purchasing a used Brooklands.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

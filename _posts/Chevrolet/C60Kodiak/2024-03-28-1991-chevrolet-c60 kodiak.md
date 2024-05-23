@@ -23,19 +23,6 @@ The 1991 Chevrolet C60 Kodiak is a heavy-duty truck powered by a 6.6-liter V8 di
 * **Synchronizer Failure:** Damaged synchronizers can make shifting difficult or impossible, especially when the transmission is cold.
 * **Input Shaft Bearing Failure:** A worn input shaft bearing can cause a grinding noise and difficulty shifting gears.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Leaf Spring Breakage:** Overloaded or fatigued leaf springs can break, leading to reduced ride height and handling issues.
 * **Shocks/Struts Failure:** Worn shocks or struts can affect ride quality and handling, especially on rough roads.
@@ -45,19 +32,6 @@ The 1991 Chevrolet C60 Kodiak is a heavy-duty truck powered by a 6.6-liter V8 di
 * **Alternator Failure:** A faulty alternator can lead to battery discharge, dimming lights, and electrical system malfunctions.
 * **Starter Failure:** A worn or damaged starter can prevent the engine from starting.
 * **Wiring Harness Issues:** Damaged or faulty wiring harnesses can cause electrical shorts, malfunctions, and component failures.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -71,15 +45,3 @@ The 1991 Chevrolet C60 Kodiak is a heavy-duty truck powered by a 6.6-liter V8 di
 **Summary**
 
 While the 1991 Chevrolet C60 Kodiak is generally a reliable and durable truck, it has a few common issues that can be costly to fix. The most severe issues include rocker arm failure, injection pump failure, and turbocharger failure, all of which can result in significant loss of power and expensive repairs. It is important for owners to properly maintain their vehicles and address any issues promptly to avoid more serious and costly problems in the future.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

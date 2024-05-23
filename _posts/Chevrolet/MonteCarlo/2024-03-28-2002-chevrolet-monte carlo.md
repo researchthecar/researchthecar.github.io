@@ -50,19 +50,6 @@ The 2002 Chevrolet Monte Carlo is a mid-size coupe that was available with three
 **5-speed Manual**
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front control arm bushings wear**
@@ -89,19 +76,6 @@ The 2002 Chevrolet Monte Carlo is a mid-size coupe that was available with three
   * Estimated Cost to Fix: $100 - $300+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **No Issues Found**
@@ -117,15 +91,3 @@ The 2002 Chevrolet Monte Carlo is a mid-size coupe that was available with three
 **Summary**
 
 The 2002 Chevrolet Monte Carlo has a range of issues that can be moderate to severe in severity and range from $100 to over $2,500 to fix. Some common issues include intake manifold gasket failure, transmission slipping, and suspension component wear. Overall, the Monte Carlo is a reliable vehicle, but potential buyers should be aware of these potential issues before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

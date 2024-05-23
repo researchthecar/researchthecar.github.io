@@ -41,19 +41,6 @@ The 1993 Chevrolet Beretta is a sporty coupe that offers a balance of performanc
   * Estimated Cost to Fix: $1,500 - $2,500+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front struts leaking:** Loss of shock absorption, resulting in a bouncy ride and reduced handling.
@@ -77,19 +64,6 @@ The 1993 Chevrolet Beretta is a sporty coupe that offers a balance of performanc
   * Solution: Replace the starter solenoid.
   * Estimated Cost to Fix: $100 - $200+
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -118,15 +92,3 @@ The 1993 Chevrolet Beretta is a sporty coupe that offers a balance of performanc
 **Summary:**
 
 The 1993 Chevrolet Beretta has a few common issues that can be expensive to repair, including intake manifold gasket failure, valve cover gasket leaks, transmission slippage, and sunroof leaks. Owners also experience problems with fading plastic trim, door handle issues, and cracked dashboards. While the Beretta offers a fun and sporty driving experience, it is important to be aware of these potential issues before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

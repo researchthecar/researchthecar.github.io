@@ -49,19 +49,6 @@ Owners appreciate the Vantage's stunning design, impressive handling, and exhila
     * Estimated Cost to Fix: $500-$700+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Adjustable Suspensions Failure:**
@@ -88,19 +75,6 @@ Owners appreciate the Vantage's stunning design, impressive handling, and exhila
     * Estimated Cost to Fix: $200-$1,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight Condensation:**
@@ -125,15 +99,3 @@ Owners appreciate the Vantage's stunning design, impressive handling, and exhila
 **Summary**
 
 The 2019 Aston Martin Vantage is a powerful and stylish sports car, but it does have its fair share of issues, particularly with its engine and suspension components. The severity and cost of the issues vary, but some, such as camshaft sensor failure and torque converter shudder, can be significant and require costly repairs. It is important to note that these issues are not universal and may not affect all Vantage models. However, potential buyers should be aware of the potential problems before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

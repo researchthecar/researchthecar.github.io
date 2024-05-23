@@ -36,19 +36,6 @@ The 2019 Chevrolet Volt is a plug-in hybrid electric vehicle that offers two pow
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Bearing Failure**
@@ -69,19 +56,6 @@ The 2019 Chevrolet Volt is a plug-in hybrid electric vehicle that offers two pow
   * Solution: Replace high-voltage battery cooling fan.
   * Estimated Cost to Fix: $500 - $1,000+
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -115,15 +89,3 @@ The 2019 Chevrolet Volt is a plug-in hybrid electric vehicle that offers two pow
 **Summary:**
 
 The 2019 Chevrolet Volt has several reported issues across different components, with varying severity and cost to fix. Some issues, such as intake valve cocking and piston ring failure, can be major and expensive to repair. However, many of the other issues are more minor and relatively inexpensive to fix. Overall, owners should be aware of these potential issues and consider the cost of repairs when evaluating the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

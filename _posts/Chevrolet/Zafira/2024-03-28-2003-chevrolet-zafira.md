@@ -34,19 +34,6 @@ The 2003 Chevrolet Zafira is a compact minivan that offers versatility and pract
  - Estimated Cost to Fix: $800 - $1,200+
  - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Failure:** The front struts may fail, causing a loss of ride quality, excessive bouncing, and uneven tire wear. Symptoms include a clunking or rattling noise over bumps.
@@ -60,19 +47,6 @@ The 2003 Chevrolet Zafira is a compact minivan that offers versatility and pract
  - Solution: Replace the alternator and voltage regulator.
  - Estimated Cost to Fix: $400 - $600+
  - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -91,15 +65,3 @@ The 2003 Chevrolet Zafira is a compact minivan that offers versatility and pract
 **Summary**
 
 The 2003 Chevrolet Zafira offers practicality and versatility, but it has faced issues such as engine timing chain failures, electrical alternator failures, and exterior rust. The severity and cost of these issues vary, but timely repairs can help extend the vehicle's lifespan.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

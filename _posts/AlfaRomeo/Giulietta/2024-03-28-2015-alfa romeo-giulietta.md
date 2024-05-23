@@ -75,19 +75,6 @@ People who like the Giulietta praise its handling, performance, and styling. How
     * Estimated Cost to Fix: $300 - $600+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Suspension Noise:**
@@ -103,19 +90,6 @@ People who like the Giulietta praise its handling, performance, and styling. How
     * Solution: Replace or repair battery, identify and fix source of drain
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -141,15 +115,3 @@ People who like the Giulietta praise its handling, performance, and styling. How
 **Summary:**
 
 The 2015 Alfa Romeo Giulietta has some significant reliability issues, particularly with its engine and transmission. Owners may experience engine problems such as carbon buildup on intake valves, timing chain tensioner failure, turbocharger failure, and oil consumption. Transmission problems include gear shift difficulty, valve body failure, and transmission fluid leaks. Other issues include rear suspension noise, battery drain, and instrument panel failure. These issues can be expensive to repair, so it's important to consider the potential costs before purchasing a Giulietta.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

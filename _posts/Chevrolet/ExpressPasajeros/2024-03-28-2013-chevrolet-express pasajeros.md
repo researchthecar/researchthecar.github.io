@@ -39,19 +39,6 @@ The 2013 Chevrolet Express Pasajeros is a full-size passenger van offered with a
     * Estimated Cost to Fix: $1200 - $2000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Strut Failure:**
@@ -67,19 +54,6 @@ The 2013 Chevrolet Express Pasajeros is a full-size passenger van offered with a
     * Solution: Identify and fix the source of the drain, such as faulty alternator or parasitic draw from a component.
     * Estimated Cost to Fix: $150 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -105,15 +79,3 @@ The 2013 Chevrolet Express Pasajeros is a full-size passenger van offered with a
 **Summary**
 
 The 2013 Chevrolet Express Pasajeros has several issues to be aware of, including a leaking intake manifold, valve cover gaskets, and torque converter clutch failure. While the severity of these issues can vary, they can be costly to repair, potentially exceeding $2000 in some cases. Overall, the reliability of the Express Pasajeros is considered average, comparable to similar vehicles in its class.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

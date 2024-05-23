@@ -33,19 +33,6 @@ Despite its sophisticated appearance and comfortable interior, the Lincoln Mark 
     - Estimated Cost to Fix: $1,500 - $3,000+
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Suspension Sagging:**
@@ -68,19 +55,6 @@ Despite its sophisticated appearance and comfortable interior, the Lincoln Mark 
     - Estimated Cost to Fix: $100 - $500+
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door Lock Failure:**
@@ -100,15 +74,3 @@ Despite its sophisticated appearance and comfortable interior, the Lincoln Mark 
 **Summary:**
 
 The 1991 Lincoln Mark VII had various issues, ranging from minor electrical problems to more serious engine and transmission issues. The severity and cost of repairs can vary significantly depending on the specific problem and its extent. It's important to note that some of these issues may not be experienced by all owners, and individual cars may have different problems or none at all.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

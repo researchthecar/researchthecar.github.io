@@ -44,19 +44,6 @@ The 2006 Chevrolet Monte Carlo was a mid-size coupe powered by a 3.5-liter V6 en
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Strut Mount Failure:**
@@ -99,15 +86,3 @@ The 2006 Chevrolet Monte Carlo was a mid-size coupe powered by a 3.5-liter V6 en
 **Summary:**
 
 The 2006 Chevrolet Monte Carlo has several known issues, varying in severity and cost. Engine and transmission issues can be expensive to resolve, while suspension and electrical issues are generally more affordable. Owners should be aware of these potential problems and budget accordingly.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

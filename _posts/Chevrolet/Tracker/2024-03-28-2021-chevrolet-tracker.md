@@ -77,15 +77,3 @@ Recalls: None Found
 ### Summary
 
 The 2021 Chevrolet Tracker has a mix of reported issues that range from minor inconveniences to more serious mechanical problems. Some owners have experienced electrical gremlins and sunroof leaks, while others have encountered engine and transmission issues. The severity and cost of repairs can vary depending on the nature of the problem. It's important for potential buyers to be aware of these issues and consider whether they are acceptable risks before purchasing a Tracker.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

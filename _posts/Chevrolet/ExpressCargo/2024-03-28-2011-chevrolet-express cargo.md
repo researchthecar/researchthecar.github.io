@@ -54,19 +54,6 @@ The 2011 Chevrolet Express Cargo is a full-size cargo van offered with three eng
     * Estimated Cost to Fix: $500 - $1,200+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Ball Joint Failure:**
@@ -93,19 +80,6 @@ The 2011 Chevrolet Express Cargo is a full-size cargo van offered with three eng
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust:**
@@ -130,15 +104,3 @@ The 2011 Chevrolet Express Cargo is a full-size cargo van offered with three eng
 **Summary:**
 
 The 2011 Chevrolet Express Cargo is a capable workhorse but faces several reliability issues, particularly with its engines and transmission. Engine problems range from minor leaks to major oil consumption and failures, while transmission issues include slipping and TCM failures. Other concerns include suspension problems, electrical issues, and interior malfunctions. The severity and cost of these issues can vary depending on the specific problem and affected parts.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

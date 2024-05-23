@@ -30,19 +30,6 @@ The A5 Sportback has received positive reviews for its sharp handling, comfortab
 * **Clutch Chatter:** Some vehicles may experience clutch chatter during shifts. Symptoms include a juddering sensation or noise during gear changes. The clutch is replaced. Estimated cost to fix: $1,500 - $2,000
 * **Transmission Fluid Leak:** Some vehicles may experience a transmission fluid leak. Symptoms include a puddle of fluid under the vehicle and a Check Engine light. The transmission is removed, inspected, and repaired as needed. Estimated cost to fix: $1,000 - $2,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Shock Absorber Failure:** Some vehicles may experience rear shock absorber failure. Symptoms include a rough ride, a loss of stability, and a knocking or rattling sound from the rear of the vehicle. Replacing the rear shock absorbers resolves the issue. Estimated cost to fix: $500 - $1,000
@@ -51,19 +38,6 @@ The A5 Sportback has received positive reviews for its sharp handling, comfortab
 **Electrical**
 
 * **Electrical System Malfunction:** Some vehicles may experience an electrical system malfunction. Symptoms include intermittent power loss, flickering lights, and a dead battery. A diagnostic test is performed to identify and repair the issue. Estimated cost to fix: $500 - $1,500
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -83,15 +57,3 @@ The A5 Sportback has received positive reviews for its sharp handling, comfortab
 **Summary**
 
 While the 2022 Audi A5 Sportback is generally a reliable and well-built vehicle, it has had some reported issues with its engine, transmission, suspension, and electrical systems. The severity of these issues varies, but some can be costly to repair. When considering a used A5 Sportback, it is recommended to have the vehicle inspected by a mechanic to identify any potential problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

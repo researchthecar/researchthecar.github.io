@@ -32,19 +32,6 @@ The 2014 Ford Special Service Police Sedan is a high-performance vehicle designe
         * Estimated Cost to Fix: $1,500 - $2,500
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arms:**
@@ -67,19 +54,6 @@ The 2014 Ford Special Service Police Sedan is a high-performance vehicle designe
     * Estimated Cost to Fix: $500 - $800
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door Lock Actuators:**
@@ -99,15 +73,3 @@ The 2014 Ford Special Service Police Sedan is a high-performance vehicle designe
 **Summary:**
 
 Overall, the 2014 Ford Special Service Police Sedan is a reliable and capable vehicle with a few reported issues. The most significant issues relate to the engine, transmission, and suspension components, which can be expensive to repair. However, these issues are not widespread, and most owners are satisfied with the vehicle's performance and durability. Regular maintenance and proper care can help minimize the likelihood of experiencing these issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

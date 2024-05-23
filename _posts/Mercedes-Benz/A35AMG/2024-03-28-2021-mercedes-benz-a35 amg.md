@@ -31,19 +31,6 @@ The 2021 Mercedes-Benz A35 AMG is a compact sports sedan that combines performan
 * **6-Speed Manual Transmission:**
     * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **No Issues Found**
 
@@ -53,19 +40,6 @@ The 2021 Mercedes-Benz A35 AMG is a compact sports sedan that combines performan
     * Solution: Replace battery or check for parasitic drain
     * Estimated Cost to Fix: $200 - $500
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Headlight Condensation:**
@@ -88,15 +62,3 @@ The 2021 Mercedes-Benz A35 AMG is a compact sports sedan that combines performan
 
 **Summary:**
 While the 2021 Mercedes-Benz A35 AMG offers impressive performance and luxury, it has also experienced some issues that have impacted owner satisfaction. Engine problems, such as carbon buildup on intake valves and turbocharger failure, can be costly to repair. Electrical issues, including battery discharge and headlight condensation, are also present. Interior problems, such as infotainment system freezing and climate control malfunctions, can be frustrating for drivers. Overall, the issues found in the A35 AMG are not widespread but can be significant and expensive to fix.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

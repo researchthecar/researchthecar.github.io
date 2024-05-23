@@ -37,19 +37,6 @@ The 2018 Audi TTS Quattro boasts a potent 2.0L TFSI engine that delivers 292 hor
         * Estimated Cost to Fix: $2,000 - $3,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Magnetic Ride Suspension**
@@ -81,19 +68,6 @@ The 2018 Audi TTS Quattro boasts a potent 2.0L TFSI engine that delivers 292 hor
     * Solution: Diagnosis and repair of electrical system components causing drain
     * Estimated Cost to Fix: $200 - $500+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -134,15 +108,3 @@ The 2018 Audi TTS Quattro boasts a potent 2.0L TFSI engine that delivers 292 hor
 **Summary:**
 
 The 2018 Audi TTS Quattro has faced a range of issues affecting its engine, transmission, suspension, electrical system, exterior, and interior components. These issues can be relatively minor, such as sensor failures and door handle problems, or more severe, such as carbon buildup on intake valves and timing chain tensioner failure. The cost of repairs can be significant, with some issues requiring a replacement of major parts. It is important for owners to be aware of these potential problems and to seek prompt repairs to avoid further damage or safety concerns.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

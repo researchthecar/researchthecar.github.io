@@ -20,19 +20,6 @@ The 2012 BMW Alpina B7L xDrive is a high-performance luxury sedan featuring a tw
 * **ZF 8HP70 8-speed automatic**
     * **Shifting problems:** Symptoms include rough or delayed shifting, slipping gears, or a lack of responsiveness. The solution may involve software updates, transmission fluid changes, or replacing the mechatronic unit. Estimated Cost to Fix: $500 - $2,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air suspension system:** Symptoms of issues with the air suspension can include uneven ride height, difficulty adjusting ride height, or a lack of response from the system. The solution often involves diagnosing and replacing faulty components, such as the air compressor, air bags, or sensors. Estimated Cost to Fix: $1,500 - $3,000+
@@ -43,19 +30,6 @@ The 2012 BMW Alpina B7L xDrive is a high-performance luxury sedan featuring a tw
     * **Recalls:** NHTSA Campaign Number 19V-453: Battery cable connection issue
 
 * **Rearview camera failure:** The rearview camera may experience intermittent or complete failure. The solution often involves replacing the faulty camera or associated wiring. Estimated Cost to Fix: $500 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -69,15 +43,3 @@ The 2012 BMW Alpina B7L xDrive is a high-performance luxury sedan featuring a tw
 **Summary:**
 
 The 2012 BMW Alpina B7L xDrive is a performance-oriented luxury vehicle with a few reported issues that potential buyers should be aware of. The most significant problems include turbocharger failure, valve stem seal failure, shifting problems, and air suspension issues. While repairs can be costly, the overall severity of the issues is moderate compared to other high-performance vehicles. It is recommended to thoroughly inspect any potential purchase and consider obtaining a comprehensive vehicle history report to identify any prior issues or repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

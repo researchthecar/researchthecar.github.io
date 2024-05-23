@@ -29,19 +29,6 @@ The 1991 Ford E-350 Econoline Club Wagon is a versatile and spacious full-size v
     * **Overheating:** Caused by faulty cooling lines or radiator. Inspect and replace as needed. $500 - $1000+
     * **Shift solenoid failure:** Disrupts transmission operation and causes hard shifting. Replace solenoid. $200 - $300+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front ball joint wear:** Loose or worn ball joints cause wandering and uneven tire wear. Replace ball joints. $200 - $400+
@@ -51,19 +38,6 @@ The 1991 Ford E-350 Econoline Club Wagon is a versatile and spacious full-size v
 
 * **Alternator failure:** Prevents battery from charging leading to electrical problems. Replace alternator. $200 - $400+
 * **Starter solenoid failure:** Prevents engine from cranking. Replace solenoid. $100 - $200+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -78,15 +52,3 @@ The 1991 Ford E-350 Econoline Club Wagon is a versatile and spacious full-size v
 **Summary:**
 
 While the 1991 Ford E-350 Econoline Club Wagon is a generally reliable vehicle, it can experience certain issues that can affect its performance and longevity. Engine and transmission problems can be costly to repair, while suspension and electrical issues can compromise safety. If you are considering purchasing one of these vans, be sure to have it thoroughly inspected and budget for potential repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

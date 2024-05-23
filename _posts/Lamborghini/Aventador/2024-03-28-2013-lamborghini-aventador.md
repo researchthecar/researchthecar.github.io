@@ -43,19 +43,6 @@ The 2013 Lamborghini Aventador is a mid-engine, all-wheel drive supercar powered
    - Solution: Replacing the driveshaft.
    - Estimated Cost to Fix: $2,000 - $3,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Bushing Failure:**
@@ -78,19 +65,6 @@ The 2013 Lamborghini Aventador is a mid-engine, all-wheel drive supercar powered
    - Solution: Replacing the alternator.
    - Estimated Cost to Fix: $1,000 - $1,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Carbon Fiber Body Panel Cracking:**
@@ -112,15 +86,3 @@ The 2013 Lamborghini Aventador is a mid-engine, all-wheel drive supercar powered
 **Summary:**
 
 The 2013 Lamborghini Aventador is undoubtedly an exceptional supercar, but it has not been immune to various issues that have affected certain aspects of the vehicle, ranging from engine and transmission concerns to suspension and electrical problems. While some of these issues are relatively minor and inexpensive to fix, others can be more severe and costly to address. Overall, potential buyers and owners should be aware of these potential issues before making a purchase or owning an Aventador.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

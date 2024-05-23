@@ -56,19 +56,6 @@ Despite its popularity, the 1996 Chrysler New Yorker had a few notable issues.
     * **Solution:** Replace the torque converter.
     * **Estimated Cost to Fix:** $1,000 - $2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Struts and Shocks:** Worn struts and shocks can affect ride quality and handling.
@@ -91,19 +78,6 @@ Despite its popularity, the 1996 Chrysler New Yorker had a few notable issues.
     * **Solution:** Replace the starter.
     * **Estimated Cost to Fix:** $300 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight Switch Failure:** The headlight switch may fail to turn on or off the headlights.
@@ -121,15 +95,3 @@ Despite its popularity, the 1996 Chrysler New Yorker had a few notable issues.
 **Summary**
 
 Overall, the 1996 Chrysler New Yorker is a reliable and comfortable vehicle, but it has some notable issues that can be costly to repair. Engine timing chain failure is the most severe and expensive issue, while minor problems like power window switch failure are relatively inexpensive to fix. It's important to weigh the potential issues against the vehicle's overall value and desirability when considering purchasing a 1996 Chrysler New Yorker.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

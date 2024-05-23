@@ -29,19 +29,6 @@ The 2016 Aston Martin Rapide is a captivating 4-door grand tourer renowned for i
     * Estimated Cost to Fix: $3,000 - $5,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -62,19 +49,6 @@ The 2016 Aston Martin Rapide is a captivating 4-door grand tourer renowned for i
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door Trim Misalignment:**
@@ -86,15 +60,3 @@ The 2016 Aston Martin Rapide is a captivating 4-door grand tourer renowned for i
 **Summary**
 
 The 2016 Aston Martin Rapide boasts exceptional performance and opulence, but it is not exempt from occasional issues. The majority of reported problems revolve around engine cylinder deactivation and transmission torque converter failures, which can be costly to repair. Electrical battery drainage is another concern, while interior dashboard rattling and exterior door trim misalignment are less severe but noticeable nuisances. Overall, the Rapide remains a desirable vehicle for drivers who prioritize style and performance, but it is essential to consider the potential repair costs associated with some of its known issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

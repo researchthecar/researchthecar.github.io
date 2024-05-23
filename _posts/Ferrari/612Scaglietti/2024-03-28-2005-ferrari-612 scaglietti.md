@@ -32,19 +32,6 @@ The 2005 Ferrari 612 Scaglietti is a grand tourer produced by Ferrari from 2004 
         * **Estimated Cost to Fix:** $800 - $1,500
         * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushings**
@@ -65,19 +52,6 @@ The 2005 Ferrari 612 Scaglietti is a grand tourer produced by Ferrari from 2004 
     * **Solution:** Identification and repair of the source of the battery drain. Troubleshooting may be required.
     * **Estimated Cost to Fix:** $200 - $800+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **No Issues Found**
@@ -93,15 +67,3 @@ The 2005 Ferrari 612 Scaglietti is a grand tourer produced by Ferrari from 2004 
 **Summary**
 
 The 2005 Ferrari 612 Scaglietti is a desirable grand tourer with impressive performance and style. However, it can experience some reliability issues, particularly with its engine and electrical components. The cost of repairs can be significant, so potential buyers should factor these costs into their decision-making. Overall, the severity of the issues is moderate, with most repairs costing between $500 and $3,000. However, some issues, such as major engine or transmission repairs, can exceed $10,000.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

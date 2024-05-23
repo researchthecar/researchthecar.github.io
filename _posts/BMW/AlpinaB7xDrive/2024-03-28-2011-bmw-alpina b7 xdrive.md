@@ -22,19 +22,6 @@ The 2011 BMW Alpina B7 xDrive is a high-performance luxury sedan powered by a 4.
 
   * **Shifting Problems:** Harsh shifting or slipping gears may occur due to worn clutches or faulty solenoids. Repair costs vary depending on the issue, but can range from $500-$2,000+.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Adaptive Suspension System:**
@@ -45,19 +32,6 @@ The 2011 BMW Alpina B7 xDrive is a high-performance luxury sedan powered by a 4.
 
 * **Integrated Control Module (ICM) Failures:** The ICM is responsible for controlling various electrical functions. Failures can cause a range of issues, including electrical system malfunctions and loss of power. Replacement of the ICM can cost $1,500-$2,500.
 * **Battery Discharge:** Faulty battery sensors or electrical drain can cause the battery to discharge prematurely. Diagnosis and repair can cost $200-$500.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -71,15 +45,3 @@ The 2011 BMW Alpina B7 xDrive is a high-performance luxury sedan powered by a 4.
 **Summary:**
 
 While the 2011 BMW Alpina B7 xDrive is generally a reliable vehicle, it has some potential issues to be aware of. The engine and transmission issues can be costly to repair, but the electrical, exterior, and interior issues are typically less severe. Overall, the B7 xDrive is a high-performance sedan that offers a blend of luxury and sportiness, but potential buyers should be prepared for the possibility of some repairs down the road.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

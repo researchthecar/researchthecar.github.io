@@ -45,19 +45,6 @@ The 1995 Land Rover Discovery is a mid-size SUV known for its rugged performance
     - Estimated Cost to Fix: $2,000 - $4,000+
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -74,19 +61,6 @@ The 1995 Land Rover Discovery is a mid-size SUV known for its rugged performance
     - Solution: Check for parasitic battery draw, replace battery if needed
     - Estimated Cost to Fix: $100 - $500+
     - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -106,15 +80,3 @@ The 1995 Land Rover Discovery is a mid-size SUV known for its rugged performance
 
 **Summary:**
 While the 1995 Land Rover Discovery is a capable vehicle, it is prone to certain mechanical issues. Engine problems, particularly with the head gasket, can be costly to repair. Transmission problems, including slippage and clutch failure, can also be expensive. Electrical issues, such as alternator failure and battery drain, are less severe but still require attention. Exterior and interior issues are generally less serious and more affordable to fix. Overall, the Discovery can be a reliable vehicle if properly maintained, but potential buyers should be aware of these common problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

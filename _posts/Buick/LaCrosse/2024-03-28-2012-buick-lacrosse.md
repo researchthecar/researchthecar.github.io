@@ -41,19 +41,6 @@ The 2012 Buick LaCrosse is a mid-size luxury sedan known for its comfortable rid
 * **Continuously Variable Transmission (CVT)**
     * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Lower Control Arms**
@@ -84,19 +71,6 @@ The 2012 Buick LaCrosse is a mid-size luxury sedan known for its comfortable rid
     * Estimated Cost to Fix: Varies depending on the cause
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Fog Light Switch Failure**
@@ -122,15 +96,3 @@ The 2012 Buick LaCrosse is a mid-size luxury sedan known for its comfortable rid
 **Summary**
 
 The 2012 Buick LaCrosse generally has good reliability, but there are some common issues to be aware of. The most significant issues are the timing chain tensioner failure on the 3.6L V6 engine and the torque converter shudder on the 6-speed automatic transmission. These issues can be expensive to fix, so it is important to have a mechanic inspect the vehicle before purchasing and to regularly maintain these components. Otherwise, the LaCrosse is generally a reliable and comfortable sedan.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

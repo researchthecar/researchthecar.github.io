@@ -55,19 +55,6 @@ The 2016 Chevrolet Express Pasajeros is a full-size, heavy-duty van available in
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -93,19 +80,6 @@ The 2016 Chevrolet Express Pasajeros is a full-size, heavy-duty van available in
     * Solution: Replace starter
     * Estimated Cost to Fix: $300 - $800+
     * Recalls: N/A
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -141,15 +115,3 @@ The 2016 Chevrolet Express Pasajeros is a full-size, heavy-duty van available in
 **Summary**
 
 The 2016 Chevrolet Express Pasajeros has several reported issues affecting its engine, transmission, suspension, electrical, exterior, and interior components. While many of these issues are relatively minor and inexpensive to fix, some, such as turbocharger failure or transmission solenoid failure, can be quite costly. It is important for owners to be aware of these potential problems and have their vehicles regularly inspected and maintained to address them promptly.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

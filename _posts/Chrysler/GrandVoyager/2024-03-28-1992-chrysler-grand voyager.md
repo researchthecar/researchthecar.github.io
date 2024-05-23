@@ -26,19 +26,6 @@ People like the Grand Voyager for its spacious interior, comfortable ride, and r
 
 * **3-speed automatic transmission failure:** This can cause a variety of symptoms, including slipping, shuddering, and difficulty shifting gears. The transmission must be rebuilt or replaced. $1500 - $2500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension:** The front suspension components can wear out over time, leading to a variety of symptoms, including noise, vibration, and poor handling. The worn components must be replaced. $500 - $1500+
@@ -48,19 +35,6 @@ People like the Grand Voyager for its spacious interior, comfortable ride, and r
 
 * **Battery failure:** The battery can fail over time, especially in cold weather. The battery must be replaced. $100 - $200+
 * **Alternator failure:** The alternator can fail over time, which can lead to a variety of electrical problems. The alternator must be replaced. $200 - $400+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -76,15 +50,3 @@ People like the Grand Voyager for its spacious interior, comfortable ride, and r
 **Summary:**
 
 The 1992 Chrysler Grand Voyager is a reliable minivan with a spacious interior and comfortable ride. However, there are some common issues that owners should be aware of, including intake manifold gasket failure, timing chain tensioner failure, transmission failure, and suspension wear. The severity of these issues can vary, and the cost to repair them can range from $100 to $2500+.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

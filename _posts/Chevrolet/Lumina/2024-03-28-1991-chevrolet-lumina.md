@@ -23,19 +23,6 @@ The 1991 Chevrolet Lumina is a mid-size sedan with a front-wheel-drive layout. I
 **4-Speed Automatic**
 * **Transmission Slippage:** Description/Symptoms: Inability to shift gears, delayed engagement Solution: Rebuild or replace transmission Estimated Cost to Fix: $2,500 - $3,500+ Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut and Shock Absorber Failure:** Description/Symptoms: Bouncy or rough ride, poor handling Solution: Replace struts and shock absorbers Estimated Cost to Fix: $600 - $1,200 Recalls: None Found
@@ -45,19 +32,6 @@ The 1991 Chevrolet Lumina is a mid-size sedan with a front-wheel-drive layout. I
 
 * **Alternator Failure:** Description/Symptoms: Dimming lights, dead battery Solution: Replace alternator Estimated Cost to Fix: $400 - $800 Recalls: None Found
 * **Ignition Coil Failure:** Description/Symptoms: Engine misfire, hard starting Solution: Replace ignition coils Estimated Cost to Fix: $150 - $300 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -71,15 +45,3 @@ The 1991 Chevrolet Lumina is a mid-size sedan with a front-wheel-drive layout. I
 **Summary:**
 
 Overall, the 1991 Chevrolet Lumina has some common issues, most notably with the engine and transmission. While some issues, such as gasket leaks, are relatively inexpensive to fix, major repairs like transmission rebuilds can be costly. The Lumina would be a more reliable choice if it did not have these potential problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

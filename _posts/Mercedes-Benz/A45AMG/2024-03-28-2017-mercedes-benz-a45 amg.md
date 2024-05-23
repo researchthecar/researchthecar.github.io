@@ -41,19 +41,6 @@ While the A45 AMG is praised for its blistering performance and sharp handling, 
   * Estimated Cost to Fix: $1,000 - $1,500+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension noise:** The front suspension can make a clunking or rattling noise when driving over rough roads.
@@ -76,19 +63,6 @@ While the A45 AMG is praised for its blistering performance and sharp handling, 
   * Estimated Cost to Fix: $500 - $1,500+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Paint peeling:** The paint on certain parts of the car can peel off prematurely.
@@ -110,15 +84,3 @@ While the A45 AMG is praised for its blistering performance and sharp handling, 
 **Summary**
 
 The 2017 Mercedes-Benz A45 AMG is a high-performance hatchback with impressive performance and handling. However, it has been plagued by numerous issues that have affected owners, including engine and transmission problems, electrical issues, and interior issues. The severity and cost of these issues vary, but they can be expensive to fix. If you are considering buying an A45 AMG, be aware of these potential problems and factor them into your decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

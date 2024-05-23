@@ -44,19 +44,6 @@ The Huracan has been praised for its performance, handling, and design. However,
     Estimated Cost to Fix: $500 - $1000+
     Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -73,19 +60,6 @@ The Huracan has been praised for its performance, handling, and design. However,
     Solution: Diagnose and repair the specific electrical issue.
     Estimated Cost to Fix: $100 - $500+
     Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -113,15 +87,3 @@ The Huracan has been praised for its performance, handling, and design. However,
 The 2016 Lamborghini Huracan is a high-performance sports car that is known for its stunning design and exhilarating driving experience. However, it has also been plagued by a number of issues, including oil leaks, timing chain tensioner failures, clutch slippage, synchro ring failures, electrical problems, panel gaps, and interior trim delamination.
 
 The severity and cost of these issues can vary greatly depending on the specific problem. Some issues, such as electrical gremlins or loose interior panels, may be relatively minor and inexpensive to fix. However, other issues, such as engine failures or transmission problems, can be major and very expensive to repair.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

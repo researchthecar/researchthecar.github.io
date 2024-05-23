@@ -56,19 +56,6 @@ The 2003 Dodge Grand Caravan is a versatile minivan known for its spacious inter
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Premature Strut Failure:**
@@ -84,19 +71,6 @@ The 2003 Dodge Grand Caravan is a versatile minivan known for its spacious inter
     * Solution: Diagnose and repair or replace faulty electrical components
     * Estimated Cost to Fix: $300 - $600+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -122,15 +96,3 @@ The 2003 Dodge Grand Caravan is a versatile minivan known for its spacious inter
 **Summary:**
 
 The 2003 Dodge Grand Caravan has a range of common issues, including engine oil consumption, transmission problems, suspension issues, electrical problems, and interior component failures. The severity and cost of these issues vary, with some requiring major repairs. Overall, the 2003 Grand Caravan is a reliable vehicle but may require regular maintenance and repairs to maintain its performance.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

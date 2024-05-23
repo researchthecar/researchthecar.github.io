@@ -39,19 +39,6 @@ The 2017 BMW 650i xDrive Gran Coupe is a luxurious and capable vehicle with a po
         * Estimated Cost to Fix: $1,500 - $2,500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Adaptive M Suspension**
@@ -74,19 +61,6 @@ The 2017 BMW 650i xDrive Gran Coupe is a luxurious and capable vehicle with a po
     * Solution: Replace or repair the affected module
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -112,15 +86,3 @@ The 2017 BMW 650i xDrive Gran Coupe is a luxurious and capable vehicle with a po
 **Summary:**
 
 The 2017 BMW 650i xDrive Gran Coupe is a high-performance vehicle with some potential issues. The most severe and costly problems to watch out for are turbocharger intercooler failure, high-pressure fuel pump failure, and timing chain guide failure. Other issues, such as torque converter clutch issues, suspension damper failure, and electrical module failure, are worth keeping in mind. However, it's essential to note that these problems do not affect all vehicles, and many owners enjoy their 650i without experiencing any significant issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

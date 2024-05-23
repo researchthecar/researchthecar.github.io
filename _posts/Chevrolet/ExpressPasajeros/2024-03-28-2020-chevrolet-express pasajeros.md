@@ -42,19 +42,6 @@ The 2020 Chevrolet Express Pasajeros is a full-size passenger van available with
   - Estimated Cost to Fix: $300 - $600+
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Rear Leaf Spring Fatigue:**
@@ -84,19 +71,6 @@ The 2020 Chevrolet Express Pasajeros is a full-size passenger van available with
   - Estimated Cost to Fix: $500 - $800+
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 - **Sliding Door Cable Breakage:**
@@ -108,15 +82,3 @@ The 2020 Chevrolet Express Pasajeros is a full-size passenger van available with
 **Summary:**
 
 The 2020 Chevrolet Express Pasajeros has a range of issues that can be relatively minor and inexpensive to fix, to more severe and costly repairs. The most common issues include intake manifold gasket leaks (V6 engine), fuel injector failure (V8 engine), shift solenoid failure (transmission), and rear leaf spring fatigue. The estimated repair costs for these issues can range from $100 to $1,500+. Overall, the Express Pasajeros has a moderate level of reliability, but potential buyers should be aware of these potential issues before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

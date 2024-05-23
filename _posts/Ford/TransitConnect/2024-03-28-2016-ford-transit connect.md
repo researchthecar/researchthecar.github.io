@@ -68,19 +68,6 @@ The 2016 Ford Transit Connect is a versatile cargo van available in multiple con
     * Estimated Cost to Fix: $2000 - $3000
     * Recalls: 16V773, 18E06
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Leaf Spring Breakage:**
@@ -107,19 +94,6 @@ The 2016 Ford Transit Connect is a versatile cargo van available in multiple con
     * Estimated Cost to Fix: $500 - $800
     * Recalls: 16V782
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door Handle Failure:**
@@ -139,15 +113,3 @@ The 2016 Ford Transit Connect is a versatile cargo van available in multiple con
 **Summary**
 
 The 2016 Ford Transit Connect has encountered various issues, ranging in severity from minor inconveniences to more significant mechanical failures. While some of the issues, such as battery drain, are relatively inexpensive to fix, other issues like turbocharger failure or clutch pack failure can be costly to repair. These issues can impact the vehicle's reliability and overall ownership experience.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

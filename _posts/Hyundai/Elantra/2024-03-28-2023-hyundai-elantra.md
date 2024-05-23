@@ -53,19 +53,6 @@ The Elantra is praised for its fuel-efficient engines, spacious interior, and ad
     * Estimated Cost to Fix: $1,500 - $5,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Strut Mount Bearing Failure:**
@@ -87,19 +74,6 @@ The Elantra is praised for its fuel-efficient engines, spacious interior, and ad
     * Solution: Diagnosis and repair of electrical system wiring or component.
     * Estimated Cost to Fix: $200 - $1,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -132,15 +106,3 @@ The Elantra is praised for its fuel-efficient engines, spacious interior, and ad
 **Summary:**
 
 The 2023 Hyundai Elantra offers fuel-efficient engines and a spacious interior, but it is not without its issues. The engine and transmission categories have the most significant concerns, including excessive oil consumption, turbocharger failures, and CVT hesitation. Electrical issues and infotainment glitches are also present. Suspension and exterior issues are generally minor but can add to the overall inconvenience. The severity and cost of these issues vary, but some can be quite costly and require extensive repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

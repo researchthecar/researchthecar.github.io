@@ -26,19 +26,6 @@ The 2006 Chevrolet Vectra is a mid-size sedan known for its spacious interior, c
 
 * **Shifting Problems:** Description/Symptoms: Transmission issues such as slipping, delayed shifts, or rough shifting. Solution: Inspection and repair or replacement of transmission components (e.g., solenoids, torque converter). Estimated Cost to Fix: $600 - $2,000+. Recalls: None Found.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Bearing Failure:** Description/Symptoms: Noises such as clunking or popping from the front of the vehicle, especially over bumps. Solution: Replacement of strut mount bearings. Estimated Cost to Fix: $200 - $400. Recalls: None Found.
@@ -48,19 +35,6 @@ The 2006 Chevrolet Vectra is a mid-size sedan known for its spacious interior, c
 
 * **Alternator Failure:** Description/Symptoms: Electrical issues such as battery draining, dim lights, or warning lights on dashboard. Solution: Replacement of alternator. Estimated Cost to Fix: $300 - $500. Recalls: None Found.
 * **Battery Terminal Corrosion:** Description/Symptoms: Loose or corroded battery terminals, resulting in difficulty starting the vehicle. Solution: Cleaning and tightening battery terminals. Estimated Cost to Fix: $50 - $100. Recalls: None Found.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -74,15 +48,3 @@ The 2006 Chevrolet Vectra is a mid-size sedan known for its spacious interior, c
 **Summary:**
 
 Overall, the 2006 Chevrolet Vectra has some common issues, but they are generally not severe and can be repaired at a reasonable cost. Some of the most significant issues include oil leaks, transmission problems, and electrical issues. However, the vehicle's strengths, such as its comfortable interior and fuel efficiency, make it a popular choice for many drivers.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -26,19 +26,6 @@ People who like the Quattroporte appreciate its stylish design, powerful engine,
 * **Automatic**
     * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Front suspension:** The front suspension can be noisy, especially over rough roads. Symptoms include clunking noises and a rough ride. The solution is to replace the worn suspension components. Estimated cost to fix: $500-$1,000.
 * **Rear suspension:** The rear suspension can also be noisy, especially over rough roads. Symptoms include clunking noises and a rough ride. The solution is to replace the worn suspension components. Estimated cost to fix: $500-$1,000.
@@ -47,19 +34,6 @@ People who like the Quattroporte appreciate its stylish design, powerful engine,
 * **Battery:** The battery can fail over time, causing the car to not start. Symptoms include difficulty starting the car, dimming headlights, and a dead battery. The solution is to replace the battery. Estimated cost to fix: $100-$200.
 * **Alternator:** The alternator can fail over time, causing the car to not charge its battery. Symptoms include a dead battery, dimming headlights, and a warning light on the dashboard. The solution is to replace the alternator. Estimated cost to fix: $500-$1,000.
 * **Starter:** The starter can fail over time, causing the car to not start. Symptoms include a clicking sound when turning the key, a dead battery, and a warning light on the dashboard. The solution is to replace the starter. Estimated cost to fix: $500-$1,000.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Door handles:** The door handles can break, making it difficult to open the doors. Symptoms include a loose or broken door handle. The solution is to replace the door handle. Estimated cost to fix: $200-$400.
@@ -71,15 +45,3 @@ People who like the Quattroporte appreciate its stylish design, powerful engine,
 
 **Summary**
 The 2003 Maserati Quattroporte is a stylish and powerful luxury sedan that has some common issues. However, the severity and cost of these issues vary, so it is important to do your research before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

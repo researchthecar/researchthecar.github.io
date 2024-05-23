@@ -73,19 +73,6 @@ Solution: Replace torque converter
 Estimated Cost to Fix: $1,000 - $2,000+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushing Failure:**
@@ -125,19 +112,6 @@ Description/Symptoms: Electrical malfunctions, intermittent electrical problems
 Solution: Inspect and repair wiring harness
 Estimated Cost to Fix: $200 - $1,000+
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -182,15 +156,3 @@ Recalls: None Found
 **Summary**
 
 The 2013 Chevrolet Suburban 2500 is a capable and spacious vehicle but is not without its potential issues. Some of the most common problems include engine intake manifold gasket failures, valve cover leaks, and transmission slip. While these issues can be costly to fix, many of them can be prevented with regular maintenance and inspections. Overall, the Suburban 2500 remains a reliable and versatile option for those in need of a large SUV with plenty of power and room.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

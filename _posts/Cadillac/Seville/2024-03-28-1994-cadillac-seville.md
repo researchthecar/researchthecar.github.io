@@ -34,19 +34,6 @@ The Seville was praised for its spacious interior, comfortable ride, and powerfu
     * Estimated Cost to Fix: $2,000 - $3,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **No Issues Found**
 
@@ -56,19 +43,6 @@ The Seville was praised for its spacious interior, comfortable ride, and powerfu
     * Solution: Replace alternator
     * Estimated Cost to Fix: $500 - $800
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Rust on Undercarriage and Fenders**
@@ -92,15 +66,3 @@ The Seville was praised for its spacious interior, comfortable ride, and powerfu
 **Summary**
 
 The 1994 Cadillac Seville is a well-equipped luxury sedan that offers a comfortable ride and powerful engines. However, it is important to be aware of the potential issues that can arise with this vehicle, including intake manifold gasket failure, head gasket failure, transmission slippage, alternator failure, rust on undercarriage and fenders, climate control failure, and power window failure. These issues can be costly to repair, so it is important to factor the potential cost of maintenance into your decision if you are considering purchasing a Seville.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

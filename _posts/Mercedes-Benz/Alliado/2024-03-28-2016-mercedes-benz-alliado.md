@@ -74,15 +74,3 @@ Estimated Cost to Fix: $300 - $700+
 ## **Summary**
 
 The 2016 Mercedes-Benz Alliado is a well-rounded luxury sedan with a comfortable interior and strong performance. However, potential issues with the engine, electrical, exterior, and interior components should be considered. The severity and cost of these issues vary, ranging from minor inconveniences to more significant repairs. Regular maintenance and prompt attention to any symptoms can help minimize the impact of these potential problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

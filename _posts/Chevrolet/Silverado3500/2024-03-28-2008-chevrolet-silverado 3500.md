@@ -28,19 +28,6 @@ The 2008 Chevrolet Silverado 3500 is a heavy-duty pickup truck that offers a ran
 * **Allison 2000 6-speed automatic**
     * **No issues found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf spring failure:** The leaf springs can break or sag, causing the vehicle to ride rough and handle poorly. Symptoms include a low ride height, uneven tire wear, and difficulty steering. The repair involves replacing the failed leaf springs. Estimated cost to fix: $500 - $1,500+
@@ -51,19 +38,6 @@ The 2008 Chevrolet Silverado 3500 is a heavy-duty pickup truck that offers a ran
 * **Alternator failure:** The alternator can fail, causing the battery to discharge and the vehicle to lose power. Symptoms include a dim or flickering dashboard, difficulty starting the engine, and electrical problems. The repair involves replacing the alternator. Estimated cost to fix: $500 - $1,000+
 * **Starter failure:** The starter can fail, preventing the engine from starting. Symptoms include a clicking noise when turning the ignition key, difficulty starting the engine, and eventually complete failure to start. The repair involves replacing the starter. Estimated cost to fix: $300 - $700+
 * **Battery failure:** The battery can fail, causing the vehicle to lose power. Symptoms include difficulty starting the engine, dim or flickering lights, and electrical problems. The repair involves replacing the battery. Estimated cost to fix: $100 - $250+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -79,15 +53,3 @@ The 2008 Chevrolet Silverado 3500 is a heavy-duty pickup truck that offers a ran
 **Summary**
 
 The 2008 Chevrolet Silverado 3500 has a number of known issues, particularly with its engine and transmission. These issues can be costly to repair and can affect the reliability and performance of the vehicle. Owners should be aware of these issues and factor them into their decision when purchasing a used Silverado 3500.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

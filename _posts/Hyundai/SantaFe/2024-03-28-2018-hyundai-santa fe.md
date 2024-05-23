@@ -55,19 +55,6 @@ Owners generally praise the Santa Fe's spacious interior, comfortable ride, and 
     * Estimated Cost to Fix: $500 - $800+
     * Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Failure**
@@ -90,19 +77,6 @@ Owners generally praise the Santa Fe's spacious interior, comfortable ride, and 
     * Estimated Cost to Fix: Varies depending on the cause
     * Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight Condensation**
@@ -122,15 +96,3 @@ Owners generally praise the Santa Fe's spacious interior, comfortable ride, and 
 **Summary**
 
 While the 2018 Hyundai Santa Fe is a generally reliable vehicle, some owners have experienced issues with certain components. Engine problems, such as timing chain and turbocharger failures, can be expensive to fix. Transmission issues can also be costly to repair. Suspension and electrical problems are less common but should be addressed promptly to avoid further damage. Overall, the severity and cost of these issues vary, but owners should be aware of potential problems and address them as needed.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

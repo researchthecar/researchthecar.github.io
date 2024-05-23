@@ -25,19 +25,6 @@ The 2008 Aston Martin DBS is a high-performance grand tourer powered by a natura
 - **Transmission Grinding:** Rough gear shifts, excessive noise, and difficulty engaging gears can indicate transmission grinding. Causes may include worn or damaged gears or synchros. A transmission rebuild or replacement may be necessary, with an estimated cost of $2,000 - $5,000.
 - **Clutch Slipping:** A slipping clutch might result in poor acceleration, a burning smell, or jumping gears. Clutch replacement is the solution, with an estimated cost of $1,500 - $2,500.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Faulty Adaptive Dampers:** The adaptive dampers may malfunction, reducing ride quality and handling. Symptoms includebouncy or overly stiff suspension responses. Replacement of the dampers is necessary, with an estimated cost of $1,000 - $2,000.
@@ -48,19 +35,6 @@ The 2008 Aston Martin DBS is a high-performance grand tourer powered by a natura
 - **Battery Drain:** Premature battery discharge can occur due to parasitic drains from faulty electrical components or a faulty alternator. Testing and replacing the affected parts is the solution, with an estimated cost of $200 - $500.
 - **Electrical Harness Issues:** Faulty wiring or electrical harnesses can lead to various electrical malfunctions, such as flickering lights, inoperative features, or engine stalling. Diagnosis and repair of affected harnesses is necessary, with an estimated cost of $500 - $1,500.
 - **Radio/Navigation Screen Malfunction:** The infotainment system may experience issues such as screen freezing, unresponsive touchscreens, or distorted audio. Software updates or replacement of the unit may be necessary, with an estimated cost of $500 - $1,000.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -89,15 +63,3 @@ The 2008 Aston Martin DBS is a high-performance grand tourer powered by a natura
 The 2008 Aston Martin DBS is a captivating grand tourer with its potent V12 engine and luxurious cabin. However, like any vehicle, it has certain issues to consider. The engine can suffer from oil leaks, exhaust manifold cracking, and sensor failures. The transmission may experience grinding or clutch slippage. Suspension components and electrical systems can also have problems. Some exterior and interior issues, such as trim fading and button malfunctions, have also been reported.
 
 While some issues can be minor and relatively inexpensive to fix, others can be more severe and costly. It is crucial for owners to stay informed about potential problems and to have them addressed promptly to ensure the vehicle's reliability and performance.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

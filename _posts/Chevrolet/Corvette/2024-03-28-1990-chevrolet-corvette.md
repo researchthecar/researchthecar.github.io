@@ -49,19 +49,6 @@ The Corvette was praised for its handling, performance, and stylish exterior. Ho
   - Solution: Replace the faulty shift solenoids.
   - Estimated Cost to Fix: $300 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Strut Mount Failure:** The strut mounts can wear out and fail, causing clunking noises and reduced handling performance.
   - Solution: Replace the strut mounts.
@@ -77,19 +64,6 @@ The Corvette was praised for its handling, performance, and stylish exterior. Ho
 - **Battery Terminal Corrosion:** The battery terminals can corrode over time, leading to poor electrical connections and difficulty starting the vehicle.
   - Solution: Clean or replace the battery terminals.
   - Estimated Cost to Fix: $50 - $100+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Targa Top Seal Failure:** The seal around the removable targa top can fail, allowing water to leak into the cabin.
@@ -110,15 +84,3 @@ The Corvette was praised for its handling, performance, and stylish exterior. Ho
 **Summary**
 
 The 1990 Chevrolet Corvette is a popular sports car with impressive performance and handling. However, it has a number of potential issues, including engine gasket failures, transmission problems, suspension wear, and electrical malfunctions. These issues can vary in severity and cost to fix. It is important for owners to be aware of these potential problems and to address them promptly to ensure the safety and reliability of their vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

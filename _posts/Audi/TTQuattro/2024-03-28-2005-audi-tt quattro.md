@@ -45,19 +45,6 @@ The 2005 Audi TT Quattro is a compact sports car that offers a blend of performa
         * Estimated Cost to Fix: $1,200 - $2,000
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Control Arm Bushings**
     * **Squeaking or Clunking Noises**
@@ -86,19 +73,6 @@ The 2005 Audi TT Quattro is a compact sports car that offers a blend of performa
         * Estimated Cost to Fix: $800 - $1,200
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 * **Convertible Top Mechanism**
     * **Leaking or Malfunctioning**
@@ -118,15 +92,3 @@ The 2005 Audi TT Quattro is a compact sports car that offers a blend of performa
 **Summary**
 
 The 2005 Audi TT Quattro is a reliable and well-built sports car with a few potential issues. The most common engine problems include intake valve carbon buildup, timing chain rattle, and oil consumption. The transmission can experience shift delays or jerking and clutch pack wear. Some suspension components, such as control arm bushings, may need replacement. Electrical issues like ignition coil failure and alternator problems have also been reported. The convertible top mechanism can occasionally leak or malfunction. Interior trim pieces may crack or fade over time. Overall, the severity and cost of these issues are relatively minor compared to other vehicles in its class.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

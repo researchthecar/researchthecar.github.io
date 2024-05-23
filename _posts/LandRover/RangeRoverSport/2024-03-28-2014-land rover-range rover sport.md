@@ -58,19 +58,6 @@ The 2014 Land Rover Range Rover Sport is a luxury SUV known for its off-road cap
     * Estimated Cost to Fix: $3,000 - $5,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Air Suspension Leaks:**
     * Description/Symptoms: The air suspension system may experience leaks from the air bags, causing the vehicle to sag or ride at an uneven height.
@@ -94,19 +81,6 @@ The 2014 Land Rover Range Rover Sport is a luxury SUV known for its off-road cap
     * Solution: Update the infotainment software or replace the problematic component.
     * Estimated Cost to Fix: $500 - $1,500
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Sunroof Problems:**
@@ -134,15 +108,3 @@ The 2014 Land Rover Range Rover Sport is a luxury SUV known for its off-road cap
 
 **Summary:**
 The 2014 Land Rover Range Rover Sport exhibits various issues that range in severity and cost. Engine problems, particularly with the 5.0L V8 and 3.0L V6 engines, can be costly to repair. Transmission issues can also lead to expensive replacements. Electrical faults, suspension leaks, and sunroof problems are common. While some interior issues may not be severe, the potentially dangerous panoramic sunroof shattering issue is a significant concern. Overall, the cost of these issues can accumulate, affecting the overall reliability and ownership experience of the Range Rover Sport.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

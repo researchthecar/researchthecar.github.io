@@ -20,19 +20,6 @@ The 2021 BMW 228i xDrive Gran Coupe is a compact luxury sedan with a 2.0-liter t
 
 * **Shifting problems:** Symptoms include delayed or rough shifting, slipping gears, and a lack of response. Solution: Replace the transmission fluid or transmission control module. Estimated Cost to Fix: $500 - $1,800+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Strut mount failure:** Symptoms include a clunking or rattling noise from the front suspension, uneven tire wear, and a decrease in ride quality. Solution: Replace the strut mounts. Estimated Cost to Fix: $300 - $600+
 * **Control arm bushing failure:** Symptoms include a vibration or clunking noise from the suspension, premature tire wear, and reduced handling performance. Solution: Replace the control arm bushings. Estimated Cost to Fix: $200 - $500+
@@ -42,19 +29,6 @@ The 2021 BMW 228i xDrive Gran Coupe is a compact luxury sedan with a 2.0-liter t
 * **Battery drain:** Symptoms include difficulty starting the vehicle, flickering lights, and a dead battery. Solution: Diagnose and repair the cause of the battery drain. Estimated Cost to Fix: Varies depending on the cause
 * **Infotainment system failure:** Symptoms include a black screen, frozen display, or unresponsive buttons. Solution: Reset or update the infotainment system software. Estimated Cost to Fix: $100 - $500+
 * **Electrical short:** Symptoms can vary depending on the location of the short but may include blown fuses, flickering lights, or electrical components not functioning correctly. Solution: Diagnose and repair the electrical short. Estimated Cost to Fix: $200 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Headlight condensation:** Symptoms include water or moisture inside the headlight housing. Solution: Replace the headlight assembly. Estimated Cost to Fix: $500 - $1,000+
@@ -66,15 +40,3 @@ The 2021 BMW 228i xDrive Gran Coupe is a compact luxury sedan with a 2.0-liter t
 
 **Summary**
 The 2021 BMW 228i xDrive Gran Coupe offers a balance of performance and luxury, but it is not without its issues. The engine and transmission are prone to several problems, including fuel injector failure, turbocharger wastegate malfunction, and shifting problems. The suspension and electrical systems have also been known to experience issues. However, the cost of repairs for these problems varies widely depending on the specific issue and the severity of the damage. Overall, the 228i Gran Coupe is a reliable vehicle, but it is important to be aware of the potential issues that may arise.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -44,19 +44,6 @@ The 2021 Dodge Challenger is a powerful muscle car that offers a range of engine
       * Solution: Replace solenoids or reprogram transmission control module
       * Estimated Cost to Fix: $1,000 - $3,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushings**
@@ -79,19 +66,6 @@ The 2021 Dodge Challenger is a powerful muscle car that offers a range of engine
     * Solution: Replace headlight assembly
     * Estimated Cost to Fix: $300 - $600
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rear Spoiler Detachment**
@@ -113,15 +87,3 @@ The 2021 Dodge Challenger is a powerful muscle car that offers a range of engine
 **Summary**
 
 The 2021 Dodge Challenger offers impressive performance and styling, but it comes with a range of potential issues. While some problems are minor and inexpensive to fix, others can be major and costly. The severity and cost of the issues vary depending on the engine and transmission options chosen. Prospective buyers should be aware of these issues before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

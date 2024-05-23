@@ -29,19 +29,6 @@ The 2019 Audi RS5 Sportback is a high-performance sports car that combines elega
         * Estimated Cost to Fix: $500 - $2,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Adaptive Dampers Failure**: Premature wear or failure of the adaptive dampers, leading to poor ride quality and handling issues.
@@ -59,19 +46,6 @@ The 2019 Audi RS5 Sportback is a high-performance sports car that combines elega
         * Solution: Inspection and repair/replacement of electrical harness
         * Estimated Cost to Fix: $500 - $2,000+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -94,15 +68,3 @@ The 2019 Audi RS5 Sportback is a high-performance sports car that combines elega
 **Summary**
 
 While the 2019 Audi RS5 Sportback offers impressive performance and luxury, it has reported issues in several areas. The severity and cost of these issues vary, with some being relatively minor and affordable to fix, while others can be more serious and expensive. Turbocharger failure, timing chain rattle, and suspension issues are among the more costly and concerning problems. However, it's important to note that these issues may not affect all RS5 Sportbacks, and many owners have reported a positive experience with the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

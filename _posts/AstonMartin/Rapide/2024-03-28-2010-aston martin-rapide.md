@@ -34,19 +34,6 @@ The 2010 Aston Martin Rapide is a four-door grand tourer that was produced from 
         * **Estimated Cost to Fix:** $1,500 - $2,500+
         * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
     * **Front suspension noise**
@@ -62,19 +49,6 @@ The 2010 Aston Martin Rapide is a four-door grand tourer that was produced from 
         * **Solution:** Replace the battery or check for electrical system leaks.
         * **Estimated Cost to Fix:** $100 - $500+
         * **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -95,15 +69,3 @@ The 2010 Aston Martin Rapide is a four-door grand tourer that was produced from 
 **Summary**
 
 The 2010 Aston Martin Rapide is a reliable and luxurious vehicle, but it does have some common issues that owners should be aware of. Engine and transmission problems are relatively rare, but suspension, electrical, and interior issues can be more frequent. The severity of these issues can vary, and the cost to repair them can be significant. Potential owners should consider these issues before purchasing a Rapide and factor in the potential cost of repairs into their decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

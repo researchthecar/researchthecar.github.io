@@ -32,19 +32,6 @@ The 1990 Chrysler Shadow is a compact car that was available in base, ES, and ES
 * **Noisy Operation:** Occurs when the transmission makes a whining or grinding noise while driving. Solution: Service the transmission by replacing worn or damaged components. Estimated Cost to Fix: $200 - $500+
 * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Strut and Shock Absorber Failure:** Causes a rough ride, poor handling, and uneven tire wear. Solution: Replace the struts and shock absorbers. Estimated Cost to Fix: $400 - $800+
@@ -56,19 +43,6 @@ The 1990 Chrysler Shadow is a compact car that was available in base, ES, and ES
 * **Alternator Failure:** Causes the battery to drain and the vehicle to stall. Solution: Replace the alternator. Estimated Cost to Fix: $300 - $600+
 * **Starter Failure:** Prevents the engine from starting. Solution: Replace the starter. Estimated Cost to Fix: $200 - $400+
 * **No Issues Found**
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -84,15 +58,3 @@ The 1990 Chrysler Shadow is a compact car that was available in base, ES, and ES
 **Summary:**
 
 The 1990 Chrysler Shadow has several common issues that can be costly to repair. Engine problems, such as oil leaks and turbocharger failures, are particularly concerning. Transmission issues can also lead to significant repair bills. Fortunately, many of the electrical, suspension, and interior issues are relatively inexpensive to fix. Overall, the Shadow is a reliable vehicle with a comfortable interior, but potential buyers should be aware of the potential issues before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

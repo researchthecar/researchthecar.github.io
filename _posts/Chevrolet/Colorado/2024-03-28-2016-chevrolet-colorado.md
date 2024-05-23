@@ -52,19 +52,6 @@ Solution: Rebuild or replace the transmission.
 Estimated Cost to Fix: $2500 - $5000+
 Recalls: NHTSA Campaign Number: 20V022000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Coil Spring Sag**
@@ -80,19 +67,6 @@ Description/Symptoms: Battery drains prematurely, especially when the vehicle is
 Solution: Identify and fix the source of the parasitic drain, such as a faulty accessory or module.
 Estimated Cost to Fix: Varies depending on the source of the drain
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -113,15 +87,3 @@ Recalls: NHTSA Campaign Number: 17V953000
 **Summary:**
 
 The 2016 Chevrolet Colorado has various reported issues ranging from engine knocking to suspension sag and electrical problems. Some issues, such as the fuel injector failure in the diesel engine and the transmission slippage in the automatic transmission, can be costly to repair. However, it's important to note that not all Colorado owners experience these problems, and the overall reliability of the vehicle is generally considered to be average.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -24,19 +24,6 @@ The 1995 Land Rover Defender 90 is a rugged and capable off-road vehicle. It is 
 
 * **Gearbox failure:** Symptoms include difficulty shifting gears, grinding noises, and loss of power. Solution: Replace the gearbox. Estimated Cost to Fix: $2,000 - $3,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf spring failure:** Symptoms include sagging rear end, loss of ride height, and increased noise. Solution: Replace the leaf springs. Estimated Cost to Fix: $500 - $1,000+
@@ -47,19 +34,6 @@ The 1995 Land Rover Defender 90 is a rugged and capable off-road vehicle. It is 
 * **Alternator failure:** Symptoms include dim lights, flickering dashboard lights, and difficulty starting. Solution: Replace the alternator. Estimated Cost to Fix: $500 - $800+
 * **Battery failure:** Symptoms include difficulty starting, dim lights, and electrical problems. Solution: Replace the battery. Estimated Cost to Fix: $100 - $200+
 * **Wiring harness issues:** Symptoms include electrical problems, flickering lights, and loss of power. Solution: Repair or replace the wiring harness. Estimated Cost to Fix: $500 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -72,15 +46,3 @@ The 1995 Land Rover Defender 90 is a rugged and capable off-road vehicle. It is 
 **Summary:**
 
 The 1995 Land Rover Defender 90 is a capable off-road vehicle, but it does have some common issues. The most severe and expensive issues include engine and transmission problems, which can cost over $1,000 to fix. However, many of the other issues are relatively minor and can be fixed for a few hundred dollars. Overall, the Defender 90 is a reliable vehicle that can provide years of off-road enjoyment.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

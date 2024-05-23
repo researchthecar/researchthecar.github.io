@@ -34,19 +34,6 @@ The 2010 Ford Transit Connect is a compact cargo van available with two engine o
 - Solution: Replace the solenoid pack $400-$800
 - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Front Sway Bar Links**: The front sway bar links may fail, causing rattling noises, excessive body roll, and poor handling.
 - Description/Symptoms: Rattling noises, excessive body roll, poor handling
@@ -58,19 +45,6 @@ The 2010 Ford Transit Connect is a compact cargo van available with two engine o
 - Description/Symptoms: Battery dies prematurely, difficulty starting the vehicle, flickering lights
 - Solution: Diagnose and repair the source of the battery drain (varies depending on the cause) $100-$500
 - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Rear Bumper Cracking**: The rear bumper may crack due to excessive weight or impact.
@@ -86,15 +60,3 @@ The 2010 Ford Transit Connect is a compact cargo van available with two engine o
 
 **Summary:**
 The 2010 Ford Transit Connect has several reported issues, including engine and transmission problems, suspension wear, electrical issues, exterior cracking, and interior squeaks and rattles. While some issues, such as the rear bumper cracking, are relatively minor, others, like head gasket failure and IMRC system failures, can be more costly and severe. Potential buyers should be aware of these potential issues before purchasing a used Transit Connect.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

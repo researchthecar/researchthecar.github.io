@@ -26,19 +26,6 @@ The 1994 Ford Grand Marquis is a full-size luxury sedan known for its spacious i
 - **Shift solenoid failure:** Symptoms include hard shifting, slipping gears, and delayed or no engagement. Solution: Replace the shift solenoid. Estimated Cost to Fix: $200 - $400+
 - **Torque converter failure:** Symptoms include shuddering, slipping, and loss of power while driving. Solution: Replace the torque converter. Estimated Cost to Fix: $1,000 - $2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Struts and shock absorbers:** Symptoms include excessive bouncing, poor handling, and reduced ride comfort. Solution: Replace the struts and shock absorbers. Estimated Cost to Fix: $400 - $800+
 - **Control arm bushings:** Symptoms include clunking noises, poor handling, and reduced alignment. Solution: Replace the control arm bushings. Estimated Cost to Fix: $200 - $400+
@@ -46,19 +33,6 @@ The 1994 Ford Grand Marquis is a full-size luxury sedan known for its spacious i
 **Electrical**
 - **Alternator failure:** Symptoms include dim headlights, flickering gauges, and eventually a dead battery. Solution: Replace the alternator. Estimated Cost to Fix: $400 - $600+
 - **Starter failure:** Symptoms include difficulty or inability to start the engine. Solution: Replace the starter. Estimated Cost to Fix: $200 - $400+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Rust:** Symptoms include bubbles, flaking paint, and corrosion on the body panels. Solution: Repair or replace the affected panels. Estimated Cost to Fix: Varies depending on the severity and location of the rust
@@ -69,15 +43,3 @@ The 1994 Ford Grand Marquis is a full-size luxury sedan known for its spacious i
 
 **Summary**
 The 1994 Ford Grand Marquis is a popular and comfortable full-size sedan with some known reliability issues. The engine and transmission can be problematic, and the suspension, electrical, and interior components may also experience occasional issues. The severity of these issues varies, and the cost to fix them can be significant. Potential buyers should factor in the potential maintenance and repair costs associated with this vehicle before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

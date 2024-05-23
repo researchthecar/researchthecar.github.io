@@ -67,19 +67,6 @@ The 1990 Chevrolet R2500 Suburban is a full-size SUV that was available with a v
         * Solution: Replace transmission pump
         * Estimated Cost to Fix: $1,200 - $1,800
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front End Clunking**
@@ -109,19 +96,6 @@ The 1990 Chevrolet R2500 Suburban is a full-size SUV that was available with a v
     * Description/Symptoms: Intermittent electrical problems
     * Solution: Repair or replace damaged wiring harness
     * Estimated Cost to Fix: $500 - $1,500
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -156,15 +130,3 @@ The 1990 Chevrolet R2500 Suburban is a full-size SUV that was available with a v
 **Summary**
 
 The 1990 Chevrolet R2500 Suburban is a reliable and capable full-size SUV. However, like all vehicles, it is not without its problems. Some of the more common issues include intake manifold gasket failure, head gasket blown, valve guide seal leaks, transmission slipping, suspension clunking, electrical problems, and rust. The severity and cost of these issues can vary depending on the severity of the problem and the parts that need to be replaced. It is important to have any potential issues diagnosed and repaired by a qualified mechanic to ensure the safety and longevity of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

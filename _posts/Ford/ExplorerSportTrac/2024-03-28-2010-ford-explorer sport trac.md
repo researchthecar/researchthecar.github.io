@@ -45,19 +45,6 @@ The 2010 Ford Explorer Sport Trac is a midsize pickup-based SUV that offers a bl
         - Estimated Cost to Fix: $400 - $1,000+
         - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Leaf Spring Defects**
         - Description/Symptoms: Sagging or broken leaf springs, causing reduced ground clearance or alignment issues.
@@ -81,19 +68,6 @@ The 2010 Ford Explorer Sport Trac is a midsize pickup-based SUV that offers a bl
         - Solution: Inspect the electrical system for parasitic drains and replace faulty components as needed.
         - Estimated Cost to Fix: $100 - $500+
         - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Rust**
@@ -121,15 +95,3 @@ The 2010 Ford Explorer Sport Trac is a midsize pickup-based SUV that offers a bl
 
 **Summary**
 The 2010 Ford Explorer Sport Trac offers a blend of utility and off-road capability, but it is not without its issues. Engine concerns include VVT solenoid problems and valve cover gasket leaks, while the transmission can experience shift solenoid failures and torque converter shudder. The suspension may suffer from leaf spring defects or shock absorber failures. Electrical issues range from headlamp switch failures to battery drains. Exterior concerns include rust and clear coat peeling, while interior issues include creaking or rattling and sun visor mirror caps falling off. The severity and cost of these issues can vary depending on the specific problem and the extent of the damage.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

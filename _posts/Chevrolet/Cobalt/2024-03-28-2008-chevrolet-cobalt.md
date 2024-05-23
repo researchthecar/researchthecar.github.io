@@ -39,19 +39,6 @@ The Cobalt is known for its sporty handling and responsive performance. However,
 
 * **Shift Solenoid Failure:** Description/Symptoms: The shift solenoids fail, resulting in erratic gear shifts and transmission problems. Solution: Replace the shift solenoids. Estimated Cost to Fix: $300 - $600+ Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Failure:** Description/Symptoms: The front struts wear out or break, causing excessive bouncing and noise. Solution: Replace the front struts. Estimated Cost to Fix: $400 - $800+ Recalls: None Found
@@ -59,19 +46,6 @@ The Cobalt is known for its sporty handling and responsive performance. However,
 **Electrical**
 
 * **Battery Discharge:** Description/Symptoms: The battery discharges or fails frequently. Solution: Replace the battery or check for parasitic power drain. Estimated Cost to Fix: $100 - $200+ Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -85,15 +59,3 @@ The Cobalt is known for its sporty handling and responsive performance. However,
 **Summary:**
 
 The 2008 Chevrolet Cobalt has several notable issues, including intake manifold gasket failures, valve cover gasket leaks, and transmission problems. While some issues are relatively inexpensive to fix, others can be quite costly. Additionally, rust on the undercarriage and airbag light illumination can be safety concerns. Overall, the Cobalt is a vehicle with mixed reliability, and potential buyers should be aware of these potential problems before making a purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

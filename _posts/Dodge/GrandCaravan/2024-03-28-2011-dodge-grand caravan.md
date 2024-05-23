@@ -63,19 +63,6 @@ While the Grand Caravan offers many sought-after features, it has also faced cri
     - Estimated Cost to Fix: $1,000 - $1,500
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Strut Mount Failure**
@@ -101,19 +88,6 @@ While the Grand Caravan offers many sought-after features, it has also faced cri
     - Solution: Replace the alternator.
     - Estimated Cost to Fix: $500 - $800
     - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -144,15 +118,3 @@ While the Grand Caravan offers many sought-after features, it has also faced cri
 **Summary**
 
 The 2011 Dodge Grand Caravan offers a spacious and practical interior, but it has been known to experience a variety of issues. While some issues, such as valve cover gasket leaks, are relatively minor and inexpensive to fix, others, such as timing chain failure and torque converter failure, can be costly and time-consuming to repair. Potential buyers should be aware of these issues and factor them into their purchasing decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

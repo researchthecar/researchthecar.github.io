@@ -45,19 +45,6 @@ The 2014 Land Rover Defender is a rugged SUV known for its off-road capabilities
     - Estimated Cost to Fix: $2,000 - $4,000+
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Leaf Spring Failure:**
     - Description/Symptoms: Sagging rear end, rough ride.
@@ -83,19 +70,6 @@ The 2014 Land Rover Defender is a rugged SUV known for its off-road capabilities
     - Solution: Replace alternator.
     - Estimated Cost to Fix: $800 - $1,200
     - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -128,15 +102,3 @@ The 2014 Land Rover Defender is a rugged SUV known for its off-road capabilities
 **Summary**
 
 The 2014 Land Rover Defender is a reliable off-roader with some potential issues. The most common issues affect the engine, transmission, and suspension, with repairs ranging from minor to costly. The electrical, exterior, and interior issues are generally less severe and less expensive to fix. Overall, owners should expect to incur occasional repair costs, but the Defender's off-road capabilities and rugged durability make it a worthwhile investment for those who prioritize adventure.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

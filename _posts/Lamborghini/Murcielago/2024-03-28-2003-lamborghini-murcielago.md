@@ -94,15 +94,3 @@ Despite its impressive performance, the Murcielago has been known to experience 
 ### Summary
 
 Overall, the 2003 Lamborghini Murcielago is a desirable high-performance sports car, but it is not without its issues. The most common problems include intake valve failure, exhaust manifold cracking, and suspension bushing failure. While these issues can be costly to repair, they are generally not as severe as major engine or transmission failures. The Murcielago's impressive performance and aggressive styling continue to make it a popular choice for enthusiasts.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

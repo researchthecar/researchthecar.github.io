@@ -35,19 +35,6 @@ The 2019 Ford SSV Plug-In Hybrid is a full-size pickup truck that offers an impr
 
 * **No significant issues reported**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaking rear shocks:**
@@ -70,19 +57,6 @@ The 2019 Ford SSV Plug-In Hybrid is a full-size pickup truck that offers an impr
     * Solution: Diagnosing and fixing the electrical system
     * Estimated Cost to Fix: Varies depending on the issue
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **No significant issues reported**
@@ -97,15 +71,3 @@ The 2019 Ford SSV Plug-In Hybrid is a full-size pickup truck that offers an impr
 **Summary:**
 
 Overall, the 2019 Ford SSV Plug-In Hybrid has received mixed reviews. Some owners have reported significant issues with the engine, transmission, and suspension, while others have had a relatively trouble-free experience. The severity and cost of the issues vary depending on the specific problem. It's important to do thorough research and consider user feedback before making a purchasing decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

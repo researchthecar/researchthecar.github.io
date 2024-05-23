@@ -84,19 +84,6 @@ The Silverado 3500 HD is praised for its powerful engines, heavy-duty capabiliti
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf Spring Failure**
@@ -122,19 +109,6 @@ The Silverado 3500 HD is praised for its powerful engines, heavy-duty capabiliti
   * Solution: Diagnose and repair the short circuit in the electrical system.
   * Estimated Cost to Fix: $100 - $500+
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -178,15 +152,3 @@ The Silverado 3500 HD is praised for its powerful engines, heavy-duty capabiliti
 **Summary**
 
 The 2017 Chevrolet Silverado 3500 HD is a generally reliable vehicle with a few notable issues. The most serious issues include engine and transmission failures, which can be costly to repair. Other issues, such as suspension and electrical problems, are less severe and more common in high-mileage vehicles or those used in harsh conditions. Overall, the Silverado 3500 HD is a durable and capable pickup truck, but it is important to be aware of the potential issues before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

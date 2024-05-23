@@ -43,19 +43,6 @@ The 2003 Maserati Spyder is a high-performance convertible that offers a thrilli
         * Estimated Cost to Fix: $2,500 - $4,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -72,19 +59,6 @@ The 2003 Maserati Spyder is a high-performance convertible that offers a thrilli
     * Solution: Repair or replace the affected wires or connectors.
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -112,15 +86,3 @@ The 2003 Maserati Spyder is a high-performance convertible that offers a thrilli
 The 2003 Maserati Spyder is a high-performance convertible that provides an exhilarating driving experience. However, it is plagued by reliability issues that can be costly to repair. Engine issues such as valve stem seal leaks and crankshaft position sensor failures are common. Transmission problems, including gear synchronization issues and slipping, are also prevalent. Other concerns include electrical faults, convertible top motor failure, and climate control system malfunctions.
 
 The severity and cost of the issues vary depending on the specific problem, but overall, the 2003 Maserati Spyder is not known for its reliability. Owners should be prepared for potential repairs and maintenance expenses.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

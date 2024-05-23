@@ -25,19 +25,6 @@ Owners of the Impala Limited generally praise its comfortable ride, spacious cab
     * **Shifting problems:** This issue can cause the transmission to shift gears harshly or not at all. The solution is to replace the transmission control module. The estimated cost to fix is $500 - $1,000.
     * **Torque converter failure:** This issue can cause the transmission to shudder or slip. The solution is to replace the torque converter. The estimated cost to fix is $1,000 - $2,000.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front strut failure:** This issue can cause the front of the vehicle to bounce or shake. The solution is to replace the front struts. The estimated cost to fix is $500 - $1,000.
@@ -47,19 +34,6 @@ Owners of the Impala Limited generally praise its comfortable ride, spacious cab
 
 * **Battery drain:** This issue can cause the battery to drain quickly, even when the vehicle is not in use. The solution is to replace the battery. The estimated cost to fix is $100 - $200.
 * **Alternator failure:** This issue can cause the vehicle to lose power or stall. The solution is to replace the alternator. The estimated cost to fix is $500 - $1,000.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -74,15 +48,3 @@ Owners of the Impala Limited generally praise its comfortable ride, spacious cab
 **Summary**
 
 The 2016 Chevrolet Impala Limited has a number of reported issues, including engine problems, transmission problems, suspension problems, electrical problems, exterior problems, and interior problems. The severity of the issues varies, and the cost to fix them can range from a few hundred dollars to several thousand dollars. Overall, the Impala Limited is a reliable vehicle, but it is important to be aware of the potential issues that can occur.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

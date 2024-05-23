@@ -98,15 +98,3 @@ Recalls: None Found
 ### **Summary**
 
 Overall, the 2012 Hyundai Sonata had some notable issues, particularly with the 2.4-liter four-cylinder engine, the six-speed automatic transmission, and the suspension. The engine issues could be serious and expensive to fix, while the transmission and suspension issues were generally less severe but still required attention. The electrical system, exterior, and interior also had some problems, but these were less common and less costly to address.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

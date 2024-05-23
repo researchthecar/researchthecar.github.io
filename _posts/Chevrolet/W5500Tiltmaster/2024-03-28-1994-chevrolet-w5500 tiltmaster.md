@@ -22,19 +22,6 @@ The 1994 Chevrolet W5500 Tiltmaster is a heavy-duty commercial vehicle designed 
 
 * **Neutral Safety Switch Failure:** Symptoms include inability to shift out of park and starting issues. Solution: Replace the faulty switch. Estimated Cost to Fix: $200 - $300+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf Spring Failure:** Symptoms include sagging rear end, reduced stability, and rough ride. Solution: Replace broken leaf springs. Estimated Cost to Fix: $500 - $800+
@@ -44,19 +31,6 @@ The 1994 Chevrolet W5500 Tiltmaster is a heavy-duty commercial vehicle designed 
 
 * **Battery Discharge:** Symptoms include difficulty starting or battery running down quickly. Solution: Test battery and electrical system; repair or replace faulty components as needed. Estimated Cost to Fix: $100 - $500+
 * **Alternator Failure:** Symptoms include dimming lights, battery not charging, and electrical system problems. Solution: Replace the alternator. Estimated Cost to Fix: $300 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -69,15 +43,3 @@ The 1994 Chevrolet W5500 Tiltmaster is a heavy-duty commercial vehicle designed 
 **Summary:**
 
 The 1994 Chevrolet W5500 Tiltmaster is a capable commercial vehicle that faces some common issues. The severity and cost of repairs vary depending on the specific problem. While some issues, such as fuel injector failure, can be costly, others, such as battery discharge, are relatively inexpensive to fix. Overall, owners should be aware of these potential issues when considering this vehicle for heavy-duty applications.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

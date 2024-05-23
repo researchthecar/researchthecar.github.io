@@ -75,19 +75,6 @@ The 1996 Chevrolet W6500 Tiltmaster is a heavy-duty commercial truck available w
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf Spring Breakage:**
@@ -114,19 +101,6 @@ The 1996 Chevrolet W6500 Tiltmaster is a heavy-duty commercial truck available w
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Body Rust:**
@@ -151,15 +125,3 @@ The 1996 Chevrolet W6500 Tiltmaster is a heavy-duty commercial truck available w
 **Summary:**
 
 The 1996 Chevrolet W6500 Tiltmaster is a reliable and powerful truck, but it is not without its issues. The engine and transmission can experience various problems, including overheating, gasket failure, turbocharger failure, and transmission slipping. The suspension and electrical systems can also face issues with leaf spring breakage, shock absorber failure, alternator failure, and battery drain. The body may experience rust, and the interior can have problems with the HVAC system and window switches. The severity and cost of these issues can vary depending on the specific part that needs repair or replacement.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

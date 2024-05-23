@@ -80,15 +80,3 @@ Despite its impressive performance, the 2019 Mercedes-Benz AMG GT C has faced so
 **Summary:**
 
 While the 2019 Mercedes-Benz AMG GT C offers exceptional performance and driving experience, it has faced some reliability issues. Engine and transmission problems, such as valve spring failure and clutch pack wear, are among the most severe and costly. Electrical issues, exterior components like headlights, and interior concerns are also prevalent but generally less severe. Overall, the cost of repairs for these issues can be substantial, impacting the ownership experience for some drivers.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -41,19 +41,6 @@ The 2021 Chevrolet Colorado is a midsize pickup truck that offers a range of eng
   * Estimated Cost to Fix: $200 - $500
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Noise:** Rattling or clunking sounds from the front suspension, especially when driving over rough roads.
@@ -72,19 +59,6 @@ The 2021 Chevrolet Colorado is a midsize pickup truck that offers a range of eng
   * Solution: Update software or replace the infotainment unit.
   * Estimated Cost to Fix: $500 - $2,000+
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -108,15 +82,3 @@ The 2021 Chevrolet Colorado is a midsize pickup truck that offers a range of eng
 **Summary**
 
 The 2021 Chevrolet Colorado is generally a reliable vehicle, but it has faced a number of issues, particularly with its engine and transmission. These issues can range in severity and cost, but they are typically not major or widespread. However, it is important for potential buyers to be aware of these issues before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

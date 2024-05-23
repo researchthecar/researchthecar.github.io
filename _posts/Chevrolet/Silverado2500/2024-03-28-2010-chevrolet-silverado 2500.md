@@ -51,19 +51,6 @@ Here is a comprehensive list of issues that have been reported by owners of the 
 * Estimated Cost to Fix: $2,000 - $4,000+
 * Recalls: 14T003
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf spring breakage**
@@ -85,19 +72,6 @@ Here is a comprehensive list of issues that have been reported by owners of the 
 * Solution: Diagnose and repair the affected electrical components.
 * Estimated Cost to Fix: Varies depending on the severity of the issue
 * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -146,15 +120,3 @@ Here is a comprehensive list of issues that have been reported by owners of the 
 The 2010 Chevrolet Silverado 2500 is a capable truck with a range of engine and transmission options. However, it is not without potential issues. The most severe issues include transmission failure, turbocharger failure (diesel models only), and leaf spring breakage. Other common problems include water pump failure, electrical gremlins, and HVAC system failure. The cost of repairs for these issues can range from a few hundred dollars to over $4,000.
 
 Before purchasing a 2010 Chevrolet Silverado 2500, it is important to be aware of these potential issues and to have the vehicle inspected by a qualified mechanic.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

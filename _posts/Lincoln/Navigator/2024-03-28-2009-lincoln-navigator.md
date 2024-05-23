@@ -44,19 +44,6 @@ Owners of the 2009 Lincoln Navigator generally praise its powerful engines, comf
     * Estimated Cost to Fix: $300 - $700+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Compressor Failure:**
@@ -78,19 +65,6 @@ Owners of the 2009 Lincoln Navigator generally praise its powerful engines, comf
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Tailgate Corrosion:**
@@ -110,15 +84,3 @@ Owners of the 2009 Lincoln Navigator generally praise its powerful engines, comf
 **Summary**
 
 Overall, the 2009 Lincoln Navigator is a reliable and well-built vehicle. However, some owners have reported issues that can be costly to repair. The most common issues include spark plug failures, intake manifold gasket leaks, and valve timing solenoid failures in the engine, as well as shift solenoid failures in the transmission. Other issues include air suspension compressor failures in the suspension, battery drains and power window failures in the electrical system, tailgate corrosion in the exterior, and door lock actuator failures in the interior.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

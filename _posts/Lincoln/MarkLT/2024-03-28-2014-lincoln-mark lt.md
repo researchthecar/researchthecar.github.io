@@ -42,19 +42,6 @@ Despite its luxurious interior and impressive performance, the 2014 Lincoln Mark
         * Estimated Cost to Fix: $1,500 - $3,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension**
@@ -84,19 +71,6 @@ Despite its luxurious interior and impressive performance, the 2014 Lincoln Mark
         * Solution: Replacement of the headlight assemblies.
         * Estimated Cost to Fix: $500 - $1,000+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -133,15 +107,3 @@ Despite its luxurious interior and impressive performance, the 2014 Lincoln Mark
 The 2014 Lincoln Mark LT is a capable and well-equipped pickup truck, but it has faced its fair share of problems. Engine issues, such as timing chain and intake manifold problems, can be expensive to fix. Transmission problems can also be costly, and suspension issues can affect ride quality. Electrical problems, including battery drain and headlight condensation, add to the list of issues. Exterior issues, such as rust and peeling trim, are not uncommon. Interior problems, including AC compressor failure and touchscreen malfunction, are also present.
 
 Overall, the severity and cost of the issues with the 2014 Lincoln Mark LT can vary. Some issues may be minor and inexpensive to fix, while others can be more serious and require significant repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

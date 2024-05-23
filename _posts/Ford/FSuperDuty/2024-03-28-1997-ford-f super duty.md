@@ -76,19 +76,6 @@ The 1997 Ford F Super Duty was a heavy-duty pickup truck available with a range 
     * Solution: Replace synchronizers
     * Estimated Cost to Fix: $500 - $1000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf Spring Breakage:**
@@ -102,19 +89,6 @@ The 1997 Ford F Super Duty was a heavy-duty pickup truck available with a range 
     * Description/Symptoms: Battery dies quickly, electrical issues
     * Solution: Test and replace faulty electrical component (alternator, parasitic draw)
     * Estimated Cost to Fix: $200 - $1000
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -137,15 +111,3 @@ The 1997 Ford F Super Duty was a heavy-duty pickup truck available with a range 
 **Summary:**
 
 The 1997 Ford F Super Duty is a robust truck with some common issues that can be costly to fix. Engine issues, transmission overheating, and suspension problems are the most severe and expensive issues to address. The cost of repairs can vary depending on the severity of the problem and the availability of parts.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

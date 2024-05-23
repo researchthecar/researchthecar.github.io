@@ -32,19 +32,6 @@ The 2018 Mercedes-Benz AMG GT C is a high-performance sports car powered by a tw
      - Solution: Repair or replace faulty solenoids or valve body.
      - Estimated Cost to Fix: $1,500 - $3,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Front Suspension:**
@@ -69,19 +56,6 @@ The 2018 Mercedes-Benz AMG GT C is a high-performance sports car powered by a tw
      - Solution: Reseal headlights or replace faulty components.
      - Estimated Cost to Fix: $500 - $1,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior (Besides Paint)**
 
 - **Spoilers:**
@@ -98,15 +72,3 @@ The 2018 Mercedes-Benz AMG GT C is a high-performance sports car powered by a tw
 **Summary:**
 
 Overall, the 2018 Mercedes-Benz AMG GT C is a high-performance vehicle with impressive capabilities. However, it has experienced some issues with its engine, transmission, and electrical systems. The severity and cost of these issues can vary depending on the type of component affected and the extent of the problem. Potential owners should be aware of these issues before purchasing a used AMG GT C and budget for potential repairs if necessary.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

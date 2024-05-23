@@ -47,19 +47,6 @@ The 2007 Chevrolet Malibu is a midsize sedan known for its spacious interior, co
 
 - **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Front Strut Failure:**
@@ -81,19 +68,6 @@ The 2007 Chevrolet Malibu is a midsize sedan known for its spacious interior, co
   - Solution: Replace headlight switch
   - Estimated Cost to Fix: $200 - $300+
   - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -120,15 +94,3 @@ The 2007 Chevrolet Malibu is a midsize sedan known for its spacious interior, co
 **Summary:**
 
 The 2007 Chevrolet Malibu is a reliable and practical midsize sedan, but it is not without its issues. Owners may encounter problems with the engine, transmission, suspension, electrical, and interior components. Some issues, such as intake manifold gasket failure and timing chain tensioner failure, can be costly to repair. However, the overall severity of the issues is moderate, and most repairs are within the average cost range for midsize sedans of this age.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

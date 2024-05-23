@@ -43,19 +43,6 @@ The 1998 Ferrari 550 Maranello is a high-performance sports car manufactured by 
     * Solution: Replace the worn synchronizer rings.
     * Estimated Cost to Fix: $2,000 - $3,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Arm Bushing Wear:**
@@ -77,19 +64,6 @@ The 1998 Ferrari 550 Maranello is a high-performance sports car manufactured by 
     * Description/Symptoms: Electrical system not charging the battery, warning lights illuminated.
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $1,000 - $1,500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -116,15 +90,3 @@ The 1998 Ferrari 550 Maranello is a high-performance sports car manufactured by 
 **Summary**
 
 The 1998 Ferrari 550 Maranello is a highly sought-after sports car with exceptional performance and handling. However, it is not without its issues, which can be costly to repair. Potential buyers should be aware of these potential problems and budget accordingly. While some issues are minor and easily resolved, others, such as engine valve seat recession, can be very expensive to fix.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

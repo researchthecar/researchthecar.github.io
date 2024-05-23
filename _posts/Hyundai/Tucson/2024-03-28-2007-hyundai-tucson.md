@@ -50,19 +50,6 @@ The 2007 Hyundai Tucson is a compact SUV that was available with a 2.0L inline-4
     * Estimated Cost to Fix: $600 - $1,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Mount Failure**
@@ -89,19 +76,6 @@ The 2007 Hyundai Tucson is a compact SUV that was available with a 2.0L inline-4
     * Estimated Cost to Fix: $100 - $200
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust on Body Panels**
@@ -126,15 +100,3 @@ The 2007 Hyundai Tucson is a compact SUV that was available with a 2.0L inline-4
 **Summary:**
 
 The 2007 Hyundai Tucson has several potential issues, particularly with the engine and transmission. The most significant issues include intake manifold gasket failure, timing chain tensioner failure, and transmission slippage, which can range in cost from $800 to $3,000 or more to repair. Other issues, such as suspension and electrical problems, are typically less severe and more affordable to fix. However, rust on body panels can be a serious issue in certain climates if not addressed promptly.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

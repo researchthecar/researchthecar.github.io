@@ -25,19 +25,6 @@ The 2023 BMW M850i xDrive Gran Coupe is a high-performance luxury sedan powered 
     * **Shifting Issues:** Symptoms include rough or delayed gear changes, slipping gears, and a loss of power. Solution may involve reprogramming the transmission control module or replacing the transmission. Estimated Cost to Fix: $500 - $2,000+
     * **Torque Converter Failure:** Symptoms include shuddering or vibration during acceleration, overheating, and a loss of power. Solution involves replacing the torque converter. Estimated Cost to Fix: $1,500 - $2,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -49,19 +36,6 @@ The 2023 BMW M850i xDrive Gran Coupe is a high-performance luxury sedan powered 
 * **Recalls:** NHTSA Campaign Number: 22V730000
         * Issue: Electrical short in steering column may cause airbag deployment
         * Solution: Replace steering column
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -75,15 +49,3 @@ The 2023 BMW M850i xDrive Gran Coupe is a high-performance luxury sedan powered 
 **Summary**
 
 The 2023 BMW M850i xDrive Gran Coupe is a powerful and luxurious vehicle with a few potential issues to consider. The most significant concerns are related to the engine, particularly premature turbocharger failure. Other issues, such as shifting problems, electrical shorts, and interior rattles, are less common but still worth noting. Overall, the cost to fix these issues can vary widely depending on the severity of the problem and the specific parts involved. It's important to have any potential issues addressed promptly to prevent further damage and ensure the vehicle's reliability.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

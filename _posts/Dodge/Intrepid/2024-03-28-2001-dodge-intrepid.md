@@ -40,19 +40,6 @@ The 2001 Dodge Intrepid is a full-size sedan that offers a comfortable and spaci
         * Estimated Cost to Fix: $1,000 - $1,500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front strut failure**
@@ -78,19 +65,6 @@ The 2001 Dodge Intrepid is a full-size sedan that offers a comfortable and spaci
     * Solution: Replace starter motor
     * Estimated Cost to Fix: $300 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -119,15 +93,3 @@ The 2001 Dodge Intrepid is a full-size sedan that offers a comfortable and spaci
     * Recalls: None Found
 
 Overall, the 2001 Dodge Intrepid is a reliable vehicle that offers a comfortable and spacious interior, but it is not without its issues. The most common issues reported by owners include engine intake manifold gasket failure, timing chain tensioner failure, valve lifter failure, and transmission shift solenoid failure. The severity of these issues can vary, and the cost to fix them can range from a few hundred dollars to over a thousand dollars.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -63,15 +63,3 @@ Drivers appreciate the Camaro's sleek styling, powerful engines, and responsive 
 
 * **Instrument cluster failure:** The instrument cluster can fail, causing the gauges and warning lights to malfunction. Symptoms include flickering gauges, dim or inoperable warning lights, or a complete loss of function. The solution is to replace the instrument cluster. Estimated cost to fix: $300 - $600+
 **Summary** The 1999 Chevrolet Camaro is a powerful and fun-to-drive muscle car. However, it is also known to have some reliability issues. The most common problems include intake manifold gasket failure, timing chain failure (3.8L V6), Opti-spark distributor failure (5.7L V8), transmission slipping (4-speed automatic), and alternator failure. The cost to fix these issues can range from $200 to over $3,000. Potential buyers should be aware of these issues and factor in the cost of repairs when considering purchasing a used Camaro.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

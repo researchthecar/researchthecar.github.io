@@ -59,19 +59,6 @@ The 7.5L V8 engine puts out 245 horsepower and 390 lb-ft of torque, available wi
     * Estimated Cost to Fix: $700 - $1,200
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Ball Joint Wear**
@@ -100,19 +87,6 @@ The 7.5L V8 engine puts out 245 horsepower and 390 lb-ft of torque, available wi
     * Estimated Cost to Fix: $150 - $250
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust Formation**
@@ -132,15 +106,3 @@ The 7.5L V8 engine puts out 245 horsepower and 390 lb-ft of torque, available wi
 **Overall Summary**
 
 The 1997 Ford E-150 Econoline Club Wagon is a reliable and spacious van, but it has some common issues that can be costly to repair. The engine and transmission problems can be significant, while the suspension and electrical issues are relatively minor. The exterior rust formation and interior plastic trim breakage can also be concerns, but they can be addressed with regular maintenance and repair.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

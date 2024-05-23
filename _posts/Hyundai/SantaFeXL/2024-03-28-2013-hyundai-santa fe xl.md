@@ -28,19 +28,6 @@ While the Santa Fe XL has received positive reviews for its value and practicali
 * **Five-Speed Automatic**
     * **Shifting Problems:** The transmission may have difficulty shifting gears, causing a loss of power and reduced fuel economy.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Rear Sway Bar Link Failure:** The rear sway bar link may fail, causing a rattling noise and reduced stability.
 * **Lower Ball Joint Failure:** The lower ball joint may fail, causing the wheel to come loose and potentially causing an accident.
@@ -49,19 +36,6 @@ While the Santa Fe XL has received positive reviews for its value and practicali
 * **Battery Drain:** The battery may drain prematurely, causing the vehicle to not start.
 * **Headlight Malfunction:** The headlights may malfunction, causing reduced visibility and safety concerns.
 * **Power Window Failure:** The power windows may fail to operate, causing inconvenience and safety concerns.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Liftgate Latch Failure:** The liftgate latch may fail, causing the liftgate to open unintentionally and potentially causing injury.
@@ -74,15 +48,3 @@ While the Santa Fe XL has received positive reviews for its value and practicali
 **Summary:**
 
 The 2013 Hyundai Santa Fe XL has been reported to have some common issues, including engine leaks, transmission problems, suspension failures, electrical malfunctions, and exterior and interior issues. While the severity and cost of these issues can vary, it is important to be aware of them before purchasing or owning this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

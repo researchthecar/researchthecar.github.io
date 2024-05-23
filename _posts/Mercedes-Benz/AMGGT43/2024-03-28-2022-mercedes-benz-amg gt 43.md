@@ -23,19 +23,6 @@ The 2022 Mercedes-Benz AMG GT 43 is a high-performance sports car featuring a tu
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -45,19 +32,6 @@ The 2022 Mercedes-Benz AMG GT 43 is a high-performance sports car featuring a tu
 * **Battery Drain:** Excessive battery drain, potentially leading to difficulty starting the vehicle. The issue could be caused by faulty electrical components or a parasitic draw. Troubleshooting and repair typically involve identifying and fixing the source of the draw.
 * Estimated Cost to Fix: $200 - $1,000+
 * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -74,15 +48,3 @@ The 2022 Mercedes-Benz AMG GT 43 is a high-performance sports car featuring a tu
 **Summary:**
 
 While the 2022 Mercedes-Benz AMG GT 43 is generally a reliable vehicle, it has experienced some issues. The most significant problems are related to turbocharger failure, shifting issues, and battery drain. The cost of repairs can vary depending on the severity of the issue. Overall, the GT 43 is a well-regarded sports car with a balance of performance and luxury, but it's essential to be aware of potential issues before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

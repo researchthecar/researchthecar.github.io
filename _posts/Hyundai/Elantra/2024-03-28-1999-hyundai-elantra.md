@@ -33,19 +33,6 @@ The 1999 Hyundai Elantra is a compact sedan that was available with two engine o
 * **Transmission fluid leak:** Symptoms include low transmission fluid levels, slipping gears, and no power. The solution is to replace the transmission fluid and inspect for leaks. Estimated cost: $200 - $500. Recalls: None found.
 * **Solenoid failure:** Symptoms include erratic shifting, delayed shifts, and transmission overheating. The solution is to replace the solenoid. Estimated cost: $300 - $800. Recalls: None found.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut failure:** Symptoms include excessive noise, bouncing, and poor handling. The solution is to replace the struts. Estimated cost: $500 - $1,000 per axle. Recalls: None found.
@@ -55,19 +42,6 @@ The 1999 Hyundai Elantra is a compact sedan that was available with two engine o
 
 * **Alternator failure:** Symptoms include dim headlights, flickering lights, and a dead battery. The solution is to replace the alternator. Estimated cost: $500 - $1,000+. Recalls: None found.
 * **Starter failure:** Symptoms include difficulty starting the vehicle, clicking noises, and no power. The solution is to replace the starter. Estimated cost: $300 - $800+. Recalls: None found.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -82,15 +56,3 @@ The 1999 Hyundai Elantra is a compact sedan that was available with two engine o
 **Summary**
 
 The 1999 Hyundai Elantra has several potential issues, including head gasket failure, timing belt failure, suspension bushing failure, alternator failure, and window motor failure. These issues can be costly to repair, ranging from $200 to over $2,000 in some cases. While the Elantra is a generally reliable vehicle, owners should be aware of these potential problems and have their vehicle inspected regularly to prevent major repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

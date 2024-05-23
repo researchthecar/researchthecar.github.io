@@ -31,19 +31,6 @@ The 1992 Aston Martin Virage is a grand tourer that was produced by Aston Martin
   * Solution: Replace the clutch
   * Estimated Cost to Fix: $1,000-$2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Worn Shock Absorbers:** The shock absorbers on the Virage can wear out, causing the ride quality to deteriorate.
@@ -58,19 +45,6 @@ The 1992 Aston Martin Virage is a grand tourer that was produced by Aston Martin
   * Solution: Repair or replace the faulty electrical components
   * Estimated Cost to Fix: $500-$2,000+
   * Recalls: E06/05 00
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -94,15 +68,3 @@ The 1992 Aston Martin Virage is a grand tourer that was produced by Aston Martin
 **Summary**
 
 The 1992 Aston Martin Virage is a stylish and luxurious grand tourer. However, it is also known for its poor reliability. The most common problems with the Virage include cracked cylinder heads, valve seat recession, timing chain problems, clutch failure, worn shock absorbers, electrical gremlins, rust, and faulty air conditioning and electrical switches. The cost to fix these issues can range from $100 to $10,000 or more.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

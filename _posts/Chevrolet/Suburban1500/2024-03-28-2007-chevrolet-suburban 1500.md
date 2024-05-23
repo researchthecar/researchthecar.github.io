@@ -47,19 +47,6 @@ Owners appreciate the Suburban's reliability, off-road capabilities, and comfort
     * Estimated Cost to Fix: $200-$500
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushing Wear:**
@@ -88,19 +75,6 @@ Owners appreciate the Suburban's reliability, off-road capabilities, and comfort
     * Estimated Cost to Fix: Varies depending on the source of the drain
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust on Undercarriage:**
@@ -126,15 +100,3 @@ Owners appreciate the Suburban's reliability, off-road capabilities, and comfort
 **Summary:**
 
 The 2007 Chevrolet Suburban 1500 has a range of reported issues, with varying severity and cost to fix. Some common issues include throttle position sensor failure, intake manifold gasket leak, transmission fluid leak, and suspension problems. While some repairs can be relatively inexpensive, others can be more costly. It is important to consider these potential issues when considering purchasing or maintaining a Suburban 1500 of this model year.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

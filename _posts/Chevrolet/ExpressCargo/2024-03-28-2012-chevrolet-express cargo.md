@@ -36,19 +36,6 @@ The 2012 Chevrolet Express Cargo is a full-size van offered with multiple engine
 * **Torque Converter Shudder:** Description/Symptoms: Violent vibration during acceleration or gear changes. Solution: Replace torque converter. Estimated Cost to Fix: $1,200 - $2,000
 * **Transmission Slippage:** Description/Symptoms: Transmission slips out of gear or delays engagement. Solution: Rebuild or replace transmission. Estimated Cost to Fix: $2,000 - $4,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Leaf Spring Failure:** Description/Symptoms: Broken or weakened leaf springs cause sagging in the rear of the vehicle. Solution: Replace leaf springs. Estimated Cost to Fix: $500 - $1,000
@@ -58,19 +45,6 @@ The 2012 Chevrolet Express Cargo is a full-size van offered with multiple engine
 
 * **Alternator Failure:** Description/Symptoms: Malfunctioning alternator fails to charge batteries, leading to electrical problems. Solution: Replace alternator. Estimated Cost to Fix: $500 - $800
 * **Battery Drain:** Description/Symptoms: Parasitic draw on battery causes premature discharge. Solution: Diagnose source of draw and repair. Estimated Cost to Fix: Dependent on source of draw
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -84,15 +58,3 @@ The 2012 Chevrolet Express Cargo is a full-size van offered with multiple engine
 **Summary**
 
 The 2012 Chevrolet Express Cargo faces a moderate number of potential issues. While some problems are minor and relatively inexpensive to fix, others, such as engine and transmission failures, can be costly. Owners should be aware of these potential issues and factor them into their ownership experience.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

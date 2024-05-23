@@ -67,19 +67,6 @@ The Defender is known for its off-road capabilities, rugged construction, and un
     * Estimated Cost to Fix: $1,000 - $1,500
     * Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Coil Spring Failure**
@@ -106,19 +93,6 @@ The Defender is known for its off-road capabilities, rugged construction, and un
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust**
@@ -143,15 +117,3 @@ The Defender is known for its off-road capabilities, rugged construction, and un
 **Summary**
 
 The 2013 Land Rover Defender is a capable and rugged off-road SUV. However, it is also known for its reliability issues. The most common problems include engine failures, transmission failures, suspension failures, electrical problems, and interior issues. The severity of these issues can vary, and the cost to fix them can be significant. As a result, potential buyers should be aware of these issues before purchasing a 2013 Land Rover Defender.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

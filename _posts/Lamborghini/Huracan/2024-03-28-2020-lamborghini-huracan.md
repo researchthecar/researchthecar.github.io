@@ -36,19 +36,6 @@ Despite its impressive performance and luxurious interior, some owners have repo
     * Solution: Replace clutch.
     * Estimated Cost to Fix: $2,500 - $4,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -58,19 +45,6 @@ Despite its impressive performance and luxurious interior, some owners have repo
 * **Battery Drain:** Some owners have experienced battery drain issues, resulting in the vehicle being unable to start.
     * Solution: Replace battery or diagnose electrical system for faulty components.
     * Estimated Cost to Fix: $200 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -90,15 +64,3 @@ Despite its impressive performance and luxurious interior, some owners have repo
 **Summary**
 
 While the Lamborghini Huracan is a high-performance vehicle, it is not immune to issues. Engine oil leaks, timing chain problems, and carbon buildup are some of the more common issues reported by owners. Transmission fluid leaks and clutch wear can also be concerns. The estimated cost to fix these issues varies depending on the severity and parts required. However, it is worth noting that Lamborghini vehicles are known to be expensive to maintain and repair.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

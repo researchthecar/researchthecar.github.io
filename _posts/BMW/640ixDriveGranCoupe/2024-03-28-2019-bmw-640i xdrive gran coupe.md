@@ -24,19 +24,6 @@ While the 640i Gran Coupe has many positive attributes, it has also faced some i
 
 * **Shifting Problems:** Some owners have reported issues with the transmission shifting smoothly or hesitating during gear changes. Symptoms include rough or delayed shifts, gear slipping, and a check engine light. The solution may involve a software update or replacement of transmission components. Estimated Cost to Fix: $500 - $2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Adaptive Suspension Malfunction:** The adaptive suspension system can experience malfunctions that result in a loss of ride quality or stability issues. Symptoms include excessive bounce, uneven handling, and a warning light on the dashboard. The solution typically involves replacing faulty suspension components. Estimated Cost to Fix: $1,000 - $2,000+
@@ -45,19 +32,6 @@ While the 640i Gran Coupe has many positive attributes, it has also faced some i
 
 * **Headlight Malfunction:** Some owners have experienced issues with the headlights turning off or flickering intermittently. The solution may involve replacing the headlight bulbs or wiring harness. Estimated Cost to Fix: $200 - $800+
 * **Battery Discharge:** In rare cases, the vehicle's battery can discharge prematurely, resulting in difficulty starting. The solution typically involves testing the battery and alternator and replacing the faulty component if necessary. Estimated Cost to Fix: $200 - $600+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -71,15 +45,3 @@ While the 640i Gran Coupe has many positive attributes, it has also faced some i
 **Summary**
 
 The 2019 BMW 640i xDrive Gran Coupe is a well-rounded vehicle that offers performance, luxury, and comfort. However, like any other vehicle, it has faced some issues reported by owners. The severity and cost of these issues vary, some being minor and relatively inexpensive to fix, while others can be more significant and require more extensive repairs. It is important to consider these potential issues when making a decision about purchasing this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -41,19 +41,6 @@ The 2018 Chevrolet Express Pasajeros is a full-size van available with either a 
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Mount Failure:** The front strut mounts may fail, causing a knocking or clunking noise and reduced handling performance.
@@ -69,19 +56,6 @@ The 2018 Chevrolet Express Pasajeros is a full-size van available with either a 
 * **Alternator Issues:** The alternator may fail to charge the battery, leading to electrical problems and a dead battery.
     * Estimated Cost to Fix: $300 - $800+
     * Recalls: NHTSA Campaign Number: 22V-175
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -101,15 +75,3 @@ The 2018 Chevrolet Express Pasajeros is a full-size van available with either a 
 **Summary:**
 
 The 2018 Chevrolet Express Pasajeros has encountered several issues in various components, ranging from engine problems to interior malfunctions. While some issues are minor and relatively inexpensive to fix, others can be more severe and potentially costly. It's important for potential buyers and current owners to be aware of these issues and consider the potential financial implications before making a decision about this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

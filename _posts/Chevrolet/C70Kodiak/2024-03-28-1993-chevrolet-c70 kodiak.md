@@ -44,19 +44,6 @@ The 1993 Chevrolet C70 Kodiak is a heavy-duty truck offered with a variety of en
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Coil Spring Failure:**
@@ -93,19 +80,6 @@ The 1993 Chevrolet C70 Kodiak is a heavy-duty truck offered with a variety of en
     * Estimated Cost to Fix: $200 - $600+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Clear Coat Peeling:**
@@ -140,15 +114,3 @@ The 1993 Chevrolet C70 Kodiak is a heavy-duty truck offered with a variety of en
 **Summary**
 
 Overall, the 1993 Chevrolet C70 Kodiak is a reliable workhorse, but it is not without its issues. The most severe and costly problems are related to the engine, such as intake manifold gasket failure and oil pump failure. Other common issues include transmission slipping, suspension component failures, and electrical wiring harness problems. While these issues can be inconvenient and costly to fix, it's important to keep in mind that the Kodiak is a heavy-duty truck designed for demanding tasks. Regular maintenance and timely repairs can help extend its lifespan and minimize the impact of these issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -36,19 +36,6 @@ The 2013 Hyundai Santa Fe Sport was a midsize SUV available with a choice of two
     * Estimated Cost to Fix: $300 - $600+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Spring Breakage:** The rear coil springs may fracture, resulting in a loss of ride height and handling.
@@ -62,19 +49,6 @@ The 2013 Hyundai Santa Fe Sport was a midsize SUV available with a choice of two
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $500 - $800+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -93,15 +67,3 @@ The 2013 Hyundai Santa Fe Sport was a midsize SUV available with a choice of two
 **Summary:**
 
 Overall, the 2013 Hyundai Santa Fe Sport is a reliable vehicle with generally minor issues. However, potential buyers should be aware of the possibility of engine, transmission, suspension, electrical, and interior problems. The estimated cost of repairs for these issues can range from a few hundred dollars to well over $1,000, depending on the severity of the issue. It is recommended to have the vehicle inspected thoroughly by a reputable mechanic before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

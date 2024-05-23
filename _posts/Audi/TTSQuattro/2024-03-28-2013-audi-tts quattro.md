@@ -45,19 +45,6 @@ The 2013 Audi TTS Quattro is a high-performance sports car that combines a power
     * Estimated Cost to Fix: $1,500 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Rear Suspension Sagging**
     * Description/Symptoms: The rear suspension can sag over time, affecting handling and stability.
@@ -82,19 +69,6 @@ The 2013 Audi TTS Quattro is a high-performance sports car that combines a power
     * Estimated Cost to Fix: $200 - $1,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 * **Clearcoat Peeling**
     * Description/Symptoms: The clearcoat can peel or chip over time, especially in areas exposed to sunlight or harsh weather conditions.
@@ -116,15 +90,3 @@ The 2013 Audi TTS Quattro is a high-performance sports car that combines a power
 
 **Summary**
 The 2013 Audi TTS Quattro is a capable and engaging sports car that offers impressive performance and handling. However, it has been plagued by various issues that can significantly impact its reliability and overall satisfaction. Engine issues, transmission problems, suspension issues, and various electrical component failures are among the most common complaints. The severity and cost of these issues can vary depending on the specific problem and the extent of the damage. Potential buyers should be aware of these potential issues and factor them into their purchasing decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -57,19 +57,6 @@ The 2010 Chevrolet Cobalt is a compact sedan offered with three engine options: 
     * Estimated Cost to Fix: $1,500 - $2,500
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Mount Failure**
@@ -98,19 +85,6 @@ The 2010 Chevrolet Cobalt is a compact sedan offered with three engine options: 
     * Estimated Cost to Fix: $300 - $600
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **No Issues Found**
@@ -132,15 +106,3 @@ The 2010 Chevrolet Cobalt is a compact sedan offered with three engine options: 
 **Summary**
 
 The 2010 Chevrolet Cobalt has various issues, ranging from minor electrical problems to more severe engine and transmission failures. Some issues, such as intake valve sticking and suspension failures, can affect multiple engine options. The severity and cost of repairs can vary significantly depending on the issue. While the Cobalt offers responsive handling and a spacious interior, potential buyers should be aware of these issues before making a decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

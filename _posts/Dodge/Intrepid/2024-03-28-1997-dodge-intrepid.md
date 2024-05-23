@@ -55,19 +55,6 @@ The 1997 Dodge Intrepid is a mid-size sedan known for its roomy interior, comfor
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -99,19 +86,6 @@ The 1997 Dodge Intrepid is a mid-size sedan known for its roomy interior, comfor
     * Estimated Cost to Fix: $100 - $300
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **No Issues Found**
@@ -132,15 +106,3 @@ The 1997 Dodge Intrepid is a mid-size sedan known for its roomy interior, comfor
 **Summary**
 
 The 1997 Dodge Intrepid is a reliable and comfortable mid-size sedan with some potential issues in certain areas. While the engine options are generally reliable, the 2.7L V6 can experience issues with oil consumption and intake manifold gasket failure. The 4-speed automatic transmission used with the 2.7L V6 is also known to have problems with slipping and torque converter failure. Other less severe issues such as strut mount failure, sway bar link failure, and electrical problems have also been reported. Overall, the cost of repairs can range from minor to expensive, depending on the severity of the issue.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

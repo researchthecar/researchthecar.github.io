@@ -81,15 +81,3 @@ The Volt is praised for its fuel efficiency, spacious interior, and advanced tec
 ### Summary
 
 The Chevrolet Volt has faced several reliability issues, particularly related to its engine and transmission components. These issues can be costly to repair, especially if they require major replacements such as the battery pack or transmission. While the Volt is praised for its fuel efficiency and technology, potential buyers should be aware of these potential problems and consider the associated repair costs before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

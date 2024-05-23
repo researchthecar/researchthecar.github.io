@@ -35,19 +35,6 @@ The 2013 Ferrari F12 Berlinetta is a high-performance sports car that was Ferrar
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Lower Control Arms:**
@@ -69,19 +56,6 @@ The 2013 Ferrari F12 Berlinetta is a high-performance sports car that was Ferrar
     * Solution: The cause of the battery drain will need to be diagnosed and repaired. This could involve replacing the battery, alternator, or other electrical components.
     * Estimated Cost to Fix: $300 - $1,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -110,15 +84,3 @@ The 2013 Ferrari F12 Berlinetta is a high-performance sports car that was Ferrar
 **Summary**
 
 While the Ferrari F12 Berlinetta is a highly desirable and capable sports car, it is not without its share of issues. Some of the common problems owners have experienced include timing chain tensioner failure, intake manifold cracking, clutch wear, suspension problems, electrical issues, carbon fiber components fading, steering wheel buttons failing, and carbon ceramic brake rotor cracking. The severity and cost of these issues vary, but some can be significant and require costly repairs. Overall, it is essential for potential buyers to be aware of these potential issues and factor them into their decision-making process.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -34,19 +34,6 @@ The 1999 Chevrolet Tigra is a subcompact hatchback that was not sold in the Unit
         * Estimated Cost to Fix: $100 - $200+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Front Shock Absorbers**
     * **Leaking Shocks**
@@ -67,19 +54,6 @@ The 1999 Chevrolet Tigra is a subcompact hatchback that was not sold in the Unit
     * Estimated Cost to Fix: $200 - $400+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 * **Door Locks**
     * **Broken Lock Actuators**
@@ -98,15 +72,3 @@ The 1999 Chevrolet Tigra is a subcompact hatchback that was not sold in the Unit
 
 **Summary:**
 While the 1999 Chevrolet Tigra offers sporty handling and a compact size, it has faced a few reliability issues over the years. The most severe and expensive problem is head gasket failure, which can lead to overheating and engine damage. Other issues include timing belt failure, clutch master cylinder failure, and suspension problems. Overall, the cost of repairs for the Tigra can range from minor fixes for dashboard light burnouts to major expenses for engine repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -37,19 +37,6 @@ The 2019 Dodge Grand Caravan is a minivan that comes with a 3.6L Pentastar V6 en
         * Estimated Cost to Fix: $1,200 - $2,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Front Struts Failure:**
@@ -65,19 +52,6 @@ The 2019 Dodge Grand Caravan is a minivan that comes with a 3.6L Pentastar V6 en
     * Solution: Diagnosis and repair of electrical system
     * Estimated Cost to Fix: $100 - $400+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -103,15 +77,3 @@ The 2019 Dodge Grand Caravan is a minivan that comes with a 3.6L Pentastar V6 en
 **Summary:**
 
 The 2019 Dodge Grand Caravan has a range of issues, with varying severity and repair costs. Timing chain guide failure and transmission solenoid issues are the most significant concerns, potentially costing owners over $1,000 to fix. While other issues are less severe and costly, they can still affect the overall driving experience and reliability of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

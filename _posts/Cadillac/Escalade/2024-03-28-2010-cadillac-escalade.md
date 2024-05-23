@@ -46,19 +46,6 @@ The Escalade has received praise for its luxurious interior, comfortable ride, a
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Suspension Bushing Failure:**
@@ -79,19 +66,6 @@ The Escalade has received praise for its luxurious interior, comfortable ride, a
   * Solution: Replace the starter.
   * Estimated Cost to Fix: $500 - $1,000+
   * Recalls: N/A
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -117,15 +91,3 @@ The Escalade has received praise for its luxurious interior, comfortable ride, a
 **Summary**
 
 The 2010 Cadillac Escalade is a capable luxury SUV with some notable reliability issues. The most common problems involve the engine, transmission, and electrical systems. While some issues can be relatively minor and inexpensive to fix, others can be more severe and costly to repair. Potential buyers should be aware of these issues before making a purchase and consider budgeting for potential repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

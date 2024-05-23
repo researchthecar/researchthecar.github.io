@@ -39,19 +39,6 @@ The 2022 Ferrari F8 Tributo is a mid-engine sports car powered by a twin-turboch
     * Solution: Software updates or transmission control module replacement
     * Estimated Cost to Fix: $1,000 - $3,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **No Issues Found**
@@ -66,19 +53,6 @@ The 2022 Ferrari F8 Tributo is a mid-engine sports car powered by a twin-turboch
     * Description/Symptoms: Heating, ventilation, or air conditioning system fails to function properly.
     * Solution: Repair or replacement of HVAC components, such as fans or compressors.
     * Estimated Cost to Fix: $1,000 - $3,000
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -99,15 +73,3 @@ The 2022 Ferrari F8 Tributo is a mid-engine sports car powered by a twin-turboch
 The 2022 Ferrari F8 Tributo faces some notable issues, particularly with the engine and transmission. The engine failure and intake valve failure are serious concerns that can result in costly repairs. Other issues, such as oil leaks, transmission shudder, and electrical glitches, are less severe but can still be bothersome.
 
 The severity of the issues can vary depending on the specific fault and its underlying cause. While some repairs may be relatively straightforward and affordable, others can be complex and expensive. Owners should carefully consider these potential issues and weigh them against the vehicle's performance and desirability before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

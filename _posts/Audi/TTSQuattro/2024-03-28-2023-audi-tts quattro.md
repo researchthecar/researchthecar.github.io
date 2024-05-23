@@ -32,19 +32,6 @@ The 2023 Audi TTS Quattro is a high-performance sports coupe powered by a 2.0L t
   * Estimated Cost to Fix: $500 - $2,000+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Squeaky Control Arms:** The control arms can develop a squeak when worn or damaged.
@@ -58,19 +45,6 @@ The 2023 Audi TTS Quattro is a high-performance sports coupe powered by a 2.0L t
   * Solution: Diagnosing and repairing faulty electrical components or electronics.
   * Estimated Cost to Fix: $200 - $1,000+
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -89,15 +63,3 @@ The 2023 Audi TTS Quattro is a high-performance sports coupe powered by a 2.0L t
 **Summary:**
 
 The 2023 Audi TTS Quattro has faced some reported issues, including engine valve issues, transmission shifting problems, suspension squeaks, electrical battery drains, and exterior headlight condensation. While some of these issues can be minor and inexpensive to fix, others, such as engine timing chain failures, can be more severe and costly. Overall, the reported issues with the TTS Quattro are not widespread and do not significantly detract from its overall reliability or performance.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

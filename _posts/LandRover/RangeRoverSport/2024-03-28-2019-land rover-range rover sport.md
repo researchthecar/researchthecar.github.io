@@ -32,19 +32,6 @@ The 2019 Land Rover Range Rover Sport is a luxurious SUV known for its on-road p
   - Estimated Cost to Fix: $2,000 - $3,000
   - Recalls: LR05925
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Front Air Suspension Malfunctions:**
@@ -68,19 +55,6 @@ The 2019 Land Rover Range Rover Sport is a luxurious SUV known for its on-road p
   - Description/Symptoms: Issues with various electrical components such as lights, windows, or infotainment system.
   - Solution: Replace or repair faulty electrical components.
   - Estimated Cost to Fix: Varies depending on the component
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -109,15 +83,3 @@ The 2019 Land Rover Range Rover Sport is a luxurious SUV known for its on-road p
 **Summary:**
 
 The 2019 Land Rover Range Rover Sport has several reported issues, ranging from engine and transmission problems to electrical and interior glitches. While some issues can be relatively minor and inexpensive to fix, others can be major and costly. It's essential for potential owners to be aware of these potential issues before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

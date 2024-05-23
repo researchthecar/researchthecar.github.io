@@ -54,19 +54,6 @@ However, like any vehicle, the Blazer had its share of issues. Here is a compreh
         * Estimated Cost to Fix: $300 - $500
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Front Suspension Control Arm Bushing Failure**
     * Description/Symptoms: Clunking noise, loose steering, uneven tire wear
@@ -90,19 +77,6 @@ However, like any vehicle, the Blazer had its share of issues. Here is a compreh
     * Solution: Replace starter
     * Estimated Cost to Fix: $300 - $500
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Rear Liftgate Hinge Failure**
@@ -130,15 +104,3 @@ Overall, the 1995 Chevrolet Blazer is a reliable and capable SUV. However, it do
 The most common engine and transmission problems involve gaskets and sensors, while suspension issues may require more expensive repairs. Electrical and interior issues are generally less severe. Exterior issues may not be as crucial but can still be inconvenient.
 
 Potential buyers should consider the age and mileage of the vehicle and have it inspected by a qualified mechanic before making a purchase. Regular maintenance and timely repairs will help keep the Blazer running smoothly for many years to come.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

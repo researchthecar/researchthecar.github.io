@@ -42,19 +42,6 @@ The 2014 Hyundai Genesis is a mid-size luxury sedan known for its sleek exterior
     * Solution: Replace the leaking components.
     * Estimated Cost to Fix: $500 - $1,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Shock Absorber Failure:**
@@ -68,19 +55,6 @@ The 2014 Hyundai Genesis is a mid-size luxury sedan known for its sleek exterior
     * Description/Symptoms: Electrical shorts can occur in various components, causing malfunctions, such as loss of power, flickering lights, or battery drain.
     * Solution: Diagnose and repair the affected electrical system components.
     * Estimated Cost to Fix: $100 - $1,500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -96,15 +70,3 @@ The 2014 Hyundai Genesis is a mid-size luxury sedan known for its sleek exterior
 **Summary:**
 
 Overall, while the 2014 Hyundai Genesis is a reliable vehicle, some owners have reported issues in areas such as the engine, transmission, and electrical systems. The severity of the issues varies, and the cost to fix them can range from minor to significant. It is important for owners to be aware of the potential problems and take appropriate steps to prevent or address them.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

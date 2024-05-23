@@ -35,19 +35,6 @@ The 2015 BMW 428i xDrive Gran Coupe is a sporty and luxurious four-door sedan wi
     * Estimated Cost to Fix: $1,500 - $4,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
   * **Strut Mount Failure:**
@@ -63,19 +50,6 @@ The 2015 BMW 428i xDrive Gran Coupe is a sporty and luxurious four-door sedan wi
     * Solution: Replace or repair faulty electrical components
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -102,15 +76,3 @@ The 2015 BMW 428i xDrive Gran Coupe is a sporty and luxurious four-door sedan wi
 **Summary:**
 
 The 2015 BMW 428i xDrive Gran Coupe is generally a reliable vehicle, but some owners have experienced issues with the engine, transmission, suspension, electrical, and interior components. The severity and cost of these issues can vary, but it is important for owners to be aware of potential problems and have them addressed及时避免更昂贵的维修费用。
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

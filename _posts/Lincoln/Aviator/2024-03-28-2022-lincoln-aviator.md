@@ -31,19 +31,6 @@ Solution: Replacement of the transmission or transmission control module.
 Estimated Cost to Fix: $3,000 - $5,000+
 Recalls: NHTSA Recall Number 22V-786
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Noise**
@@ -66,19 +53,6 @@ Solution: Diagnosis and repair of faulty electrical components, such as the batt
 Estimated Cost to Fix: $400 - $1,000+
 Recalls: NHTSA Recall Number 22V-784
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Sunroof Leaking**
@@ -98,15 +72,3 @@ Recalls: NHTSA Recall Number 22V-785
 **Summary**
 
 The 2022 Lincoln Aviator has received complaints regarding reliability issues, with owners reporting problems across various components including the engine, transmission, suspension, electrical system, and interior. Some issues, such as engine valve train failure and transmission gear slippage, can be severe and costly to repair. The vehicle has also been subjected to several recalls for electrical system failures, sunroof leaking, and other issues. While the Aviator offers a luxurious and premium driving experience, potential buyers should be aware of the reported reliability issues and associated repair costs before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

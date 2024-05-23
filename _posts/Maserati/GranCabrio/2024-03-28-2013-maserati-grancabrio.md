@@ -118,15 +118,3 @@ The 2013 Maserati GranCabrio is a high-performance convertible that combines Ita
 ## Summary
 
 The 2013 Maserati GranCabrio offers impressive performance and Italian luxury, but it has been plagued by numerous issues that have affected its reliability and overall appeal. The engine and transmission have been particularly troublesome, with issues ranging from oil leaks and timing chain problems to transmission slipping and torque converter shudder. The suspension, electrical system, and interior have also had their share of problems, with issues including front suspension clunking, rear suspension sagging, battery drainage, dashboard rattles, and infotainment screen issues. The severity of these issues can vary, but some can be costly to repair, especially those involving the engine or transmission. Potential buyers should be aware of these potential problems and factor in the cost of potential repairs when considering the 2013 Maserati GranCabrio.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

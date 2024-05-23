@@ -46,19 +46,6 @@ The 1991 Chrysler Shadow was a front-wheel-drive sedan available with two engine
         * Estimated Cost to Fix: $1,500 - $2,500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Strut Mount Failure:**
@@ -85,19 +72,6 @@ The 1991 Chrysler Shadow was a front-wheel-drive sedan available with two engine
     * Estimated Cost to Fix: $200 - $400
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior:**
 
 * **Headlight Switch Failure:**
@@ -122,15 +96,3 @@ The 1991 Chrysler Shadow was a front-wheel-drive sedan available with two engine
 **Summary:**
 
 While the 1991 Chrysler Shadow possessed a comfortable interior and decent fuel economy, it faced several common issues. Engine problems, particularly with the 2.2L inline-4, can be costly to repair. Transmission issues, suspension component failures, and electrical problems add to the list of potential expenses. Interior issues and exterior problems are relatively minor, but can still impact the overall ownership experience. Overall, the 1991 Chrysler Shadow is not recommended for buyers looking for a reliable or inexpensive vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -80,19 +80,6 @@ The 2001 Chevrolet Tahoe is a full-size SUV known for its spacious interior, pow
     * Estimated Cost to Fix: $100 - $200
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Lower Control Arm Bushing Wear:**
@@ -118,19 +105,6 @@ The 2001 Chevrolet Tahoe is a full-size SUV known for its spacious interior, pow
     * Solution: Replace headlight switch
     * Estimated Cost to Fix: $200 - $300
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -161,15 +135,3 @@ The 2001 Chevrolet Tahoe is a full-size SUV known for its spacious interior, pow
 **Summary**
 
 While the 2001 Chevrolet Tahoe offers a powerful engine and spacious interior, it is not without its issues. The most common problems reported by owners include intake manifold gasket failure, throttle body sensor issues, and transmission cooler line failure. Additionally, some owners have experienced valvetrain noise with the 6.0L V8 engine. Overall, the issues with the Tahoe are moderate in severity and range in cost from a few hundred dollars to over $2,000 to repair.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

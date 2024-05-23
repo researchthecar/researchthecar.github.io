@@ -78,15 +78,3 @@ Owners appreciate the Discovery Sport's comfortable ride, responsive handling, a
 ### Summary
 
 The 2020 Land Rover Discovery Sport has faced some issues with specific components, including the intake manifold, DPF, and suspension. The electrical, exterior, and interior also have reported issues. The severity of these issues varies, with some requiring expensive repairs, while others can be resolved with minor fixes. Overall, potential buyers should be aware of these issues before purchasing this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

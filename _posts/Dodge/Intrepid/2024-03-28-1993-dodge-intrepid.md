@@ -49,19 +49,6 @@ The Intrepid was praised for its spacious interior, comfortable ride, and stylis
   - Estimated Cost to Fix: $150 - $300+
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Front Strut Mount Failure:** The front strut mounts can prematurely fail, causing noise, vibration, and impaired handling.
@@ -84,19 +71,6 @@ The Intrepid was praised for its spacious interior, comfortable ride, and stylis
   - Estimated Cost to Fix: $200 - $400+
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 - **Door Lock Actuator Failure:** The door lock actuators can fail, causing the doors to become inoperable or lock unintentionally.
@@ -116,15 +90,3 @@ The Intrepid was praised for its spacious interior, comfortable ride, and stylis
 **Summary**
 
 The 1993 Dodge Intrepid had several common issues that affected its reliability and performance. The most severe and expensive issues included head gasket failure, transmission slippage, and front strut mount failure. However, many of the issues were relatively minor and inexpensive to fix. Overall, the Intrepid was a spacious and comfortable car with its drawbacks.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

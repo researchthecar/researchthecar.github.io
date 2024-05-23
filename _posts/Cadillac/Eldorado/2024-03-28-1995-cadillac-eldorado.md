@@ -42,19 +42,6 @@ The 1995 Cadillac Eldorado was a luxurious full-size coupe known for its elegant
     * Estimated Cost to Fix: $2,000 - $4,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Front Control Arm Bushings Failure:**
     * Description/Symptoms: Clunking or rattling noises when driving over bumps, uneven tire wear, and poor handling.
@@ -68,19 +55,6 @@ The 1995 Cadillac Eldorado was a luxurious full-size coupe known for its elegant
     * Solution: Replace the Body Control Module (BCM).
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Door Handle Breakage:**
@@ -99,15 +73,3 @@ The 1995 Cadillac Eldorado was a luxurious full-size coupe known for its elegant
 **Summary:**
 
 The 1995 Cadillac Eldorado had several notable issues, primarily with its engines, transmission, suspension, and electrical systems. These problems could be costly to repair, ranging from a few hundred dollars to several thousand dollars. While the Eldorado offered style and performance, its reliability concerns diminished its overall appeal.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

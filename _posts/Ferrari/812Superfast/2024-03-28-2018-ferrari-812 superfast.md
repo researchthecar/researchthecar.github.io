@@ -34,19 +34,6 @@ The 2018 Ferrari 812 Superfast is a high-performance sports car powered by a nat
     * Estimated Cost to Fix: $2,000 - $3,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Adaptive Suspension**
@@ -64,19 +51,6 @@ The 2018 Ferrari 812 Superfast is a high-performance sports car powered by a nat
     * Solution: Diagnose and repair electrical system fault
     * Estimated Cost to Fix: $500 - $1,200+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -97,15 +71,3 @@ The 2018 Ferrari 812 Superfast is a high-performance sports car powered by a nat
 **Summary:**
 
 Overall, the 2018 Ferrari 812 Superfast is a highly desirable sports car with exceptional performance. However, it does come with some potential issues that can be costly to repair. Common problems include engine misfires, clutch wear, suspension leaks, and electrical problems. Potential buyers should be aware of these issues and factor them into the cost of ownership.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

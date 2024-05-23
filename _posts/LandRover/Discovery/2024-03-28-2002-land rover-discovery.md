@@ -54,15 +54,3 @@ The 2002 Land Rover Discovery is a mid-size luxury SUV known for its off-road ca
 ## **Summary**
 
 The 2002 Land Rover Discovery faces significant reliability issues, particularly with its engine, transmission, and electrical components. The severe nature of these issues can result in costly repairs, significantly impacting its overall ownership experience. Owners should be prepared to invest in frequent maintenance and potential repairs, which can exceed the vehicle's value.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

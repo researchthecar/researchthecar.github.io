@@ -25,19 +25,6 @@ The GTC4Lusso T is praised for its thrilling performance, luxurious interior, an
 
 * **Shifter Cable Failure:** Description/Symptoms: Difficulty shifting gears, transmission stuck in one gear. Solution: Replacement of shifter cable. Estimated Cost to Fix: $500 - $1,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Strut Failure:** Description/Symptoms: Knocking or clunking noises from the front suspension, poor handling. Solution: Replacement of front suspension struts. Estimated Cost to Fix: $1,500 - $2,500
@@ -49,19 +36,6 @@ The GTC4Lusso T is praised for its thrilling performance, luxurious interior, an
 * **Battery Drain:** Description/Symptoms: Battery constantly dying, difficulty starting the vehicle. Solution: Inspection and repair or replacement of electrical components causing the drain. Estimated Cost to Fix: $500 - $1,500
 
 * **Infotainment System Failure:** Description/Symptoms: Black screen, unresponsive touchscreen, software glitches. Solution: Software update or replacement of infotainment system components. Estimated Cost to Fix: $1,000 - $2,500
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -77,15 +51,3 @@ The GTC4Lusso T is praised for its thrilling performance, luxurious interior, an
 
 **Summary**
 Overall, the 2019 Ferrari GTC4Lusso T is a capable and luxurious vehicle. However, it is not without its issues. The most severe and costly problems reported by owners include turbocharger failure, clutch pack failure, and suspension strut failure. These issues can potentially lead to expensive repairs. Prospective buyers should be aware of these issues and factor them into their purchasing decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

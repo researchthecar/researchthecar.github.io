@@ -50,19 +50,6 @@ The 1996 Ford Grand Marquis is a full-size sedan known for its comfort, spacious
         * Estimated Cost to Fix: $1,000 - $1,500
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Failure**
@@ -91,19 +78,6 @@ The 1996 Ford Grand Marquis is a full-size sedan known for its comfort, spacious
     * Estimated Cost to Fix: $120 - $250
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door Lock Actuator Failure**
@@ -129,15 +103,3 @@ The 1996 Ford Grand Marquis is a full-size sedan known for its comfort, spacious
 **Summary**
 
 While the 1996 Ford Grand Marquis is known for its reliability and comfort, it is not without its issues. The most common problems involve engine gaskets, ignition components, transmission solenoids, suspension components, and electrical system failures. While some repairs are relatively minor, others can be more costly, particularly those involving the transmission or suspension. Overall, the severity and cost of these issues vary depending on the specific problem and the affected components.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

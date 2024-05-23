@@ -36,19 +36,6 @@ Despite its popularity, the 2015 Ford Transit Connect has faced some issues repo
 * **Transmission Slipping:** Description/Symptoms: Transmission fails to engage or shift properly, resulting in loss of power or erratic shifting. Solution: Rebuild or replace transmission. Estimated Cost to Fix: $2,000 - $4,000+
 * **Torque Converter Failure:** Description/Symptoms: Worn or damaged torque converter causes transmission shuddering, overheating, or loss of power. Solution: Replace torque converter. Estimated Cost to Fix: $1,000 - $2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Axle Bearing Failure:** Description/Symptoms: Worn or damaged rear axle bearings cause excessive noise and vibration during acceleration or deceleration. Solution: Replace rear axle bearings. Estimated Cost to Fix: $500 - $1,000+ per axle
@@ -60,19 +47,6 @@ Despite its popularity, the 2015 Ford Transit Connect has faced some issues repo
 * **Battery Drain:** Description/Symptoms: Battery discharges prematurely, leaving the vehicle unable to start. Solution: Inspect electrical system for parasitic draws or faulty components. Estimated Cost to Fix: $100 - $500+
 * **Fuse Box Issues:** Description/Symptoms: Faulty fuse boxes cause electrical components to malfunction or fail. Solution: Replace fuse box with updated version. Estimated Cost to Fix: $200 - $500+
 * **Alternator Failure:** Description/Symptoms: Worn or damaged alternator fails to charge the battery, causing electrical issues and vehicle stall. Solution: Replace alternator. Estimated Cost to Fix: $500 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -91,15 +65,3 @@ Despite its popularity, the 2015 Ford Transit Connect has faced some issues repo
 The 2015 Ford Transit Connect has faced several issues in different categories, ranging from minor inconveniences to more severe and expensive repairs. Engine and transmission problems have been the most prevalent, with issues such as intake manifold failure, valve train noise, and transmission slipping being reported by owners. Suspension and electrical issues also pose concerns, while interior and exterior components have also experienced some problems.
 
 The severity and cost of the issues vary, with some requiring only minor repairs and others potentially leading to expensive replacements or overhauls. Potential owners and current drivers should be aware of these issues and factor them into their purchasing or maintenance decisions.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -51,19 +51,6 @@ People liked the Crown Victoria for its spacious interior, comfortable ride, and
         * Estimated Cost to Fix: $300 - $500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension**
@@ -96,19 +83,6 @@ People liked the Crown Victoria for its spacious interior, comfortable ride, and
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $300 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -144,15 +118,3 @@ People liked the Crown Victoria for its spacious interior, comfortable ride, and
 **Summary**
 
 The 2005 Ford Crown Victoria is a reliable vehicle with a spacious interior and comfortable ride. However, it does have some common issues, including engine problems, transmission problems, and suspension problems. The severity of these issues ranges from minor to major, and the cost to fix them can be significant. Overall, the Crown Victoria is a good choice for those who need a reliable and comfortable vehicle, but it's important to be aware of the potential issues that it may have.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

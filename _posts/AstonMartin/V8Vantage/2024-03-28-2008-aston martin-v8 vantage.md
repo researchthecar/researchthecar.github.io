@@ -23,19 +23,6 @@ The 2008 Aston Martin V8 Vantage is a high-performance sports car powered by a 4
 * **6-speed Automatic Transmission:**
     * **Transmission slipping:** Symptoms include hesitation or slipping when shifting gears. Solution: Rebuild or replace transmission. Estimated Cost to Fix: $2,500 - $5,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension strut failure:** Symptoms include clunking noises, excessive bouncing, and instability while driving. Solution: Replace front suspension struts. Estimated Cost to Fix: $500 - $1,000+ per strut
@@ -45,19 +32,6 @@ The 2008 Aston Martin V8 Vantage is a high-performance sports car powered by a 4
 
 * **Battery drain:** Symptoms include difficulty starting or a dead battery after sitting overnight. Solution: Check for parasitic draw, replace battery if necessary. Estimated Cost to Fix: $500 - $1,000+
 * **Alternator failure:** Symptoms include dim headlights, flickering electronics, and difficulty starting. Solution: Replace alternator. Estimated Cost to Fix: $500 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -71,15 +45,3 @@ The 2008 Aston Martin V8 Vantage is a high-performance sports car powered by a 4
 **Summary:**
 
 The 2008 Aston Martin V8 Vantage is a desirable sports car, but it is not without its issues. While some of the problems can be relatively minor and inexpensive to fix, others, particularly transmission and engine issues, can be more severe and costly to resolve. As with any used vehicle, it's important to do your research and have the vehicle thoroughly inspected before purchasing to assess its condition and be aware of potential expenses down the road.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

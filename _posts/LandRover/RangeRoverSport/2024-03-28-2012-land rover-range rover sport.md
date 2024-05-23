@@ -42,19 +42,6 @@ No Issues Found
 * **Transmission Shudder:** The transmission may shudder or vibrate during shifts, especially in cold weather or with increased load. Solution: Replace transmission valve body or torque converter. Estimated Cost to Fix: $2,000 - $4,000+
 * **Slippage:** The transmission may experience slippage, resulting in a loss of acceleration or difficulty shifting gears. Solution: Rebuild or replace transmission. Estimated Cost to Fix: $3,000 - $5,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Air Suspension**
@@ -66,19 +53,6 @@ No Issues Found
 
 * **Battery Drain:** The battery can drain prematurely due to a faulty alternator, ignition switch, or other electrical components. Solution: Diagnose and replace faulty component. Estimated Cost to Fix: $500 - $1,500+
 * **Electrical Gremlins:** Various electrical malfunctions can occur, such as flickering lights, faulty sensors, or malfunctioning displays. Solution: Diagnose and repair specific electrical issues. Estimated Cost to Fix: Varies depending on the issue
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -92,15 +66,3 @@ No Issues Found
 **Summary**
 
 The 2012 Land Rover Range Rover Sport is a capable and luxurious SUV, but it has experienced some issues with its engines, transmissions, suspension, and electrical systems. While some issues are minor and relatively inexpensive to fix, others can be more severe and costly. Before purchasing a used Range Rover Sport, it is essential to have a thorough inspection performed by a qualified mechanic to identify potential problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

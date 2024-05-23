@@ -62,19 +62,6 @@ Owners appreciate the Cargo Van's spacious interior, reliable engines, and sturd
   * Estimated Cost to Fix: $200 - $400+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Front Suspension Strut Failure**
   * Description/Symptoms: Clunking noises, poor handling, uneven tire wear
@@ -98,19 +85,6 @@ Owners appreciate the Cargo Van's spacious interior, reliable engines, and sturd
   * Solution: Clean or replace battery cables
   * Estimated Cost to Fix: $100 - $200+
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Rust**
@@ -138,15 +112,3 @@ Owners appreciate the Cargo Van's spacious interior, reliable engines, and sturd
 
 **Summary**
 The 2004 Chevrolet Cargo Van has some recurring issues, particularly with its engine, transmission, and suspension components. However, it remains a popular choice for commercial use due to its spacious interior, reliable performance, and durable design. The severity and cost of repairs may vary depending on the specific issue and the condition of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

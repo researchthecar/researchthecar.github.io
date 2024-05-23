@@ -72,19 +72,6 @@ Motorists appreciate the Suburban's comfort, durability, and versatility. Howeve
    - Estimated Cost to Fix: $500 - $1,200
    - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Leaf Spring Breakage:**
@@ -110,19 +97,6 @@ Motorists appreciate the Suburban's comfort, durability, and versatility. Howeve
    - Solution: Clean or replace corroded ground wires
    - Estimated Cost to Fix: $100 - $300
    - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -153,15 +127,3 @@ Motorists appreciate the Suburban's comfort, durability, and versatility. Howeve
 **Summary:**
 
 Overall, the 1995 Chevrolet K2500 Suburban is a reliable and versatile vehicle. However, it has some known issues that can be costly to repair. Engine and transmission problems can be particularly expensive. Owners should be aware of these potential issues and factor in the cost of repairs when purchasing or maintaining the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

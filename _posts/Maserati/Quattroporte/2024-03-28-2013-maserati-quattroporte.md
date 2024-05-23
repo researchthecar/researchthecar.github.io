@@ -29,19 +29,6 @@ Solution: Update transmission software or replace transmission components.
 Estimated Cost to Fix: $500 - $2,000
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -53,19 +40,6 @@ Description/Symptoms: Battery drains quickly, even when the vehicle is turned of
 Solution: Diagnose and repair electrical system, including alternator, battery, or parasitic drain.
 Estimated Cost to Fix: Varies depending on the issue
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -86,15 +60,3 @@ Recalls: None Found
 **Summary:**
 
 The 2013 Maserati Quattroporte is a powerful and stylish luxury sedan, but it has been reported to have some specific issues. These issues include intake manifold failure, transmission shift problems, battery drain, sunroof seal failure, and climate control malfunction. The severity and cost of these issues vary depending on the specific problem. Overall, the Quattroporte is a reliable vehicle, but it may require occasional repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -42,19 +42,6 @@ The 2014 BMW ActiveHybrid 3 is a luxury sedan that combines a 2.0-liter turbocha
     * Estimated Cost to Fix: $2,000 - $4,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Control Arm Bushing Failure**
@@ -70,19 +57,6 @@ The 2014 BMW ActiveHybrid 3 is a luxury sedan that combines a 2.0-liter turbocha
     * Solution: To fix this issue, the faulty component must be identified and replaced.
     * Estimated Cost to Fix: $200 - $1,000
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -103,15 +77,3 @@ The 2014 BMW ActiveHybrid 3 is a luxury sedan that combines a 2.0-liter turbocha
 **Summary**
 
 The 2014 BMW ActiveHybrid 3 is a well-rounded luxury sedan that offers impressive performance and fuel efficiency. However, it is not without its issues. Some of the most common problems reported by owners include engine carbon buildup, timing chain tensioner failure, transmission fluid leaks, control arm bushing failure, electrical system faults, headlight condensation, and navigation system malfunctions. While some of these issues are relatively minor and inexpensive to fix, others can be more serious and costly to repair.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

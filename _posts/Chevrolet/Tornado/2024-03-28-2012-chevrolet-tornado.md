@@ -34,19 +34,6 @@ The 2012 Chevrolet Tornado is a mid-size crossover SUV that offers a spacious in
         * Estimated Cost to Fix: $800 - $2,500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
     * **No major issues found**
@@ -58,19 +45,6 @@ The 2012 Chevrolet Tornado is a mid-size crossover SUV that offers a spacious in
         * Solution: Inspect and repair any loose connections or faulty wiring.
         * Estimated Cost to Fix: Varies depending on the issue
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -92,15 +66,3 @@ The 2012 Chevrolet Tornado is a mid-size crossover SUV that offers a spacious in
 **Summary**
 
 Overall, the 2012 Chevrolet Tornado is a reliable vehicle with a few minor issues. The most severe problems include transmission slipping and electrical gremlins, which can be expensive to fix. However, the Tornado's spacious interior, comfortable ride, and fuel efficiency make it a popular choice for families and those who need a versatile SUV.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
