@@ -44,19 +44,6 @@ The 2003 Mercedes-Benz C32 AMG is a high-performance variant of the W203 C-Class
     * Estimated Cost to Fix: $2,000 - $3,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Lower Control Arm Bushing Failure:**
@@ -82,19 +69,6 @@ The 2003 Mercedes-Benz C32 AMG is a high-performance variant of the W203 C-Class
     * Solution: Replace central locking control module
     * Estimated Cost to Fix: $300 - $500
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -125,15 +99,3 @@ The 2003 Mercedes-Benz C32 AMG is a high-performance variant of the W203 C-Class
 **Summary:**
 
 The 2003 Mercedes-Benz C32 AMG is a highly capable and enjoyable performance vehicle. However, it is not without its share of issues. The engine and transmission are prone to specific failures, while the suspension, electrical, exterior, and interior also exhibit some problems. The severity and cost of these issues vary depending on the part and the extent of the damage. Owners should be prepared for potential repairs, particularly if the vehicle has high mileage or has not been well-maintained.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

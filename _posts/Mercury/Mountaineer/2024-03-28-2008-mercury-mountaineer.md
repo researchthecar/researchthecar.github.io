@@ -34,19 +34,6 @@ The 2008 Mercury Mountaineer is a mid-size SUV powered by a 4.6L V8 engine paire
     * Estimated Cost to Fix: $800 - $1,500
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Lower Control Arm Bushing Failure:**
@@ -73,19 +60,6 @@ The 2008 Mercury Mountaineer is a mid-size SUV powered by a 4.6L V8 engine paire
     * Estimated Cost to Fix: $200 - $400
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Roof Rack Corrosion:**
@@ -110,15 +84,3 @@ The 2008 Mercury Mountaineer is a mid-size SUV powered by a 4.6L V8 engine paire
 **Summary**
 
 The 2008 Mercury Mountaineer has been reported to have several issues, most of which are considered moderate in severity and can range in cost from a few hundred dollars to over $1,000 to repair. It's important for owners to be aware of these potential issues and to address them promptly to ensure the safety and reliability of their vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

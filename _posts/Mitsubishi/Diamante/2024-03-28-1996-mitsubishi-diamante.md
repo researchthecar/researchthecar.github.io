@@ -34,19 +34,6 @@ The 1996 Mitsubishi Diamante is a mid-size luxury sedan powered by a 3.0-liter V
    * Estimated Cost to Fix: $2,000 - $4,000+
    * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Front Control Arm Bushing Failure:**
@@ -73,19 +60,6 @@ The 1996 Mitsubishi Diamante is a mid-size luxury sedan powered by a 3.0-liter V
    * Estimated Cost to Fix: $100 - $300
    * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior:**
 
 * **Door Panel Rust:**
@@ -110,15 +84,3 @@ The 1996 Mitsubishi Diamante is a mid-size luxury sedan powered by a 3.0-liter V
 **Summary:**
 
 Overall, the 1996 Mitsubishi Diamante offers a comfortable and reliable driving experience. However, it does have some potential problems to watch out for, particularly related to the engine, transmission, and electrical components. The severity and cost of these repairs can vary depending on the specific issue, but it's important to be aware of them to avoid unexpected expenses down the road.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

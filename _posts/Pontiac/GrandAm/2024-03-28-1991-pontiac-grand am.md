@@ -75,19 +75,6 @@ Despite its sporty appearance and performance, the Grand Am has been subject to 
     * Estimated Cost to Fix: $500 - $800
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front strut failure:**
@@ -108,19 +95,6 @@ Despite its sporty appearance and performance, the Grand Am has been subject to 
     * Solution: Replace ignition switch
     * Estimated Cost to Fix: $200 - $400
     * Recalls: 93V040001
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -151,15 +125,3 @@ Despite its sporty appearance and performance, the Grand Am has been subject to 
 **Summary**
 
 The 1991 Pontiac Grand Am has been plagued by a range of issues, including engine problems, transmission failures, suspension issues, electrical malfunctions, and interior glitches. While some of these issues are relatively minor and inexpensive to fix, others can be severe and expensive. Potential buyers should carefully consider the potential costs and risks associated with these issues before purchasing a used Grand Am.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -39,19 +39,6 @@ The 2020 Volkswagen Gol is a subcompact car offered with two engine and transmis
         * Estimated Cost to Fix: $200 - $1,200+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -63,19 +50,6 @@ The 2020 Volkswagen Gol is a subcompact car offered with two engine and transmis
     * Solution: Electrical system diagnosis and repair. Specific parts may need replacement.
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -101,15 +75,3 @@ The 2020 Volkswagen Gol is a subcompact car offered with two engine and transmis
 **Summary**
 
 Overall, the 2020 Volkswagen Gol faces some issues related to the engine, transmission, electrical system, and interior. While some of these issues are relatively minor and inexpensive to fix, others, such as timing chain tensioner failure and rust issues, can be more severe and costly to address. Potential buyers should be aware of these potential issues and consider the cost of repairs before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

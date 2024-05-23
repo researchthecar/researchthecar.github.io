@@ -30,19 +30,6 @@ The 1993 Toyota Land Cruiser is a renowned full-size SUV known for its ruggednes
 
 * **Transmission seal leaks:** Aging or damaged transmission seals can lead to leaks, resulting in fluid loss and potential transmission failure. Replacing the seals costs approximately $500 - $800.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaking shock absorbers:** Worn or damaged shock absorbers can cause excessive bouncing, poor handling, and reduced ride comfort. Replacing shock absorbers typically costs around $300 - $600 per axle.
@@ -51,19 +38,6 @@ The 1993 Toyota Land Cruiser is a renowned full-size SUV known for its ruggednes
 
 * **Alternator failure:** A failing alternator can lead to insufficient charging of the battery, resulting in electrical system issues and potential breakdowns. Replacing the alternator costs approximately $500 - $700.
 * **Starter motor failure:** A faulty starter motor can prevent the engine from starting. Repairing or replacing the starter typically costs $300 - $600.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -77,15 +51,3 @@ The 1993 Toyota Land Cruiser is a renowned full-size SUV known for its ruggednes
 **Summary:**
 
 While the 1993 Toyota Land Cruiser is generally a reliable vehicle, it has experienced various issues over the years. The severity and cost of repairs can vary significantly depending on the specific problem and the extent of damage. Potential owners should be aware of these issues and factor the potential costs into their decision-making process.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -25,19 +25,6 @@ People liked the Pathfinder for its spacious interior, comfortable ride, and rel
 * **4-speed automatic:**
     * **Transmission slipping:** This was a common issue on the 4-speed automatic transmission. Symptoms included a loss of power and eventually transmission failure. The solution was to rebuild the transmission. Estimated cost to fix: $2,000 - $3,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension:**
@@ -49,19 +36,6 @@ People liked the Pathfinder for its spacious interior, comfortable ride, and rel
 
 * **Alternator failure:** This was a common issue on the Pathfinder. Symptoms included a loss of power, dimming lights, and a dead battery. The solution was to replace the alternator. Estimated cost to fix: $500 - $1,000+
 * **Starter failure:** This was a less common issue, but it could cause the engine to not start. The solution was to replace the starter. Estimated cost to fix: $300 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -75,15 +49,3 @@ People liked the Pathfinder for its spacious interior, comfortable ride, and rel
 **Summary**
 
 The 1990 Nissan Pathfinder was a popular SUV that was known for its ruggedness and off-road capabilities. However, there were some common issues that people experienced with the vehicle, including head gasket failure, timing chain failure, and transmission problems. The cost of these issues could range from $500 to over $2,500.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -50,19 +50,6 @@ The 1994 Suzuki Sidekick is a compact SUV available with either a 1.6L or 1.8L e
     * Estimated Cost to Fix: $200 - $300
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Ball Joint Failure**
@@ -89,19 +76,6 @@ The 1994 Suzuki Sidekick is a compact SUV available with either a 1.6L or 1.8L e
     * Estimated Cost to Fix: $200 - $300
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust**
@@ -126,15 +100,3 @@ The 1994 Suzuki Sidekick is a compact SUV available with either a 1.6L or 1.8L e
 **Summary**
 
 The 1994 Suzuki Sidekick is a generally reliable vehicle with some common issues that can be costly to repair. The most severe issues include engine timing chain tensioner failure, head gasket failure, and transmission input shaft bearing failure. Overall, the cost of repairs can vary depending on the severity of the issue and the specific parts that need to be replaced.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

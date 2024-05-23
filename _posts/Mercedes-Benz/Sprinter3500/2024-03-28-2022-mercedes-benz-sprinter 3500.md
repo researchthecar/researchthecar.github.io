@@ -35,19 +35,6 @@ The 2022 Mercedes-Benz Sprinter 3500 is a versatile and capable full-size van, d
     * Estimated Cost to Fix: $1,200 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Sagging:**
@@ -75,19 +62,6 @@ The 2022 Mercedes-Benz Sprinter 3500 is a versatile and capable full-size van, d
     * Solution: Diagnose and replace faulty components.
     * Estimated Cost to Fix: Varies depending on the specific component.
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -120,15 +94,3 @@ The 2022 Mercedes-Benz Sprinter 3500 is a versatile and capable full-size van, d
 **Summary**
 
 The 2022 Mercedes-Benz Sprinter 3500 has exhibited a range of issues in various components, including the engine, transmission, suspension, electrical system, and interior. While the engine and transmission have had major issues that can be costly to repair, the suspension, electrical, and interior problems are generally more minor in severity and cost.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

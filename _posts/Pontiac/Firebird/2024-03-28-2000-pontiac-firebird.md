@@ -67,19 +67,6 @@ Transmission options included a 5-speed manual, a 4-speed automatic, and a 6-spe
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front lower control arm bushings worn**
@@ -107,19 +94,6 @@ Transmission options included a 5-speed manual, a 4-speed automatic, and a 6-spe
     * Solution: Replace starter
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -152,15 +126,3 @@ Transmission options included a 5-speed manual, a 4-speed automatic, and a 6-spe
 **Summary**
 
 Overall, the 2000 Pontiac Firebird is a reliable and fun-to-drive sports car. However, it is not without its issues, particularly with the engine, transmission, and suspension. The cost of repairs can be moderate to high, so it is important to factor in potential maintenance costs when considering this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

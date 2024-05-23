@@ -39,19 +39,6 @@ The FJ Cruiser is known for its off-road prowess, unique styling, and reliable p
         * Estimated Cost to Fix: $1,500 - $2,500
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Axle Bearing Failure**
@@ -78,19 +65,6 @@ The FJ Cruiser is known for its off-road prowess, unique styling, and reliable p
         * Estimated Cost to Fix: $500 - $800
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust on the Frame**
@@ -115,15 +89,3 @@ The FJ Cruiser is known for its off-road prowess, unique styling, and reliable p
 **Summary**
 
 While the 2008 Toyota FJ Cruiser is a capable and reliable vehicle, it is not immune to certain issues. Engine and transmission problems can be costly to fix, and rust on the frame is a potential long-term concern. However, many of the other issues are relatively minor and can be fixed at a reasonable cost. Overall, the severity and cost of the potential issues should be considered when evaluating a used FJ Cruiser.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

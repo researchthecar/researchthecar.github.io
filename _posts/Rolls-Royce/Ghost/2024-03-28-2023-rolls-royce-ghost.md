@@ -31,19 +31,6 @@ The Ghost has been praised for its opulent interior, smooth ride, and powerful e
 * Estimated Cost to Fix: $500 - $1,000
 * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Front Air Suspension**
@@ -68,19 +55,6 @@ The Ghost has been praised for its opulent interior, smooth ride, and powerful e
 * Estimated Cost to Fix: $500 - $1,000
 * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 **Door Handle Corrosion**
@@ -100,15 +74,3 @@ The Ghost has been praised for its opulent interior, smooth ride, and powerful e
 **Summary**
 
 The 2023 Rolls-Royce Ghost is a luxurious sedan with a comfortable ride and powerful engine. However, some owners have reported experiencing issues with the vehicle's engine, transmission, suspension, electrical system, and interior. The severity of these issues varies, and the cost to fix them can range from $500 to $3,000 or more. While some of these issues may be relatively minor, others could lead to more expensive repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

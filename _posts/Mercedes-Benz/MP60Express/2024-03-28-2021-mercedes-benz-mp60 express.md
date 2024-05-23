@@ -33,19 +33,6 @@ However, some owners have reported encountering issues with their vehicles, part
     * **Estimated Cost to Fix:** $100 - $500+
     * **Recalls:** NHTSA Recall Number: 22V472
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Air Suspension Failure:** Air suspension components, such as the air bags or compressor, may fail, causing the rear of the vehicle to sag.
@@ -64,19 +51,6 @@ However, some owners have reported encountering issues with their vehicles, part
     * **Solution:** Software updates or replacement of the infotainment module.
     * **Estimated Cost to Fix:** $500 - $1,000+
     * **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -100,15 +74,3 @@ However, some owners have reported encountering issues with their vehicles, part
 **Summary**
 
 Overall, the 2021 Mercedes-Benz MP60 Express has some reported issues, but their severity and cost vary. Electrical, exterior, and interior issues tend to be less severe and less costly to fix, while engine, transmission, and suspension issues can be more problematic and expensive. Potential buyers should be aware of these issues and consider the potential costs associated with repairs when evaluating the MP60 Express.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

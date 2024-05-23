@@ -52,19 +52,6 @@ The 2006 Porsche Carrera GT is a mid-engine sports car that was produced from 20
     * Estimated Cost to Fix: $2,000 - $4,000+
     * NHTSA Recall Numbers: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension strut failure**
@@ -96,19 +83,6 @@ The 2006 Porsche Carrera GT is a mid-engine sports car that was produced from 20
     * Estimated Cost to Fix: $500 - $1,000+
     * NHTSA Recall Numbers: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door latch failure**
@@ -138,15 +112,3 @@ The 2006 Porsche Carrera GT is a mid-engine sports car that was produced from 20
 **Summary**
 
 The Porsche Carrera GT is a high-performance sports car that has a number of potentially significant mechanical issues. These issues can be expensive to repair, and they can make the car difficult or impossible to drive safely. If you are considering buying a Carrera GT, it is important to be aware of these issues and to factor the potential cost of repairs into your decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

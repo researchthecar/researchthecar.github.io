@@ -35,19 +35,6 @@ The 2004 Volkswagen Sedan offers a 2.0L 4-cylinder engine paired with a 5-speed 
         * Estimated Cost to Fix: $1,500 - $2,500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Front Control Arm Bushings Failure:** Premature wear of the control arm bushings, leading to excessive noise and reduced handling stability.
         * Solution: Replace control arm bushings.
@@ -63,19 +50,6 @@ The 2004 Volkswagen Sedan offers a 2.0L 4-cylinder engine paired with a 5-speed 
         * Solution: Diagnose and replace faulty component(s).
         * Estimated Cost to Fix: $100 - $500+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Fog Light Lenses Cracking:** Cracked or cloudy fog light lenses, impairing visibility.
@@ -95,15 +69,3 @@ The 2004 Volkswagen Sedan offers a 2.0L 4-cylinder engine paired with a 5-speed 
 
 **Summary:**
 The 2004 Volkswagen Sedan has faced some issues, but the severity and cost of repairs vary depending on the specific problem. Engine issues can be costly, while electrical and interior problems are generally more affordable to fix. Overall, the reliability of this vehicle is average compared to other vehicles in its class.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

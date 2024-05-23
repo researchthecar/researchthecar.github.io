@@ -28,19 +28,6 @@ The 2013 Mitsubishi Montero is a midsize SUV that offers a rugged and capable of
 * **Transmission slipping:** The transmission may slip when shifting gears, causing loss of power and drivability issues. **Solution:** Overhaul or replacement of the transmission. **Estimated Cost to Fix:** $2,000 - $4,000+. **Recalls:** None Found
 * **Transmission fluid leaks:** The transmission fluid lines or seals can develop leaks, causing low fluid levels and potential transmission failure if not addressed promptly. **Solution:** Replacement of the leaking parts and refill of transmission fluid. **Estimated Cost to Fix:** $200 - $500+. **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front lower control arm bushings:** The front lower control arm bushings can wear out or fail, causing clunking noises, vibration, and reduced handling stability. **Solution:** Replacement of the control arm bushings. **Estimated Cost to Fix:** $400 - $600+. **Recalls:** None Found
@@ -49,19 +36,6 @@ The 2013 Mitsubishi Montero is a midsize SUV that offers a rugged and capable of
 
 * **Battery drain:** The battery may drain prematurely due to a faulty alternator or parasitic draw from other components. **Solution:** Testing of the electrical system and replacement of the faulty alternator or diagnosis and repair of the parasitic draw. **Estimated Cost to Fix:** $200 - $800+. **Recalls:** None Found
 * **Electrical gremlins:** Various electrical components, such as switches, relays, and sensors, may malfunction, causing intermittent problems or complete system failures. **Solution:** Diagnosis and repair or replacement of the faulty electrical components. **Estimated Cost to Fix:** $100 - $500+ per component. **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -75,15 +49,3 @@ The 2013 Mitsubishi Montero is a midsize SUV that offers a rugged and capable of
 **Summary**
 
 The 2013 Mitsubishi Montero has several potential issues that can affect its engine, transmission, suspension, electrical system, exterior, and interior. While some issues are minor and inexpensive to repair, others can be more severe and costly. The overall severity of the Montero's reliability issues is moderate, but the cost of repairs can be relatively high. It is important to consider these potential issues when researching or purchasing a used Montero.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

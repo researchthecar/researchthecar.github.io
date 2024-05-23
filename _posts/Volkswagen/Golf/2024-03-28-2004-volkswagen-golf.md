@@ -43,19 +43,6 @@ People like the Golf for its fun-to-drive nature, its comfortable interior, and 
         * Estimated Cost to Fix: $2,000 - $3,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -67,19 +54,6 @@ People like the Golf for its fun-to-drive nature, its comfortable interior, and 
     * Solution: Diagnose and repair the specific electrical problem.
         * Estimated Cost to Fix: $100 - $1,000+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -105,15 +79,3 @@ People like the Golf for its fun-to-drive nature, its comfortable interior, and 
 **Summary**
 
 The 2004 Volkswagen Golf is a fun-to-drive car that is also fuel-efficient. However, it is important to be aware of the potential issues that can arise with this vehicle. Some of the most common issues include intake manifold cracking, timing chain tensioner failure, and electrical gremlins. Repairing these issues can be expensive, so it is important to factor this into the cost of ownership when considering a Golf.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -51,19 +51,6 @@ Owners praised the Cutlass Cruiser for its roomy interior, comfortable ride, and
     * Solution: Replace overdrive solenoid
     * Estimated Cost to Fix: $200 - $400+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Failure**
@@ -86,19 +73,6 @@ Owners praised the Cutlass Cruiser for its roomy interior, comfortable ride, and
     * Solution: Replace battery
     * Estimated Cost to Fix: $100 - $250+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door Handle Failure**
@@ -120,15 +94,3 @@ Owners praised the Cutlass Cruiser for its roomy interior, comfortable ride, and
 **Summary**
 
 The 1994 Oldsmobile Cutlass Cruiser is a reliable and comfortable family vehicle. However, it has some common issues that can be costly to repair. Engine issues are generally less severe and less expensive to fix, while transmission and suspension issues can be major and costly. Electrical and interior problems are typically minor and inexpensive to fix.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -21,19 +21,6 @@ The 2017 Rolls-Royce Phantom is a luxurious sedan with a timeless design. It boa
 
 **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -41,19 +28,6 @@ The 2017 Rolls-Royce Phantom is a luxurious sedan with a timeless design. It boa
 **Electrical**
 
 **No Issues Found**
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -75,15 +49,3 @@ The 2017 Rolls-Royce Phantom is a luxurious sedan with a timeless design. It boa
 **Summary:**
 
 The 2017 Rolls-Royce Phantom is generally a reliable vehicle, but it has some potential issues that owners should be aware of. While interior issues such as climate control and infotainment glitches are the most commonly reported, their severity and cost of repair are relatively minor for a vehicle of this caliber. Overall, the Phantom remains a highly desirable and luxurious sedan for those who value opulence and comfort.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

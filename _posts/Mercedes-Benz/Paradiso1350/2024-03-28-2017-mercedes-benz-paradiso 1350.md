@@ -42,19 +42,6 @@ People generally praise the Paradiso 1350 for its comfort, handling, and fuel ef
         * Estimated Cost to Fix: $4,000 - $6,000
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **No Issues Found**
 
@@ -64,19 +51,6 @@ People generally praise the Paradiso 1350 for its comfort, handling, and fuel ef
         * Solution: Inspect and test the battery and charging system. Replace the battery if necessary.
         * Estimated Cost to Fix: $200 - $500
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Door Hinge Failure**
@@ -99,15 +73,3 @@ People generally praise the Paradiso 1350 for its comfort, handling, and fuel ef
 
 **Summary:**
 Overall, the 2017 Mercedes-Benz Paradiso 1350 is a reliable and comfortable coach bus with ample power and fuel efficiency. However, like any vehicle, it has its share of issues, ranging from minor inconveniences to more significant mechanical problems. The most common issues reported by owners are EGR valve failure (OM 471 engine), fuel injector failure (OM 473 engine), clutch wear (G 281 transmission), mechatronic unit failure (G 330 transmission), and battery discharge. While these issues can be expensive to repair, they are generally not widespread and can be effectively addressed by qualified mechanics.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

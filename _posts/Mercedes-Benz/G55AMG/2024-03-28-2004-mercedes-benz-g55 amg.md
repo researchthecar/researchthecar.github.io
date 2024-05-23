@@ -43,19 +43,6 @@ Owners praise the G55 AMG's impressive power, spacious cabin, and iconic exterio
   - Estimated Cost to Fix: $1,000 - $1,500+
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Air Suspension Compressor Failure:**
@@ -83,19 +70,6 @@ Owners praise the G55 AMG's impressive power, spacious cabin, and iconic exterio
   - Solution: Replacement of the alternator.
   - Estimated Cost to Fix: $700 - $1,200+
   - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -128,15 +102,3 @@ Owners praise the G55 AMG's impressive power, spacious cabin, and iconic exterio
 **Summary:**
 
 The 2004 Mercedes-Benz G55 AMG is generally a reliable SUV, but it does have some potential issues. The most common concerns are related to its engine, transmission, and suspension components. These issues can be expensive to fix, with some costing over $2,000. It's important to consider these possible issues when purchasing or maintaining a G55 AMG.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

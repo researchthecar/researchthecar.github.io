@@ -51,19 +51,6 @@ The 2003 Mitsubishi Lancer was a popular compact sedan known for its affordabili
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Mounts:**
@@ -86,19 +73,6 @@ The 2003 Mitsubishi Lancer was a popular compact sedan known for its affordabili
     * Estimated Cost to Fix: $400 - $800+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rear Bumper Sagging:**
@@ -118,15 +92,3 @@ The 2003 Mitsubishi Lancer was a popular compact sedan known for its affordabili
 **Summary**
 
 The 2003 Mitsubishi Lancer is a reliable and capable vehicle for its age, but it has some known issues that owners should be aware of. The engine and transmission issues can be costly to repair, while the suspension, electrical, and interior issues are generally less severe. Overall, the Lancer is a good option for those looking for an affordable and sporty sedan, but it's important to consider the potential for these issues before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

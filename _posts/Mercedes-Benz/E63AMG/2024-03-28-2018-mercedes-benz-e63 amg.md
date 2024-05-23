@@ -54,19 +54,6 @@ The 2018 Mercedes-Benz E63 AMG is a high-performance sedan powered by a twin-tur
         * Replace valve body
     * Estimated Cost to Fix: $1,500 - $3,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **No Issues Found**
@@ -91,19 +78,6 @@ The 2018 Mercedes-Benz E63 AMG is a high-performance sedan powered by a twin-tur
         * Diagnose and replace faulty electrical components
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: 14V055000
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -138,15 +112,3 @@ The 2018 Mercedes-Benz E63 AMG is a high-performance sedan powered by a twin-tur
 
 **Summary:**
 The 2018 Mercedes-Benz E63 AMG has several common issues that can be costly to repair. The engine and transmission problems are particularly serious and can lead to major repairs or even vehicle failure. Other issues such as electrical system failures and roof leaks can also be inconvenient and expensive to fix. While the E63 AMG offers impressive performance and luxury, buyers should be aware of these potential problems before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

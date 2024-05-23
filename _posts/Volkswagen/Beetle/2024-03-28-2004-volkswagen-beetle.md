@@ -75,19 +75,6 @@ The Beetle was praised for its stylish design, fun-to-drive nature, and relative
     * Estimated Cost to Fix: $1,000 - $1,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Failure**
@@ -113,19 +100,6 @@ The Beetle was praised for its stylish design, fun-to-drive nature, and relative
     * Solution: Replace the starter.
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -156,15 +130,3 @@ The Beetle was praised for its stylish design, fun-to-drive nature, and relative
 **Summary**
 
 The 2004 Volkswagen Beetle is a stylish and fun-to-drive car that is relatively affordable to own and operate. However, it does have some potential reliability issues, particularly with the engine and transmission. These issues can be expensive to fix, so it is important to factor the potential cost of repairs into your decision-making process.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -32,19 +32,6 @@ The 2008 Volkswagen Eos is a stylish and compact convertible. It comes with two 
 
 * **Transmission Slipping:** The transmission can slip, causing a loss of power and difficulty shifting gears. Symptoms include a lack of acceleration, delayed gear changes, and a check engine light. The solution is to rebuild the transmission, which costs around $2,000 - $3,000.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Failure:** The struts can fail, causing a loss of ride comfort and handling. Symptoms include a rough ride, excessive body roll, and uneven tire wear. The solution is to replace the struts, which costs around $500 - $1,000 per pair.
@@ -54,19 +41,6 @@ The 2008 Volkswagen Eos is a stylish and compact convertible. It comes with two 
 
 * **Battery Drain:** The battery can drain prematurely due to a parasitic draw. Symptoms include a dead battery after a short period of time and the need to jumpstart the vehicle. The solution is to find and eliminate the source of the parasitic draw, which can be a faulty alternator, starter, or other electrical component. The cost to fix varies depending on the cause.
 * **Alternator Failure:** The alternator can fail, preventing the vehicle from recharging its battery. Symptoms include a dead battery, a check engine light, and flickering headlights. The solution is to replace the alternator, which costs around $500 - $1,000.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -81,15 +55,3 @@ The 2008 Volkswagen Eos is a stylish and compact convertible. It comes with two 
 **Summary**
 
 The 2008 Volkswagen Eos has several reported issues, particularly with its engine, transmission, electrical, and exterior components. However, the severity and cost of the repairs can vary depending on the specific issue and the extent of the damage. It is important for owners to be aware of these potential problems and to have their vehicles regularly inspected and maintained to prevent or mitigate these issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -41,19 +41,6 @@ Solution: Replace the clutch pack.
 Estimated Cost to Fix: $1500 - $2500
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -72,19 +59,6 @@ Solution: Replace the battery.
 Estimated Cost to Fix: $200 - $500
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 **No Issues Found**
@@ -100,15 +74,3 @@ Recalls: None Found
 **Summary**
 
 The 2015 Mercedes-Benz GLA45 AMG is a powerful and sporty crossover SUV with some reported issues. The most common problems affect the engine and transmission, including valve cover gasket leaks, piston ring failures, mechatronic unit failures, and clutch pack failures. Electrical issues like alternator and battery failures have also been reported. While the GLA45 AMG is a high-performance vehicle, it is important to be aware of these potential issues and factor in the cost of repairs when considering ownership.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

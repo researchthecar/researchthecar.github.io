@@ -30,19 +30,6 @@ The 2000 Mercury Grand Marquis is a full-size luxury sedan available with a choi
       * Estimated Cost to Fix: $1,500 - $3,000+
       * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Front control arm bushings worn:**
       * Description/Symptoms: Clunking noise, poor handling, uneven tire wear
@@ -61,19 +48,6 @@ The 2000 Mercury Grand Marquis is a full-size luxury sedan available with a choi
       * Solution: Identify and fix electrical component draining battery
       * Estimated Cost to Fix: Varies based on component
       * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Fog light assembly condensation:**
@@ -101,15 +75,3 @@ The 2000 Mercury Grand Marquis is a full-size luxury sedan available with a choi
 
 **Summary**
 The 2000 Mercury Grand Marquis has several potential issues, particularly with its engine and transmission. Some of these issues, such as intake manifold gasket failure and timing chain tensioner failure, can be costly to repair. However, the Grand Marquis remains a popular choice for those seeking a reliable and comfortable full-size sedan.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

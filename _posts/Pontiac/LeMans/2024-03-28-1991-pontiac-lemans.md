@@ -45,19 +45,6 @@ The 1991 Pontiac LeMans is a compact sedan that offered a choice of two engines 
 * **Estimated Cost to Fix:** $500 - $1,000+
 * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Lower Control Arm Bushings:**
@@ -82,19 +69,6 @@ The 1991 Pontiac LeMans is a compact sedan that offered a choice of two engines 
 * **Estimated Cost to Fix:** $100 - $300+
 * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 **Headlight Switch Failure:**
@@ -106,15 +80,3 @@ The 1991 Pontiac LeMans is a compact sedan that offered a choice of two engines 
 **Summary:**
 
 The 1991 Pontiac LeMans has a mix of reliability issues, with the most common problems affecting the engine, transmission, and suspension components. The severity and cost of repairs can vary depending on the specific issue and the complexity of the fix.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

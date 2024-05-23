@@ -55,19 +55,6 @@ The 1990 Toyota Cressida is a mid-size luxury sedan known for its reliability, c
    - Estimated Cost to Fix: $200 - $500
    - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension Issues:**
 
 - **Strut failure:** Leaks fluid, causing uneven ride height and poor handling.
@@ -93,19 +80,6 @@ The 1990 Toyota Cressida is a mid-size luxury sedan known for its reliability, c
    - Solution: Replace window regulator.
    - Estimated Cost to Fix: $200 - $400
    - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior Issues:**
 
@@ -136,15 +110,3 @@ The 1990 Toyota Cressida is a mid-size luxury sedan known for its reliability, c
 **Summary:**
 
 The 1990 Toyota Cressida has some common problems, particularly with the engine, transmission, and suspension. Engine issues include intake manifold gasket failure, water pump failure, and valve cover gasket leaks. The automatic transmission may experience slipping, torque converter shudder, and solenoid failure. Suspension issues include strut failure and worn lower control arm bushings. Owners should also be aware of potential electrical problems with the alternator, starter motor, and window regulators. Exterior issues include sunroof leaks and headlight housing fading. Interior problems include climate control panel failure, door lock actuator failure, and seat heater element failure. The severity and cost of these issues vary, but they can be significant in some cases.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

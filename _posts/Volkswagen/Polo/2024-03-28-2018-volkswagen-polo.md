@@ -39,19 +39,6 @@ The 2018 Volkswagen Polo is a subcompact hatchback that combines style and pract
         * Estimated Cost to Fix: $1,000 - $2,000
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Shock Absorber Failure:**
@@ -72,19 +59,6 @@ The 2018 Volkswagen Polo is a subcompact hatchback that combines style and pract
     * Solution: Software update or system reset
     * Estimated Cost to Fix: $0 - $100
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -110,15 +84,3 @@ The 2018 Volkswagen Polo is a subcompact hatchback that combines style and pract
 **Summary**
 
 The 2018 Volkswagen Polo has a range of potential issues, mostly related to engine, transmission, and electrical components. These issues vary in severity and cost to fix. While some are minor and inexpensive, others can be more costly and impact the vehicle's overall functionality. It's important to note that not all vehicles will experience these problems, but it's recommended to be aware of potential issues before purchasing or owning a 2018 Volkswagen Polo.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

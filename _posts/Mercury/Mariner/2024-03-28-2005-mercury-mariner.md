@@ -56,19 +56,6 @@ Owners praise the Mariner's spacious interior, comfortable ride, and strong V6 e
         * Estimated Cost to Fix: $1000 - $1500
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Lower Control Arm Bushing Wear**
@@ -96,19 +83,6 @@ Owners praise the Mariner's spacious interior, comfortable ride, and strong V6 e
     * Solution: Replace ignition coils
     * Estimated Cost to Fix: $200 - $400
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -141,15 +115,3 @@ Owners praise the Mariner's spacious interior, comfortable ride, and strong V6 e
 **Summary:**
 
 The 2005 Mercury Mariner has some reliability issues that can be costly to fix. The most severe and expensive issue is a head gasket failure on the 3.0L V6 engine. Other common problems include intake valve guide seal failure on the 2.3L I4 engine, transmission slippage on the non-VVT automatic transmission, and sunroof leaks. While most issues are relatively minor and affordable to fix, these problems can accumulate over time and detract from the overall value of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

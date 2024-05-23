@@ -38,19 +38,6 @@ The 2019 Toyota Prius Prime is a plug-in hybrid electric vehicle that combines a
         * Estimated Cost to Fix: $1,000 - $2,500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Struts and Shock Absorbers:**
@@ -74,19 +61,6 @@ The 2019 Toyota Prius Prime is a plug-in hybrid electric vehicle that combines a
         * Solution: Updating the software or replacing the affected components
         * Estimated Cost to Fix: $200 - $1,000+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -115,15 +89,3 @@ The 2019 Toyota Prius Prime is a plug-in hybrid electric vehicle that combines a
 **Summary**
 
 While the 2019 Toyota Prius Prime is a generally reliable and efficient vehicle, it is not without its issues. The engine, transmission, suspension, and electrical systems have reported problems, although the severity and cost of repairs vary widely. To ensure the best ownership experience, it's essential to stay informed about potential issues and address them promptly.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

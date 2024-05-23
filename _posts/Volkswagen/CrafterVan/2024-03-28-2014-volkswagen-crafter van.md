@@ -49,19 +49,6 @@ The 2014 Volkswagen Crafter Van is a versatile and capable full-size commercial 
     - **Solution:** Repair or replacement of the transmission or affected components.
     - **Estimated Cost to Fix:** $2,000 - $5,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 - **Rear leaf springs:** The rear leaf springs can weaken or break, affecting the vehicle's handling and stability.
@@ -73,19 +60,6 @@ The 2014 Volkswagen Crafter Van is a versatile and capable full-size commercial 
 - **Starter failure:** The starter motor may fail to engage, preventing the engine from starting.
     - **Solution:** Replacement of the starter motor.
     - **Estimated Cost to Fix:** $300 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -104,15 +78,3 @@ The 2014 Volkswagen Crafter Van is a versatile and capable full-size commercial 
 
 **Summary:**
 The 2014 Volkswagen Crafter Van is a reliable workhorse but is not immune to certain issues. The severity and cost of these problems vary depending on the component affected. While some issues are minor and relatively inexpensive to fix, others can be more serious and require significant repairs. It's essential for owners to address these issues promptly to maintain the vehicle's performance and safety.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

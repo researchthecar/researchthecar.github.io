@@ -25,19 +25,6 @@ The 2003 Toyota Sequoia is a full-size SUV offered with a choice of two engines:
 
 * **5-speed automatic transmission:** Description/Symptoms: Transmission slips or fails to engage gears. Solution: Rebuild or replace transmission. Estimated Cost to Fix: $2,000 - $4,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension ball joint failure:** Description/Symptoms: Causes clunking noises and loose steering. Solution: Replace ball joints. Estimated Cost to Fix: $500 - $1,000+
@@ -47,19 +34,6 @@ The 2003 Toyota Sequoia is a full-size SUV offered with a choice of two engines:
 
 * **Alternator failure:** Description/Symptoms: Loss of electrical power, dim lights, and battery drain. Solution: Replace alternator. Estimated Cost to Fix: $500 - $1,000+
 * **Starter failure:** Description/Symptoms: Engine fails to start. Solution: Replace starter. Estimated Cost to Fix: $500 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -73,15 +47,3 @@ The 2003 Toyota Sequoia is a full-size SUV offered with a choice of two engines:
 **Summary**
 
 The 2003 Toyota Sequoia has a number of potential issues that can be costly to fix. The most severe and expensive issues include valve seat insert failure, timing chain tensioner failure, and transmission failure. While some issues are common to all Sequoia models, others are specific to certain engine or transmission options. Overall, it is important for potential buyers to be aware of these issues and factor them into their purchasing decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

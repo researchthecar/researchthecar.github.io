@@ -21,19 +21,6 @@ The Rolls-Royce Cullinan is a luxury SUV that combines performance with opulence
 
 * **Transmission Slipping:** The transmission may slip or hesitate when shifting, causing a loss of power and acceleration. Replace or repair the transmission. $3,000 - $5,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Malfunction:** The air suspension system may malfunction, causing the vehicle to sag or bounce excessively. Replace the air suspension struts or compressor. $2,000 - $4,000+
@@ -42,19 +29,6 @@ The Rolls-Royce Cullinan is a luxury SUV that combines performance with opulence
 
 * **Battery Drain:** A faulty battery or alternator may drain the battery, preventing the vehicle from starting. Replace the battery or alternator. $500 - $1,500+
 * **Electrical Glitches:** Occasional electrical glitches may occur, causing intermittent issues with navigation, climate control, or other electronic systems. Software updates or component replacements are typically needed. $200 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -69,15 +43,3 @@ The Rolls-Royce Cullinan is a luxury SUV that combines performance with opulence
 **Summary**
 
 Overall, the 2023 Rolls-Royce Cullinan is a highly luxurious and capable SUV, but it has its fair share of issues. While some of the issues are minor, others can be more costly and affect the overall reliability of the vehicle. Potential buyers should be aware of these issues and factor them into their decision-making process.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

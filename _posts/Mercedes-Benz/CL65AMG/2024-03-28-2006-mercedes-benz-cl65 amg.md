@@ -21,19 +21,6 @@ The 2006 Mercedes-Benz CL65 AMG is a high-performance luxury coupe that boasts a
 * **5-Speed Automatic Transmission**
     * **Transmission Slipping:** The transmission may slip, causing difficulty shifting gears and loss of power. Repairing or replacing the transmission is required. $2,500 - $5,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Failure:** The air suspension system may fail, leading to a rough ride and decreased handling. Replacing the air suspension components is necessary. $2,000 - $5,000+
@@ -42,19 +29,6 @@ The 2006 Mercedes-Benz CL65 AMG is a high-performance luxury coupe that boasts a
 
 * **Alternator Failure:** The alternator may fail, causing charging system issues and battery drain. Replacing the alternator is the solution. $500 - $1,000+
 * **Battery Drain:** The battery may drain prematurely due to a parasitic electrical draw. Identifying and fixing the electrical issue is essential. $100 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -69,15 +43,3 @@ The 2006 Mercedes-Benz CL65 AMG is a high-performance luxury coupe that boasts a
 **Summary**
 
 The 2006 Mercedes-Benz CL65 AMG is a high-performance luxury coupe that can provide an exhilarating driving experience. However, it is not without its potential issues, particularly with the engine and transmission. The severity and cost of these issues can vary depending on the specific problem and the extent of the repairs required. Regular maintenance, proper driving habits, and addressing any issues promptly can help extend the lifespan of the vehicle and mitigate the risk of costly repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

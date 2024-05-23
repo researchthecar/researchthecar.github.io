@@ -37,19 +37,6 @@ Despite its overall reliability, the Sprinter has experienced some common issues
   * Estimated Cost to Fix: $1,200 - $1,800+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Front Suspension**
@@ -73,19 +60,6 @@ Despite its overall reliability, the Sprinter has experienced some common issues
   * Solution: Replace the alternator
   * Estimated Cost to Fix: $600 - $1,000+
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -118,15 +92,3 @@ Despite its overall reliability, the Sprinter has experienced some common issues
 **Summary**
 
 Overall, the 2008 Mercedes-Benz Sprinter is a reliable vehicle for commercial purposes. However, it has experienced some issues over the years. The most common problems include diesel particulate filter clogging, torque converter shudder, and lower ball joint wear. While these issues can be costly to repair, they are not typically major concerns and can often be prevented with regular maintenance.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -53,19 +53,6 @@ The 2008 Suzuki Forenza is a mid-size sedan that offers a comfortable and well-e
 --- Solution: Replace valve body
 --- Estimated Cost to Fix: $400 - $800+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Strut Mounts Failure**
 --- Description/Symptoms: Noise and vibration over bumps, poor handling
@@ -86,19 +73,6 @@ The 2008 Suzuki Forenza is a mid-size sedan that offers a comfortable and well-e
 --- Solution: Replace alternator
 --- Estimated Cost to Fix: $500 - $800+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 - **Trunk Lid Rust**
 --- Description/Symptoms: Rust forming around the edges of the trunk lid
@@ -118,15 +92,3 @@ The 2008 Suzuki Forenza is a mid-size sedan that offers a comfortable and well-e
 **Summary**
 
 The 2008 Suzuki Forenza has several notable issues, particularly with its drivetrain. The engine timing belt, transmission slipping, and valve body failure can be serious and expensive problems. While the suspension and electrical components have their share of problems, they are generally less severe. However, the exterior rust and interior dashboard cracking can affect the vehicle's appearance and value. Overall, the Forenza's reliability and cost of ownership may be a concern for potential buyers.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

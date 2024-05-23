@@ -43,19 +43,6 @@ Recalls: None Found
 
 **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Front Strut Mount Failure**
@@ -71,19 +58,6 @@ Description/Symptoms: The battery can discharge prematurely, leaving the vehicle
 Solution: Battery replacement or repairs may be necessary.
 Estimated Cost to Fix: $150 - $300
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -104,15 +78,3 @@ Recalls: None Found
 **Summary**
 
 Overall, the issues reported for the 2021 Subaru Forester are not widespread and do not significantly affect the vehicle's overall reliability. The most common issues include engine oil consumption and CVT transmission hesitation, which can be resolved through repairs or software updates. While some issues, such as turbocharger failure and strut mount failure, can be more costly to fix, they are less frequent. The majority of the reported issues are relatively minor and do not pose major safety concerns.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

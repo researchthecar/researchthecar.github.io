@@ -41,19 +41,6 @@ The Pathfinder was known for its ruggedness, off-road capabilities, and spacious
         * Estimated Cost to Fix: $1,500 - $2,500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension**
@@ -81,19 +68,6 @@ The Pathfinder was known for its ruggedness, off-road capabilities, and spacious
     * **No Issues Found**
 * **Starter**
     * **No Issues Found**
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -124,15 +98,3 @@ The Pathfinder was known for its ruggedness, off-road capabilities, and spacious
 **Summary:**
 
 Overall, the 1993 Nissan Pathfinder is a reliable SUV with good off-road capabilities. However, it does have a few common problems that owners should be aware of, such as timing chain failure, head gasket failure, and transmission problems. The severity and cost of these issues vary, but they can all be expensive to fix.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

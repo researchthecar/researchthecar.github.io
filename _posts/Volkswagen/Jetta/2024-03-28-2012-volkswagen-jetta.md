@@ -41,19 +41,6 @@ The 2012 Volkswagen Jetta is a compact sedan known for its comfortable interior,
   * Solution: Fixing the leak and replacing the lost fluid.
   * Estimated Cost to Fix: $200 - $400+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Failure:** Causes rattling or knocking noises over bumps, affecting ride quality and control.
@@ -75,19 +62,6 @@ The 2012 Volkswagen Jetta is a compact sedan known for its comfortable interior,
   * Solution: Replacing the alternator.
   * Estimated Cost to Fix: $500 - $1,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight Condensation:** Moisture buildup inside the headlights, affecting visibility in wet weather.
@@ -106,15 +80,3 @@ The 2012 Volkswagen Jetta is a compact sedan known for its comfortable interior,
 **Summary**
 
 The 2012 Volkswagen Jetta has reported issues that vary in severity and cost to fix. While some issues are relatively minor and inexpensive to address, others can be more significant and require substantial repairs. These issues are not particularly widespread, but they are worth considering when purchasing or owning a Jetta of this model year.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

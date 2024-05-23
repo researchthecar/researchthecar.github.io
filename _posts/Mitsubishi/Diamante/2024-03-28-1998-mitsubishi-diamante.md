@@ -43,19 +43,6 @@ The 1998 Mitsubishi Diamante is a midsize sedan that was offered with a variety 
        - Solution: Replace transmission fluid seals
        - Estimated Cost to Fix: $200 - $400+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Front strut mounts fail**
     - Description/Symptoms: Noise when going over bumps, clunking sound, reduced handling
@@ -79,19 +66,6 @@ The 1998 Mitsubishi Diamante is a midsize sedan that was offered with a variety 
     - Description/Symptoms: Car won't start, key won't turn
     - Solution: Replace ignition switch
     - Estimated Cost to Fix: $200 - $400+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Headlight switch failure**
@@ -123,15 +97,3 @@ The 1998 Mitsubishi Diamante is a midsize sedan that was offered with a variety 
 
 **Summary**
 The 1998 Mitsubishi Diamante is a reliable car that offers a comfortable ride and spacious interior. However, it does have some common issues that can be expensive to fix. The most serious issues include transmission slipping, engine oil leaks, and electrical problems. Overall, the Diamante is a good choice for those who are looking for a comfortable and reliable sedan. However, potential buyers should be aware of the potential issues that can come with this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

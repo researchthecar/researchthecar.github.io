@@ -36,19 +36,6 @@ People who like the Mercedes-Benz Viale BRT appreciate its comfortable ride, spa
     * Estimated Cost to Fix: $1500 - $2500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Spring Leaks:** The air springs can develop leaks, causing the bus to sag and reduce ride height.
@@ -68,19 +55,6 @@ People who like the Mercedes-Benz Viale BRT appreciate its comfortable ride, spa
     * Estimated Cost to Fix: $1000 - $1500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 **No Issues Found**
 
@@ -99,15 +73,3 @@ People who like the Mercedes-Benz Viale BRT appreciate its comfortable ride, spa
 **Summary:**
 
 Overall, the 2017 Mercedes-Benz Viale BRT has some reliability concerns in areas such as the engine, transmission, and electrical system. The estimated cost to fix these issues can range from hundreds to thousands of dollars per repair. While the bus is known for its comfort and performance, it may require more frequent maintenance and repairs than other comparable models.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

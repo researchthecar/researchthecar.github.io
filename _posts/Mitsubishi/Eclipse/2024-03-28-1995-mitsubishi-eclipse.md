@@ -45,19 +45,6 @@ The 1995 Mitsubishi Eclipse is a popular sports coupe that was praised for its s
   * Estimated Cost to Fix: $500 - $800+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Failure:** The strut mounts can fail, causing excessive noise, vibration, and poor handling.
@@ -80,19 +67,6 @@ The 1995 Mitsubishi Eclipse is a popular sports coupe that was praised for its s
   * Estimated Cost to Fix: $300 - $500+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door Handle Failure:** The door handles can break or become loose, making it difficult to open the doors.
@@ -112,15 +86,3 @@ The 1995 Mitsubishi Eclipse is a popular sports coupe that was praised for its s
 **Summary:**
 
 The 1995 Mitsubishi Eclipse has some known issues that can affect various components of the vehicle. While some issues are relatively minor and inexpensive to fix, others, such as engine or transmission issues, can be more severe and costly. Owners should be aware of these potential issues and take proactive steps to maintain and repair their vehicles as needed.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

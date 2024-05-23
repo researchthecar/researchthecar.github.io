@@ -34,19 +34,6 @@ The 2020 Mitsubishi Mirage G4 is a subcompact sedan powered by a 1.2-liter inlin
     * Estimated Cost to Fix: $2,000 - $5,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -63,19 +50,6 @@ The 2020 Mitsubishi Mirage G4 is a subcompact sedan powered by a 1.2-liter inlin
     * Solution: Replace faulty alternator.
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -101,15 +75,3 @@ The 2020 Mitsubishi Mirage G4 is a subcompact sedan powered by a 1.2-liter inlin
 **Summary:**
 
 The 2020 Mitsubishi Mirage G4 has a few common issues, including engine stalling, CVT failure, battery drain, and loose exterior trim pieces. However, the severity and cost to fix these issues vary, and many of them can be resolved with relatively minor repairs. Overall, the Mirage G4 is a budget-friendly subcompact sedan that offers decent fuel economy and practicality, but it is not without its drawbacks.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -19,19 +19,6 @@ tags: ["Nissan", "Cabstar E", "2009"]
 * **5-Speed Automatic Transmission:**
     * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Front Suspension:**
     * **Lower Control Arm Bushing Failure:** The lower control arm bushings can fail, causing noises, vibrations, and misalignment. The solution is to replace the bushings. **Estimated Cost to Fix:** $200 - $400+
@@ -42,19 +29,6 @@ tags: ["Nissan", "Cabstar E", "2009"]
 * **Alternator Failure:** The alternator can fail, preventing the battery from charging and causing electrical system problems. The solution is to replace the alternator. **Estimated Cost to Fix:** $500 - $700+
 * **Battery Failure:** The battery can fail, leading to difficulty starting the vehicle or electrical system malfunctions. The solution is to replace the battery. **Estimated Cost to Fix:** $100 - $200+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 * **Headlight Failure:** The headlights can fail, reducing visibility at night. The solution is to replace the headlight bulbs. **Estimated Cost to Fix:** $50 - $150+
 
@@ -63,15 +37,3 @@ tags: ["Nissan", "Cabstar E", "2009"]
 * **Climate Control Malfunction:** The climate control system can malfunction, leading to insufficient cooling or heating. The control panel or other components may need replacement. **Estimated Cost to Fix:** $200 - $500+
 
 **Summary:** The 2009 Nissan Cabstar E is a reliable and versatile commercial vehicle. However, it has been known to experience issues related to the engine, transmission, suspension, electrical system, and interior. The severity of these issues varies, and the estimated costs to fix them can range from minor to significant. Potential buyers should be aware of these potential issues when considering this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

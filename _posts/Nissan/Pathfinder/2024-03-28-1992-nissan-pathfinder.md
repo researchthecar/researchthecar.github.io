@@ -34,19 +34,6 @@ The 1992 Nissan Pathfinder is a mid-size SUV that debuted with a 3.0L V6 engine 
     * Estimated Cost to Fix: $300-$2,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Sagging Rear Leaf Springs:**
@@ -72,19 +59,6 @@ The 1992 Nissan Pathfinder is a mid-size SUV that debuted with a 3.0L V6 engine 
     * Solution: Replace the ignition switch.
     * Estimated Cost to Fix: $200-$400
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -115,15 +89,3 @@ The 1992 Nissan Pathfinder is a mid-size SUV that debuted with a 3.0L V6 engine 
 **Summary**
 
 The 1992 Nissan Pathfinder is a reliable and capable SUV with some common issues. The engine and transmission problems can be costly to fix, but most other issues are relatively minor and affordable to address. Overall, the Pathfinder is a reliable choice for off-road enthusiasts and those seeking a spacious family vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

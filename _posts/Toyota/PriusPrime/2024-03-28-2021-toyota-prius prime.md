@@ -23,19 +23,6 @@ Introduction: The 2021 Toyota Prius Prime is a plug-in hybrid vehicle that combi
         * Estimated Cost to Fix: $500 - $2,000+
         * Recalls: NHTSA Campaign ID 19V826
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -46,19 +33,6 @@ Introduction: The 2021 Toyota Prius Prime is a plug-in hybrid vehicle that combi
         * Solution: Replace the battery pack.
         * Estimated Cost to Fix: $3,000 - $6,000+
         * Recalls: NHTSA Campaign ID 20V650, 21V347
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -75,15 +49,3 @@ Introduction: The 2021 Toyota Prius Prime is a plug-in hybrid vehicle that combi
         * Recalls: None Found
 
 **Summary:** The 2021 Toyota Prius Prime has a few specific issues that have been reported by owners. These issues include engine oil consumption, transmission hesitation, hybrid battery system problems, headlight malfunctions, and climate control issues. The severity of these issues and the cost to fix them can vary depending on the specific issue.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

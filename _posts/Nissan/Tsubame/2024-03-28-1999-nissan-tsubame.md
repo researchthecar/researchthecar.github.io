@@ -41,19 +41,6 @@ The 1999 Nissan Tsubame was a compact car available with either a 1.6-liter or 1
     - Estimated Cost to Fix: $1,000 - $2,500+
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Strut Mount Corrosion:**
@@ -76,19 +63,6 @@ The 1999 Nissan Tsubame was a compact car available with either a 1.6-liter or 1
     - Estimated Cost to Fix: $100 - $250
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 - **No Issues Found**
@@ -110,15 +84,3 @@ The 1999 Nissan Tsubame was a compact car available with either a 1.6-liter or 1
 **Summary**
 
 The 1999 Nissan Tsubame is a generally reliable vehicle, but it has a few common issues that can be costly to fix, particularly with the engine and transmission. The most severe issues are the piston slap in the 1.6-liter engine and the CVT belt slippage, which can lead to major repairs or replacement. Other issues, such as strut mount corrosion and electrical component failures, are less severe but can still be inconvenient and costly to repair.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -28,19 +28,6 @@ The 2005 Mercury Monterey was a full-sized sedan powered by a 3.9L V6 engine mat
     * Estimated Cost to Fix: $200 - $1000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Worn Control Arm Bushings:**
@@ -56,19 +43,6 @@ The 2005 Mercury Monterey was a full-sized sedan powered by a 3.9L V6 engine mat
     * Solution: Replacing the ignition switch.
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: 05V320000
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -88,15 +62,3 @@ The 2005 Mercury Monterey was a full-sized sedan powered by a 3.9L V6 engine mat
 
 **Summary:**
 The 2005 Mercury Monterey generally has minor issues that are relatively inexpensive to fix. The most severe issues are related to excessive oil consumption and faulty ignition switches, but they are not common occurrences. Overall, the vehicle offers a reliable and comfortable driving experience.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

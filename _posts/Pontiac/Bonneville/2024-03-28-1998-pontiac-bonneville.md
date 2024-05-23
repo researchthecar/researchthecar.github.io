@@ -47,19 +47,6 @@ The 1998 Pontiac Bonneville is a mid-size sedan available with two engine option
     * Estimated Cost to Fix: $1,500 - $2,500
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Struts:**
@@ -80,19 +67,6 @@ The 1998 Pontiac Bonneville is a mid-size sedan available with two engine option
     * Solution: Replace alternator
     * Estimated Cost to Fix: $500 - $700
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -118,15 +92,3 @@ The 1998 Pontiac Bonneville is a mid-size sedan available with two engine option
 **Summary**
 
 The 1998 Pontiac Bonneville is a reliable car that offers a comfortable ride and powerful engine options. However, it has a few common issues that owners should be aware of. The most severe and expensive issues are transmission slippage, intake manifold gasket failure, and supercharger intercooler pump failure. The estimated cost of repairs for these issues can range from $1,500 to $2,500. Overall, the Bonneville is a good value for the money, but potential buyers should factor in the potential cost of repairs when considering the purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

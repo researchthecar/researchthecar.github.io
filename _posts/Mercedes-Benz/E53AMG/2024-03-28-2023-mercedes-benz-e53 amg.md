@@ -31,19 +31,6 @@ Solution: Software updates, transmission fluid flush, or transmission rebuild
 Estimated Cost to Fix: $200 - $4,000+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Air Spring Leaks**
@@ -59,19 +46,6 @@ Description/Symptoms: Rapid battery discharge, reduced starting ability, and ele
 Solution: Diagnosing and replacing the faulty component (e.g., alternator, battery, starter)
 Estimated Cost to Fix: $200 - $1,000+
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -98,15 +72,3 @@ Recalls: None Found
 **Summary:**
 
 The 2023 Mercedes-Benz E53 AMG offers impressive performance and features but has been reported with some reliability issues, particularly in the engine and electrical systems. The severity and cost of repairs can vary depending on the nature of the issue. However, owners should be aware of these potential problems and factor them into their ownership decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

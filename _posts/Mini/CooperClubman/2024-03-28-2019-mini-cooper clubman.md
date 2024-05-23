@@ -45,19 +45,6 @@ The 2019 Mini Cooper Clubman is a compact station wagon available with two engin
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: NHTSA Campaign Number: 20V349000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -69,19 +56,6 @@ The 2019 Mini Cooper Clubman is a compact station wagon available with two engin
     * Description/Symptoms: The battery may discharge prematurely, causing the vehicle to fail to start.
     * Solution: Test and replace the battery, alternator, or other electrical components as necessary.
     * Estimated Cost to Fix: $100 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -108,15 +82,3 @@ The 2019 Mini Cooper Clubman is a compact station wagon available with two engin
 **Summary:**
 
 The 2019 Mini Cooper Clubman has received several recalls for engine and transmission issues. While some of these issues can be costly to fix, many common problems are relatively minor and can be addressed for a reasonable cost. Overall, the severity of the issues and their potential costs should be considered when purchasing or owning this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

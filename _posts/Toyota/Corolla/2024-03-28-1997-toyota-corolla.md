@@ -32,19 +32,6 @@ People generally praise the Corolla for its dependability, low operating costs, 
 
 * **Transmission slipping:** Description/Symptoms: Inability to engage gears, delayed gear engagement; Solution: Repair or replace transmission; Estimated Cost to Fix: $1,500 - $3,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut failure:** Description/Symptoms: Knocking noises, poor handling, uneven tire wear; Solution: Replace struts; Estimated Cost to Fix: $500 - $1,000+ per axle
@@ -54,19 +41,6 @@ People generally praise the Corolla for its dependability, low operating costs, 
 
 * **Alternator failure:** Description/Symptoms: Dimming lights, battery warning light, difficulty starting; Solution: Replace alternator; Estimated Cost to Fix: $300 - $600+
 * **Starter failure:** Description/Symptoms: Engine fails to crank, clicking noise during start-up; Solution: Replace starter; Estimated Cost to Fix: $200 - $400+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -81,15 +55,3 @@ People generally praise the Corolla for its dependability, low operating costs, 
 **Summary:**
 
 The 1997 Toyota Corolla is generally a reliable car, but it has some common issues that can be costly to repair. Issues with the engine, transmission, and suspension can significantly impact the vehicle's drivability and safety. Electrical problems can lead to various inconveniences, while interior and exterior issues may affect aesthetics or functionality. It is essential to address these issues promptly to avoid further damage or costly repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

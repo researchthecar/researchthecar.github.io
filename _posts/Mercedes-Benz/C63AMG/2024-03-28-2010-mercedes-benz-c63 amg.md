@@ -25,19 +25,6 @@ The 2010 Mercedes-Benz C63 AMG is a high-performance sedan powered by a naturall
     * Estimated Cost to Fix: $500 - $1,500
     * Recalls: NHTSA Campaign Number 19V223000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Control Arm Bushings:**
@@ -52,19 +39,6 @@ The 2010 Mercedes-Benz C63 AMG is a high-performance sedan powered by a naturall
     * Solution: Diagnose and repair the root cause of the battery drain, such as parasitic power draws or a faulty alternator.
     * Estimated Cost to Fix: $200 - $1,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -84,15 +58,3 @@ The 2010 Mercedes-Benz C63 AMG is a high-performance sedan powered by a naturall
 **Summary:**
 
 The 2010 Mercedes-Benz C63 AMG is a potent and desirable vehicle, but it is not without potential issues. While some of the problems can be severe and costly to fix, such as the head bolt failure, others are relatively minor and affordable. Overall, the severity and cost of the reported issues vary, but it is important for potential buyers to be aware of the potential risks before making a decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

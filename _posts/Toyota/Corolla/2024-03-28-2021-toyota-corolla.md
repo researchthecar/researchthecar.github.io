@@ -37,19 +37,6 @@ People like the Corolla for its reliability, fuel efficiency, and value. However
 * **6-speed manual transmission:**
     * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear suspension:**
@@ -70,19 +57,6 @@ People like the Corolla for its reliability, fuel efficiency, and value. However
     * **Solution:** Diagnose and repair the electrical short.
     * **Estimated Cost to Fix:** Varies depending on the severity of the issue
     * **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -113,15 +87,3 @@ People like the Corolla for its reliability, fuel efficiency, and value. However
 **Summary**
 
 Overall, the 2021 Toyota Corolla is a reliable and fuel-efficient vehicle. However, some owners have reported issues with the engine, transmission, suspension, electrical system, headlights, and interior components. The severity and cost of these issues vary, but most can be resolved with routine maintenance and repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

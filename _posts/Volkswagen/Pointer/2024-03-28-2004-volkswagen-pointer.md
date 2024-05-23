@@ -38,19 +38,6 @@ The 2004 Volkswagen Pointer is a compact sedan powered by a 1.8-liter 4-cylinder
   * Estimated Cost to Fix: $300 - $800+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Failure:** Strut mounts may prematurely wear out, causing clunking noises and reduced handling.
@@ -68,19 +55,6 @@ The 2004 Volkswagen Pointer is a compact sedan powered by a 1.8-liter 4-cylinder
   * Solution: Diagnose and repair electrical system.
   * Estimated Cost to Fix: $100 - $500+
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -103,15 +77,3 @@ The 2004 Volkswagen Pointer is a compact sedan powered by a 1.8-liter 4-cylinder
 **Summary:**
 
 The 2004 Volkswagen Pointer has a few common issues that can be costly to repair, particularly with the timing belt and transmission. However, overall, it remains a reliable and affordable vehicle with a roomy interior and fuel-efficient performance. Potential buyers should be aware of these issues and factor in the potential cost of repairs when considering this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

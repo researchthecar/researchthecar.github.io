@@ -34,19 +34,6 @@ The 2011 Subaru Tribeca is a midsize SUV known for its spacious interior, all-wh
         * Estimated Cost to Fix: $2,500 - $4,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Bearing Failure:**
@@ -72,19 +59,6 @@ The 2011 Subaru Tribeca is a midsize SUV known for its spacious interior, all-wh
     * Solution: Replace ignition coils
     * Estimated Cost to Fix: $200 - $400
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -115,15 +89,3 @@ The 2011 Subaru Tribeca is a midsize SUV known for its spacious interior, all-wh
 **Summary**
 
 While the 2011 Subaru Tribeca is generally reliable, it has had some reported issues. The engine and transmission are the most problematic areas, with cylinder head gasket failures, timing chain tensioner failures, and transmission slippage being notable concerns. Suspension and electrical issues are less common but can still be costly to repair. Interior issues are mostly minor but can be annoying. Overall, the severity of the issues ranges from moderate to severe, and repair costs can be significant.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

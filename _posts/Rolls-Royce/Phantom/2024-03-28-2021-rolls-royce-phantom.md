@@ -38,19 +38,6 @@ The 2021 Rolls-Royce Phantom is the latest iteration of the iconic luxury sedan.
     Solution: Inspection and replacement of leaking lines.
     Estimated Cost to Fix: $200 - $600+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
   - **Air Suspension Malfunctions**
     Description/Symptoms: Air suspension may fail to provide proper ride height, resulting in uneven vehicle stance, compromised ride quality, and potential tire wear.
@@ -66,19 +53,6 @@ The 2021 Rolls-Royce Phantom is the latest iteration of the iconic luxury sedan.
     Description/Symptoms: Multimedia system may experience random reboots, frozen screens, or connectivity issues.
     Solution: Software updates, hardware module replacements, or repairs to faulty components within the infotainment system.
     Estimated Cost to Fix: $500 - $1,500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
   - **Door Handle Sticking**
@@ -102,15 +76,3 @@ The 2021 Rolls-Royce Phantom is the latest iteration of the iconic luxury sedan.
 
 **Summary:**
 While the 2021 Rolls-Royce Phantom is a luxurious and impressive vehicle, it is not immune to a range of potential issues. Engine problems, transmission malfunctions, and electrical glitches can be costly to repair, and certain interior and exterior components have also been reported to have issues. Prospective buyers should carefully consider the potential costs associated with these issues before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

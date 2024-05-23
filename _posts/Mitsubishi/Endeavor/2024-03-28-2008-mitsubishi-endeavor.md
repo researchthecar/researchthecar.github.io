@@ -35,19 +35,6 @@ Overall, the 2008 Mitsubishi Endeavor is a reliable and affordable SUV that offe
 * **6-speed manual transmission**
     * **No issues found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension strut failure**
@@ -73,19 +60,6 @@ Overall, the 2008 Mitsubishi Endeavor is a reliable and affordable SUV that offe
     * Solution: The solution to this issue is to replace the battery.
     * Estimated Cost to Fix: $100 - $200+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -116,15 +90,3 @@ Overall, the 2008 Mitsubishi Endeavor is a reliable and affordable SUV that offe
 **Summary**
 
 Overall, the 2008 Mitsubishi Endeavor is a reliable and affordable SUV, but it does have a few issues that can be costly to repair. The most severe issues include the timing chain failure on the 4.7L V8 engine, the torque converter failure on the 5-speed automatic transmission, and the dashboard cracking. However, these issues are relatively rare, and most Endeavor owners will not experience any major problems with their vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

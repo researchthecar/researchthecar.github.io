@@ -55,15 +55,3 @@ Despite its impressive performance, the Boxer 50 has faced several issues since 
 ## Summary
 
 While the 2015 Mercedes-Benz Boxer 50 is an impressive performance car, it has faced some reliability issues in recent years. The cost of repairs can be significant, especially for engine and transmission problems. If you are considering purchasing a Boxer 50, it is important to factor in the potential cost of repairs and ensure you have a reliable warranty to cover any unexpected issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

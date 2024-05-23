@@ -66,15 +66,3 @@ The 2020 Volkswagen Atlas Cross Sport is a midsize SUV that seats up to seven pa
 ### Summary
 
 While the 2020 Volkswagen Atlas Cross Sport is a popular SUV with many positive attributes, it has been plagued by several issues. The most common problems involve the engine, transmission, electrical system, and interior components. The severity of these issues varies, but many can be fixed under warranty. However, some owners have reported excessive oil consumption and electrical system problems that can be costly to repair. Overall, the Atlas Cross Sport has a mixed reliability record, with some owners experiencing significant problems while others have reported few.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

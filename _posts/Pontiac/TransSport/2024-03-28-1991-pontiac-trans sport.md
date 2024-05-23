@@ -27,19 +27,6 @@ The 1991 Pontiac Trans Sport is a versatile minivan known for its spacious inter
    - Estimated Cost to Fix: $1,500 - $3,000+
    - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
  - **No Issues Found**
@@ -57,19 +44,6 @@ The 1991 Pontiac Trans Sport is a versatile minivan known for its spacious inter
    - Solution: Replace starter motor
    - Estimated Cost to Fix: $200 - $400
    - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -89,15 +63,3 @@ The 1991 Pontiac Trans Sport is a versatile minivan known for its spacious inter
 
 **Summary**
 The 1991 Pontiac Trans Sport is generally reliable, but it has some notable issues with its engine, transmission, and electrical components. The intake manifold gasket failure and transmission slipping issues can be costly to repair, so it's important to have them diagnosed and fixed promptly. Overall, the Trans Sport offers a spacious and comfortable driving experience but may require some maintenance attention over time.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

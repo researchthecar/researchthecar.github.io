@@ -36,19 +36,6 @@ The 2018 Volkswagen Tiguan Limited is a compact SUV that offers a spacious cabin
 * **Transmission shudder:** Shuddering or vibration during acceleration or gear changes has been reported. The issue is caused by worn clutch plates. The solution involves replacing the clutch plates and transmission fluid. Estimated cost to fix: $1,500 - $2,500+
 * **Transmission failure:** Complete transmission failure has been reported, resulting in loss of drive and no movement. The issue is caused by a faulty torque converter. The solution involves replacing the torque converter and transmission fluid. Estimated cost to fix: $2,000 - $5,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -58,19 +45,6 @@ The 2018 Volkswagen Tiguan Limited is a compact SUV that offers a spacious cabin
 * **Battery drain:** Premature battery drain has been reported, leading to difficulty starting the vehicle. The issue is caused by a faulty alternator or parasitic draw. The solution involves replacing the alternator or identifying and resolving the parasitic draw. Estimated cost to fix: $200 - $600+
 * **Check engine light:** Illumination of the check engine light has been reported, indicating various issues, including emissions system malfunctions, sensor failures, and engine performance problems. The solution involves diagnosing and resolving the underlying issue. Estimated cost to fix: Varies depending on the issue
 * **Electrical gremlins:** Various electrical issues have been reported, such as flickering lights, malfunctioning power windows, and intermittent radio operation. The issue is caused by faulty wiring, connectors, or modules. The solution involves diagnosing and replacing the affected components. Estimated cost to fix: Varies depending on the issue
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -87,15 +61,3 @@ The 2018 Volkswagen Tiguan Limited is a compact SUV that offers a spacious cabin
 **Summary:**
 
 The 2018 Volkswagen Tiguan Limited has received mixed reviews from owners. While it offers a spacious interior and comfortable ride, it has been plagued by several reliability issues, particularly with its engine, transmission, and electrical systems. The severity and cost of these issues can vary, but some repairs can be costly. Overall, the Tiguan Limited is a decent option for those who prioritize space and comfort over performance and reliability.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

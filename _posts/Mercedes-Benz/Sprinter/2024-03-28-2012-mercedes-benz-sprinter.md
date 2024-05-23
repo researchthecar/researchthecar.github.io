@@ -37,19 +37,6 @@ The 2012 Mercedes-Benz Sprinter is a versatile van offered with a range of engin
     * **Estimated Cost to Fix:** $500 - $1,000
     * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf Spring Breakage:** This issue affects vehicles with heavy-duty suspension configurations. Overloading or excessive wear can cause the leaf springs to break, compromising the vehicle's stability and handling.
@@ -65,19 +52,6 @@ The 2012 Mercedes-Benz Sprinter is a versatile van offered with a range of engin
     * **Solution:** Identify and resolve the cause of the battery drain, which may include replacing faulty components or updating software
     * **Estimated Cost to Fix:** $100 - $500+
     * **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -98,15 +72,3 @@ The 2012 Mercedes-Benz Sprinter is a versatile van offered with a range of engin
 **Summary**
 
 While the 2012 Mercedes-Benz Sprinter is generally a reliable vehicle, it has experienced some common issues that owners should be aware of. The severity and cost of repairs vary depending on the specific problem. Overall, it is important to follow recommended maintenance schedules to minimize the potential for issues and ensure the longevity of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -29,19 +29,6 @@ The 2012 Mercedes-Benz Tres Ejes is a heavy-duty commercial truck engineered for
     * Estimated Cost to Fix: $3,000 - $7,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -53,19 +40,6 @@ The 2012 Mercedes-Benz Tres Ejes is a heavy-duty commercial truck engineered for
     * Solution: Replace faulty alternator
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -91,15 +65,3 @@ The 2012 Mercedes-Benz Tres Ejes is a heavy-duty commercial truck engineered for
 **Summary:**
 
 While the 2012 Mercedes-Benz Tres Ejes offers exceptional performance and durability, it is not without its potential issues. Fuel injector failures and clutch pack wear are common engine and transmission concerns. Electrical issues, such as alternator failures, can also arise. The vehicle is prone to rust on the frame rails, and the interior may experience dashboard plastic cracking and HVAC control module failures. The cost of repairs can be significant, ranging from a few hundred to several thousand dollars.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

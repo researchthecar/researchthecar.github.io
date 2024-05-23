@@ -55,19 +55,6 @@ The 2022 Nissan Titan XD is a full-size pickup truck offered in multiple configu
     * Estimated Cost to Fix: $2,000 - $4,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Leaf Spring Failure**
     * Description/Symptoms: Broken or weakened leaf springs can lead to sagging, reduced handling, and increased tire wear.
@@ -91,19 +78,6 @@ The 2022 Nissan Titan XD is a full-size pickup truck offered in multiple configu
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Rust**
@@ -131,15 +105,3 @@ The 2022 Nissan Titan XD is a full-size pickup truck offered in multiple configu
 
 **Summary**
 The 2022 Nissan Titan XD has been reported to have some potential issues, including intake valve carbon buildup, timing chain tensioner failure, oil pump failure, torque converter shudder, transmission slipping, EGR cooler failure, fuel injector failure, turbocharger failure, leaf spring failure, shock absorber failure, battery drain, alternator failure, rust, headlight condensation, infotainment system malfunction, and heater/AC failure. The severity and cost of these issues vary depending on the specific problem and the extent of the damage. It is important to address any issues promptly to prevent further damage and potential safety concerns.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

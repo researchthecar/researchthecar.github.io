@@ -45,19 +45,6 @@ The 2016 Mercedes-Benz Torino is a luxury mid-size SUV that offers a combination
 > Estimated Cost to Fix: $3,000 - $4,000+
 > Recalls: MB-16V-810
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Failure**
@@ -79,19 +66,6 @@ The 2016 Mercedes-Benz Torino is a luxury mid-size SUV that offers a combination
 > Solution: Software update or replacement of the infotainment system
 > Estimated Cost to Fix: $400 - $1,000+
 > Recalls: MB-16V-1100
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -118,15 +92,3 @@ The 2016 Mercedes-Benz Torino is a luxury mid-size SUV that offers a combination
 **Overall Summary**
 
 While the 2016 Mercedes-Benz Torino offers an impressive array of features, it has its share of potential issues that can be costly to repair. Major problems like turbocharger failure, torque converter failure, and suspension issues can lead to significant expenses. Additionally, electrical and interior malfunctions, while less severe, can still be annoying and inconvenient.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

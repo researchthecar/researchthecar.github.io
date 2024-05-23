@@ -39,19 +39,6 @@ Drivers appreciate the Galant's comfortable ride and impressive performance for 
 
 * **Clutch Master Cylinder Failure:** Leaking cylinder can prevent the clutch from engaging properly, resulting in difficulty shifting gears. Repair includes replacing the faulty cylinder. **$200 - $400**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mounts:** Worn or deteriorated mounts can cause a clunking noise when driving over bumps or uneven surfaces. Replacement of mounts is necessary to eliminate the noise. **$250 - $400**
@@ -61,19 +48,6 @@ Drivers appreciate the Galant's comfortable ride and impressive performance for 
 * **Alternator Failure:** Failing alternator can cause electrical system problems, including dim headlights, flickering lights, or battery discharge. Replacement of the alternator is required. **$400 - $600**
 * **Battery Issues:** Weak or faulty battery can result in difficulty starting the vehicle or electrical system failures. Replacement of the battery is necessary to resolve the issue. **$100 - $250**
 * **Fuse Box Problems:** Loose or blown fuses can cause electrical components to malfunction or not function at all. Replacing or tightening fuses resolves the issue. **$50 - $150**
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -88,15 +62,3 @@ Drivers appreciate the Galant's comfortable ride and impressive performance for 
 **Summary:**
 
 The 2006 Mitsubishi Galant offers a balance of comfort, performance, and affordability. However, it is not immune to various issues that can affect the engine, transmission, suspension, electrical system, and interior. While some repairs are relatively minor and inexpensive, others, such as timing chain tensioner failure or transmission problems, can be costly and require extensive labor. Potential buyers should carefully consider the potential repair costs associated with the Galant before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

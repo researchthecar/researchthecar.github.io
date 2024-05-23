@@ -38,19 +38,6 @@ The 2016 Mitsubishi Mirage is a subcompact hatchback powered by a 1.2L 3-cylinde
         * Estimated Cost to Fix: $2,000 - $5,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Shock Absorber Failure:**
@@ -71,19 +58,6 @@ The 2016 Mitsubishi Mirage is a subcompact hatchback powered by a 1.2L 3-cylinde
     * Solution: Replace alternator
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -109,15 +83,3 @@ The 2016 Mitsubishi Mirage is a subcompact hatchback powered by a 1.2L 3-cylinde
 **Summary:**
 
 The 2016 Mitsubishi Mirage has a number of potential issues, particularly with its engine and transmission. While the severity of these issues can vary, they can be costly to fix, ranging from hundreds to thousands of dollars. It's important for owners to be aware of these potential problems and monitor their vehicles for any symptoms.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

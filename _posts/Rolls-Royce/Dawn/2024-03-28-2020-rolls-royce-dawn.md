@@ -36,19 +36,6 @@ Owners appreciate the Dawn's opulent interior, which features supple leather uph
         * Solution: Replace the faulty valve body
         * Estimated Cost to Fix: $1,500 - $2,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -67,19 +54,6 @@ Owners appreciate the Dawn's opulent interior, which features supple leather uph
         * NHTSA Campaign Number 21V645000
         * NHTSA Campaign Number 20V525000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **No Issues Found**
@@ -94,15 +68,3 @@ Owners appreciate the Dawn's opulent interior, which features supple leather uph
 **Summary**
 
 The 2020 Rolls-Royce Dawn is a luxurious and powerful convertible. However, it has been reported to have some issues, including oil leaks, misfiring, transmission hesitations, infotainment system malfunctions, and battery drains. These issues can be expensive to fix, but Rolls-Royce typically covers them under warranty.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

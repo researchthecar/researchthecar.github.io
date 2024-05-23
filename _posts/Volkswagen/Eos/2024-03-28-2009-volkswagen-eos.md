@@ -56,19 +56,6 @@ Owners of the Eos appreciate its sleek design, comfortable interior, and respons
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Bearing Failure**
@@ -94,19 +81,6 @@ Owners of the Eos appreciate its sleek design, comfortable interior, and respons
     * Solution: Electrical system diagnosis and repair
     * Estimated Cost to Fix: Varies depending on the cause
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -137,15 +111,3 @@ Owners of the Eos appreciate its sleek design, comfortable interior, and respons
 **Summary**
 
 The 2009 Volkswagen Eos is a stylish and sporty convertible that has some known issues with its engine, transmission, suspension, electrical, exterior, and interior components. While some of these issues are relatively minor and inexpensive to fix, others can be quite costly. It is important for potential buyers to be aware of these potential problems before purchasing an Eos.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

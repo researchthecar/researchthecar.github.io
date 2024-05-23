@@ -46,19 +46,6 @@ People who like the MR2 Spyder praise its handling, performance, and affordabili
     * Solution: Replace the transmission seals or gaskets.
     * Estimated Cost to Fix: $200 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear suspension creaks:** The rear suspension may creak or groan over bumps or uneven surfaces.
@@ -79,19 +66,6 @@ People who like the MR2 Spyder praise its handling, performance, and affordabili
 * **Power window failure:** The power windows may fail to operate or become stuck.
     * Solution: Replace the power window motors or switches.
     * Estimated Cost to Fix: $200 - $600+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -116,15 +90,3 @@ People who like the MR2 Spyder praise its handling, performance, and affordabili
 The 2003 Toyota MR2 Spyder is a fun and affordable sports car, but it is not without its issues. Some of the more common problems include excessive oil consumption, timing chain failure, difficulty shifting gears, and transmission slipping. The MR2 Spyder also has some issues with its suspension, electrical system, and interior.
 
 The severity and cost of the issues with the MR2 Spyder can vary depending on the specific problem and the extent of the damage. Some issues, such as door lock actuator failure or dashboard cracking, are relatively minor and inexpensive to fix. However, other issues, such as engine or transmission failure, can be more severe and costly to repair.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

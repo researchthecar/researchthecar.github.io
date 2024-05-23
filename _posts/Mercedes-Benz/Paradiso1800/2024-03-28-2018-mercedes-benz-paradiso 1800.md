@@ -29,19 +29,6 @@ Solution: Replace the torque converter.
 Estimated Cost to Fix: $3,000 - $4,500+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 **No Issues Found**
@@ -53,19 +40,6 @@ Description/Symptoms: The vehicle may lose illumination from one or both headlig
 Solution: Replace the headlight control module.
 Estimated Cost to Fix: $500 - $1,000+
 Recalls: MB-2023-052401-001
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -82,15 +56,3 @@ Recalls: None Found
 **Summary:**
 
 Overall, the 2018 Mercedes-Benz Paradiso 1800 is a reliable and well-engineered coach bus. However, it has experienced some issues with the exhaust aftertreatment system, torque converter, and headlight control module. The severity of these issues varies, and the cost of repairs can be significant.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

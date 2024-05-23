@@ -34,19 +34,6 @@ The 2015 Mercedes-Benz S63 AMG is a high-performance luxury sedan that combines 
   - Estimated Cost to Fix: $2,000 - $3,000+
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 - **Air Suspension Compressor Failure:**
@@ -73,19 +60,6 @@ The 2015 Mercedes-Benz S63 AMG is a high-performance luxury sedan that combines 
   - Estimated Cost to Fix: $500 - $1,500+
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior:**
 
 No Issues Found
@@ -106,15 +80,3 @@ No Issues Found
 **Summary:**
 
 The 2015 Mercedes-Benz S63 AMG is a highly capable and luxurious sedan, but it is not without its potential issues. Engine problems, specifically turbocharger and intake manifold issues, can be costly to repair. Transmission clutch pack failures can also lead to expensive repairs. The car's complex electrical system and advanced interior features can also experience problems that can be difficult to diagnose and fix. Suspension issues and exterior problems are relatively minor compared to the potential engine, transmission, electrical, and interior concerns. Overall, the S63 AMG is a high-performance car that requires proper maintenance and care to avoid costly repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

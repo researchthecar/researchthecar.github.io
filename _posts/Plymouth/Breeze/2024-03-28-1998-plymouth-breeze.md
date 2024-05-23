@@ -29,19 +29,6 @@ The 1998 Plymouth Breeze is a midsize sedan that was offered with two engine opt
         * Solution: Replace the transmission
         * Estimated Cost to Fix: $1,000 - $2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front strut mounts**
@@ -63,19 +50,6 @@ The 1998 Plymouth Breeze is a midsize sedan that was offered with two engine opt
     * Description/Symptoms: Difficulty starting the engine, electrical components not working properly
     * Solution: Replace the battery
     * Estimated Cost to Fix: $100 - $200+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -102,15 +76,3 @@ The 1998 Plymouth Breeze is a midsize sedan that was offered with two engine opt
 **Summary**
 
 Overall, the 1998 Plymouth Breeze is a reliable vehicle with some common issues that are relatively inexpensive to fix. The most severe issues include intake manifold gasket failure and timing belt failure, which can lead to major engine damage if not addressed promptly. However, these issues are not widespread and most Breeze owners will experience only minor problems over the life of their vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -25,19 +25,6 @@ Despite its overall reliability, the 2006 Mercedes-Benz Boxer 50 has faced sever
 
 * **Transmission Slipping:** The transmission may slip or shudder when shifting gears, indicating a worn clutch or other internal transmission components. The transmission may need to be rebuilt or replaced. $2,000 - $4,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Premature Front Suspension Wear:** The front suspension components, such as ball joints and control arms, can wear prematurely, leading to knocking noises, uneven tire wear, and reduced handling. The suspension components need to be replaced. $500 - $1,000+
@@ -47,19 +34,6 @@ Despite its overall reliability, the 2006 Mercedes-Benz Boxer 50 has faced sever
 
 * **Battery Drain:** The battery may drain prematurely, indicating a faulty electrical component or parasitic draw. The electrical system needs to be inspected and repaired. $100 - $300+
 * **Alternator Failure:** The alternator can fail, resulting in a loss of electrical power and potential battery damage. The alternator needs to be replaced. $500 - $800+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -74,15 +48,3 @@ Despite its overall reliability, the 2006 Mercedes-Benz Boxer 50 has faced sever
 **Summary**
 
 The 2006 Mercedes-Benz Boxer 50 is a reliable vehicle overall, but it has faced several common issues. The most severe and costly issues involve the engine and transmission, including EGR valve failure, turbocharger failure, and transmission slipping. The cost of repairs for these issues can range from $2,000 to over $4,000. Other issues, such as suspension wear and electrical problems, are less severe and less expensive to repair. When considering a used Boxer 50, a thorough inspection by a qualified mechanic is recommended to identify any potential issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

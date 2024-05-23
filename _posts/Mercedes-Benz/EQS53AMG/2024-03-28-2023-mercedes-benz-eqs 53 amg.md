@@ -17,19 +17,6 @@ The 2023 Mercedes-Benz EQS 53 AMG is a high-performance electric luxury sedan th
     * Estimated Cost to Fix: $10,000 - $20,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Failure**
@@ -45,19 +32,6 @@ The 2023 Mercedes-Benz EQS 53 AMG is a high-performance electric luxury sedan th
     * Solution: Software updates or infotainment system replacement
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -78,15 +52,3 @@ The 2023 Mercedes-Benz EQS 53 AMG is a high-performance electric luxury sedan th
 **Summary**
 
 The 2023 Mercedes-Benz EQS 53 AMG boasts impressive performance and luxurious amenities, but it has been reported to have some common issues that can be costly to repair. Battery pack malfunctions, suspension failures, electrical glitches, headlight condensation, and panoramic sunroof problems are among the most prevalent concerns. It is important to consider the potential costs of these issues when evaluating this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

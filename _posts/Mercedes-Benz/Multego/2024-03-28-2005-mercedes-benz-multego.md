@@ -86,15 +86,3 @@ Owners of the Multego praised its powerful engine, sleek design, and luxurious i
 ## **Summary**
 
 Overall, the 2005 Mercedes-Benz Multego was a generally reliable vehicle, but some owners experienced issues with certain components. The most common issues were valve train problems with the V8 engine and potential transmission fluid leaks. The suspension and electrical systems also had occasional issues, while the interior and exterior were generally less problematic. The severity and cost of the issues could vary depending on the specific problem and the severity of the damage. It is important for Multego owners to be aware of these potential issues and have their vehicles regularly inspected and maintained to minimize any potential problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -26,38 +26,12 @@ The 2004 Mitsubishi Space Star is a compact hatchback that offers a comfortable 
 * **Torque Converter Shudder:** The torque converter can develop a shuddering sensation during acceleration. Solution: Replacement of the torque converter is required. Estimated Cost to Fix: $800 - $1,200+
 * **Transmission Fluid Leaks:** The transmission can develop leaks from the pan gasket or seals. This can lead to low transmission fluid levels and transmission damage. Solution: Replacement of the leaking gasket or seal is required. Estimated Cost to Fix: $100 - $300+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Strut Mount Bearing Failure:** The strut mount bearings can wear out, causing a clunking noise when driving over bumps or turning. Solution: Replacement of the strut mount bearings is necessary. Estimated Cost to Fix: $150 - $250+
 
 **Electrical**
 * **Alternator Failure:** The alternator can fail, leading to insufficient charging of the battery. This can cause the battery to drain and the vehicle to stall. Solution: Replacement of the alternator is required. Estimated Cost to Fix: $300 - $500+
 * **Battery Drain:** The battery can drain prematurely, even when the vehicle is not in use. Solution: Identifying and repairing the source of the parasitic drain is necessary. Estimated Cost to Fix: $100 - $400+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Door Lock Failure:** The door locks can fail to operate, making it difficult to enter or exit the vehicle. Solution: Replacement of the door lock actuators or switches is necessary. Estimated Cost to Fix: $150 - $300+
@@ -67,15 +41,3 @@ The 2004 Mitsubishi Space Star is a compact hatchback that offers a comfortable 
 
 **Summary:**
 The 2004 Mitsubishi Space Star faces several potential issues, such as intake manifold gasket failure, timing chain tensioner failure, valve cover gasket leak, synchronizer wear, torque converter shudder, transmission fluid leaks, strut mount bearing failure, alternator failure, battery drain, door lock failure, and dashboard cracking. The severity of these issues varies, and the cost to fix them can range from minor to major.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

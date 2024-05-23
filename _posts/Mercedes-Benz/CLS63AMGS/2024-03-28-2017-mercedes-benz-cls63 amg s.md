@@ -27,19 +27,6 @@ The 2017 Mercedes-Benz CLS63 AMG S is a high-performance luxury sedan powered by
 * Estimated Cost to Fix: $1,000 - $2,500+
 * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Air Suspension Compressor Failure:** Compressor may fail prematurely, causing the suspension to malfunction and result in a bumpy ride.
@@ -53,19 +40,6 @@ The 2017 Mercedes-Benz CLS63 AMG S is a high-performance luxury sedan powered by
 * Solution: Diagnose and repair faulty components, such as the alternator or parasitic drains.
 * Estimated Cost to Fix: $500 - $1,200+
 * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -84,15 +58,3 @@ The 2017 Mercedes-Benz CLS63 AMG S is a high-performance luxury sedan powered by
 **Summary:**
 
 The 2017 Mercedes-Benz CLS63 AMG S is a highly capable performance sedan, but it has faced a number of significant issues. The engine, transmission, and suspension have all been subject to failures, while electrical and interior problems have also been reported. The severity and cost of these issues vary, but they can be a major inconvenience and expense for owners.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

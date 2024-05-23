@@ -74,15 +74,3 @@ Owners generally praise the Passat for its handling, fuel efficiency, and interi
 ### Summary
 
 The 2016 Volkswagen Passat has received mixed reviews from owners. While some have reported issues with the engine, transmission, and other components, others have praised the vehicle's handling, comfort, and fuel efficiency. The severity and cost of the issues vary, but it is important to be aware of potential problems before purchasing a used Passat.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

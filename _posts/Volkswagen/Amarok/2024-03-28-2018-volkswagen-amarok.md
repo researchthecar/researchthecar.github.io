@@ -27,19 +27,6 @@ Solution: Torque converter replacement or reprogramming transmission control mod
 Estimated Cost to Fix: $1,200 - $2,000+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -51,19 +38,6 @@ Description/Symptoms: Battery discharge over extended periods, leading to diffic
 Solution: Diagnose and repair or replace faulty components, such as parasitic draw from modules or sensors.
 Estimated Cost to Fix: $150 - $500+
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -84,15 +58,3 @@ Recalls: VWN0002642
 **Summary**
 
 While the 2018 Volkswagen Amarok generally receives positive feedback for its performance and features, it has faced some issues. The most severe and costly issues include the torque converter shudder in the transmission and the defective airbag sensor. Other issues, such as EGR cooler buildup, battery drain, and rust on the undercarriage, are less severe and can be resolved at a lower cost. Overall, the reliability of the 2018 Amarok is on par with other vehicles in its class, with manageable repairs and maintenance costs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

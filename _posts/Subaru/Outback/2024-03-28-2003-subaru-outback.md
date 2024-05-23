@@ -49,19 +49,6 @@ Transmission option:
   * Estimated Cost to Fix: $1,500 - $3,000+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Rear suspension bushings failure:**
@@ -82,19 +69,6 @@ Transmission option:
   * Solution: Replace alternator
   * Estimated Cost to Fix: $500 - $800
   * Recalls: 04V169000
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -120,15 +94,3 @@ Transmission option:
 **Summary:**
 
 The 2003 Subaru Outback is generally a reliable vehicle, but it has some common issues to watch out for. The most severe issues are related to the engine and transmission, which can be costly to repair. Other issues, such as suspension and electrical problems, are less severe and typically less expensive to fix. Overall, the Outback remains a popular choice for its versatility and capability, but it is important to be aware of the potential issues when considering buying one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

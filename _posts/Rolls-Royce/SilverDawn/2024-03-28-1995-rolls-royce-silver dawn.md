@@ -21,19 +21,6 @@ The 1995 Rolls-Royce Silver Dawn was a luxurious sedan powered by a 6.75-liter V
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -48,19 +35,6 @@ Estimated Cost to Fix: $500 - $1,500+
 Description/Symptoms: Blown fuses, intermittent electrical problems, or no power to certain components.
 Solution: Locate and repair the short circuit in the wiring harness.
 Estimated Cost to Fix: $200 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -80,15 +54,3 @@ Estimated Cost to Fix: $1,500 - $3,000+
 **Summary:**
 
 The 1995 Rolls-Royce Silver Dawn is a reliable and comfortable vehicle with few known issues. However, potential owners should be aware of potential electrical problems and interior component failures. The severity of these issues can vary in terms of cost and complexity, with some requiring significant repair expenses.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

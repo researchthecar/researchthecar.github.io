@@ -29,19 +29,6 @@ The 2015 Mercedes-Benz Viaggio 1050 is a full-size luxury coach bus manufactured
         * Solution: Adjust or replace the shift linkage or transmission synchronizers.
         * Estimated Cost to Fix: $300 - $1,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -56,19 +43,6 @@ The 2015 Mercedes-Benz Viaggio 1050 is a full-size luxury coach bus manufactured
     * Description/Symptoms: The alternator fails to charge the battery, resulting in electrical system problems and eventually leaving the vehicle stranded.
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $500 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -91,15 +65,3 @@ The 2015 Mercedes-Benz Viaggio 1050 is a full-size luxury coach bus manufactured
 **Summary**
 
 The 2015 Mercedes-Benz Viaggio 1050 has a few known issues, but they are generally not severe or expensive to fix. The most common problems are fuel injector failure, EGR valve malfunction, and battery drain. Overall, the Viaggio 1050 is a reliable and comfortable coach bus, but it's important to be aware of potential issues and address them promptly to avoid more serious problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

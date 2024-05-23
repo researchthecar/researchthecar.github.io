@@ -65,19 +65,6 @@ The 2003 Oldsmobile Bravada is a mid-size SUV that was produced by General Motor
     * Estimated Cost to Fix: $600 - $1,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Strut Failure**
@@ -103,19 +90,6 @@ The 2003 Oldsmobile Bravada is a mid-size SUV that was produced by General Motor
     * Solution: Replace alternator
     * Estimated Cost to Fix: $400 - $600+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -146,15 +120,3 @@ The 2003 Oldsmobile Bravada is a mid-size SUV that was produced by General Motor
 **Summary**
 
 The 2003 Oldsmobile Bravada is a vehicle with a range of engine and transmission options that can vary widely in terms of reliability. The 4.2L V6 engine and 4-speed automatic transmission are generally considered to be more reliable than the 5.3L V8 engine and 5-speed manual transmission, but all options have potential issues that owners should be aware of. The severity and cost of these issues can vary significantly depending on the specific problem and the age and condition of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

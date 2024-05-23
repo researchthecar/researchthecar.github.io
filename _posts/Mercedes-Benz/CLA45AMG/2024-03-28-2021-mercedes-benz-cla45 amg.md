@@ -60,15 +60,3 @@ The 2021 Mercedes-Benz CLA45 AMG is a high-performance compact sedan with a turb
 ### **Summary**
 
 The 2021 Mercedes-Benz CLA45 AMG has several potential issues that owners should be aware of, particularly with the engine and transmission. While some issues can be resolved for a relatively low cost, others can be quite expensive to repair. Overall, the severity and cost of the issues should be considered when evaluating the vehicle's overall value and reliability.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

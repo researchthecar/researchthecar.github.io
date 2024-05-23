@@ -67,15 +67,3 @@ Recalls: None Found
 ## Summary
 
 Overall, the 2021 Mercedes-Benz Paradiso 1200 is a well-built and reliable coach bus. However, there have been some reported issues related to engine overheating, transmission slipping, suspension leaks, electrical problems, and interior climate control malfunctions. The severity of these issues varies, with some being minor and easily fixable while others can be more costly and time-consuming to repair. It is important to note that these issues are not widespread and affect only a small number of vehicles.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

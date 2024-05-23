@@ -90,15 +90,3 @@ People like the Cayenne for its powerful engines, responsive handling, and opule
 ## Overall Summary
 
 The Porsche Cayenne is a highly capable and desirable luxury SUV. However, some owners have encountered issues with various components, including engine oil leaks, turbocharger actuator failures, transmission hesitations, suspension strut mount failures, electrical malfunctions, sunroof rattles, and headlight condensation. The severity and cost of these issues can vary depending on the specific problem and the model year of the vehicle. Potential buyers should be aware of these potential issues before purchasing a Cayenne.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

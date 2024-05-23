@@ -32,19 +32,6 @@ The 2017 Mercedes-Benz S65 AMG is a high-performance luxury sedan powered by a t
         * Solution: Replacement of transmission control module.
         * Estimated Cost to Fix: $1,000 - $1,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Air Suspension Compressor Failure:**
@@ -62,19 +49,6 @@ The 2017 Mercedes-Benz S65 AMG is a high-performance luxury sedan powered by a t
     * Description/Symptoms: The vehicle's electrical system may not receive adequate power.
     * Solution: Replacement of alternator.
     * Estimated Cost to Fix: $1,000 - $1,500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -97,15 +71,3 @@ The 2017 Mercedes-Benz S65 AMG is a high-performance luxury sedan powered by a t
 **Summary:**
 
 While the 2017 Mercedes-Benz S65 AMG is an impressive luxury sedan, it is not without potential issues. Engine and transmission problems are relatively rare but can be expensive to fix. Electrical and interior issues are more common and can range from minor annoyances to more serious problems. Overall, the S65 AMG is a reliable vehicle, but owners should be aware of the potential issues outlined above and budget accordingly.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

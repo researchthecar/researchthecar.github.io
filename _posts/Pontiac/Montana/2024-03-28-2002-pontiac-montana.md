@@ -27,19 +27,6 @@ Owners of the 2002 Pontiac Montana have reported a number of issues with the veh
 
 * **4-Speed Automatic Transmission Failure:** The 4-speed automatic transmission can fail, causing the vehicle to lose power or fail to move. Symptoms include a slipping transmission, a loss of power, and an illuminated check engine light. The solution is to rebuild or replace the transmission. Estimated cost to fix: $1,500 - $2,500
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Noise:** The front suspension can make a noise when driving over bumps or uneven surfaces. Symptoms include a clunking or rattling noise from the front of the vehicle. The solution is to inspect the suspension components and replace any worn or damaged parts. Estimated cost to fix: $200 - $400
@@ -49,19 +36,6 @@ Owners of the 2002 Pontiac Montana have reported a number of issues with the veh
 
 * **Alternator Failure:** The alternator can fail, causing the battery to not charge and the vehicle to lose power. Symptoms include a dead battery, a loss of power, and an illuminated check engine light. The solution is to replace the alternator. Estimated cost to fix: $400 - $600
 * **Starter Failure:** The starter can fail, preventing the engine from starting. Symptoms include a clicking noise when trying to start the engine, a loss of power, and an illuminated check engine light. The solution is to replace the starter. Estimated cost to fix: $200 - $400
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -76,15 +50,3 @@ Owners of the 2002 Pontiac Montana have reported a number of issues with the veh
 **Summary**
 
 The 2002 Pontiac Montana has a number of potential issues, including engine, transmission, suspension, electrical, exterior, and interior problems. The severity of these issues varies, but some can be costly to repair. Overall, the 2002 Pontiac Montana is a reliable vehicle, but potential owners should be aware of these potential issues before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

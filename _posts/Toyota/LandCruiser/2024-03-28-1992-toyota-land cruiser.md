@@ -21,19 +21,6 @@ People like the Land Cruiser for its spacious interior, comfortable ride, and ex
   - Estimated Cost to Fix: $2,000 - $3,000+
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Rear Leaf Springs Sagging:**
  - Description/Symptoms: The rear of the vehicle may sag or bounce excessively.
@@ -52,19 +39,6 @@ People like the Land Cruiser for its spacious interior, comfortable ride, and ex
   - Solution: Replace the starter solenoid.
   - Estimated Cost to Fix: $200 - $400+
   - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Rust on Undercarriage:**
@@ -88,15 +62,3 @@ People like the Land Cruiser for its spacious interior, comfortable ride, and ex
 **Summary**
 
 The 1992 Toyota Land Cruiser is a generally reliable vehicle, but it is not without its issues. The most common problems reported by owners include transmission slipping, suspension sagging, alternator failure, and interior issues such as door lock actuator malfunctioning and climate control fan motor failure. While these issues can be expensive to fix, the Land Cruiser is still a popular choice for those who want a durable and capable off-road SUV.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

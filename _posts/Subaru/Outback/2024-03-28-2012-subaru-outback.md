@@ -43,19 +43,6 @@ The 2012 Subaru Outback is a mid-size SUV offered with two engine and two transm
     - Estimated Cost to Fix: $1,500 - $3,000
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Rear Sway Bar End Links:** The rear sway bar end links can wear out or break, causing a clunking noise and reduced stability.
@@ -74,19 +61,6 @@ The 2012 Subaru Outback is a mid-size SUV offered with two engine and two transm
     - Solution: Replace the intake air temperature sensor.
     - Estimated Cost to Fix: $100 - $200
     - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -109,15 +83,3 @@ The 2012 Subaru Outback is a mid-size SUV offered with two engine and two transm
 
 **Summary**
 The 2012 Subaru Outback has received a number of complaints about reliability issues. The most common problems include engine oil leaks, transmission slippage, suspension clunking, electrical battery drain, and interior instrument cluster failure. The severity of these issues can vary, with some being more costly to repair than others. Overall, the 2012 Subaru Outback has received mixed reviews, with some owners praising its performance and reliability, while others have experienced significant problems. Potential buyers should be aware of these issues before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -29,19 +29,6 @@ Solution: Replace the transmission fluid and filter. If the problem persists, th
 Estimated Cost to Fix: $1,000 - $3,000+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -53,19 +40,6 @@ Description/Symptoms: The battery drains quickly, even when the vehicle is not i
 Solution: Check for parasitic power draws. The most common cause is the infotainment system not going to sleep. Dealership will update the software and replace the module if needed.
 Estimated Cost to Fix: $100 - $300+
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -82,15 +56,3 @@ Recalls: None Found
 **Summary:**
 
 The 2022 Volkswagen T-Cross has a few issues that are relatively minor and inexpensive to fix. The most common issue is the crankshaft position sensor failure, which can cause the engine to stall or not start. The other issues are less common and typically less expensive to fix. Overall, the T-Cross is a reliable and well-built vehicle that offers a good value for the money.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

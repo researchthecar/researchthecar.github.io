@@ -17,19 +17,6 @@ The 2017 Volkswagen Delivery is a versatile and efficient commercial van that of
 
 * **6-Speed Automatic**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -46,19 +33,6 @@ The 2017 Volkswagen Delivery is a versatile and efficient commercial van that of
     * Solution: Replace the faulty sensor
     * Estimated Cost to Fix: $100 - $300+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -89,15 +63,3 @@ The 2017 Volkswagen Delivery is a versatile and efficient commercial van that of
 **Summary:**
 
 Overall, the 2017 Volkswagen Delivery is a capable and practical commercial van, but it has experienced a few reliability issues, particularly with electrical components and exterior parts. The severity of these issues varies, and the cost to fix ranges from minor to moderate. It is important to note that these issues may not affect all Delivery models, and many owners have reported positive experiences with the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

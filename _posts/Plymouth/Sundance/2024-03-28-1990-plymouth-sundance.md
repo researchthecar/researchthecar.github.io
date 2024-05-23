@@ -33,19 +33,6 @@ The 1990 Plymouth Sundance was a compact car available with a range of engine an
         * Estimated Cost to Fix: $500 - $1,500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Worn Struts:** Weak or worn struts compromise handling and ride quality, causing excessive bouncing and poor braking.
@@ -63,19 +50,6 @@ The 1990 Plymouth Sundance was a compact car available with a range of engine an
         * Solution: Diagnose and repair electrical fault.
         * Estimated Cost to Fix: $100 - $500+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -102,15 +76,3 @@ The 1990 Plymouth Sundance was a compact car available with a range of engine an
 **Summary**
 
 The 1990 Plymouth Sundance had several known issues, primarily related to its engines, transmissions, and electrical system. While some issues were minor and relatively inexpensive to fix, others could be more severe and expensive to resolve. It is important for owners of these vehicles to be aware of potential problems and to have them addressed promptly to maintain the vehicle's safety and performance.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

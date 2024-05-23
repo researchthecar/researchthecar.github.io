@@ -82,15 +82,3 @@ Some of the highly praised features of the V90 Cross Country include its spaciou
 ### **Summary:**
 
 Overall, the 2022 Volvo V90 Cross Country is a reliable and well-equipped vehicle. However, some owners have encountered issues related to the engine, transmission, suspension, electrical, exterior, and interior components. While some of these issues may be minor and inexpensive to fix, others can be more severe and costly. It is advisable for potential buyers to be aware of these issues and factor them into their purchasing decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

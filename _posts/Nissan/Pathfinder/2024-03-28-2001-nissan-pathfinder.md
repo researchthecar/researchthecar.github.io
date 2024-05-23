@@ -43,19 +43,6 @@ The 2001 Nissan Pathfinder is a mid-size SUV renowned for its ruggedness, spacio
     Estimated Cost to Fix: $600 - $1,200
     Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension:**
@@ -84,19 +71,6 @@ The 2001 Nissan Pathfinder is a mid-size SUV renowned for its ruggedness, spacio
     Estimated Cost to Fix: $500 - $1,000
     Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door Lock Actuators:**
@@ -121,15 +95,3 @@ The 2001 Nissan Pathfinder is a mid-size SUV renowned for its ruggedness, spacio
 **Summary:**
 
 While the 2001 Nissan Pathfinder is a capable and versatile SUV, it has its fair share of potential issues that owners should be aware of. Engine problems, such as timing chain stretch and oil consumption, can be costly to repair, while transmission issues can affect drivability. Suspension and electrical issues may require attention as well. However, it's important to note that these issues do not affect all Pathfinders, and many owners have reported positive experiences with the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

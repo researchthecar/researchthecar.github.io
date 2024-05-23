@@ -32,19 +32,6 @@ The 2004 Pontiac Grand Prix is a mid-size sedan that was powered by a variety of
 * **5-Speed Automatic Transmission (5L50E)**
     * **No Major Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension:**
@@ -63,19 +50,6 @@ The 2004 Pontiac Grand Prix is a mid-size sedan that was powered by a variety of
         * Solution: Replace the headlight switch.
         * Estimated Cost to Fix: $150 - $250+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -102,15 +76,3 @@ The 2004 Pontiac Grand Prix is a mid-size sedan that was powered by a variety of
 **Summary:**
 
 The 2004 Pontiac Grand Prix has some common issues, but they are generally not severe and can be repaired at a reasonable cost. The most common issues are related to the intake manifold gasket, valve cover gasket, torque converter, and door handles. Overall, the Grand Prix is a reliable vehicle with a comfortable interior and a good value for the money.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

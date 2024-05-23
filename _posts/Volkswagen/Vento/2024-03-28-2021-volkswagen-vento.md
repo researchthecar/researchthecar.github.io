@@ -48,19 +48,6 @@ The 2021 Volkswagen Vento is a compact sedan known for its spacious interior, re
     * Solution: Replace worn clutches or repair/replace the TCU.
     * Estimated Cost to Fix: $500 - $1,200
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Bushing Wear:** Worn bushings can cause knocking noises, poor handling, and uneven tire wear.
@@ -78,19 +65,6 @@ The 2021 Volkswagen Vento is a compact sedan known for its spacious interior, re
 * **Faulty Headlights:** Dim or flickering headlights can be caused by worn bulbs, wiring issues, or headlight control module problems.
   * Solution: Replace bulbs, repair wiring, or replace the headlight control module.
   * Estimated Cost to Fix: $150 - $400
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -113,15 +87,3 @@ The 2021 Volkswagen Vento is a compact sedan known for its spacious interior, re
 **Summary:**
 
 The 2021 Volkswagen Vento has faced various issues, including engine performance problems, transmission concerns, suspension wear, electrical malfunctions, and interior inconveniences. While not all owners experience these issues, they can be significant and costly to repair. The severity and cost of the problems vary depending on the affected component and the extent of the damage. It is crucial for owners to be aware of these potential issues to make informed maintenance decisions and address any problems promptly.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -39,19 +39,6 @@ The 2005 Nissan Pathfinder is a mid-size SUV available with two engine options: 
     - Estimated Cost to Fix: $1,500-$2,500
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Strut mount failure**
@@ -73,19 +60,6 @@ The 2005 Nissan Pathfinder is a mid-size SUV available with two engine options: 
   - Estimated Cost to Fix: $200-$300
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 - **Tailgate latch failure**
@@ -105,15 +79,3 @@ The 2005 Nissan Pathfinder is a mid-size SUV available with two engine options: 
 **Summary**
 
 The 2005 Nissan Pathfinder has a number of serious issues, including engine and transmission failures. The severity of these issues can vary, but some of them can be quite costly to repair. Owners should be aware of these potential problems and weigh them against the vehicle's positive attributes before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

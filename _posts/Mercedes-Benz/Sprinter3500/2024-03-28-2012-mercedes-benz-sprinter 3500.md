@@ -29,19 +29,6 @@ The 2012 Mercedes-Benz Sprinter 3500 is a full-size van designed for commercial 
 * Estimated Cost to Fix: $2,000 - $3,500+
 * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Issue:** Leaf Spring Breakage
@@ -57,19 +44,6 @@ The 2012 Mercedes-Benz Sprinter 3500 is a full-size van designed for commercial 
 * Solution: Replace faulty battery or diagnose electrical system
 * Estimated Cost to Fix: $200 - $600+
 * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -90,15 +64,3 @@ The 2012 Mercedes-Benz Sprinter 3500 is a full-size van designed for commercial 
 **Summary:**
 
 Overall, the 2012 Mercedes-Benz Sprinter 3500 is generally reliable, but it has some known issues that can be costly to fix. The most severe and expensive issue is the transmission torque converter malfunction, while the fuel injector issue can also lead to significant repair costs. Other issues, such as leaf spring breakage and electrical problems, are less common and less expensive to address.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -28,19 +28,6 @@ tags: ["Volkswagen", "Passat", "2003"]
 - **5-Speed Automatic**
     - **Solenoid Failure:** The transmission solenoids can fail, causing shifting problems, slipping, and illuminated check engine light. Repair involves replacing the affected solenoid. Estimated Cost to Fix: $300 - $600+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Front Control Arm Bushings Failure:** The front control arm bushings can wear out, leading to excessive play in the suspension and reduced handling. Symptoms include clunking noises while driving over bumps, instability during cornering, and uneven tire wear. Repair involves replacing the worn bushings. Estimated Cost to Fix: $200 - $400+
 - **Rear Suspension Sagging:** The rear suspension can sag, resulting in a lowered ride height and reduced stability. Symptoms include uneven tire wear, reduced handling, and a noticeable difference in ride height between the front and rear of the vehicle. Repair may involve replacing the rear suspension springs or shock absorbers. Estimated Cost to Fix: $500 - $800+
@@ -48,19 +35,6 @@ tags: ["Volkswagen", "Passat", "2003"]
 **Electrical**
 - **Battery Drain:** The vehicle's battery can drain prematurely, requiring jump-starts or replacement. Symptoms include difficulty starting the vehicle, dim headlights, and interior lights flickering. Repair may involve testing and replacing the faulty battery, alternator, or other electrical components. Estimated Cost to Fix: $100 - $400+
 - **Electrical Harness Issues:** Electrical harnesses can experience corrosion, loose connections, or breakage, causing various electrical problems throughout the vehicle. Symptoms may include intermittent electrical failures, malfunctioning components, and illuminated check engine light. Repair involves inspecting and repairing or replacing the affected wiring harness. Estimated Cost to Fix: $200 - $600+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Sunroof Leaks:** The sunroof can develop leaks, allowing water to enter the vehicle's interior. Symptoms include water stains on the headliner, damp carpet, and a musty odor. Repair involves inspecting and replacing the sunroof seals or drainage tubes. Estimated Cost to Fix: $300 - $600+
@@ -72,15 +46,3 @@ tags: ["Volkswagen", "Passat", "2003"]
 
 **Summary:**
 The 2003 Volkswagen Passat has received positive reviews for its performance, comfort, and spacious interior. However, some owners have reported issues with various vehicle components, including the timing chain tensioner, intake manifold runner control valve, oil consumption, and transmission problems. While some repairs can be relatively inexpensive, others can be costly, particularly engine and transmission repairs. It's important for potential buyers to be aware of these potential issues and factor the cost of repairs into their decision-making process.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -29,19 +29,6 @@ The 2013 Subaru XV Crosstrek is a compact crossover SUV that offers both comfort
 * **CVT**
     * **CVT transmission failure (Refer to Engine Section)**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear suspension noise:** The rear suspension can make noise when going over bumps or rough roads.
@@ -55,19 +42,6 @@ The 2013 Subaru XV Crosstrek is a compact crossover SUV that offers both comfort
     * Solution: Replace the battery or check for parasitic battery drain.
     * Estimated Cost to Fix: $100 - $300
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -90,15 +64,3 @@ The 2013 Subaru XV Crosstrek is a compact crossover SUV that offers both comfort
 **Summary**
 
 The 2013 Subaru XV Crosstrek is a generally reliable vehicle, but it has had some reported issues. The most serious issue is the CVT transmission failure, which can be costly to repair. Other issues, such as suspension noise and interior rattling, are less severe but can still be annoying. Overall, the XV Crosstrek is a good choice for those looking for a compact SUV, but it's important to be aware of the potential issues before making a purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

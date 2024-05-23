@@ -36,19 +36,6 @@ The 2010 Volkswagen Passat CC is a mid-size luxury sedan that offers a stylish d
 
 * **Clutch Wear:** Symptoms include difficulty shifting gears and a loss of power. The solution is to replace the clutch. Estimated cost to fix: $1000 - $1500
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushings:** Symptoms include a clunking noise when driving over bumps and a loss of alignment. The solution is to replace the front control arm bushings. Estimated cost to fix: $300 - $600
@@ -58,19 +45,6 @@ The 2010 Volkswagen Passat CC is a mid-size luxury sedan that offers a stylish d
 
 * **Battery Drain:** Symptoms include a dead battery after the car has been parked for a period of time. The solution is to find and repair the electrical drain. Estimated cost to fix: $200 - $600
 * **Alternator Failure:** Symptoms include a dim dashboard lights and a loss of power. The solution is to replace the alternator. Estimated cost to fix: $500 - $1000
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -84,15 +58,3 @@ The 2010 Volkswagen Passat CC is a mid-size luxury sedan that offers a stylish d
 **Summary**
 
 The 2010 Volkswagen Passat CC is a mid-size luxury sedan that is praised for its handling, performance, and fuel efficiency. However, it has also been criticized for its cramped rear seats and limited cargo space. The Passat CC has a number of potential issues, including timing chain tensioner failure, intake manifold flaps, and fuel pump failure. While some of these issues can be fixed for a relatively low cost, others can be more expensive to repair. Overall, the Passat CC is a reliable car, but it is important to be aware of these potential issues before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

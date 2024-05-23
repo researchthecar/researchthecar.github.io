@@ -50,19 +50,6 @@ The 2010 Volkswagen Beetle is a compact car that is available with a variety of 
     * Estimated Cost to Fix: $1,000 - $3,000+
     * Recalls: NHTSA Campaign Number: 10V377000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Suspension Sagging:**
@@ -78,19 +65,6 @@ The 2010 Volkswagen Beetle is a compact car that is available with a variety of 
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -121,15 +95,3 @@ The 2010 Volkswagen Beetle is a compact car that is available with a variety of 
 **Summary:**
 
 The 2010 Volkswagen Beetle has a number of issues that can affect its reliability and safety. The most severe issues include turbocharger failure, transmission slipping, and instrument cluster malfunction. These issues can be expensive to fix, with some costing over $1,000. However, many of the other issues, such as oil leaks and shifting issues, are relatively minor and can be fixed for a more affordable price. Overall, the Beetle is a stylish and fun-to-drive car, but buyers should be aware of its potential issues before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

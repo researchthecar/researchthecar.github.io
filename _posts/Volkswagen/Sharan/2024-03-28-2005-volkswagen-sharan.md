@@ -35,19 +35,6 @@ The 2005 Volkswagen Sharan is a practical and versatile family vehicle. Availabl
 
 - **Transmission Fluid Leaks:** Symptoms include low transmission fluid levels, rough shifting, and reduced fuel economy. The solution involves identifying the source of the leak and repairing or replacing the affected components. Estimated Cost to Fix: $200 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Independent Front/Semi-Independent Rear**
@@ -59,19 +46,6 @@ The 2005 Volkswagen Sharan is a practical and versatile family vehicle. Availabl
 
 - **Battery Drain:** Symptoms include difficulty starting the vehicle, dimming lights, and reduced electrical system functionality. The solution involves identifying and repairing or replacing the source of the electrical drain. Estimated Cost to Fix: $100 - $400+
 - **Alternator Failure:** Symptoms include a warning light on the dashboard, flickering or dimming lights, and a dead battery. The solution involves replacing the faulty alternator. Estimated Cost to Fix: $500 - $800+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -85,15 +59,3 @@ The 2005 Volkswagen Sharan is a practical and versatile family vehicle. Availabl
 **Summary**
 
 The 2005 Volkswagen Sharan is generally a reliable vehicle, but it has some potential issues that can affect its ownership experience. Engine problems, transmission issues, and electrical problems are the most common and can be costly to repair. Suspension and exterior issues are less frequent but can still impact the overall functionality of the vehicle. Interior issues are relatively minor and tend to be less expensive to address. Overall, the severity and cost of the potential issues should be considered when evaluating the Sharan as a used car purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -29,19 +29,6 @@ Owners of the 2021 Rolls-Royce Dawn generally praise its sumptuous interior, pow
         * Estimated Cost to Fix: $100 - $200+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air suspension**
@@ -67,19 +54,6 @@ Owners of the 2021 Rolls-Royce Dawn generally praise its sumptuous interior, pow
         * Estimated Cost to Fix: $1,500 - $2,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Roof mechanism**
@@ -101,15 +75,3 @@ Owners of the 2021 Rolls-Royce Dawn generally praise its sumptuous interior, pow
 **Overall Summary:**
 
 While the 2021 Rolls-Royce Dawn offers exceptional luxury and performance, it is not without its issues. Some of the reported problems, such as engine intake valve sticking and transmission shifting delays, can be significant. However, most issues are relatively minor and can be resolved within a reasonable cost range.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

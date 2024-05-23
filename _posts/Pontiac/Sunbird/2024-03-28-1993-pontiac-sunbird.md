@@ -29,19 +29,6 @@ The 1993 Pontiac Sunbird was a popular compact car available in coupe and conver
 * **Transmission fluid leaks:** Symptoms include low transmission fluid levels, slipping gears, or delayed engagement. Solution: Repair or replace the leaking seals or gaskets. Estimated cost to fix: $200 - $500.
 * **Solenoid failure:** Symptoms can include erratic shifting, flashing check engine light, or transmission slipping. Solution: Replace the faulty solenoid. Estimated cost to fix: $250 - $400.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Front strut failure:** Symptoms include clunking or knocking noises, uneven tire wear, or difficulty steering. Solution: Replace the worn struts. Estimated cost to fix: $500 - $1000.
@@ -51,19 +38,6 @@ The 1993 Pontiac Sunbird was a popular compact car available in coupe and conver
 
 * **Alternator problems:** Symptoms can include dim lights, battery discharge, or difficulty starting the engine. Solution: Replace the alternator or have it rebuilt. Estimated cost to fix: $250 - $500.
 * **Battery drain:** Symptoms include slow starting or a dead battery after sitting for a while. Solution: Identify and eliminate the source of the battery drain. Estimated cost to fix: $100 - $300.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -77,15 +51,3 @@ The 1993 Pontiac Sunbird was a popular compact car available in coupe and conver
 **Summary:**
 
 The 1993 Pontiac Sunbird had numerous reliability issues across various components, particularly affecting the engine, transmission, and suspension. These problems could lead to costly repairs and inconvenience for owners.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

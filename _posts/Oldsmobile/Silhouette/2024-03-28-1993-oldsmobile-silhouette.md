@@ -46,19 +46,6 @@ People loved the Silhouette's roomy interior, smooth ride, and powerful engine o
     * **Estimated Cost to Fix:** $1,500 - $2,500+
     * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut failure:** The struts can fail, causing the vehicle to ride rough and handle poorly. This can also lead to uneven tire wear.
@@ -82,19 +69,6 @@ People loved the Silhouette's roomy interior, smooth ride, and powerful engine o
     * **Solution:** Replace the battery or repair the charging system.
     * **Estimated Cost to Fix:** $100 - $250+
     * **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -123,15 +97,3 @@ People loved the Silhouette's roomy interior, smooth ride, and powerful engine o
 **Summary**
 
 The 1993 Oldsmobile Silhouette had a number of issues that could be costly to repair. However, it also had its strengths, such as a spacious interior, comfortable ride, and powerful engine options. Ultimately, whether or not the Silhouette is a good choice for you depends on your individual needs and budget.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -67,19 +67,6 @@ Drivers appreciate the Laser's nimble handling and stylish design, but criticize
     * Estimated Cost to Fix: $100 - $200
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Mount Failure**
@@ -106,19 +93,6 @@ Drivers appreciate the Laser's nimble handling and stylish design, but criticize
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust on Body Panels**
@@ -143,15 +117,3 @@ Drivers appreciate the Laser's nimble handling and stylish design, but criticize
 **Summary**
 
 The 1994 Plymouth Laser is a sporty and fun-to-drive coupe, but it comes with its fair share of potential issues. Engine problems are relatively common, including head gasket failures and leaks. Transmission issues, such as synchro wear and shift solenoid failure, can also occur. Suspension components, electrical components, and interior parts can also experience problems. The severity of these issues can range from minor annoyances to major expenses, making it important for potential buyers to be aware of the potential costs associated with repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

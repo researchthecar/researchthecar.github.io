@@ -62,19 +62,6 @@ The Sunfire was praised for its affordability, sporty handling, and comfortable 
     * Estimated Cost to Fix: $800 - $1,200+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Failure:**
@@ -101,19 +88,6 @@ The Sunfire was praised for its affordability, sporty handling, and comfortable 
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust:**
@@ -138,15 +112,3 @@ The Sunfire was praised for its affordability, sporty handling, and comfortable 
 **Summary:**
 
 The 2002 Pontiac Sunfire is a budget-friendly car with some serious mechanical problems that can be very costly to fix. Rust is also a major issue, which can further increase the cost of ownership. However, the Sunfire's affordable price, sporty handling, and comfortable interior make it an appealing option for some drivers who are willing to put up with its potential issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

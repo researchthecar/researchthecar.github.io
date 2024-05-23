@@ -34,19 +34,6 @@ Despite its impressive features, the Mercedes-Benz Sprinter 2500 has been plague
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Sagging**
@@ -62,19 +49,6 @@ Despite its impressive features, the Mercedes-Benz Sprinter 2500 has been plague
     * Solution: Find and repair the source of the electrical drain.
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -100,15 +74,3 @@ Despite its impressive features, the Mercedes-Benz Sprinter 2500 has been plague
 **Summary**
 
 The 2011 Mercedes-Benz Sprinter 2500 is a powerful and spacious van that can be a good choice for those who need a vehicle for commercial or personal use. However, it has been plagued by a number of issues that can be expensive to repair. Potential buyers should be aware of these issues before making a purchase. The severity of the issues ranges from minor annoyances to major mechanical problems, and the cost to fix them can vary from $200 to $2,500 or more.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

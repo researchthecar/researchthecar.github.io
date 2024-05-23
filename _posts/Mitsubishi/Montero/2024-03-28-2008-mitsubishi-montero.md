@@ -34,19 +34,6 @@ The 2008 Mitsubishi Montero is a mid-size SUV known for its off-road capabilitie
     * Estimated Cost to Fix: $1500 - $2000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Leaf Spring Sagging:**
@@ -62,19 +49,6 @@ The 2008 Mitsubishi Montero is a mid-size SUV known for its off-road capabilitie
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $300 - $600
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -100,15 +74,3 @@ The 2008 Mitsubishi Montero is a mid-size SUV known for its off-road capabilitie
 
 **Summary:**
 The 2008 Mitsubishi Montero has several potential issues that owners should be aware of, including engine timing chain tensioner failure, torque converter shudder, and exterior leaks. The severity and cost of these issues can range from minor to moderate, but it's important to address them promptly to maintain the vehicle's performance and safety.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

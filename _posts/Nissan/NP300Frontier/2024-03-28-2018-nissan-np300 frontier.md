@@ -57,19 +57,6 @@ The 2018 Nissan NP300 Frontier is a mid-size pickup truck available in three cab
     * Estimated Cost to Fix: $200 - $500
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Leaf Spring Failure**
@@ -95,19 +82,6 @@ The 2018 Nissan NP300 Frontier is a mid-size pickup truck available in three cab
     * Solution: Replace the starter motor.
     * Estimated Cost to Fix: $300 - $500
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -138,15 +112,3 @@ The 2018 Nissan NP300 Frontier is a mid-size pickup truck available in three cab
 **Summary:**
 
 The 2018 Nissan NP300 Frontier faces some potential issues, primarily related to the engine, transmission, and electrical components. The severity of these issues can vary, and the cost of repairs can range from minor to major. Overall, the Frontier's reliability rating is less impressive than that of some of its competitors. Potential buyers should be aware of these issues before purchasing a used model and consider the potential costs of repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

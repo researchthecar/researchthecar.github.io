@@ -58,15 +58,3 @@ The 2013 Mitsubishi ASX is a small crossover SUV available with a 2.0L inline-4 
 ## **Summary**
 
 The 2013 Mitsubishi ASX has faced some issues, particularly with the engine (excessive oil consumption) and CVT transmission (belt slipping). These problems can be costly to repair, ranging from hundreds to thousands of dollars. However, it's worth noting that not all ASXs experience these issues, and some owners have reported overall satisfaction with their vehicles.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

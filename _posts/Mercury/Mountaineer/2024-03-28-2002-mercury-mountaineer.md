@@ -39,19 +39,6 @@ The 2002 Mercury Mountaineer is a midsize SUV that offers a comfortable and vers
         * Estimated Cost to Fix: $2,500 - $4,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front lower control arms:**
@@ -77,19 +64,6 @@ The 2002 Mercury Mountaineer is a midsize SUV that offers a comfortable and vers
     * Solution: Inspect electrical system for parasitic draw
     * Estimated Cost to Fix: Varies depending on the cause
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -120,15 +94,3 @@ The 2002 Mercury Mountaineer is a midsize SUV that offers a comfortable and vers
 **Summary**
 
 While the 2002 Mercury Mountaineer offers many desirable features, it has a number of potential issues to be aware of. The engine and transmission problems can be costly to repair, and the suspension and electrical issues can affect the vehicle's safety and performance. However, many of these issues are not uncommon in vehicles of this age and can be addressed with regular maintenance and repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -38,19 +38,6 @@ The Achieva was praised for its comfortable ride, spacious interior, and fuel ef
 
 * **Clutch failure:** This issue can cause the clutch to slip or chatter. The solution is to replace the clutch. Estimated cost to fix: $400 - $600+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut failure:** This issue can cause the suspension to become loose or bouncy. The solution is to replace the struts. Estimated cost to fix: $200 - $400+ per axle
@@ -60,19 +47,6 @@ The Achieva was praised for its comfortable ride, spacious interior, and fuel ef
 
 * **Alternator failure:** This issue can cause the battery to drain and the car to stall. The solution is to replace the alternator. Estimated cost to fix: $300 - $500+
 * **Starter failure:** This issue can cause the car to fail to start. The solution is to replace the starter. Estimated cost to fix: $200 - $400+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -87,15 +61,3 @@ The Achieva was praised for its comfortable ride, spacious interior, and fuel ef
 **Summary**
 
 The 1998 Oldsmobile Achieva is a reliable vehicle with a few common issues. The most serious issues include head gasket failure, intake manifold gasket failure, and transmission failure. These issues can be expensive to fix, but they are relatively rare. Overall, the Achieva is a good value for the money, but it is important to be aware of the potential issues before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

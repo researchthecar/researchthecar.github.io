@@ -31,19 +31,6 @@ People who like the Sprinter 3500 appreciate its spacious cargo area, comfortabl
 * **Shift solenoid failure:** The shift solenoid can fail, causing the transmission to shift erratically. The shift solenoid will need to be replaced. Estimated cost to fix: $500 - $1,000+
 * **Torque converter failure:** The torque converter can fail, causing the transmission to slip or shudder. The torque converter will need to be replaced. Estimated cost to fix: $2,000 - $3,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension strut failure:** The front suspension struts can fail, causing the vehicle to ride rough. The front suspension struts will need to be replaced. Estimated cost to fix: $1,000 - $2,000+
@@ -54,19 +41,6 @@ People who like the Sprinter 3500 appreciate its spacious cargo area, comfortabl
 * **Battery failure:** The battery can fail, causing the vehicle to not start. The battery will need to be replaced. Estimated cost to fix: $200 - $400+
 * **Alternator failure:** The alternator can fail, causing the battery to not charge. The alternator will need to be replaced. Estimated cost to fix: $500 - $1,000+
 * **Starter failure:** The starter can fail, causing the vehicle to not start. The starter will need to be replaced. Estimated cost to fix: $500 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -81,15 +55,3 @@ People who like the Sprinter 3500 appreciate its spacious cargo area, comfortabl
 **Summary**
 
 The 2015 Mercedes-Benz Sprinter 3500 is a spacious and comfortable van that has some reported issues with its engine, transmission, suspension, and electrical system. The severity of the issues can range from minor to major, and the cost to fix them can be high.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

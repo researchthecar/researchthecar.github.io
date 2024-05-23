@@ -45,19 +45,6 @@ The 2002 Mercury Cougar is a sporty coupe that was available with two engine and
         * Estimated Cost to Fix: $1500 - $2500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Mounts**
@@ -74,19 +61,6 @@ The 2002 Mercury Cougar is a sporty coupe that was available with two engine and
     * Solution: Replace alternator
     * Estimated Cost to Fix: $500 - $800+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -112,15 +86,3 @@ The 2002 Mercury Cougar is a sporty coupe that was available with two engine and
 **Summary:**
 
 Overall, the 2002 Mercury Cougar has some potential issues with its engine, transmission, and electrical system. However, many of these issues can be addressed with relatively inexpensive repairs. The severity of the issues varies, with some being minor annoyances and others potentially leading to more serious problems. The estimated cost to fix these issues ranges from a few hundred dollars to over $2000 in some cases. Despite these potential issues, the Cougar remains a popular choice for those who appreciate its stylish design, sporty handling, and comfortable interior.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

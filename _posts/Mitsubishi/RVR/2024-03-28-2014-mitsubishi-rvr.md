@@ -61,19 +61,6 @@ While praised for its practicality and affordability, the RVR has also been plag
     * Estimated Cost to Fix: $2,500 - $4,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Struts Failure:**
@@ -101,19 +88,6 @@ While praised for its practicality and affordability, the RVR has also been plag
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $500 - $800+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -146,15 +120,3 @@ While praised for its practicality and affordability, the RVR has also been plag
 **Summary:**
 
 While the 2014 Mitsubishi RVR offers affordability and practicality, it has been marred by several significant issues across its major components. Engine problems, including piston ring failure and timing chain tensioner failure, can be costly to repair. Transmission issues, such as CVT power loss and jerking, can also be expensive to resolve. Suspension and electrical problems are common, while interior issues are less severe. The potential for major repairs and high repair costs should be considered before purchasing a 2014 Mitsubishi RVR.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

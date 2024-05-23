@@ -22,19 +22,6 @@ The 2014 Mercedes-Benz G65 AMG is a high-performance SUV powered by a twin-turbo
 
  - **Transmission Slipping:** The transmission can slip, causing a loss of power and difficulty shifting gears. Symptoms include delayed gear shifts, shuddering during acceleration, and a burning smell. The transmission may need to be rebuilt or replaced, which can cost $4,000 - $8,000+.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Bushing Wear:** The front suspension bushings can wear out prematurely, causing a loose or rattling suspension. Symptoms include a clunking noise when going over bumps, uneven tire wear, and a decrease in handling. The bushings need to be replaced, which can cost $500 - $1,000+.
@@ -44,19 +31,6 @@ The 2014 Mercedes-Benz G65 AMG is a high-performance SUV powered by a twin-turbo
 
 * **Battery Drain:** The battery can drain prematurely, causing the vehicle to not start or to lose power while driving. Symptoms include difficulty starting the engine, a dim dashboard, and a loss of electrical accessories. The battery or other electrical components may need to be replaced, which can cost $500 - $1,000+.
 * **Electrical Wiring Harness Issues:** The electrical wiring harness can develop problems, causing a variety of electrical issues. Symptoms include flickering lights, dashboard malfunctions, and power loss. The wiring harness may need to be replaced, which can cost $1,000 - $2,000+.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -71,15 +45,3 @@ The 2014 Mercedes-Benz G65 AMG is a high-performance SUV powered by a twin-turbo
 **Summary**
 
 The 2014 Mercedes-Benz G65 AMG is a powerful and luxurious SUV, but it has a number of potential issues. The engine, transmission, suspension, electrical system, and interior can all experience problems. Some of these issues can be relatively minor and inexpensive to fix, while others can be more serious and costly. It is important to be aware of these potential issues before purchasing a used G65 AMG.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

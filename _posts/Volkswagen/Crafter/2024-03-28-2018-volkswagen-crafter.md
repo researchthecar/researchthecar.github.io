@@ -48,19 +48,6 @@ While the Crafter has received praise for its practicality and performance, some
 * **Estimated Cost to Fix:** $3,000 - $5,000+
 * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Spring Breakage:** The rear leaf springs can break, resulting in a sagging rear end and reduced stability.
@@ -74,19 +61,6 @@ While the Crafter has received praise for its practicality and performance, some
 * **Solution:** Diagnose and repair the electrical system fault causing the drain.
 * **Estimated Cost to Fix:** $100 - $500+
 * **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -105,15 +79,3 @@ While the Crafter has received praise for its practicality and performance, some
 **Summary**
 
 The 2018 Volkswagen Crafter has encountered a range of issues affecting its engine, transmission, suspension, electrical, and exterior components. While these problems can be costly to repair, the severity of the issues varies. The fuel injector failure on the 102 hp diesel engine and the turbocharger failure on the 140 hp diesel engine are significant concerns that can impact the vehicle's performance and longevity. The other reported issues, such as clutch wear, transmission slippage, and battery drain, are typically less severe but can still be inconvenient and expensive to address. Potential buyers should be aware of these potential problems and factor the cost of repairs into their purchasing decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

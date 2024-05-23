@@ -49,19 +49,6 @@ People like the Frontier for its affordability, reliability, and off-road capabi
         * Estimated Cost to Fix: $1,000 - $1,500+
         * Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension**
@@ -113,19 +100,6 @@ People like the Frontier for its affordability, reliability, and off-road capabi
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight Failure**
@@ -170,15 +144,3 @@ People like the Frontier for its affordability, reliability, and off-road capabi
 **Summary**
 
 The 2019 Nissan NP300 Frontier is a reliable and affordable mid-size pickup truck. However, it has a number of potential issues that can be expensive to fix. The most common issues are with the engine, transmission, and suspension. The severity of the issues varies, but some can be quite serious. It is important to be aware of these potential issues before purchasing a Frontier.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

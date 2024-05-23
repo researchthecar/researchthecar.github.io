@@ -44,19 +44,6 @@ The 2008 Volkswagen Sharan is a seven-passenger minivan that was available with 
         * Estimated Cost to Fix: $2,000 - $3,000
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushings**
@@ -77,19 +64,6 @@ The 2008 Volkswagen Sharan is a seven-passenger minivan that was available with 
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $600 - $1,000
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -115,15 +89,3 @@ The 2008 Volkswagen Sharan is a seven-passenger minivan that was available with 
 **Summary**
 
 The 2008 Volkswagen Sharan is a spacious and comfortable minivan, but it has its share of problems. Some of the most common issues include EGR valve failure, carbon buildup on intake valves, timing chain issues, shifter linkage failure, mechatronic unit failure, front control arm bushing wear, battery drain, alternator failure, door lock actuator failure, rear bumper sagging, and climate control malfunction. The severity and cost of these issues can vary depending on the specific problem and the extent of the damage.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -69,19 +69,6 @@ The 2007 Volkswagen Jetta is a compact sedan known for its fuel efficiency, spac
     * Solution: Replace mechatronic unit (~$2,000 - $3,000)
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -92,19 +79,6 @@ The 2007 Volkswagen Jetta is a compact sedan known for its fuel efficiency, spac
     * Description/Symptoms: Battery struggles to hold a charge, vehicle fails to start
     * Solution: Test electrical components for parasitic drain, replace battery if necessary (~$100 - $200)
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -128,15 +102,3 @@ The 2007 Volkswagen Jetta is a compact sedan known for its fuel efficiency, spac
 **Summary**
 
 The 2007 Volkswagen Jetta offers good fuel efficiency and a spacious interior, but it is prone to several potentially expensive engine and transmission issues. The timing chain failure on the 3.2L VR6 engine is particularly concerning and can lead to catastrophic engine failure. The DSG transmission can also experience costly clutch pack and mechatronic unit failures. Overall, potential owners should be aware of these issues and factor in the potential costs of repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -35,19 +35,6 @@ The 1993 Oldsmobile Cutlass Ciera is powered by a 3.1L V6, 3.3L V6, or 3.8L V6 f
 * 5-Speed Manual Transmission
     * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
     * **Strut Failure**
         * Description/Symptoms: The struts may fail, causing the vehicle to ride rough and handle poorly.
@@ -72,19 +59,6 @@ The 1993 Oldsmobile Cutlass Ciera is powered by a 3.1L V6, 3.3L V6, or 3.8L V6 f
         * Estimated Cost to Fix: $300 - $500
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
     * **Door Handle Breakage**
         * Description/Symptoms: The exterior door handles may break, making it difficult to open the doors.
@@ -107,15 +81,3 @@ The 1993 Oldsmobile Cutlass Ciera is powered by a 3.1L V6, 3.3L V6, or 3.8L V6 f
 **Summary**
 
 The 1993 Oldsmobile Cutlass Ciera is a reliable vehicle with few major issues. The most common problems are relatively minor and inexpensive to fix. However, some issues, such as intake manifold gasket failure and torque converter failure, can be costly to repair. Overall, the Cutlass Ciera is a good choice for those looking for an affordable and comfortable midsize sedan.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -33,19 +33,6 @@ The 2005 Mercedes-Benz SLR McLaren is a high-performance grand tourer jointly de
         * Estimated Cost to Fix: $5,000 - $10,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushings:** Front control arm bushings wear out prematurely, leading to reduced stability and handling.
@@ -67,19 +54,6 @@ The 2005 Mercedes-Benz SLR McLaren is a high-performance grand tourer jointly de
         * Solution: Update or replace the GPS navigation system.
         * Estimated Cost to Fix: $500 - $1,000+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -106,15 +80,3 @@ The 2005 Mercedes-Benz SLR McLaren is a high-performance grand tourer jointly de
 **Summary**
 
 The 2005 Mercedes-Benz SLR McLaren is a stunning and powerful machine, but it has its share of potential issues. While some problems are relatively minor and inexpensive to fix, others can be more severe and costly to repair. Before purchasing an SLR McLaren, potential buyers should be aware of these issues and factor them into their decision-making process.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

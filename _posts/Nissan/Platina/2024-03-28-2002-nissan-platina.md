@@ -35,19 +35,6 @@ The 2002 Nissan Platina is a compact sedan offered with two engine options: a 1.
         * Solution: Replace torque converter
         * Estimated Cost to Fix: $1,000 - $2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Bearing Failure**
@@ -70,19 +57,6 @@ The 2002 Nissan Platina is a compact sedan offered with two engine options: a 1.
     * Solution: Diagnose and repair electrical draw
     * Estimated Cost to Fix: $200 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Plastic Bumper Cracking**
@@ -104,15 +78,3 @@ The 2002 Nissan Platina is a compact sedan offered with two engine options: a 1.
 **Summary:**
 
 The 2002 Nissan Platina has some common issues, particularly with its engine, transmission, and electrical system. The severity and cost of repairs vary depending on the specific issue. Overall, Platina owners should be prepared for potential repair costs, but many of the issues can be addressed with timely maintenance and repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

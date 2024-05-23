@@ -24,19 +24,6 @@ The 2021 Mercedes-Benz E63 AMG S is a high-performance sedan powered by a 4.0-li
 
 * **Shifting Issues:** Owners have reported experiencing delayed or rough shifting with the 9-speed transmission. The issue is often resolved by updating the transmission software or replacing the transmission control module. Estimated Cost to Fix: $500 - $2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -45,19 +32,6 @@ The 2021 Mercedes-Benz E63 AMG S is a high-performance sedan powered by a 4.0-li
 
 * **Battery Drain:** Some E63 AMG S models have experienced excessive battery drain, resulting in premature battery failure. Replacing the battery is typically necessary. Estimated Cost to Fix: $200 - $500+
 * **Infotainment System Glitches:** The infotainment system has been known to experience occasional glitches, including screen freezing and navigation issues. Software updates or component replacements may be required to resolve the issue. Estimated Cost to Fix: $500 - $2,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -71,15 +45,3 @@ The 2021 Mercedes-Benz E63 AMG S is a high-performance sedan powered by a 4.0-li
 **Summary**
 
 The 2021 Mercedes-Benz E63 AMG S is a high-performance sedan that offers impressive performance and luxury. However, it is important to be aware of the potential issues that can arise, including engine, transmission, electrical, and interior problems. The severity and cost of repairs vary depending on the specific issue, but some can be costly, especially in the case of engine or transmission issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -38,19 +38,6 @@ The 2008 Mercedes-Benz SL65 AMG is a high-performance luxury convertible powered
         * Solution: Replace torque converter
         * Estimated Cost to Fix: $1,500 - $2,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Airmatic Suspension Failure**
     * Description/Symptoms: Air bags leaking, suspension sagging, reduced ride height
@@ -74,19 +61,6 @@ The 2008 Mercedes-Benz SL65 AMG is a high-performance luxury convertible powered
     * Description/Symptoms: Electrical malfunctions, intermittent problems
     * Solution: Repair or replace wiring harness
     * Estimated Cost to Fix: $500 - $1,500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Sunroof Leak**
@@ -114,15 +88,3 @@ The 2008 Mercedes-Benz SL65 AMG is a high-performance luxury convertible powered
 
 **Summary**
 The 2008 Mercedes-Benz SL65 AMG is a powerful and luxurious performance car, but it comes with a high cost of ownership. The engine, transmission, suspension, and electrical systems are known to experience various issues, which can be expensive to repair. The interior and exterior components are also prone to failures. Overall, the SL65 AMG is a vehicle best suited for those who are prepared to spend significant money on maintenance and repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -29,19 +29,6 @@ The 2019 Mercedes-Benz S65 AMG is the pinnacle of Mercedes' luxury sedan lineup.
   - Estimated Cost to Fix: $3,000 - $6,000
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 **Air Suspension**
 - **Defective Air Suspension Struts:**
@@ -62,19 +49,6 @@ The 2019 Mercedes-Benz S65 AMG is the pinnacle of Mercedes' luxury sedan lineup.
   - Estimated Cost to Fix: $100 - $500
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 - **Sunroof Leaks:**
   - Description/Symptoms: Water seeping into the cabin through the sunroof.
@@ -91,15 +65,3 @@ The 2019 Mercedes-Benz S65 AMG is the pinnacle of Mercedes' luxury sedan lineup.
 
 **Summary:**
 While the 2019 Mercedes-Benz S65 AMG offers an exceptional driving experience, it is not without its issues. Engine misfires, turbocharger failure, slipping gears, suspension problems, and electrical glitches can be costly to repair. However, the severity and frequency of these issues vary, and not all vehicles will experience the same problems. Despite its known issues, the S65 AMG remains a highly desirable vehicle for those seeking unparalleled luxury and performance.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

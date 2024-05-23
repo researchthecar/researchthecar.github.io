@@ -35,19 +35,6 @@ The 2012 Mercedes-Benz Boxer 40 is a high-performance SUV that offers a potent c
     * Estimated Cost to Fix: $1500 - $2500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Compressor Failure:**
@@ -75,19 +62,6 @@ The 2012 Mercedes-Benz Boxer 40 is a high-performance SUV that offers a potent c
     * Solution: Replace alternator
     * Estimated Cost to Fix: $500 - $1000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -120,15 +94,3 @@ The 2012 Mercedes-Benz Boxer 40 is a high-performance SUV that offers a potent c
 **Summary:**
 
 The 2012 Mercedes-Benz Boxer 40 is a powerful and luxurious SUV that offers an impressive driving experience. However, it is not without its issues, particularly in the engine, transmission, and suspension components. While some repairs can be relatively inexpensive, others can be quite costly. Owners should be aware of the potential issues and budget accordingly for maintenance and repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

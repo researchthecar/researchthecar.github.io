@@ -45,19 +45,6 @@ Owners appreciate the S63L AMG's impressive acceleration, luxurious interior, an
 * **9-Speed Automatic**
     * No Issues Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Failure**
@@ -79,19 +66,6 @@ Owners appreciate the S63L AMG's impressive acceleration, luxurious interior, an
     * Estimated Cost to Fix: $200 - $1,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * No Issues Found
@@ -112,15 +86,3 @@ Owners appreciate the S63L AMG's impressive acceleration, luxurious interior, an
 **Summary**
 
 The 2017 Mercedes-Benz S63L AMG is a high-performance luxury sedan that offers impressive performance and a comfortable ride. However, some owners have reported issues with components such as the engine, transmission, suspension, electrical system, and interior features. The severity of these issues varies, with some being minor annoyances and others requiring costly repairs. Potential buyers should be aware of these potential issues and factor them into their decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -35,19 +35,6 @@ People like the Pathfinder for its spacious interior, comfortable ride, and good
     * Estimated Cost to Fix: $1,000 - $5,000+
     * Recalls: CVT Software Update Recall (NHTSA ID Number: 19V740)
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear suspension:** The rear suspension can make clunking noises when driving over bumps.
@@ -65,19 +52,6 @@ People like the Pathfinder for its spacious interior, comfortable ride, and good
     * Solution: Replace the tail light bulbs or wiring harness.
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -97,15 +71,3 @@ People like the Pathfinder for its spacious interior, comfortable ride, and good
 **Summary:**
 
 The 2018 Nissan Pathfinder has a number of reported issues, including engine oil consumption, CVT transmission problems, and electrical issues. The severity and cost of these issues vary, but some of them can be expensive to fix. Overall, the Pathfinder is a reliable vehicle, but potential buyers should be aware of the potential issues before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

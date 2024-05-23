@@ -74,15 +74,3 @@ The Pathfinder is praised for its roomy interior, comfortable ride, and user-fri
 ## Summary
 
 Overall, the 2023 Nissan Pathfinder is a reliable SUV with a spacious interior, comfortable ride, and user-friendly technology. While there are some minor issues that owners may encounter, such as harsh shifting or battery discharge, they are generally not severe or costly to fix. The most significant issues to watch out for are the piston ring issues with the 3.5L V6 engine and the CVT slipping issue with the 4-cylinder engine. These can be expensive to repair, so it is important to have the vehicle inspected by a qualified mechanic before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

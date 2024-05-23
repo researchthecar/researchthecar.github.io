@@ -61,19 +61,6 @@ The 2003 Volkswagen EuroVan is a versatile and spacious minivan, offering a vari
     * Solution: Replace clutch disc, pressure plate, or throwout bearing.
     * Estimated Cost to Fix: $600 - $1200+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Struts:**
@@ -95,19 +82,6 @@ The 2003 Volkswagen EuroVan is a versatile and spacious minivan, offering a vari
     * Description/Symptoms: Burnt fuses, flickering lights, intermittent electrical issues.
     * Solution: Locate and repair electrical shorts.
     * Estimated Cost to Fix: $100 - $500+ per short
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -134,15 +108,3 @@ The 2003 Volkswagen EuroVan is a versatile and spacious minivan, offering a vari
 **Summary**
 
 While the 2003 Volkswagen EuroVan offers a spacious and versatile interior, it is not without its issues. Common problems include engine oil leaks, transmission shifting issues, suspension wear, and electrical shorts. While some issues are relatively minor and inexpensive to fix, others can be more severe and require significant repairs. Overall, the severity and cost of these issues can vary depending on the specific issue and the condition of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

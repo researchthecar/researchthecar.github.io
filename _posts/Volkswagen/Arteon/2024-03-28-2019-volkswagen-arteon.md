@@ -28,19 +28,6 @@ Solution: Update transmission software or replace transmission components as nec
 Estimated Cost to Fix: $2,000-4,000+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Suspension Noise:**
@@ -56,19 +43,6 @@ Description/Symptoms: The battery may drain prematurely, leading to difficulty s
 Solution: Diagnose and repair electrical system, including alternator, battery, or wiring issues.
 Estimated Cost to Fix: $500 - 1,500+
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -101,15 +75,3 @@ Recalls: None Found
 **Summary:**
 
 The 2019 Volkswagen Arteon offers a blend of performance and luxury, but it has its share of reported issues. While some problems, such as sunroof leaks or exterior misalignment, may be relatively minor, concerns with the engine, transmission, or infotainment system can be more costly to repair. The severity and cost of the issues vary, and it's important for potential buyers to research and consider these potential risks before making a purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

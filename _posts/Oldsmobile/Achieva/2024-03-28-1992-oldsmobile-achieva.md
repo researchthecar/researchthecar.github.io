@@ -60,19 +60,6 @@ The 1992 Oldsmobile Achieva is a popular mid-size sedan known for its comfortabl
     * Estimated Cost to Fix: $500 - $2,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Failure:**
@@ -99,19 +86,6 @@ The 1992 Oldsmobile Achieva is a popular mid-size sedan known for its comfortabl
     * Estimated Cost to Fix: $200 - $500
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Fog Light Assembly Failure:**
@@ -136,15 +110,3 @@ The 1992 Oldsmobile Achieva is a popular mid-size sedan known for its comfortabl
 **Summary**
 
 The 1992 Oldsmobile Achieva has some common issues that owners should be aware of, but most are relatively minor and affordable to fix. The most serious issues, such as head gasket failure, can be costly to repair. Overall, the Achieva is a reliable and comfortable car with a good reputation among owners.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

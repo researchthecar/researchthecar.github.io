@@ -55,19 +55,6 @@ The 2017 Volkswagen Beetle is a compact hatchback available with a variety of en
     * Estimated Cost to Fix: $2,000 - $4,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut mount bearing failure:**
@@ -83,19 +70,6 @@ The 2017 Volkswagen Beetle is a compact hatchback available with a variety of en
     * Solution: Checking for parasitic drains or replacing battery.
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -116,15 +90,3 @@ The 2017 Volkswagen Beetle is a compact hatchback available with a variety of en
 **Summary:**
 
 The 2017 Volkswagen Beetle is a fun-to-drive car hampered by a wide range of issues. Engine problems, particularly with the 1.8L engine, are the most serious and costly to fix. Transmission issues, suspension noise, and electrical problems are also common. The exterior and interior issues are less severe but can still be annoying. Overall, the 2017 Volkswagen Beetle is not a reliable vehicle and potential buyers should be aware of the potential issues before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

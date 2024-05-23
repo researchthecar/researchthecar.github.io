@@ -104,15 +104,3 @@ People like the Pontiac Tempest for its spacious interior, comfortable ride, and
 ### **Summary**
 
 The 1990 Pontiac Tempest has a number of potential issues, including engine gasket failures, transmission fluid leaks, suspension problems, and electrical issues. The severity and cost of these issues can vary depending on the specific problem. Overall, the Tempest is a reliable vehicle, but it is important to be aware of its potential problems before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

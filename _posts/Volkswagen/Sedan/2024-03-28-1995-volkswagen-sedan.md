@@ -44,19 +44,6 @@ The 1995 Volkswagen Sedan, also known as the Golf or Jetta, is a compact car off
         * Estimated Cost to Fix: $200 - $500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front strut mounts**
@@ -85,19 +72,6 @@ The 1995 Volkswagen Sedan, also known as the Golf or Jetta, is a compact car off
         * Estimated Cost to Fix: $200 - $500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door lock problems**
@@ -122,15 +96,3 @@ The 1995 Volkswagen Sedan, also known as the Golf or Jetta, is a compact car off
 **Summary:**
 
 Overall, the 1995 Volkswagen Sedan has a number of potential issues, particularly with engine components such as the valve cover gasket and head gasket. However, many of these issues are relatively inexpensive to repair. The suspension and electrical components are generally reliable, but some interior and exterior parts can develop problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

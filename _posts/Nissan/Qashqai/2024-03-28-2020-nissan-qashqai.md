@@ -27,19 +27,6 @@ The 2020 Nissan Qashqai is a compact SUV praised for its smooth handling, spacio
 * **Hesitation and Jerking:** Transmission hesitates or jerks during acceleration and gear changes. Symptoms include rough shifting, delayed response, and inconsistent power delivery. Solution often involves replacing the CVT fluid, cleaning the transmission valve body, or updating software. Estimated Cost to Fix: $300 - $1,000+
 * **Noise:** Humming or whining noise from the transmission. Indicates internal wear or fluid contamination. Solution usually involves replacing the transmission. Estimated Cost to Fix: $2,500 - $5,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Noise:** Front struts can make a clunking or rattling noise when driving over rough roads. Solution involves replacing struts and associated mounts. Estimated Cost to Fix: $500 - $800+
@@ -49,19 +36,6 @@ The 2020 Nissan Qashqai is a compact SUV praised for its smooth handling, spacio
 
 * **Battery Drain:** Battery drains prematurely even when the vehicle is parked. Symptoms include difficulty starting, dim headlights, and electrical system failures. Solution requires diagnosing and replacing the faulty component, such as alternator, starter, or wiring. Estimated Cost to Fix: $300 - $1,000+
 * **Electrical System Malfunctions:** Various electrical system components, such as lights, switches, or sensors, can experience malfunctions. Symptoms vary depending on the affected component. Solution involves diagnosing and replacing the faulty part. Estimated Cost to Fix: $100 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -74,15 +48,3 @@ The 2020 Nissan Qashqai is a compact SUV praised for its smooth handling, spacio
 **Summary:**
 
 The 2020 Nissan Qashqai has various issues ranging from minor annoyances to more serious mechanical problems. The severity of the issues varies, and some may require significant repairs. Owners should be aware of the potential issues and address them promptly to avoid further damage and costly repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

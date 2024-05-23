@@ -25,19 +25,6 @@ People like the Bonneville for its comfortable ride, roomy interior, and powerfu
     * **Transmission slipping:** The transmission may slip or hesitate when shifting gears. Symptoms include a lack of acceleration, a rough ride, and a burning smell. The solution is to rebuild or replace the transmission. Estimated cost: $1,500-$2,000.
     * **Torque converter failure:** The torque converter can fail, causing a lack of power and a shuddering sensation. The solution is to replace the torque converter. Estimated cost: $800-$1,200.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front struts:** The front struts can wear out, causing a rough ride and poor handling. Symptoms include a bouncing or clunking sound when driving over bumps, and uneven tire wear. The solution is to replace the front struts. Estimated cost: $400-$600.
@@ -47,19 +34,6 @@ People like the Bonneville for its comfortable ride, roomy interior, and powerfu
 
 * **Battery:** The battery can fail, causing the vehicle to not start. Symptoms include a clicking sound when trying to start the engine, dim headlights, and a dead battery. The solution is to replace the battery. Estimated cost: $100-$200.
 * **Alternator:** The alternator can fail, causing the battery to not charge. Symptoms include a flickering or dim dashboard lights, a dead battery, and a warning light on the dashboard. The solution is to replace the alternator. Estimated cost: $400-$600.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -73,15 +47,3 @@ People like the Bonneville for its comfortable ride, roomy interior, and powerfu
 **Summary**
 
 Overall, the 2001 Pontiac Bonneville is a reliable vehicle with few major issues. However, some common problems, such as engine and transmission problems, can be costly to repair. It's important to consider these potential issues when shopping for a used Bonneville.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

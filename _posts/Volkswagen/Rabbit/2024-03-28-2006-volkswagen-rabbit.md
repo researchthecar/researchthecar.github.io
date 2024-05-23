@@ -50,19 +50,6 @@ The 2006 Volkswagen Rabbit was a compact hatchback available with two engine opt
     * Estimated Cost to Fix: $1,000 - $1,500
     * Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -78,19 +65,6 @@ The 2006 Volkswagen Rabbit was a compact hatchback available with two engine opt
     * Solution: Disconnect accessories or replace the battery.
     * Estimated Cost to Fix: $100 - $200
     * Recalls: N/A
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -111,15 +85,3 @@ The 2006 Volkswagen Rabbit was a compact hatchback available with two engine opt
 **Summary:**
 
 The 2006 Volkswagen Rabbit is a stylish and sporty compact hatchback, but it has a number of potential problems that can affect its reliability and performance. The most common issues include fuel injector failure, turbocharger failure, clutch failure, and transmission control module failure. While some of these issues are relatively minor and inexpensive to fix, others can be quite costly. Potential buyers should be aware of these problems before purchasing a used Rabbit.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

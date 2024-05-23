@@ -45,19 +45,6 @@ The Diamante is known for its spacious interior, comfortable ride, and powerful 
     * Estimated Cost to Fix: $1,000 - $2,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Failure**
@@ -83,19 +70,6 @@ The Diamante is known for its spacious interior, comfortable ride, and powerful 
     * Solution: Replace starter motor
     * Estimated Cost to Fix: $200 - $400
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -126,15 +100,3 @@ The Diamante is known for its spacious interior, comfortable ride, and powerful 
 **Summary**
 
 The 2003 Mitsubishi Diamante is a generally reliable vehicle with few major issues. However, it does have some common problems that owners should be aware of, such as intake manifold gasket failure, timing belt failure, and alternator failure. These issues can be costly to repair, especially if not addressed promptly. Overall, the Diamante is a decent choice for a used sedan, but potential buyers should factor in the potential costs of these repairs when making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

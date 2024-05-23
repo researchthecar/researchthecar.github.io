@@ -47,19 +47,6 @@ The 2010 Mitsubishi Endeavor is a mid-size SUV known for its spacious interior, 
     * Estimated Cost to Fix: $200 - $800+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushings Failure:**
@@ -85,19 +72,6 @@ The 2010 Mitsubishi Endeavor is a mid-size SUV known for its spacious interior, 
     * Solution: Clean or replace the battery terminals.
     * Estimated Cost to Fix: $50 - $100+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -128,15 +102,3 @@ The 2010 Mitsubishi Endeavor is a mid-size SUV known for its spacious interior, 
 **Summary:**
 
 The 2010 Mitsubishi Endeavor had various issues ranging from minor inconveniences to more serious and costly repairs, such as cylinder head cracking and timing chain tensioner failures. However, it also had redeeming qualities, such as its spacious interior and comfortable ride. The cost of repairs varied significantly depending on the severity of the issue.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

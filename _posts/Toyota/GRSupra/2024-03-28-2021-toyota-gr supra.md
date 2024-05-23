@@ -42,19 +42,6 @@ The 2021 Toyota GR Supra is a fifth-generation sports car that pays homage to th
 * **Six-Speed Manual Transmission**
     * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
     * **Rear Suspension Squeak**
         * Description/Symptoms: The rear suspension may squeak over bumps or when turning.
@@ -77,19 +64,6 @@ The 2021 Toyota GR Supra is a fifth-generation sports car that pays homage to th
         * Estimated Cost to Fix: Varies depending on the specific issue
         * Recalls:
             * None found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
     * **Convertible Top Issues**
@@ -115,15 +89,3 @@ The 2021 Toyota GR Supra is a fifth-generation sports car that pays homage to th
 
 **Summary**
 Overall, the 2021 Toyota GR Supra is a reliable and well-built sports car. However, it has experienced some issues, particularly with the engine and transmission. The severity of the issues varies, and the cost to fix them can be significant. If you are considering purchasing a Supra, be sure to do your research and be aware of the potential issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -39,19 +39,6 @@ The 2012 Subaru Tribeca is a midsize crossover SUV that offers a well-rounded pa
         * Solution: Replacement of the faulty solenoids.
         * Estimated Cost to Fix: $1,000 - $2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Failure:** Premature failure of the front struts, leading to noise and reduced ride quality.
@@ -66,19 +53,6 @@ The 2012 Subaru Tribeca is a midsize crossover SUV that offers a well-rounded pa
 * **Battery Failure:** Premature failure of the battery.
         * Solution: Replacement of the battery.
         * Estimated Cost to Fix: $150 - $300
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -106,15 +80,3 @@ The 2012 Subaru Tribeca is a midsize crossover SUV that offers a well-rounded pa
 **Summary:**
 
 The 2012 Subaru Tribeca has received generally positive reviews for its practicality and value. However, it has also faced some issues with its engine, transmission, and suspension that potential buyers should be aware of. The severity and cost of these issues vary, with some being relatively minor and inexpensive to fix, while others can be more significant and costly. As with any used vehicle, it's important to have a thorough pre-purchase inspection to assess the condition of the vehicle and identify any potential problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

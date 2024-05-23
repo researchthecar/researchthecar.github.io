@@ -49,19 +49,6 @@ The Golf R is praised for its responsive handling, powerful engine, and comforta
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -79,19 +66,6 @@ The Golf R is praised for its responsive handling, powerful engine, and comforta
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **No Issues Found**
@@ -107,15 +81,3 @@ The Golf R is praised for its responsive handling, powerful engine, and comforta
 **Summary**
 
 The 2013 Volkswagen Golf R is a reliable and fun-to-drive car. However, it is not without its issues. Some of the most common problems include timing chain tensioner failure, carbon buildup on intake valves, turbocharger failure, and shifting problems with the manual transmission. The cost of these repairs can be significant, so it is important to factor this into the cost of ownership.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

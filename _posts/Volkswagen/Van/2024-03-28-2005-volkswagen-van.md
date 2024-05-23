@@ -88,15 +88,3 @@ Recalls: None Found
 ## Summary
 
 The 2005 Volkswagen Van is a generally reliable vehicle, but it is not without its issues. The most severe and costly issue is the timing chain tensioner failure on the 3.2L VR6 engine. Other common problems include oil leaks, transmission fluid leaks, and suspension issues. However, many of these issues can be prevented with proper maintenance and repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -23,19 +23,6 @@ The 2013 Rolls-Royce Phantom is a full-size luxury sedan renowned for its opulen
 * **8-Speed Automatic**
     * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension**
@@ -58,19 +45,6 @@ The 2013 Rolls-Royce Phantom is a full-size luxury sedan renowned for its opulen
         * Estimated Cost to Fix: $100 - $500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight Condensation**
@@ -90,15 +64,3 @@ The 2013 Rolls-Royce Phantom is a full-size luxury sedan renowned for its opulen
 **Summary**
 
 Overall, the 2013 Rolls-Royce Phantom is a highly reliable and well-built vehicle. However, it has experienced some issues, particularly with suspension components and electrical systems. The cost of repairs can be substantial, but the Phantom's luxurious nature and high performance make it a desirable choice for discerning drivers.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

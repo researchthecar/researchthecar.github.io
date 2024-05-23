@@ -59,19 +59,6 @@ The Intrigue was praised for its spacious interior, comfortable ride, and powerf
     * Estimated Cost to Fix: $500 - $800
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Sway Bar End Links**
@@ -103,19 +90,6 @@ The Intrigue was praised for its spacious interior, comfortable ride, and powerf
     * Solution: Replace starter solenoid
     * Estimated Cost to Fix: $100 - $200
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -152,15 +126,3 @@ The Intrigue was praised for its spacious interior, comfortable ride, and powerf
 **Summary:**
 
 Overall, the 1999 Oldsmobile Intrigue is a reliable vehicle with relatively few major issues. The most common problems are related to the engine, transmission, and suspension. The severity of these issues ranges from minor inconveniences to more serious problems that can require expensive repairs. While the cost of repairs can be significant, the Intrigue's low purchase price makes it an affordable option for those willing to accept its potential drawbacks.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

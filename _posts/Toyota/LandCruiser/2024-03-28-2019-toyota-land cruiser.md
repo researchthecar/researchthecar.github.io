@@ -62,15 +62,3 @@ Recalls: None Found
 ## **Summary**
 
 The 2019 Toyota Land Cruiser faces some notable issues, particularly with its engine and transmission. The valve seat recession problem can be a costly repair, while the torque converter shudder in the 8-speed automatic can also be a significant issue. However, the Land Cruiser's other components seem to have a relatively low prevalence of issues, and the overall severity and cost of the problems encountered are moderate.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

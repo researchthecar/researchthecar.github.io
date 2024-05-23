@@ -43,19 +43,6 @@ The 2019 Mitsubishi Mirage is a subcompact hatchback powered by a 1.2-liter thre
     * Solution: Replacement of CVT assembly.
     * Estimated Cost to Fix: $3,000 - $5,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -66,19 +53,6 @@ The 2019 Mitsubishi Mirage is a subcompact hatchback powered by a 1.2-liter thre
     * Description/Symptoms: Battery runs flat prematurely, even after a short period of parking.
     * Solution: Identification and repair of electrical components causing excessive current draw (e.g., faulty relays or parasitic drains).
     * Estimated Cost to Fix: $200 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -101,15 +75,3 @@ The 2019 Mitsubishi Mirage is a subcompact hatchback powered by a 1.2-liter thre
 **Summary**
 
 The 2019 Mitsubishi Mirage has several potential issues, some of which can be significant and expensive to fix. Engine problems, particularly knocking noise and timing chain failure, are notable concerns. Although fuel-efficient and affordable, these issues may compromise the long-term reliability and value of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

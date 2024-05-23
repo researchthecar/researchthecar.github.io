@@ -76,19 +76,6 @@ The 1990 Pontiac Sunbird is a compact car that was available in three trim level
     * Solution: Replace torque converter
     * Estimated Cost to Fix: $500 - $1,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Struts Failure:**
@@ -110,19 +97,6 @@ The 1990 Pontiac Sunbird is a compact car that was available in three trim level
     * Description/Symptoms: Engine won't start, grinding noise
     * Solution: Replace starter
     * Estimated Cost to Fix: $200 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -149,15 +123,3 @@ The 1990 Pontiac Sunbird is a compact car that was available in three trim level
 **Summary**
 
 The 1990 Pontiac Sunbird is a reliable and affordable car, but it does have a few known issues. The most common issues include head gasket failure, intake manifold gasket failure, ignition control module (ICM) failure, water pump failure, grinding gears, slipping gears, torque converter failure, front strut failure, alternator failure, starter failure, window motor failure, door lock actuator failure, dashboard cracking, and heater core failure. While some of these issues are minor and inexpensive to fix, others can be major and expensive. Therefore, it is important to be aware of these issues before buying a 1990 Pontiac Sunbird.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

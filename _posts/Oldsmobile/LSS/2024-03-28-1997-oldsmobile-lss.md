@@ -31,19 +31,6 @@ The 1997 Oldsmobile LSS is a high-performance sedan that made its name as a NASC
     * **Estimated Cost to Fix:** $2,000 - $4,000+
     * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -54,19 +41,6 @@ The 1997 Oldsmobile LSS is a high-performance sedan that made its name as a NASC
 * **Solution:** Replace alternator.
 * **Estimated Cost to Fix:** $500 - $800+
 * **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -85,15 +59,3 @@ The 1997 Oldsmobile LSS is a high-performance sedan that made its name as a NASC
 **Summary**
 
 The 1997 Oldsmobile LSS has some potential issues, including engine gasket failures, transmission problems, and electrical issues. The severity of these issues can range from minor inconveniences to major engine damage, and the cost of repairs can be substantial. However, the LSS remains a capable and stylish performance sedan that is still enjoyed by many enthusiasts.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -46,19 +46,6 @@ Description/Symptoms: Transmission not shifting properly
 Solution: Adjust or replace gear ratio
 Estimated Cost to Fix: $500 - $800+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaking Shock Absorbers**
@@ -81,19 +68,6 @@ Description/Symptoms: Car won't start, intermittent stalling
 Solution: Replace ignition switch
 Estimated Cost to Fix: $200 - $300+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust Prone Frame**
@@ -115,15 +89,3 @@ Estimated Cost to Fix: $200 - $400+
 **Summary**
 
 The 1994 Suzuki Samurai is an affordable and reliable SUV, but it has some notable issues to be aware of. The head gasket and valve seat recession problems with the engine are the most severe and could lead to expensive repairs. Other issues, such as transmission leaks and suspension wear, are more common but less costly to address. The exterior frame rust and interior HVAC and power window issues should also be considered. Overall, the Suzuki Samurai is a capable off-road vehicle, but its reliability is hampered by these potential problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

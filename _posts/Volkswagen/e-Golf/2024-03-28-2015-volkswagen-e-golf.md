@@ -19,19 +19,6 @@ The 2015 Volkswagen e-Golf is an all-electric hatchback that delivers zero-emiss
 
 **Transmission**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Failure**
@@ -47,19 +34,6 @@ The 2015 Volkswagen e-Golf is an all-electric hatchback that delivers zero-emiss
     * Solution: Repair or replacement of electrical harness
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: NHTSA Campaign Number: 18V736000
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -80,15 +54,3 @@ The 2015 Volkswagen e-Golf is an all-electric hatchback that delivers zero-emiss
 **Summary**
 
 Overall, the 2015 Volkswagen e-Golf is a reliable electric vehicle with a comfortable interior and user-friendly technology. However, it has experienced some common issues that include battery drain, electrical harness shorts, front strut failure, and interior trim noise. The severity of these issues varies, and the cost to fix them can range from minor to significant. It is important for owners to be aware of these potential problems and to have their vehicle inspected and serviced regularly to address any issues promptly.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

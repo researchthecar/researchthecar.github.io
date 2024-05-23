@@ -49,19 +49,6 @@ Owners appreciate the Acclaim's comfortable ride and spacious interior, but comm
   - Estimated Cost to Fix: $500 - $1,000
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension Issues**
 
 - **Strut mounts worn**
@@ -87,19 +74,6 @@ Owners appreciate the Acclaim's comfortable ride and spacious interior, but comm
   - Solution: Replace starter
   - Estimated Cost to Fix: $200 - $500
   - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior Issues**
 
@@ -130,15 +104,3 @@ Owners appreciate the Acclaim's comfortable ride and spacious interior, but comm
 **Summary**
 
 The 1994 Plymouth Acclaim has a range of issues that vary in severity and cost to fix. The most common and costly issues are related to the engine (intake manifold gasket failure and cylinder head gasket failure), followed by transmission problems such as transmission fluid leaks and torque converter shudder. Other issues, such as suspension and electrical problems, are typically less severe and less expensive to repair. Overall, the Acclaim is a reliable vehicle with some potential for expensive repairs as it ages.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

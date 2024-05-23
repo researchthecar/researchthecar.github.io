@@ -40,19 +40,6 @@ Despite its positive attributes, the 2021 Mini Cooper Countryman has faced some 
 * **Valve Body Malfunction:** Description/Symptoms: Harsh shifting, delayed gear engagement, transmission shuddering. Solution: Valve body repair or replacement. Estimated Cost to Fix: $500 - $1000
 * **Torque Converter Failure:** Description/Symptoms: Slipping, shuddering, whining noises from the transmission. Solution: Replacement of the torque converter. Estimated Cost to Fix: $1500 - $2500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Assembly Failure:** Description/Symptoms: Clunking or knocking noises from the suspension, shaking or vibration while driving. Solution: Replacement of the strut assembly. Estimated Cost to Fix: $500 - $800 per axle
@@ -64,19 +51,6 @@ Despite its positive attributes, the 2021 Mini Cooper Countryman has faced some 
 * **Battery Drain:** Description/Symptoms: Battery losing charge prematurely, difficulty starting the vehicle. Solution: Diagnosis and repair of the cause of the drain. Estimated Cost to Fix: $100 - $500+
 * **Alternator Failure:** Description/Symptoms: Dimming lights, electrical system malfunctions, difficulty starting the vehicle. Solution: Replacement of the alternator. Estimated Cost to Fix: $500 - $1000
 * **Starter Failure:** Description/Symptoms: Inability to start the vehicle, clicking noises. Solution: Replacement of the starter. Estimated Cost to Fix: $400 - $800
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -93,15 +67,3 @@ Despite its positive attributes, the 2021 Mini Cooper Countryman has faced some 
 The 2021 Mini Cooper Countryman has faced various issues that can impact its performance, reliability, and overall ownership experience. Engine-related problems include timing chain tensioner failure, valve cover leaks, and fuel injector issues. Transmission concerns include gear grinding, clutch master cylinder failure, and transmission control module problems. Suspension components prone to failure include strut assemblies, sway bar links, and control arm bushings. Electrical system issues can include battery drain, alternator failure, and starter failure. Interior rattles and noises have also been reported.
 
 The severity and cost of these issues can vary depending on the specific problem and the parts involved. Some minor issues may be easily resolved at a reasonable cost, while more significant problems may require extensive repairs or component replacements, leading to higher expenses.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

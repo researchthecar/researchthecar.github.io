@@ -37,36 +37,10 @@ The 2019 Mercedes-Benz Boxer OF is a versatile commercial vehicle known for its 
 * **Battery Drain:** Premature battery discharge. Solution: Inspect and replace faulty electrical components, such as parasitic draws. Estimated Cost to Fix: $200 - $400+
 * **Wiring Harness Faults:** Electrical malfunctions due to damaged or faulty wiring harnesses. Solution: Repair or replace the wiring harness. Estimated Cost to Fix: $500 - $1,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Strut Failure:** Symptoms may include excessive noise, poor handling, and decreased ride comfort. Solution: Replace the faulty front suspension struts. Estimated Cost to Fix: $500 - $800+ per strut
 * **Rear Axle U-Joint Wear:** Symptoms include clunking or squeaking noises while driving. Solution: Replace the worn U-joints. Estimated Cost to Fix: $200 - $400+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -81,15 +55,3 @@ The 2019 Mercedes-Benz Boxer OF is a versatile commercial vehicle known for its 
 **Summary**
 
 The 2019 Mercedes-Benz Boxer OF offers a robust platform but is not immune to specific component issues. Most of the problems involve engine components like fuel injectors and EGR valves for diesel engines. Transmission issues range from shifting hesitation to slipping gears. Electrical problems include alternator failure and battery drain. Suspension and exterior issues may require attention, while interior issues focus on climate control malfunctions and infotainment system glitches. Although the severity and cost of repairs vary, these issues are generally not widespread or critical, preserving the vehicle's overall reliability.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

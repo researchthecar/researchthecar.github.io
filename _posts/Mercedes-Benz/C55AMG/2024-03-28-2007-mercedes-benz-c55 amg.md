@@ -42,19 +42,6 @@ The 2007 Mercedes-Benz C55 AMG is a high-performance sedan powered by a naturall
         * Estimated Cost to Fix: $500 - $1,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Components Wear**
@@ -81,19 +68,6 @@ The 2007 Mercedes-Benz C55 AMG is a high-performance sedan powered by a naturall
     * Estimated Cost to Fix: $300 - $1,000+ per headlight
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Roof Panel Rust**
@@ -113,15 +87,3 @@ The 2007 Mercedes-Benz C55 AMG is a high-performance sedan powered by a naturall
 ### Summary
 
 The 2007 Mercedes-Benz C55 AMG offers strong performance and a luxurious interior. However, it does have some common issues that owners may encounter, especially with the engine, transmission, and suspension. The cost of repairs can be substantial, ranging from a few hundred dollars to several thousand dollars. As with any used car, it's important to have the vehicle thoroughly inspected before purchase and to budget for potential repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

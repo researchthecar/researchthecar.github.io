@@ -21,19 +21,6 @@ The 2019 Nissan Rogue Sport is a compact SUV with a sporty design. It's powered 
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Strut Mount Failure:**
@@ -60,19 +47,6 @@ The 2019 Nissan Rogue Sport is a compact SUV with a sporty design. It's powered 
     * Estimated Cost to Fix: Varies depending on the source of the drain.
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior:**
 
 * **Tail Light Failure:**
@@ -92,15 +66,3 @@ The 2019 Nissan Rogue Sport is a compact SUV with a sporty design. It's powered 
 **Summary:**
 
 Overall, the 2019 Nissan Rogue Sport has a relatively low number of reported issues. The most common problems relate to the suspension and electrical system. While some of these issues can be costly to fix, the overall severity of the issues is relatively low.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

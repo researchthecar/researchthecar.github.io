@@ -37,19 +37,6 @@ The 2017 Mercedes-Benz GLA45 AMG is a compact luxury SUV powered by a 2.0-liter 
         * **Solution:** Replace transmission control module.
         * **Estimated Cost to Fix:** $1,000 - $2,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **No Issues Found**
@@ -61,19 +48,6 @@ The 2017 Mercedes-Benz GLA45 AMG is a compact luxury SUV powered by a 2.0-liter 
     * **Solution:** Electrical system diagnostics and repairs.
     * **Estimated Cost to Fix:** Varies depending on the issue.
     * **Recalls:** NHTSA Campaign Number: 20V340000 (Electrical Short)
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -93,15 +67,3 @@ The 2017 Mercedes-Benz GLA45 AMG is a compact luxury SUV powered by a 2.0-liter 
 **Summary:**
 
 Overall, the 2017 Mercedes-Benz GLA45 AMG is a reliable vehicle, but it has had some reported issues. The engine and transmission issues are the most severe and expensive to fix. The electrical system and interior have also had some problems, but they are generally less costly to repair. Potential owners should be aware of these issues before purchasing a GLA45 AMG and factor in the potential cost of repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -28,19 +28,6 @@ The 1996 Mercedes-Benz C36 AMG was a high-performance version of the W202 C-Clas
 
     * **Transmission slipping:** The transmission may slip, causing a loss of power and transmission shudder. The transmission may need to be rebuilt or replaced. $2,000 - $4,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front strut mount failure:** The front strut mounts can fail, causing a clunking noise and reduced handling. The strut mounts need to be replaced. $500 - $800+
@@ -52,19 +39,6 @@ The 1996 Mercedes-Benz C36 AMG was a high-performance version of the W202 C-Clas
 * **Alternator failure:** The alternator can fail, causing the battery to discharge and the vehicle to stall. The alternator needs to be replaced. $500 - $800+
 * **Starter failure:** The starter can fail, preventing the engine from starting. The starter needs to be replaced. $300 - $600+
 * **Battery failure:** The battery can fail, preventing the vehicle from starting. The battery needs to be replaced. $100 - $200+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -79,15 +53,3 @@ The 1996 Mercedes-Benz C36 AMG was a high-performance version of the W202 C-Clas
 **Summary:**
 
 The 1996 Mercedes-Benz C36 AMG is a reliable and enjoyable vehicle, but it is not without its issues. The most common problems are oil leaks, timing chain tensioner failure, intake manifold gasket failure, and transmission slipping. These issues can be costly to fix, but they are not uncommon for a high-performance vehicle of this age.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

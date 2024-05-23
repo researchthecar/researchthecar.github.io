@@ -54,19 +54,6 @@ Owners appreciate the Outlander Sport's low price, fuel efficiency, and comforta
 
     * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut or Shock Absorber Wear**
@@ -88,19 +75,6 @@ Owners appreciate the Outlander Sport's low price, fuel efficiency, and comforta
     * Estimated Cost to Fix: $400 - $800+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Sunroof Panel Cracking**
@@ -120,15 +94,3 @@ Owners appreciate the Outlander Sport's low price, fuel efficiency, and comforta
 **Summary**
 
 The 2011 Mitsubishi Outlander Sport has a range of issues, including engine valve cover leaks, CVT problems, and sunroof panel cracking. The severity of these issues varies, with some being relatively minor while others can be more costly to repair. Overall, it's recommended to research the specific issues and consider the frequency and cost of repairs before purchasing a used Outlander Sport.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

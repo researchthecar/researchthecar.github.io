@@ -33,19 +33,6 @@ The GLA45 AMG is praised for its powerful engine, agile handling, and upscale in
     * Solution: The transmission control module needs to be replaced.
     * Estimated Cost to Fix: $2,000 - $4,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Mount Failure**
@@ -68,19 +55,6 @@ The GLA45 AMG is praised for its powerful engine, agile handling, and upscale in
     * Solution: The park assist control module needs to be replaced.
     * Estimated Cost to Fix: $500 - $1,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight Condensation**
@@ -102,15 +76,3 @@ The GLA45 AMG is praised for its powerful engine, agile handling, and upscale in
 **Overall Summary**
 
 The 2016 Mercedes-Benz GLA45 AMG is a generally reliable performance crossover. However, some owners have experienced issues with the engine, transmission, suspension, electrical system, and interior. The severity of the issues can vary, and the cost to fix them can range from a few hundred dollars to several thousand dollars.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

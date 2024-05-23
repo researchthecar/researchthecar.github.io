@@ -48,19 +48,6 @@ The 2000 Volkswagen Beetle is a popular compact car known for its iconic design 
         * Estimated Cost to Fix: $300 - $500
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Bearing Failure:**
@@ -86,19 +73,6 @@ The 2000 Volkswagen Beetle is a popular compact car known for its iconic design 
     * Solution: Replace alternator
     * Estimated Cost to Fix: $500 - $800
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -129,15 +103,3 @@ The 2000 Volkswagen Beetle is a popular compact car known for its iconic design 
 **Summary:**
 
 The 2000 Volkswagen Beetle was a popular but problematic vehicle. It experienced issues with its engine, transmission, suspension, electrical components, exterior, and interior. The engine suffered from camshaft sensor failures, timing belt tensioner problems, and oil leaks. The transmission experienced synchronizer wear in the manual transmission and solenoid failures in the automatic transmission. The suspension had issues with strut mount bearing failure and ball joint wear. Electrical problems included ignition coil and alternator failures. Exterior issues included door lock actuator failure and side mirror motor failure. Interior problems included dashboard cracking and seat heater failure. These issues could be costly to fix, ranging from $100 to over $1000. However, the Beetle's iconic design and affordable price point made it a popular choice for some consumers.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

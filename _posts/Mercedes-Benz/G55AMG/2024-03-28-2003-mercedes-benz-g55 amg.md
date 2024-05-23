@@ -23,19 +23,6 @@ The 2003 Mercedes-Benz G55 AMG is a high-performance off-road SUV. It is powered
 * **Transmission Slippage:** The transmission may slip, causing a loss of power. Solution: Replace the transmission. Estimated Cost to Fix: $3,000 - $5,000+
 * **Shifting Problems:** The transmission may have difficulty shifting gears. Solution: Replace the transmission control module. Estimated Cost to Fix: $500 - $1,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Bushing Failure:** The front suspension bushings can fail, causing a loss of stability and handling. Solution: Replace the front suspension bushings. Estimated Cost to Fix: $500 - $1,000+
@@ -45,19 +32,6 @@ The 2003 Mercedes-Benz G55 AMG is a high-performance off-road SUV. It is powered
 
 * **Alternator Failure:** The alternator can fail, causing the battery to drain. Solution: Replace the alternator. Estimated Cost to Fix: $500 - $1,000+
 * **Battery Failure:** The battery can fail, causing the vehicle to not start. Solution: Replace the battery. Estimated Cost to Fix: $200 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -71,15 +45,3 @@ The 2003 Mercedes-Benz G55 AMG is a high-performance off-road SUV. It is powered
 **Summary**
 
 The 2003 Mercedes-Benz G55 AMG is a high-performance off-road SUV with a powerful engine and luxurious interior. However, the G55 AMG is known for its high fuel consumption, expensive maintenance costs, and poor fuel economy. The G55 AMG has been recalled seven times by the National Highway Traffic Safety Administration (NHTSA). The most severe issue is a potential failure of the front suspension, which can lead to a loss of control and a crash. The estimated cost to fix the issues on the G55 AMG can range from $200 to over $10,000+.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

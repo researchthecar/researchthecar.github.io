@@ -48,19 +48,6 @@ The 2018 Mini Cooper Countryman is a subcompact crossover SUV that offers a blen
 * Estimated Cost to Fix: $2000 - $3000+
 * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Premature Wear of Control Arm Bushings:** Squeaking or clunking noises while driving
@@ -80,19 +67,6 @@ The 2018 Mini Cooper Countryman is a subcompact crossover SUV that offers a blen
 * Estimated Cost to Fix: $500 - $1000
 * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Sunroof Leaks:** Water entering the cabin during rain
@@ -110,15 +84,3 @@ The 2018 Mini Cooper Countryman is a subcompact crossover SUV that offers a blen
 **Summary:**
 
 The 2018 Mini Cooper Countryman has faced a range of issues across multiple components, including engine, transmission, suspension, electrical, exterior, and interior. While some issues, such as timing chain tensioner failure and intake valve carbon buildup, are specific to certain engine options, others, like faulty power windows and sticky dashboards, affect a wider range of vehicles. The severity of the issues varies, with some requiring relatively minor repairs and others potentially resulting in more costly replacements. Overall, while the Mini Cooper Countryman offers a unique driving experience and premium features, it is essential to be aware of the potential issues that may arise.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -78,19 +78,6 @@ The 2003 Pontiac Bonneville is a full-size sedan that offers a comfortable and s
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Strut Mount Failure:**
     * Description/Symptoms: Clunking noises over bumps, vibration, reduced handling
@@ -115,19 +102,6 @@ The 2003 Pontiac Bonneville is a full-size sedan that offers a comfortable and s
     * Estimated Cost to Fix: $300 - $500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 * **Plastic Bumper Cracking:**
     * Description/Symptoms: Cracks or damage to plastic bumpers
@@ -149,15 +123,3 @@ The 2003 Pontiac Bonneville is a full-size sedan that offers a comfortable and s
 
 **Summary:**
 The 2003 Pontiac Bonneville has several common issues that can be costly to repair. Engine problems, such as oil consumption and timing chain failure, are among the most severe and expensive. Transmission issues, including shift solenoid failure and torque converter failure, can also be costly. Additionally, electrical problems, such as alternator failure, and exterior issues, such as plastic bumper cracking, can be inconvenient and detract from the vehicle's overall appearance. Overall, the Bonneville is a spacious and comfortable sedan, but its reliability issues can be a significant concern for potential buyers.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

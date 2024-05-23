@@ -55,19 +55,6 @@ The 2012 Suzuki Grand Vitara is a compact SUV that comes with two engine options
     * Solution: The torque converter needs to be replaced.
     * Estimated Cost to Fix: $800 - $1,500
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Wear**
@@ -81,19 +68,6 @@ The 2012 Suzuki Grand Vitara is a compact SUV that comes with two engine options
     * Description/Symptoms: The alternator may fail, preventing the battery from charging.
     * Solution: The alternator needs to be replaced.
     * Estimated Cost to Fix: $500 - $900
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -112,15 +86,3 @@ The 2012 Suzuki Grand Vitara is a compact SUV that comes with two engine options
 **Summary**
 
 The 2012 Suzuki Grand Vitara has some notable issues that can be expensive to fix, such as timing chain failure, cylinder head gasket failure, and torque converter failure. However, it's important to note that these issues are not common and most Grand Vitaras do not experience these problems. The Grand Vitara also has several recalls, so it's important to check with a Suzuki dealer to see if your vehicle is affected by any recalls.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

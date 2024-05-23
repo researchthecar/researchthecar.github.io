@@ -38,19 +38,6 @@ The 2003 Volkswagen Pointer Truck is a compact pickup truck that combines practi
     * Estimated Cost to Fix: $800 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushings:** Premature wear of bushings, resulting in excessive vibration, noise, and reduced handling stability.
@@ -68,19 +55,6 @@ The 2003 Volkswagen Pointer Truck is a compact pickup truck that combines practi
     * Solution: Replace faulty instrument cluster.
     * Estimated Cost to Fix: $300 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -107,15 +81,3 @@ The 2003 Volkswagen Pointer Truck is a compact pickup truck that combines practi
 **Summary:**
 
 The 2003 Volkswagen Pointer Truck has faced a range of issues affecting various components. While some issues, such as oil consumption and transmission problems, can be costly and require extensive repairs, others are more affordable to fix. The severity of the issues can vary greatly, and owners should be aware of potential maintenance costs before purchasing this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -127,15 +127,3 @@ The Expo was praised for its spacious interior, comfortable ride, and good fuel 
 ### Summary
 
 The 1992 Mitsubishi Expo is a generally reliable SUV, but it has some common problems that can be expensive to repair, such as engine and transmission issues. The severity and cost of these issues can vary depending on the specific model and mileage of the vehicle. It is important to be aware of these potential problems before purchasing an Expo and to budget for potential repairs in the future.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

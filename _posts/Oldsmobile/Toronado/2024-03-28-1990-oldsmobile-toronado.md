@@ -55,19 +55,6 @@ The 1990 Oldsmobile Toronado was a luxurious personal luxury coupe that offered 
     * Estimated Cost to Fix: $700 - $1,200
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Struts Failure:**
@@ -96,19 +83,6 @@ The 1990 Oldsmobile Toronado was a luxurious personal luxury coupe that offered 
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: 18V426000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Sunroof Seal Failure:**
@@ -134,15 +108,3 @@ The 1990 Oldsmobile Toronado was a luxurious personal luxury coupe that offered 
 **Summary:**
 
 Overall, the 1990 Oldsmobile Toronado has a range of potential issues spanning from minor inconveniences to major repairs. While some issues are relatively inexpensive to fix, others can be quite costly. Common issues include intake manifold gasket failure, head gasket failure, transmission slipping, and suspension strut failure. While the Toronado was a well-regarded vehicle, potential buyers should be aware of these potential issues and factor in the potential cost of repairs when considering a purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

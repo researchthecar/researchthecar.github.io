@@ -73,19 +73,6 @@ The 1999 Plymouth Grand Voyager was a minivan that offered a spacious interior, 
     * Estimated Cost to Fix: $300 - $600+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Failure:**
@@ -116,19 +103,6 @@ The 1999 Plymouth Grand Voyager was a minivan that offered a spacious interior, 
     * Solution: Replace power window motor
     * Estimated Cost to Fix: $100 - $200+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -164,15 +138,3 @@ The 1999 Plymouth Grand Voyager was a minivan that offered a spacious interior, 
 **Summary**
 
 The 1999 Plymouth Grand Voyager had a wide range of issues affecting various components. Engine problems, such as intake manifold gasket failure and timing belt failure, were prevalent. The transmission also had issues, including transmission failure and torque converter failure. Suspension issues were common, with strut failure and ball joint failure being reported. Electrical problems, such as battery failure and alternator failure, were also experienced. Exterior issues included headlight assembly failure and door lock actuator failure. In the interior, dashboard rattle and seat belt release button failure were reported. While some of these issues were minor, others, such as engine and transmission failures, could be significant and expensive to repair.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

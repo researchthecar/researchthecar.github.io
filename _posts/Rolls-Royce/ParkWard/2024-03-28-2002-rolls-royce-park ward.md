@@ -39,19 +39,6 @@ The 2002 Rolls-Royce Park Ward is a luxury sedan that is known for its elegant d
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Compressor Failure:**
@@ -73,19 +60,6 @@ The 2002 Rolls-Royce Park Ward is a luxury sedan that is known for its elegant d
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **No Issues Found**
@@ -106,15 +80,3 @@ The 2002 Rolls-Royce Park Ward is a luxury sedan that is known for its elegant d
 **Summary**
 
 The 2002 Rolls-Royce Park Ward is a luxury sedan that offers a combination of style, comfort, and performance. However, it is important to be aware of the potential issues that can affect the vehicle, including air suspension compressor failure, torque converter failure, and intake valve sticking. These issues can be expensive to repair, so it is important to factor in the cost of maintenance when considering purchasing this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -51,19 +51,6 @@ Owners of the 1993 Plymouth Voyager have reported a number of issues with their 
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Front Suspension**
@@ -102,19 +89,6 @@ Owners of the 1993 Plymouth Voyager have reported a number of issues with their 
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust:** The body of the vehicle may rust, especially in areas that are exposed to salt or moisture.
@@ -142,15 +116,3 @@ Owners of the 1993 Plymouth Voyager have reported a number of issues with their 
 **Summary:**
 
 The 1993 Plymouth Voyager has a number of potential issues, ranging from minor annoyances to more serious problems that could affect the safety or performance of the van. Some of the most common issues include intake manifold gasket failure, valve cover gasket failure, transmission slipping, and suspension problems. The severity and cost of these issues can vary depending on the specific problem and the extent of the damage.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

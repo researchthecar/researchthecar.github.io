@@ -42,19 +42,6 @@ The 1992 Volkswagen Panel was a versatile and practical vehicle, offering ample 
         * Estimated Cost to Fix: $1,500 - $3,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension:**
@@ -78,19 +65,6 @@ The 1992 Volkswagen Panel was a versatile and practical vehicle, offering ample 
         * Solution: Diagnosis and repair of the source of drain.
         * Estimated Cost to Fix: $200 - $500+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -117,15 +91,3 @@ The 1992 Volkswagen Panel was a versatile and practical vehicle, offering ample 
 **Summary**
 
 The 1992 Volkswagen Panel was a capable and versatile vehicle, but it was not without its flaws. The most common issues faced by owners included engine head gasket failure, fuel pump problems, transmission leaks and shifting issues, suspension wear, electrical alternator and battery drain issues, exterior rust and power window failures, and interior dashboard cracks and HVAC problems. The severity and cost of these issues varied, but some could be quite expensive to repair. Potential buyers should be aware of these common problems and consider them when evaluating a used Panel for purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

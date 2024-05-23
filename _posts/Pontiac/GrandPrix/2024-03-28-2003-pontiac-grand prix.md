@@ -56,19 +56,6 @@ While the Grand Prix offered many desirable features, it was not without its iss
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front strut mounts failure:** This issue affects 2003-2005 models and causes the front strut mounts to fail, leading to clunking noises and poor handling.
@@ -93,19 +80,6 @@ While the Grand Prix offered many desirable features, it was not without its iss
   * Solution: Replace the alternator.
   * Estimated Cost to Fix: $300 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight switch failure:** This issue affects 2003-2005 models and causes the headlight switch to fail, resulting in intermittent or inoperative headlights.
@@ -123,15 +97,3 @@ While the Grand Prix offered many desirable features, it was not without its iss
 **Summary**
 
 Overall, the 2003 Pontiac Grand Prix is a reliable vehicle with few major issues. However, owners have reported some common problems, including engine leaks, transmission issues, suspension failures, and electrical problems. The severity of these issues varies, but most are relatively inexpensive to fix.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

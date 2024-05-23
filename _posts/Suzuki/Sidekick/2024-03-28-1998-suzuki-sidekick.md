@@ -46,19 +46,6 @@ The 1998 Suzuki Sidekick is a compact SUV that combines ruggedness with everyday
     * Estimated Cost to Fix: $200 - $500
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Axle Shaft Failure**
@@ -85,19 +72,6 @@ The 1998 Suzuki Sidekick is a compact SUV that combines ruggedness with everyday
     * Estimated Cost to Fix: $200 - $400
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust on Underbody**
@@ -122,15 +96,3 @@ The 1998 Suzuki Sidekick is a compact SUV that combines ruggedness with everyday
 **Summary**
 
 Overall, the 1998 Suzuki Sidekick is a reliable vehicle, but it is not without its issues. The most common problems reported by owners include engine cylinder head gasket failure, transmission synchronizer failure, rear axle shaft failure, and alternator failure. These issues can be costly to repair, but they can be prevented with proper maintenance and timely repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

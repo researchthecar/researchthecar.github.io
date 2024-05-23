@@ -42,19 +42,6 @@ The 1990 Mitsubishi Mighty Max was a compact pickup truck available with either 
 * **Solution:** Replace valve body
 * **Estimated Cost to Fix:** $1,000 - $1,500
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Leaf Spring Fatigue**
@@ -73,19 +60,6 @@ The 1990 Mitsubishi Mighty Max was a compact pickup truck available with either 
 * **Description/Symptoms:** Engine won't start
 * **Solution:** Replace starter motor
 * **Estimated Cost to Fix:** $200 - $300
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -109,15 +83,3 @@ The 1990 Mitsubishi Mighty Max was a compact pickup truck available with either 
 **Summary**
 
 The 1990 Mitsubishi Mighty Max is a relatively reliable vehicle with a few issues that can arise. The engine and transmission issues can be costly to repair, while the suspension, electrical, and exterior issues are generally less severe and less expensive to fix. Interior issues are relatively minor and affordable to address.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

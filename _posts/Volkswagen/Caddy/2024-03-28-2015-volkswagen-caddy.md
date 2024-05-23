@@ -65,19 +65,6 @@ The 2015 Volkswagen Caddy is a compact cargo van that offers a versatile and pra
   * Solution: Replace the mechatronic unit
   * Estimated Cost to Fix: $2000 - $3000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Strut Failure:** The front suspension struts may wear out prematurely, leading to a loss of ride comfort, uneven tire wear, and reduced handling.
@@ -99,19 +86,6 @@ The 2015 Volkswagen Caddy is a compact cargo van that offers a versatile and pra
   * Description/Symptoms: Intermittent electrical issues, such as lights flickering or power windows not working
   * Solution: Repair or replace the electrical harness
   * Estimated Cost to Fix: $100 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -138,15 +112,3 @@ The 2015 Volkswagen Caddy is a compact cargo van that offers a versatile and pra
 **Summary**
 
 The 2015 Volkswagen Caddy is a practical and versatile cargo van, but it has been reported to have a variety of issues that can affect its performance and reliability. Some of the most common issues include turbocharger failure, timing chain tensioner failure, clutch problems, and electrical harness issues. The severity and cost of these issues vary, but some of them can be expensive to repair. Potential buyers should be aware of these issues before purchasing a Caddy, and they should factor in the potential cost of repairs when making their decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

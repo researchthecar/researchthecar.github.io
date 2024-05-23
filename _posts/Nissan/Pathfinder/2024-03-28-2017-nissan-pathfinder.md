@@ -34,19 +34,6 @@ Despite its strengths, the 2017 Pathfinder has received numerous complaints from
         * Estimated Cost to Fix: $100 - $1,000+ depending on the severity of the issue
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Suspension Sagging**
@@ -73,19 +60,6 @@ Despite its strengths, the 2017 Pathfinder has received numerous complaints from
     * Estimated Cost to Fix: $50 - $1,000+ depending on the severity of the issue
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Loose Exterior Trim**
@@ -105,15 +79,3 @@ Despite its strengths, the 2017 Pathfinder has received numerous complaints from
 **Summary**
 
 The 2017 Nissan Pathfinder has a number of common issues that can range in severity and cost to fix. The most significant issues include timing chain tensioner failure, CVT problems, and electrical issues. While some issues are relatively minor, others can be costly to repair. Potential buyers should be aware of these issues and factor them into their decision-making process.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

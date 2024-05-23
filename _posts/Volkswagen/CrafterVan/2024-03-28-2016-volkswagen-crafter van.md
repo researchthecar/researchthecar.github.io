@@ -38,19 +38,6 @@ The 2016 Volkswagen Crafter Van is a spacious and versatile cargo van offered wi
         * Estimated Cost to Fix: $1,000 - $2,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Arms**
@@ -68,19 +55,6 @@ The 2016 Volkswagen Crafter Van is a spacious and versatile cargo van offered wi
         * Solution: Replace battery and inspect electrical system.
         * Estimated Cost to Fix: $200 - $400+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -109,15 +83,3 @@ The 2016 Volkswagen Crafter Van is a spacious and versatile cargo van offered wi
 **Summary:**
 
 The 2016 Volkswagen Crafter Van has received mixed reviews regarding its reliability. While it offers several positive attributes, it has also been plagued by a variety of issues ranging from minor inconveniences to costly repairs. The most common issues affect the engine, transmission, suspension, and electrical systems. The severity and cost of these issues can vary depending on the specific problem and its extent.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -29,19 +29,6 @@ The 2017 Mercedes-Benz GLE63 AMG is a high-performance SUV powered by a twin-tur
         * Estimated Cost to Fix: $2000 - $3000
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Air suspension failure**
         * Description/Symptoms: Vehicle sagging, uneven ride height, loss of ride comfort
@@ -55,19 +42,6 @@ The 2017 Mercedes-Benz GLE63 AMG is a high-performance SUV powered by a twin-tur
         * Solution: Diagnose and repair electrical system, replace battery if necessary
         * Estimated Cost to Fix: $500 - $2000
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Headlight condensation**
@@ -85,15 +59,3 @@ The 2017 Mercedes-Benz GLE63 AMG is a high-performance SUV powered by a twin-tur
 
 **Summary**
 While the 2017 Mercedes-Benz GLE63 AMG is an impressive vehicle, it has experienced some issues, particularly with its engine and transmission. The severity of these issues can vary, but they can be costly to repair. Potential buyers should be aware of these issues before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

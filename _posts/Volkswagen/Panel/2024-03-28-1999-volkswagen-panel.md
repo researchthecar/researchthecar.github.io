@@ -65,19 +65,6 @@ Despite its popularity, the 1999 Volkswagen Panel has been plagued by several is
 >Estimated Cost to Fix: $1000 - $1500+
 >Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension**
@@ -127,19 +114,6 @@ Despite its popularity, the 1999 Volkswagen Panel has been plagued by several is
 >Estimated Cost to Fix: $500 - $1000+
 >Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust**
@@ -159,15 +133,3 @@ Despite its popularity, the 1999 Volkswagen Panel has been plagued by several is
 **Summary**
 
 The 1999 Volkswagen Panel is a vehicle with several potential issues, especially in the engine, transmission, and suspension. These issues can be costly to fix, and some of them can lead to serious engine damage. However, the vehicle is relatively affordable to purchase, and it offers a spacious and versatile interior. If you are considering buying a 1999 Volkswagen Panel, be sure to have it inspected by a qualified mechanic to identify any potential problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

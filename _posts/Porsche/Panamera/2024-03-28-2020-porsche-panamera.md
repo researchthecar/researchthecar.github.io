@@ -33,19 +33,6 @@ People who love the Panamera praise its powerful engines, luxurious interior, an
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Air suspension failure:** The air suspension system can fail, causing the vehicle to sag or ride rough.
     * Solution: Replace the air suspension components.
@@ -57,19 +44,6 @@ People who love the Panamera praise its powerful engines, luxurious interior, an
     * Solution: Replace the battery.
     * Estimated Cost to Fix: $100 - $200+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Sunroof leaks:** The sunroof can leak water into the cabin.
@@ -86,15 +60,3 @@ People who love the Panamera praise its powerful engines, luxurious interior, an
 **Summary**
 
 The 2020 Porsche Panamera is a high-performance luxury sedan that offers a range of engine and transmission options. However, some owners have experienced issues with the vehicle's engine, transmission, suspension, electrical system, and interior. These issues can be costly to fix, so it is important to be aware of them before purchasing a Panamera.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

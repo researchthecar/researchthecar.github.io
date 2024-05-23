@@ -36,19 +36,6 @@ Description/Symptoms: Transmission fails to engage gears, difficulty shifting
 Solution: Replace transmission filter, flush transmission fluid, or replace transmission
 Estimated Cost to Fix: $500 - $2,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -64,19 +51,6 @@ Estimated Cost to Fix: $500 - $1,000
 Description/Symptoms: Engine fails to crank, clicking noise
 Solution: Replace starter
 Estimated Cost to Fix: $200 - $500
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -97,15 +71,3 @@ Estimated Cost to Fix: $100 - $300
 **Summary**
 
 The 1998 Oldsmobile Bravada has a number of potential reliability issues, particularly with the transmission and electrical system. However, the severity and cost of these issues vary depending on the specific problem. Overall, the Bravada is a comfortable and capable SUV, but it is important to be aware of the potential issues before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

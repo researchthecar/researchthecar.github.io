@@ -37,19 +37,6 @@ The 2001 Volkswagen Pointer is a compact sedan that was produced from 1999-2004.
 * **6-Speed Manual Transmission**
   * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Front Suspension:** The front suspension can develop a problem where the control arms or ball joints wear out prematurely.
     * **Symptoms:** Clunking noise when driving over bumps, uneven tire wear
@@ -74,19 +61,6 @@ The 2001 Volkswagen Pointer is a compact sedan that was produced from 1999-2004.
     * **Estimated Cost to Fix:** $300 - $500+
     * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 * **No Issues Found**
 
@@ -105,15 +79,3 @@ The 2001 Volkswagen Pointer is a compact sedan that was produced from 1999-2004.
 **Summary**
 
 The 2001 Volkswagen Pointer is a reliable and affordable compact sedan, but it is not without its issues. The most common problems are related to the engine, transmission, and electrical system. The severity of the issues can vary, but many of them are relatively minor and can be fixed for a reasonable cost. Overall, the Pointer is a good choice for budget-minded consumers who are looking for a practical and fuel-efficient car.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

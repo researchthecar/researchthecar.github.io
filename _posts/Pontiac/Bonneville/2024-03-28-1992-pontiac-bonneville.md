@@ -53,19 +53,6 @@ Owners praise the Bonneville's smooth ride, roomy interior, and abundant ameniti
     * Estimated Cost to Fix: $100 - $300+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut failure**
@@ -92,19 +79,6 @@ Owners praise the Bonneville's smooth ride, roomy interior, and abundant ameniti
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust**
@@ -129,15 +103,3 @@ Owners praise the Bonneville's smooth ride, roomy interior, and abundant ameniti
 **Summary**
 
 The 1992 Pontiac Bonneville has a range of reported issues, but many of these are common to vehicles of its age and mileage. The more severe issues, such as engine and transmission failures, can be expensive to repair. However, the Bonneville remains a comfortable and spacious sedan with a loyal following among owners.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

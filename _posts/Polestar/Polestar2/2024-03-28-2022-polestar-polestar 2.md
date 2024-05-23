@@ -13,19 +13,6 @@ The 2022 Polestar Polestar 2 is a fully electric luxury sedan that boasts an imp
 
 **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Squeaky Front Suspension**
@@ -54,19 +41,6 @@ The 2022 Polestar Polestar 2 is a fully electric luxury sedan that boasts an imp
 * Estimated Cost to Fix: $500 - $1,500+
 * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 **Panel Gap Misalignment**
@@ -92,15 +66,3 @@ The 2022 Polestar Polestar 2 is a fully electric luxury sedan that boasts an imp
 **Summary:**
 
 The 2022 Polestar Polestar 2 has encountered several issues, including suspension, electrical, and cosmetic problems. While some issues are relatively minor and inexpensive to fix, others can be more severe and costly. It is important to address any issues promptly to maintain optimal performance and safety.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

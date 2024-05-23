@@ -38,19 +38,6 @@ Despite its positive qualities, the Montero has faced a handful of issues over t
         - Solution: Rebuild or replace transmission.
         - Estimated Cost to Fix: $1,500 - $3,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Front suspension**: Worn or damaged ball joints and bushings.
@@ -68,19 +55,6 @@ Despite its positive qualities, the Montero has faced a handful of issues over t
 - **Battery drain**: Battery discharges quickly even when the vehicle is parked.
     - Solution: Diagnose and repair electrical system drain.
         - Estimated Cost to Fix: $100 - $300+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -103,15 +77,3 @@ Despite its positive qualities, the Montero has faced a handful of issues over t
 **Summary**
 
 While the Montero is generally a reliable vehicle, it has faced several issues related to its engine, transmission, suspension, electrical, exterior, and interior components. The severity and cost of these issues vary, but some can be costly to repair. Mitsubishi did issue a few recalls for the 1999 Montero, including one for a potential fuel leak (NHTSA Campaign ID: 99V123000).
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

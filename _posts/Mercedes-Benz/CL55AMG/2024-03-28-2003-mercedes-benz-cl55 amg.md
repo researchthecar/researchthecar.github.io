@@ -47,19 +47,6 @@ Solution: Replace the TCM.
 Estimated Cost to Fix: $1,000 - $1,500
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Compressor Failure:**
@@ -86,19 +73,6 @@ Recalls: None Found
 Description/Symptoms: The battery can drain prematurely due to electrical system problems, faulty components, or a parasitic draw.
 Solution: Troubleshoot the electrical system and identify the source of the drain.
 Estimated Cost to Fix: Varies based on the underlying issue
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -131,15 +105,3 @@ Recalls: None Found
 **Summary**
 
 Overall, the 2003 Mercedes-Benz CL55 AMG is a reliable and thrilling vehicle. However, like all cars, it has its share of common issues. The most severe and costly issues include head bolt failure, torque converter failure, and electrical system problems. While these issues can be expensive to fix, they are relatively rare compared to less significant issues such as door lock actuator failure or navigation system malfunctions.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

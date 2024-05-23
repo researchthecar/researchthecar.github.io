@@ -47,19 +47,6 @@ The 2000 Plymouth Grand Voyager is a minivan offered with a variety of engine an
         - Estimated Cost to Fix: $300 - $500
         - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Front Struts**
     - **Strut Mount Failure**
@@ -81,19 +68,6 @@ The 2000 Plymouth Grand Voyager is a minivan offered with a variety of engine an
         - Solution: Replace the alternator.
         - Estimated Cost to Fix: $300 - $500
         - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Door Handles**
@@ -120,15 +94,3 @@ The 2000 Plymouth Grand Voyager is a minivan offered with a variety of engine an
 **Summary**
 
 The 2000 Plymouth Grand Voyager has a number of common issues, including spark plug failure, intake manifold gasket leaks, timing chain failure, torque converter failure, strut mount failure, battery failure, alternator failure, door handle breakage, gauge failure, and power window motor failure. These issues can range in severity from minor annoyances to major repairs, and the cost to fix them can vary widely.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

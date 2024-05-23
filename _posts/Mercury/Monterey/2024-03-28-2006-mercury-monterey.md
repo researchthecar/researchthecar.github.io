@@ -89,15 +89,3 @@ While the Monterey offers many positive attributes, it also has a few reported i
 ## **Summary:**
 
 While the 2006 Mercury Monterey offers a comfortable ride and powerful engine options, it has some potential issues with the engine, transmission, suspension, and electrical systems. The severity and cost of these issues can vary, but some, like the timing chain tensioner failure and transmission replacement, can be significant. Potential buyers should be aware of these known issues and consider their impact on the overall ownership experience.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

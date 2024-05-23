@@ -34,19 +34,6 @@ The 2005 Mercedes-Benz CL55 AMG is a high-performance luxury coupe powered by a 
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Airmatic Suspension Compressor Failure:**
@@ -62,19 +49,6 @@ The 2005 Mercedes-Benz CL55 AMG is a high-performance luxury coupe powered by a 
     * Solution: Check for parasitic battery drains, replace battery if necessary.
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: N/A
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -95,15 +69,3 @@ The 2005 Mercedes-Benz CL55 AMG is a high-performance luxury coupe powered by a 
 **Summary:**
 
 The 2005 Mercedes-Benz CL55 AMG is generally a reliable vehicle, but it has experienced some common issues. The most severe and expensive problems are related to the engine, including the intake manifold runner malfunction and supercharger intercooler pump failure. Other issues, such as the shift solenoid malfunction and suspension compressor failure, are less common but can still be costly to repair. Overall, the CL55 AMG is a high-performance luxury vehicle that requires regular maintenance and timely repairs to ensure optimal performance and reliability.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

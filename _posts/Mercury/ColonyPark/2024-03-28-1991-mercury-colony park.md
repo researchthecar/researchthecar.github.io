@@ -33,19 +33,6 @@ The 1991 Mercury Colony Park was a full-size station wagon offered with two engi
         * Estimated Cost to Fix: $1,000 - $2,500+
         * Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension wear**
@@ -66,19 +53,6 @@ The 1991 Mercury Colony Park was a full-size station wagon offered with two engi
     * Solution: Replace starter
     * Estimated Cost to Fix: $200 - $400
         * Recalls: N/A
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -104,15 +78,3 @@ The 1991 Mercury Colony Park was a full-size station wagon offered with two engi
 **Summary**
 
 The 1991 Mercury Colony Park is a spacious and comfortable vehicle, but it does have some potential issues to be aware of. The most common problems include intake manifold gasket failure (5.0L V8), coolant leaks (5.8L V8), transmission slipping, suspension wear, alternator failure, starter failure, rust on body panels, cracked dashboard, and fading interior trim. The severity and cost of these issues can vary, but it's important to be aware of them and have them addressed as needed to maintain the vehicle's performance and safety.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

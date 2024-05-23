@@ -29,19 +29,6 @@ Owners of the Viale BRT generally praise its comfortable ride, spacious interior
     * Estimated Cost to Fix: $1,500 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Leaks:** The air suspension system may leak due to faulty seals or hoses.
@@ -59,19 +46,6 @@ Owners of the Viale BRT generally praise its comfortable ride, spacious interior
     * Solution: Repair or replace the faulty components.
     * Estimated Cost to Fix: $100 - $300+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -94,15 +68,3 @@ Owners of the Viale BRT generally praise its comfortable ride, spacious interior
 **Summary:**
 
 Overall, the 2019 Mercedes-Benz Viale BRT has received mixed reviews. While it offers a comfortable ride and powerful engine, there have been reports of issues with various components, including the engine, transmission, suspension, electrical system, and interior. The severity and cost of these issues vary, and some owners have experienced major problems that have required extensive repairs. However, it is important to note that not all Viale BRTs will experience these issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

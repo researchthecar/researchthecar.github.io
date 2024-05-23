@@ -51,19 +51,6 @@ The 2021 Volkswagen Constellation is a medium-duty truck with a variety of custo
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf Spring Breakage**
@@ -92,19 +79,6 @@ The 2021 Volkswagen Constellation is a medium-duty truck with a variety of custo
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight Condensation**
@@ -130,15 +104,3 @@ The 2021 Volkswagen Constellation is a medium-duty truck with a variety of custo
 **Summary**
 
 Overall, the 2021 Volkswagen Constellation is a reliable and capable medium-duty truck. However, potential buyers should be aware of potential issues with the fuel system, transmission, and suspension. The severity of these issues can vary, and the cost of repairs can add up if multiple components require attention. However, regular maintenance and timely repairs can help extend the vehicle's lifespan and minimize the likelihood of experiencing costly problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

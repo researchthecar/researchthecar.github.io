@@ -34,19 +34,6 @@ The 2006 Mercedes-Benz C55 AMG is a high-performance variant of the C-Class. It 
 * **6-Speed Manual Transmission**
     * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension**
@@ -70,19 +57,6 @@ The 2006 Mercedes-Benz C55 AMG is a high-performance variant of the C-Class. It 
     * Solution: Repair or replace the affected wiring.
     * Estimated Cost to Fix: $200 - $1,000+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -108,15 +82,3 @@ The 2006 Mercedes-Benz C55 AMG is a high-performance variant of the C-Class. It 
 **Summary**
 
 The 2006 Mercedes-Benz C55 AMG is a powerful and stylish car, but it is not without its issues. The engine, transmission, suspension, electrical, exterior, and interior components can all experience problems. The severity of the issues varies from minor inconveniences to major breakdowns that can be expensive to repair. Overall, the C55 AMG is a reliable car, but it is important to be aware of the potential issues before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

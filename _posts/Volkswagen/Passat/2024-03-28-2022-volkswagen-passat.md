@@ -61,19 +61,6 @@ Owners appreciate the Passat's spacious interior, comfortable ride, and efficien
   - Estimated Cost to Fix: $2,000 - $3,000+
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Front Struts Failure:**
@@ -89,19 +76,6 @@ Owners appreciate the Passat's spacious interior, comfortable ride, and efficien
   - Solution: Inspection and repair or replacement of affected wiring.
   - Estimated Cost to Fix: $200 - $1000+
   - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -122,15 +96,3 @@ Owners appreciate the Passat's spacious interior, comfortable ride, and efficien
 **Summary:**
 
 The 2022 Volkswagen Passat has received mixed reviews from owners. While it offers a comfortable ride and efficient engines, it has experienced some reliability issues, particularly with its engine and transmission. The estimated cost to fix these issues can be significant, so it's important to consider these potential costs when buying or owning this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

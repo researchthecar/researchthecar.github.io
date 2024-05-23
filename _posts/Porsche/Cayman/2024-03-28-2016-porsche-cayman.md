@@ -38,19 +38,6 @@ The Cayman is praised for its sharp handling, powerful engine, and luxurious int
   * Estimated Cost to Fix: $3,000 - $5,000+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Lower Control Arm Bushing Wear**
@@ -66,19 +53,6 @@ The Cayman is praised for its sharp handling, powerful engine, and luxurious int
   * Solution: Check for parasitic draw and replace the battery if necessary.
   * Estimated Cost to Fix: $200 - $500+
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -101,15 +75,3 @@ The Cayman is praised for its sharp handling, powerful engine, and luxurious int
 Overall, the 2016 Porsche Cayman is a well-engineered and reliable sports car. However, like all vehicles, it has its share of issues. The most common problems include cylinder head leaks, gearshift linkage failure, clutch pack failure, front lower control arm bushing wear, battery discharge, trunk lid misalignment, and center console trim panel squeak.
 
 The severity and cost of these issues vary, but most are relatively minor and inexpensive to fix. However, some issues, such as cylinder head leaks and clutch pack failure, can be more serious and costly to repair.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

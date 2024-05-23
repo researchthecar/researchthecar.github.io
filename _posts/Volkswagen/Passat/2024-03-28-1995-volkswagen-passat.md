@@ -37,19 +37,6 @@ Owners of the Passat generally praise its roomy interior, comfortable ride, and 
 * **Transmission slip:** Symptoms include a loss of power and a slipping sensation when shifting gears. Solution: Repair or replace the transmission. Estimated Cost to Fix: $1,500 - $3,000+
 * **Torque converter failure:** Symptoms include a loss of power and a whining noise when shifting gears. Solution: Replace the torque converter. Estimated Cost to Fix: $1,000 - $2,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front strut failure:** Symptoms include a loss of handling and a rough ride. Solution: Replace the front struts. Estimated Cost to Fix: $600 - $1,200
@@ -60,19 +47,6 @@ Owners of the Passat generally praise its roomy interior, comfortable ride, and 
 * **Alternator failure:** Symptoms include a loss of power and a dimming of the lights. Solution: Replace the alternator. Estimated Cost to Fix: $500 - $1,000
 * **Battery failure:** Symptoms include difficulty starting the car and a loss of power. Solution: Replace the battery. Estimated Cost to Fix: $100 - $200
 * **Starter failure:** Symptoms include difficulty starting the car and a grinding noise when attempting to start. Solution: Replace the starter. Estimated Cost to Fix: $300 - $600
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -89,15 +63,3 @@ Owners of the Passat generally praise its roomy interior, comfortable ride, and 
 **Summary**
 
 The 1995 Volkswagen Passat is a reliable and comfortable car, but it is not without its issues. Engine and transmission problems are the most common and can be expensive to fix. Suspension and electrical issues are also relatively common, but they are generally less costly to repair. Interior and exterior problems are less common and are typically less severe. Overall, the Passat is a solid choice for a used car, but it is important to be aware of the potential problems before buying one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

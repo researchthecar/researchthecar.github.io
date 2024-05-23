@@ -59,19 +59,6 @@ Despite its luxurious amenities and impressive performance, the Cayenne has been
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air suspension compressor failure:** The air suspension compressor can fail, causing the suspension to sag or fail completely.
@@ -100,19 +87,6 @@ Despite its luxurious amenities and impressive performance, the Cayenne has been
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight condensation:** The Cayenne's headlights are prone to condensation, which can impair visibility and damage the headlights.
@@ -134,15 +108,3 @@ Despite its luxurious amenities and impressive performance, the Cayenne has been
 The 2006 Porsche Cayenne is a powerful and capable SUV, but it has been plagued by a number of reliability issues that have affected its value and reputation. Engine and transmission problems are particularly common, and some of these issues can be costly to repair. While the Cayenne offers a luxurious and comfortable interior, it is also known for its electrical problems and headlight condensation issues.
 
 Overall, the 2006 Porsche Cayenne is a vehicle that should be considered with caution. While it may offer impressive performance and features, it is important to be aware of the potential risks and costs associated
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

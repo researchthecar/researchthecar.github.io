@@ -50,19 +50,6 @@ Owners of the Mini Cooper Clubman appreciate its distinctive styling, roomy inte
     * Solution: Update the transmission software or replace the transmission fluid and filter.
     * Estimated Cost to Fix: $200 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Shock Absorber Failure**
@@ -84,19 +71,6 @@ Owners of the Mini Cooper Clubman appreciate its distinctive styling, roomy inte
     * Description/Symptoms: Electrical wiring faults may cause various issues, such as flickering lights, instrument panel malfunctions, or engine problems.
     * Solution: Repair or replace the faulty wiring.
     * Estimated Cost to Fix: $500 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -138,15 +112,3 @@ Owners of the Mini Cooper Clubman appreciate its distinctive styling, roomy inte
 **Summary**
 
 While the Mini Cooper Clubman offers an engaging driving experience, it is not without its issues. Some of the reported problems, such as engine and transmission failures, can be costly to repair. However, many of the other issues, such as electrical glitches or interior malfunctions, are less severe and can be addressed with reasonable costs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

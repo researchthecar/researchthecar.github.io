@@ -64,15 +64,3 @@ The 2004 Pontiac Grand Am is a popular midsize sedan that is known for its sport
 ## Summary
 
 The 2004 Pontiac Grand Am has a few common issues to watch out for, including intake manifold gasket failure, valve cover gasket leak, transmission solenoid issues, starter failure, taillight assembly failure, and power window regulator failure. While these issues can be annoying and costly to fix, they are not particularly severe and are typically covered under warranty. Overall, the Grand Am is a reliable and affordable vehicle that offers good performance and handling for its price.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

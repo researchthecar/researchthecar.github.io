@@ -34,19 +34,6 @@ The 2009 Mercedes-Benz CL63 AMG is a high-performance grand tourer powered by a 
     * **Estimated Cost to Fix:** $1,500 - $2,500+
     * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Compressor Failure:**
@@ -73,19 +60,6 @@ The 2009 Mercedes-Benz CL63 AMG is a high-performance grand tourer powered by a 
     * **Estimated Cost to Fix:** $500 - $1,500+
     * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door Lock Module Failure:**
@@ -110,15 +84,3 @@ The 2009 Mercedes-Benz CL63 AMG is a high-performance grand tourer powered by a 
 **Summary**
 
 The 2009 Mercedes-Benz CL63 AMG is a high-performance vehicle with a powerful engine, luxurious interior, and aggressive styling. However, it is also known for its high cost and potential reliability issues. Many of the problems are related to complex electrical systems, engine components, and suspension components. The cost to fix these issues can be substantial, ranging from several hundred dollars to over a thousand dollars.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

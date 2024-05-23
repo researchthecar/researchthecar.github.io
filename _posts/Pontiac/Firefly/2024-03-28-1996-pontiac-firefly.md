@@ -44,19 +44,6 @@ The 1996 Pontiac Firefly was a compact hatchback offered with a 1.3L SOHC I4 eng
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Bearing Failure:**
@@ -82,19 +69,6 @@ The 1996 Pontiac Firefly was a compact hatchback offered with a 1.3L SOHC I4 eng
     * Solution: Repair or replace damaged wiring harness.
     * Estimated Cost to Fix: $200 - $600 depending on the extent of damage.
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -125,15 +99,3 @@ The 1996 Pontiac Firefly was a compact hatchback offered with a 1.3L SOHC I4 eng
 **Summary**
 
 The 1996 Pontiac Firefly is a reliable and affordable vehicle, but it does have some potential issues. Engine problems are relatively common and can be expensive to fix. Transmission issues are less common but can also be costly. Electrical problems are also a concern, and suspension components may wear prematurely. Interior and exterior issues are generally minor but can still be inconvenient. Overall, the severity and cost of the issues are not excessive, but potential buyers should be aware of the potential problems before making a purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

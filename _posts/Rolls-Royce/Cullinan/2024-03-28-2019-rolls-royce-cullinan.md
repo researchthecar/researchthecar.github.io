@@ -36,19 +36,6 @@ The Cullinan has been praised for its opulent interior, powerful engine, and imp
     * Estimated Cost to Fix: $2,000 - $5,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Air Suspension**
@@ -72,19 +59,6 @@ The Cullinan has been praised for its opulent interior, powerful engine, and imp
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **No Issues Found**
@@ -105,15 +79,3 @@ The Cullinan has been praised for its opulent interior, powerful engine, and imp
 **Summary**
 
 Overall, the 2019 Rolls-Royce Cullinan is a well-built and luxurious SUV. However, some owners have reported issues with the vehicle, including problems with the engine, transmission, suspension, electrical system, and interior. The severity and cost of these issues can vary depending on the specific problem. It is important to note that not all Cullinans will experience these issues, and many owners have been satisfied with their vehicles.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

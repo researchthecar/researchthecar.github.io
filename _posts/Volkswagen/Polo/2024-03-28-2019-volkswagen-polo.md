@@ -45,19 +45,6 @@ The 2019 Volkswagen Polo is a subcompact hatchback available in a variety of eng
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut mount failure:** The strut mounts can fail, causing a knocking or rattling noise from the suspension.
@@ -74,19 +61,6 @@ The 2019 Volkswagen Polo is a subcompact hatchback available in a variety of eng
     * **Estimated Cost to Fix:** Varies depending on the location and severity of the issue
     * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **No Issues Found**
@@ -102,15 +76,3 @@ The 2019 Volkswagen Polo is a subcompact hatchback available in a variety of eng
 **Summary**
 
 The 2019 Volkswagen Polo is generally a reliable vehicle, but some owners have reported issues with specific components. The most common issues reported are timing chain tensioner failure (1.0-liter engine), turbocharger failure (1.5-liter engine), and strut mount failure. The severity and cost of these issues vary, but most can be resolved for a reasonable price.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

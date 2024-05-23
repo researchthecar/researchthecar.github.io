@@ -41,19 +41,6 @@ Owners generally appreciate the Montero Sport's reliable performance, comfortabl
     * Solution: Replace the solenoid.
     * Estimated Cost to Fix: $200 - $600+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension creaking**
@@ -71,19 +58,6 @@ Owners generally appreciate the Montero Sport's reliable performance, comfortabl
     * Description/Symptoms: The alternator may fail to charge the battery, leading to electrical issues.
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $500 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -110,15 +84,3 @@ Owners generally appreciate the Montero Sport's reliable performance, comfortabl
 **Summary**
 
 The 2012 Mitsubishi Montero Sport is a reliable and capable SUV, but it has some common issues to be aware of. Engine problems are the most severe and costly, with potential expenses exceeding $1,000+. The transmission and suspension issues can also be expensive to fix, while the electrical, exterior, and interior issues are generally less severe and less costly.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

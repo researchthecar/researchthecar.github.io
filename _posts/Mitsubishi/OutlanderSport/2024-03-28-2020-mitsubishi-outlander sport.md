@@ -45,19 +45,6 @@ The 2020 Mitsubishi Outlander Sport is a compact SUV available with two engine o
     * Estimated Cost to Fix: $3,000 - $8,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -75,19 +62,6 @@ The 2020 Mitsubishi Outlander Sport is a compact SUV available with two engine o
     * Solution: Software update or replacement of the infotainment system.
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -108,15 +82,3 @@ The 2020 Mitsubishi Outlander Sport is a compact SUV available with two engine o
 **Conclusion:**
 
 Overall, the 2020 Mitsubishi Outlander Sport has some potential reliability issues, particularly with the engine, transmission, and electrical systems. These issues can be costly to repair and may impact the overall ownership experience. However, the Outlander Sport remains a good value for the price when compared to its competitors.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

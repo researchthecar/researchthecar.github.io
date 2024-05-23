@@ -22,19 +22,6 @@ The 2001 Subaru Forester is a compact SUV known for its ruggedness, versatility,
 * **5-speed manual:**
     * **Clutch failure:** Worn or damaged clutch disc or pressure plate. Symptoms include difficulty shifting gears, slipping, or shuddering. Solution: Replace clutch assembly. Cost to Fix: $500 - $1000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front struts:** Leaking or damaged struts. Symptoms include poor handling, uneven tire wear, and noise. Solution: Replace struts. Cost to Fix: $500 - $1000+
@@ -44,19 +31,6 @@ The 2001 Subaru Forester is a compact SUV known for its ruggedness, versatility,
 
 * **Alternator failure:** Faulty alternator leads to insufficient charging of the battery. Symptoms include dim headlights, electrical system malfunctions, and difficulty starting. Solution: Replace alternator. Cost to Fix: $500 - $800+
 * **Battery drain:** Excessive battery discharge when the vehicle is turned off. Symptoms include a dead battery, slow starting, and electrical system issues. Solution: Diagnose and fix electrical drains. Cost to Fix: $100 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -71,15 +45,3 @@ The 2001 Subaru Forester is a compact SUV known for its ruggedness, versatility,
 **Summary:**
 
 The 2001 Subaru Forester is a generally reliable vehicle, but it has faced some issues over time. The severity and cost of these issues vary, with some being relatively minor and others potentially more expensive. Overall, the Forester is still a popular choice for those seeking a compact SUV with off-road capability and versatility.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

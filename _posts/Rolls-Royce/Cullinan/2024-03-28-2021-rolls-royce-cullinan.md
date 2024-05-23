@@ -20,19 +20,6 @@ People like the Cullinan for its spacious and luxurious interior, its powerful e
 * **Eight-Speed Automatic Transmission**
     * **Transmission Slipping:** Symptoms include difficulty shifting gears, delayed engagement, and a loss of power. Solution: Repair or replace the transmission. Estimated Cost to Fix: $3,000 - $5,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension System Malfunction:** Symptoms include a loss of ride height, uneven ride, and a rough ride. Solution: Replace the air suspension components. Estimated Cost to Fix: $2,000 - $4,000+
@@ -43,19 +30,6 @@ People like the Cullinan for its spacious and luxurious interior, its powerful e
 * **Battery Drain:** Symptoms include a dead battery, difficulty starting the vehicle, and flickering lights. Solution: Replace the battery or repair the electrical system. Estimated Cost to Fix: $300 - $1,000+
 * **Infotainment System Malfunction:** Symptoms include a frozen screen, unresponsive buttons, and a loss of sound. Solution: Reset the infotainment system or replace the system components. Estimated Cost to Fix: $500 - $2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 * **Body Panel Gaps:** Symptoms include uneven gaps between the body panels. Solution: Adjust or replace the body panels. Estimated Cost to Fix: $500 - $1,500+
 * **Wheel Bearing Failure:** Symptoms include a grinding or whining noise from the wheels, and excessive play in the wheels. Solution: Replace the wheel bearing. Estimated Cost to Fix: $300 - $600+
@@ -65,15 +39,3 @@ People like the Cullinan for its spacious and luxurious interior, its powerful e
 
 **Summary**
 The 2021 Rolls-Royce Cullinan is a very expensive vehicle, and as such, the cost of repairs can be high. However, the issues that have been reported are not widespread, and most owners are very satisfied with their vehicles.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

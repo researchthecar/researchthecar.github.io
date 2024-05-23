@@ -29,19 +29,6 @@ The 2020 Mercedes-Benz CLS53 AMG is a high-performance luxury sedan powered by a
   * Recalls: None Found
 
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Malfunction:** Faulty air suspension components, such as struts or air bags, causing the vehicle to sag or ride unevenly.
@@ -57,19 +44,6 @@ The 2020 Mercedes-Benz CLS53 AMG is a high-performance luxury sedan powered by a
   * Estimated Cost to Fix: $500 - $1,000+
   * Recalls: None Found
 
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -90,15 +64,3 @@ The 2020 Mercedes-Benz CLS53 AMG is a high-performance luxury sedan powered by a
 **Overall Summary**
 
 Based on reported issues, the 2020 Mercedes-Benz CLS53 AMG has some potential reliability concerns in areas such as the engine, transmission, and suspension. The severity and cost of these issues can vary depending on the specific problem and its extent. However, it's important to note that the CLS53 AMG is generally well-received by owners and does not experience all of these issues. As with any vehicle, regular maintenance and proper care can help maintain its performance and minimize the risk of major problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -44,19 +44,6 @@ The 2007 Mercedes-Benz SL55 AMG is a high-performance luxury grand tourer. It is
   * Estimated Cost to Fix: $2,000 - $3,000+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Airmatic Suspension Compressor Failure:**
@@ -82,19 +69,6 @@ The 2007 Mercedes-Benz SL55 AMG is a high-performance luxury grand tourer. It is
   * Solution: Replace alternator
   * Estimated Cost to Fix: $500 - $1,000+
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -125,15 +99,3 @@ The 2007 Mercedes-Benz SL55 AMG is a high-performance luxury grand tourer. It is
 **Summary:**
 
 The 2007 Mercedes-Benz SL55 AMG is a high-performance vehicle that can provide an exhilarating driving experience. However, owners have reported some issues with the engine, transmission, and other components. These issues can vary in severity and cost to repair. Some issues, such as intake manifold failure and valve stem seal failure, can be quite expensive to fix. It is important to factor in the potential cost of repairs when considering purchasing this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

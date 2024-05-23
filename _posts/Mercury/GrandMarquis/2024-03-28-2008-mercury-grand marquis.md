@@ -65,19 +65,6 @@ Solution: Replace the shift solenoid
 Estimated Cost to Fix: $300 - $500+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Lower control arm bushings wear out:** The lower control arm bushings may wear out prematurely, leading to excessive play in the suspension.
@@ -105,19 +92,6 @@ Description/Symptoms: Dim headlights, electrical malfunctions, difficulty starti
 Solution: Replace the alternator
 Estimated Cost to Fix: $500 - $1,000+
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -150,15 +124,3 @@ Recalls: None Found
 **Summary**
 
 Overall, the 2008 Mercury Grand Marquis is a reliable and comfortable sedan. However, it is not immune to certain issues. The most common issues reported by owners are related to the engine, transmission, and suspension. While some of these issues are minor and inexpensive to fix, others can be costly. It is important for potential buyers to be aware of these potential issues before purchasing a Grand Marquis.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

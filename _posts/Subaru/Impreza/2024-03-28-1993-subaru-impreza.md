@@ -34,19 +34,6 @@ Despite its popularity and overall reliability, the 1993 Subaru Impreza has expe
 * **Transmission slipping:** Symptoms include a delay in engagement, slipping gears, and a check engine light. The transmission slipping can be caused by a variety of issues, including a faulty torque converter, a worn-out clutch pack, or a solenoid failure. The solution involves repairing or replacing the affected component. Estimated Cost to Fix: $1,500 - $3,000+ Recalls: None Found
 * **Shift linkage failure:** Symptoms include difficulty shifting gears or a loose gear selector. The shift linkage is responsible for transmitting the driver's input from the gear selector to the transmission. Its failure can prevent the transmission from shifting properly. The solution involves replacing the shift linkage assembly. Estimated Cost to Fix: $200 - $600+ Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut failure:** Symptoms include a rough ride, uneven tire wear, and a clunking noise when driving over bumps. The struts are responsible for supporting the vehicle's weight and controlling the suspension's rebound and compression. Their failure can compromise handling and stability. The solution involves replacing the struts. Estimated Cost to Fix: $800 - $1,500+ Recalls: None Found
@@ -56,19 +43,6 @@ Despite its popularity and overall reliability, the 1993 Subaru Impreza has expe
 
 * **Alternator failure:** Symptoms include a flickering battery indicator light, a dim dashboard, and a loss of electrical power. The alternator is responsible for generating electricity to power the vehicle's electrical systems. Its failure can leave the vehicle stranded with a dead battery. The solution involves replacing the alternator. Estimated Cost to Fix: $500 - $1,000+ Recalls: None Found
 * **Starter failure:** Symptoms include difficulty starting the car or a grinding noise when starting. The starter is responsible for engaging the engine and starting the combustion process. Its failure can prevent the engine from starting. The solution involves replacing the starter. Estimated Cost to Fix: $300 - $600+ Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -83,15 +57,3 @@ Despite its popularity and overall reliability, the 1993 Subaru Impreza has expe
 **Summary**
 
 While the 1993 Subaru Impreza is a generally reliable vehicle, it has experienced specific issues that owners should be aware of. The most common problems revolve around engine gasket failures, timing belt failures, transmission slipping, and suspension component failure. While some of these repairs can be costly, the Impreza's overall reliability and affordability make it a viable option for many drivers.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -23,19 +23,6 @@ The 2022 Volkswagen Tiguan is a compact SUV available with two engine options: a
 **7-Speed DSG Dual-Clutch Automatic**
 * **Mechatronic Unit Failure:** The mechatronic unit, which controls the transmission, can fail due to overheating or electrical issues. Symptoms include loss of power, jerking, or difficulty shifting. Solution: Mechatronic unit replacement. Estimated Cost to Fix: $2,000 - $3,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Clunking Noise:** A clunking noise may be heard over bumps or rough roads, indicating worn sway bar links or bushings. Solution: Replacement of worn components. Estimated Cost to Fix: $200 - $400+
@@ -43,19 +30,6 @@ The 2022 Volkswagen Tiguan is a compact SUV available with two engine options: a
 **Electrical**
 
 * **Infotainment Screen Freeze:** The infotainment screen may freeze or become unresponsive intermittently. Solution: Software update or resetting the system. Estimated Cost to Fix: $0 - $200+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -69,15 +43,3 @@ The 2022 Volkswagen Tiguan is a compact SUV available with two engine options: a
 **Summary:**
 
 The 2022 Volkswagen Tiguan is a reliable vehicle overall, but it is not without its issues. Transmission problems are the most significant concern, particularly with the DSG dual-clutch automatic transmission. However, the engine, suspension, and electrical systems generally have a good track record. Interior and exterior issues tend to be minor and relatively inexpensive to fix. The severity of the issues varies, with some being more urgent and costly than others. It's important to note that not all vehicles will experience these problems, but it's essential to be informed about potential issues before making a purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

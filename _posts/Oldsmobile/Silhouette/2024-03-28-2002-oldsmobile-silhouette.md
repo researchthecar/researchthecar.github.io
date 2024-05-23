@@ -34,19 +34,6 @@ The 2002 Oldsmobile Silhouette is a minivan praised for its spacious cabin, powe
 	- Estimated Cost to Fix: $800 - $1,200+
 - **No Other Transmission Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Front Strut Failure:**
 	- Description/Symptoms: Leaking struts, clunking noises, poor handling
@@ -71,19 +58,6 @@ The 2002 Oldsmobile Silhouette is a minivan praised for its spacious cabin, powe
 	- Solution: Replace starter
 	- Estimated Cost to Fix: $200 - $400+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 - **Power Mirror Failure:**
 	- Description/Symptoms: Mirror does not adjust, jammed
@@ -103,15 +77,3 @@ The 2002 Oldsmobile Silhouette is a minivan praised for its spacious cabin, powe
 
 **Summary:**
 The 2002 Oldsmobile Silhouette is a capable minivan with a comfortable and spacious interior. However, it is not without a number of potential issues. The engine and transmission can develop problems that can be expensive to repair, while the suspension and electrical systems can also have their fair share of problems. The cost of repairs can vary depending on the severity of the issue and the availability of parts. Potential buyers should be aware of these issues and factor them into their decision-making process.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

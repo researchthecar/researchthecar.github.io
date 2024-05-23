@@ -52,19 +52,6 @@ Solution: Replace the torque converter.
 Estimated Cost to Fix: $1,200 - $1,800
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * Front Sway Bar End Link Failure
@@ -92,19 +79,6 @@ Description/Symptoms: The alternator can fail, causing the battery to not charge
 Solution: Replace the alternator.
 Estimated Cost to Fix: $500 - $800
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -137,15 +111,3 @@ Recalls: None Found
 **Summary**
 
 The 2005 Volkswagen Bora is a reliable and enjoyable car to drive. However, there are some common issues that drivers may experience with the vehicle. The most severe and expensive issues are the engine and transmission failures, which can cost up to $3,000 to repair. The other issues are relatively minor and less expensive to fix. Overall, the Bora is a good value for the money, but drivers should be aware of the potential issues that they may encounter.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -51,19 +51,6 @@ The 2009 Mercury Mariner is a mid-size SUV that was available with a choice of t
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Wear:**
@@ -90,19 +77,6 @@ The 2009 Mercury Mariner is a mid-size SUV that was available with a choice of t
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door Handle Panel Discoloration:**
@@ -126,15 +100,3 @@ The 2009 Mercury Mariner is a mid-size SUV that was available with a choice of t
 
 **Summary:**
 The 2009 Mercury Mariner has some notable issues, particularly with its engine, transmission, and suspension. The severity of the issues varies, with some being relatively minor and inexpensive to fix, while others can be more serious and costly. Overall, it is important for potential buyers to be aware of these issues before purchasing a Mariner.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

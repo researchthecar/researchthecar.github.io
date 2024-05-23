@@ -34,19 +34,6 @@ The 2013 Mercedes-Benz ML63 AMG is a high-performance SUV that combines luxury a
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air suspension failure:**
@@ -67,19 +54,6 @@ The 2013 Mercedes-Benz ML63 AMG is a high-performance SUV that combines luxury a
     * Solution: Diagnose and repair individual electrical components
     * Estimated Cost to Fix: Varies depending on the issue
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -105,15 +79,3 @@ The 2013 Mercedes-Benz ML63 AMG is a high-performance SUV that combines luxury a
 **Summary**
 
 The 2013 Mercedes-Benz ML63 AMG is a high-performance SUV that offers a unique blend of luxury and power. However, it does have some common issues that owners should be aware of. These issues can vary in severity and cost to fix, so it is important to factor these potential expenses into the ownership experience.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

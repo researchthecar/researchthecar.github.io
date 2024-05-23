@@ -33,19 +33,6 @@ People who like the 2002 Subaru Forester appreciate its practicality, ruggedness
   * Estimated Cost to Fix: $1,800 - $3,000+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut mount bearing failure:** Clunking or rattling noises from the front suspension
@@ -59,19 +46,6 @@ People who like the 2002 Subaru Forester appreciate its practicality, ruggedness
   * Solution: Replace the alternator
   * Estimated Cost to Fix: $500 - $800
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -90,15 +64,3 @@ People who like the 2002 Subaru Forester appreciate its practicality, ruggedness
 **Summary:**
 
 Overall, the 2002 Subaru Forester is a reliable vehicle, but it can be prone to certain issues, particularly with the head gasket, turbocharger, and transmission. The severity and cost of these issues vary, but some can be expensive to repair. It is important to factor in potential repair costs when considering the purchase of a used 2002 Subaru Forester. Regular maintenance and inspection can help prevent or minimize some of these issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

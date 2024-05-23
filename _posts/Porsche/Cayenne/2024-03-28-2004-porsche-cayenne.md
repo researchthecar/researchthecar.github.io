@@ -46,19 +46,6 @@ Despite its popularity, the 2004 Porsche Cayenne has been reported to experience
  - **Estimated Cost to Fix:** $2,000 - $5,000+
  - **Recalls:** NHTSA Campaign Number: 06V479000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Air suspension leaks:** The air suspension system may leak air, causing the vehicle to sag.
@@ -79,19 +66,6 @@ Despite its popularity, the 2004 Porsche Cayenne has been reported to experience
  - **Solution:** Replace the alternator.
  - **Estimated Cost to Fix:** $800 - $1,200+
  - **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -122,15 +96,3 @@ Despite its popularity, the 2004 Porsche Cayenne has been reported to experience
 **Summary**
 
 The 2004 Porsche Cayenne is a capable SUV with strong performance, however, it can experience various issues that may require costly repairs. Engine and transmission problems, such as oil leaks, timing chain issues, and transmission failures, can be particularly concerning. Other issues, such as suspension leaks, electrical failures, and interior problems, while not as severe, can still impact the vehicle's functionality and comfort. While some repairs may be covered under warranty or recalls, the potential costs associated with these issues should be considered when purchasing or maintaining a 2004 Porsche Cayenne.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

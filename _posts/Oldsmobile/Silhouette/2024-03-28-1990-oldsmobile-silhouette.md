@@ -37,19 +37,6 @@ The 1990 Oldsmobile Silhouette was a mid-size minivan that offered a comfortable
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front strut failure**
@@ -70,19 +57,6 @@ The 1990 Oldsmobile Silhouette was a mid-size minivan that offered a comfortable
     * Solution: Test and replace faulty components (e.g., alternator, starter)
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -108,15 +82,3 @@ The 1990 Oldsmobile Silhouette was a mid-size minivan that offered a comfortable
 **Summary**
 
 The 1990 Oldsmobile Silhouette has experienced a range of issues affecting its engine, transmission, suspension, electrical system, and interior. While some issues are relatively minor and inexpensive to fix, others, such as head gasket failure and transmission failure, can be severe and costly. Potential owners should be aware of these issues before purchasing a Silhouette.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -35,19 +35,6 @@ The 2021 Mercedes-Benz GLC43 AMG is a performance-oriented SUV powered by a 3.0L
         * Estimated Cost to Fix: $3,000 - $5,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Adaptive Damping System Failure**
@@ -73,19 +60,6 @@ The 2021 Mercedes-Benz GLC43 AMG is a performance-oriented SUV powered by a 3.0L
     * Solution: Update software or replace faulty components
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -116,15 +90,3 @@ The 2021 Mercedes-Benz GLC43 AMG is a performance-oriented SUV powered by a 3.0L
 **Summary**
 
 The 2021 Mercedes-Benz GLC43 AMG is a capable performance SUV, but it has been subject to some significant issues reported by owners. The engine and transmission problems can be costly to repair, while the electrical and suspension issues can affect the overall comfort and safety of the vehicle. Potential buyers should be aware of these potential problems before purchasing a GLC43 AMG.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

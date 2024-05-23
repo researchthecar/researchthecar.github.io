@@ -29,19 +29,6 @@ The 2020 Mitsubishi Montero Sport is a midsize SUV that offers a comfortable and
 * Estimated Cost to Fix: $1,200 - $1,800+
 * Recalls: None found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Rear Suspension Sag**
@@ -57,19 +44,6 @@ The 2020 Mitsubishi Montero Sport is a midsize SUV that offers a comfortable and
 * Solution: Test and replace the battery or alternator.
 * Estimated Cost to Fix: $100 - $600+
 * Recalls: None found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -90,15 +64,3 @@ The 2020 Mitsubishi Montero Sport is a midsize SUV that offers a comfortable and
 **Summary**
 
 Overall, the 2020 Mitsubishi Montero Sport is a reliable and capable SUV. However, it has some potential issues, particularly with the transmission, suspension, and electrical systems. The severity of the issues varies, and the cost of repairs can be significant. It's important to note that these issues are not universal and may not affect all vehicles.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

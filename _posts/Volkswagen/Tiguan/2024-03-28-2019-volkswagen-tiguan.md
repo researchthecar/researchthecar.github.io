@@ -28,19 +28,6 @@ The 2019 Volkswagen Tiguan is a compact crossover SUV available in three trim le
   * Estimated Cost to Fix: $100 - $500
   * Recalls: NHTSA ID Number: 22V680000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -51,19 +38,6 @@ The 2019 Volkswagen Tiguan is a compact crossover SUV available in three trim le
   * Description/Symptoms: Vehicle battery drains prematurely, difficulty starting
   * Solution: Replace faulty battery, check for electrical leaks
   * Estimated Cost to Fix: $100 - $500
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -82,15 +56,3 @@ The 2019 Volkswagen Tiguan is a compact crossover SUV available in three trim le
 **Summary**
 
 The 2019 Volkswagen Tiguan has received mixed reviews. While it offers a spacious interior, comfortable ride, and advanced safety features, it has also been criticized for its lack of power and uninspiring driving dynamics. The vehicle has experienced several issues, including intake valve carbon buildup, shifting delays, battery drain, sunroof malfunctions, and infotainment system lag. The severity and cost of these issues vary, but many can be resolved through software updates or repairs under warranty.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

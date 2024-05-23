@@ -49,19 +49,6 @@ The 2009 Nissan Pathfinder is a mid-size SUV that offers a spacious cabin, comfo
       - Estimated Cost to Fix: $200 - $500
       - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Front strut failure**
@@ -83,19 +70,6 @@ The 2009 Nissan Pathfinder is a mid-size SUV that offers a spacious cabin, comfo
   - Solution: Identify and resolve the source of the battery drain, such as a faulty alternator or parasitic drain.
   - Estimated Cost to Fix: $100 - $500
   - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -122,15 +96,3 @@ The 2009 Nissan Pathfinder is a mid-size SUV that offers a spacious cabin, comfo
 **Summary**
 
 The 2009 Nissan Pathfinder has a few reported issues, but overall it is a reliable and capable vehicle. The most common issues are related to the engine, such as timing chain tensioner failure, intake manifold gasket leak, and valve cover gasket leak. The transmission issues are less common and vary depending on the transmission option. The reported suspension issues include front strut failure. Electrical issues include alternator failure and battery drain. Exterior issues are limited to sunroof leaks. Interior issues reported include dashboard cracking and seat heater failure. The severity of these issues can range from minor inconveniences to potentially expensive repairs. It is recommended to have the vehicle inspected by a qualified mechanic to identify and address any potential issues before they become more severe.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

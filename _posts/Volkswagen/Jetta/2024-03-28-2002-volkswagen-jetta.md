@@ -38,19 +38,6 @@ The 2002 Volkswagen Jetta is a compact sedan known for its sleek design, comfort
         * Estimated Cost to Fix: $1,500 - $2,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front strut failure:** The front struts can wear out prematurely, resulting in decreased suspension performance and handling.
@@ -72,19 +59,6 @@ The 2002 Volkswagen Jetta is a compact sedan known for its sleek design, comfort
         * Solution: Replace headlight switch.
         * Estimated Cost to Fix: $100 - $200
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -111,15 +85,3 @@ The 2002 Volkswagen Jetta is a compact sedan known for its sleek design, comfort
 **Summary:**
 
 The 2002 Volkswagen Jetta is generally a reliable and well-rounded vehicle, but there are some common issues to be aware of. The most severe issues include engine oil consumption, timing chain tensioner failure, and transmission torque converter shudder. These can be costly to repair. Other issues, such as dashboard cracking and sunroof leaks, are less severe but can still be inconvenient and expensive.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

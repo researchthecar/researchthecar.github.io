@@ -37,19 +37,6 @@ Despite its overall reliability, the 1998 Volkswagen Combi has been known to exp
 **CVT**
 * **Belt and pulley wear:** The CVT belt and pulleys can wear out over time, leading to slipping and transmission failure. Symptoms include slipping gears, delayed gear engagement, and transmission overheating. Fix: Replace the CVT belt and pulleys. Estimated Cost to Fix: $1,500 - $2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut failure:** The struts can fail, leading to poor handling and decreased ride comfort. Symptoms include excessive bouncing, nosediving during braking, and uneven tire wear. Fix: Replace the struts. Estimated Cost to Fix: $400 - $600+ per axle
@@ -60,19 +47,6 @@ Despite its overall reliability, the 1998 Volkswagen Combi has been known to exp
 * **Battery failure:** The battery can fail, leading to difficulty starting the vehicle or electrical system failure. Symptoms include difficulty starting, dim lights, and electrical component failure. Fix: Replace the battery. Estimated Cost to Fix: $100 - $200+
 * **Alternator failure:** The alternator can fail, leading to insufficient charging of the battery and electrical system failure. Symptoms include dim lights, battery warning light, and electrical component failure. Fix: Replace the alternator. Estimated Cost to Fix: $300 - $500+
 * **Starter failure:** The starter can fail, leading to difficulty starting the vehicle or complete failure to start. Symptoms include difficulty starting, grinding noises, and no start conditions. Fix: Replace the starter. Estimated Cost to Fix: $200 - $400+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -87,15 +61,3 @@ Despite its overall reliability, the 1998 Volkswagen Combi has been known to exp
 **Summary:**
 
 Overall, the 1998 Volkswagen Combi is a reliable and versatile vehicle with a good track record. However, it has been known to experience certain issues, particularly with its engine, transmission, and suspension components. The severity of these issues can vary, and the cost to fix them can be significant. It's important to consider the potential costs and maintenance requirements when purchasing a used 1998 Volkswagen Combi.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

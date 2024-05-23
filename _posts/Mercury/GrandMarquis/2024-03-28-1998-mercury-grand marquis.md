@@ -45,19 +45,6 @@ The 1998 Mercury Grand Marquis is a full-size luxury sedan known for its spaciou
     - Estimated Cost to Fix: $250 - $500+
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Strut mount failure:**
@@ -79,19 +66,6 @@ The 1998 Mercury Grand Marquis is a full-size luxury sedan known for its spaciou
     - Solution: Replace headlight switch
     - Estimated Cost to Fix: $150 - $250+
     - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -118,15 +92,3 @@ The 1998 Mercury Grand Marquis is a full-size luxury sedan known for its spaciou
 **Summary:**
 
 The 1998 Mercury Grand Marquis is generally a reliable vehicle, but it can experience some common issues. The engine and transmission problems can be serious and expensive to fix. Suspension and electrical issues are typically less severe and less costly. The exterior and interior issues tend to be aesthetic or minor inconveniences. Overall, the Grand Marquis offers a comfortable and powerful ride, but it is important to be aware of potential issues before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

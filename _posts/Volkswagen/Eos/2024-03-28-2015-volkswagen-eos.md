@@ -34,19 +34,6 @@ The 2015 Volkswagen Eos is a stylish and sporty convertible that combines the pr
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: Not applicable
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Bearing Failure:**
@@ -67,19 +54,6 @@ The 2015 Volkswagen Eos is a stylish and sporty convertible that combines the pr
     * Solution: Repair or replace electrical harness
     * Estimated Cost to Fix: $500 - $1,500
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -110,15 +84,3 @@ The 2015 Volkswagen Eos is a stylish and sporty convertible that combines the pr
 **Summary**
 
 The 2015 Volkswagen Eos has received mixed reviews from owners. While some praise its stylish design, comfortable interior, and responsive handling, others have reported various issues, including engine, transmission, electrical, and suspension problems. The severity and cost of these issues vary, with some being relatively minor and inexpensive to fix, while others can be more significant and expensive. Overall, it's important to consider the potential risks and costs associated with owning a used 2015 Volkswagen Eos before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

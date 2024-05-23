@@ -50,19 +50,6 @@ The Intrigue was praised for its comfortable interior, spacious trunk, and power
 
 ---
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Mount Failure**
@@ -88,19 +75,6 @@ The Intrigue was praised for its comfortable interior, spacious trunk, and power
 
 ---
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door Handle Failure**
@@ -124,15 +98,3 @@ The Intrigue was praised for its comfortable interior, spacious trunk, and power
 **Summary**
 
 The 2002 Oldsmobile Intrigue has several issues that can be costly to repair, particularly engine and transmission problems. The severity of the issues varies, but some, such as intake gasket failure and timing chain tensioner failure, can lead to catastrophic engine damage if not addressed promptly. While the Intrigue offers a comfortable and spacious interior, its dated design, lack of features, and poor fuel economy are major drawbacks.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

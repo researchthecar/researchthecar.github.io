@@ -27,19 +27,6 @@ The 1993 Mitsubishi Montero is a mid-size SUV powered by a 3.0-liter V6 engine p
 > > Estimated Cost to Fix: $1,500 - $3,000+
 > > Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 > **Front upper control arm bushings:**
@@ -55,19 +42,6 @@ The 1993 Mitsubishi Montero is a mid-size SUV powered by a 3.0-liter V6 engine p
 > > Solution: Replace the alternator.
 > > Estimated Cost to Fix: $400 - $600+
 > > Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -88,15 +62,3 @@ The 1993 Mitsubishi Montero is a mid-size SUV powered by a 3.0-liter V6 engine p
 **Summary:**
 
 While the 1993 Mitsubishi Montero is a capable SUV, it is not without its issues. The most common problems lie in the transmission and engine, with potential expenses ranging from a few hundred dollars to several thousand. However, the severity of these issues varies, and many Montero owners enjoy years of reliable ownership with proper maintenance.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

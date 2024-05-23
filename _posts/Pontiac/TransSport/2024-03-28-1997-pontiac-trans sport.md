@@ -23,19 +23,6 @@ The 1997 Pontiac Trans Sport is a versatile minivan with an innovative design an
 * **Shift Solenoid Malfunction:** Delayed or harsh shifting, no upshifting. Solenoid replacement required. Estimated Cost to Fix: $200 - $500+
 * **Torque Converter Failure:** Transmission slipping, overheating. Converter replacement required. Estimated Cost to Fix: $1,000 - $1,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Lower Control Arm Bushing Wear:** Clunking noises, poor handling. Bushing replacement required. Estimated Cost to Fix: $200 - $400+
@@ -45,19 +32,6 @@ The 1997 Pontiac Trans Sport is a versatile minivan with an innovative design an
 
 * **Starter Failure:** Difficulty starting the engine. Starter replacement required. Estimated Cost to Fix: $200 - $400+
 * **Alternator Failure:** Loss of battery power. Alternator replacement required. Estimated Cost to Fix: $300 - $600+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -71,15 +45,3 @@ The 1997 Pontiac Trans Sport is a versatile minivan with an innovative design an
 **Summary:**
 
 The 1997 Pontiac Trans Sport is a practical minivan with some notable issues. Engine and transmission issues can be costly to repair, especially in later model years. Suspension and electrical problems are common, affecting handling and reliability. While interior and exterior issues are less severe and expensive, they can still impact the overall experience. Potential buyers should be aware of these potential problems and factor in the cost of repairs when considering this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -31,19 +31,6 @@ Recalls: None Found
 
 **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Front Suspension**
@@ -64,19 +51,6 @@ Solution: Diagnose and repair electrical system
 Estimated Cost to Fix: Varies depending on the issue
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 **No Issues Found**
@@ -94,15 +68,3 @@ Recalls: None Found
 **Summary**
 
 The 1991 Rolls-Royce Silver Spirit is a luxurious vehicle with a powerful engine and exquisite interior. However, it is not without its potential issues, such as intake manifold gasket failure, cylinder head warping, front suspension bushing wear, andエアコン compressor failure. These issues can be costly to fix, especially for those requiring extensive repairs or parts replacement. It is important for prospective owners to be aware of these potential problems and factor in the potential costs of maintenance and repairs when considering purchasing a Silver Spirit.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

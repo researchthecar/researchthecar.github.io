@@ -46,19 +46,6 @@ The 2002 Pontiac Grand Am is a mid-size sedan known for its sporty handling and 
     * Solution: Replace the shift linkage or lubricate the transmission.
     * Estimated Cost to Fix: $100 - $300
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -81,19 +68,6 @@ The 2002 Pontiac Grand Am is a mid-size sedan known for its sporty handling and 
     * Solution: Replace the power window switch.
     * Estimated Cost to Fix: $100 - $200
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Tail Light Lens Fade:**
@@ -111,15 +85,3 @@ The 2002 Pontiac Grand Am is a mid-size sedan known for its sporty handling and 
 **Summary:**
 
 Overall, the 2002 Pontiac Grand Am has a fair reliability record. While it has some common issues, such as intake manifold gasket failure and alternator failure, the severity and cost of these issues are generally moderate. The Grand Am provides a good balance of performance, affordability, and reliability, making it a popular choice for budget-minded drivers.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

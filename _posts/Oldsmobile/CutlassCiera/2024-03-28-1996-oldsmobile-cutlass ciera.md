@@ -44,19 +44,6 @@ The 1996 Oldsmobile Cutlass Ciera is a midsize sedan known for its comfortable r
     * Estimated Cost to Fix: $200 - $300+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -73,19 +60,6 @@ The 1996 Oldsmobile Cutlass Ciera is a midsize sedan known for its comfortable r
     * Solution: Test and replace any faulty components that are draining the battery.
     * Estimated Cost to Fix: $100 - $300+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -110,15 +84,3 @@ The 1996 Oldsmobile Cutlass Ciera is a midsize sedan known for its comfortable r
 
 **Summary**
 While the 1996 Oldsmobile Cutlass Ciera generally has a good reputation for reliability, it may experience some common issues. The most severe and costly issue is transmission slipping, which can result in the need for transmission rebuilding or replacement. Other issues such as intake manifold gasket failures, starter problems, and power window failures are less serious but still require attention and repair. Overall, the cost of these issues can vary significantly depending on the severity and the availability of replacement parts.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

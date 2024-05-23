@@ -49,19 +49,6 @@ Positive attributes of the Cabstar include its spacious cabin, comfortable seats
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Coil Spring Sag:**
@@ -83,19 +70,6 @@ Positive attributes of the Cabstar include its spacious cabin, comfortable seats
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rear Bumper Rust:**
@@ -115,15 +89,3 @@ Positive attributes of the Cabstar include its spacious cabin, comfortable seats
 **Summary**
 
 The 2014 Nissan Cabstar has been reported to have various issues, some of which can be costly to repair. Common engine problems include turbocharger failure, fuel injector issues, and DPF regeneration problems. Transmission issues include synchronizer wear in the manual transmission and shifting delays in the automated manual transmission. Suspension issues may include front coil spring sag, while electrical issues may include alternator failure and battery drain. Exterior issues may include rear bumper rust, and interior issues may include dashboard squeaks and rattles. The severity and cost of these issues vary, but some can be significant and affect the overall reliability and longevity of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

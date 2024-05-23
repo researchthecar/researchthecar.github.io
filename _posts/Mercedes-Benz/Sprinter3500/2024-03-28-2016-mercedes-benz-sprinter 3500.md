@@ -45,19 +45,6 @@ Despite its overall reputation for reliability, certain issues have been reporte
 * Estimated Cost to Fix: $3,000 - $5,000+
 * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Leaf Spring Failure:** The rear leaf springs can fail due to overloading, resulting in a sagging rear end and poor handling.
@@ -73,19 +60,6 @@ Despite its overall reputation for reliability, certain issues have been reporte
 * Solution: Identify and fix source of parasitic draw.
 * Estimated Cost to Fix: $200 - $500+
 * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -106,15 +80,3 @@ Despite its overall reputation for reliability, certain issues have been reporte
 **Summary**
 
 Overall, the 2016 Mercedes-Benz Sprinter 3500 is a reliable and capable workhorse with a long track record of success. However, like any vehicle, it is not without its flaws. The issues listed above can be a concern for owners, and the cost of repairs can vary significantly depending on the severity of the problem. Potential buyers should be aware of these issues and factor them into their decision-making process when considering the Sprinter 3500.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -28,19 +28,6 @@ Solution: The transmission fluid may need to be replaced or the transmission may
 Estimated Cost to Fix: $1,500 - $3,000+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -52,19 +39,6 @@ Description/Symptoms: The battery may drain quickly, even when the vehicle is of
 Solution: The issue is typically caused by a faulty door switch or interior light that stays on.
 Estimated Cost to Fix: $100 - $500
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -80,15 +54,3 @@ Recalls: None Found
 
 **Summary:**
 The 2013 Nissan Frontier has a few common issues, primarily related to the engine and transmission. The excessive oil consumption issue with the 4.0-liter V6 is a major concern that can lead to engine damage. The transmission may also experience issues with slipping, which can be costly to repair. Other issues, such as battery drain and dashboard trim peeling, are less severe but can still be annoying. Overall, the Frontier is a reliable truck, but potential buyers should be aware of these potential issues before making a purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

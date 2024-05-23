@@ -70,15 +70,3 @@ Recalls: N/A
 ## **Summary:**
 
 The 2014 Nissan Rogue Select has several reported issues that range in severity and cost. The most significant concerns are related to the CVT transmission, which can lead to expensive repairs. While some issues are relatively minor and affordable to fix, others, such as engine oil consumption and CVT failure, can be costly and impact the vehicle's overall reliability. It is important for potential owners to be aware of these issues before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

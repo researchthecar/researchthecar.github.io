@@ -43,19 +43,6 @@ The 2011 Volkswagen Crafter Van is a versatile and spacious van offered with a r
     - Estimated Cost to Fix: $300 - $500+
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Front Suspension Strut Failure:**
@@ -77,19 +64,6 @@ The 2011 Volkswagen Crafter Van is a versatile and spacious van offered with a r
     - Solution: Replace alternator
     - Estimated Cost to Fix: $600 - $800+
     - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -122,15 +96,3 @@ The 2011 Volkswagen Crafter Van is a versatile and spacious van offered with a r
 **Summary:**
 
 The 2011 Volkswagen Crafter Van has a range of reported issues, including engine injector and turbocharger failures, transmission clutch and solenoid malfunctions, suspension strut failure, electrical battery drain and alternator failures, exterior door lock and wiper motor issues, and interior climate control panel failure and dashboard noises. The severity and cost of these issues vary depending on the specific problem. Overall, the Crafter has a mix of minor and more severe issues, but its strengths in terms of load capacity, comfort, and safety features still make it a popular choice for many users.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

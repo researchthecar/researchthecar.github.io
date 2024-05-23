@@ -51,19 +51,6 @@ The 2007 Subaru Impreza is a compact car available in sedan and hatchback body s
     * Estimated Cost to Fix: $1,200 - $1,800+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Bearing Failure:**
@@ -98,19 +85,6 @@ The 2007 Subaru Impreza is a compact car available in sedan and hatchback body s
     * Estimated Cost to Fix: $300 - $500+
     * Recalls: NHTSA Campaign Number 14V231000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Wheel Bearing Failure:**
@@ -122,15 +96,3 @@ The 2007 Subaru Impreza is a compact car available in sedan and hatchback body s
 **Summary:**
 
 The 2007 Subaru Impreza is a reliable and capable compact car, but it is not without its issues. Engine and transmission problems can be costly to repair, but suspension and electrical issues are relatively affordable. The interior can also experience some annoying squeaks and rattles, while the exterior may face wheel bearing failures. Overall, the severity and cost of the issues with the Impreza are on par with other vehicles in its class.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

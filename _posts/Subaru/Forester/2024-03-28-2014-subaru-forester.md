@@ -41,19 +41,6 @@ The 2014 Subaru Forester is a compact SUV known for its spacious interior, off-r
     * Estimated Cost to Fix: $100 - $500
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Failure**
@@ -69,19 +56,6 @@ The 2014 Subaru Forester is a compact SUV known for its spacious interior, off-r
     * Solution: Diagnose and repair electrical system, replace battery if necessary
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -102,15 +76,3 @@ The 2014 Subaru Forester is a compact SUV known for its spacious interior, off-r
 **Summary**
 
 The 2014 Subaru Forester is generally a reliable vehicle, but it has faced some issues related to engine, transmission, and suspension components. The severity of these issues varies, with some being minor and inexpensive to fix, while others can be more significant and costly. It's important for owners to be aware of these potential problems and address them promptly to avoid further damage or safety concerns.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

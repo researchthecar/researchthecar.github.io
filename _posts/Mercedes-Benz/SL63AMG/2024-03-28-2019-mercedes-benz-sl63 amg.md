@@ -27,19 +27,6 @@ The 2019 Mercedes-Benz SL63 AMG is a high-performance convertible that combines 
     * **Estimated Cost to Fix:** $500 - $2,000+
     * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Malfunction:** Failure of air suspension components.
@@ -55,19 +42,6 @@ The 2019 Mercedes-Benz SL63 AMG is a high-performance convertible that combines 
 * **Solution:** Replace the faulty battery and/or diagnose electrical drain.
 * **Estimated Cost to Fix:** $200 - $400+
 * **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -88,15 +62,3 @@ The 2019 Mercedes-Benz SL63 AMG is a high-performance convertible that combines 
 **Summary:**
 
 While the 2019 Mercedes-Benz SL63 AMG is a highly capable sports car, it has reported issues with its engine, transmission, suspension, electrical, and interior systems. The severity and cost of these issues vary, but some can be significant. It is important for potential owners to be aware of these potential problems before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

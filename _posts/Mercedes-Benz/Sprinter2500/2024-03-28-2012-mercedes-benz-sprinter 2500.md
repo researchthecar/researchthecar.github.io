@@ -36,19 +36,6 @@ Drivers appreciate the Sprinter 2500's spacious interior, comfortable ride, and 
     * Estimated Cost to Fix: $2,000 - $4,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Leaf Spring Breakage**
@@ -70,19 +57,6 @@ Drivers appreciate the Sprinter 2500's spacious interior, comfortable ride, and 
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust on Body Panels**
@@ -102,15 +76,3 @@ Drivers appreciate the Sprinter 2500's spacious interior, comfortable ride, and 
 **Summary**
 
 The 2012 Mercedes-Benz Sprinter 2500 has been known to experience various issues, ranging from engine and transmission problems to electrical and suspension concerns. The severity and cost of these issues can vary, but some can be relatively serious and expensive to repair. Before purchasing a used Sprinter 2500, it is advisable to factor in the potential costs of these repairs and to have the vehicle inspected by a qualified mechanic.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

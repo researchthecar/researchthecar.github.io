@@ -41,19 +41,6 @@ The 2016 Subaru Impreza is a compact car offered with three engine options: a 2.
 * **Estimated Cost to Fix:** $500 - $2,000+
 * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **No Issues Found**
 
@@ -63,19 +50,6 @@ The 2016 Subaru Impreza is a compact car offered with three engine options: a 2.
 * **Solution:** Alternator or parasitic electrical drain diagnosis and repair.
 * **Estimated Cost to Fix:** $200 - $1,000+
 * **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 **Wind Noise**
@@ -93,15 +67,3 @@ The 2016 Subaru Impreza is a compact car offered with three engine options: a 2.
 
 **Summary:**
 The 2016 Subaru Impreza is generally a reliable and well-liked vehicle. However, certain issues, such as engine oil consumption, turbocharger failure, and CVT hesitations, have been reported by some owners. These issues can be costly to fix, but Subaru has not issued any recalls for them. Overall, the severity and cost of these issues vary, and many Impreza owners do not experience any significant problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

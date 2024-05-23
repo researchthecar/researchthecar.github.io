@@ -73,19 +73,6 @@ The 2016 Nissan NP300 Frontier is a mid-size pickup truck, part of the 12th gene
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf Spring U-Bolt Failure:**
@@ -107,19 +94,6 @@ The 2016 Nissan NP300 Frontier is a mid-size pickup truck, part of the 12th gene
     * Solution: Diagnose and repair the source of the battery drain, such as faulty accessories or a parasitic draw.
     * Estimated Cost to Fix: Varies depending on the source of the issue
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -146,15 +120,3 @@ The 2016 Nissan NP300 Frontier is a mid-size pickup truck, part of the 12th gene
 **Summary:**
 
 The 2016 Nissan NP300 Frontier has a few known issues that can be costly to repair. The most severe issues include timing chain failure, valve body failure, and turbocharger problems. Other issues, such as suspension wear and electrical problems, are less severe but can still diminish the driving experience. Overall, it is important for potential buyers to be aware of these potential issues before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -48,19 +48,6 @@ Drivers enjoy the Lancer's agile handling, spacious interior, and user-friendly 
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Failure:** Symptoms include excessive noise over bumps, poor handling, and uneven tire wear. Solution: Requires replacement of the front struts. Estimated Cost to Fix: $800 - $1,200+
@@ -72,19 +59,6 @@ Drivers enjoy the Lancer's agile handling, spacious interior, and user-friendly 
 * **Alternator Failure:** Symptoms include dimming headlights, loss of battery power, and a charging system warning light. Solution: Involves replacing the alternator. Estimated Cost to Fix: $500 - $800+
 * **Battery Drain:** Symptoms include a dead battery after a short period of time. Solution: Requires testing and replacing the faulty component causing the drain. Estimated Cost to Fix: Varies depending on the source of the drain
 * **Fuse Box Failure:** Symptoms include blown fuses and intermittent electrical problems. Solution: Involves replacing the faulty fuse box. Estimated Cost to Fix: $200 - $400
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -101,15 +75,3 @@ Drivers enjoy the Lancer's agile handling, spacious interior, and user-friendly 
 **Summary**
 
 The 2014 Mitsubishi Lancer has some common issues that can be costly to repair. Engine problems, such as valve body or turbocharger failures, can lead to expensive repairs. Transmission issues, including CVT fluid pump failure or DCT TCM failure, can also be significant expenses. Suspension and electrical problems, while generally less expensive, can still affect the vehicle's drivability and reliability. The overall severity and cost of these issues can vary depending on the specific problem and the mechanic performing the repairs. Regular maintenance and timely repairs are essential for ensuring the Lancer's longevity and avoiding unnecessary expenses.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -32,19 +32,6 @@ Owners of the 2016 Golf SportWagen have reported several issues with their vehic
         * **Estimated Cost to Fix:** $1,500 - $2,500
         * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Lower Control Arms:** The front lower control arms can wear prematurely, leading to rattling or clunking noises.
@@ -58,19 +45,6 @@ Owners of the 2016 Golf SportWagen have reported several issues with their vehic
     * **Solution:** The alternator must be replaced.
     * **Estimated Cost to Fix:** $500 - $1,000
     * **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -89,15 +63,3 @@ Owners of the 2016 Golf SportWagen have reported several issues with their vehic
 **Summary**
 
 The 2016 Volkswagen Golf SportWagen has been plagued by numerous issues affecting major components such as the engine, transmission, and suspension. While some issues are relatively minor and inexpensive to fix, others can be severe and require costly repairs. Potential buyers should be aware of these issues before purchasing this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -59,19 +59,6 @@ The Amarok is praised for its powerful diesel engines, rugged off-roading capabi
     * Estimated Cost to Fix: $1,000 - $1,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf Spring Failure:**
@@ -97,19 +84,6 @@ The Amarok is praised for its powerful diesel engines, rugged off-roading capabi
     * Solution: Replace alternator
     * Estimated Cost to Fix: $500 - $800+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -140,15 +114,3 @@ The Amarok is praised for its powerful diesel engines, rugged off-roading capabi
 **Summary**
 
 The 2019 Volkswagen Amarok is a capable pickup truck with powerful diesel engines and off-road capabilities. However, it is not without its issues. The most common problems reported by owners include timing chain tensioner failure, turbocharger failure, shifting issues, and tailgate latch failure. Overall, the severity of the issues is moderate, but repair costs can be expensive.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

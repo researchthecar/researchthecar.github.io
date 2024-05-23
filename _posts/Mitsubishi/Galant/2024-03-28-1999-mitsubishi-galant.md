@@ -33,19 +33,6 @@ The 1999 Mitsubishi Galant is a midsize sedan that offers a balance of performan
 
 * **No issues found.**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Bearing Failure:** The strut mount bearings can fail, causing a clunking or rattling noise when driving over bumps. Solution: Replace the strut mount bearings. Estimated Cost to Fix: $200 - $300+
@@ -58,19 +45,6 @@ The 1999 Mitsubishi Galant is a midsize sedan that offers a balance of performan
 * **Fuse Box Damage:** The fuse box can become damaged, causing electrical issues throughout the vehicle. Solution: Replace the fuse box. Estimated Cost to Fix: $100 - $200+
 * **Wiring Harness Issues:** Wiring harnesses in the engine bay can become damaged or frayed, leading to electrical gremlins. Solution: Repair or replace the damaged wiring harness. Estimated Cost to Fix: $200 - $500+
 * **ECU Failure:** The Engine Control Unit (ECU) can fail, causing the engine to run poorly or fail to start altogether. Solution: Replace the ECU. Estimated Cost to Fix: $500 - $1000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -85,15 +59,3 @@ The 1999 Mitsubishi Galant is a midsize sedan that offers a balance of performan
 **Summary:**
 
 While the 1999 Mitsubishi Galant offers a comfortable ride and affordable price point, it has some potential reliability concerns. Common engine issues include intake manifold gasket failure, CKP sensor failure, and EGR valve sticking. The transmission may experience slippage, while the suspension can suffer from strut mount bearing and control arm bushing failure. Electrical problems range from alternator failure to ECU issues. Other notable issues include door handle corrosion, tail light circuit board failure, seat heater failure, and climate control failure. Potential buyers should be aware of these potential problems and factor in the cost of repairs into their decision-making process.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

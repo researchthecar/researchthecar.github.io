@@ -36,19 +36,6 @@ Owners of the 2006 Volkswagen Touareg generally praise its comfortable interior,
         * Estimated Cost to Fix: $2,000 - $3,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air suspension failure**
@@ -70,19 +57,6 @@ Owners of the 2006 Volkswagen Touareg generally praise its comfortable interior,
     * Estimated Cost to Fix: $500 - $800+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Sunroof leaks**
@@ -102,15 +76,3 @@ Owners of the 2006 Volkswagen Touareg generally praise its comfortable interior,
 **Summary**
 
 While the 2006 Volkswagen Touareg offers a compelling combination of performance and features, it is not without its issues. The vehicle has been plagued by a number of engine, transmission, and electrical problems that can be expensive to fix. Additionally, the Touareg's air suspension system and sunroof are known to experience issues. Overall, the severity and cost of the Touareg's issues are significant and should be considered before purchasing this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

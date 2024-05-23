@@ -51,19 +51,6 @@ The Cutlass Cruiser was known for its spacious interior, comfortable ride, and p
         * Estimated Cost to Fix: $1,000 - $2,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension**
@@ -91,19 +78,6 @@ The Cutlass Cruiser was known for its spacious interior, comfortable ride, and p
     * Solution: Replace ignition coil
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -134,15 +108,3 @@ The Cutlass Cruiser was known for its spacious interior, comfortable ride, and p
 **Summary**
 
 The 1991 Oldsmobile Cutlass Cruiser is a reliable and comfortable station wagon that has some potential issues that should be considered before purchasing. The most severe and costly issues are related to the engine, such as head gasket failure and valve cover gasket leaks. The transmission can also experience problems with slipping gears. Other issues, such as intake manifold gasket failures, suspension problems, and electrical issues, are less severe but can still be costly to fix.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

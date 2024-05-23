@@ -39,19 +39,6 @@ Owners praise the Golf Alltrack for its spacious interior, comfortable ride, and
 * **Transmission slipping:** Symptoms include hesitation or delayed gear shifting, and loss of power. Solution: Overhaul or replace transmission. Estimated Cost to Fix: $2,000 - $4,000+
 * **Mechatronic unit failure:** Can cause transmission problems, including difficulty shifting and loss of power. Solution: Replace mechatronic unit. Estimated Cost to Fix: $1,500 - $2,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut bearing failure:** Symptoms include clunking noises and reduced steering response. Solution: Replace strut bearings. Estimated Cost to Fix: $300 - $500+
@@ -60,19 +47,6 @@ Owners praise the Golf Alltrack for its spacious interior, comfortable ride, and
 
 * **Electrical harness issues:** Can cause various electrical problems, such as flickering lights, non-functioning gauges, and battery drain. Solution: Repair or replace electrical harness. Estimated Cost to Fix: $500 - $1,500+
 * **Battery problems:** Symptoms include difficulty starting, dead battery, and reduced electrical power. Solution: Replace battery. Estimated Cost to Fix: $100 - $200+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -87,15 +61,3 @@ Owners praise the Golf Alltrack for its spacious interior, comfortable ride, and
 **Summary:**
 
 The 2019 Volkswagen Golf Alltrack is a reliable vehicle overall, but it has been reported to have some issues with its engine, transmission, suspension, and electrical system. These issues can vary in severity and cost to fix. However, with proper maintenance and repairs, the Golf Alltrack can be a reliable and enjoyable vehicle to own.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

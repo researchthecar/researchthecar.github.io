@@ -25,19 +25,6 @@ The 2008 Tesla Roadster was the first production electric sports car. It was pow
   * **Estimated Cost to Fix:** $3,000 - $5,000+
   * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Issue:** Front suspension failure
@@ -59,19 +46,6 @@ The 2008 Tesla Roadster was the first production electric sports car. It was pow
   * **Estimated Cost to Fix:** $5,000 - $7,000+
   * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Issue:** Door handle failure
@@ -91,15 +65,3 @@ The 2008 Tesla Roadster was the first production electric sports car. It was pow
 **Summary:**
 
 The 2008 Tesla Roadster is a pioneering electric sports car with a reputation for performance and innovation. However, it has also been plagued by a number of issues, particularly related to its electric motor, gearbox, and electrical system. These issues can be expensive to fix, ranging from $500 to over $15,000. While the Roadster is a groundbreaking vehicle, potential buyers should be aware of its potential reliability concerns.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

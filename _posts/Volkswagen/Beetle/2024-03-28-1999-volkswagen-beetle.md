@@ -55,19 +55,6 @@ The 1999 Volkswagen Beetle is a retro-inspired compact car that pays homage to t
   Estimated Cost to Fix: $500 - $800
   Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Strut Mount Failure**
@@ -83,19 +70,6 @@ The 1999 Volkswagen Beetle is a retro-inspired compact car that pays homage to t
   Solution: Replace window motor or switch
   Estimated Cost to Fix: $200 - $400 per window
   Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -121,15 +95,3 @@ The 1999 Volkswagen Beetle is a retro-inspired compact car that pays homage to t
 **Summary:**
 
 The 1999 Volkswagen Beetle is generally a reliable car, but it has been known to experience a range of issues, including engine and transmission problems. The severity and cost of these issues can vary depending on the specific problem and the year of the model. It is important to note that the issues listed here are not exhaustive and that other problems may occur.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -29,19 +29,6 @@ The 2015 Mercedes-Benz Gran Viale RF is a luxury convertible that combines elega
 * Estimated Cost to Fix: $2,500 - $4,000+
 * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Problem:** Premature wear of front suspension components
@@ -57,19 +44,6 @@ The 2015 Mercedes-Benz Gran Viale RF is a luxury convertible that combines elega
 * Solution: Software update or replacement of the navigation unit.
 * Estimated Cost to Fix: $500 - $1,000+
 * Recalls: MBZ-15-008
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -90,15 +64,3 @@ The 2015 Mercedes-Benz Gran Viale RF is a luxury convertible that combines elega
 **Summary**
 
 The 2015 Mercedes-Benz Gran Viale RF generally has a good reputation for reliability and performance. However, it has experienced some issues with excessive oil consumption, transmission problems, electrical malfunctions, and suspension wear. These issues can be costly to repair, so potential buyers should be aware of these potential expenses when considering this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

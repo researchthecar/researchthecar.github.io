@@ -35,19 +35,6 @@ Solution: Rebuild or replacement of the transmission.
 Estimated Cost to Fix: $2,000 - $4,000+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Lower Control Arm Bushings**
@@ -63,19 +50,6 @@ Description/Symptoms: Rapid battery discharge or failure in cold weather or afte
 Solution: Replacement of the battery or alternator.
 Estimated Cost to Fix: $200 - $600+
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -96,15 +70,3 @@ Recalls: None Found
 **Summary:**
 
 The 2018 Volkswagen Workline has faced several reported issues, primarily affecting the engine, transmission, and exterior components. While some issues, like the timing chain tensioner failure, are relatively severe and costly to repair, others, such as the radio malfunction, are less significant. Overall, the cost of repairs for the reported issues can vary widely, potentially impacting the vehicle's reliability and long-term ownership costs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

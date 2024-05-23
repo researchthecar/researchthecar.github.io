@@ -23,19 +23,6 @@ tags: ["Toyota", "MR2 Spyder", "2001"]
         * Estimated Cost to Fix: $500 - $1,000
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Rear Suspension Bushing Failure**
         * Description/Symptoms: Premature failure of the rear suspension bushings, leading to excessive noise, vibrations, and poor handling.
@@ -49,19 +36,6 @@ tags: ["Toyota", "MR2 Spyder", "2001"]
         * Solution: Replacing the alternator.
         * Estimated Cost to Fix: $300 - $500
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Convertible Top Issues**
@@ -78,15 +52,3 @@ tags: ["Toyota", "MR2 Spyder", "2001"]
         * Recalls: None Found
 
 **Summary:** The 2001 Toyota MR2 Spyder is a capable sports car with some known issues. The most severe and expensive issues are related to the engine (oil consumption) and the convertible top (malfunctions and leaks). Other issues, such as suspension bushing failure and electrical problems, are relatively minor and less costly to fix. Overall, the MR2 Spyder is a reliable and enjoyable vehicle, but potential buyers should be aware of these potential issues before making a purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

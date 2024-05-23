@@ -25,19 +25,6 @@ The 2021 Nissan Frontier is a mid-size pickup truck that offers a powerful 3.8-l
     * **Estimated Cost to Fix:** $1,000 - $3,000+
     * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -48,19 +35,6 @@ The 2021 Nissan Frontier is a mid-size pickup truck that offers a powerful 3.8-l
 * **Solution:** Diagnose and repair or replace the affected harness.
 * **Estimated Cost to Fix:** $500 - $2,000+
 * **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -79,15 +53,3 @@ The 2021 Nissan Frontier is a mid-size pickup truck that offers a powerful 3.8-l
 **Summary**
 
 While the 2021 Nissan Frontier offers a powerful and practical pickup option, it has faced some notable issues. The engine and transmission problems can be expensive to repair, while electrical and exterior issues can affect comfort and functionality. However, the lack of major suspension issues and the generally good interior quality are positive aspects to consider.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -32,19 +32,6 @@ While the Polo is generally praised for its driving dynamics and interior space,
     * **Mechatronic unit failure:** Symptoms include a malfunction indicator light (MIL) illumination, shifting problems, and reduced engine power. The solution is to replace the mechatronic unit. **Estimated Cost to Fix:** $2,500 - $4,000+
     * **Torque converter failure:** Symptoms include a loss of power, slipping or shuddering when driving, and a burning smell. The solution is to replace the torque converter. **Estimated Cost to Fix:** $1,500 - $2,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension strut mount failure:** Symptoms include a clunking or rattling sound when driving over bumps, especially at low speeds. The solution is to replace the strut mounts. **Estimated Cost to Fix:** $200 - $400+
@@ -54,19 +41,6 @@ While the Polo is generally praised for its driving dynamics and interior space,
 
 * **Battery drain issue:** Some owners have reported a battery drain issue, causing the vehicle to have difficulty starting or losing power. The solution varies depending on the underlying cause and may involve replacing electrical components or updating the software. **Estimated Cost to Fix:** $200 - $1,000+
 * **Electrical gremlins:** Some owners have experienced electrical issues, such as flickering lights or malfunctioning indicators. The solution varies depending on the specific issue and may involve replacing electrical components or updating the software. **Estimated Cost to Fix:** $100 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -82,15 +56,3 @@ While the Polo is generally praised for its driving dynamics and interior space,
 **Summary**
 
 The 2014 Volkswagen Polo has been praised for its driving experience and fuel efficiency, but it has also faced reported issues. While some issues are minor and inexpensive to fix, others can be more severe and costly. Owners should be aware of these potential issues and factor them into their ownership experience.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -38,19 +38,6 @@ The 2015 Volkswagen Crafter Van is a versatile and capable commercial vehicle th
     * Estimated Cost to Fix: $2,500 - $3,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Struts:** Premature wear of the front suspension struts, causing a rough ride and reduced handling.
@@ -64,19 +51,6 @@ The 2015 Volkswagen Crafter Van is a versatile and capable commercial vehicle th
     * Solution: Diagnosis of the electrical system and replacement of faulty components.
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -99,15 +73,3 @@ The 2015 Volkswagen Crafter Van is a versatile and capable commercial vehicle th
 **Summary:**
 
 The 2015 Volkswagen Crafter Van generally faces minor issues that can be resolved at a moderate cost. However, some problems, such as mechatronic unit failure or turbocharger issues, can be more severe and expensive to repair. It's crucial to provide regular maintenance and address any issues promptly to ensure the vehicle's longevity and reliability.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

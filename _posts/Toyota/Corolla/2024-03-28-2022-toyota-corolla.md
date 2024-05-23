@@ -35,19 +35,6 @@ Despite its popularity, the 2022 Toyota Corolla has had some reported issues.
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -57,19 +44,6 @@ Despite its popularity, the 2022 Toyota Corolla has had some reported issues.
 * **Faulty Wiring Harness:** Some vehicles have experienced electrical issues due to a faulty wiring harness. The symptoms can include flickering lights, power outages, and engine stalling. The solution is to replace the wiring harness.
 * **Estimated Cost to Fix:** $500 - $1,000
 * **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -86,15 +60,3 @@ Despite its popularity, the 2022 Toyota Corolla has had some reported issues.
 **Summary**
 
 While the 2022 Toyota Corolla is generally a reliable vehicle, there have been some reported issues. The most severe and expensive issue is the valve spring failure on the 1.8-liter engine, which has been the subject of a recall. Other issues include premature CVT failure, faulty wiring harnesses, door handle malfunctions, and climate control malfunctions. It's important to note that these issues may not affect all vehicles and that the severity and cost of repairs can vary depending on specific circumstances.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

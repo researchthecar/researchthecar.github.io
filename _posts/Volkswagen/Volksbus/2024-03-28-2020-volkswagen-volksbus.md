@@ -17,19 +17,6 @@ Owners of the 2020 Volkswagen Volksbus appreciate its spacious interior, comfort
 **Transmission**
 * Six-Speed Automatic
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Leaking Shock Absorbers**
 Description/Symptoms: Excessive oil leakage around the top of the shock absorbers, resulting in a loss of damping and stability.
@@ -49,19 +36,6 @@ Description/Symptoms: Engine stalling, poor performance, and potential damage to
 Solution: Replacement of the faulty ECM.
 Estimated Cost to Fix: $1,000 - $1,500+
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Rusting Brake Rotors**
@@ -91,15 +65,3 @@ Recalls: None Found
 
 **Summary**
 While the 2020 Volkswagen Volksbus offers a spacious and enjoyable ride, it has been plagued by a number of issues that can be costly to repair. The leaking shock absorbers, faulty engine control module, and premature rust can impact the vehicle's safety and reliability. Additionally, the malfunctioning climate control system and squeaky dashboard can lead to discomfort and inconvenience. Overall, the severity and cost of these issues should be considered carefully before purchasing or leasing a 2020 Volkswagen Volksbus.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

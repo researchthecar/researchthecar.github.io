@@ -52,19 +52,6 @@ The Tracer was known for its fuel efficiency, affordability, and reliability. Ho
     * Estimated Cost to Fix: $1,000 - $2,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front struts leaking**
@@ -91,19 +78,6 @@ The Tracer was known for its fuel efficiency, affordability, and reliability. Ho
     * Estimated Cost to Fix: $100 - $300
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust**
@@ -123,15 +97,3 @@ The Tracer was known for its fuel efficiency, affordability, and reliability. Ho
 **Overall Summary**
 
 The 1990 Mercury Tracer is a reliable and affordable car, but it is not without its problems. Some of the most common issues include blown head gaskets, intake manifold gasket failure, timing belt failure, grinding gears, slipping gears, leaking struts, and a battery drain. The severity and cost of these issues vary, but overall, the Tracer is a good value for the money.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

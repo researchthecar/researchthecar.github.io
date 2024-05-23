@@ -55,19 +55,6 @@ The 2011 Volkswagen Saveiro is a compact pickup truck that offers a blend of uti
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -94,19 +81,6 @@ The 2011 Volkswagen Saveiro is a compact pickup truck that offers a blend of uti
     * Solution: Replace battery
     * Estimated Cost to Fix: $100 - $300
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -137,15 +111,3 @@ The 2011 Volkswagen Saveiro is a compact pickup truck that offers a blend of uti
 **Overall Summary:**
 
 The 2011 Volkswagen Saveiro is a practical and affordable pickup truck but has some reliability concerns. The most common issues seem to revolve around the engine, transmission, and suspension, with potential costs to fix ranging from minor to major. While the Saveiro is generally a reliable vehicle, potential buyers should be aware of these potential issues before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

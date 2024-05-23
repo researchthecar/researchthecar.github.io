@@ -47,19 +47,6 @@ Despite its positive attributes, the 2002 Lancer has been met with some common i
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mounts Deterioration:**
@@ -75,19 +62,6 @@ Despite its positive attributes, the 2002 Lancer has been met with some common i
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $500 - $800
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -108,15 +82,3 @@ Despite its positive attributes, the 2002 Lancer has been met with some common i
 **Summary:**
 
 While the 2002 Mitsubishi Lancer offers a solid balance of performance and affordability, it is not without its fair share of issues. These issues range in severity from minor inconveniences to potentially significant mechanical failures. Costs to repair these issues can be substantial, particularly for major components like the transmission or engine. Buyers should be aware of these potential problems and consider the associated repair costs when making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -51,15 +51,3 @@ The 1991 Mercury Tracer is a compact sedan that was available with two engine op
 ### Summary
 
 The 1991 Mercury Tracer is a reliable and affordable compact sedan with a few common issues. The most severe and expensive issue is transmission slippage, which can cost up to $2,500 to fix. Other issues, such as intake manifold gasket failure and alternator failure, are less severe and less expensive to fix. Overall, the Tracer is a good value for its price, but it is important to be aware of these potential issues before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

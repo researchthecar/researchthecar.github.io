@@ -34,19 +34,6 @@ The 2009 Mercedes-Benz E63 AMG is a high-performance sedan powered by a naturall
     * Estimated Cost to Fix: $1,500 - $2,500
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension**
@@ -65,19 +52,6 @@ The 2009 Mercedes-Benz E63 AMG is a high-performance sedan powered by a naturall
 **Electrical**
 
 * **No Issues Found**
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -99,15 +73,3 @@ The 2009 Mercedes-Benz E63 AMG is a high-performance sedan powered by a naturall
 **Summary**
 
 While the 2009 Mercedes-Benz E63 AMG is a desirable performance sedan, it has experienced some issues that can be costly to repair. The most significant issues include intake manifold failure, valve seat recession, and torque converter shudder. However, it's important to note that these issues are not universal and many E63 AMG owners have reported no major problems with their vehicles.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

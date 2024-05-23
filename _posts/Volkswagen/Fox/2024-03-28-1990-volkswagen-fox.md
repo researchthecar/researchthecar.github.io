@@ -41,19 +41,6 @@ The Fox was praised for its affordability, fuel efficiency, and handling. Howeve
     * Estimated Cost to Fix: $600 - $1,200
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension Issues**
 
 * **Front strut failure:** The front struts can wear out, causing a loss of ride quality and handling.
@@ -74,19 +61,6 @@ The Fox was praised for its affordability, fuel efficiency, and handling. Howeve
 * **Battery failure:** The battery can fail, preventing the vehicle from starting or causing electrical problems.
     * Solution: Replace the battery.
     * Estimated Cost to Fix: $100 - $200
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior Issues**
 
@@ -110,15 +84,3 @@ The Fox was praised for its affordability, fuel efficiency, and handling. Howeve
 **Summary**
 
 The 1990 Volkswagen Fox is a reliable and affordable vehicle, but it does have some common issues that owners should be aware of. The most severe issues include engine oil leaks, transmission clutch failure, and suspension strut failure. The estimated cost to fix these issues ranges from $200 to $1,200.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

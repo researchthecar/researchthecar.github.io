@@ -51,19 +51,6 @@ The 2014 Mercedes-Benz Torino is a luxury SUV that offers a comfortable and spac
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Compressor Failure:**
@@ -92,19 +79,6 @@ The 2014 Mercedes-Benz Torino is a luxury SUV that offers a comfortable and spac
     * Estimated Cost to Fix: $200 - $1,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **No Issues Found**
@@ -128,15 +102,3 @@ The 2014 Mercedes-Benz Torino is a luxury SUV that offers a comfortable and spac
 The 2014 Mercedes-Benz Torino offers a comfortable and luxurious driving experience, but it is not without its potential issues. Engine problems, such as oil leaks and timing chain failures, can be costly to fix. Transmission issues, while less common, can also result in significant repair expenses. Suspension problems, including air suspension compressor and strut mount bearing failures, can negatively impact ride quality and handling. Electrical issues can range from minor battery drain to more severe electrical harness damage. Interior issues may include sunroof rattles and rear seat entertainment system malfunctions.
 
 Overall, the severity and cost of the potential issues with the 2014 Mercedes-Benz Torino can vary depending on the specific problem. Regular maintenance and timely repairs are essential to minimize the risk of experiencing major issues and ensure the longevity of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

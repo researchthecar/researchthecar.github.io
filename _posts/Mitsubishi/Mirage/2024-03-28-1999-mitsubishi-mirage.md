@@ -37,19 +37,6 @@ The 1999 Mitsubishi Mirage is a subcompact sedan that is known for its fuel effi
     Estimated Cost to Fix: $1,000 - $2,000+
     Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -61,19 +48,6 @@ The 1999 Mitsubishi Mirage is a subcompact sedan that is known for its fuel effi
     Solution: Replace alternator
     Estimated Cost to Fix: $250 - $400+
     Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -94,15 +68,3 @@ The 1999 Mitsubishi Mirage is a subcompact sedan that is known for its fuel effi
 **Summary**
 
 The 1999 Mitsubishi Mirage is a reliable and affordable vehicle, but it has some common issues that can be costly to repair. Engine issues, such as valve stem seal failure, can lead to excessive oil consumption and other problems. Transmission problems, such as shift linkage issues and transmission slipping, can also be costly to fix. Electrical issues and interior issues are generally less severe and less expensive to fix. Overall, the Mirage is a good choice for budget-minded consumers who are aware of its potential issues and are willing to maintain it properly.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

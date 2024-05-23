@@ -34,19 +34,6 @@ The 2017 Mercedes-Benz Gran Viale LE is a versatile cargo van that offers ample 
     * Estimated Cost to Fix: $3,000 - $5,000+
     * Recalls: None found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Front suspension noise:**
     * Description/Symptoms: Knocking or rattling noises when driving over rough roads
@@ -65,19 +52,6 @@ The 2017 Mercedes-Benz Gran Viale LE is a versatile cargo van that offers ample 
     * Solution: Replace the alternator
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Tailgate misalignment:**
@@ -105,15 +79,3 @@ The 2017 Mercedes-Benz Gran Viale LE is a versatile cargo van that offers ample 
 
 **Summary**
 The 2017 Mercedes-Benz Gran Viale LE is a reliable and capable cargo van that offers good performance and a comfortable interior. However, it is not immune to some common issues that can affect the ownership experience. While the engine and transmission offer solid performance, they may encounter issues such as turbocharger failure and delayed gear shifting. Other potential concerns include suspension noise, electrical problems, and various exterior and interior issues. The severity and cost of these issues vary, but they are generally considered to be within the expected range for vehicles of this type and age.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

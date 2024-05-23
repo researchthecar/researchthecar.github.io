@@ -66,15 +66,3 @@ Estimated Cost to Fix: $500 - $1,500+
 ## Summary
 
 The 2016 Mercedes-Benz G65 AMG is a powerful and luxurious SUV with exceptional off-road capabilities. However, it is not without potential issues. The engine can experience valve stem seal failures and fuel injector problems, while the electrical system may occasionally develop battery drain issues or gremlins. The interior can suffer from HVAC malfunctions and sunroof leaks, but these are less common. Overall, the G65 AMG is a reliable and well-built vehicle, but potential owners should be aware of the potential issues discussed above.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

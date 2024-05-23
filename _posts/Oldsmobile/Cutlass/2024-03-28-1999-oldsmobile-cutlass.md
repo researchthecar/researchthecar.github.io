@@ -51,19 +51,6 @@ The 1999 Oldsmobile Cutlass is a mid-sized sedan available with a choice of two 
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Mount Bearing Failure**
@@ -85,19 +72,6 @@ The 1999 Oldsmobile Cutlass is a mid-sized sedan available with a choice of two 
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Taillight Lens Cracking**
@@ -117,15 +91,3 @@ The 1999 Oldsmobile Cutlass is a mid-sized sedan available with a choice of two 
 **Summary:**
 
 The 1999 Oldsmobile Cutlass has some known issues, particularly with its engine and transmission. The most serious issues, such as intake manifold gasket failure and torque converter failure, can be costly to repair. However, many of the other issues are less severe and relatively inexpensive to fix. Overall, the Cutlass's reliability is below average for its class, but it remains a comfortable and spacious vehicle for those willing to accept its shortcomings.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

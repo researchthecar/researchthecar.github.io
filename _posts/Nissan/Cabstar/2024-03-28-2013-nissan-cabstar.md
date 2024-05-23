@@ -21,19 +21,6 @@ The 2013 Nissan Cabstar is a versatile light commercial vehicle available in var
 * **6-Speed Automatic**
     * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension**
@@ -51,19 +38,6 @@ The 2013 Nissan Cabstar is a versatile light commercial vehicle available in var
 * **Battery:**
     * **Premature Failure:** Batteries can prematurely fail due to overcharging, excessive heat, or age. Replacing the battery fixes the issue.
     * **Estimated Cost to Fix:** $100 - $200+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -83,15 +57,3 @@ The 2013 Nissan Cabstar is a versatile light commercial vehicle available in var
 **Summary:**
 
 Overall, the 2013 Nissan Cabstar faces some issues that vary in severity and cost to fix. Suspension and electrical problems are relatively common, while engine and transmission issues are less frequent. The cost of repairs can range from minor to significant, so it's essential to consider these potential expenses when considering this vehicle for commercial use.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

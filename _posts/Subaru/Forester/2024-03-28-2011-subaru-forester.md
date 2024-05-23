@@ -56,19 +56,6 @@ People who like the Subaru Forester appreciate its spacious interior, off-road c
     * Estimated Cost to Fix: $0 - $200+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front strut failure**
@@ -94,19 +81,6 @@ People who like the Subaru Forester appreciate its spacious interior, off-road c
     * Solution: Replace engine control unit (ECU).
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -137,15 +111,3 @@ People who like the Subaru Forester appreciate its spacious interior, off-road c
 **Summary**
 
 The 2011 Subaru Forester is a generally reliable vehicle, but some owners have experienced issues with its engine, transmission, suspension, electrical system, exterior, and interior. The severity of the issues varies, with some being minor and inexpensive to fix, while others are more serious and costly. It is important to note that not all Foresters will experience these issues, and individual experiences may differ.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

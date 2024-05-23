@@ -34,19 +34,6 @@ The 2008 Mercedes-Benz S63 AMG is a high-performance luxury sedan powered by a 6
         * Estimated Cost to Fix: $2,500 - $5,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Compressor Failure:**
@@ -62,19 +49,6 @@ The 2008 Mercedes-Benz S63 AMG is a high-performance luxury sedan powered by a 6
     * Solution: Battery replacement or alternator repair
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -95,15 +69,3 @@ The 2008 Mercedes-Benz S63 AMG is a high-performance luxury sedan powered by a 6
 **Summary:**
 
 The 2008 Mercedes-Benz S63 AMG is a powerful and luxurious vehicle, but it has had its share of reliability issues. Engine and transmission problems can be costly to repair, while suspension and electrical issues can also be frustrating. The interior and exterior issues are generally less severe and less expensive to fix. Overall, the S63 AMG is a high-maintenance vehicle that requires a significant investment to keep it running properly.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

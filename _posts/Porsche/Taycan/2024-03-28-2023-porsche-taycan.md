@@ -25,19 +25,6 @@ Solution: Rebooting the system, software updates, or replacing electrical compon
 Estimated Cost to Fix: $100 - $1,000+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Windshield Wiper Problems:** Premature wear of the windshield wiper blades, resulting in streaks and reduced visibility.
@@ -57,15 +44,3 @@ Recalls: None Found
 **Summary:**
 
 While the 2023 Porsche Taycan overall has impressive reliability, it has been reported to have some electrical and minor exterior issues. Battery degradation is the most significant and costly issue, so it's crucial to consider its potential impact on long-term ownership costs. Electrical system malfunctions and windshield wiper problems are less severe and can be resolved at a reasonable cost. The panoramic roof issues have also been reported but are not widespread.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -23,19 +23,6 @@ The 2012 Mercedes-Benz CL65 AMG is a high-performance luxury coupe powered by a 
 * **Transmission Slipping:** Symptoms include difficulty shifting gears, loss of power, or shuddering during acceleration. Solution: Rebuild or replace the transmission. Estimated Cost to Fix: $2,500 - $4,000+
 * **Torque Converter Failure:** Symptoms include shuddering, stalling, or slipping. Solution: Replace the torque converter. Estimated Cost to Fix: $1,500 - $2,500
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Spring Leaks:** Symptoms include uneven ride height, reduced ground clearance, or a grinding noise. Solution: Replace the faulty air springs. Estimated Cost to Fix: $500 - $1,000+ per air spring
@@ -44,19 +31,6 @@ The 2012 Mercedes-Benz CL65 AMG is a high-performance luxury coupe powered by a 
 
 * **Battery Drain:** Symptoms include a dead battery, difficulty starting the vehicle, or flickering lights. Solution: Diagnose and repair electrical system. Estimated Cost to Fix: $100 - $500+
 * **Electrical Module Failures:** Various electrical modules, such as the body control module or navigation system, can malfunction, causing a range of issues. Solution: Replace or repair the faulty module. Estimated Cost to Fix: $500 - $1,500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -70,15 +44,3 @@ The 2012 Mercedes-Benz CL65 AMG is a high-performance luxury coupe powered by a 
 **Summary:**
 
 Overall, the 2012 Mercedes-Benz CL65 AMG is a highly capable and impressive vehicle. However, it is important to be aware of the potential issues that some owners have experienced. The severity and cost of these issues can vary, but they should be taken into consideration when making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

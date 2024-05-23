@@ -34,19 +34,6 @@ The 1995 Mercedes-Benz C36 AMG was the first AMG-branded vehicle to be sold in t
         * Estimated Cost to Fix: $2,000 - $4,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -54,19 +41,6 @@ The 1995 Mercedes-Benz C36 AMG was the first AMG-branded vehicle to be sold in t
 **Electrical**
 
 * **No Issues Found**
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -88,15 +62,3 @@ The 1995 Mercedes-Benz C36 AMG was the first AMG-branded vehicle to be sold in t
 **Summary**
 
 The 1995 Mercedes-Benz C36 AMG is a reliable vehicle with a few common issues. The most serious issues are the head gasket failure and the valve stem seal failure, which can both be expensive to repair. However, the C36 AMG is still a desirable car for enthusiasts who appreciate its performance and handling.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -39,19 +39,6 @@ The 2018 Mercedes-Benz Torino is a luxury four-door sedan powered by a 3.0L V6 b
     * Estimated Cost to Fix: $1200 - $1800+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Leaks:** The air suspension system may develop leaks in the air lines or bags, leading to sagging or reduced ride height.
@@ -74,19 +61,6 @@ The 2018 Mercedes-Benz Torino is a luxury four-door sedan powered by a 3.0L V6 b
     * Estimated Cost to Fix: $500 - $1000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Sunroof Rattle:** The sunroof may develop a rattling noise, especially over rough roads.
@@ -104,15 +78,3 @@ The 2018 Mercedes-Benz Torino is a luxury four-door sedan powered by a 3.0L V6 b
 **Summary:**
 
 The 2018 Mercedes-Benz Torino is a luxurious and technologically advanced vehicle, but it has faced some reliability issues. The engine and transmission issues are potentially costly to fix, while the electrical and exterior issues are less severe and may be less expensive to address. Overall, the Torino's impressive features and capabilities should be weighed against the potential maintenance costs associated with some of its components.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

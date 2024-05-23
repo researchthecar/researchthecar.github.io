@@ -55,19 +55,6 @@ The 1995 Pontiac Grand Prix is a mid-size front-wheel drive coupe with a V6 engi
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Sway Bar Link Failure:**
@@ -94,19 +81,6 @@ The 1995 Pontiac Grand Prix is a mid-size front-wheel drive coupe with a V6 engi
     * Estimated Cost to Fix: $300 - $500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Corrosion of Body Panels:**
@@ -131,15 +105,3 @@ The 1995 Pontiac Grand Prix is a mid-size front-wheel drive coupe with a V6 engi
 **Summary**
 
 The 1995 Pontiac Grand Prix is a stylish and powerful coupe with some known mechanical issues. The most common problems affect the engine, transmission, and electrical system, with costs ranging from minor repairs to major overhauls. Despite these issues, the Grand Prix remains a popular choice for those who appreciate its distinctive design and strong performance.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

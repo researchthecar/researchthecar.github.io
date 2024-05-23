@@ -41,19 +41,6 @@ The 2017 Toyota Highlander is a popular midsize SUV known for its reliability, s
         * Estimated Cost to Fix: $200 - $500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Noise**
@@ -74,19 +61,6 @@ The 2017 Toyota Highlander is a popular midsize SUV known for its reliability, s
     * Solution: Re-calibrate or replace cruise control module.
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -112,15 +86,3 @@ The 2017 Toyota Highlander is a popular midsize SUV known for its reliability, s
 **Summary**
 
 The 2017 Toyota Highlander generally has good reliability ratings, but it is not immune to some common issues. While certain engine and transmission problems can be costly to fix, they do not appear to be widespread. Electrical, exterior, and interior issues are typically less severe and more affordable to repair. Overall, the Highlander remains a reliable and versatile midsize SUV.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

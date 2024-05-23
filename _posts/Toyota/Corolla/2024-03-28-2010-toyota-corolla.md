@@ -42,19 +42,6 @@ The 2010 Toyota Corolla is a compact sedan known for its reliability, fuel effic
 * **2.4-liter 4-cylinder with 4-speed automatic transmission**
     * No Issues Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front struts leaking**
@@ -79,19 +66,6 @@ The 2010 Toyota Corolla is a compact sedan known for its reliability, fuel effic
     * Solution: Replacing the alternator.
     * Estimated Cost to Fix: $500 - $800
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Front bumper cover fading**
@@ -114,15 +88,3 @@ The 2010 Toyota Corolla is a compact sedan known for its reliability, fuel effic
 **Summary**
 
 Overall, the 2010 Toyota Corolla is a reliable and affordable vehicle. However, like any car, it has some potential issues to be aware of. The most common issues are related to oil consumption, transmission problems, and suspension leaks. Repair costs can range from $200 to over $3,000, depending on the severity of the issue.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

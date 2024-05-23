@@ -45,19 +45,6 @@ The 2006 Porsche Boxster is a two-seat, mid-engine sports car known for its agil
     - Estimated Cost to Fix: $500 - $1,000
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Rear Suspension Arm Bushing Failure:**
@@ -80,19 +67,6 @@ The 2006 Porsche Boxster is a two-seat, mid-engine sports car known for its agil
     - Estimated Cost to Fix: Varies depending on the cause
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior:**
 
 * **Rear Spoiler Failure:**
@@ -112,15 +86,3 @@ The 2006 Porsche Boxster is a two-seat, mid-engine sports car known for its agil
 **Summary:**
 
 The 2006 Porsche Boxster is a capable sports car, but it is not without its issues. The most serious problem is the intermediate shaft bearing failure in the 2.7-liter engine, which can be catastrophic and expensive to fix. Other common issues include the VarioCam adjuster failure in the 3.2-liter engine, torque converter failure in the five-speed automatic transmission, and alternator and battery discharge issues in the electrical system. While many of these issues can be fixed for relatively low cost, the potential for a major engine failure is a significant concern.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

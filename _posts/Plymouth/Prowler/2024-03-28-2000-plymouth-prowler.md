@@ -29,19 +29,6 @@ The 2000 Plymouth Prowler is a two-seat roadster powered by a 3.5L V6 engine pai
         * Estimated Cost to Fix: $1,000 - $2,500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arms:**
@@ -65,19 +52,6 @@ The 2000 Plymouth Prowler is a two-seat roadster powered by a 3.5L V6 engine pai
     * Estimated Cost to Fix: $500 - $800+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Convertible Top Problems:**
@@ -98,15 +72,3 @@ The 2000 Plymouth Prowler is a two-seat roadster powered by a 3.5L V6 engine pai
 **Summary:**
 
 While the 2000 Plymouth Prowler has itsの魅力 and performance, it is not without its issues. Common problems include leaking intake manifold gaskets, harsh shifting transmission, worn front control arms, electrical failures, convertible top issues, and heater core leaks. The severity and cost of these repairs vary, but some can be quite costly, especially the transmission and interior repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

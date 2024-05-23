@@ -38,19 +38,6 @@ The 2020 Mercedes-Benz CLA35 AMG is a performance-oriented compact sedan powered
 
 - **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 - **Strut Mount Bearing Failure:**
@@ -77,19 +64,6 @@ The 2020 Mercedes-Benz CLA35 AMG is a performance-oriented compact sedan powered
     - Estimated Cost to Fix: $500 - $2,000+
     - Recalls: MB20-43
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior:**
 
 - **Sunroof Panel Leaks:**
@@ -114,15 +88,3 @@ The 2020 Mercedes-Benz CLA35 AMG is a performance-oriented compact sedan powered
 **Summary:**
 
 Overall, the 2020 Mercedes-Benz CLA35 AMG has a moderate level of potential issues, with some concerns in the engine, transmission, and electrical systems. The cost to fix these issues can vary widely depending on the severity of the problem. It is important to note that not all vehicles will experience these issues, and many owners may have a trouble-free ownership experience.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

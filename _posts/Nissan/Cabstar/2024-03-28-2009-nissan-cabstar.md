@@ -34,19 +34,6 @@ The 2009 Nissan Cabstar is a commercial vehicle available in various configurati
     * Estimated Cost to Fix: $500 - $1,200
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf Spring Breakage:**
@@ -72,19 +59,6 @@ The 2009 Nissan Cabstar is a commercial vehicle available in various configurati
     * Solution: Replacement of the starter motor.
     * Estimated Cost to Fix: $200 - $400
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -115,15 +89,3 @@ The 2009 Nissan Cabstar is a commercial vehicle available in various configurati
 **Summary**
 
 The 2009 Nissan Cabstar is generally a reliable commercial vehicle. However, it does have some common issues that owners should be aware of, including DPF blockage, turbocharger failure, suspension component wear, and rust formation. The severity and cost of these issues can vary depending on the specific part affected and the extent of the damage. Regular maintenance and proper use can help extend the lifespan of the vehicle and minimize the likelihood of expensive repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

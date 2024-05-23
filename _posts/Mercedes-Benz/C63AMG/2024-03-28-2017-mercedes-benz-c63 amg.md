@@ -32,19 +32,6 @@ The 2017 Mercedes-Benz C63 AMG is a high-performance sedan powered by a 4.0-lite
         * Estimated Cost to Fix: $2,500 - $6,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -56,19 +43,6 @@ The 2017 Mercedes-Benz C63 AMG is a high-performance sedan powered by a 4.0-lite
         * Solution: Replace battery or diagnose and repair electrical issue.
         * Estimated Cost to Fix: $150 - $600+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -89,15 +63,3 @@ The 2017 Mercedes-Benz C63 AMG is a high-performance sedan powered by a 4.0-lite
 **Summary**
 
 The 2017 Mercedes-Benz C63 AMG is a powerful and capable performance sedan, but it has experienced several issues. Engine problems are primarily related to turbocharger wastegate failure and cam cover gasket leaks, which can be expensive to fix. Transmission issues, such as slipping gears, may also be encountered. Electrical issues like battery discharge can be frustrating to deal with. Paint defects and interior trim peeling are not widespread but can affect specific vehicles. Overall, the severity and cost of the issues can vary, but some can be costly to repair.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

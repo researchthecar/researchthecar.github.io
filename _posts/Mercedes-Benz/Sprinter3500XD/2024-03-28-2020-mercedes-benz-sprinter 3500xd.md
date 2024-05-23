@@ -36,19 +36,6 @@ While the Sprinter 3500XD is generally well-received for its performance and fun
     * Estimated Cost to Fix: $2500 - $5000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Leaf Spring Failure:**
@@ -75,19 +62,6 @@ While the Sprinter 3500XD is generally well-received for its performance and fun
     * Estimated Cost to Fix: Varies depending on the source of the drain
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Windshield Wiper Motor Failure:**
@@ -112,15 +86,3 @@ While the Sprinter 3500XD is generally well-received for its performance and fun
 **Summary:**
 
 The 2020 Mercedes-Benz Sprinter 3500XD faces a number of potential issues, ranging from minor electrical concerns to more serious engine and transmission problems. While some issues can be relatively inexpensive to fix, others may require significant repairs, costing several thousand dollars. Owners should be aware of these issues and factor them into their purchasing and maintenance decisions.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

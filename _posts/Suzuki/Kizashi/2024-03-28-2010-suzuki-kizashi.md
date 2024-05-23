@@ -33,19 +33,6 @@ The 2010 Suzuki Kizashi is a midsize sedan that offers a sporty driving experien
 * **CVT Transmission**
     * No Issues Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Noise:** The front suspension can make noise over bumps or uneven road surfaces.
@@ -63,19 +50,6 @@ The 2010 Suzuki Kizashi is a midsize sedan that offers a sporty driving experien
 * **Headlight Malfunction:** The headlights may flicker or fail prematurely.
     * Solution: Replace the headlight bulbs or repair the wiring.
     * Estimated Cost to Fix: $100-$300
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -98,15 +72,3 @@ The 2010 Suzuki Kizashi is a midsize sedan that offers a sporty driving experien
 **Summary**
 
 Overall, the 2010 Suzuki Kizashi has received mixed reviews from owners. While it offers a sporty driving experience and a comfortable interior, it has been plagued by a number of issues, including engine oil leaks, transmission problems, and electrical malfunctions. The severity of the issues varies, but some can be costly to repair. It is important for potential buyers to be aware of these potential problems before purchasing a Kizashi.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

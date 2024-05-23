@@ -52,19 +52,6 @@ The 1996 Oldsmobile Bravada is a mid-size SUV that was available with two engine
     * Estimated Cost to Fix: $1,000 - $1,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Control Arm Bushing Failure:**
@@ -90,19 +77,6 @@ The 1996 Oldsmobile Bravada is a mid-size SUV that was available with two engine
     * Solution: Replace starter
     * Estimated Cost to Fix: $200 - $300
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -133,15 +107,3 @@ The 1996 Oldsmobile Bravada is a mid-size SUV that was available with two engine
 **Summary:**
 
 The 1996 Oldsmobile Bravada is a vehicle with a number of potential issues, many of which can be costly to repair. The severity of the issues varies, but some, such as engine and transmission failures, can lead to significant expenses. Potential buyers should be aware of these issues and factor in the potential costs of repairs when considering purchasing a Bravada.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

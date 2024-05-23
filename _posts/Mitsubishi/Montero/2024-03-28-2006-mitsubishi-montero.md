@@ -41,19 +41,6 @@ People enjoy the Montero's powerful engine, spacious interior, and excellent off
     * Estimated Cost to Fix: $500 - $800
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front control arm bushings wear out:**
@@ -75,19 +62,6 @@ People enjoy the Montero's powerful engine, spacious interior, and excellent off
     * Estimated Cost to Fix: $200 - $300+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rear hatch latch failure:**
@@ -107,15 +81,3 @@ People enjoy the Montero's powerful engine, spacious interior, and excellent off
 **Summary**
 
 The 2006 Mitsubishi Montero is a reliable and capable SUV with a powerful engine and excellent off-road capabilities. However, there are some common issues that owners should be aware of, particularly with the intake manifold gasket, timing chain tensioner, and transmission. The severity of these issues varies, with some being minor and inexpensive to fix, while others can be more costly and time-consuming to repair. Overall, the Montero remains a solid choice for those who prioritize off-road performance and durability.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

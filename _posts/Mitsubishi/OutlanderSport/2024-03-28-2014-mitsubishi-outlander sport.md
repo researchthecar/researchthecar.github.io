@@ -43,19 +43,6 @@ The 2014 Mitsubishi Outlander Sport is a compact crossover SUV that combines pra
     * Estimated Cost to Fix: $1,200 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Mount Bearing Failure**
@@ -81,19 +68,6 @@ The 2014 Mitsubishi Outlander Sport is a compact crossover SUV that combines pra
     * Solution: Replacement of the alternator.
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -124,15 +98,3 @@ The 2014 Mitsubishi Outlander Sport is a compact crossover SUV that combines pra
 **Summary**
 
 The 2014 Mitsubishi Outlander Sport has a range of issues, including engine oil consumption, timing chain problems, transmission failures, suspension noise, electrical malfunctions, exterior latch issues, and interior safety concerns. The severity of these issues varies, and some may be more common than others. The cost of repairs can also be significant, with some issues exceeding $1,000 or even more. Owners should be aware of these potential problems and consider the associated repair costs before purchasing or owning an Outlander Sport.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

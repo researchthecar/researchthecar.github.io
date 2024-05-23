@@ -21,19 +21,6 @@ tags: ["Volkswagen", "Jetta", "1998"]
 - 4-Speed Automatic
 -- **Transmission Slippage**: The transmission may develop slippage, causing hesitation and difficulty accelerating. Replacement or rebuild of the transmission may be necessary. $1,500 - $3,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Strut Mount Bearing Failure**: The strut mount bearings may fail, causing a clunking noise when driving over bumps. Replacement of the strut mounts is necessary. $200 - $400+
 - **Control Arm Bushing Failure**: The control arm bushings may wear out over time, leading to decreased ride quality and handling. Replacement of the bushings is recommended. $100 - $200+ per bushing
@@ -41,19 +28,6 @@ tags: ["Volkswagen", "Jetta", "1998"]
 **Electrical**
 - **Alternator Failure**: The alternator may fail, leading to a loss of electrical power and potential battery discharge. Replacement of the alternator is necessary. $500 - $1,000+
 - **Battery Draining**: The battery may drain prematurely due to a faulty electrical component or parasitic drain. Diagnosis and repair of the underlying issue is required. $100 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Power Window Failure**: The power window motors or switches may fail, causing one or more windows to become inoperable. Replacement of the faulty components is necessary. $200 - $600+ per window
@@ -65,15 +39,3 @@ tags: ["Volkswagen", "Jetta", "1998"]
 
 **Summary**
 The 1998 Volkswagen Jetta is known for its comfort and fuel efficiency but may have some potential issues. Engine and transmission problems can be expensive to repair, while electrical and suspension issues are generally more affordable to fix. It's important to consider these potential issues when purchasing or maintaining a Jetta of this year.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

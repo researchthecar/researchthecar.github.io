@@ -41,19 +41,6 @@ The 2011 Suzuki Kizashi was a mid-size sedan that offered a comfortable and styl
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension:**
@@ -82,19 +69,6 @@ The 2011 Suzuki Kizashi was a mid-size sedan that offered a comfortable and styl
   * Estimated Cost to Fix: $50 - $200+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door Handle Failure:**
@@ -119,15 +93,3 @@ The 2011 Suzuki Kizashi was a mid-size sedan that offered a comfortable and styl
 **Summary**
 
 The 2011 Suzuki Kizashi faced several issues, including engine noise, oil consumption, transmission problems, suspension noise, electrical issues, exterior door handle failures, interior rattles, and seatbelt pretensioner noise. These issues could be costly to repair, ranging from $100 to over $5,000 in extreme cases. While the Kizashi offered a pleasant driving experience, the potential for significant repairs may be a concern for prospective buyers.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

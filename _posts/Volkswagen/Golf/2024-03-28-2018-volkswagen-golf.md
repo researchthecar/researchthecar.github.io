@@ -79,19 +79,6 @@ The 2018 Volkswagen Golf is a compact hatchback offered with a range of engine a
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Noise**
@@ -113,19 +100,6 @@ The 2018 Volkswagen Golf is a compact hatchback offered with a range of engine a
     * Solution: Replace or reseal headlight assemblies.
     * Estimated Cost to Fix: $250 - $750+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -152,15 +126,3 @@ The 2018 Volkswagen Golf is a compact hatchback offered with a range of engine a
 **Summary**
 
 The 2018 Volkswagen Golf has a range of potential issues, including engine oil consumption, timing chain issues, transmission slipping, suspension noise, and electrical problems. The severity and cost of these issues vary, with some being relatively minor and inexpensive to fix, while others can be more significant and costly. It is crucial to note that not all Golf models experience these issues, and many owners may not encounter any problems at all.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

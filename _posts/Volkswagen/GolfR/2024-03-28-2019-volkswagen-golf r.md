@@ -49,19 +49,6 @@ People who like the Golf R praise its powerful engine, sharp handling, and spaci
     * Estimated Cost to Fix: $0 - $100
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear axle vibration**
@@ -82,19 +69,6 @@ People who like the Golf R praise its powerful engine, sharp handling, and spaci
     * Solution: Replace the headlight bulbs and/or update the electrical control software.
     * Estimated Cost to Fix: $100 - $500
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -122,15 +96,3 @@ People who like the Golf R praise its powerful engine, sharp handling, and spaci
 The 2019 Volkswagen Golf R is a high-performance hatchback with a number of potential issues. The most common issues are related to the engine, such as hesitation during acceleration, excessive oil consumption, and timing chain failure. Other issues include grinding noise when shifting gears (manual transmission), hesitation or shuddering during shifting (automatic transmission), dashboard rattles, sunroof leaks, and minor corrosion on the rear hatch.
 
 While some of these issues can be minor and inexpensive to fix, others can be more severe and costly. Therefore, it is important to be aware of these potential problems before purchasing a 2019 Volkswagen Golf R.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

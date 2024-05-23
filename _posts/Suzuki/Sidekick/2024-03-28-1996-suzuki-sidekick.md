@@ -53,19 +53,6 @@ The 1996 Suzuki Sidekick is a compact SUV offered with two engine options: a 1.6
         - Solution: Replace transmission cooler
         - Estimated Cost to Fix: $250 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **No Issues Found**
 
@@ -79,19 +66,6 @@ The 1996 Suzuki Sidekick is a compact SUV offered with two engine options: a 1.6
 - **Battery Drain:** Battery goes dead quickly
     - Solution: Diagnose and repair electrical drain
     - Estimated Cost to Fix: Varies
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Rust:** Rust on body panels, frame
@@ -112,15 +86,3 @@ The 1996 Suzuki Sidekick is a compact SUV offered with two engine options: a 1.6
 **Summary:**
 
 The 1996 Suzuki Sidekick is a generally reliable vehicle, but it has some known issues that can be costly to repair. The engine and transmission issues are the most severe and expensive, particularly the head gasket failure in the 1.8-liter engine and transmission slippage in the automatic transmission. The suspension, electrical, exterior, and interior issues are generally less severe and less costly to fix. Overall, prospective buyers should be aware of these potential issues before purchasing a 1996 Suzuki Sidekick and budget accordingly.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

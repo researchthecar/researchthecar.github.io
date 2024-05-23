@@ -35,19 +35,6 @@ The 1992 Oldsmobile Cutlass Supreme is a mid-size sedan that offers a comfortabl
     * **Estimated Cost to Fix:** $1,500 - $2,500
     * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension Issues**
 
 * **Front suspension:**
@@ -73,19 +60,6 @@ The 1992 Oldsmobile Cutlass Supreme is a mid-size sedan that offers a comfortabl
     * **Solution:** Replace the starter.
     * **Estimated Cost to Fix:** $200 - $400
     * **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior Issues**
 
@@ -115,15 +89,3 @@ The 1992 Oldsmobile Cutlass Supreme is a mid-size sedan that offers a comfortabl
 **Summary**
 
 The 1992 Oldsmobile Cutlass Supreme is a reliable and practical car, but it does have some issues that owners should be aware of. The most serious issues are the head gasket failure and the transmission slipping gears. These issues can be expensive to fix, so it is important to have the car inspected by a mechanic before purchasing. However, the Cutlass Supreme is a good value for the money, and it can be a good choice for families or anyone who needs a comfortable and reliable car.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

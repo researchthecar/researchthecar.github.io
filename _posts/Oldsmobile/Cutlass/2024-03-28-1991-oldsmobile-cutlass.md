@@ -43,19 +43,6 @@ The 1991 Oldsmobile Cutlass was a mid-size sedan praised for its comfortable rid
     * Estimated Cost to Fix: $1,200 - $2,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Strut Mount Failure:**
@@ -84,19 +71,6 @@ The 1991 Oldsmobile Cutlass was a mid-size sedan praised for its comfortable rid
     * Estimated Cost to Fix: $300 - $600+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Weatherstripping Deterioration:**
@@ -116,15 +90,3 @@ The 1991 Oldsmobile Cutlass was a mid-size sedan praised for its comfortable rid
 **Summary:**
 
 Overall, the 1991 Oldsmobile Cutlass has shown reliability issues, particularly with its 3.3L V6 engine. The most prevalent issues include intake manifold gasket failures and head gasket failures. Other notable problems include shifting issues with the transmission, suspension component failures, electrical problems, and interior component failures. It's important to note that these issues vary in severity and cost to repair, and many Cutlass owners have experienced years of trouble-free ownership.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

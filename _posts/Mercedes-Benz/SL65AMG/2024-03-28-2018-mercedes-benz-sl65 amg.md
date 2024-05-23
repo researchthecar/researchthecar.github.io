@@ -44,19 +44,6 @@ The 2018 Mercedes-Benz SL65 AMG is a high-performance grand tourer equipped with
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Compressor Failure:**
@@ -77,19 +64,6 @@ The 2018 Mercedes-Benz SL65 AMG is a high-performance grand tourer equipped with
     * Solution: Replace the faulty battery or identify and fix the electrical drain
     * Estimated Cost to Fix: $200 - $1,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -115,15 +89,3 @@ The 2018 Mercedes-Benz SL65 AMG is a high-performance grand tourer equipped with
 **Summary:**
 
 The 2018 Mercedes-Benz SL65 AMG is a powerful and luxurious vehicle, but it does have some notable issues. These issues can be costly to repair, and owners should be prepared for potential expenses. The severity of the issues varies, with some being minor inconveniences and others potentially affecting the safety and reliability of the vehicle. It is important to consider these potential problems when evaluating this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

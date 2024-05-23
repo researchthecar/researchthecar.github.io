@@ -46,19 +46,6 @@ The 1991 Pontiac Firefly is a subcompact hatchback offered with two engine optio
     * Solution: Replace the shift solenoid.
     * Estimated Cost to Fix: $300 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Failure:** Struts can fail, causing a loss of handling and stability.
@@ -76,19 +63,6 @@ The 1991 Pontiac Firefly is a subcompact hatchback offered with two engine optio
 * **Alternator Failure:** The alternator can fail, preventing the battery from charging and causing the vehicle to stall.
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $300 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -108,15 +82,3 @@ The 1991 Pontiac Firefly is a subcompact hatchback offered with two engine optio
 **Summary**
 
 The 1991 Pontiac Firefly generally has minor to moderate issues that are relatively inexpensive to fix. However, the severity of engine and transmission issues can vary, and repairs can become costly in some cases.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

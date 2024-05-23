@@ -48,19 +48,6 @@ Recalls:
 Recalls:
 * 93V163000 - Transmission mounts may not be properly tightened
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front strut mounts:** Wear out prematurely, causing clunking noises and poor handling.
@@ -84,19 +71,6 @@ Recalls:
 Recalls:
 * 93V190000 - Rear seat belts may not retract properly
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Plastic bumper covers:** Fade and crack easily.
@@ -112,15 +86,3 @@ Recalls:
 **Summary:**
 
 The 1993 Volkswagen Fox was a budget-friendly car with some notable mechanical issues. Engine problems, such as intake manifold gasket failure and timing belt tensioner failure, could be costly to repair. Transmission issues, including clutch master cylinder failure and input shaft bearing failure, could also be expensive to fix. Suspension components, such as front strut mounts and rear shocks, wore out prematurely. Electrical problems, such as alternator and starter motor failure, were also common. Overall, the 1993 Volkswagen Fox had a number of issues that could affect reliability and cost of ownership.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

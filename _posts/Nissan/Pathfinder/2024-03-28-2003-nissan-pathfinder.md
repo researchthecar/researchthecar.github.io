@@ -44,19 +44,6 @@ The 2003 Nissan Pathfinder is a mid-size SUV available with a choice of a 3.5L V
   - **Estimated Cost to Fix:** $200 - $400
   - **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Worn-Out Ball Joints:**
@@ -82,19 +69,6 @@ The 2003 Nissan Pathfinder is a mid-size SUV available with a choice of a 3.5L V
   - **Solution:** Electrical system inspection and repair
   - **Estimated Cost to Fix:** $100 - $500+
   - **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -125,15 +99,3 @@ The 2003 Nissan Pathfinder is a mid-size SUV available with a choice of a 3.5L V
 **Summary:**
 
 Overall, the 2003 Nissan Pathfinder is a reliable vehicle with some known issues that can be costly to repair. The most common and expensive problems are related to the transmission and engine. However, many of the issues are minor and relatively inexpensive to fix.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

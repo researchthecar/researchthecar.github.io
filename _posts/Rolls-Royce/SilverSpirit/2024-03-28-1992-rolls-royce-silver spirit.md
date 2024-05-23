@@ -29,19 +29,6 @@ The 1992 Rolls-Royce Silver Spirit is a luxury sedan powered by a 6.75-liter V8 
         * Estimated Cost to Fix: $2,000 - $3,000+
         * Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
     * **Air Suspension Leaks**
         * Description/Symptoms: Sagging or uneven ride height, compressor noise
@@ -60,19 +47,6 @@ The 1992 Rolls-Royce Silver Spirit is a luxury sedan powered by a 6.75-liter V8 
         * Solution: Locate and repair short circuit
         * Estimated Cost to Fix: Varies depending on severity
         * Recalls: N/A
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
     * **Rust**
@@ -95,15 +69,3 @@ The 1992 Rolls-Royce Silver Spirit is a luxury sedan powered by a 6.75-liter V8 
 
 **Summary**
 The 1992 Rolls-Royce Silver Spirit has several potential issues that can be costly to repair. The most common issues include engine, transmission, and electrical problems. While the vehicle provides an opulent and comfortable ride, it requires significant maintenance and repairs to maintain its performance and prevent major breakdowns.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

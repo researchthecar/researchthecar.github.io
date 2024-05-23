@@ -34,19 +34,6 @@ Solution: Replace the clutch.
 Estimated Cost to Fix: $600 - $1,000+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 **Front Suspension Springs**
 Description/Symptoms: The front suspension springs may weaken or break, resulting in a lowered ride height and poor handling.
@@ -61,19 +48,6 @@ Solution: Replace the battery.
 Estimated Cost to Fix: $100 - $200+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 **No Issues Found**
 
@@ -86,15 +60,3 @@ Recalls: None Found
 
 **Summary:**
 The 2005 Mitsubishi Montero Sport is a capable SUV with potential problems such as timing belt failure (3.8L V6), transmission slipping (4-speed automatic), and a leaking clutch (5-speed manual). Some electrical issues and HVAC system malfunctions have also been reported. The severity and cost of these issues vary, so it's important to have regular maintenance and inspections performed to address any concerns promptly.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

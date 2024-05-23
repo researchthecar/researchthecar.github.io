@@ -54,19 +54,6 @@ The Cayenne received praise for its powerful engines, responsive handling, and c
 
 * **Battery Failure:** The hybrid battery may fail, reducing fuel efficiency and electric range. Replace the hybrid battery. $5,000 - $10,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Compressor Failure:** The air suspension compressor may fail, causing the vehicle to sag or ride rough. Replace the air suspension compressor. $1,200 - $2,000
@@ -76,19 +63,6 @@ The Cayenne received praise for its powerful engines, responsive handling, and c
 
 * **Battery Drain:** The vehicle's battery may drain prematurely due to a faulty component or parasitic drain. Diagnose and repair the electrical system. $100 - $500
 * **Electrical Module Failures:** Electrical modules, such as the fuse box or body control module, may fail, causing various electrical problems. Diagnose and replace the faulty module. $500 - $1,500
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -104,15 +78,3 @@ The Cayenne received praise for its powerful engines, responsive handling, and c
 **Summary:**
 
 The 2011 Porsche Cayenne is a powerful and luxurious SUV with a variety of potential issues. Engine problems, such as oil leaks, timing chain issues, and turbocharger failures, can be expensive to repair. The transmission may also experience problems, including torque converter clutch failure and mechatronic unit failure. Suspension and electrical issues are generally less severe and less costly to fix. Overall, the Cayenne's issues range from minor inconveniences to major repairs, with costs varying depending on the specific problem and the affected component.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

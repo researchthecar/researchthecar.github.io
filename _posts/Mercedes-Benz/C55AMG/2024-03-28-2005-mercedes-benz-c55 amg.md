@@ -35,19 +35,6 @@ The 2005 Mercedes-Benz C55 AMG is a high-performance sedan powered by a 5.4-lite
     * Solution: Replace the torque converter.
     * Estimated Cost to Fix: $1,000 - $2,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Strut Failure:**
@@ -70,19 +57,6 @@ The 2005 Mercedes-Benz C55 AMG is a high-performance sedan powered by a 5.4-lite
     * Solution: Replace the faulty alternator.
     * Estimated Cost to Fix: $600 - $1,200
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Clear Coat Peeling:**
@@ -104,15 +78,3 @@ The 2005 Mercedes-Benz C55 AMG is a high-performance sedan powered by a 5.4-lite
 **Summary:**
 
 The 2005 Mercedes-Benz C55 AMG has been known to experience some issues, particularly with its engine, transmission, and electrical systems. While not all problems are common, potential owners should be aware of these potential issues to make an informed decision before purchasing. The severity and cost of these issues can vary, with some requiring more significant repairs than others.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

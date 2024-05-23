@@ -17,37 +17,11 @@ The 2020 Rolls-Royce Wraith is a handcrafted, ultra-luxury coupe that exudes pow
     - **Shifting Issues:** Description/Symptoms: Difficulty shifting gears or transmission slipping. Solution: Replace or repair affected transmission components. Estimated Cost to Fix: $2,000 - $4,000+
     - **Overheating:** Description/Symptoms: Transmission overheating during operation. Solution: Repair or replace transmission cooler or related components. Estimated Cost to Fix: $500 - $1,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **No Issues Found**
 
 **Electrical**
 - **Battery Drain:** Description/Symptoms: Premature battery discharge, leading to difficulty starting the vehicle. Solution: Diagnose and repair or replace affected electrical components. Estimated Cost to Fix: $500 - $2,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Door Lock Malfunction:** Description/Symptoms: Inability to lock or unlock doors using remote or manual controls. Solution: Replace or repair door lock actuators. Estimated Cost to Fix: $500 - $1,000+
@@ -58,15 +32,3 @@ The 2020 Rolls-Royce Wraith is a handcrafted, ultra-luxury coupe that exudes pow
 
 **Summary:**
 While the Rolls-Royce Wraith is a remarkable vehicle, it is not immune to issues. Owners should be aware of potential engine oil leaks, intake valve deposits, transmission shifting problems, battery drain, door lock malfunctions, infotainment system freezing, and interior trim panel squeaks. These issues can vary in severity and cost to fix, but it is crucial to have them addressed promptly to maintain the vehicle's performance and longevity.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

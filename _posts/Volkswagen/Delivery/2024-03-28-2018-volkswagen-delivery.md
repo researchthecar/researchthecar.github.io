@@ -32,19 +32,6 @@ The 2018 Volkswagen Delivery is a compact cargo van that offers a spacious inter
         - Estimated Cost to Fix: $2,000 - $4,000+
         - Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Front struts:** Premature wear and tear causing clunking noises and poor handling.
     - Solution: Replace the front struts and mounts.
@@ -56,19 +43,6 @@ The 2018 Volkswagen Delivery is a compact cargo van that offers a spacious inter
     - Solution: Diagnose and repair the faulty components or identify and remove the source of the parasitic draw.
     - Estimated Cost to Fix: $100 - $500+
     - Recalls: N/A
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Door handles breaking:** Door handles may break or become loose, making it difficult to open or close the doors.
@@ -88,15 +62,3 @@ The 2018 Volkswagen Delivery is a compact cargo van that offers a spacious inter
 
 **Summary:**
 The 2018 Volkswagen Delivery offers practical hauling capabilities, but it is important to be aware of potential reliability issues with the engine, transmission, suspension, and other components. The severity and cost of these issues can vary depending on the affected part and the extent of the damage. Regular maintenance and inspections are crucial to mitigate potential problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

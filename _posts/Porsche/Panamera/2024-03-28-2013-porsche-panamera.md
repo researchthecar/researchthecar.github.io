@@ -43,19 +43,6 @@ Owners generally praise the Panamera for its exhilarating driving experience, so
   * Estimated Cost to Fix: $3,000 - $5,000+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Front Suspension Lower Control Arms:**
@@ -73,19 +60,6 @@ Owners generally praise the Panamera for its exhilarating driving experience, so
   * Solution: Diagnosis and repair of the source of the parasitic draw
   * Estimated Cost to Fix: Dependent on the source of the issue
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -108,15 +82,3 @@ Owners generally praise the Panamera for its exhilarating driving experience, so
 **Summary:**
 
 Overall, the 2013 Porsche Panamera is a highly capable vehicle, but it has experienced some specific issues that can affect its reliability and ownership experience. The most significant issues include timing chain tensioner failure in the 4.8L V8 engine, mechatronic unit failure in the 8-speed Tiptronic S transmission, and parasitic draw on the electrical system. While the cost of repairs can be substantial, the majority of issues are isolated to specific components and can be addressed with appropriate maintenance and repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

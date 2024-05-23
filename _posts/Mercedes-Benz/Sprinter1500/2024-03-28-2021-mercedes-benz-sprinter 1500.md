@@ -67,19 +67,6 @@ People like the Sprinter 1500 for its powerful engine, spacious cargo area, and 
         * Estimated Cost to Fix: $1,000 - $2,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -101,19 +88,6 @@ People like the Sprinter 1500 for its powerful engine, spacious cargo area, and 
     * Solution: Replace the starter.
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -140,15 +114,3 @@ People like the Sprinter 1500 for its powerful engine, spacious cargo area, and 
 **Summary:**
 
 The 2021 Mercedes-Benz Sprinter 1500 is a reliable and durable cargo van that offers a powerful engine, spacious cargo area, and comfortable interior. However, some people have reported issues with the vehicle, including engine problems, transmission problems, and electrical problems. The severity and cost of these issues vary depending on the specific issue. Overall, the Sprinter 1500 is a good choice for businesses and individuals who need a reliable and durable cargo van.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -98,15 +98,3 @@ The Montero was available with two engine options: a 3.5-liter V6 and a 3.8-lite
 ## Summary
 
 The 2000 Mitsubishi Montero is a capable off-road vehicle with a spacious interior. However, it is important to be aware of the potential issues that can arise with this vehicle. The most severe issues include timing belt failure, transmission slipping, and alternator failure. These issues can be expensive to fix and can lead to catastrophic engine damage. If you are considering buying a 2000 Mitsubishi Montero, be sure to have it inspected by a qualified mechanic before making a decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

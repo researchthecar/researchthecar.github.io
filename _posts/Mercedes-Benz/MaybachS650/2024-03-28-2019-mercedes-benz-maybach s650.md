@@ -36,19 +36,6 @@ For some owners, the Maybach S650 has not failed to deliver the luxury they desi
     * Estimated Cost to Fix: $2,000 - $5,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Air Suspension**
@@ -75,19 +62,6 @@ For some owners, the Maybach S650 has not failed to deliver the luxury they desi
     * Solution: The electrical short will need to be repaired.
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -118,15 +92,3 @@ For some owners, the Maybach S650 has not failed to deliver the luxury they desi
 **Summary**
 
 The 2019 Mercedes-Benz Maybach S650 is a luxurious and powerful sedan. However, it has been reported to have several issues, including engine, transmission, suspension, electrical, exterior, and interior problems. Some of these issues are minor and inexpensive to fix, while others are more severe and can be costly to repair. Potential buyers should be aware of these issues before purchasing a Maybach S650.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

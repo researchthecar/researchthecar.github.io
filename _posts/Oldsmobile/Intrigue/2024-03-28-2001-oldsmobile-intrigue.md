@@ -29,19 +29,6 @@ The 2001 Oldsmobile Intrigue is a midsize sedan powered by a 3.5L V6 engine pair
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Failure:**
@@ -63,19 +50,6 @@ The 2001 Oldsmobile Intrigue is a midsize sedan powered by a 3.5L V6 engine pair
     * Solution: Replace power window motor or switch
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -102,15 +76,3 @@ The 2001 Oldsmobile Intrigue is a midsize sedan powered by a 3.5L V6 engine pair
 **Summary:**
 
 The 2001 Oldsmobile Intrigue is a reliable vehicle overall, but it has experienced some common issues, most notably with its engine, transmission, and suspension. These issues can be costly to repair, but most are relatively straightforward to diagnose and address. It's important to factor in maintenance and potential repair costs when considering this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

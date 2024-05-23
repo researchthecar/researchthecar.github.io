@@ -60,19 +60,6 @@ Despite its performance prowess, the Eclipse has garnered mixed reviews. Some ow
   - Estimated Cost to Fix: $600 - $1,200+
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Strut Failure**
@@ -94,19 +81,6 @@ Despite its performance prowess, the Eclipse has garnered mixed reviews. Some ow
   - Estimated Cost to Fix: $100 - $500+
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 - **Headlight Housing Condensation**
@@ -126,15 +100,3 @@ Despite its performance prowess, the Eclipse has garnered mixed reviews. Some ow
 **Summary**
 
 The 2006 Mitsubishi Eclipse offers a thrilling driving experience, but it comes with a history of potential reliability issues. The engine and transmission components can be prone to various problems, which can lead to costly repairs. The vehicle's electrical system and suspension can also encounter issues, further adding to the maintenance burden. While the Eclipse's performance may appeal to some, potential buyers should weigh the risks and consider the associated repair costs before making a purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

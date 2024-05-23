@@ -22,19 +22,6 @@ The 2022 Mercedes-Benz CLA35 AMG is a compact luxury sedan powered by a potent 2
 
 * **Shifting Issues:** Inconsistent or delayed gear shifts, especially during low-speed driving. Solution: Software updates or replacement of transmission components. Estimated Cost to Fix: $1,000 - $2,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **No Issues Found**
@@ -44,19 +31,6 @@ The 2022 Mercedes-Benz CLA35 AMG is a compact luxury sedan powered by a potent 2
 * **Battery Drain:** Premature discharge of the battery, often leading to a dead battery and difficulty starting the vehicle. Solution: Inspection and replacement of the battery or diagnosing and repairing any underlying electrical issues. Estimated Cost to Fix: $500 - $1,500+
 * **Infotainment System Glitches:** Occasional freezing, lagging, or other malfunctions of the infotainment system. Solution: Software updates or replacement of the infotainment unit. Estimated Cost to Fix: $500 - $1,000+
 * **Headlight Condensation:** Moisture buildup inside the headlight assemblies, causing fogging or reduced visibility. Solution: Inspection, sealing, or replacement of the headlights. Estimated Cost to Fix: $500 - $1,500+ per headlight
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -69,15 +43,3 @@ The 2022 Mercedes-Benz CLA35 AMG is a compact luxury sedan powered by a potent 2
 **Overall Summary:**
 
 While the CLA35 AMG offers an engaging driving experience, it has experienced some reported issues primarily related to its engine, transmission, and electrical systems. The severity of the issues varies, but some, such as the turbocharger failure, can be costly to repair. It's important for owners to be aware of these potential problems and to consult with their authorized Mercedes-Benz dealer if they encounter any symptoms.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

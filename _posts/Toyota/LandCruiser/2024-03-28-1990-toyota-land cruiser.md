@@ -36,19 +36,6 @@ The 1990 Toyota Land Cruiser is a legendary SUV known for its exceptional off-ro
 - **Grinding gears:** This can occur due to worn synchronizers or other internal components. Symptoms include difficulty shifting gears or grinding noises when shifting.
 - **Clutch failure:** The clutch can wear out over time and need to be replaced. Symptoms include difficulty shifting gears or slipping gears.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Worn shock absorbers and/or struts:** This can lead to decreased ride quality, handling, and braking performance.
@@ -60,19 +47,6 @@ The 1990 Toyota Land Cruiser is a legendary SUV known for its exceptional off-ro
 - **Alternator failure:** The alternator charges the battery and provides power to the electrical system. If it fails, the battery can drain and the vehicle can lose power.
 - **Starter failure:** The starter is responsible for starting the engine. If it fails, the engine will not start.
 - **Power window failure:** The power window motors or switches can fail, causing the windows to malfunction.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -87,15 +61,3 @@ The 1990 Toyota Land Cruiser is a legendary SUV known for its exceptional off-ro
 **Summary:**
 
 While the 1990 Toyota Land Cruiser is known for its reliability, there are some potential issues that owners should be aware of. These issues can range in severity from minor cosmetic problems to major mechanical failures. The cost of repairs can vary depending on the issue and the severity of the problem. Regular maintenance and professional inspections can help minimize the risk of these issues and ensure that the Land Cruiser remains a reliable vehicle for many years to come.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

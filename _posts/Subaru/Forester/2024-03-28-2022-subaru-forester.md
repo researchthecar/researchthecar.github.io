@@ -33,19 +33,6 @@ People appreciate the Forester's ruggedness, practicality, and fuel efficiency. 
     * Estimated Cost to Fix: $200 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Noise:** Some owners have reported a clunking or rattling noise from the strut mounts.
@@ -64,19 +51,6 @@ People appreciate the Forester's ruggedness, practicality, and fuel efficiency. 
     * Solution: Replace or reprogram key fob or receiver module.
     * Estimated Cost to Fix: $150 - $400+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -102,15 +76,3 @@ People appreciate the Forester's ruggedness, practicality, and fuel efficiency. 
 While the 2022 Subaru Forester is generally a reliable vehicle, there have been some reported issues with the engine, transmission, suspension, electrical, and interior components. The severity of these issues can vary, with some being minor annoyances and others more significant. The cost of repairs can also vary widely depending on the issue and the specific parts that need to be replaced.
 
 Overall, the 2022 Subaru Forester remains a popular choice for consumers who value practicality, safety, and all-wheel drive capabilities. However, it is important to be aware of the potential issues that could arise with this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

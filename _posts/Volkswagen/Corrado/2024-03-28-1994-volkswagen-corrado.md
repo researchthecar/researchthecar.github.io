@@ -30,19 +30,6 @@ The 1994 Volkswagen Corrado is a sporty coupe known for its handling and perform
 - **Slipping transmission:** The transmission can slip when shifting gears due to worn clutch plates. Symptoms include a loss of power during acceleration and an illuminated check engine light. The solution is to replace the clutch plates, which costs around $500 - $700.
 - **Transmission fluid leak:** The transmission fluid pan gasket can fail and cause transmission fluid to leak from the transmission. Symptoms include a visible leak under the vehicle and low transmission fluid levels. The solution is to replace the transmission fluid pan gasket, which costs around $100 - $200.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Strut mount failure:** The strut mount can fail and cause the suspension to make a clunking noise. Symptoms include a clunking noise when driving over bumps and decreased handling performance. The solution is to replace the strut mount, which costs around $200 - $400 for both the front and rear.
@@ -51,19 +38,6 @@ The 1994 Volkswagen Corrado is a sporty coupe known for its handling and perform
 
 - **Alternator failure:** The alternator can fail and cause the battery to discharge. Symptoms include a loss of electrical power, a flickering dashboard, and an illuminated check engine light. The solution is to replace the alternator, which costs around $300 - $500.
 - **Starter failure:** The starter can fail and prevent the engine from starting. Symptoms include a clicking noise when turning the key and an inability to start the engine. The solution is to replace the starter, which costs around $200 - $400.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -83,15 +57,3 @@ The 1994 Volkswagen Corrado is a sporty coupe known for its handling and perform
 **Summary:**
 
 The Volkswagen Corrado is a reliable and enjoyable car, but it is not without its issues. The most serious issues are the intake camshaft failure and the reverse gear failure, which can be costly to repair. The transmission and electrical system also have some common issues, but the repairs are typically less expensive. Overall, the cost of maintenance and repairs for the Corrado is moderate.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

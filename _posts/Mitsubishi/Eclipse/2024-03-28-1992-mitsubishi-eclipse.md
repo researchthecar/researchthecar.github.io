@@ -31,19 +31,6 @@ The 1992 Mitsubishi Eclipse was a popular sports coupe that offered a combinatio
 
 - **Transmission Slipping:** The transmission may slip or hesitate when shifting. Symptoms include delayed or erratic shifting, slipping gears, and a loss of power. Solution: Replace the transmission or rebuild the existing one. Estimated Cost to Fix: $2,000 - $3,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Strut Failure:** The front struts can fail prematurely, leading to a loss of stability and handling. Symptoms include excessive bouncing, noise from the suspension, and uneven tire wear. Solution: Replace the worn struts. Estimated Cost to Fix: $300 - $600+ per pair
@@ -53,19 +40,6 @@ The 1992 Mitsubishi Eclipse was a popular sports coupe that offered a combinatio
 
 - **Alternator Failure:** The alternator may fail, resulting in a loss of electrical power. Symptoms include flickering lights, difficulty starting the car, and a dead battery. Solution: Replace the alternator. Estimated Cost to Fix: $300 - $500+
 - **Starter Failure:** The starter may fail, preventing the car from starting. Symptoms include a clicking noise when trying to start the car or no response at all. Solution: Replace the starter. Estimated Cost to Fix: $200 - $400+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -78,15 +52,3 @@ The 1992 Mitsubishi Eclipse was a popular sports coupe that offered a combinatio
 **Summary**
 
 The 1992 Mitsubishi Eclipse is a fun and affordable sports coupe, but it does have some common issues that buyers should be aware of. While the severity of these issues can vary, some of the most expensive repairs can include timing belt failure, cylinder head gasket failure, transmission replacement, and suspension repairs. It's important to consider these potential costs when purchasing a used Eclipse and to have the vehicle inspected by a qualified mechanic before making a decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

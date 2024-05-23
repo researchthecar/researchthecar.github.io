@@ -54,19 +54,6 @@ The 1995 Plymouth Grand Voyager is a popular minivan that offers ample space and
     * Estimated Cost to Fix: $800 - $1200
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Mount Failure:**
@@ -92,19 +79,6 @@ The 1995 Plymouth Grand Voyager is a popular minivan that offers ample space and
     * Solution: Replace alternator
     * Estimated Cost to Fix: $400 - $600
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -134,15 +108,3 @@ The 1995 Plymouth Grand Voyager is a popular minivan that offers ample space and
 
 **Summary:**
 The 1995 Plymouth Grand Voyager has several known issues that can impact its reliability and performance. While some of these issues are minor and can be relatively affordable to fix, others like engine and transmission problems can be more severe and costly. Potential buyers should consider the potential costs of these issues when evaluating the Grand Voyager.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

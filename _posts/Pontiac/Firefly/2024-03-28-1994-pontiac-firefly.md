@@ -33,19 +33,6 @@ The 1994 Pontiac Firefly is a popular subcompact car known for its affordability
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut mount failure:** Excessive noise, poor handling
@@ -57,19 +44,6 @@ The 1994 Pontiac Firefly is a popular subcompact car known for its affordability
 * **Alternator failure:** Loss of electrical power, battery drain
     * Solution: Replace alternator
     * Estimated Cost to Fix: $300 - $500
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -87,15 +61,3 @@ The 1994 Pontiac Firefly is a popular subcompact car known for its affordability
 **Summary**
 
 While the 1994 Pontiac Firefly is generally a reliable vehicle, it has some common issues to be aware of. The head gasket failure is a more severe and potentially costly repair, while other issues like suspension and electrical problems are less severe and generally more affordable to fix. Overall, the Firefly offers good value for the price, but potential buyers should be aware of these potential issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

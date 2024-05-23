@@ -35,19 +35,6 @@ The 1990 Volkswagen Golf was a popular compact hatchback that offered a combinat
 **3-Speed Automatic Transmission**
 * **Transmission slipping:** Symptoms include delayed gear shifts, loss of power, and overheating. Solution: Diagnose and repair transmission issues, including fluid flushes, filter replacement, or transmission rebuild. Estimated Cost to Fix: $1000 - $2500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Strut failure:** Symptoms include excessive vibration, uneven tire wear, and decreased handling. Solution: Replace worn struts. Estimated Cost to Fix: $200 - $500+ per strut
 * **Ball joint failure:** Symptoms include clunking noises, steering instability, and uneven tire wear. Solution: Replace worn ball joints. Estimated Cost to Fix: $100 - $250+ per ball joint
@@ -56,19 +43,6 @@ The 1990 Volkswagen Golf was a popular compact hatchback that offered a combinat
 * **Alternator failure:** Symptoms include dim headlights, electrical system problems, and a discharged battery. Solution: Replace alternator. Estimated Cost to Fix: $300 - $600+
 * **Starter failure:** Symptoms include difficulty starting the vehicle, no-start condition, and grinding noises. Solution: Replace starter. Estimated Cost to Fix: $200 - $500+
 * **Electrical wiring issues:** Symptoms include intermittent electrical problems, blown fuses, and faulty relays. Solution: Diagnose and repair wiring issues. Estimated Cost to Fix: $100 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Rust:** Symptoms include rust spots on body panels, especially around wheel arches and rocker panels. Solution: Preventative measures include regular washing, waxing, and rustproofing. Repair options include spot repairs or panel replacement. Estimated Cost to Fix: Varies depending on severity
@@ -82,15 +56,3 @@ The 1990 Volkswagen Golf was a popular compact hatchback that offered a combinat
 **Summary:**
 
 The 1990 Volkswagen Golf was a reliable vehicle, but it did have some specific issues that owners should be aware of. Engine issues, especially timing belt failure and head gasket failure, could lead to costly repairs. The engine option should be taken into consideration for the possible problems it may have. Transmission problems and suspension wear and tear were also common concerns. Electrical issues and rust were less severe but could still affect the vehicle's performance and longevity. Minor interior issues were present, but they were not as significant as the mechanical problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

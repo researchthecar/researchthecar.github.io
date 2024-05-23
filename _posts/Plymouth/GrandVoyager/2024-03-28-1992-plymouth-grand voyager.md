@@ -73,19 +73,6 @@ The 1992 Plymouth Grand Voyager is a minivan offered with a choice of three engi
     - Estimated Cost to Fix: $300 - $500
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Strut or Shock Failure:** 
@@ -111,19 +98,6 @@ The 1992 Plymouth Grand Voyager is a minivan offered with a choice of three engi
     - Solution: Replace battery
     - Estimated Cost to Fix: $100 - $200
     - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -154,15 +128,3 @@ The 1992 Plymouth Grand Voyager is a minivan offered with a choice of three engi
 **Summary:**
 
 The 1992 Plymouth Grand Voyager is a spacious and comfortable minivan, but it has its fair share of potential issues. The most severe and costly problem is the timing chain guide failure on the 3.8L V6 engine. Other common issues include cylinder head gasket failure on the 3.0L V6, and transmission slipping or shuddering on both available transmissions. While many of the other problems are relatively minor and inexpensive to fix, the overall cost of repairs can add up over time.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -35,19 +35,6 @@ People who liked the Sunrunner praised its affordability, versatility, and rugge
 * **Transmission Solenoid Failure:** The transmission solenoid fails, causing erratic shifting and transmission slipping. The solution is to replace the transmission solenoid. The estimated cost to fix this issue is $200-$300.
 * **Torque Converter Failure:** The torque converter fails, causing overheating, shuddering, and transmission slipping. The solution is to replace the torque converter. The estimated cost to fix this issue is $1000-$1500.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Struts:** The front suspension struts wear out prematurely, causing a rough ride and poor handling. The solution is to replace the front suspension struts. The estimated cost to fix this issue is $400-$600.
@@ -57,19 +44,6 @@ People who liked the Sunrunner praised its affordability, versatility, and rugge
 
 * **Alternator Failure:** The alternator fails, causing electrical problems and a dead battery. The solution is to replace the alternator. The estimated cost to fix this issue is $300-$500.
 * **Starter Failure:** The starter fails, preventing the engine from starting. The solution is to replace the starter. The estimated cost to fix this issue is $200-$400.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -83,15 +57,3 @@ People who liked the Sunrunner praised its affordability, versatility, and rugge
 **Summary**
 
 The 1994 Pontiac Sunrunner is a generally reliable vehicle. However, it is important to be aware of the potential issues that can occur, especially with the engine and transmission. The cost of repairs can vary significantly depending on the severity of the issue.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

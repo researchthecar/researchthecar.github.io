@@ -42,19 +42,6 @@ The 2000 Mitsubishi Mirage is a subcompact car that was available with a 1.5-lit
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Worn Front Struts**
@@ -81,19 +68,6 @@ The 2000 Mitsubishi Mirage is a subcompact car that was available with a 1.5-lit
     * Estimated Cost to Fix: $100 - $300+ per coil
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Fading Headlights**
@@ -118,15 +92,3 @@ The 2000 Mitsubishi Mirage is a subcompact car that was available with a 1.5-lit
 **Summary**
 
 The 2000 Mitsubishi Mirage has a few common issues that can be costly to repair, such as excessive oil consumption and timing belt failure. However, most interior and exterior issues are relatively minor and inexpensive to fix. Overall, the Mirage is a reliable car with a good fuel economy, but potential buyers should be aware of these potential issues before making a purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

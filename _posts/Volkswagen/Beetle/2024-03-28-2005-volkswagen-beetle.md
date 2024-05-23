@@ -103,15 +103,3 @@ The 2005 Volkswagen Beetle is a compact, retro-styled hatchback with a renewed f
 ### **Summary**
 
 The 2005 Volkswagen Beetle is a stylish and fun-to-drive car, but it has been plagued by a number of issues, including problems with the engine, transmission, and suspension. These issues can be costly to fix, so it is important to factor them into your decision when considering buying a Beetle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

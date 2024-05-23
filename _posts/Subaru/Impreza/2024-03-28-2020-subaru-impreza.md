@@ -28,19 +28,6 @@ The 2020 Subaru Impreza is a compact sedan and hatchback offering a reliable and
 * **Hesitation or slipping:** Transmission hesitates or slips when accelerating, causing loss of power.
 * **Noise during acceleration:** Unusual noises, such as whining or clunking, when accelerating.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 **No Issues Found**
@@ -49,19 +36,6 @@ The 2020 Subaru Impreza is a compact sedan and hatchback offering a reliable and
 
 **Alternator failure:** Premature failure of the alternator, causing charging issues.
 * **Battery drain:** Battery drains quickly, even when the vehicle is parked.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -76,15 +50,3 @@ The 2020 Subaru Impreza is a compact sedan and hatchback offering a reliable and
 **Summary:**
 
 The 2020 Subaru Impreza is a generally reliable vehicle, but it has some notable issues. The engine can experience valve train noise and gasket failures, while the transmission may have issues with shifting or hesitation. Electrical problems, exterior visibility issues, and interior glitches have also been reported. The severity and cost of the issues vary, but some can be expensive to repair.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

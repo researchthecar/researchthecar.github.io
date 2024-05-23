@@ -59,19 +59,6 @@ The 2013 Volkswagen Golf is a compact hatchback available with a wide range of e
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Failure:** The strut mounts may fail prematurely, leading to a rattling noise and reduced handling.
@@ -89,19 +76,6 @@ The 2013 Volkswagen Golf is a compact hatchback available with a wide range of e
     * Solution: Replace the SRS airbag control module
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: NHTSA Campaign Number 17V296000
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -124,15 +98,3 @@ The 2013 Volkswagen Golf is a compact hatchback available with a wide range of e
 **Summary**
 
 The 2013 Volkswagen Golf has a number of issues that can be frustrating and costly to repair. Some of the most severe issues, such as turbocharger failure and the Mechatronic unit failure, can have a major impact on the vehicle's performance and safety. However, not all issues are as severe and can be fixed relatively inexpensively. Overall, it is important to be aware of these issues and to have them addressed by a qualified mechanic as soon as possible to avoid potential further damage and expense.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

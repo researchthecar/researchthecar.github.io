@@ -42,19 +42,6 @@ While the Jetta is praised for its handling, spacious interior, and comfort, it 
 * **Transmission Slippage:** The transmission can slip, causing a loss of power or inability to shift gears. Symptoms include difficulty shifting gears, hesitation during acceleration, and a check engine light. The solution is to repair or replace the transmission. Estimated cost to fix: $1,500 - $2,500+
 * **Torque Converter Failure:** The torque converter can fail, causing a loss of power or complete transmission failure. Symptoms include a whining or grinding noise from the transmission, slipping, and overheating. The solution is to replace the torque converter. Estimated cost to fix: $800 - $1,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Front Suspension**
@@ -70,19 +57,6 @@ While the Jetta is praised for its handling, spacious interior, and comfort, it 
 * **Battery Drain:** The battery can drain prematurely, causing difficulty starting the vehicle. Symptoms include a dead battery, dim headlights, and a check engine light. The solution is to identify and repair the source of the battery drain. Estimated cost to fix: Varies depending on the cause
 * **Alternator Failure:** The alternator can fail, causing the battery to not charge. Symptoms include a dim battery light, difficulty starting the vehicle, and a loss of electrical power. The solution is to replace the alternator. Estimated cost to fix: $400 - $600+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Sunroof Drainage Problems:** The sunroof drains can become clogged, causing water to leak into the cabin. Symptoms include a wet headliner, water on the floor, and a musty odor. The solution is to clean the drains and replace any damaged seals. Estimated cost to fix: $100 - $200+
@@ -95,15 +69,3 @@ While the Jetta is praised for its handling, spacious interior, and comfort, it 
 **Summary**
 
 Overall, the 2002 Volkswagen Jetta is a reliable and well-rounded vehicle. However, like any car, it has its fair share of common issues. The severity and cost of these issues can vary depending on the specific problem and the age and mileage of the vehicle. Regular maintenance and timely repairs can help prevent or minimize these issues, ensuring a more enjoyable and cost-effective ownership experience.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

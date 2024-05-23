@@ -27,19 +27,6 @@ The 1994 Nissan Ichi Van is a compact van offered with a 1.6L gasoline engine an
 * **Alternator Failure:** The alternator may fail, leading to battery drain and electrical problems. Symptoms include dim headlights, flickering dashboard lights, and difficulty starting the vehicle. Solution: Replace the alternator. Estimated Cost to Fix: $300 - $500
 * **Wiring Harness Issues:** The wiring harness in the Ichi Van can develop electrical faults, causing various electrical issues. Symptoms may vary depending on the affected circuit. Solution: Inspect and repair the affected wiring. Estimated Cost to Fix: $100 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Leaf Springs:** The rear leaf springs can sag over time, leading to poor load handling and a decrease in ride height. Symptoms include a rough ride, bottoming out on bumps, and uneven tire wear. Solution: Replace the leaf springs. Estimated Cost to Fix: $200 - $400
@@ -50,19 +37,6 @@ The 1994 Nissan Ichi Van is a compact van offered with a 1.6L gasoline engine an
 * **Dashboard Cracking:** The dashboard on some Ichi Vans can develop cracks, especially on the passenger side. This is primarily a cosmetic issue. Solution: Replace the dashboard or cover it with a dash cover. Estimated Cost to Fix: $100 - $500+
 * **HVAC System Malfunctions:** The HVAC system can experience various issues, including blower motor failure, thermostat problems, and evaporator coil leaks. Symptoms may vary depending on the specific issue. Solution: Inspect and repair or replace the affected components. Estimated Cost to Fix: $100 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door Handle Failure:** The exterior door handles can become loose or break, making it difficult to open the doors. Solution: Replace the faulty door handles. Estimated Cost to Fix: $50 - $150+
@@ -71,15 +45,3 @@ The 1994 Nissan Ichi Van is a compact van offered with a 1.6L gasoline engine an
 **Summary:**
 
 The 1994 Nissan Ichi Van is generally a reliable vehicle with a spacious interior and low maintenance costs. However, it has some reported issues that owners should be aware of, such as exhaust system rust, intake manifold gasket leaks, clutch failure, wiring harness problems, rear leaf spring sagging, dashboard cracking, and HVAC system malfunctions. These issues can vary in severity and cost to fix, but they are generally not major mechanical concerns.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

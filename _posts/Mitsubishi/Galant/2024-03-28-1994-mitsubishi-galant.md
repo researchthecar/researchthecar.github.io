@@ -38,19 +38,6 @@ Solution: Replace or rebuild transmission
 Estimated Cost to Fix: $1500 - $3000+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Strut failure**
 Description/Symptoms: Worn or damaged struts can lead to a rough ride, decreased handling, and uneven tire wear
@@ -64,19 +51,6 @@ Description/Symptoms: The alternator may stop charging the battery, leading to e
 Solution: Replace alternator
 Estimated Cost to Fix: $300 - $600+
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Door lock failure**
@@ -94,15 +68,3 @@ Recalls: None Found
 
 **Summary**
 The 1994 Mitsubishi Galant has several potential issues, some of which can be severe and expensive to fix. Engine issues can include intake manifold gasket failure and timing belt failure. Transmission problems may involve grinding or difficult shifting, as well as slipping or delayed gear engagement. Suspension issues, such as strut failure, can affect the ride quality and handling. Electrical problems can include alternator failure, leading to potential engine failure if not addressed promptly. Some exterior issues include door lock failure, while interior issues may involve climate control failure. Overall, while the Galant offers impressive performance, its reliability and cost of ownership may be a concern for potential owners.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

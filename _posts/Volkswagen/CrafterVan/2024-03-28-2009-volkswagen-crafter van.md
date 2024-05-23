@@ -28,19 +28,6 @@ Owners generally appreciate the Crafter Van's durability, fuel efficiency, and a
 * **Grinding or difficulty shifting gears:** Worn synchronizers or a faulty clutch can cause difficulty shifting gears. Transmission rebuild or replacement: $1,000 - $3,000+
 * **Gearbox oil leaks:** A leaking gearbox can lead to low oil levels and transmission damage. Gasket or seal replacement: $200 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension wear:** Worn ball joints or bushings can result in clunking or rattling noises while driving. Suspension component replacement: $200 - $500+ per component
@@ -50,19 +37,6 @@ Owners generally appreciate the Crafter Van's durability, fuel efficiency, and a
 
 * **Alternator failure:** A faulty alternator can lead to battery discharge and electrical system issues. Alternator replacement: $400 - $800+
 * **Starter motor problems:** A worn or defective starter motor can cause difficulty starting the engine. Starter motor replacement: $300 - $600+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -77,15 +51,3 @@ Owners generally appreciate the Crafter Van's durability, fuel efficiency, and a
 **Summary:**
 
 While the 2009 Volkswagen Crafter Van is a capable vehicle, it is not without its share of common issues. The most severe and costly issues relate to engine and transmission components, including turbocharger failure, transmission grinding, and suspension wear. Electrical problems, rust formation, and interior component failures are also reported but are generally less severe and costly to fix. Potential buyers should be aware of these potential issues before purchasing a used Crafter Van.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

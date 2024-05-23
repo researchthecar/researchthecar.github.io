@@ -48,19 +48,6 @@ The 2007 Pontiac Torrent is a midsize crossover SUV that was available with two 
         * Solution: Replace the leaking components and top up the fluid.
         * Estimated Cost to Fix: $100 - $500
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front strut failure:** The front struts can fail, causing the vehicle to bounce or ride rough.
@@ -85,19 +72,6 @@ The 2007 Pontiac Torrent is a midsize crossover SUV that was available with two 
     * Solution: Replace the faulty window switch.
     * Estimated Cost to Fix: $100 - $250
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Clearcoat peeling:** The clearcoat on the paint may peel, especially on the hood and roof.
@@ -119,15 +93,3 @@ The 2007 Pontiac Torrent is a midsize crossover SUV that was available with two 
 **Summary**
 
 The 2007 Pontiac Torrent has a range of potential issues, particularly with the engine and transmission. The severity of the issues can vary, with some requiring costly repairs, such as engine replacement or transmission rebuilds. However, many of the issues can be resolved relatively inexpensively. Overall, the Torrent offers a spacious and comfortable interior, but buyers should be aware of the potential issues before making a purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

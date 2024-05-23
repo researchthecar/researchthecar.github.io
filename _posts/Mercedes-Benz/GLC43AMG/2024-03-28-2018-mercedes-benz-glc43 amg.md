@@ -27,19 +27,6 @@ The 2018 Mercedes-Benz GLC43 AMG is a high-performance SUV that combines luxury 
   * Estimated Cost to Fix: $2,000-$4,000+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Airmatic Air Suspension**
 
@@ -61,19 +48,6 @@ The 2018 Mercedes-Benz GLC43 AMG is a high-performance SUV that combines luxury 
   * Estimated Cost to Fix: $500-$1,500+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 * **Headlight condensation**
   * Description/Symptoms: Condensation can build up inside the headlights, affecting visibility and potentially causing damage.
@@ -91,15 +65,3 @@ The 2018 Mercedes-Benz GLC43 AMG is a high-performance SUV that combines luxury 
 **Summary**
 
 The 2018 Mercedes-Benz GLC43 AMG is a well-rounded performance SUV, but it is not without its issues. The engine, transmission, and suspension components can experience problems that may require costly repairs. Electrical issues and interior rattles can also affect the vehicle's overall reliability and user experience. While the severity of these issues may vary, owners should be aware of these potential problems and factor in the potential costs of repairs when considering purchasing or maintaining a GLC43 AMG.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

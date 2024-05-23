@@ -99,15 +99,3 @@ The Beetle is praised for its iconic design, retro styling, and fun-to-drive nat
 ## Summary
 
 The 2014 Volkswagen Beetle has a number of potential issues, particularly with its engine, transmission, and suspension. These issues can be relatively costly to fix, especially timing chain failure and transmission failure. However, it is important to note that not all Beetles will experience these problems. The overall severity and cost of the issues should be considered relative to the vehicle's age and mileage.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

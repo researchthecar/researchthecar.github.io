@@ -36,19 +36,6 @@ People who like the E43 AMG praise its powerful engine, responsive handling, and
         * Solution: Replace the torque converter.
         * Estimated Cost to Fix: $2,000 - $3,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Air suspension failure:** The air suspension system can fail, causing the vehicle to ride lower than normal.
     * Solution: Replace the air suspension components.
@@ -62,19 +49,6 @@ People who like the E43 AMG praise its powerful engine, responsive handling, and
 * **Electrical short:** An electrical short can occur, causing various electrical components to fail.
     * Solution: Diagnose and repair the electrical short.
     * Estimated Cost to Fix: $500 - $2,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -94,15 +68,3 @@ People who like the E43 AMG praise its powerful engine, responsive handling, and
 **Summary**
 
 The 2019 Mercedes-Benz E43 AMG is a high-performance vehicle that offers a powerful engine, responsive handling, and a luxurious interior. However, some owners have reported issues with the vehicle's engine, transmission, and other components. These issues can be expensive to fix, so it is important to be aware of them before purchasing an E43 AMG.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

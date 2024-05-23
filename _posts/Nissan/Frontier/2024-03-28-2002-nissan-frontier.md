@@ -57,19 +57,6 @@ The 2002 Nissan Frontier is a compact pickup truck with a wide range of availabl
     - Solution: Replace torque converter
     - Estimated Cost to Fix: $1,000 - $2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Front Suspension:**
@@ -106,19 +93,6 @@ The 2002 Nissan Frontier is a compact pickup truck with a wide range of availabl
     - Solution: Replace starter
     - Estimated Cost to Fix: $300 - $600+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 - **Rust on Frame:**
@@ -154,15 +128,3 @@ The 2002 Nissan Frontier is a compact pickup truck with a wide range of availabl
 The 2002 Nissan Frontier has a range of issues that can affect its reliability. While some issues are relatively minor and inexpensive to fix, others can be more severe and costly.
 
 Owners may experience engine issues, transmission failures, suspension problems, electrical faults, and interior component failures. The severity and cost of these issues vary depending on the specific problem and the parts involved.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

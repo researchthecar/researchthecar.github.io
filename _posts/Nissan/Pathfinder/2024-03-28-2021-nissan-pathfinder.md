@@ -43,19 +43,6 @@ The Pathfinder is praised for its spacious interior, comfortable ride, and impre
         * Estimated Cost to Fix: $1,500 - $3,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -67,19 +54,6 @@ The Pathfinder is praised for its spacious interior, comfortable ride, and impre
     * Solution: Replace the battery or diagnose electrical system for parasitic drains.
     * Estimated Cost to Fix: $200 - $500+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -105,15 +79,3 @@ The Pathfinder is praised for its spacious interior, comfortable ride, and impre
 **Summary**
 
 The 2021 Nissan Pathfinder has several reported issues, including engine and transmission problems, electrical issues, exterior issues, and interior problems. While some issues are minor, such as battery drain or infotainment system glitches, others can be more serious and costly, such as valve body failure or timing chain guide failure. Overall, the severity and cost of the issues reported suggest that the reliability of the Pathfinder may be a concern for some owners.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

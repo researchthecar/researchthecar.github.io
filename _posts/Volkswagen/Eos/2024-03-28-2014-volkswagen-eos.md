@@ -43,19 +43,6 @@ The 2014 Volkswagen Eos is a stylish and practical convertible that combines com
 * Estimated Cost to Fix: $200 - $500+
 **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 ***Strut Mount Bearing Failure***
@@ -71,19 +58,6 @@ The 2014 Volkswagen Eos is a stylish and practical convertible that combines com
 * Solution: Identifying and resolving the source of the electrical drain, such as faulty wiring or accessories.
 * Estimated Cost to Fix: Varies depending on the cause
 **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -104,15 +78,3 @@ The 2014 Volkswagen Eos is a stylish and practical convertible that combines com
 **Summary**
 
 The 2014 Volkswagen Eos has several potential issues that owners may encounter, particularly with the engine (carbon buildup, timing chain tensioner failure), transmission (synchro mesh wear, fluid leaks), and suspension (strut mount bearing failure). While some of these issues may be costly to fix, they can often be prevented with regular maintenance and early detection. Overall, the Eos offers a blend of style, performance, and practicality, but it's essential to be aware of these potential issues to make an informed decision before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

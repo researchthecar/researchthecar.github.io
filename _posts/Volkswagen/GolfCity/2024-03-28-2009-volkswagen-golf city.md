@@ -37,19 +37,6 @@ The 2009 Volkswagen Golf City is a compact hatchback renowned for its agile hand
         - Estimated Cost to Fix: $400 - $800+
         - Recalls: NHTSA Campaign Number N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **No Issues Found**
 
@@ -59,19 +46,6 @@ The 2009 Volkswagen Golf City is a compact hatchback renowned for its agile hand
     - Solution: Diagnose and repair electrical system components causing drain
     - Estimated Cost to Fix: $100 - $500+
     - Recalls: NHTSA Campaign Number N/A
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Hatchback Release Failure:**
@@ -95,15 +69,3 @@ The 2009 Volkswagen Golf City is a compact hatchback renowned for its agile hand
 **Summary:**
 
 Overall, the 2009 Volkswagen Golf City has mixed reliability. While it faces some concerns with its engine and transmission components, it generally has no issues with its suspension, exterior, or interior. The severity and cost of the issues can vary depending on the specific problem encountered and the extent of the repair required.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

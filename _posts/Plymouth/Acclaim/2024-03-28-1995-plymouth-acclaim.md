@@ -55,19 +55,6 @@ The 1995 Plymouth Acclaim was a mid-size sedan produced by Plymouth. It was powe
     * Estimated Cost to Fix: $500 - $1,200
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Worn Struts:**
@@ -94,19 +81,6 @@ The 1995 Plymouth Acclaim was a mid-size sedan produced by Plymouth. It was powe
     * Estimated Cost to Fix: $500 - $800
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust:**
@@ -125,15 +99,3 @@ The 1995 Plymouth Acclaim was a mid-size sedan produced by Plymouth. It was powe
 **Summary**
 
 The 1995 Plymouth Acclaim has a range of potential issues that can vary in severity and cost. Some of the more common and costly issues include head gasket failure, transmission problems, and rust. While many of the issues can be addressed with proper maintenance and repairs, it's important to note that the Acclaim may require more frequent attention than some other vehicles.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

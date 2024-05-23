@@ -34,19 +34,6 @@ The 2019 Mercedes-Benz Maybach S560 is the pinnacle of luxury and performance, o
     * Solution: May require transmission repair or replacement.
     * Estimated Cost to Fix: $3,000 - $5,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Air Suspension Failure:** The air suspension system can fail, causing the vehicle to sag or ride rough.
@@ -68,19 +55,6 @@ The 2019 Mercedes-Benz Maybach S560 is the pinnacle of luxury and performance, o
     * Solution: Replace keyless entry system components.
     * Estimated Cost to Fix: $500 - $1,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior:**
 
 * **No Issues Found**
@@ -100,15 +74,3 @@ The 2019 Mercedes-Benz Maybach S560 is the pinnacle of luxury and performance, o
 **Summary:**
 
 Overall, the 2019 Mercedes-Benz Maybach S560 is a technologically advanced and luxurious vehicle. However, it has experienced some issues that can be costly to repair. Engine and transmission problems are the most significant concerns, with potential expenses exceeding $4,000. Suspension and electrical issues can also be costly, while interior problems tend to be less expensive but still inconvenient. Owners should be aware of these potential issues and factor them into their purchasing decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -39,19 +39,6 @@ The 2020 Mercedes-Benz E63 AMG is a high-performance sedan that combines luxury,
     * Estimated Cost to Fix: $2,000 - $5,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Adaptive Damping System Malfunction:**
@@ -78,19 +65,6 @@ The 2020 Mercedes-Benz E63 AMG is a high-performance sedan that combines luxury,
     * Estimated Cost to Fix: $0 - $200+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior:**
 
 * **No major issues found**
@@ -111,15 +85,3 @@ The 2020 Mercedes-Benz E63 AMG is a high-performance sedan that combines luxury,
 **Summary:**
 
 Overall, the 2020 Mercedes-Benz E63 AMG is a reliable and impressive vehicle. However, like any car, it has certain issues that owners may encounter. The most common issues reported include timing chain tensioner failure, turbocharger valve malfunction, and transmission slipping. While these issues can be costly to repair, they are relatively rare. The majority of E63 AMG owners enjoy their vehicles without experiencing any major problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -29,19 +29,6 @@ Despite its impressive performance and handling, the 2011 Porsche Cayman is not 
     * **Mechatronic Unit Failure:** Symptoms include sudden loss of power or difficulty shifting gears. Solution: Replace the mechatronic unit. Estimated Cost to Fix: $5,000 - $10,000+
     * **Torque Converter Clutch Shudder:** Symptoms include vibrations or shuddering during acceleration. Solution: Replace the torque converter clutch. Estimated Cost to Fix: $3,000 - $6,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Ball Joint Wear:** Symptoms include clunking or rattling noises from the suspension, especially over bumps. Solution: Replace the worn ball joints. Estimated Cost to Fix: $500 - $1,000+ per side
@@ -51,19 +38,6 @@ Despite its impressive performance and handling, the 2011 Porsche Cayman is not 
 
 * **Battery Drain:** Symptoms include a dead battery or slow cranking. Solution: Inspect and replace the faulty electrical components, such as the alternator, starter, or battery. Estimated Cost to Fix: $500 - $1,500+
 * **Headlight Moisture Buildup:** Symptoms include condensation inside the headlight lenses. Solution: Replace the headlight lenses or install a headlight breather kit. Estimated Cost to Fix: $500 - $1,000+ per headlight
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -78,15 +52,3 @@ Despite its impressive performance and handling, the 2011 Porsche Cayman is not 
 **Summary:**
 
 While the 2011 Porsche Cayman offers a thrilling driving experience, it is not immune to its fair share of issues. Some of the more severe problems, such as piston ring failure and bore scoring, can be very expensive to repair. However, many of the other issues, such as oil leaks and transmission bushing wear, are relatively minor and can be fixed for a reasonable cost. Overall, the severity and cost of the issues with the 2011 Porsche Cayman vary widely, and potential buyers should research and consider these potential issues before making a purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

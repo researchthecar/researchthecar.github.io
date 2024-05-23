@@ -44,19 +44,6 @@ The 2012 Mercedes-Benz Torino is a luxury SUV that offers a powerful performance
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Compressor Failure:** The air suspension compressor fails, leading to a loss of air pressure and a lowered suspension.
@@ -80,19 +67,6 @@ The 2012 Mercedes-Benz Torino is a luxury SUV that offers a powerful performance
     * Solution: Replace the affected headlights.
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -121,15 +95,3 @@ The 2012 Mercedes-Benz Torino is a luxury SUV that offers a powerful performance
 **Summary**
 
 The 2012 Mercedes-Benz Torino has several common issues that can affect its performance, reliability, and comfort. The engine and transmission problems can be costly to fix, especially the timing chain tensioner failure and torque converter shudder. The suspension issues, though less severe, can also be expensive to repair. Electrical problems and interior malfunctions can be frustrating but are typically less expensive to fix. Overall, the Torino's reliability issues are a major concern, and owners may need to budget for significant repairs in the long run.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

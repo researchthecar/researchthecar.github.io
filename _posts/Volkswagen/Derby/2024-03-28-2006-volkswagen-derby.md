@@ -101,15 +101,3 @@ The 2006 Volkswagen Derby is a subcompact sedan that is no longer in production.
 **Summary**
 
 The 2006 Volkswagen Derby is a reliable and affordable subcompact sedan. However, it is not without its problems. Some of the most common issues include oil leaks, timing belt failure, carbon buildup, gear grinding, clutch failure, strut failure, sway bar link failure, battery drain, door lock failure, sunroof leaks, dashboard rattle, and seat belt retractor failure. The severity and cost of these issues can vary, but they should all be considered when purchasing a used 2006 Volkswagen Derby.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

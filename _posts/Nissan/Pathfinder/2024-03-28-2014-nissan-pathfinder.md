@@ -31,19 +31,6 @@ The 2014 Nissan Pathfinder is a midsize SUV offered with three engine and transm
   - Estimated Cost to Fix: $4,000 - $7,000+
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension Issues**
 
 - **Rear Suspension Sagging:** The rear suspension components can weaken over time, leading to sagging and compromised handling.
@@ -63,19 +50,6 @@ The 2014 Nissan Pathfinder is a midsize SUV offered with three engine and transm
   - Estimated Cost to Fix: $300 - $1,000+
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior Issues**
 
 - **Sunroof Leaks:** The sunroof mechanism can fail, allowing water to leak into the cabin.
@@ -92,15 +66,3 @@ The 2014 Nissan Pathfinder is a midsize SUV offered with three engine and transm
 
 **Summary**
 The 2014 Nissan Pathfinder has reported issues affecting various components, including the engine, transmission, suspension, and electrical systems. While some issues are minor and relatively inexpensive to fix, others can be severe and costly. Drivers considering this vehicle should be aware of these potential issues and factor them into their purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

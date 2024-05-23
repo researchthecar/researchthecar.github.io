@@ -65,19 +65,6 @@ The 2012 Volkswagen Touareg is a midsize luxury SUV that offers a wide range of 
 > Estimated Cost to Fix: $500 - $1,000+
 > Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Compressor Failure**
@@ -106,19 +93,6 @@ The 2012 Volkswagen Touareg is a midsize luxury SUV that offers a wide range of 
 > Estimated Cost to Fix: $200 - $500+
 > Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Tailgate Latch Failure**
@@ -146,15 +120,3 @@ The 2012 Volkswagen Touareg is a midsize luxury SUV that offers a wide range of 
 **Summary**
 
 The 2012 Volkswagen Touareg is a vehicle with several reported issues that can affect its engine, transmission, suspension, electrical system, and interior. While some issues are relatively minor and inexpensive to fix, others can be severe and costly. Potential buyers should be aware of these potential problems before purchasing this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

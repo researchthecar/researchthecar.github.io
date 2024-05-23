@@ -37,19 +37,6 @@ Solution: Replace torque converter clutch
 Estimated Cost to Fix: $1,000 - $1,500+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Strut Mount Failure**
@@ -65,19 +52,6 @@ Description/Symptoms: Dimming lights, battery warning light on, difficulty start
 Solution: Replace alternator
 Estimated Cost to Fix: $500 - $800+
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -98,15 +72,3 @@ Recalls: None Found
 **Summary**
 
 The 2004 Volkswagen Derby has a moderate number of reported issues, with the most severe being the torque converter clutch failure in the 6-speed automatic transmission. The cost of repairs can range from a few hundred dollars for minor issues to over $1,000 for major repairs. While some of these issues are common among Volkswagen vehicles of this era, others are unique to the Derby, such as the intake manifold gasket failure on the 1.6L engine. Overall, the Derby is a reliable vehicle, but potential buyers should be aware of the potential issues and associated repair costs before making a purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

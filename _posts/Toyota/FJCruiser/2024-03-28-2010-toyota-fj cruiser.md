@@ -26,19 +26,6 @@ The 2010 Toyota FJ Cruiser is a rugged and capable SUV that has garnered a loyal
 
 * **No Major Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaking Struts:** Some owners of the FJ Cruiser have reported leaking front struts. This can cause a loss of suspension performance and can lead to damage to the suspension components if not addressed. Symptoms include a spongy or bouncy ride, uneven tire wear, and oil leaking from the struts. The solution is to replace the leaking struts, which costs around $500 to $1,000 for parts and labor.
@@ -49,33 +36,8 @@ The 2010 Toyota FJ Cruiser is a rugged and capable SUV that has garnered a loyal
 * **Alternator Failure:** Some owners of the FJ Cruiser have reported alternator failures. This can cause the vehicle's battery to drain and can lead to the vehicle stalling or being unable to start. Symptoms include a flickering or dim dashboard lights, difficulty starting the vehicle, or a check engine light. The solution is to replace the alternator, which costs around $500 to $1,000 for parts and labor.
 * **Battery Drain:** Some owners of the FJ Cruiser have reported battery drain issues. This can be caused by a variety of factors, including a faulty alternator, a parasitic drain, or a weak battery. Symptoms include a dead battery, difficulty starting the vehicle, or a check engine light. The solution is to diagnose and fix the underlying cause of the battery drain, which can cost anywhere from $100 to $500 or more depending on the issue.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust**
 
 * **Frame Rust:** The FJ Cruiser is known to have a rust issue on the frame. This can lead to structural damage and can compromise the safety of the vehicle. Symptoms include rust on the frame, especially near the rear of the vehicle. The solution is to repair or replace the rusted frame, which can cost anywhere from $1,000
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -49,19 +49,6 @@ The 2013 Volkswagen Passat is a midsize sedan that offers a refined ride, spacio
         - Estimated Cost to Fix: $2,500 - $4,000+
         - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Front Control Arm Bushing Failure**
     - Description/Symptoms: Clunking or popping noises from the suspension, vibration, and poor handling.
@@ -85,19 +72,6 @@ The 2013 Volkswagen Passat is a midsize sedan that offers a refined ride, spacio
     - Solution: Replacing the faulty ignition coil(s).
     - Estimated Cost to Fix: $150 - $300+ per coil
     - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Headlight Condensation**
@@ -125,15 +99,3 @@ The 2013 Volkswagen Passat is a midsize sedan that offers a refined ride, spacio
 
 **Summary**
 The 2013 Volkswagen Passat offers a comfortable ride and powerful engines, but it has faced numerous reliability concerns. The most common issues reported by owners include engine problems, such as carbon buildup, timing chain tensioner failure, and torque converter clutch failure in the transmission. Additionally, suspension issues, electrical problems, exterior issues, and interior issues have been encountered. The severity and cost of repairs vary depending on the specific problem, but they can be quite expensive in some cases. Potential buyers should be aware of these issues and factor them into their decision-making process.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

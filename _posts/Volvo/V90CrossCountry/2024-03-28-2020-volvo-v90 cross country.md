@@ -27,19 +27,6 @@ The 2020 Volvo V90 Cross Country is a premium midsize station wagon that combine
 
 * **Shifting Problems:** Description/Symptoms: Transmission may hesitate or refuse to shift gears, causing jerky acceleration, slipping, or loss of power. Solution: Software update, transmission fluid change, or replacement of transmission. Estimated Cost to Fix: $500 - $4,000+ Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Noise:** Description/Symptoms: Squeaking, rattling, or knocking noises coming from the front suspension. Solution: Replacement of worn or damaged suspension components, such as ball joints, bushings, or struts. Estimated Cost to Fix: $500 - $1,000+ Recalls: None Found
@@ -49,19 +36,6 @@ The 2020 Volvo V90 Cross Country is a premium midsize station wagon that combine
 * **Battery Drain:** Description/Symptoms: Battery discharges quickly, preventing the vehicle from starting. Solution: Diagnosis and repair of faulty electrical components, such as alternator, starter, or battery. Estimated Cost to Fix: $200 - $1,000+ Recalls: None Found
 
 * **Electrical System Malfunctions:** Description/Symptoms: Intermittent electrical issues, such as flickering lights, malfunctioning electronics, or power loss. Solution: Diagnosis and repair of faulty electrical components, wiring, or software. Estimated Cost to Fix: $200 - $800+ Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -76,15 +50,3 @@ The 2020 Volvo V90 Cross Country is a premium midsize station wagon that combine
 **Summary:**
 
 While the 2020 Volvo V90 Cross Country offers a luxurious and comfortable driving experience, it has experienced some issues. Engine problems, particularly with the T5 and T6 engines, can be costly to repair. Transmission issues can also be a concern, but electrical and exterior issues are generally less severe. Overall, the reported issues are not considered widespread, but they can befrustrating and expensive for affected owners.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

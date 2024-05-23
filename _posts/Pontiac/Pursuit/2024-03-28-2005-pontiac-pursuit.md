@@ -35,19 +35,6 @@ The 2005 Pontiac Pursuit is a compact sedan that offers a combination of style a
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut mounts failure:** Can cause noise, vibration, and reduced handling.
@@ -70,19 +57,6 @@ The 2005 Pontiac Pursuit is a compact sedan that offers a combination of style a
     * Estimated Cost to Fix: $200 - $400
     * Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Power window failure:** May experience windows that are slow, stuck, or inoperable.
@@ -104,15 +78,3 @@ The 2005 Pontiac Pursuit is a compact sedan that offers a combination of style a
 **Summary:**
 
 The 2005 Pontiac Pursuit is generally a reliable and practical vehicle, but it does have some known issues that can range in severity and cost. Engine issues, such as intake manifold gasket failure and water pump failure, are relatively common, while transmission issues can be more costly to repair. Suspension and electrical issues are also present, but the extent of the impact depends on the severity of the failure. Interior and exterior issues are generally less significant and less expensive to address. Overall, the Pursuit is a decent option for those seeking a compact sedan, but it's important to be aware of its potential issues and factor them into the purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

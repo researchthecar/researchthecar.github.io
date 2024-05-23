@@ -55,19 +55,6 @@ The 2008 Volkswagen Rabbit is a compact hatchback that offers a sporty and fuel-
     * Solution: Replace the torque converter.
     * Estimated Cost to Fix: $1500 - $2000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mounts**
@@ -97,19 +84,6 @@ The 2008 Volkswagen Rabbit is a compact hatchback that offers a sporty and fuel-
     * Description/Symptoms: The starter can fail, preventing the engine from starting.
     * Solution: Replace the starter.
     * Estimated Cost to Fix: $400 - $600
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -142,15 +116,3 @@ The 2008 Volkswagen Rabbit is a compact hatchback that offers a sporty and fuel-
 **Summary**
 
 The 2008 Volkswagen Rabbit is a sporty and fuel-efficient car, but it has also been plagued by a number of reliability issues. The most common engine problems include intake manifold failure and carbon buildup on intake valves. The transmission can also have problems, such as shifter cable failure, clutch failure, mechatronic unit failure, and torque converter failure. The suspension can have issues with strut mounts, control arms, and sway bar links. The electrical system is also prone to problems, such as battery drain, alternator failure, and starter failure. The exterior and interior can have issues with door handle failure, tail light failure, airbag deployment, heater core failure, and seat belt pretensioner failure. Overall, the 2008 Volkswagen Rabbit has a high number of reliability issues, many of which are expensive to fix.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

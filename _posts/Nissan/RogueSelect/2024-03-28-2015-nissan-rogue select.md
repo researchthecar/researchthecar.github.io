@@ -26,19 +26,6 @@ The 2015 Nissan Rogue Select is a compact SUV that combines style, functionality
 
 * **CVT failure:** Premature CVT failure can result in loss of power or jerking during acceleration. **Solution:** CVT replacement. **Estimated Cost to Fix:** $5,000 - $8,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut mount bearing failure:** Worn strut mount bearings can cause clunking noises, especially over bumps. **Solution:** Replacing the strut mounts and bearings. **Estimated Cost to Fix:** $500 - $1,200+
@@ -46,19 +33,6 @@ The 2015 Nissan Rogue Select is a compact SUV that combines style, functionality
 **Electrical**
 
 * **Electrical short:** Electrical shorts can cause various electrical issues, such as flickering lights, power loss, or battery drain. **Solution:** Identifying and repairing the short. **Estimated Cost to Fix:** $200 - $800+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -71,15 +45,3 @@ The 2015 Nissan Rogue Select is a compact SUV that combines style, functionality
 **Summary**
 
 Overall, the 2015 Nissan Rogue Select is a generally reliable vehicle with a spacious interior and versatile seating options. However, some specific issues, particularly related to the engine, transmission, and roof panel, can be concerning and may require costly repairs. It is advisable to thoroughly research and inspect the vehicle before purchasing to be aware of potential issues and estimate repair costs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

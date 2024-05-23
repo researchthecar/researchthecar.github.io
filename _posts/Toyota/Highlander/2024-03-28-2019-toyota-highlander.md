@@ -52,19 +52,6 @@ People like the Highlander for its spacious interior, comfortable ride, and impr
 
 - **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Strut mount bearing failure**
@@ -90,19 +77,6 @@ People like the Highlander for its spacious interior, comfortable ride, and impr
   - Solution: Replace radio display screen.
   - Estimated Cost to Fix: $500 - $1,000
   - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -133,15 +107,3 @@ People like the Highlander for its spacious interior, comfortable ride, and impr
 **Summary**
 
 The 2019 Toyota Highlander is a generally reliable SUV, but some owners have reported issues with the engine, transmission, suspension, electrical system, exterior, and interior. The severity and cost of these issues vary, but some can be expensive to repair. Overall, the vehicle's interior space, comfortable ride, and fuel economy make it a good choice for many buyers.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

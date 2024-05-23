@@ -46,19 +46,6 @@ Despite its impressive performance, the 1991 Mitsubishi Eclipse has its share of
         * Estimated Cost to Fix: $200 - $400+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Struts and Shocks**
@@ -81,19 +68,6 @@ Despite its impressive performance, the 1991 Mitsubishi Eclipse has its share of
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight Connectors Melting**
@@ -113,15 +87,3 @@ Despite its impressive performance, the 1991 Mitsubishi Eclipse has its share of
 **Summary**
 
 While the 1991 Mitsubishi Eclipse offers a thrilling driving experience, it is not without its share of issues. Some of these issues, such as intake manifold gasket failure and synchronizer wear, can be expensive to repair. However, other issues, like headlight connector melting, are relatively minor and inexpensive to fix. Overall, the severity and cost of the issues associated with the 1991 Mitsubishi Eclipse vary depending on the specific problem and the extent of the damage.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

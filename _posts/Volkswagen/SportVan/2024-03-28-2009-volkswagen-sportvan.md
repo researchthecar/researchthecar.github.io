@@ -85,19 +85,6 @@ Drivers like the SportVan's spacious interior and comfortable ride, but some com
     * Estimated Cost to Fix: $200 - $400
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Control Arm Bushing Wear:** Premature wear of the control arm bushings can lead to poor handling, uneven tire wear, and increased road noise.
@@ -121,19 +108,6 @@ Drivers like the SportVan's spacious interior and comfortable ride, but some com
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $500 - $800
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -162,15 +136,3 @@ Drivers like the SportVan's spacious interior and comfortable ride, but some com
 **Summary**
 
 The 2009 Volkswagen SportVan is a practical and affordable passenger van, but it is not without its issues. The most common problems reported by owners include timing chain tensioner failure, intake manifold gasket leaks, and CVT belt failure. Some models also experience issues with door handle failure, HVAC fan failure, and rust. While some of the fixes are relatively inexpensive, others can be costly, especially those related to the timing chain and transmission. Overall, the severity and cost of the issues should be considered before purchasing a used SportVan.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

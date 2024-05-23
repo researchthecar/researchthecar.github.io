@@ -21,19 +21,6 @@ The 2011 Mitsubishi Montero is a full-size SUV praised for its rugged off-road c
 * **5-Speed Automatic**
     * **Transmission Failure:** Loss of gears, slipping, or complete transmission failure may occur. The transmission may need to be rebuilt or replaced. Estimated Cost to Fix: $2,000 - $4,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Strut Failure:** The front suspension struts may fail, leading to reduced ride quality, uneven tire wear, and handling issues. Replacing the struts is the solution. Estimated Cost to Fix: $400 - $800
@@ -44,19 +31,6 @@ The 2011 Mitsubishi Montero is a full-size SUV praised for its rugged off-road c
 * **Alternator Failure:** The alternator may fail, causing electrical system malfunctions and potential battery drain. Replacing the alternator is the solution. Estimated Cost to Fix: $500 - $700
 * **Battery Drain:** The battery may discharge rapidly, even when the vehicle is not in use. The source of the drain needs to be identified and addressed. Estimated Cost to Fix: $100 - $500
 * **Fuse Panel Malfunction:** The fuse panel may experience problems with blown fuses or faulty connections, affecting various electrical systems. The fuse panel may need to be repaired or replaced. Estimated Cost to Fix: $200 - $500
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -72,15 +46,3 @@ The 2011 Mitsubishi Montero is a full-size SUV praised for its rugged off-road c
 **Summary:**
 
 Overall, the 2011 Mitsubishi Montero faces some reported issues, primarily affecting the engine, transmission, suspension, and electrical systems. While the severity of these issues varies, repairs can be costly. Owners should be aware of these potential problems and consider regular maintenance to mitigate their impact.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

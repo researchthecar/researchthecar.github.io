@@ -31,19 +31,6 @@ People like the Porsche Cayman for its sharp handling, powerful engines, and lux
 
 * **Clutch pack failure:** The clutch pack may fail prematurely, causing the transmission to slip or shudder. Symptoms include a slipping clutch, a shuddering transmission, and a check engine light. The solution is to replace the clutch pack. Estimated cost to fix: $2,500 - $4,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension noise:** The front suspension may make a clunking or rattling noise when driving over bumps. The solution is to replace the worn suspension components. Estimated cost to fix: $500 - $1,000+
@@ -53,19 +40,6 @@ People like the Porsche Cayman for its sharp handling, powerful engines, and lux
 
 * **Battery drain:** The battery may drain prematurely, causing the car to fail to start. The solution is to replace the battery or find and fix the electrical drain. Estimated cost to fix: $100 - $500+
 * **Alternator failure:** The alternator may fail prematurely, causing the car to lose power. Symptoms include a loss of power, a dim dashboard, and a check engine light. The solution is to replace the alternator. Estimated cost to fix: $500 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -79,15 +53,3 @@ People like the Porsche Cayman for its sharp handling, powerful engines, and lux
 **Summary**
 
 The Porsche Cayman is a well-built sports car, but it is not without its problems. Some of the most common issues reported by owners include oil leaks, timing chain failure, and transmission problems. However, these issues are not widespread and most Caymans are reliable vehicles. The severity and cost of the issues vary depending on the problem, but most can be fixed for a reasonable price.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

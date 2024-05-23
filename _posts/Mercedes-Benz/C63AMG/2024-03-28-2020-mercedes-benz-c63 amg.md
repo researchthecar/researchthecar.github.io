@@ -34,19 +34,6 @@ The 2020 Mercedes-Benz C63 AMG is a high-performance sedan with a potent 4.0-lit
     * Estimated Cost to Fix: $4,000 - $6,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Front Suspension**
@@ -78,19 +65,6 @@ The 2020 Mercedes-Benz C63 AMG is a high-performance sedan with a potent 4.0-lit
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Panoramic Sunroof Leaking:**
@@ -115,15 +89,3 @@ The 2020 Mercedes-Benz C63 AMG is a high-performance sedan with a potent 4.0-lit
 **Summary:**
 
 The 2020 Mercedes-Benz C63 AMG has some reported issues, particularly with the engine and transmission. These issues can be costly to fix and may impact the vehicle's performance and reliability. However, the C63 AMG remains a desirable sports sedan known for its engaging driving experience and luxurious interior.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

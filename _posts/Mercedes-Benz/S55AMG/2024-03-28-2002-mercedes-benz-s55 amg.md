@@ -56,15 +56,3 @@ Solution: Replace the SRS control unit.
 **Summary**
 
 The 2002 Mercedes-Benz S55 AMG is a high-performance sedan with a powerful engine, comfortable interior, and luxurious features. However, it has some potential issues, such as failing power window motors and a malfunctioning climate control module. These issues can be costly to fix, so it is important to factor in the cost of maintenance when considering purchasing an S55 AMG. Overall, the S55 AMG is a reliable vehicle with a solid reputation, but it is important to do your research and be aware of the potential issues before buying one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -28,19 +28,6 @@ The 2011 Volkswagen Golf, a compact hatchback, offered a range of engine and tra
 * **7-speed DSG (Dual-Clutch):**
     * **Mechatronic Unit Failure:** The mechatronic unit, which controls gear changes, can fail, leading to transmission problems. Symptoms include jerky shifting, loss of power, and an illuminated transmission warning light. The solution involves replacing the mechatronic unit. Estimated cost to fix: $2,000 - $4,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Premature Strut Wear:** The front struts may wear prematurely, causing noises and reduced handling. The solution involves replacing the affected struts. Estimated cost to fix: $500 - $1,000 per strut
@@ -49,19 +36,6 @@ The 2011 Volkswagen Golf, a compact hatchback, offered a range of engine and tra
 
 * **Alternator Failure:** The alternator can fail, leading to charging issues and a loss of electrical power. Symptoms include dim headlights, a weak battery, and an illuminated charging light. The solution involves replacing the alternator. Estimated cost to fix: $500 - $1,000
 * **Battery Drain:** Some models may experience premature battery drain. The solution involves identifying and addressing the source of the drain, such as installing a parasitic draw tester. Estimated cost to fix: $200 - $500
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -74,15 +48,3 @@ The 2011 Volkswagen Golf, a compact hatchback, offered a range of engine and tra
 **Summary:**
 
 The 2011 Volkswagen Golf has received mixed reviews regarding its reliability. While some owners have experienced major issues with the engine, transmission, and suspension, others have enjoyed a trouble-free ownership experience. The severity and cost of the repairs can vary depending on the specific problem and the extent of the damage. It is recommended to thoroughly research the potential issues before purchasing this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

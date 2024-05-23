@@ -37,19 +37,6 @@ Solution: Replace transmission fluid, transmission filter, or entire transmissio
 Estimated Cost to Fix: $2,000 - $5,000+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Air Suspension Failure**
@@ -71,19 +58,6 @@ Description/Symptoms: The infotainment system may freeze, display errors, or bec
 Solution: Software update or replacement of infotainment unit.
 Estimated Cost to Fix: $500 - $1,500+
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -116,15 +90,3 @@ Recalls: None Found
 **Summary**
 
 While the 2017 Mercedes-Benz Toreto 48 is a highly capable and desirable vehicle, it has experienced some issues that can be costly to repair. The most significant problems relate to the engine, transmission, and suspension, with issues such as turbocharger leaks, timing chain failure, transmission shifting issues, and suspension failures. These issues can range from minor annoyances to major mechanical failures, and it is important for potential owners to be aware of them before purchasing a Toreto 48.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

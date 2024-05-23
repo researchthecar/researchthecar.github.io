@@ -47,19 +47,6 @@ The Golf was praised for its handling, fuel efficiency, and spacious interior. H
     * Estimated Cost to Fix: $800 - $1,200
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front struts:**
@@ -85,19 +72,6 @@ The Golf was praised for its handling, fuel efficiency, and spacious interior. H
     * Solution: Replace alternator
     * Estimated Cost to Fix: $300 - $500
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -128,15 +102,3 @@ The Golf was praised for its handling, fuel efficiency, and spacious interior. H
 **Summary:**
 
 The 1998 Volkswagen Golf had a variety of issues, some of which were more severe and costly to fix. The most common issues were related to the engine, transmission, and suspension. While some repairs could be relatively inexpensive, others could be quite costly, especially if major components such as the engine or transmission needed to be replaced. Overall, owners should be aware of these potential issues and budget accordingly for repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

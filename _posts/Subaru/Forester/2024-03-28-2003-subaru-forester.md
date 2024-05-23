@@ -52,19 +52,6 @@ The 2003 Subaru Forester is a compact SUV known for its versatility, reliability
         * Estimated Cost to Fix: $200 - $500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut failure**
@@ -93,19 +80,6 @@ The 2003 Subaru Forester is a compact SUV known for its versatility, reliability
     * Estimated Cost to Fix: $100 - $200
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rear differential seal leak**
@@ -125,15 +99,3 @@ The 2003 Subaru Forester is a compact SUV known for its versatility, reliability
 **Summary**
 
 The 2003 Subaru Forester is generally a reliable vehicle, but it has a few notable issues that owners should be aware of. The most serious issues include head gasket failure, timing belt failure, and turbocharger failure on the turbocharged engine. Transmission issues, suspension issues, and electrical issues are also common. The severity and cost of repairs can vary depending on the specific issue and the extent of the damage. It is important for owners to regularly maintain their Foresters and address any issues promptly to avoid costly repairs in the future.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -23,19 +23,6 @@ The 2021 Mercedes-Benz GLA45 AMG is a compact luxury SUV powered by a 2.0-liter 
 * **Transmission control module failure:** Symptoms include erratic shifting, delayed gear changes, and a check engine light. Solution: Replace the transmission control module. **Estimated Cost to Fix:** $500 - $1,000+
 * **Transmission fluid leaks:** Symptoms include low transmission fluid levels and a burning smell. Solution: Repair or replace the faulty seals or gaskets. **Estimated Cost to Fix:** $200 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front strut failure:** Symptoms include excessive bouncing, a rough ride, and uneven tire wear. Solution: Replace the faulty strut assembly. **Estimated Cost to Fix:** $500 - $1,000+
@@ -48,19 +35,6 @@ The 2021 Mercedes-Benz GLA45 AMG is a compact luxury SUV powered by a 2.0-liter 
 * **Alternator failure:** Symptoms include a dim instrument cluster, a weak battery, and a check engine light. Solution: Replace the alternator. **Estimated Cost to Fix:** $500 - $1,000+
 * **Wiring harness issues:** Symptoms include electrical malfunctions, flickering lights, and a check engine light. Solution: Repair or replace the faulty wiring harness. **Estimated Cost to Fix:** $500 - $2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Sunroof drain tube blockage:** Symptoms include water leaking into the cabin. Solution: Clean the sunroof drain tubes. **Estimated Cost to Fix:** $100 - $300+
@@ -72,15 +46,3 @@ The 2021 Mercedes-Benz GLA45 AMG is a compact luxury SUV powered by a 2.0-liter 
 
 **Summary**
 The 2021 Mercedes-Benz GLA45 AMG is a performance SUV that has received positive reviews. However, some owners have experienced issues with the engine, transmission, suspension, electrical components, exterior, and interior. The severity of these issues varies, and the cost of repairs can range from a few hundred dollars to several thousand dollars. While not all GLA45 AMG owners will encounter these problems, it is important to be aware of them before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

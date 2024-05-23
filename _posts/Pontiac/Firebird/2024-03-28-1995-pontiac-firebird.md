@@ -80,19 +80,6 @@ The 1995 Pontiac Firebird is a stylish and performance-oriented muscle car. It w
 **5-Speed Manual**
 **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Mount Failure**
@@ -129,19 +116,6 @@ The 1995 Pontiac Firebird is a stylish and performance-oriented muscle car. It w
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 * **Roof Panel Leaks**
     * Description/Symptoms: Water leaks into interior
@@ -174,15 +148,3 @@ The 1995 Pontiac Firebird is a stylish and performance-oriented muscle car. It w
 **Summary:**
 
 The 1995 Pontiac Firebird has several reported issues, but some are more severe and costly than others. Engine problems, such as intake manifold gasket failure and connecting rod bearing failure, can be expensive to fix and impact the car's drivability. Transmission issues, including slipping and torque converter failure, can also require significant repairs. Electrical problems, such as battery and alternator failure, can be fairly common but are less costly to address. Exterior and interior issues, such as roof panel leaks and HVAC failure, can also affect the car's comfort and functionality. Overall, the reliability of the 1995 Pontiac Firebird can vary depending on the severity and prevalence of the issues experienced.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

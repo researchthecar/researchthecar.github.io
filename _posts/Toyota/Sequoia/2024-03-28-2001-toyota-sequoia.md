@@ -42,19 +42,6 @@ The 2001 Toyota Sequoia is a full-size SUV known for its versatility, spaciousne
 
 * **No Major Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf Spring Sagging:**
@@ -76,19 +63,6 @@ The 2001 Toyota Sequoia is a full-size SUV known for its versatility, spaciousne
     * Estimated Cost to Fix: $500 - $700
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **No Major Issues Found**
@@ -109,15 +83,3 @@ The 2001 Toyota Sequoia is a full-size SUV known for its versatility, spaciousne
 **Summary:**
 
 Overall, the 2001 Toyota Sequoia is a reliable vehicle, but it is not without its issues. The most common problems reported by owners include valve stem seal failure, timing belt failure, and torque converter shudder. These issues can be costly to fix, but they are also relatively common and can be addressed with regular maintenance and repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -60,19 +60,6 @@ The 1992 Oldsmobile Bravada was a mid-size SUV that offered a blend of rugged ca
     * Estimated Cost to Fix: $100 - $200+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Ball Joint Failure:**
@@ -98,19 +85,6 @@ The 1992 Oldsmobile Bravada was a mid-size SUV that offered a blend of rugged ca
     * Solution: Replace starter
     * Estimated Cost to Fix: $150 - $300+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -141,15 +115,3 @@ The 1992 Oldsmobile Bravada was a mid-size SUV that offered a blend of rugged ca
 **Summary:**
 
 The 1992 Oldsmobile Bravada had a number of potential issues, ranging from minor to severe. The most common engine and transmission problems involved gasket failures and slipping gears, respectively. The suspension was also prone to ball joint and leaf spring failures. Electrical issues included alternator and starter failures, while exterior problems could include rust and power window malfunctions. Some interior components, such as the headliner and dashboard, could also experience issues. The severity and cost of these problems varied widely, with some being relatively inexpensive to fix while others could be quite costly.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

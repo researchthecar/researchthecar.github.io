@@ -34,19 +34,6 @@ Owners appreciate the Sequoia's reliability, durability, and comfortable ride. H
 * Estimated Cost to Fix: $1,200 - $2,000+
 * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -58,19 +45,6 @@ Owners appreciate the Sequoia's reliability, durability, and comfortable ride. H
 * Solution: Replace faulty alternator.
 * Estimated Cost to Fix: $600 - $1,000+
 * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -91,15 +65,3 @@ Owners appreciate the Sequoia's reliability, durability, and comfortable ride. H
 **Summary**
 
 While the 2018 Toyota Sequoia is generally a reliable SUV, it has faced some common issues. The valve spring failure with the 5.7L V8 engine and torque converter shudder in the 6-speed automatic transmission are notable concerns. The electrical and exterior issues are generally less severe and less costly to repair. Overall, these issues should be considered when evaluating the vehicle and factoring in potential maintenance costs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

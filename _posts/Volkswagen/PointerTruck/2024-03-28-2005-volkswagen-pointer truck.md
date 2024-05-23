@@ -46,19 +46,6 @@ People like the Pointer Truck for its affordability, fuel efficiency, and maneuv
 * **6-speed Manual Transmission**
     * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension**
@@ -87,19 +74,6 @@ People like the Pointer Truck for its affordability, fuel efficiency, and maneuv
     * Estimated Cost to Fix: $500 - $800
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust**
@@ -124,15 +98,3 @@ People like the Pointer Truck for its affordability, fuel efficiency, and maneuv
 **Summary**
 
 The 2005 Volkswagen Pointer Truck is a reliable and affordable pickup truck. However, it is not without its issues. The most common problems include blown head gaskets, timing chain failures, suspension wear, and electrical issues. The severity of these issues varies, but they can be expensive to fix. Overall, the Pointer Truck is a budget-friendly choice, but drivers should be aware of its potential problems before making a purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

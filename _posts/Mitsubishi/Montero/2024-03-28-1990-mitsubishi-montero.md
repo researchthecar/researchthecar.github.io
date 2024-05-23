@@ -22,19 +22,6 @@ The 1990 Mitsubishi Montero is a compact SUV that offers impressive off-road cap
 - **5-Speed Manual**
   - **Clutch Failure:** Description: Symptoms include difficulty shifting gears, slipping, and burning smell. Solution: Replace the clutch. Estimated Cost to Fix: $1,000 - $1,500+ Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Front Suspension Strut Failure:** Description: Symptoms include excessive bouncing, steering instability, and premature tire wear. Solution: Replace the front suspension struts. Estimated Cost to Fix: $500 - $1,000+ Recalls: N/A
 - **Rear Suspension Spring Failure:** Description: Symptoms include sagging rear end, decreased load capacity, and rough ride. Solution: Replace the rear suspension springs. Estimated Cost to Fix: $300 - $600+ Recalls: N/A
@@ -42,19 +29,6 @@ The 1990 Mitsubishi Montero is a compact SUV that offers impressive off-road cap
 **Electrical**
 - **Alternator Failure:** Description: Symptoms include dim or flickering lights, electrical component malfunctions, and difficulty starting the engine. Solution: Replace the alternator. Estimated Cost to Fix: $500 - $800+ Recalls: N/A
 - **Battery Terminal Corrosion:** Description: Symptoms include difficulty starting the engine, electrical glitches, and loose battery terminals. Solution: Clean the battery terminals. Estimated Cost to Fix: $50 - $100 Recalls: N/A
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Rust:** Description: Symptoms include visible rust spots on the body panels, frame, and suspension components. Solution: Rust treatment or replacement of affected parts. Estimated Cost to Fix: Varies widely depending on the extent of the rust Recalls: N/A
@@ -66,15 +40,3 @@ The 1990 Mitsubishi Montero is a compact SUV that offers impressive off-road cap
 
 **Summary:**
 Overall, the 1990 Mitsubishi Montero is a reliable and capable SUV with a few common issues to watch out for. The most severe issues are head gasket failure on the 3.0L V6 and transmission slipping on the 4-speed automatic. The cost of repairs for the Montero can be moderate to high, so it's important to factor in potential maintenance costs when considering purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

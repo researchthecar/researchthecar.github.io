@@ -39,19 +39,6 @@ The 2001 Toyota Land Cruiser is a full-size SUV powered by the legendary 4.7L 2U
     * Solution: Flush the transmission and replace the cooler if necessary.
     * Estimated Cost to Fix: $500 - $1,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Lower Ball Joint Failure:**
@@ -74,19 +61,6 @@ The 2001 Toyota Land Cruiser is a full-size SUV powered by the legendary 4.7L 2U
     * Solution: Replace the alternator.
     * Estimated Cost to Fix: $500 - $800
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Roof Paint Peeling:**
@@ -108,15 +82,3 @@ The 2001 Toyota Land Cruiser is a full-size SUV powered by the legendary 4.7L 2U
 **Summary**
 
 While the 2001 Toyota Land Cruiser is a capable and comfortable vehicle, it is not immune to issues. The most severe and expensive issues to look out for are the oil pump failure, torque converter clutch failure, and rust damage. Regular maintenance and inspection can help prevent or mitigate these issues, but it's important to be aware of their potential when considering a used Land Cruiser.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -34,19 +34,6 @@ Owners praise the Platina for its affordability, reliability, and spacious inter
 * **Transmission shudder:** Some Platinas with the 4-speed automatic transmission have experienced shuddering or hesitation when shifting gears. The solution is to have the transmission serviced or rebuilt. Estimated cost: $500 - $2,000+
 * **Transmission failure:** In some cases, the 4-speed automatic transmission has experienced complete failure. The solution is to replace the transmission. Estimated cost: $2,000 - $3,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut failure:** The front struts on some Platinas have been known to fail prematurely. Symptoms may include noise, vibration, and poor handling. The solution is to replace the struts. Estimated cost: $400 - $600+
@@ -56,19 +43,6 @@ Owners praise the Platina for its affordability, reliability, and spacious inter
 
 * **Alternator failure:** The alternator on some Platinas has been known to fail prematurely. Symptoms may include dim headlights, flickering lights, and difficulty starting the vehicle. The solution is to replace the alternator. Estimated cost: $300 - $500+
 * **Battery drain:** Some Platinas have experienced a battery drain problem. The solution may be to replace the battery or have the electrical system inspected and repaired. Estimated cost: $100 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -82,15 +56,3 @@ Owners praise the Platina for its affordability, reliability, and spacious inter
 **Summary**
 
 The 2006 Nissan Platina has been praised for its affordability, reliability, and spacious interior. However, it has also been plagued by a number of issues, including engine oil consumption, timing chain noise, transmission shudder, strut failure, and electrical problems. The severity and cost of these issues can vary widely depending on the specific problem and the condition of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -20,19 +20,6 @@ The 2000 Volkswagen Cabrio is a convertable with a 2.0L 115 hp engine and a 5-sp
 * **5-Speed Manual Transmission**
     * **Clutch Problems:** The clutch may wear out prematurely, leading to slipping or difficulty shifting gears. Replacing the clutch typically costs between $1,000 and $1,500.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Struts:** The front suspension struts can wear out quickly, leading to a rough ride and poor handling. Replacing the front suspension struts typically costs between $400 and $600.
@@ -42,19 +29,6 @@ The 2000 Volkswagen Cabrio is a convertable with a 2.0L 115 hp engine and a 5-sp
 
 * **Power Window Motor Failure:** The power window motors may fail, preventing the windows from rolling up or down. Replacing a power window motor typically costs between $150 and $250.
 * **Central Locking System Malfunction:** The central locking system may malfunction, preventing the doors from locking or unlocking remotely. Fixing the central locking system typically costs around $200-$300.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior** 
 
@@ -68,15 +42,3 @@ The 2000 Volkswagen Cabrio is a convertable with a 2.0L 115 hp engine and a 5-sp
 **Summary**
 
 The 2000 Volkswagen Cabrio is a generally reliable car with some common issues. Most of the issues are relatively minor and inexpensive to fix. However, some issues, such as convertible top problems and dashboard cracking, can be more severe and costly to repair. Overall, the Cabrio is a good choice for budget-minded shoppers who are looking for a stylish and affordable convertible.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

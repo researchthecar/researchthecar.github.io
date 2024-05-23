@@ -42,19 +42,6 @@ The 1998 Mercury Villager is a minivan offered with a variety of engine and tran
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut mount failure**
@@ -81,19 +68,6 @@ The 1998 Mercury Villager is a minivan offered with a variety of engine and tran
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Door handle failure**
@@ -113,15 +87,3 @@ The 1998 Mercury Villager is a minivan offered with a variety of engine and tran
 **Summary**
 
 The 1998 Mercury Villager has a variety of issues that affect its engine, transmission, suspension, electrical system, exterior, and interior. The most serious and expensive issues include intake manifold gasket failure, head gasket failure, timing chain failure, and transmission problems. These issues can significantly impact the vehicle's performance and reliability, and repairs can be costly. Overall, the 1998 Mercury Villager is not a particularly reliable vehicle, and potential buyers should carefully consider the potential costs and hassles before making a purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

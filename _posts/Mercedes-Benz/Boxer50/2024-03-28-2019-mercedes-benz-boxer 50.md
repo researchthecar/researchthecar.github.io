@@ -39,19 +39,6 @@ The 2019 Mercedes-Benz Boxer 50 is a luxurious full-size SUV known for its spaci
         * Estimated Cost to Fix: $800 - $1,500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Air Suspension Malfunction**
@@ -72,19 +59,6 @@ The 2019 Mercedes-Benz Boxer 50 is a luxurious full-size SUV known for its spaci
     * Solution: Update navigation software or replace faulty display unit.
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -110,15 +84,3 @@ The 2019 Mercedes-Benz Boxer 50 is a luxurious full-size SUV known for its spaci
 **Summary**
 
 Overall, the 2019 Mercedes-Benz Boxer 50 has received positive reviews for its performance and luxury features. However, there are a few reported issues that can affect the owner's experience. These issues range from minor inconveniences to more serious problems that require costly repairs. While some issues are specific to certain engine or transmission options, others affect the vehicle across the board. Potential buyers should be aware of these issues and factor them into their decision-making process.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

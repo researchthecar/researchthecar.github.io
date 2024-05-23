@@ -32,19 +32,6 @@ The 2023 Mercedes-Benz Sprinter 1500 is a versatile full-size van powered by a 3
         - Estimated Cost to Fix: $100 - $300+
         - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **No Issues Found**
@@ -56,19 +43,6 @@ The 2023 Mercedes-Benz Sprinter 1500 is a versatile full-size van powered by a 3
     - Solution: Replacement of faulty battery or repair of electrical system.
     - Estimated Cost to Fix: $200 - $500+
         - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -90,15 +64,3 @@ The 2023 Mercedes-Benz Sprinter 1500 is a versatile full-size van powered by a 3
 **Summary:**
 
 Overall, the 2023 Mercedes-Benz Sprinter 1500 has faced a few reported issues, primarily with the engine, transmission, and interior. The severity of these issues varies, with some being minor annoyances and others requiring more costly repairs. It's important to note that not all Sprinters will experience these issues, and many vehicles have been operating reliably. Regular maintenance and prompt repairs can help minimize the risk of encountering these problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -28,19 +28,6 @@ The 1999 Plymouth Prowler was a limited-edition sports car that featured a uniqu
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Bushing Failure**
@@ -63,19 +50,6 @@ The 1999 Plymouth Prowler was a limited-edition sports car that featured a uniqu
     * Solution: Diagnose and repair source of battery drain
     * Estimated Cost to Fix: $100 - $300+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **No Issues Found**
@@ -94,15 +68,3 @@ The 1999 Plymouth Prowler was a limited-edition sports car that featured a uniqu
 **Summary**
 
 The 1999 Plymouth Prowler has a limited number of known issues. The most severe issue is the intake manifold gasket failure, which can lead to engine damage. However, this issue is relatively uncommon. The other issues are typically minor and relatively inexpensive to fix. Overall, the Prowler is a reliable and enjoyable vehicle to own.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

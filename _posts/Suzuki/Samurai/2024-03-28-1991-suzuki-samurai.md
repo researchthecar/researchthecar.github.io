@@ -65,15 +65,3 @@ The 1991 Suzuki Samurai is a compact SUV known for its off-road capabilities and
 ### **Summary**
 
 The 1991 Suzuki Samurai has some common issues, including blown head gaskets, valve sticking, timing belt failure, grinding gears, and transmission leaks. While these issues can be costly to repair, the severity of the problems is generally moderate. With proper maintenance and care, many of these issues can be avoided or minimized.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

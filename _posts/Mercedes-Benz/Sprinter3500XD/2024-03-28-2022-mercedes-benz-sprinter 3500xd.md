@@ -38,19 +38,6 @@ The 2022 Mercedes-Benz Sprinter 3500XD is a versatile full-size van known for it
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Leaf Springs Breakage:**
@@ -71,19 +58,6 @@ The 2022 Mercedes-Benz Sprinter 3500XD is a versatile full-size van known for it
     * Solution: Diagnose and fix electrical drain (e.g., parasitic draw).
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -109,15 +83,3 @@ The 2022 Mercedes-Benz Sprinter 3500XD is a versatile full-size van known for it
 **Summary**
 
 The 2022 Mercedes-Benz Sprinter 3500XD is generally a reliable vehicle, but like any vehicle, it has its fair share of issues. The most common issues are related to the engine, transmission, and electrical system. While some issues can be costly to fix, such as turbocharger failure and transmission control module failure, others are relatively inexpensive to repair. It's important to address any issues promptly to maintain the vehicle's performance and safety.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

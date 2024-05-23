@@ -43,19 +43,6 @@ The 2013 Volkswagen Transporter is a versatile commercial van available with a r
   * Estimated Cost to Fix: $2,000 - $4,000+
   * Recalls: NHTSA Campaign ID: 16V199000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Coil Spring Fracture**
@@ -83,19 +70,6 @@ The 2013 Volkswagen Transporter is a versatile commercial van available with a r
   * Solution: Replace the alternator.
   * Estimated Cost to Fix: $600 - $1,000+
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -128,15 +102,3 @@ The 2013 Volkswagen Transporter is a versatile commercial van available with a r
 **Summary**
 
 Overall, the 2013 Volkswagen Transporter is a capable and reliable commercial vehicle, but it is not without its share of issues. Some of the most common problems include intake manifold flap failure, DPF regeneration issues, clutch failure, mechatronic unit failure, coil spring fracture, shock absorber leakage, battery drain, alternator failure, power sliding door malfunction, rear bumper damage, instrument cluster failure, and climate control malfunction. These issues can range in severity and cost from minor to major repairs. It's important to note that not all Transporters will experience these problems, and some issues may be covered under warranty or recall.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

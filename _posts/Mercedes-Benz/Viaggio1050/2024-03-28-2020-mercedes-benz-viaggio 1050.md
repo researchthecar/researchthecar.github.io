@@ -29,19 +29,6 @@ Solution: Replace or rebuild the transmission.
 Estimated Cost to Fix: $2,500 - $4,500+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 **No Issues Found**
@@ -53,19 +40,6 @@ Description/Symptoms: Rapid battery discharge, difficulty starting the engine, o
 Solution: Replace the battery or diagnose and repair electrical system issues.
 Estimated Cost to Fix: $200 - $600+
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -82,15 +56,3 @@ Recalls: None Found
 **Summary:**
 
 While the Mercedes-Benz Viaggio 1050 offers a luxurious and spacious interior, it has been plagued by a number of issues, primarily related to the engine, transmission, and electrical system. The severity of these issues can range from minor inconveniences to major repairs, with estimated costs varying widely depending on the specific problem and the labor rates in your area.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

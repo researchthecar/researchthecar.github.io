@@ -34,19 +34,6 @@ The 2013 Volkswagen Routan is a minivan produced from 2008 to 2014. It shares it
         * Estimated Cost to Fix: $2,000 - $3,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -64,19 +51,6 @@ The 2013 Volkswagen Routan is a minivan produced from 2008 to 2014. It shares it
         * Estimated Cost to Fix: $500 - $1,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **No Issues Found**
@@ -92,15 +66,3 @@ The 2013 Volkswagen Routan is a minivan produced from 2008 to 2014. It shares it
 **Summary:**
 
 The 2013 Volkswagen Routan has some potential issues with its engine, transmission, electrical system, and interior climate control. The engine misfire and timing chain tensioner failure are the most serious issues, as they can lead to major engine damage. The transmission slipping and battery drain issues are also significant, as they can affect the vehicle's drivability and reliability. The climate control malfunction is less of a concern, but it can still be frustrating when the heating or air conditioning is not working properly. Overall, the severity and cost of the potential issues with the Routan should be considered before purchasing this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

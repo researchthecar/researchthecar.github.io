@@ -51,19 +51,6 @@ The 2021 Porsche Cayenne is a luxurious and powerful SUV available with a range 
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Air Spring Failure:**
@@ -92,19 +79,6 @@ The 2021 Porsche Cayenne is a luxurious and powerful SUV available with a range 
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior:**
 
 * **No Issues Found**
@@ -126,15 +100,3 @@ The 2021 Porsche Cayenne is a luxurious and powerful SUV available with a range 
 **Summary:**
 
 The 2021 Porsche Cayenne has been met with mixed reviews regarding its reliability. While it offers exceptional performance and handling, it has experienced some specific issues that owners should be aware of. Engine and transmission problems have been the most prevalent, with issues ranging from oil leaks to turbocharger failures. Electrical problems and interior issues have also been reported, but they are less severe and costly to fix. Overall, the Cayenne is a capable SUV, but potential buyers should consider the potential repair costs associated with its reported issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

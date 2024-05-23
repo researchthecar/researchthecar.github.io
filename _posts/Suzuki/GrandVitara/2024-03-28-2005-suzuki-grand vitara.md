@@ -48,19 +48,6 @@ The 2005 Suzuki Grand Vitara is a compact SUV that offers a choice of two engine
    - Estimated Cost to Fix: $200 - $300+
    - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Strut Failure:** The front struts may fail prematurely, leading to a loss of ride quality and handling.
@@ -79,19 +66,6 @@ The 2005 Suzuki Grand Vitara is a compact SUV that offers a choice of two engine
    - Solution: Replace the headlight switch.
    - Estimated Cost to Fix: $100 - $200+
    - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -120,15 +94,3 @@ The 2005 Suzuki Grand Vitara is a compact SUV that offers a choice of two engine
 **Summary**
 
 The 2005 Suzuki Grand Vitara has a number of issues that can affect its reliability. The engine issues, such as water pump and timing chain tensioner failures, can be expensive to fix. The transmission issues, such as shift solenoid failures, can also be costly. The suspension issues, such as strut failures, can affect the ride quality and handling. The electrical issues, such as battery drain and headlight switch failures, can be annoying and potentially dangerous. The exterior issues, such as rust on the frame and axles, can be a serious problem in areas with salt or moisture. The interior issues, such as climate control malfunctions and dashboard creaks, can be frustrating but are typically not major safety concerns. Overall, the 2005 Suzuki Grand Vitara is a reliable vehicle, but it is important to be aware of the potential issues that can affect it.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

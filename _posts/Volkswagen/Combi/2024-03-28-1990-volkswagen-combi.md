@@ -30,19 +30,6 @@ The Volkswagen Combi, known as the Transporter in other markets, is a versatile 
 * **Slipping Gears:** Symptoms include delayed or erratic gear changes, loss of power, and harsh shifts. The transmission may need to be overhauled or replaced. **Estimated Cost to Fix:** $2,500 - $3,500+
 * **Valve Body Failure:** Symptoms include rough or delayed shifts, slipping gears, and loss of power. The solution is to replace the valve body. **Estimated Cost to Fix:** $1,000 - $1,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -52,19 +39,6 @@ The Volkswagen Combi, known as the Transporter in other markets, is a versatile 
 * **Battery Failure:** Symptoms include difficulty starting, dim lights, and electrical system malfunctions. The battery needs to be replaced. **Estimated Cost to Fix:** $100 - $200+
 * **Alternator Failure:** Symptoms include dim lights, battery warning light, and difficulty starting. The alternator needs to be replaced. **Estimated Cost to Fix:** $500 - $800+
 * **Wiring Harness Issues:** Symptoms include electrical glitches, intermittent power loss, and blown fuses. Damaged or faulty wiring needs to be repaired or replaced. **Estimated Cost to Fix:** $500 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -80,15 +54,3 @@ The Volkswagen Combi, known as the Transporter in other markets, is a versatile 
 **Summary**
 
 The 1990 Volkswagen Combi is a generally reliable vehicle, but like any vehicle, it has some common issues that owners may encounter. Engine and transmission issues can be costly to repair, but many other issues are relatively minor and affordable to fix. Overall, the Combi remains a popular choice for commercial and personal use due to its versatility and durability.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

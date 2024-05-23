@@ -31,19 +31,6 @@ While the Phantom is generally well-regarded, it has a few reported issues that 
     * **Estimated Cost to Fix:** $3,000 - $5,000+
     * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -55,19 +42,6 @@ While the Phantom is generally well-regarded, it has a few reported issues that 
 * **Solution:** Varies depending on the specific issue.
 * **Estimated Cost to Fix:** $200 - $2,000+
     * **Recalls:** 13V886 (Electrical Fault)
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -84,15 +58,3 @@ While the Phantom is generally well-regarded, it has a few reported issues that 
 **Summary**
 
 The 2012 Rolls-Royce Phantom is a luxurious sedan that has been generally well-received by owners. However, it has a few reported issues that can be costly to repair, particularly with the engine and transmission. Potential buyers should be aware of these issues before purchasing a used Phantom and factor in the potential repair costs when negotiating a price.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

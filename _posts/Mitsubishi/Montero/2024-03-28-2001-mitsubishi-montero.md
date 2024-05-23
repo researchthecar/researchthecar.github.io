@@ -29,19 +29,6 @@ The 2001 Mitsubishi Montero is a mid-size SUV known for its ruggedness and off-r
 - **Clutch Failure:** Difficulty shifting, slipping, or chatter. Replacement of clutch system. $600 - $1,000+
 - **Synchronizer Wear:** Grinding or difficulty shifting gears. Replacement of synchronizers. $800 - $1,200+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Strut Failure:** Worn struts lead to a spongy ride, reduced handling, and premature tire wear. Replacement of struts. $500 - $800+ per axle
@@ -52,19 +39,6 @@ The 2001 Mitsubishi Montero is a mid-size SUV known for its ruggedness and off-r
 - **Alternator Failure:** Noisy or low output. Replacement of alternator. $500 - $700+
 - **Starter Failure:** Difficulty starting the vehicle. Replacement of starter. $400 - $600+
 - **Window Motor Failure:** Inoperative or slow-moving windows. Replacement of window motor. $200 - $400+ per window
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -80,15 +54,3 @@ The 2001 Mitsubishi Montero is a mid-size SUV known for its ruggedness and off-r
 **Summary**
 
 The 2001 Mitsubishi Montero is a capable off-road vehicle but suffers from a range of issues, particularly with its engine, transmission, and electrical systems. These issues can lead to significant repair costs, so it's important to factor them in when considering this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

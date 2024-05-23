@@ -29,19 +29,6 @@ Despite its off-road capabilities, the Samurai has been criticized for its lack 
 
 * **Transmission Slipping:** The transmission may start slipping or failing to engage properly due to worn clutch packs or other internal components. A rebuild or replacement transmission may be necessary. Estimated Cost to Fix: $1,000 - $3,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaking Shock Absorbers:** Worn or damaged shock absorbers can leak fluid, leading to a rough ride and reduced handling. Replacing the shock absorbers is the solution. Estimated Cost to Fix: $200 - $400 per pair
@@ -51,19 +38,6 @@ Despite its off-road capabilities, the Samurai has been criticized for its lack 
 
 * **Alternator Failure:** The alternator may fail to charge the battery, leading to electrical problems and the car not starting. Replacing the alternator will resolve the issue. Estimated Cost to Fix: $300 - $500
 * **Starter Motor Failure:** The starter motor may fail to engage properly or turn the engine over, resulting in difficulty starting the vehicle. Replacing the starter motor should address the problem. Estimated Cost to Fix: $200 - $400
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -76,15 +50,3 @@ Despite its off-road capabilities, the Samurai has been criticized for its lack 
 **Summary:**
 
 The 1992 Suzuki Samurai is a budget-friendly off-road vehicle, but it has its limitations. The engine and transmission issues are relatively minor and affordable to repair. However, the rust susceptibility and lack of safety features are significant concerns to consider.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

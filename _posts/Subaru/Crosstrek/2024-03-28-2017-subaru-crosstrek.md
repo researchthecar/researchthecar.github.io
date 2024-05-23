@@ -82,15 +82,3 @@ With its combination of rugged capability and everyday practicality, the 2017 Su
 ### **Summary**
 
 While the 2017 Subaru Crosstrek offers a blend of versatility and functionality, it has faced some notable issues. Engine problems with the 2.5-liter engine and CVT transmission issues are among the most significant concerns. Other issues include electrical problems, wind noise, and interior malfunctions. The severity of the issues varies, with some being relatively minor and inexpensive to fix, while others can be more costly and disruptive. Overall, it is advisable for potential buyers to research these issues thoroughly and consider their impact on their purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

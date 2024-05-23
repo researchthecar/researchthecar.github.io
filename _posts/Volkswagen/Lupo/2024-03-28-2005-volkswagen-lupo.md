@@ -33,19 +33,6 @@ The 2005 Volkswagen Lupo is a small, fuel-efficient city car that was produced f
 * **Clutch Failure:** Description/Symptoms: Difficulty shifting gears, slipping clutch, burning smell. Solution: Replace clutch. Estimated Cost to Fix: $500 - $1,000+
 * **Gearbox Failure:** Description/Symptoms: Grinding or popping noises when shifting gears, difficulty engaging gears. Solution: Rebuild or replace gearbox. Estimated Cost to Fix: $1,000 - $2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Strut Failure:** Description/Symptoms: Clunking or rattling noises from front end, uneven tire wear. Solution: Replace front suspension struts. Estimated Cost to Fix: $300 - $600+
@@ -55,19 +42,6 @@ The 2005 Volkswagen Lupo is a small, fuel-efficient city car that was produced f
 
 * **Alternator Failure:** Description/Symptoms: Dimming lights, battery not charging, electrical system failure. Solution: Replace alternator. Estimated Cost to Fix: $300 - $600+
 * **Battery Failure:** Description/Symptoms: Difficulty starting vehicle, flickering or dimming lights. Solution: Replace battery. Estimated Cost to Fix: $100 - $200+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -81,15 +55,3 @@ The 2005 Volkswagen Lupo is a small, fuel-efficient city car that was produced f
 **Summary**
 
 The 2005 Volkswagen Lupo is a generally reliable vehicle, but it does have some common issues that owners should be aware of. These issues can range from minor inconveniences to major expenses. It's important to note that the severity and cost of these issues can vary depending on the age, mileage, and condition of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

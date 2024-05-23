@@ -30,19 +30,6 @@ The 2007 Mitsubishi Grandis is a 7-passenger crossover that offers a blend of pr
     * **Solution:** Flush the transmission fluid, replace the shift solenoids, or rebuild/replace the transmission.
     * **Estimated Cost to Fix:** $1,000 - $2,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Lower Control Arm Bushings:** The lower control arm bushings wear out prematurely, causing excessive vibration, clunking noises, and poor handling.
@@ -58,19 +45,6 @@ The 2007 Mitsubishi Grandis is a 7-passenger crossover that offers a blend of pr
 * **Battery Drain:** The battery discharges prematurely due to a parasitic electrical draw.
   * **Solution:** Identify and eliminate the source of the electrical draw.
   * **Estimated Cost to Fix:** $150 - $300+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -95,15 +69,3 @@ The 2007 Mitsubishi Grandis is a 7-passenger crossover that offers a blend of pr
 **Summary:**
 
 The 2007 Mitsubishi Grandis has a number of potential issues, ranging from minor annoyances to more serious problems. The engine and transmission issues can be costly to repair, while the exterior and interior issues tend to be less expensive. Overall, the severity and cost of the issues should be considered when evaluating the reliability and value of this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

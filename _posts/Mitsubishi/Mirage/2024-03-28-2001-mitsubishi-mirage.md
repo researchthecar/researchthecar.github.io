@@ -85,15 +85,3 @@ Owners of the 2001 Mitsubishi Mirage appreciate its fuel efficiency, affordabili
 ### Summary
 
 The 2001 Mitsubishi Mirage is a fuel-efficient and affordable hatchback. However, some owners have reported issues with the vehicle's reliability, particularly with the intake valve carbon buildup, exhaust manifold gasket failure, and transmission problems. The severity and cost of these issues vary, but some can be quite expensive to repair.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

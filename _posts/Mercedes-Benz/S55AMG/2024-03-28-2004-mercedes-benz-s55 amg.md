@@ -32,19 +32,6 @@ The 2004 Mercedes-Benz S55 AMG is a high-performance luxury sedan powered by a n
         Estimated Cost to Fix: $1,500 - $2,500+
         Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension System Failure:**
@@ -65,19 +52,6 @@ The 2004 Mercedes-Benz S55 AMG is a high-performance luxury sedan powered by a n
         Solution: Identify and fix electrical drain source (e.g., module, wiring)
         Estimated Cost to Fix: $200 - $1,000+
         Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -108,15 +82,3 @@ The 2004 Mercedes-Benz S55 AMG is a high-performance luxury sedan powered by a n
 **Summary:**
 
 While the 2004 Mercedes-Benz S55 AMG is a capable and stylish vehicle, it has experienced various issues. Engine problems, such as crankshaft position sensor failure and valve stem seal failure, can be costly to repair. Transmission issues, including torque converter clutch lockup problems, may also arise. The suspension system's air components can fail, leading to ride quality issues. Electrical issues, such as headlight control module failure and battery drain, can be frustrating to diagnose and resolve. Exterior issues, such as sunroof motor failure and rear window regulator failure, may require replacement of parts. Interior issues, such as navigation system malfunction and heater core leak, can diminish the overall comfort and convenience of the vehicle. These issues vary in severity and cost, potentially affecting the reliability and ownership experience of the S55 AMG.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -47,19 +47,6 @@ The 2020 Volkswagen Passat is a midsize sedan available with various engine and 
  -- Solution: Complete transmission replacement is required.
  -- Estimated Cost to Fix: $5,000 - $7,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Front Suspension Noise:**
  -- Description/Symptoms: Some vehicles exhibit 異響 or knocking noises from the front suspension, particularly over bumps and uneven surfaces.
@@ -79,19 +66,6 @@ The 2020 Volkswagen Passat is a midsize sedan available with various engine and 
  -- Description/Symptoms: A short circuit in the electrical system can cause various electrical failures, such as inoperative lights, gauges, or other components.
  -- Solution: Diagnosing and repairing the short circuit is necessary.
  -- Estimated Cost to Fix: $200 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **Headlight Condensation:**
@@ -120,15 +94,3 @@ The 2020 Volkswagen Passat is a midsize sedan available with various engine and 
 **Summary**
 
 While the 2020 Volkswagen Passat offers several positive attributes, it has experienced various issues that have caused concern among owners. The engine and transmission have been particularly problematic, with issues such as excessive oil consumption, timing chain issues, and transmission failures incurring significant repair costs. Suspension, electrical, and interior issues have also been reported, although they may not be as severe or costly to resolve. Overall, the severity and cost of the issues should be considered before making a purchase decision for this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

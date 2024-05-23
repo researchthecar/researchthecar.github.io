@@ -26,19 +26,6 @@ The 2018 Mercedes-Benz Boxer OF is a robust commercial vehicle designed for heav
 
   * **Shifting Hesitation:** Symptoms include delays or hesitation when shifting gears. The solution is to update the transmission software or replace the shift solenoid. Estimated Cost to Fix: $500 - $1,500
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Front Coil Spring Breakage:** Symptoms include a sagging front end or uneven tire wear. The solution is to replace the broken spring. Estimated Cost to Fix: $300 - $450
@@ -49,19 +36,6 @@ The 2018 Mercedes-Benz Boxer OF is a robust commercial vehicle designed for heav
 * **Alternator Failure:** Symptoms include dimming lights, electrical system malfunctions, or a charging system warning light. The solution is to replace the alternator. Estimated Cost to Fix: $500 - $1,000
 
 * **Tail Light Moisture:** Symptoms include condensation or water inside the tail light assembly. The solution is to replace the light assembly or check for leaks. Estimated Cost to Fix: $100 - $300
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -75,15 +49,3 @@ The 2018 Mercedes-Benz Boxer OF is a robust commercial vehicle designed for heav
 **Summary:**
 
 The 2018 Mercedes-Benz Boxer OF is a robust commercial vehicle that generally performs well in terms of reliability. However, several reported issues can range from minor inconveniences to potentially costly repairs. The most common engine issues involve oil leaks and exhaust manifold cracks, while transmission problems often relate to shifting difficulties or hesitation. Other issues include suspension coil spring breakage, electrical battery drain or alternator failure, and various interior malfunctions. The severity and cost of these issues can vary depending on the specific issue and the vehicle's condition and maintenance history.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

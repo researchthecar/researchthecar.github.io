@@ -39,19 +39,6 @@ The 2012 Suzuki Kizashi is a midsize sedan that was available with two engine op
     - Estimated Cost to Fix: $2,000 - $3,000+
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **No Issues Found**
@@ -63,19 +50,6 @@ The 2012 Suzuki Kizashi is a midsize sedan that was available with two engine op
     - Solution: Identify and repair source of parasitic draw (e.g., faulty alternator, radio, etc.)
     - Estimated Cost to Fix: $100 - $500
     - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -96,15 +70,3 @@ The 2012 Suzuki Kizashi is a midsize sedan that was available with two engine op
 **Summary**
 
 The 2012 Suzuki Kizashi is a reliable vehicle with a comfortable interior and responsive handling. However, it suffers from several common issues that can be costly to repair, particularly those related to the engine and transmission. The severity and cost of these issues vary depending on the specific problem and the extent of the damage. It is important for owners to be aware of these potential issues and have them addressed promptly to avoid more serious problems and higher repair costs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

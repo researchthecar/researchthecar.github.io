@@ -38,19 +38,6 @@ The Platina has received generally positive reviews for its spacious interior, c
     * Solution: Rebuild or replace transmission.
     * Estimated Cost to Fix: $1,500 - $2,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut mount failure:** Worn strut mounts cause excessive noise and poor handling.
@@ -65,19 +52,6 @@ The Platina has received generally positive reviews for its spacious interior, c
 * **Power window motor failure:** Power window motor fails, preventing windows from being raised or lowered.
     * Solution: Replace power window motor.
     * Estimated Cost to Fix: $200 - $400
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -97,15 +71,3 @@ The Platina has received generally positive reviews for its spacious interior, c
 **Summary**
 
 The 2003 Nissan Platina has some common issues, particularly with the engine, transmission, and electrical system. While some repairs can be relatively inexpensive, more significant issues such as timing chain failure or transmission rebuilds can be costly. Overall, the Platina is a reliable vehicle, but owners should be aware of these potential problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

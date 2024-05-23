@@ -47,19 +47,6 @@ People like the Viaggio 900 for its comfortable ride, powerful engine, and spaci
         * Solution: Replace synchronizer
         * Estimated Cost to Fix: $1,000 - $1,500
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Failure**
@@ -81,19 +68,6 @@ People like the Viaggio 900 for its comfortable ride, powerful engine, and spaci
         * Description/Symptoms: Electrical system malfunctions, intermittent problems
         * Solution: Repair or replace wiring harness
         * Estimated Cost to Fix: $500 - $1,500
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -124,15 +98,3 @@ People like the Viaggio 900 for its comfortable ride, powerful engine, and spaci
 **Summary**
 
 The 2016 Mercedes-Benz Viaggio 900 is a capable and luxurious coach bus. However, it has been reported to have some issues with its engine, transmission, and electrical system. The severity of these issues can vary, and the cost to fix them can be significant. Overall, the Viaggio 900 is a good choice for those who need a reliable and comfortable coach bus. However, it is important to be aware of the potential issues that it may have.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

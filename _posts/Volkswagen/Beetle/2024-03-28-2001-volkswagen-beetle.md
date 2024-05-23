@@ -32,19 +32,6 @@ The 2001 Volkswagen Beetle is a stylish and practical compact car. It was availa
 
 * **Transmission Fluid Leaks:** The transmission fluid can leak from seals or gaskets, causing low fluid levels and transmission problems. Symptoms include slipping gears, delayed engagement, and overheating. The solution is to identify and repair the leak and replace the transmission fluid. Estimated cost to fix: $200 - $500+.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Bushing Failure:** The strut bushings can wear out or fail, causing clunking sounds, excessive tire wear, and poor handling. Symptoms include knocking noises over bumps, vibration when driving, and uneven tire wear. The solution is to replace the strut bushings. Estimated cost to fix: $200 - $400+.
@@ -53,19 +40,6 @@ The 2001 Volkswagen Beetle is a stylish and practical compact car. It was availa
 
 * **Electrical Harness Issues:** The electrical harness can develop shorts or corrosion, causing various electrical problems. Symptoms include flickering lights, faulty sensors, and intermittent electrical failures. The solution is to diagnose and repair the faulty wiring or harness. Estimated cost to fix: $100 - $500+.
 * **Alternator Failure:** The alternator can fail, causing battery drain and electrical problems. Symptoms include dim headlights, flickering lights, and difficulty starting the car. The solution is to replace the alternator. Estimated cost to fix: $400 - $800+.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust:** The Beetle is prone to rust on the body panels, especially around the wheel wells and rear quarter panels. Symptoms include bubbling paint, peeling paint, and visible rust. The solution is to treat and prevent rust by cleaning, sanding, priming, and painting the affected areas. Estimated cost to fix: $500 - $2000+.
@@ -77,15 +51,3 @@ The 2001 Volkswagen Beetle is a stylish and practical compact car. It was availa
 **Summary**
 
 The 2001 Volkswagen Beetle has a unique design, fun-to-drive nature, and practical features. However, it also has some common issues that owners should be aware of, including timing belt failure, transmission solenoid failure, rust, and electrical harness issues. The severity and cost of these issues can vary depending on the specific situation and the condition of the vehicle. It is important to have the vehicle inspected regularly and to address any issues promptly to ensure its reliability and longevity.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

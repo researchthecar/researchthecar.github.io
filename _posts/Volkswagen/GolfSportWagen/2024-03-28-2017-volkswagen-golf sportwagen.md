@@ -46,19 +46,6 @@ The 2017 Volkswagen Golf SportWagen is a compact station wagon that offers a com
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Premature strut failure:** Worn or damaged front struts can cause clunking noises and reduced ride comfort.
@@ -82,19 +69,6 @@ The 2017 Volkswagen Golf SportWagen is a compact station wagon that offers a com
     * Solution: Repair or replace faulty electrical components.
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -123,15 +97,3 @@ The 2017 Volkswagen Golf SportWagen is a compact station wagon that offers a com
 **Summary**
 
 The 2017 Volkswagen Golf SportWagen has some notable issues, particularly with its emissions system on the diesel engine, water pump on the gasoline engine, and transmission problems. While some issues are relatively minor and inexpensive to fix, others can be more costly and time-consuming to repair. Overall, the severity and cost of these issues should be considered when evaluating the vehicle's reliability and long-term ownership costs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

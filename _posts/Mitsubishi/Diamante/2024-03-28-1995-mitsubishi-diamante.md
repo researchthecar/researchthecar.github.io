@@ -29,19 +29,6 @@ The 1995 Mitsubishi Diamante was a mid-size sedan offering a comfortable and lux
         * Estimated Cost to Fix: $1,500 - $2,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Upper Control Arms:**
@@ -65,19 +52,6 @@ The 1995 Mitsubishi Diamante was a mid-size sedan offering a comfortable and lux
     * Estimated Cost to Fix: $300 - $500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight Condensation:**
@@ -97,15 +71,3 @@ The 1995 Mitsubishi Diamante was a mid-size sedan offering a comfortable and lux
 **Summary:**
 
 The 1995 Mitsubishi Diamante is generally a reliable vehicle, but several common issues can occur. The most significant concerns involve the engine's intake valve spring failure and transmission torque converter lockup issues, which can be expensive to repair. Other issues, such as suspension ball joint wear and electrical system failures, are relatively minor and less costly to fix. Overall, the severity and cost of the issues are moderate, so regular maintenance and timely repairs are recommended to maintain the vehicle's performance and value.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -64,15 +64,3 @@ Recalls: None Found
 ### Summary
 
 Overall, the 2019 Mitsubishi Montero Sport has received mixed reviews regarding reliability. The reported issues range from minor annoyances to more significant problems that may require costly repairs. Owners have also expressed concerns about excessive oil consumption and transmission issues with the V6 engine and 8-speed automatic transmission. While some issues have been addressed through recalls and software updates, others remain unresolved, making it important for prospective buyers to be aware of these potential problems before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

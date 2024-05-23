@@ -47,19 +47,6 @@ Some of the pros of the 2015 Subaru Forester include its roomy interior, standar
         * Estimated Cost to Fix: $3,000 - $5,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front struts**
@@ -89,19 +76,6 @@ Some of the pros of the 2015 Subaru Forester include its roomy interior, standar
         * Solution: Replace starter
         * Estimated Cost to Fix: $300 - $600+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -136,15 +110,3 @@ Some of the pros of the 2015 Subaru Forester include its roomy interior, standar
 **Summary**
 
 The 2015 Subaru Forester has a number of potential issues, including engine, transmission, suspension, electrical, and interior problems. The severity and cost of these issues vary, but some can be quite expensive to repair. Overall, the 2015 Subaru Forester is a reliable and versatile SUV, but it's important to be aware of the potential issues before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

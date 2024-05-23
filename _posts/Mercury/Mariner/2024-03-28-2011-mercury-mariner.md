@@ -53,19 +53,6 @@ The 2011 Mercury Mariner is a compact SUV that offered a choice of three engine 
     * Solution: Repair or replace transmission fluid leak
     * Estimated Cost to Fix: $100 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front strut mount failure:**
@@ -79,19 +66,6 @@ The 2011 Mercury Mariner is a compact SUV that offered a choice of three engine 
     * Description/Symptoms: Battery dies or requires頻繁跳線, electrical components malfunctioning
     * Solution: Identify and repair source of battery drain
     * Estimated Cost to Fix: Varies depending on the source of the drain
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -114,15 +88,3 @@ The 2011 Mercury Mariner is a compact SUV that offered a choice of three engine 
 **Summary:**
 
 The 2011 Mercury Mariner has a variety of potential issues that can range from minor inconveniences to more serious and costly repairs. Engine and transmission problems are the most common, but suspension, electrical, exterior, and interior issues have also been reported. Overall, the severity and cost of these issues can vary depending on the specific part or component affected.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

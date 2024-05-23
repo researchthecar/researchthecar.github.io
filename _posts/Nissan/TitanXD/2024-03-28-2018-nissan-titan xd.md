@@ -40,19 +40,6 @@ The 2018 Nissan Titan XD is a full-size pickup truck known for its durability, t
  - Estimated Cost to Fix: $1,500 - $2,000+
  - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Rear Leaf Spring Failure:** The rear leaf springs can break or crack, leading to a rough ride and reduced towing capacity.
@@ -66,19 +53,6 @@ The 2018 Nissan Titan XD is a full-size pickup truck known for its durability, t
  - Solution: Diagnose and resolve source of electrical draw.
  - Estimated Cost to Fix: $100 - $500+
  - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -97,15 +71,3 @@ The 2018 Nissan Titan XD is a full-size pickup truck known for its durability, t
 **Summary:**
 
 The 2018 Nissan Titan XD has encountered various issues, ranging from minor electrical problems to more severe engine and transmission concerns. While some issues are minor and relatively inexpensive to fix, others can be quite costly and impact the vehicle's performance and reliability. Overall, the Titan XD has received mixed reviews regarding its reliability, and potential owners should be aware of the potential issues before making a purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

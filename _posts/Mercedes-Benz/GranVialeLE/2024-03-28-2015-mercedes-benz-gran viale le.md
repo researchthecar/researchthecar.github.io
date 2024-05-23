@@ -94,15 +94,3 @@ The 2015 Mercedes-Benz Gran Viale LE is a luxury sedan that offers a comfortable
 ## Summary
 
 The 2015 Mercedes-Benz Gran Viale LE is a premium sedan with a range of issues. Engine issues, such as intake manifold gasket failure, can be costly to repair. Transmission problems, including fluid leaks and shifting issues, are also common. Suspension issues, such as air suspension compressor failure, can compromise the vehicle's ride quality. Electrical issues include battery discharge and electrical module failures. While the interior and exterior issues are generally minor, they can still be frustrating for owners. The severity and cost of repairs for the reported issues can vary depending on the specific problem and the extent of the damage.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

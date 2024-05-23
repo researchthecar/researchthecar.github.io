@@ -39,19 +39,6 @@ The Laser was praised for its sporty handling and stylish design. However, it wa
 
 * **Transmission slipping:** Symptoms include difficulty shifting gears, slipping gears, and a delayed response when shifting. Solution: Repair or replace the transmission. Estimated Cost to Fix: $1,500 - $3,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front strut failure:** Symptoms include a clunking noise when driving over bumps, uneven tire wear, and a decrease in handling performance. Solution: Replace the front struts. Estimated Cost to Fix: $400 - $800+
@@ -62,19 +49,6 @@ The Laser was praised for its sporty handling and stylish design. However, it wa
 * **Alternator failure:** Symptoms include a flickering or dimming dashboard lights, difficulty starting the vehicle, and a dead battery. Solution: Replace the alternator. Estimated Cost to Fix: $400 - $800+
 * **Starter failure:** Symptoms include a clicking noise when starting the vehicle, difficulty starting the vehicle, or a no-start condition. Solution: Replace the starter. Estimated Cost to Fix: $300 - $600+
 * **Battery drain:** Symptoms include a dead battery after the vehicle has been sitting for a period of time. Solution: Diagnose and repair the source of the drain. Estimated Cost to Fix: Varies depending on the source of the drain
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -90,15 +64,3 @@ The Laser was praised for its sporty handling and stylish design. However, it wa
 **Summary**
 
 The 1991 Plymouth Laser is a reliable and sporty coupe that offers a variety of engine and transmission options. However, it is important to be aware of the potential issues that can affect this vehicle. The most common issues include engine problems, transmission problems, suspension problems, electrical problems, and interior problems. The severity and cost of these issues can vary depending on the specific problem.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -112,15 +112,3 @@ Recalls: None Found
 ## **Summary**
 
 While the 2006 Toyota Sequoia is generally a reliable vehicle, it has faced some common issues. Engine and transmission problems can be costly to repair, while electrical issues and suspension failures are less severe. Interior and exterior issues are generally minor and can be addressed at a reasonable cost. Overall, the Toyota Sequoia remains a capable and comfortable SUV, but potential owners should be aware of the potential issues before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

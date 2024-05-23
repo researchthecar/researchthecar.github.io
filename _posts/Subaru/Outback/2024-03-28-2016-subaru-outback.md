@@ -64,19 +64,6 @@ People like the Outback for its spacious interior, comfortable ride, and rugged 
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut mount failure**
@@ -97,19 +84,6 @@ People like the Outback for its spacious interior, comfortable ride, and rugged 
     * Solution: Replace the alternator
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -137,15 +111,3 @@ People like the Outback for its spacious interior, comfortable ride, and rugged 
 While the 2016 Subaru Outback is generally a reliable vehicle, it is not without its issues. Engine problems, particularly with the 2.5-liter four-cylinder and 3.6-liter six-cylinder, can be costly to repair. Transmission issues, such as hesitation or shuddering with the CVT, have also been reported. Suspension and electrical problems can also occur, but they are generally less severe. Interior issues are relatively minor, mostly involving sun visor and armrest lid problems.
 
 Overall, the severity of the issues with the 2016 Subaru Outback can vary. While some issues, such as engine failures, can be major and costly, others are more minor and less expensive to fix. It is important for owners to be aware of potential problems and to take steps to maintain their vehicles properly to minimize the risk of costly repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

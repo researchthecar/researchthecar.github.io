@@ -27,19 +27,6 @@ The 2014 Mercedes-Benz SLS AMG is a high-performance sports car that comes with 
         * Estimated Cost to Fix: $3,500 - $5,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -51,19 +38,6 @@ The 2014 Mercedes-Benz SLS AMG is a high-performance sports car that comes with 
         * Solution: Diagnose and repair the underlying electrical fault causing the drain.
         * Estimated Cost to Fix: $500 - $1,500+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -89,15 +63,3 @@ The 2014 Mercedes-Benz SLS AMG is a high-performance sports car that comes with 
 **Summary:**
 
 The 2014 Mercedes-Benz SLS AMG is generally a reliable and well-built vehicle, but it has experienced some common issues. The engine and transmission issues can be severe and expensive to fix, while the electrical, exterior, and interior issues are typically less severe and less costly. Overall, the SLS AMG is a desirable sports car that offers a thrilling driving experience, but potential buyers should be aware of the potential issues before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

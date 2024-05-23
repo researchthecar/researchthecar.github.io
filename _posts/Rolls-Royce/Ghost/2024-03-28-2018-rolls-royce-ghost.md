@@ -29,19 +29,6 @@ The 2018 Rolls-Royce Ghost is a luxurious sedan that combines classic styling wi
 * Estimated Cost to Fix: $3,000 - $5,000+
 * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Air suspension failure:**
@@ -63,19 +50,6 @@ The 2018 Rolls-Royce Ghost is a luxurious sedan that combines classic styling wi
 * Solution: The cooling fan or related components may need to be replaced.
 * Estimated Cost to Fix: $1,000 - $2,000+
 * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -102,15 +76,3 @@ The 2018 Rolls-Royce Ghost is a luxurious sedan that combines classic styling wi
 **Summary:**
 
 The 2018 Rolls-Royce Ghost is a reliable and well-built vehicle, but it has its share of issues. The most severe and costly issue is timing chain failure, which can lead to catastrophic engine damage. The other issues are relatively minor and can be fixed for a reasonable cost. Overall, the Ghost is a solid choice for buyers who are looking for a luxurious and comfortable sedan.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -35,19 +35,6 @@ The 2009 Mercedes-Benz S63 AMG is a high-performance luxury sedan powered by a n
         * Estimated Cost to Fix: $3,000 - $5,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
     * **Front Air Suspension Struts Failure:**
         * Description/Symptoms: The front air suspension struts can fail, resulting in uneven ride height and suspension performance issues.
@@ -72,19 +59,6 @@ The 2009 Mercedes-Benz S63 AMG is a high-performance luxury sedan powered by a n
         * Estimated Cost to Fix: Varies depending on the cause
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
     * **Door Lock Actuator Failure:**
         * Description/Symptoms: The door lock actuators can fail, causing difficulty locking or unlocking the doors.
@@ -107,15 +81,3 @@ The 2009 Mercedes-Benz S63 AMG is a high-performance luxury sedan powered by a n
 **Summary**
 
 Overall, the 2009 Mercedes-Benz S63 AMG is a highly capable and luxurious vehicle. However, it is not without its fair share of issues. Some of the common problems include engine intake manifold flap failure, head gasket failure, transmission clutch pack failure, and suspension component failures. Electrical issues, such as alternator failure and battery drain, have also been reported. While the cost of repairs can be substantial, the S63 AMG's impressive performance and exclusivity make it a desirable choice for those seeking a thrilling driving experience.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

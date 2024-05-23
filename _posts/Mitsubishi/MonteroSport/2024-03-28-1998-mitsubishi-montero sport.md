@@ -29,19 +29,6 @@ The 1998 Mitsubishi Montero Sport is a compact SUV loved for its off-road prowes
 * **Clutch failure:** Description/Symptoms: Difficulty shifting gears, grinding noises, or slipping. Solution: Replace the clutch. Estimated Cost to Fix: $500 - $1,000+
 * **Synchronizer issues:** Description/Symptoms: Difficulty shifting gears, grinding noises, or popping out of gear. Solution: Replace the synchronizers. Estimated Cost to Fix: $300 - $800+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Leaking shocks:** Description/Symptoms: Poor handling, excessive body roll, and reduced ride comfort. Solution: Replace the shocks. Estimated Cost to Fix: $250 - $500+ per axle
 * **Worn ball joints:** Description/Symptoms: Clunking noises when turning or going over bumps, excessive tire wear. Solution: Replace the ball joints. Estimated Cost to Fix: $200 - $400+ per side
@@ -50,19 +37,6 @@ The 1998 Mitsubishi Montero Sport is a compact SUV loved for its off-road prowes
 * **Alternator failure:** Description/Symptoms: Dim headlights, difficulty starting the vehicle, or illuminated battery light. Solution: Replace the alternator. Estimated Cost to Fix: $500 - $800+
 * **Starter failure:** Description/Symptoms: Inability to start the vehicle, clicking noises when attempting to start. Solution: Replace the starter. Estimated Cost to Fix: $250 - $500+
 * **Battery drain:** Description/Symptoms: Dead battery after sitting for an extended period. Solution: Identify and repair the source of the battery drain. Estimated Cost to Fix: $100 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Rusty undercarriage:** Description/Symptoms: Corrosion and rust on the undercarriage components. Solution: Rust treatment or replacement of affected components. Estimated Cost to Fix: $500 - $1,500+
@@ -74,15 +48,3 @@ The 1998 Mitsubishi Montero Sport is a compact SUV loved for its off-road prowes
 **Summary:**
 
 The 1998 Mitsubishi Montero Sport is a reliable vehicle with a few potential issues. The most severe and costly issues are head gasket failure, transmission slipping, and alternator failure. The majority of the issues are relatively minor and inexpensive to fix.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

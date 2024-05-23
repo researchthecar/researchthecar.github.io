@@ -34,19 +34,6 @@ The 2017 Mercedes-Benz S63 AMG is a high-performance luxury sedan powered by a t
   * Estimated Cost to Fix: $2,000 - $3,500+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Air suspension compressor failure**
   * Description/Symptoms: Loss of air suspension, vehicle lowered to the ground
@@ -70,19 +57,6 @@ The 2017 Mercedes-Benz S63 AMG is a high-performance luxury sedan powered by a t
   * Solution: Replace alternator
   * Estimated Cost to Fix: $800 - $1,200+
   * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Front bumper damage**
@@ -110,15 +84,3 @@ The 2017 Mercedes-Benz S63 AMG is a high-performance luxury sedan powered by a t
 
 **Summary**
 The 2017 Mercedes-Benz S63 AMG is a powerful and luxurious sedan, but it can be expensive to maintain and repair. The most common issues are related to the engine, transmission, and electrical system. The severity of the issues can vary, and the cost to fix them can be high.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

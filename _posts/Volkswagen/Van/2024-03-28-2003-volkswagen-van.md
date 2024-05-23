@@ -25,19 +25,6 @@ The 2003 Volkswagen Van, also known as the Transporter T5, is a versatile and pr
 * **6-speed Automatic Transmission:**
     * **Solenoid issues:** Faulty solenoids can cause shifting problems, delayed engagement, or slipping gears. Solution: Replace the affected solenoids. Estimated Cost to Fix: $200 - $400+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension strut mounts:** The strut mounts can wear out over time, leading to clunking noises and a rough ride. Solution: Replace the strut mounts. Estimated Cost to Fix: $200 - $400+
@@ -47,19 +34,6 @@ The 2003 Volkswagen Van, also known as the Transporter T5, is a versatile and pr
 
 * **Alternator failure:** The alternator may fail, leading to a loss of electrical power. Symptoms include dim lights, difficulty starting the engine, and battery warning lights. Solution: Replace the alternator. Estimated Cost to Fix: $300 - $600+
 * **Battery drain:** A parasitic battery drain can occur due to faulty components such as the radio or light switch. Solution: Identify and repair the source of the drain. Estimated Cost to Fix: $100 - $300+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -73,15 +47,3 @@ The 2003 Volkswagen Van, also known as the Transporter T5, is a versatile and pr
 **Summary**
 
 Overall, the 2003 Volkswagen Van is a reliable and versatile vehicle, but it has experienced some specific issues that owners should be aware of. The most common issues include oil leaks, intake manifold problems, clutch failure, suspension strut mount wear, alternator failure, battery drain, and interior rattles. While some of these issues are relatively minor and inexpensive to fix, others can be more severe and costly. It is important to have regular maintenance performed and to address any issues as they arise to ensure the long-term reliability of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

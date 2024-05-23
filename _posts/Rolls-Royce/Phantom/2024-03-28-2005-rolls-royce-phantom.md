@@ -29,19 +29,6 @@ The 2005 Rolls-Royce Phantom is the flagship luxury sedan of the British automak
     * Estimated Cost to Fix: $5,000 - $10,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension**
@@ -69,19 +56,6 @@ The 2005 Rolls-Royce Phantom is the flagship luxury sedan of the British automak
     * Solution: The electrical system needs to be inspected and repaired.
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -122,15 +96,3 @@ The 2005 Rolls-Royce Phantom is the flagship luxury sedan of the British automak
 **Summary**
 
 Overall, the 2005 Rolls-Royce Phantom is a highly luxurious and prestigious vehicle. However, it is important to be aware of the potential issues it may experience. While some issues are relatively minor and inexpensive to fix, others can be more severe and costly. It is recommended to have the vehicle inspected by a qualified mechanic before purchasing to identify any potential problems.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

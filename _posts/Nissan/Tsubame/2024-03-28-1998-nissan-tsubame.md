@@ -66,15 +66,3 @@ People who liked the Tsubame praised its affordability, sporty handling, and com
 ## Summary
 
 Overall, the 1998 Nissan Tsubame is a budget-friendly sedan with some minor issues to be aware of. The most prevalent problem is excessive oil consumption in the 1.8-liter engine, which can be expensive to fix. The manual transmission can also experience shifting difficulties, and the automatic transmission may slip gears. Other issues, such as a faulty alternator and a sticky dashboard, are less common. With proper maintenance and repairs, the Tsubame can provide a reliable and enjoyable driving experience.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

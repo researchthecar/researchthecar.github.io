@@ -59,19 +59,6 @@ Owners generally praise the Mountaineer for its spacious interior, comfortable r
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Lower Control Arm Bushing Wear**
@@ -100,19 +87,6 @@ Owners generally praise the Mountaineer for its spacious interior, comfortable r
     * Estimated Cost to Fix: $500 - $800+
     * Recalls: N/A
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Tailgate Lid Corrosion**
@@ -132,15 +106,3 @@ Owners generally praise the Mountaineer for its spacious interior, comfortable r
 **Summary**
 
 The 2009 Mercury Mountaineer has a few common issues, including timing chain tensioner failure, intake manifold gasket failure, shift solenoid failure, torque converter failure, and battery drain. The severity of these issues can vary, and repair costs can range from a few hundred dollars to over $2,000. However, most issues are relatively minor and affordable to fix. Overall, the Mountaineer is a reliable SUV with a spacious interior and comfortable ride.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

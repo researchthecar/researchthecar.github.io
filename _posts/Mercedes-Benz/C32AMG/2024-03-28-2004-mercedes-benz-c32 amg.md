@@ -24,19 +24,6 @@ The C32 AMG is known for its impressive performance and handling. However, it ha
     * **Torque converter shudder:** Can cause vibrations and shuddering when shifting gears. Symptoms include vibrations felt through the steering wheel and/or seats, especially at low speeds. Solution: Replace the torque converter. Estimated Cost to Fix: $1,500 - $2,000+
     * **Transmission slipping:** Can cause the transmission to slip out of gear, resulting in a loss of power. Symptoms include difficulty shifting gears, a slipping sensation during acceleration, and illuminated check engine light. Solution: Rebuild or replace the transmission. Estimated Cost to Fix: $2,000 - $3,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -45,19 +32,6 @@ The C32 AMG is known for its impressive performance and handling. However, it ha
 
 * **Battery drain:** Can lead to a dead battery and inability to start the vehicle. Symptoms include rapid battery discharge, difficulty starting the vehicle, and flickering headlights. Solution: Diagnose and repair the source of the battery drain. Estimated Cost to Fix: $100 - $500+
 * **Alternator failure:** Can result in a loss of electrical power to the vehicle. Symptoms include a flickering or dim dashboard, difficulty starting the vehicle, and illuminated check engine light. Solution: Replace the alternator. Estimated Cost to Fix: $500 - $700+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -76,15 +50,3 @@ The C32 AMG is known for its impressive performance and handling. However, it ha
 **Summary**
 
 The 2004 Mercedes-Benz C32 AMG is a powerful and capable vehicle, but it is important to be aware of the potential issues that it may have. The most serious issues include timing chain tensioner failure, intake manifold gasket leak, and supercharger failure, which can all lead to significant repair costs. However, the majority of the issues are minor and relatively inexpensive to fix. Overall, the C32 AMG is a reliable and enjoyable vehicle for those who are willing to accept the potential risks.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

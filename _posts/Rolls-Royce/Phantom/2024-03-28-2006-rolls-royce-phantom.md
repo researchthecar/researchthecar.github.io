@@ -37,19 +37,6 @@ The 2006 Rolls-Royce Phantom is a luxurious sedan powered by a 6.75-liter V12 en
         * Estimated Cost to Fix: $4,000 - $6,000
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Air Suspension Failure**
@@ -75,19 +62,6 @@ The 2006 Rolls-Royce Phantom is a luxurious sedan powered by a 6.75-liter V12 en
     * Solution: Replace HVAC control module
     * Estimated Cost to Fix: $800 - $1,200
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -118,15 +92,3 @@ The 2006 Rolls-Royce Phantom is a luxurious sedan powered by a 6.75-liter V12 en
 **Summary**
 
 The 2006 Rolls-Royce Phantom is a luxurious vehicle with a powerful engine and an opulent interior. However, it has some potential issues, particularly with its engine, transmission, and electrical systems. These issues can be costly to repair, but they are not typically severe enough to prevent the vehicle from being driven.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

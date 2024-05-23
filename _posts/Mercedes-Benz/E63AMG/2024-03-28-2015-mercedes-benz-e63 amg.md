@@ -28,19 +28,6 @@ The 2015 Mercedes-Benz E63 AMG is a high-performance sedan powered by a 5.5L twi
 * **Estimated Cost to Fix:** $500 - $1,000+
 * **Recalls:** None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Air Suspension Failure:**
@@ -56,19 +43,6 @@ The 2015 Mercedes-Benz E63 AMG is a high-performance sedan powered by a 5.5L twi
 * **Solution:** Replace faulty battery.
 * **Estimated Cost to Fix:** $300 - $600
 * **Recalls:** None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -88,15 +62,3 @@ The 2015 Mercedes-Benz E63 AMG is a high-performance sedan powered by a 5.5L twi
 
 **Summary:**
 The 2015 Mercedes-Benz E63 AMG is a performance-oriented sedan with impressive capabilities but also some known issues. The intake manifold runner failure and transmission shift solenoid failure are potentially serious issues that can affect drivability and safety. The air suspension system may also experience malfunctions, leading to compromised handling and costly repairs. Electrical and exterior issues such as battery failure and sunroof rattling are less severe but can still be annoying and inconvenient. Overall, the severity and cost of these issues should be considered when purchasing a used 2015 E63 AMG.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -28,19 +28,6 @@ People like the Torino for its comfortable ride, spacious interior, and powerful
     - Estimated Cost to Fix: $5,000 - $7,000
     - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **No Issues Found**
 
@@ -50,19 +37,6 @@ People like the Torino for its comfortable ride, spacious interior, and powerful
     - Solution: Replace the electrical system.
     - Estimated Cost to Fix: $1,000 - $2,000
     - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 - **No Issues Found**
@@ -77,15 +51,3 @@ People like the Torino for its comfortable ride, spacious interior, and powerful
 **Summary**
 
 The 2020 Mercedes-Benz Torino is a luxurious and sporty SUV that offers a comfortable ride and spacious interior. However, some owners have reported issues with the vehicle's engine, transmission, and electrical system. The severity of these issues varies, and the cost to fix them can be significant.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

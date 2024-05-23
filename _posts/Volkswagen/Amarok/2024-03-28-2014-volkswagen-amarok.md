@@ -51,19 +51,6 @@ The 2014 Volkswagen Amarok is a mid-size pickup truck that offers a range of eng
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Leaf Spring Failure**
@@ -91,19 +78,6 @@ The 2014 Volkswagen Amarok is a mid-size pickup truck that offers a range of eng
     * Solution: Diagnose and repair the electrical short circuit.
     * Estimated Cost to Fix: $200 - $1,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -136,15 +110,3 @@ The 2014 Volkswagen Amarok is a mid-size pickup truck that offers a range of eng
 **Summary**
 
 The 2014 Volkswagen Amarok has received mixed reviews from owners. Some common issues include engine and transmission failures, suspension problems, and various electrical issues. The severity and cost of these issues can vary depending on the specific issue and the age and mileage of the vehicle. Overall, the Amarok is a capable and comfortable truck, but potential buyers should be aware of these potential issues before making a purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

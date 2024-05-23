@@ -29,19 +29,6 @@ Solution: Replace the shift solenoid.
 Estimated Cost to Fix: $300 - $600+
 Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **No Issues Found**
@@ -53,19 +40,6 @@ Description/Symptoms: The battery may drain quickly, especially when the vehicle
 Solution: Check for a parasitic drain and replace the battery if necessary.
 Estimated Cost to Fix: $100 - $250+
 Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -86,15 +60,3 @@ Recalls: None Found
 **Summary**
 
 The 2022 Volkswagen Volksbus is a capable minivan with a powerful engine and a spacious interior. However, it has some notable issues, including intake manifold runner failure, shift solenoid failure, battery drain, tailgate latch failure, and climate control malfunction. These issues can be expensive to fix and may compromise the vehicle's reliability and overall driving experience. Additionally, the Volksbus has a high fuel consumption and limited customization options, which may be drawbacks for some potential buyers.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

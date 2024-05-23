@@ -78,15 +78,3 @@ People like the Boxer 40 for its impressive performance, comfortable ride, and h
 ### **Summary**
 
 Overall, the 2021 Mercedes-Benz Boxer 40 is a capable SUV with impressive performance and features. However, some owners have encountered issues with the engine, transmission, electrical system, and interior components. The severity of these issues varies, and the cost to fix them can range from minor to significant. Potential buyers should be aware of these reported problems and factor them into their decision-making process.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

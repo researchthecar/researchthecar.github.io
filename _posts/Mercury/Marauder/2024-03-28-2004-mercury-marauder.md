@@ -44,19 +44,6 @@ The 2004 Mercury Marauder was a high-performance sedan produced by the Mercury d
   - Estimated Cost to Fix: $200 - $500+
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut bearing failure:** 
@@ -77,19 +64,6 @@ The 2004 Mercury Marauder was a high-performance sedan produced by the Mercury d
   - Solution: Replace the power window motor
   - Estimated Cost to Fix: $200 - $400+
   - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -115,15 +89,3 @@ The 2004 Mercury Marauder was a high-performance sedan produced by the Mercury d
 **Summary:**
 
 Overall, the 2004 Mercury Marauder is a powerful and engaging sedan with a strong engine and a retro-inspired design. However, it is also known for several reliability issues affecting various components. The most severe issues include timing chain tensioner failure, shift solenoid failure, and dashboard failure, which can result in costly repairs. Other common problems include intake manifold gasket failure, transmission fluid leaks, and strut bearing failure. While some of these issues are relatively minor, others can impact the vehicle's performance and safety.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

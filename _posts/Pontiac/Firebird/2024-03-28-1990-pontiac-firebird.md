@@ -34,19 +34,6 @@ The 1990 Pontiac Firebird was a muscle car that offered thrilling performance an
   - Solution: Replace overdrive solenoid.
   - Estimated Cost to Fix: $200 - $400+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Rear Leaf Spring Squeak:** The leaf springs can develop a squeak over time, especially when carrying heavy loads.
@@ -61,19 +48,6 @@ The 1990 Pontiac Firebird was a muscle car that offered thrilling performance an
 - **Power Window Motors Failure:** The power window motors can fail, leading to inoperable windows.
   - Solution: Replace power window motors.
   - Estimated Cost to Fix: $200 - $500+ per window
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -93,15 +67,3 @@ The 1990 Pontiac Firebird was a muscle car that offered thrilling performance an
 **Summary:**
 
 The 1990 Pontiac Firebird offered a combination of power and style. However, it faced several issues that ranged from minor annoyances to potentially severe mechanical problems. Some of the most common issues included intake manifold gasket failure, head gasket failure, and rear leaf spring squeak. The severity and cost of these issues could vary depending on the affected component and the extent of the damage.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

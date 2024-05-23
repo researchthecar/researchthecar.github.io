@@ -13,19 +13,6 @@ The 2016 Volkswagen e-Golf is a fully electric compact hatchback with a 115 kW (
 
 **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Rear Springs**
@@ -48,19 +35,6 @@ The 2016 Volkswagen e-Golf is a fully electric compact hatchback with a 115 kW (
 *Estimated Cost to Fix:* $100 - $200+
 *Recalls:* None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 **Headlight Condensation**
@@ -80,15 +54,3 @@ The 2016 Volkswagen e-Golf is a fully electric compact hatchback with a 115 kW (
 **Summary:**
 
 The 2016 Volkswagen e-Golf suffers from a limited number of issues, primarily focused on the suspension, electrical system, and interior components. The severity of these issues varies, with some requiring costly repairs. Overall, the e-Golf is generally considered a reliable vehicle with low maintenance costs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

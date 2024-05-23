@@ -34,19 +34,6 @@ The 2006 Mercedes-Benz S65 AMG is the pinnacle of the S-Class lineup, offering u
         * Estimated Cost to Fix: $2,500 - $4,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **AIRMATIC Air Suspension**
@@ -75,19 +62,6 @@ The 2006 Mercedes-Benz S65 AMG is the pinnacle of the S-Class lineup, offering u
     * Estimated Cost to Fix: $1,000 - $3,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight Condensation:**
@@ -112,15 +86,3 @@ The 2006 Mercedes-Benz S65 AMG is the pinnacle of the S-Class lineup, offering u
 **Summary**
 
 While the 2006 Mercedes-Benz S65 AMG offers exceptional performance and luxury, it has not been immune to certain issues that can be costly to repair. Potential buyers should be aware of these concerns and budget accordingly. Engine, transmission, and electrical issues can be particularly expensive, while suspension and interior problems are generally less severe and less costly.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

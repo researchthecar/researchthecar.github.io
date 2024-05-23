@@ -21,19 +21,6 @@ tags: ["Mercedes-Benz", "S63 AMG", "2013"]
         * Estimated Cost to Fix: $100 - $500
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Air suspension leaks:** The air suspension system may develop leaks, causing the vehicle to drop or ride unevenly.
@@ -48,19 +35,6 @@ tags: ["Mercedes-Benz", "S63 AMG", "2013"]
         * Estimated Cost to Fix: $100 - $500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior:**
 * **Sunroof seal issues:** The sunroof seal may fail, allowing water to leak into the cabin.
         * Solution: Replacement of sunroof seal.
@@ -74,15 +48,3 @@ tags: ["Mercedes-Benz", "S63 AMG", "2013"]
         * Recalls: None Found
 
 **Summary:** The 2013 Mercedes-Benz S63 AMG is a powerful and luxurious vehicle, but it is not without issues. While the engine and transmission are generally reliable, some owners have experienced intake manifold and transmission shift problems. Suspension leaks are also a concern, and electrical issues can lead to battery drain. Interior and exterior issues are relatively minor but should still be addressed to maintain the vehicle's premium status. The severity and cost of these issues vary, so potential buyers should factor these into their purchase decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

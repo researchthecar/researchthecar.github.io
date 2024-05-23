@@ -30,19 +30,6 @@ The Constellation is known for its powerful engines, rugged construction, and co
 - **Shifting Problems:** The transmission may have difficulty shifting gears, causing rough or delayed shifts. The fix involves reprogramming the transmission control module (TCM), which can cost around $200 - $500+.
 - **Clutch Failure:** The clutch can fail, causing the transmission to slip or not engage. The fix involves replacing the clutch, which can cost around $1,500 - $2,000+.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Leaf Spring Failure:** The leaf springs can fail, causing the truck to sag and ride rough. The fix involves replacing the leaf springs, which can cost around $500 - $1,000+.
@@ -52,19 +39,6 @@ The Constellation is known for its powerful engines, rugged construction, and co
 
 - **Battery Drain:** The battery can drain prematurely, causing the truck to fail to start. The fix involves identifying and repairing the source of the drain, which can cost around $200 - $500+.
 - **Alternator Failure:** The alternator can fail, causing the battery to not charge properly. The fix involves replacing the alternator, which can cost around $500 - $1,000+.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -79,15 +53,3 @@ The Constellation is known for its powerful engines, rugged construction, and co
 **Summary**
 
 The 2017 Volkswagen Constellation is a capable truck with a number of positive attributes. However, it is also plagued by a number of issues, some of which are severe and expensive to fix. Potential buyers should be aware of these issues before purchasing a Constellation.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

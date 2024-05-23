@@ -30,19 +30,6 @@ Owners of the 1993 Mercury Tracer generally praise the vehicle for its fuel effi
     * **Transmission fluid leak:** Transmission fluid leaks are a common problem on the four-speed automatic transmission. Symptoms include slipping gears, delayed shifts, and difficulty shifting. A transmission fluid leak can be repaired by replacing the leaking part. Estimated cost to fix: $200 - $400+
     * **Torque converter failure:** The torque converter is a component in the transmission that helps to transmit power from the engine to the transmission. If the torque converter fails, it can cause the car to lose power or stall. A torque converter can be repaired by replacing the worn or damaged parts. Estimated cost to fix: $1,000 - $2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut failure:** The struts are components of the suspension system that absorb shock and keep the tires in contact with the road. If a strut fails, it can cause the car to bounce or handle poorly. Struts can be repaired by replacing the worn or damaged parts. Estimated cost to fix: $400 - $600+ per strut
@@ -52,19 +39,6 @@ Owners of the 1993 Mercury Tracer generally praise the vehicle for its fuel effi
 
 * **Alternator failure:** The alternator is a component of the electrical system that charges the battery. If the alternator fails, it can cause the battery to discharge and the car to lose power. An alternator can be repaired by replacing the worn or damaged parts. Estimated cost to fix: $500 - $800+
 * **Starter failure:** The starter is a component of the electrical system that starts the engine. If the starter fails, it can prevent the car from starting. A starter can be repaired by replacing the worn or damaged parts. Estimated cost to fix: $300 - $500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -81,15 +55,3 @@ Owners of the 1993 Mercury Tracer generally praise the vehicle for its fuel effi
 The 1993 Mercury Tracer is a reliable and fuel-efficient car, but it is not without its problems. Some of the most common issues include head gasket failure, intake manifold gasket failure, and timing belt failure. These issues can be expensive to repair, so it is important to factor in the cost of potential repairs when considering purchasing a used Tracer.
 
 Overall, the 1993 Mercury Tracer is a good choice for budget-minded consumers who are looking for a reliable and fuel-efficient car. However, it is important to be aware of the potential problems that can occur with this vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

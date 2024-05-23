@@ -23,19 +23,6 @@ The 1996 Rolls-Royce Silver Dawn is a luxurious grand tourer produced by Rolls-R
 * **4-Speed Automatic**
     * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Pneumatic Suspension:**
@@ -57,19 +44,6 @@ The 1996 Rolls-Royce Silver Dawn is a luxurious grand tourer produced by Rolls-R
     * Solution: Replace alternator
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -100,15 +74,3 @@ The 1996 Rolls-Royce Silver Dawn is a luxurious grand tourer produced by Rolls-R
 **Summary:**
 
 Overall, the 1996 Rolls-Royce Silver Dawn is a reliable and luxurious vehicle. However, it is not without its flaws. Some of the issues mentioned can be relatively minor and inexpensive to fix, while others may be more severe and require significant repairs. It is important for owners to be aware of these potential issues and to have them addressed promptly to avoid further damage or inconvenience.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

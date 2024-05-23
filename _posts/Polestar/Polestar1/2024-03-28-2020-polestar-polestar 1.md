@@ -34,19 +34,6 @@ The 2020 Polestar Polestar 1 is a plug-in hybrid grand touring coupe that combin
         * Estimated Cost to Fix: $2,000 - $5,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension**
@@ -83,19 +70,6 @@ The 2020 Polestar Polestar 1 is a plug-in hybrid grand touring coupe that combin
         * Estimated Cost to Fix: $300 - $1,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Body Panels**
@@ -119,15 +93,3 @@ The 2020 Polestar Polestar 1 is a plug-in hybrid grand touring coupe that combin
 **Summary**
 
 The 2020 Polestar Polestar 1 faces some reliability issues that can be costly to repair. While the vehicle offers a high level of performance and luxury, potential buyers should be aware of potential problems with the turbocharger, fuel pump, and battery. It is recommended to thoroughly inspect the vehicle and consider an extended warranty to mitigate the potential for significant repair expenses.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

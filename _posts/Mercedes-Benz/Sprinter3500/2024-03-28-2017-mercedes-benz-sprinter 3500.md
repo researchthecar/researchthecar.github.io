@@ -37,19 +37,6 @@ The 2017 Mercedes-Benz Sprinter 3500 is a versatile commercial van offering exce
     * Estimated Cost to Fix: $2,500 - $4,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -61,19 +48,6 @@ The 2017 Mercedes-Benz Sprinter 3500 is a versatile commercial van offering exce
     * Solution: Diagnosis and replacement of faulty electrical components
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -100,15 +74,3 @@ The 2017 Mercedes-Benz Sprinter 3500 is a versatile commercial van offering exce
 **Summary:**
 
 Overall, the 2017 Mercedes-Benz Sprinter 3500 is a capable and well-built vehicle. While it has some common issues, such as fuel injector malfunctions and transmission hesitation, most of these can be resolved relatively inexpensively. The severity and cost of the issues are generally moderate, not significantly impacting the vehicle's overall reliability or ownership costs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

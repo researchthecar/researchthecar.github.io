@@ -37,19 +37,6 @@ The 2000 Volkswagen Sedan, also known as the Jetta IV, is a compact sedan that w
 * **Valve body failure:** The valve body may fail, causing the transmission to shift erratically or not at all. The symptoms include a rough shifting transmission, a check engine light, and a loss of power. The solution is to replace the valve body. The estimated cost to fix is $500 - $700.
 * **Transmission control module failure:** The transmission control module (TCM) may fail, causing the transmission to shift erratically or not at all. The symptoms include a rough shifting transmission, a check engine light, and a loss of power. The solution is to replace the TCM. The estimated cost to fix is $500 - $700.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut failure:** The struts may fail, causing a loss of stability and control. The symptoms include a rough ride, a decrease in handling, and a clunking noise from the suspension. The solution is to replace the struts. The estimated cost to fix is $500 - $700.
@@ -59,19 +46,6 @@ The 2000 Volkswagen Sedan, also known as the Jetta IV, is a compact sedan that w
 
 * **Battery failure:** The battery may fail, causing the vehicle to not start. The symptoms include a dead battery, a clicking noise when trying to start the vehicle, and a dimming of the headlights. The solution is to replace the battery. The estimated cost to fix is $100 - $200.
 * **Starter failure:** The starter may fail, causing the vehicle to not start. The symptoms include a clicking noise when trying to start the vehicle and a no-crank condition. The solution is to replace the starter. The estimated cost to fix is $300 - $500.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -86,15 +60,3 @@ The 2000 Volkswagen Sedan, also known as the Jetta IV, is a compact sedan that w
 **Summary**
 
 The 2000 Volkswagen Sedan is a reliable and affordable compact sedan. However, it is not without its problems. Some of the most common issues include valve cover leaks, timing chain tensioner failure, turbocharger failure, intake manifold leaks, head gasket failure, synchro failure, clutch failure, torque converter failure, transmission control module failure, valve body failure, strut failure, control arm bushing failure, battery failure, starter failure, headlight failure, taillight failure, dashboard rattling, and seat belt buckle failure. The severity of these issues varies, and the cost to fix them can range from $100 to $1,500. Overall, the 2000 Volkswagen Sedan is a good choice for those looking for a reliable and affordable compact sedan. However, it is important to be aware of the potential problems that it may have.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

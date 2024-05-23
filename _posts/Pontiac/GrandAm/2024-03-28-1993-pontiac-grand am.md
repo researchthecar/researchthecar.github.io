@@ -61,19 +61,6 @@ The 1993 Pontiac Grand Am was a popular midsize car known for its sleek design a
  - Estimated Cost to Fix: $500 - $800+
  - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Strut Mount Failure:**
@@ -100,19 +87,6 @@ The 1993 Pontiac Grand Am was a popular midsize car known for its sleek design a
  - Estimated Cost to Fix: $200 - $300+
  - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 - **Door Handle Failures:**
@@ -137,15 +111,3 @@ The 1993 Pontiac Grand Am was a popular midsize car known for its sleek design a
 **Summary:**
 
 The 1993 Pontiac Grand Am had a number of issues that could lead to costly repairs. The most severe issues were engine and transmission failures, which could cost thousands of dollars to fix. However, many of the other issues were minor and relatively inexpensive to address. Overall, the Grand Am was a reliable vehicle, but owners should be aware of the potential problems before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

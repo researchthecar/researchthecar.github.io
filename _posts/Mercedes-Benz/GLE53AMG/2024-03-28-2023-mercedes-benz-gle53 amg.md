@@ -21,19 +21,6 @@ The 2023 Mercedes-Benz GLE53 AMG is a midsize luxury SUV praised for its impress
 
 **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * Air Suspension
@@ -55,19 +42,6 @@ The 2023 Mercedes-Benz GLE53 AMG is a midsize luxury SUV praised for its impress
 * NHTSA Campaign Number: 23V020000
 * Description: Steering angle sensor may provide inaccurate data, potentially leading to loss of control.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior:**
 
 **No Issues Found**
@@ -82,15 +56,3 @@ The 2023 Mercedes-Benz GLE53 AMG is a midsize luxury SUV praised for its impress
 **Summary:**
 
 The 2023 Mercedes-Benz GLE53 AMG generally has a good reliability record, but some owners have encountered issues with air suspension leaks and electrical problems. The severity of these issues can vary, and the cost of repairs can be substantial. However, the vehicle's overall performance, luxury, and safety features make it a desirable choice for many buyers.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

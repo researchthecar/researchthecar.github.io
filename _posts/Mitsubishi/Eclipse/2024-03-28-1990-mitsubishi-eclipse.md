@@ -76,15 +76,3 @@ The Eclipse was praised for its stylish design, its affordability, and its handl
 ## Summary
 
 The 1990 Mitsubishi Eclipse is a reliable and affordable sports car that is known for its stylish design and handling. However, it does have some common issues, including engine problems, transmission problems, suspension problems, and electrical problems. The severity of these issues varies, and the cost to fix them can range from a few hundred dollars to a few thousand dollars. Overall, the Eclipse is a good choice for those who are looking for a stylish and affordable sports car, but they should be aware of the potential issues that can come with it.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

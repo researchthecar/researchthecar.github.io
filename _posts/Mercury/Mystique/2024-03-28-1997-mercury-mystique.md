@@ -37,19 +37,6 @@ The 1997 Mercury Mystique is a midsize sedan that was powered by a 2.5-liter V6 
         * Estimated Cost to Fix: $1,500 - $2,500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Struts:**
@@ -79,19 +66,6 @@ The 1997 Mercury Mystique is a midsize sedan that was powered by a 2.5-liter V6 
         * Estimated Cost to Fix: $100 - $500+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Body Panels:**
@@ -119,15 +93,3 @@ The 1997 Mercury Mystique is a midsize sedan that was powered by a 2.5-liter V6 
 **Summary**
 
 The 1997 Mercury Mystique had several significant issues that could range from inconvenient to costly repairs. The most severe and expensive problems were the head gasket and transmission failures, while exterior rust was another major concern. The electrical and interior issues were generally less serious but could still impact the comfort and functionality of the vehicle. Overall, the Mystique's reputation was tarnished by these reliability problems, which could outweigh its positive attributes for some buyers.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

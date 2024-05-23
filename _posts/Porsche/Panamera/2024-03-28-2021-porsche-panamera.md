@@ -36,19 +36,6 @@ The 2021 Porsche Panamera is a high-performance luxury sedan available with vari
   * Solution: Replace the mechatronic unit.
   * Estimated Cost to Fix: $5,000 - $7,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Suspension Noise**: Some owners have reported excessive noise from the rear suspension, particularly over bumps or uneven roads.
@@ -64,19 +51,6 @@ The 2021 Porsche Panamera is a high-performance luxury sedan available with vari
   * Solution: Replace or repair the headlights.
   * Estimated Cost to Fix: $1,000 - $2,000+
   * Recalls: NHTSA Campaign Number 20V773000, 21V269000
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -96,15 +70,3 @@ The 2021 Porsche Panamera is a high-performance luxury sedan available with vari
 **Summary**
 
 The 2021 Porsche Panamera is generally a reliable and well-engineered vehicle. However, it has experienced some issues, particularly with the engine, transmission, and electrical systems. The severity and cost of repairs can vary depending on the specific issue and the extent of the problem. It's important for owners to be aware of these potential issues and have them addressed promptly to ensure the safety and performance of their vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

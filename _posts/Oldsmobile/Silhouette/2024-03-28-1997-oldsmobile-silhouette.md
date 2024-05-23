@@ -37,19 +37,6 @@ The 1997 Oldsmobile Silhouette is a minivan produced by General Motors. It offer
     * Solution: Rebuild or replace transmission.
     * Estimated Cost to Fix: $1,500 - $3,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Control Arm Bushings Wear:**
@@ -63,19 +50,6 @@ The 1997 Oldsmobile Silhouette is a minivan produced by General Motors. It offer
     * Description/Symptoms: Headlights do not work, intermittent operation.
     * Solution: Replace headlight switch.
     * Estimated Cost to Fix: $100 - $200
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -93,15 +67,3 @@ The 1997 Oldsmobile Silhouette is a minivan produced by General Motors. It offer
 
 **Summary:**
 The 1997 Oldsmobile Silhouette has some common issues that can be costly to repair, such as transmission slippage and intake manifold gasket leaks. However, it also has some strengths, including its spacious interior and relatively low repair costs for minor issues.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

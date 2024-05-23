@@ -39,19 +39,6 @@ The 1997 Mercedes-Benz SL60 AMG is a high-performance grand tourer powered by a 
     * Estimated Cost to Fix: $500 - $1,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Airmatic suspension failure**
@@ -78,19 +65,6 @@ The 1997 Mercedes-Benz SL60 AMG is a high-performance grand tourer powered by a 
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Convertible top operation issues**
@@ -115,15 +89,3 @@ The 1997 Mercedes-Benz SL60 AMG is a high-performance grand tourer powered by a 
 **Summary**
 
 The 1997 Mercedes-Benz SL60 AMG is a powerful and luxurious grand tourer, but it has some potential issues that owners should be aware of. While engine and transmission problems are relatively major and can be costly to fix, suspension and electrical issues are more common and typically less expensive. Interior and exterior issues are generally less severe and can be resolved for a reasonable price. Overall, the 1997 SL60 AMG offers a unique and exhilarating driving experience, but potential owners should carefully consider the potential costs associated with ownership.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

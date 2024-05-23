@@ -58,19 +58,6 @@ Owners of the 2014 Volkswagen Caddy have reported various issues with the vehicl
   - Estimated Cost to Fix: $1,500 - $2,500+
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Front Suspension Spring Failure:** The front suspension springs may break, resulting in reduced ride height and poor handling.
@@ -94,19 +81,6 @@ Owners of the 2014 Volkswagen Caddy have reported various issues with the vehicl
   - Solution: Identifying and fixing the cause of the parasitic draw is necessary.
   - Estimated Cost to Fix: Varies depending on the cause
   - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -137,15 +111,3 @@ Owners of the 2014 Volkswagen Caddy have reported various issues with the vehicl
 The 2014 Volkswagen Caddy has been reported to have a range of issues affecting its engine, transmission, suspension, electrical, and interior systems. While some of these issues are relatively minor and inexpensive to fix, others can be more severe and costly.
 
 Overall, the severity and cost of the issues reported for the 2014 Volkswagen Caddy vary depending on the specific problem encountered. Some owners have experienced significant repair bills, while others have had relatively minor issues that were easily resolved.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

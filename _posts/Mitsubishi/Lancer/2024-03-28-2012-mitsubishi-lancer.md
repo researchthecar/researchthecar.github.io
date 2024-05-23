@@ -31,19 +31,6 @@ The 2012 Mitsubishi Lancer is a compact sedan that offers a comfortable ride and
 - **Belt slipping:** This can cause the transmission to hesitate or jerk when shifting gears. The solution is to replace the CVT belt, which can cost $1000 - $1500+.
 - **Control module failure:** This can cause the transmission to shift erratically or not at all. The solution is to replace the control module, which can cost $500 - $1000+.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Strut mount bearing failure:** This can cause a clunking noise when driving over bumps. The solution is to replace the strut mount bearings, which can cost $200 - $400+.
@@ -53,19 +40,6 @@ The 2012 Mitsubishi Lancer is a compact sedan that offers a comfortable ride and
 
 - **Headlight switch failure:** This can cause the headlights to turn off or flicker. The solution is to replace the headlight switch, which can cost $100 - $200+.
 - **Battery drain:** This can cause the battery to die prematurely. The solution is to find the source of the parasitic drain and repair it, which can cost $100 - $500+.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -79,15 +53,3 @@ The 2012 Mitsubishi Lancer is a compact sedan that offers a comfortable ride and
 
 **Summary:**
 The 2012 Mitsubishi Lancer is a reliable vehicle, but it does have some common issues that owners should be aware of. The most severe issues are the timing chain tensioner failure and the CVT transmission control module failure, which can both lead to catastrophic engine or transmission damage. The cost to repair these issues can be significant. However, other issues, such as the strut mount bearing failure and the window switch failure, are less severe and less expensive to repair. Overall, the Lancer is a good value for the money, but it is important to be aware of the potential issues that it may have.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -82,15 +82,3 @@ Recalls: None Found
 ## **Summary**
 
 The 2005 Pontiac Grand Am is a reliable and affordable compact sedan with a range of engine and transmission options. However, it is susceptible to a few common issues, including intake manifold gasket failure, head gasket failure, clutch wear, transmission fluid leaks, and solenoid failure. These issues can be expensive to fix, ranging from $100 to over $2,000. Overall, the Grand Am is a good choice for those seeking a sporty and affordable vehicle, but it is important to be aware of potential repair costs before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -39,19 +39,6 @@ The 1997 Volkswagen Jetta is a compact sedan praised for its handling, comfort, 
 * **Torque Converter Lock-Up Failure:** Description/Symptoms: Slipping or shuddering during acceleration. Solution: Replace torque converter. Estimated Cost to Fix: $1,000 - $1,500+
 * **Transmission Control Module Failure:** Description/Symptoms: Transmission shifting erratically, no gears. Solution: Replace transmission control module. Estimated Cost to Fix: $500 - $700+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Failure:** Description/Symptoms: Clunking or rattling noise over bumps. Solution: Replace strut mounts. Estimated Cost to Fix: $400 - $600+
@@ -60,19 +47,6 @@ The 1997 Volkswagen Jetta is a compact sedan praised for its handling, comfort, 
 
 * **Ignition Switch Failure:** Description/Symptoms: Difficulty starting the vehicle, electrical components not functioning. Solution: Replace ignition switch. Estimated Cost to Fix: $200 - $400+
 * **Battery Drain:** Description/Symptoms: Battery drains quickly after sitting overnight. Solution: Test and replace faulty electrical components. Estimated Cost to Fix: $100 - $300+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -86,15 +60,3 @@ The 1997 Volkswagen Jetta is a compact sedan praised for its handling, comfort, 
 **Summary:**
 
 The 1997 Volkswagen Jetta faces several issues, with the most common occurring in the engine and transmission. Intake manifold gasket failure, transmission fluid leaks, and strut mount failure are some of the costly repairs that owners encounter. Electrical and interior problems are less severe and generally less expensive to resolve.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

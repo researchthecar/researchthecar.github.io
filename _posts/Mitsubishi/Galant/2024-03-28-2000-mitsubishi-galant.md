@@ -32,19 +32,6 @@ The Galant was praised for its spacious interior, comfortable ride, and relative
 
 * **Transmission slipping:** The transmission may slip out of gear while driving. Symptoms include a loss of power, a slipping feeling, and a check engine light. The solution is to rebuild or replace the transmission. Estimated cost to fix: $1,500 - $2,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut failure:** The struts can fail, causing the vehicle to ride rough and handle poorly. Symptoms include a rough ride, poor handling, and a rattling noise from the suspension. The solution is to replace the struts. Estimated cost to fix: $500 - $800+
@@ -53,19 +40,6 @@ The Galant was praised for its spacious interior, comfortable ride, and relative
 
 * **Power window failure:** The power windows may fail to operate. Symptoms include no response from the power window switches, a buzzing noise, and a check engine light. The solution is to replace the power window motor or switch. Estimated cost to fix: $200 - $400+
 * **Alternator failure:** The alternator may fail, causing the battery to discharge and the vehicle to stall. Symptoms include a loss of power, a dim or flickering headlights, and a check engine light. The solution is to replace the alternator. Estimated cost to fix: $300 - $600+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -78,15 +52,3 @@ The Galant was praised for its spacious interior, comfortable ride, and relative
 **Summary**
 
 The 2000 Mitsubishi Galant is a relatively reliable vehicle, but it can experience various issues, such as engine gasket failures, transmission problems, suspension issues, electrical problems, and interior malfunctions. The severity of the issues can range from minor to catastrophic, and the cost to fix can vary depending on the specific issue.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

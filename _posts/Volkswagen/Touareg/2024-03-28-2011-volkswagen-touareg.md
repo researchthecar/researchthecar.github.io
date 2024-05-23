@@ -35,19 +35,6 @@ The Touareg comes with three engine options: a 3.6-liter V6 with 280 horsepower 
 
 - **Solenoid Failure:** Description/Symptoms: The solenoids that control the transmission's shifting can fail, causing the transmission to shift roughly or not shift at all. Solution: Replace the faulty solenoid. Estimated Cost to Fix: $500 - $1,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Air Suspension Failure:** Description/Symptoms: The air suspension can fail, causing the vehicle to sag or ride unevenly. Solution: Replace the air suspension components. Estimated Cost to Fix: $1,000 - $2,000+
@@ -60,19 +47,6 @@ The Touareg comes with three engine options: a 3.6-liter V6 with 280 horsepower 
 
 - **Alternator Failure:** Description/Symptoms: The alternator fails, causing the battery to not charge and the vehicle to stall. Solution: Replace the alternator. Estimated Cost to Fix: $500 - $1,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 - **Headlight Condensation:** Description/Symptoms: The headlights develop condensation inside, impairing visibility. Solution: Replace the affected headlights. Estimated Cost to Fix: $500 - $1,000+
@@ -84,15 +58,3 @@ The Touareg comes with three engine options: a 3.6-liter V6 with 280 horsepower 
 **Summary**
 
 The 2011 Volkswagen Touareg has several potential issues that can be costly to repair. The most severe and expensive issue is the timing chain failure on the 4.2-liter V8 engine. Other common problems include fuel injector failure, turbocharger failure, air suspension failure, and electrical issues. Overall, the Touareg's reliability is below average, and it is essential to consider these potential problems before purchasing or owning one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

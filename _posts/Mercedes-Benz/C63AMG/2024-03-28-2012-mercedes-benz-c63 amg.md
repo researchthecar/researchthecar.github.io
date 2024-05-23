@@ -28,19 +28,6 @@ The 2012 Mercedes-Benz C63 AMG is a high-performance variant of the C-Class seda
 * **Clutch Pack Failure:** The clutch packs can fail, causing slipping and loss of power. Symptoms include slipping gears, reduced power, and difficulty shifting gears. The solution is to replace the clutch packs, which can cost $1,500-$2,500.
 * **Electronic Control Unit (ECU) Failure:** The ECU can fail, causing a variety of transmission problems. Symptoms include erratic shifting, transmission shudder, and loss of power. The solution is to replace the ECU, which can cost $1,000-$2,000.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Strut Failure:** The front suspension struts can fail, causing a loss of ride quality and handling. Symptoms include a rough ride, uneven tire wear, and difficulty steering. The solution is to replace the front suspension struts, which can cost $500-$1,000 each.
@@ -51,19 +38,6 @@ The 2012 Mercedes-Benz C63 AMG is a high-performance variant of the C-Class seda
 * **Battery Drain:** The battery can drain prematurely, leaving the vehicle unable to start. Symptoms include a dead battery, difficulty starting the engine, and electrical problems. The solution is to identify and fix the source of the battery drain, which can vary in cost depending on the cause.
 * **Alternator Failure:** The alternator can fail, causing a loss of electrical power. Symptoms include a warning light on the dashboard, dim headlights, and difficulty starting the engine. The solution is to replace the alternator, which can cost $500-$1,000.
 * **Starter Motor Failure:** The starter motor can fail, preventing the engine from starting. Symptoms include a clicking noise when trying to start the engine, no engine cranking, and difficulty starting the engine. The solution is to replace the starter motor, which can cost $500-$1,000.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -77,15 +51,3 @@ The 2012 Mercedes-Benz C63 AMG is a high-performance variant of the C-Class seda
 **Summary:**
 
 The 2012 Mercedes-Benz C63 AMG is a powerful and luxurious performance car, but it has also been plagued by several issues that have affected its reliability and reputation. The engine, transmission, suspension, electrical, and interior systems have all been known to have problems. The severity and cost of these issues can vary, but they can be expensive to fix and can significantly impact the driving experience. It is important for potential buyers to be aware of these issues before purchasing a C63 AMG.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

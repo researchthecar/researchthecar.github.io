@@ -74,15 +74,3 @@ Estimated Cost to Fix: $50 - $200
 ## Summary
 
 The 2013 Mitsubishi RVR has several reported issues, including potential engine problems, transmission issues, and electrical malfunctions. While some issues are relatively minor and inexpensive to fix, others such as engine rebuilds can be costly. It's important for potential buyers to be aware of these potential problems and have them inspected before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

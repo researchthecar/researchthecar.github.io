@@ -37,19 +37,6 @@ The 2011 Volkswagen Beetle is a stylish and iconic subcompact car that offers a 
 - **Mechatronic Unit Failure:** The mechatronic unit is a complex electro-hydraulic unit that controls the transmission. It can fail, leading to a loss of power, difficulty shifting gears, and a check engine light. The solution is to replace the mechatronic unit. Estimated Cost: $2,000 - $4,000+
 - **Clutch Pack Failure:** The clutch packs in the DSG transmission can fail, resulting in a loss of power and difficulty shifting gears. Symptoms include shuddering or slipping when shifting gears, a loss of power, and a check engine light. The solution is to replace the clutch packs. Estimated Cost: $1,500 - $3,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 - **Strut Bearing Failure:** The strut bearings can fail, causing a clunking noise from the front suspension. Symptoms include a clunking noise when turning or driving over bumps, uneven tire wear, and a decrease in handling. The solution is to replace the strut bearings. Estimated Cost: $400 - $600
@@ -61,19 +48,6 @@ The 2011 Volkswagen Beetle is a stylish and iconic subcompact car that offers a 
 - **Battery Drain:** The Beetle can be prone to battery drain issues, caused by a faulty alternator, a parasitic draw, or a weak battery. Symptoms include a dead battery, difficulty starting the car, or a dim dashboard. The solution is to diagnose the cause of the battery drain and repair it. Estimated Cost: $200 - $1,000+
 - **SRS (Airbag) Control Module Failure:** The SRS control module can fail, causing the airbags to malfunction. Symptoms include an illuminated airbag warning light, a check engine light, and a loss of airbag functionality. The solution is to replace the SRS control module. Estimated Cost: $1,000 - $2,000+
 - **ECU (Engine Control Unit) Failure:** The ECU can fail, causing the engine to malfunction. Symptoms include a loss of power, difficulty starting the car, or a check engine light. The solution is to replace the ECU. Estimated Cost: $1,500 - $3,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -90,15 +64,3 @@ The 2011 Volkswagen Beetle is a stylish and iconic subcompact car that offers a 
 **Summary**
 
 The 2011 Volkswagen Beetle is a stylish and fun-to-drive subcompact car, but it has also been plagued by a number of issues over the years. The severity of the issues ranges from minor inconveniences to major breakdowns, and the cost of repairs can be significant. The most common issues affect the engine, transmission, and electrical system. If you are considering purchasing a 2011 Volkswagen Beetle, be sure to do your research and factor in the potential cost of repairs before making a decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

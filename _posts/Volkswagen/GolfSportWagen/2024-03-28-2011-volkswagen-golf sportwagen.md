@@ -47,19 +47,6 @@ The 2011 Volkswagen Golf SportWagen is a compact station wagon that offers a spa
     * Estimated Cost to Fix: $1,000 - $1,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Control Arm Bushing Failure:**
@@ -85,19 +72,6 @@ The 2011 Volkswagen Golf SportWagen is a compact station wagon that offers a spa
     * Solution: Replace alternator
     * Estimated Cost to Fix: $500 - $800+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -141,15 +115,3 @@ The 2011 Volkswagen Golf SportWagen is a compact station wagon that offers a spa
 **Summary:**
 
 While the 2011 Volkswagen Golf SportWagen is generally a reliable vehicle, it can experience certain issues over time. Engine problems tend to be the most severe and expensive to fix, particularly the timing chain tensioner failure and piston ring failure. Transmission issues, such as mechatronic unit failure, can also be costly to resolve. Other areas of concern include electrical problems, suspension issues, and interior failures. Overall, while some issues can be relatively minor and inexpensive to fix, others can be more serious and require significant repair costs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

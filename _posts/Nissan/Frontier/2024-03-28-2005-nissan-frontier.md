@@ -24,19 +24,6 @@ The 2005 Nissan Frontier is a mid-size pickup truck available in a variety of co
 * **Five-Speed Automatic Transmission**
     * **Torque converter failure:** The torque converter may fail, causing loss of power, slipping, or shuddering during gear changes. Replacing the torque converter is the solution. Estimated Cost to Fix: $1500-$2500
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension ball joint wear:** The front suspension ball joints may wear out, leading to clunking or rattling noises, reduced handling, and uneven tire wear. Replacing the ball joints is the solution. Estimated Cost to Fix: $300-$600
@@ -46,19 +33,6 @@ The 2005 Nissan Frontier is a mid-size pickup truck available in a variety of co
 
 * **Alternator failure:** The alternator may fail, leading to loss of electrical power and a discharged battery. Replacing the alternator is the solution. Estimated Cost to Fix: $500-$800
 * **Battery drain:** The battery may drain due to a faulty component or electrical short. Identifying and replacing the faulty component or repairing the short is the solution. Estimated Cost to Fix: $100-$500
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -72,15 +46,3 @@ The 2005 Nissan Frontier is a mid-size pickup truck available in a variety of co
 **Summary**
 
 Overall, the 2005 Nissan Frontier is a reliable and capable pickup truck, but it has some common issues that can affect its performance and longevity. The engine and transmission problems can be serious and expensive to fix, while the suspension, electrical, exterior, and interior issues are generally less severe and less costly to address. Potential buyers should be aware of these issues and factor them into their decision-making process.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

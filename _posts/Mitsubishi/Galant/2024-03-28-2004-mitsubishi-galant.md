@@ -35,19 +35,6 @@ The Galant was praised for its spacious interior, comfortable ride, and sporty h
 * **Shift solenoid failure:** The shift solenoid can fail, causing the transmission to shift hard or not shift at all. Symptoms include delayed or rough shifting, and a lack of power. The shift solenoid must be replaced. Estimated Cost to Fix: $200 - $400+
 * **Input shaft seal leak:** The input shaft seal can fail, causing transmission fluid to leak. Symptoms include low transmission fluid levels and fluid spots on the ground. The seal must be replaced. Estimated Cost to Fix: $100 - $200+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut mount bearing failure:** The strut mount bearings can fail, causing a clunking or rattling noise when driving over bumps. The bearings must be replaced. Estimated Cost to Fix: $200 - $400+
@@ -57,19 +44,6 @@ The Galant was praised for its spacious interior, comfortable ride, and sporty h
 
 * **Alternator failure:** The alternator can fail, causing the battery to drain and the vehicle to lose power. Symptoms include dim headlights, a flickering dashboard, and a dead battery. The alternator must be replaced. Estimated Cost to Fix: $500 - $800+
 * **Starter failure:** The starter can fail, preventing the engine from starting. Symptoms include a clicking noise when trying to start the engine, or no noise at all. The starter must be replaced. Estimated Cost to Fix: $200 - $400+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -84,15 +58,3 @@ The Galant was praised for its spacious interior, comfortable ride, and sporty h
 **Summary:**
 
 The 2004 Mitsubishi Galant is a reliable vehicle with a few common issues. The engine and transmission issues can be costly to repair, but the suspension, electrical, exterior, and interior issues are typically minor and inexpensive to fix. Overall, the Galant is a good value for the money, but it is important to be aware of the potential issues before purchasing one.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

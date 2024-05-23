@@ -26,19 +26,6 @@ The 2011 Mercedes-Benz S65 AMG is a high-performance luxury sedan powered by a h
         * Solution: Transmission fluid flush and filter replacement
         * Estimated Cost to Fix: $200 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Ride Suspension**
@@ -54,19 +41,6 @@ The 2011 Mercedes-Benz S65 AMG is a high-performance luxury sedan powered by a h
 * **Control Module Glitches:** Some owners have encountered occasional glitches or software issues with various control modules, such as the engine control module or infotainment system.
         * Solution: Software updates or module replacement
         * Estimated Cost to Fix: $500 - $1,500+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -86,15 +60,3 @@ The 2011 Mercedes-Benz S65 AMG is a high-performance luxury sedan powered by a h
 **Summary**
 
 Overall, the 2011 Mercedes-Benz S65 AMG is a well-engineered luxury vehicle, but it is not without its potential issues. Some of the reported problems, such as carbon buildup, turbocharger failure, and suspension leaks, can be costly to repair. While the electrical and interior issues may be less severe, they can still lead to inconvenience and frustration. Prospective buyers should be aware of these potential problems and factor them into their research and ownership decisions.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -40,19 +40,6 @@ The 2004 Mitsubishi Lancer is a compact sedan available with a 2.0L or 2.4L natu
   - Estimated Cost to Fix: $150 - $500
   - Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut mounts failure:** Worn out strut mounts can cause knocking, rattling, and reduced ride quality.
@@ -66,19 +53,6 @@ The 2004 Mitsubishi Lancer is a compact sedan available with a 2.0L or 2.4L natu
   - Solution: Replace the alternator.
   - Estimated Cost to Fix: $300 - $600
   - Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -96,15 +70,3 @@ The 2004 Mitsubishi Lancer is a compact sedan available with a 2.0L or 2.4L natu
 **Summary:**
 
 Overall, the 2004 Mitsubishi Lancer has a moderate number of issues, with some being more severe and expensive to fix than others. The engine timing chain tensioner failure on the 2.4L engine is a particularly serious concern that warrants immediate attention. While the other issues are less critical, they can still affect the vehicle's performance and reliability. It's important for owners to be aware of these potential problems and perform regular maintenance to prevent or mitigate their occurrence.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

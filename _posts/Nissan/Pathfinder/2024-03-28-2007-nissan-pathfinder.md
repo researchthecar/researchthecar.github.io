@@ -24,19 +24,6 @@ The 2007 Nissan Pathfinder is a midsize SUV with three rows of seats and is avai
 
 * **Transmission Control Module (TCM) Failure:** A faulty TCM can cause shifting issues, delayed engagement, and rough shifting. The TCM must be replaced. Estimated Cost to Fix: $800 - $1,200
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Sway Bar Link Failure:** A worn or damaged rear sway bar link can cause knocking or rattling noises from the rear suspension, especially when cornering. The sway bar link must be replaced. Estimated Cost to Fix: $200 - $400
@@ -45,19 +32,6 @@ The 2007 Nissan Pathfinder is a midsize SUV with three rows of seats and is avai
 
 * **Battery Drain:** A parasitic drain on the battery can cause a dead battery over time. The source of the drain must be identified and repaired. Estimated Cost to Fix: Varies depending on the source of the drain
 * **Power Window Switch Failure:** The power window switches can fail, preventing windows from being operated. The switches must be replaced. Estimated Cost to Fix: $200 - $400 per switch
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -71,15 +45,3 @@ The 2007 Nissan Pathfinder is a midsize SUV with three rows of seats and is avai
 **Summary**
 
 The 2007 Nissan Pathfinder has some notable reliability issues, particularly with its engine and transmission. The valve body failure, intake manifold gasket leak, and timing chain tensioner failure are serious concerns that can result in costly repairs. The transmission control module failure can also cause significant shifting problems. Additionally, electrical issues and sunroof panel leakage can be inconvenient and expensive to fix. Buyers should be aware of these potential problems before purchasing a used 2007 Nissan Pathfinder.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

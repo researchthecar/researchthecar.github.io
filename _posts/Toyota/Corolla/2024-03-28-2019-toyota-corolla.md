@@ -40,19 +40,6 @@ The Corolla is known for its affordability, practicality, and fuel efficiency. H
         * Estimated Cost to Fix: $2,000 - $4,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -69,19 +56,6 @@ The Corolla is known for its affordability, practicality, and fuel efficiency. H
     * Solution: Identifying and resolving the electrical component causing the drain.
     * Estimated Cost to Fix: $100 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -107,15 +81,3 @@ The Corolla is known for its affordability, practicality, and fuel efficiency. H
 **Summary**
 
 The 2019 Toyota Corolla is a reliable and fuel-efficient vehicle, but it has experienced some issues with its engine, transmission, and electrical components. The severity of the issues varies, with some being minor and others requiring significant repairs. The estimated cost to fix these issues ranges from $100 to over $4,000. Before purchasing a 2019 Toyota Corolla, it is recommended to research these issues and consider the potential repair costs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

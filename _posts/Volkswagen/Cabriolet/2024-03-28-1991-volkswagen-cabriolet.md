@@ -32,19 +32,6 @@ The 1991 Volkswagen Cabriolet is a compact convertible that was produced from 19
 
 * **No Issues Found**
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Wear:** The strut mounts can wear out, leading to clunking noises over bumps and reduced handling stability. Repair involves replacing the strut mounts, which costs $200 - $400+.
@@ -54,19 +41,6 @@ The 1991 Volkswagen Cabriolet is a compact convertible that was produced from 19
 
 * **Alternator Failure:** The alternator can fail, leading to flickering lights, battery drain, and eventual vehicle breakdown. Repair involves replacing the alternator, which costs $300 - $500+.
 * **Window Regulator Failure:** The window regulators can fail, causing the windows to become stuck or inoperable. Repair involves replacing the window regulators, which costs $200 - $400+ per window.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -81,15 +55,3 @@ The 1991 Volkswagen Cabriolet is a compact convertible that was produced from 19
 **Summary:**
 
 The 1991 Volkswagen Cabriolet is a fun-to-drive vehicle, but it is known for developing certain issues. Engine oil leaks, transmission shifting difficulties, convertible top leaks, and rust are some of the most common problems. While repairs can be expensive in some cases, many issues are relatively easy and inexpensive to fix. Overall, the Cabriolet's reliability record is average, and its classic styling and driving dynamics make it a popular choice for enthusiasts.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -31,19 +31,6 @@ Despite its luxurious appointments, the Corniche has been plagued by a number of
         * Solution: Replace the torque converter
         * Estimated Cost to Fix: $2,000 - $3,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front suspension strut failure**
@@ -61,19 +48,6 @@ Despite its luxurious appointments, the Corniche has been plagued by a number of
         * Description/Symptoms: Battery dies prematurely, difficulty starting the vehicle
         * Solution: Diagnose the cause of the battery drain and repair
         * Estimated Cost to Fix: $200 - $1,000+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -96,15 +70,3 @@ Despite its luxurious appointments, the Corniche has been plagued by a number of
 **Summary**
 
 The 2002 Rolls-Royce Corniche is a luxurious vehicle that suffers from a number of significant issues. The engine, transmission, and suspension are all prone to failure, and the electrical system is also problematic. The convertible top frame and interior components can also be troublesome. The cost to fix these issues can be high, so it is important to factor in the potential repair costs when considering purchasing a Corniche.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

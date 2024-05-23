@@ -48,19 +48,6 @@ Drivers appreciate the Mountaineer's spacious interior, comfortable ride, and st
         * Estimated Cost to Fix: $1,500 - $2,500
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Noise:**
@@ -82,19 +69,6 @@ Drivers appreciate the Mountaineer's spacious interior, comfortable ride, and st
     * Estimated Cost to Fix: $200 - $600
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight Lens Yellowing:**
@@ -114,15 +88,3 @@ Drivers appreciate the Mountaineer's spacious interior, comfortable ride, and st
 **Summary**
 
 The 2004 Mercury Mountaineer has some potential issues to be aware of, particularly with the engine and transmission. The timing chain tensioner and intake manifold runner control issues on the 4.0L V6 can be expensive to repair, while transmission shift solenoid and torque converter problems can affect the drivability of the vehicle. Other issues, such as suspension noise, electrical problems, and interior HVAC failures, are less severe and typically less costly to fix.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

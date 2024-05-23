@@ -29,19 +29,6 @@ tags: ["Mercedes-Benz", "Boxer 50", "2011"]
         - Solution: Recondition or replace valve body
         - Estimated Cost to Fix: $500 - $1,200+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 - **Air Suspension System:**
     - **Air Spring Leak:**
@@ -62,19 +49,6 @@ tags: ["Mercedes-Benz", "Boxer 50", "2011"]
     - Description/Symptoms: Warning light on dashboard, dimming headlights, difficulty starting
         - Solution: Replace failed alternator
         - Estimated Cost to Fix: $400 - $800+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 - **Sunroof Malfunction:**
@@ -97,15 +71,3 @@ tags: ["Mercedes-Benz", "Boxer 50", "2011"]
         - Estimated Cost to Fix: $200 - $800+
 
 **Summary:** The 2011 Mercedes-Benz Boxer 50 has been reported to have various issues affecting its engine, transmission, suspension, electrical, exterior, and interior components. Some of these issues can be costly to repair, especially those related to the engine, transmission, and suspension. However, it's important to note that these issues may not affect all vehicles, and the severity and cost of repairs can vary depending on the specific problem encountered.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

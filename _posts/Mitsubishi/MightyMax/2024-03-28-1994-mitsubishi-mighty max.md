@@ -29,19 +29,6 @@ The 1994 Mitsubishi Mighty Max is a compact pickup truck available in various tr
     * Estimated Cost to Fix: $1,500 - $3,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Rear Leaf Springs:**
     * Description/Symptoms: Sagging or broken leaf springs, resulting in poor handling and ride quality.
@@ -62,19 +49,6 @@ The 1994 Mitsubishi Mighty Max is a compact pickup truck available in various tr
     * Solution: Replace the starter solenoid.
     * Estimated Cost to Fix: $150 - $350
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 * **Rust:**
     * Description/Symptoms: Corrosion on body panels, frame, or suspension components.
@@ -93,15 +67,3 @@ The 1994 Mitsubishi Mighty Max is a compact pickup truck available in various tr
 
 **Summary:**
 The 1994 Mitsubishi Mighty Max is generally a reliable vehicle, but it does have its fair share of issues. The most severe and expensive problems include transmission slipping and rust damage. Other common issues, such as intake valve guide wear and alternator failure, are more moderate in cost. The estimated repair costs provided here are approximate and may vary depending on factors like labor rates and the availability of parts. Overall, the Mighty Max is a budget-friendly workhorse that may require some occasional maintenance and repairs to keep it in good condition.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

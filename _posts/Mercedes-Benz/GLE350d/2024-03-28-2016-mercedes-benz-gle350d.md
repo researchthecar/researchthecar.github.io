@@ -32,19 +32,6 @@ The 2016 Mercedes-Benz GLE350d is a midsize luxury SUV powered by a 3.0L V6 turb
   * Estimated Cost to Fix: $1,000 - $2,500+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Compressor Failure:** Malfunctioning compressor responsible for adjusting the suspension height, leading to uneven ride height and decreased stability.
@@ -64,19 +51,6 @@ The 2016 Mercedes-Benz GLE350d is a midsize luxury SUV powered by a 3.0L V6 turb
   * Estimated Cost to Fix: $1,000 - $2,500+
   * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Headlight Condensation:** Moisture buildup inside the headlight assemblies, causing reduced light output and potential electrical issues.
@@ -94,15 +68,3 @@ The 2016 Mercedes-Benz GLE350d is a midsize luxury SUV powered by a 3.0L V6 turb
 **Summary**
 
 The 2016 Mercedes-Benz GLE350d is a luxurious and capable SUV but not without its issues. The fuel injector failure and intake manifold clogging are potentially expensive repairs, while issues with the suspension, electrical system, and interior can also be costly to address. However, recalls are minimal, and the vehicle generally receives positive feedback for its comfort and features.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

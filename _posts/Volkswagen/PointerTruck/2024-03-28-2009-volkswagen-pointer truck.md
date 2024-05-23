@@ -27,19 +27,6 @@ The 2009 Volkswagen Pointer Truck is a small pickup truck offered with a single 
     * Estimated Cost to Fix: $1,000 - $1,500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front struts leaking oil:** Affects models with high mileage. The front struts can develop leaks, causing a loss of damping and poor suspension performance.
@@ -53,19 +40,6 @@ The 2009 Volkswagen Pointer Truck is a small pickup truck offered with a single 
     * Solution: Diagnose the electrical system to identify the source of the drain and repair as needed.
     * Estimated Cost to Fix: Varies depending on the source of the drain
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -84,15 +58,3 @@ The 2009 Volkswagen Pointer Truck is a small pickup truck offered with a single 
 **Summary:**
 
 The 2009 Volkswagen Pointer Truck is a budget-friendly pickup truck that offers practicality and fuel efficiency. However, it has been susceptible to several issues that can range from minor annoyances to potentially serious mechanical problems. Owners should be aware of these issues and consider the potential costs of repairs before purchasing.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

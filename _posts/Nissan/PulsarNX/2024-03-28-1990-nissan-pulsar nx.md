@@ -25,19 +25,6 @@ The 1990 Nissan Pulsar NX was a compact hatchback available with a range of engi
 
 * **Torque converter shudder:** The torque converter can develop a shudder under acceleration, typically due to worn clutches or seals. Requires replacement or rebuilding of the torque converter. Estimated Cost to Fix: $1,500 - $2,000+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension:**
 
 * **Front strut mount failure:** The rubber strut mounts can wear out or tear, leading to excessive vibration and noise from the front suspension. Requires replacement of the strut mounts. Estimated Cost to Fix: $400 - $600+
@@ -47,19 +34,6 @@ The 1990 Nissan Pulsar NX was a compact hatchback available with a range of engi
 * **Alternator failure:** The alternator can fail to charge the battery, resulting in dim lights, electrical system malfunctions, and eventual vehicle shutdown. Requires replacement of the alternator. Estimated Cost to Fix: $300 - $500+
 * **Starter failure:** The starter can fail to engage or turn the engine over. Requires replacement of the starter motor. Estimated Cost to Fix: $200 - $300+
 * **Ignition switch issue:** The ignition switch may fail to start the vehicle, resulting in intermittent no-starts. Requires replacement of the ignition switch. Estimated Cost to Fix: $200 - $400+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior:**
 
@@ -74,15 +48,3 @@ The 1990 Nissan Pulsar NX was a compact hatchback available with a range of engi
 **Summary:**
 
 The 1990 Nissan Pulsar NX is generally a reliable vehicle with few major issues. However, it is prone to common problems such as head gasket failure, automatic transmission shudder, and rust. These issues can vary in severity and cost of repair, ranging from minor inconveniences to major expenses. Overall, the Pulsar NX is a solid choice for those seeking a compact hatchback with sporty handling and comfortable features, but owners should be aware of potential issues and factor in the costs of maintenance and repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

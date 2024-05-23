@@ -34,19 +34,6 @@ The 2023 Mercedes-Benz Metris is a midsize cargo van renowned for its versatilit
     * Estimated Cost to Fix: $500 - $3,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Leaf Spring Sag:**
@@ -72,19 +59,6 @@ The 2023 Mercedes-Benz Metris is a midsize cargo van renowned for its versatilit
     * Solution: Repair or replacement of faulty wiring or components.
     * Estimated Cost to Fix: $300 - $1,500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -115,15 +89,3 @@ The 2023 Mercedes-Benz Metris is a midsize cargo van renowned for its versatilit
 **Summary:**
 
 Overall, the 2023 Mercedes-Benz Metris has some potential issues, particularly with the engine, transmission, and suspension. The severity of these issues varies, but they can be costly to repair. However, the Metris also offers a spacious interior, advanced safety features, and a powerful engine, making it a valuable option for commercial or personal use.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

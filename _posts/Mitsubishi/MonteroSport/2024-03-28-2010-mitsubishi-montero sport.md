@@ -34,19 +34,6 @@ The 2010 Mitsubishi Montero Sport is a mid-size SUV available with a 3.0-liter V
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front upper control arm bushing failure:**
@@ -72,19 +59,6 @@ The 2010 Mitsubishi Montero Sport is a mid-size SUV available with a 3.0-liter V
     * Solution: Replace the starter motor
     * Estimated Cost to Fix: $200 - $400+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -115,15 +89,3 @@ The 2010 Mitsubishi Montero Sport is a mid-size SUV available with a 3.0-liter V
 **Summary:**
 
 The 2010 Mitsubishi Montero Sport has some notable issues, particularly with the engine, suspension, and electrical systems. The intake camshaft timing issue and piston ring failure are potentially serious engine problems that can lead to costly repairs. The shift solenoid failure and suspension component failures can compromise drivability and handling. Electrical issues such as alternator and starter motor failures can also be inconvenient and expensive to fix. Overall, while the Montero Sport offers good off-road capabilities and a spacious cabin, its reliability concerns and dated interior may limit its appeal for some buyers.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

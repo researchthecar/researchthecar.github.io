@@ -30,19 +30,6 @@ The 2011 Mercedes-Benz CLS63 AMG is a high-performance luxury sedan powered by a
     - Solution: Replace the torque converter.
     - Estimated Cost to Fix: $2,000 - $3,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 - **Airmatic Suspension System Failure**
     - Description/Symptoms: The airmatic suspension system may fail, resulting in a drop in ride height and decreased handling performance.
@@ -63,19 +50,6 @@ The 2011 Mercedes-Benz CLS63 AMG is a high-performance luxury sedan powered by a
     - Solution: Repair or replace the window regulator motor or switch.
     - Estimated Cost to Fix: $300 - $700
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 - **Headlight Condensation**
     - Description/Symptoms: Moisture may accumulate inside the headlight lenses.
@@ -90,15 +64,3 @@ The 2011 Mercedes-Benz CLS63 AMG is a high-performance luxury sedan powered by a
 
 **Summary**
 The 2011 Mercedes-Benz CLS63 AMG is a powerful and luxurious vehicle, but it is not without its share of potential issues. The most severe and costly issues reported include fuel pump failure, timing chain tensioner failure, torque converter failure, and airmatic suspension system failure. However, many of these issues can be addressed through timely repairs, so it is essential to have the vehicle regularly inspected and maintained to avoid major expenses.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

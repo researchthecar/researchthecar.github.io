@@ -39,19 +39,6 @@ The 2021 Volkswagen T-Cross is a compact SUV that offers a spacious interior, ve
         * Estimated Cost to Fix: $400 - $1,200+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension:**
@@ -74,19 +61,6 @@ The 2021 Volkswagen T-Cross is a compact SUV that offers a spacious interior, ve
     * Solution: Inspection and replacement of faulty wiring or connectors.
     * Estimated Cost to Fix: $200 - $1,000+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -117,15 +91,3 @@ The 2021 Volkswagen T-Cross is a compact SUV that offers a spacious interior, ve
 **Summary:**
 
 The 2021 Volkswagen T-Cross has various issues that can affect its performance, reliability, and comfort. The engine and transmission issues, particularly turbocharger failure and transmission oil leakage, can be concerning and expensive to resolve. Suspension, electrical, and interior issues, while less severe, can still impact the owner's driving experience. Overall, potential buyers should be aware of these potential issues and consider the cost of repairs before purchasing a T-Cross.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

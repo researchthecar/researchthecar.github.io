@@ -51,19 +51,6 @@ The 1995 Toyota Corolla is a compact sedan that was available with two engine op
     * Estimated Cost to Fix: $1,200 - $1,800
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Failure:**
@@ -89,19 +76,6 @@ The 1995 Toyota Corolla is a compact sedan that was available with two engine op
     * Solution: Replace the starter.
     * Estimated Cost to Fix: $300 - $500
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -132,15 +106,3 @@ The 1995 Toyota Corolla is a compact sedan that was available with two engine op
 **Summary**
 
 The 1995 Toyota Corolla is a reliable and affordable vehicle, but it does have some potential issues. The most common issues include intake valve sticking, head gasket failure, synchronizer wear, clutch failure, and torque converter failure. While these issues can be expensive to fix, they are generally not severe and can be avoided with regular maintenance.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

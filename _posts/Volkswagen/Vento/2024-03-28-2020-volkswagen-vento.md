@@ -44,19 +44,6 @@ People who like the Vento praise its comfortable ride, spacious interior, and fu
         * Estimated Cost to Fix: $1,500 - $3,000
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Suspension Strut Failure**
@@ -72,19 +59,6 @@ People who like the Vento praise its comfortable ride, spacious interior, and fu
     * Solution: Find and repair the source of the battery drain, such as a faulty alternator, starter, or electrical component.
     * Estimated Cost to Fix: $100 - $500
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -105,15 +79,3 @@ People who like the Vento praise its comfortable ride, spacious interior, and fu
 **Summary**
 
 The 2020 Volkswagen Vento has received mixed reviews from owners. While some people praise its comfortable ride and spacious interior, others have reported issues with the vehicle's engine, transmission, suspension, and electrical systems. The severity and cost of the issues can vary depending on the specific problem. Overall, it is important to research potential issues and maintenance costs before purchasing a Vento.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

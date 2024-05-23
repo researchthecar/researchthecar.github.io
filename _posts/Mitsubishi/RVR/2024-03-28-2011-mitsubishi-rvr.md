@@ -29,19 +29,6 @@ The 2011 Mitsubishi RVR is a compact SUV that offers a spacious interior, comfor
     * Estimated Cost to Fix: Free (if under warranty)
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **No Issues Found**
@@ -58,19 +45,6 @@ The 2011 Mitsubishi RVR is a compact SUV that offers a spacious interior, comfor
     * Solution: Identify and fix electrical component causing drain (e.g., faulty alternator, parasitic draw)
     * Estimated Cost to Fix: Varies depending on the cause
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -96,15 +70,3 @@ The 2011 Mitsubishi RVR is a compact SUV that offers a spacious interior, comfor
 **Summary**
 
 While the 2011 Mitsubishi RVR offers a comfortable ride and good fuel economy, it has experienced some common issues, particularly with its engine (valve train noise) and transmission (hesitation and jerking). The severity and cost of these issues can vary depending on the specific part affected and the extent of the damage.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -47,19 +47,6 @@ The 2001 Porsche Boxster is a mid-engine, rear-wheel-drive sports car that was a
     * Solution: Replace the valve body.
     * Estimated Cost to Fix: $1,500 - $2,500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear trailing arm bushings failure:**
@@ -78,19 +65,6 @@ The 2001 Porsche Boxster is a mid-engine, rear-wheel-drive sports car that was a
     * Solution: Replace the ignition switch.
     * Estimated Cost to Fix: $300 - $500+
     * Recalls: 2001 Porsche Boxster Recall (NHTSA Campaign ID: 01V287000)
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -117,15 +91,3 @@ The 2001 Porsche Boxster is a mid-engine, rear-wheel-drive sports car that was a
 **Summary:**
 
 Overall, the 2001 Porsche Boxster is a reliable and well-built sports car, but it is not without its issues. Some of the more common problems include oil leaks, transmission issues, suspension bushing failure, and electrical problems. While some of these issues are relatively minor and inexpensive to fix, others can be more severe and costly. It is important to be aware of these potential problems before purchasing a used Boxster so that you can make an informed decision about whether or not this car is right for you.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

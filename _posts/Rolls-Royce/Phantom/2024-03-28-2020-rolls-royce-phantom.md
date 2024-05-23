@@ -52,15 +52,3 @@ While the Phantom receives high praise for its luxurious interior, smooth ride, 
 ## Summary
 
 The 2020 Rolls-Royce Phantom is a luxurious and impressive vehicle, but it is not without its issues. Engine and transmission problems can be severe and costly, while electrical issues and suspension failures can compromise the car's performance and comfort. Interior issues, though less severe, can still be frustrating for owners. Potential buyers should consider the potential costs of these issues before purchasing a Phantom.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -53,19 +53,6 @@ The 2010 Volkswagen GTI is a compact hatchback known for its performance and han
         * Estimated Cost to Fix: $1,200 - $2,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Subframe Cracking**
@@ -92,19 +79,6 @@ The 2010 Volkswagen GTI is a compact hatchback known for its performance and han
     * Estimated Cost to Fix: $200 - $400
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Roof Drain Plugs Clogging**
@@ -124,15 +98,3 @@ The 2010 Volkswagen GTI is a compact hatchback known for its performance and han
 **Summary**
 
 While the 2010 Volkswagen GTI is a popular and generally reliable vehicle, there are a few potential issues to consider. The severity and cost of the issues vary, with some being relatively minor and inexpensive to fix, while others can be more costly and require professional attention. It's important to be aware of these potential problems and factor them into your decision-making process if considering purchasing a 2010 GTI.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -38,19 +38,6 @@ The 2002 Nissan Pathfinder is a mid-size SUV available with two engine options: 
     * Estimated Cost to Fix: $1,500 - $3,000
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut mount failure:**
@@ -77,19 +64,6 @@ The 2002 Nissan Pathfinder is a mid-size SUV available with two engine options: 
     * Estimated Cost to Fix: $200 - $400
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rust on frame:**
@@ -109,15 +83,3 @@ The 2002 Nissan Pathfinder is a mid-size SUV available with two engine options: 
 **Summary**
 
 The 2002 Nissan Pathfinder is generally a reliable SUV with relatively minor issues. However, some common problems such as intake manifold gasket failure and transmission slippage can be costly to repair. The severity of these issues can vary depending on the specific model year and mileage of the vehicle. Regular maintenance and inspections can help extend the life of the Pathfinder and minimize the risk of major repairs.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

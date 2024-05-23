@@ -74,38 +74,12 @@ The Corolla is praised for its reliability, fuel efficiency, and affordability. 
     * Solution: Test and replace affected component causing drain
     * Estimated Cost to Fix: $100 - $500+
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front Strut Mount Failure**
     * Description/Symptoms: Clunking or knocking sounds from front suspension, rough ride
     * Solution: Replace front strut mounts
     * Estimated Cost to Fix: $400 - $800+
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -129,15 +103,3 @@ The Corolla is praised for its reliability, fuel efficiency, and affordability. 
 **Summary**
 
 The 2014 Toyota Corolla is generally a reliable vehicle, but it is not without its issues. The most severe and costly issues involve the engine, with some models prone to timing chain tensioner failure and intake manifold gasket failure. The CVT transmission can also experience significant problems, with belt slippage being a common occurrence. Some electrical issues and suspension components may also require attention, but these are typically less severe and less expensive to fix.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

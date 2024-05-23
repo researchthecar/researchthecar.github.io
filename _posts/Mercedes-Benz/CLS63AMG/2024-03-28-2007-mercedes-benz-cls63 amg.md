@@ -35,19 +35,6 @@ The 2007 Mercedes-Benz CLS63 AMG is a high-performance luxury sedan that combine
     * Estimated Cost to Fix: $2,000 - $4,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension Compressor Failure**
@@ -73,19 +60,6 @@ The 2007 Mercedes-Benz CLS63 AMG is a high-performance luxury sedan that combine
     * Solution: Replace the headlight bulbs.
     * Estimated Cost to Fix: $50 - $500+
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -116,15 +90,3 @@ The 2007 Mercedes-Benz CLS63 AMG is a high-performance luxury sedan that combine
 **Summary**
 
 The 2007 Mercedes-Benz CLS63 AMG is a high-performance vehicle with a reputation for luxury and power. However, it is not without its issues. Common problems include engine oil leaks, electrical faults, and suspension malfunctions. The severity of these issues varies, with some being relatively minor and inexpensive to fix, while others can be more costly and time-consuming. Potential buyers should be aware of these issues before purchasing a CLS63 AMG to make an informed decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

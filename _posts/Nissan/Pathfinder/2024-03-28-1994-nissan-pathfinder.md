@@ -33,19 +33,6 @@ The 1994 Nissan Pathfinder is a rugged and reliable SUV renowned for its off-roa
 * **Torque Converter Failure:** Description/Symptoms: Failing torque converters can cause shuddering, slipping, and overheating of the transmission. Solution: Replacing the torque converter and related components. Estimated Cost to Fix: $1000 - $2000+. Recalls: None Found
 * **Valve Body Malfunction:** Description/Symptoms: Faulty valve bodies can lead to erratic shifting, slipping, and difficulty selecting gears. Solution: Replacing the valve body or its components. Estimated Cost to Fix: $500 - $1000+. Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Rear Axle Bearing Failure:** Description/Symptoms: Worn or damaged rear axle bearings can cause grinding noises, vibration, and reduced vehicle stability. Solution: Replacing rear axle bearings and related components. Estimated Cost to Fix: $400 - $600+. Recalls: None Found
@@ -55,19 +42,6 @@ The 1994 Nissan Pathfinder is a rugged and reliable SUV renowned for its off-roa
 
 * **Alternator Failure:** Description/Symptoms: Malfunctioning alternators can fail to charge the battery, resulting in electrical system problems and starting difficulties. Solution: Replacing the alternator. Estimated Cost to Fix: $400 - $600+. Recalls: None Found
 * **Starter Solenoid Failure:** Description/Symptoms: Faulty starter solenoids can prevent the starter from engaging, causing starting problems. Solution: Replacing the starter solenoid. Estimated Cost to Fix: $200 - $400+. Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -81,15 +55,3 @@ The 1994 Nissan Pathfinder is a rugged and reliable SUV renowned for its off-roa
 **Summary**
 
 The 1994 Nissan Pathfinder is a reliable SUV with known issues affecting the engine, transmission, suspension, electrical, and interior components. Engine issues are generally more severe, requiring costly repairs. Transmission problems can also be significant, while suspension issues are less severe but still impact vehicle stability and handling. Electrical issues are relatively common and can affect vital systems such as the alternator and starter. Interior issues are mostly cosmetic or minor in nature.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

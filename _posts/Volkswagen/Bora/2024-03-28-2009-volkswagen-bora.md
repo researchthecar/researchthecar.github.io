@@ -52,19 +52,6 @@ The 2009 Volkswagen Bora is a mid-size sedan that offers a spacious interior, co
 * Estimated Cost to Fix: $1,000 - $2,000
 * Recalls: NHTSA ID 16V471000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut Mount Failure:** The strut mounts can wear out, causing a knocking or rattling noise over bumps.
@@ -78,19 +65,6 @@ The 2009 Volkswagen Bora is a mid-size sedan that offers a spacious interior, co
 * Solution: Diagnose and fix the source of the parasitic drain, or replace the battery.
 * Estimated Cost to Fix: $100 - $500
 * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -109,15 +83,3 @@ The 2009 Volkswagen Bora is a mid-size sedan that offers a spacious interior, co
 **Summary**
 
 The 2009 Volkswagen Bora is a generally reliable vehicle, but it is not without its issues. Some of the more serious problems, such as intake manifold failure and timing chain tensioner failure, can be expensive to fix. However, most of the issues are relatively minor and can be fixed for a reasonable cost. Overall, the Bora is a good choice for buyers looking for a comfortable and fuel-efficient sedan.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

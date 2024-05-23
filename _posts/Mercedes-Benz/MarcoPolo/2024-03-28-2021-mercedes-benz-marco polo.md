@@ -22,19 +22,6 @@ The 2021 Mercedes-Benz Marco Polo is a versatile camper van that offers a spacio
 * **9-speed Automatic**
     * **Transmission Control Module (TCM) Failure:** TCM failure can cause various transmission issues, including gear slipping, delayed shifting, and failure to shift. Solution: Replacement of TCM. Estimated Cost to Fix: $1,500 - $2,500
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Air Suspension:**
@@ -48,19 +35,6 @@ The 2021 Mercedes-Benz Marco Polo is a versatile camper van that offers a spacio
     * **Failure to Open/Close:** Power liftgate may fail to open or close due to electrical issues. Symptoms include unresponsive buttons, intermittent operation, or complete failure. Solution: Diagnosis and repair of electrical components. Estimated Cost to Fix: $500 - $1,500
 * **Battery Drain:**
     * **Excessive Battery Drain:** Battery may drain prematurely due to electrical parasitic draw. Symptoms include difficulty starting the vehicle, dim interior lights, and warning lights. Solution: Diagnosis and repair of electrical system. Estimated Cost to Fix: $300 - $1,000
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -82,15 +56,3 @@ The 2021 Mercedes-Benz Marco Polo is a versatile camper van that offers a spacio
 **Summary:**
 
 Overall, the 2021 Mercedes-Benz Marco Polo is a well-equipped and versatile camper van. However, it is not without its issues. Some of the most common problems reported by owners include engine leaks, transmission control module failure, air suspension issues, electrical problems with the power liftgate and battery drain, exterior leaks in the rooftop tent, malfunctioning tail lights, and various interior issues with the kitchen appliances, refrigerator, and water system. While some of these issues may be minor and inexpensive to fix, others can be more severe and expensive. Potential buyers should carefully consider these issues and factor them into their purchasing decision.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

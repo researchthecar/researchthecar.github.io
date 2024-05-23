@@ -105,15 +105,3 @@ The Grand Marquis was known for its spacious interior, comfortable ride, and aff
 ##### **Summary**
 
 The 2010 Mercury Grand Marquis had a number of common issues, particularly with its engine and transmission. Some issues, such as intake manifold gasket failure, were relatively minor and inexpensive to repair. However, other issues, such as timing chain failure and transmission slipping, could be more severe and costly to fix. Overall, the Grand Marquis had a higher-than-average number of reported issues for its age and mileage, which could potentially make it a risky purchase.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

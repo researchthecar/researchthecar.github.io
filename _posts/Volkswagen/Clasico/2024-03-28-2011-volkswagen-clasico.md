@@ -55,19 +55,6 @@ The 2011 Volkswagen Clasico was available with two engine options: a 2.5L inline
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Strut mount failure**
@@ -83,19 +70,6 @@ The 2011 Volkswagen Clasico was available with two engine options: a 2.5L inline
     * Solution: Diagnose and fix the underlying cause of the battery drain.
     * Estimated Cost to Fix: Varies depending on the cause
     * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -116,15 +90,3 @@ The 2011 Volkswagen Clasico was available with two engine options: a 2.5L inline
 **Summary**
 
 Overall, the 2011 Volkswagen Clasico is a reliable and enjoyable vehicle to drive. However, there are some potential issues that owners should be aware of, including intake manifold failure, valve cover gasket leaks, and timing chain tensioner failure on the 2.5L inline-5 engine, as well as turbocharger failure on the turbocharged version. The transmission issues are generally less severe, and the suspension, electrical, and interior issues are relatively minor. The cost to fix these issues can vary significantly, but in general, the Clasico is not an overly expensive vehicle to maintain.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

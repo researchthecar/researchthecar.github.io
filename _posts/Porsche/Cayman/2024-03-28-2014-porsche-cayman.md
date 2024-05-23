@@ -39,19 +39,6 @@ The Cayman is praised for its handling, performance, and interior quality. Howev
         * Estimated Cost to Fix: $2,000 - $3,000+
         * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 * **Front suspension**
     * **Strut mount failure**
@@ -75,19 +62,6 @@ The Cayman is praised for its handling, performance, and interior quality. Howev
         * Solution: Replace the alternator.
         * Estimated Cost to Fix: $500 - $1,000+
         * Recalls: None Found
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 * **Headlights**
@@ -116,15 +90,3 @@ The Cayman is praised for its handling, performance, and interior quality. Howev
 **Summary**
 
 The 2014 Porsche Cayman is a well-built sports car that is fun to drive. However, it is not without its problems. The most serious issue is the cylinder head cracking, which can lead to engine failure. Other issues, such as oil leaks, grinding gears, and dashboard cracking, are less severe but can still be costly to repair. Overall, the Cayman is a good car but it is important to be aware of the potential problems before buying one. Also, the severity and cost of the issues can vary depending on the specific problem and the age and mileage of the vehicle.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

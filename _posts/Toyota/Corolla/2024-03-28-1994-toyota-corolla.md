@@ -52,19 +52,6 @@ The 1994 Toyota Corolla is a compact sedan powered by a 1.6-liter 4-cylinder eng
     * Estimated Cost to Fix: $800 - $1200
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 **Front Suspension:**
@@ -96,19 +83,6 @@ The 1994 Toyota Corolla is a compact sedan powered by a 1.6-liter 4-cylinder eng
     * Estimated Cost to Fix: $100 - $200
     * Recalls: None Found
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Rear Quarter Panel Rust:**
@@ -133,15 +107,3 @@ The 1994 Toyota Corolla is a compact sedan powered by a 1.6-liter 4-cylinder eng
 **Summary:**
 
 The 1994 Toyota Corolla is generally a reliable vehicle, but it is not without its issues. Some of the more common problems include oil filter housing leaks, transmission noise, suspension issues, electrical failures, and interior concerns. The severity and cost of these issues vary, but they should be taken into consideration when purchasing or maintaining a Corolla of this generation.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

@@ -42,19 +42,6 @@ The 2005 Toyota Highlander is a mid-size SUV known for its reliability, spacious
     * Solution: Replace or rebuild the transmission.
     * Estimated Cost to Fix: $1,500 - $3,000
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Front strut bearing failure:**
@@ -77,19 +64,6 @@ The 2005 Toyota Highlander is a mid-size SUV known for its reliability, spacious
     * Solution: Replace the starter motor.
     * Estimated Cost to Fix: $300 - $500
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Exterior**
 
 * **Tailgate corrosion:**
@@ -111,15 +85,3 @@ The 2005 Toyota Highlander is a mid-size SUV known for its reliability, spacious
 **Summary:**
 
 The 2005 Toyota Highlander has a few known issues but is overall considered a reliable vehicle. The most common issues include timing chain rattle, leaking valve cover gaskets, and center console lid breakage. The severity and cost of the issues vary, but most can be fixed for a reasonable price.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>

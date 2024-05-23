@@ -22,19 +22,6 @@ The 2002 Subaru Impreza is a compact car available in sedan and hatchback body s
 * **Four-speed automatic transmission**
     * **Slipping gears:** Failure of the transmission to engage gears or a loss of power during acceleration may indicate a problem with the transmission clutches or valve body. The fix requires rebuilding or replacing the transmission. Estimated cost to fix: $1,500-$3,000.
 
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 **Suspension**
 
 * **Lower control arm bushings:** Premature failure of the lower control arm bushings can cause a variety of suspension issues, such as tire alignment problems, excessive vibration, and instability during cornering. The fix involves replacing the worn bushings. Estimated cost to fix: $200-$400.
@@ -45,19 +32,6 @@ The 2002 Subaru Impreza is a compact car available in sedan and hatchback body s
 * **Alternator failure:** A failing alternator may not provide sufficient power to the electrical system, leading to battery drain and potential electrical failures. Symptoms include dim headlights, slow cranking, and warning lights on the dashboard. The fix involves replacing the alternator. Estimated cost to fix: $300-$600.
 * **Ignition coil failure:** A faulty ignition coil can prevent the spark plugs from receiving power, causing engine misfires and rough running. Symptoms include loss of power, difficulty starting, and uneven engine performance. The fix involves replacing the ignition coil and associated components. Estimated cost to fix: $200-$500.
 * **Battery drain:** A parasitic draw on the battery can lead to a drained battery, even when the vehicle is not in use. This can be caused by faulty electrical components, such as a faulty alternator diode or a malfunctioning electrical module. The fix involves identifying and repairing the affected component. Estimated cost to fix: $50-$200.
-
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
 **Exterior**
 
@@ -78,15 +52,3 @@ The 2002 Subaru Impreza is a compact car available in sedan and hatchback body s
 **Summary**
 
 The 2002 Subaru Impreza is generally a reliable vehicle, although it has experienced some notable issues. The most severe problems include head gasket failure and transmission failure, which can be costly to repair. However, many of the other issues are relatively minor and can be addressed at a reasonable cost. Overall, the Impreza remains a popular choice for its affordability, performance, and all-weather capability.
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
-     crossorigin="anonymous"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4434724897991713"
-     data-ad-slot="9638790403"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
