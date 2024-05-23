@@ -46,6 +46,19 @@ The 2005 Chevrolet Aveo is a subcompact car available with a 1.6L DOHC I4 engine
     * Estimated Cost to Fix: $300 - $500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Failure**
@@ -101,3 +114,15 @@ The 2005 Chevrolet Aveo is a subcompact car available with a 1.6L DOHC I4 engine
 **Summary**
 
 The 2005 Chevrolet Aveo is a budget-friendly subcompact car with decent reliability. However, it is prone to certain issues, such as intake manifold gasket failure, timing chain noise, and transmission fluid leaks. These issues can be costly to repair, especially if they are not addressed promptly. The Aveo's relatively low purchase price may outweigh its maintenance expenses for some buyers, but it is important to be aware of these potential problems before making a decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

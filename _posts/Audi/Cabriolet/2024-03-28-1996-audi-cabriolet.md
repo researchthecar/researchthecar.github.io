@@ -64,6 +64,19 @@ The 1996 Audi Cabriolet is an iconic luxury convertible known for its elegant de
     * Estimated Cost to Fix: $1,000 - $2,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Control Arm Bushings Wear:**
@@ -113,3 +126,15 @@ The 1996 Audi Cabriolet is an iconic luxury convertible known for its elegant de
 
 **Summary:**
 The 1996 Audi Cabriolet has its fair share of potential issues, particularly with its engine, transmission, suspension, and electrical systems. Some of these problems can be costly to repair, especially the timing belt tensioner failure, power steering pump failure, and torque converter lockup failure. However, the Cabriolet remains a desirable classic car for its performance, style, and comfort. Prospective buyers should be aware of these potential issues and factor in the potential costs of repairs when considering purchasing one of these vehicles.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

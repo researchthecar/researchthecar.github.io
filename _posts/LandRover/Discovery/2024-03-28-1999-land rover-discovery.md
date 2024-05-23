@@ -46,6 +46,19 @@ The 1999 Land Rover Discovery is a mid-size SUV known for its rugged off-road ca
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaking rear shock absorbers**
@@ -91,3 +104,15 @@ The 1999 Land Rover Discovery is a mid-size SUV known for its rugged off-road ca
 **Summary**
 
 The 1999 Land Rover Discovery is a capable off-road SUV, but it is not without its issues. The engine and transmission can be reliable, but some common problems include head gasket leaks, intake manifold gasket failures, torque converter shudder, and transmission slipping. The suspension and electrical system have their share of issues as well, including leaking shock absorbers, alternator failures, and window switch failures. The exterior and interior have some minor problems, such as rust on the rear door hinges and faulty instrument clusters. Overall, the severity and cost of the issues vary, and potential buyers should be aware of these potential problems before purchasing a used Land Rover Discovery.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

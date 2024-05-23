@@ -30,6 +30,19 @@ The 2010 Maserati GranTurismo is a high-performance Italian sports car powered b
     * Estimated Cost to Fix: $3,000 - $6,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Front Control Arms Ball Joint Wear**
@@ -70,3 +83,15 @@ The 2010 Maserati GranTurismo is a high-performance Italian sports car powered b
 **Summary:**
 
 The 2010 Maserati GranTurismo is a captivating sports car, but it is not without its issues. Engine and transmission problems can be costly, and suspension and electrical concerns can affect handling and comfort. While these issues are not universal, they are prevalent enough to warrant consideration before purchasing or owning a GranTurismo. Repairs can be expensive, ranging from a few hundred dollars to several thousand dollars. If these potential issues are not a concern, the GranTurismo remains an exhilarating and stylish choice for discerning enthusiasts.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

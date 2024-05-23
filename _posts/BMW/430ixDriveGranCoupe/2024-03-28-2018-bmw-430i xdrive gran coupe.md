@@ -29,6 +29,19 @@ The 2018 BMW 430i xDrive Gran Coupe is a stylish and practical compact luxury ca
     * Estimated Cost to Fix: $1000-$2000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Strut Mount Bearing Failure**
@@ -64,3 +77,15 @@ The 2018 BMW 430i xDrive Gran Coupe is a stylish and practical compact luxury ca
 **Summary:**
 
 The 2018 BMW 430i xDrive Gran Coupe generally has a good reliability record, but it is not without its issues. While some issues, such as shifting hesitations and sunroof drain clogs, can be minor and inexpensive to fix, others, such as intake valve carbon buildup and electrical problems, can be more severe and costly. Potential owners should be aware of these issues and consider having their vehicles inspected by a qualified mechanic before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

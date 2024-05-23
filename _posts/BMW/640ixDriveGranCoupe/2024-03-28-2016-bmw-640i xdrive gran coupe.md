@@ -44,6 +44,19 @@ The 2016 BMW 640i xDrive Gran Coupe is a four-door, five-passenger luxury sports
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -80,3 +93,15 @@ The 2016 BMW 640i xDrive Gran Coupe is a four-door, five-passenger luxury sports
 **Summary**
 
 The 2016 BMW 640i xDrive Gran Coupe offers an impressive driving experience and luxurious amenities but has a few potential issues that may arise. The engine components, particularly the port injectors and timing chain guide, have been known to fail, while the transmission may experience solenoid or mechatronic unit problems. Electrical issues such as battery drain and iDrive malfunctions may also occur. Exterior issues like headlight condensation and interior trim panel gaps are relatively minor but can be inconvenient. The overall cost of repairs for these issues can range from minimal to significant, depending on the severity of the problem.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

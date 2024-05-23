@@ -44,6 +44,19 @@ The 1999 Ford E-150 Econoline Club Wagon is a versatile full-size van available 
         * Estimated Cost to Fix: $400 - $800+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **No Issues Found**
@@ -80,3 +93,15 @@ The 1999 Ford E-150 Econoline Club Wagon is a versatile full-size van available 
 **Summary:**
 
 Overall, the 1999 Ford E-150 Econoline Club Wagon has a mixed track record regarding reliability. While it offers spaciousness, durability, and reliable performance, it has encountered specific issues with its engine, transmission, electrical system, and interior components. The severity and cost of repairs vary depending on the issue, but some can be costly. Potential buyers should be aware of these potential issues and factor them into their purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

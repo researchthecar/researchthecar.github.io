@@ -47,6 +47,19 @@ The 2023 Land Rover Discovery Sport is a compact luxury SUV known for its off-ro
 * **Estimated Cost to Fix:** $6,000 - $10,000+
 * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Issue:** Front suspension clunking
@@ -106,3 +119,15 @@ The 2023 Land Rover Discovery Sport is a compact luxury SUV known for its off-ro
 **Summary**
 
 The 2023 Land Rover Discovery Sport has a number of potential issues across various components. While certain issues like oil consumption and timing belt failure can be severe and costly, it's important to note that the frequency of these problems may vary depending on factors such as driving habits and maintenance practices. The occurrence of issues can also vary between individual vehicles, and some owners may not experience any major problems. It is recommended to research specific issues and their potential impact before purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

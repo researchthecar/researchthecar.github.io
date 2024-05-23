@@ -65,6 +65,19 @@ Known for its affordability, practicality, and hatchback versatility, the Corsa 
     * Estimated Cost to Fix: $800 - $1500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mounts**
@@ -124,3 +137,15 @@ Known for its affordability, practicality, and hatchback versatility, the Corsa 
 **Summary**
 
 The 2008 Chevrolet Corsa has several common issues that can be relatively expensive to fix, especially in the engine, transmission, and electrical systems. Some interior and exterior issues may also arise. However, the Corsa's low initial purchase price and practical hatchback design may still appeal to budget-conscious consumers despite its potential for significant repair costs down the road.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

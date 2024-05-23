@@ -91,3 +91,15 @@ The 2011 Ford Expedition is a full-size SUV with a 5.4L V8 engine and 6-speed au
 ### Summary
 
 The 2011 Ford Expedition is a popular full-size SUV with some notable issues to be aware of. The engine and transmission issues can be serious and expensive to repair, while the suspension, electrical, exterior, and interior issues are generally less severe and costly. It is important to consider these issues when making a purchase decision and to factor in the potential cost of repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

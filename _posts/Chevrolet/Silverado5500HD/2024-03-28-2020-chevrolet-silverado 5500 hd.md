@@ -37,6 +37,19 @@ Solution: Update the transmission control module software or replace the transmi
 Estimated Cost to Fix: $500 - $1,500+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf Spring Failure:**
@@ -78,3 +91,15 @@ Recalls: None Found
 **Summary**
 
 While the 2020 Chevrolet Silverado 5500 HD is a capable and generally reliable vehicle, it has been reported with some issues. The most common issues reported are related to the engine intake manifold, slipping gears, shifting delays, leaf spring failure, battery drain, tailgate latch failure, dashboard cracks, and infotainment system malfunctions. The severity of these issues varies, and the cost to fix can be significant. Potential buyers should be aware of these issues and factor the potential cost of repairs into their decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

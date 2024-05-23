@@ -43,6 +43,19 @@ The 2021 Hyundai Santa Fe is a midsize SUV that seamlessly combines practicality
     * Estimated Cost to Fix: $2,000 - $3,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -92,3 +105,15 @@ The 2021 Hyundai Santa Fe is a midsize SUV that seamlessly combines practicality
 **Summary**
 
 Overall, the 2021 Hyundai Santa Fe is a solid choice for those seeking a spacious and feature-rich SUV. However, it has been plagued by some reliability issues, particularly with the engine and transmission. While the costs to fix these issues can be significant, most of them are covered under warranty. The severity of the issues varies, and not all Santa Fe owners experience these problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -32,6 +32,19 @@ The 2018 Ferrari California T is a high-performance sports car that combines ele
         * Estimated Cost to Fix: $3,000 - $5,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arm Bushings:**
@@ -77,3 +90,15 @@ The 2018 Ferrari California T is a high-performance sports car that combines ele
 **Summary:**
 
 While the 2018 Ferrari California T offers exhilarating performance and luxurious appointments, it may experience certain issues that range in severity and cost. The most common concerns include engine ticking or piston slap, shifting issues, and suspension noises. Electrical and interior malfunctions are less prevalent but can be costly to repair. Overall, the maintenance and repair costs of the Ferrari California T can be substantial, as is typical for high-end sports cars.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

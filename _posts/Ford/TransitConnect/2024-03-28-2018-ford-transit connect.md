@@ -55,6 +55,19 @@ The 2018 Ford Transit Connect is a compact cargo van that offers a practical and
   - Estimated Cost to Fix: $200 - $500+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure:**
@@ -94,3 +107,15 @@ The 2018 Ford Transit Connect is a compact cargo van that offers a practical and
 **Summary**
 
 The 2018 Ford Transit Connect has its fair share of issues, but the severity and cost of these issues vary. Common problems include oil leaks, turbocharger failures, transmission fluid leaks, and suspension issues. Rust is also a concern, especially in areas with heavy salt use. While some repairs can be relatively inexpensive, others can be quite costly. Owners should be aware of these potential issues and consider the cost of repairs before purchasing a used Transit Connect.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

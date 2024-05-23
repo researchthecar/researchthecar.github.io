@@ -36,6 +36,19 @@ The Police Interceptor Utility is a powerful and capable vehicle that is well-su
 
 * **Delayed shifts:** This issue affects the transmission, which can delay shifts and cause the vehicle to hesitate. The solution is to update the transmission software. Estimated cost to fix: Free. Recalls: 19S33
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** This issue affects the struts, which can fail and cause the vehicle to bounce or handle poorly. The solution is to replace the struts. Estimated cost to fix: $500 - $1000. Recalls: None Found
@@ -59,3 +72,15 @@ The Police Interceptor Utility is a powerful and capable vehicle that is well-su
 **Summary**
 
 The 2016 Ford Police Interceptor Utility is a мощный and capable vehicle, but it is also plagued by a number of issues, some of which can be serious and costly to fix. The most common issues include intake manifold cracking, timing chain tensioner failure, turbocharger failure, and transmission problems. These issues can affect the performance, reliability, and safety of the vehicle. If you are considering purchasing a 2016 Ford Police Interceptor Utility, it is important to be aware of these issues and factor them into your decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

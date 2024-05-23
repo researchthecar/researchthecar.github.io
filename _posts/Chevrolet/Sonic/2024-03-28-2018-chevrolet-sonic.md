@@ -65,6 +65,19 @@ Owners appreciate the Sonic's fuel efficiency, agile handling, and comfortable i
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure:**
@@ -108,3 +121,15 @@ Owners appreciate the Sonic's fuel efficiency, agile handling, and comfortable i
 **Summary:**
 
 The 2018 Chevrolet Sonic has reported issues in various components, including the engine, transmission, suspension, electrical system, and interior. While some issues, such as exhaust valve coking, can be addressed relatively easily and inexpensively, others, like turbocharger failure or CVT belt failure, can be more costly to repair. Overall, the severity and frequency of these issues vary, and not all Sonics will experience them. It is important to consider these potential problems when evaluating the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

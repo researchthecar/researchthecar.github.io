@@ -29,6 +29,19 @@ The 1994 Alfa Romeo Spider is a stylish and sporty convertible that offers an ex
     * **Solution:** Rebuild or replace the affected transmission components.
     * Estimated Cost to Fix: $1,000 - $2,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -57,3 +70,15 @@ The 1994 Alfa Romeo Spider is a stylish and sporty convertible that offers an ex
 **Summary:**
 
 The 1994 Alfa Romeo Spider is a fun and engaging car, but it is not without its issues. The engine, transmission, electrical system, and exterior all have potential for costly repairs. The timing belt failure recall is a serious concern, and the rust issue is prevalent in older vehicles. Maintenance costs can be high, and finding qualified mechanics who specialize in Alfa Romeo vehicles can be challenging.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

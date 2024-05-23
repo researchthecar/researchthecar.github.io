@@ -35,6 +35,19 @@ The 1995 Ford Club Wagon was a great choice for families and businesses who need
         * Recalls: None Found
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension wear**
@@ -93,3 +106,15 @@ The 1995 Ford Club Wagon was a great choice for families and businesses who need
 **Summary**
 
 The 1995 Ford Club Wagon was a popular choice for families and businesses, but it had its fair share of issues. The most common problems included intake manifold gasket failure, fuel pump failure, and transmission slipping. While some issues were relatively minor and inexpensive to fix, others could be more severe and costly. Overall, the Club Wagon was a reliable vehicle, but it's important to be aware of potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

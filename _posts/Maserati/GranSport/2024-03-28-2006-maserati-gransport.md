@@ -31,6 +31,19 @@ The 2006 Maserati GranSport is a stylish and powerful grand tourer that is power
     * Solution: Replace the clutch assembly.
     * Estimated Cost to Fix: $1,000 - $1,500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Clunking:** Clunking noises can develop in the front suspension due to worn or damaged control arm bushings.
@@ -58,3 +71,15 @@ The 2006 Maserati GranSport is a stylish and powerful grand tourer that is power
 **Summary:**
 
 The Maserati GranSport is a capable and stylish grand tourer, but it can experience some common issues that owners should be aware of. These include valve train noise, oil leaks, front suspension clunking, and battery drain. The severity of these issues can vary, but they can be costly to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -29,6 +29,19 @@ The 2023 Ford Expedition is a full-size SUV that offers a potent 3.5-liter EcoBo
 * Estimated Cost to Fix: $2000 - $4000+
 * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Coil Spring Failure**
@@ -64,3 +77,15 @@ The 2023 Ford Expedition is a full-size SUV that offers a potent 3.5-liter EcoBo
 **Summary**
 
 The 2023 Ford Expedition has been reported with various issues, ranging from engine and transmission problems to suspension, electrical, and interior concerns. While some issues are minor and can be resolved at a relatively low cost, others can be more severe and expensive to repair. Potential buyers should be aware of these potential issues and consider the cost and severity of repairs before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

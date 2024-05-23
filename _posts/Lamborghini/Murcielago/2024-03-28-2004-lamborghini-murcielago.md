@@ -26,6 +26,19 @@ The 2004 Lamborghini Murcielago is an iconic Italian supercar known for its stun
 * **6-Speed Semi-Automatic Transmission (R-Tronic)**
     * **Gear Selection Issues:** Faulty sensors or control module issues can lead to incorrect or delayed gear changes. Reprogramming or replacing the affected components is often required. Estimated Cost to Fix: $1,000 - $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension:**
@@ -58,3 +71,15 @@ The 2004 Lamborghini Murcielago is an iconic Italian supercar known for its stun
 **Summary:**
 
 The 2004 Lamborghini Murcielago is a captivating supercar that demands attention. However, prospective buyers should be aware of the potential issues associated with this vehicle. While engine and transmission issues can be costly, electrical, suspension, exterior, and interior problems may be less severe. It is essential to have a thorough pre-purchase inspection performed by a qualified mechanic to uncover any potential issues before making a significant investment.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

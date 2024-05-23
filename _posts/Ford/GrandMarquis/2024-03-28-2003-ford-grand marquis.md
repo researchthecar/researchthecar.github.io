@@ -59,6 +59,19 @@ Critics praised the Grand Marquis for its comfortable ride, spacious interior, a
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension strut failure**
@@ -114,3 +127,15 @@ Critics praised the Grand Marquis for its comfortable ride, spacious interior, a
 **Summary**
 
 The 2003 Ford Grand Marquis is a reliable and comfortable full-size sedan. However, it is not without its issues. Some of the most common problems include engine oil leaks, transmission slipping, and suspension failure. These issues can be expensive to fix, so it is important to be aware of them before purchasing a Grand Marquis.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

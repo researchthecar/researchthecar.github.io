@@ -26,6 +26,19 @@ The 2021 Chevrolet Trax is a subcompact SUV available with two engine options: a
 * **6-speed Manual Transmission (1.8L Engine Only)**
     * **Clutch Failure:** The clutch may wear out causing slipping, difficulty shifting, and a burning smell. The clutch assembly must be replaced. Estimated Cost to Fix: $800 - $1,500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Sagging:** The rear suspension may sag prematurely, especially with heavy loads. The rear springs or shocks may need to be replaced. Estimated Cost to Fix: $600 - $1,200
@@ -46,3 +59,15 @@ The 2021 Chevrolet Trax is a subcompact SUV available with two engine options: a
 **Summary**
 
 The 2021 Chevrolet Trax has several potential issues, including engine turbocharger failure and carbon buildup, transmission slipping gears and solenoid failure, rear suspension sagging, and electrical problems. While some of these issues are minor and inexpensive to fix, others can be more severe and require costly repairs. It is important for owners to be aware of these potential problems and to have their vehicles regularly inspected and maintained to avoid major expenses.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

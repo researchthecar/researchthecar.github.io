@@ -43,6 +43,19 @@ While the Accent has received praise for its value proposition and low running c
 * **Estimated Cost to Fix:** $200 - $500+
 * **Recalls:** NHTSA Campaign Number 18V-338: Transmission Software Update
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -71,3 +84,15 @@ While the Accent has received praise for its value proposition and low running c
 **Summary**
 
 Overall, the 2012 Hyundai Accent is a reliable and affordable subcompact sedan. However, it has experienced some specific issues, primarily related to the engine, transmission, and electrical systems. The severity and cost of these issues vary depending on the specific problem and the extent of the repairs required.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

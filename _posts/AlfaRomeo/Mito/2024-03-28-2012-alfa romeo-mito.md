@@ -39,6 +39,19 @@ Solution: Software update or замена сцепления.
 Estimated Cost to Fix: $800 - $2,000+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mounting Wear**
@@ -86,3 +99,15 @@ Recalls: None Found
 **Summary**
 
 The 2012 Alfa Romeo Mito has a mixed reputation for reliability. The severity and cost of repairs vary depending on the specific issue, but some common problems can be expensive. The vehicle's transmission and suspension issues are particularly concerning, potentially leading to significant repair costs. Owners should be aware of these potential problems and budget accordingly for maintenance and repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

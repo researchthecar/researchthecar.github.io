@@ -29,6 +29,19 @@ Solution: Lubricate or replace clutch linkage
 Estimated Cost to Fix: $100 - $300
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Leaf Springs**
@@ -70,3 +83,15 @@ Recalls: None Found
 **Summary**
 
 The 1993 Chevrolet W5500 Tiltmaster is a heavy-duty truck with a powerful engine and durable construction. However, it can experience some issues such as intake manifold gasket failure, clutch pedal stiffness, leaf spring breakage, alternator failure, starter motor failure, rust on the frame, and wind noise. The severity and cost of these issues vary, but some can be costly to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

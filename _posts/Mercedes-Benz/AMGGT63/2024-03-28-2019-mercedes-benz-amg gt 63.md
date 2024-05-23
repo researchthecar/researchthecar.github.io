@@ -37,6 +37,19 @@ The 2019 Mercedes-Benz AMG GT 63 is a high-performance sports car that combines 
   * Estimated Cost to Fix: $500 - $1,000+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -64,3 +77,15 @@ The 2019 Mercedes-Benz AMG GT 63 is a high-performance sports car that combines 
 **Summary:**
 
 The 2019 Mercedes-Benz AMG GT 63 is a powerful and technologically advanced sports car, but it has been met with some issues in the engine, transmission, and electrical systems. These issues can range from minor inconveniences to more significant problems that require expensive repairs. It is important to consider these potential issues when making a decision about purchasing or owning this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

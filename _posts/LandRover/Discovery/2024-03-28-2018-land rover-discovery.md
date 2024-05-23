@@ -43,6 +43,19 @@ The 2018 Land Rover Discovery is a mid-size luxury SUV that offers a spacious in
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air suspension failure**
@@ -96,3 +109,15 @@ The 2018 Land Rover Discovery is a mid-size luxury SUV that offers a spacious in
 **Summary**
 
 The 2018 Land Rover Discovery is a capable and luxurious SUV, but it is not without its issues. The engine, suspension, electrical, and exterior components have all been known to fail. The severity of these issues can range from minor inconveniences to major safety concerns. The cost to repair these issues can also be significant, with some repairs costing over $2,000.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

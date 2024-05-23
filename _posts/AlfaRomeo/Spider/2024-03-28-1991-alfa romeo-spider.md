@@ -42,6 +42,19 @@ The 1991 Alfa Romeo Spider is a rear-wheel-drive, two-seater convertible sports 
         * Solution: Replace the clutch assembly.
         * Estimated Cost to Fix: $800 - $1,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushings:**
@@ -92,3 +105,15 @@ The 1991 Alfa Romeo Spider is a rear-wheel-drive, two-seater convertible sports 
 **Summary**
 
 The 1991 Alfa Romeo Spider is a stylish and fun-to-drive sports car, but it is not without its issues. The engine and transmission are generally reliable, but they can suffer from certain problems, such as knocking noises, oil leaks, gasket failures, and timing belt failures. The suspension, electrical, and exterior components can also experience problems with rust, worn bushings, and other issues. The interior may also experience broken seat adjusters and HVAC malfunctions. Overall, the problems with the 1991 Alfa Romeo Spider are moderate in severity, but they can be costly to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

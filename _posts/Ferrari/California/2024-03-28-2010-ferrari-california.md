@@ -31,6 +31,19 @@ The 2010 Ferrari California is a luxurious, convertible grand tourer. It is powe
         * Estimated Cost to Fix: $2,000 - $3,000+
         * Recalls: 11V238
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -59,3 +72,15 @@ The 2010 Ferrari California is a luxurious, convertible grand tourer. It is powe
 **Summary**
 
 The 2010 Ferrari California is a desirable sports car that offers thrilling performance and a luxurious interior. However, it has experienced issues with the engine, transmission, and electrical system. These issues can be costly to repair, so it's important to factor these potential expenses into the ownership equation.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

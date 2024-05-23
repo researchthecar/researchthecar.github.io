@@ -30,6 +30,19 @@ The 2005 Chevrolet Cobalt is a compact sedan known for its sporty handling and a
 * **Shift Solenoid Failure:** Malfunctioning solenoid can cause issues with gear shifting, leading to hesitation or transmission not shifting properly. **Solution: Replace the shift solenoid.** **Estimated Cost to Fix:** $200 - $500
 * **Transmission Fluid Contamination:** Internal fluid contamination can cause slipping, delayed shifts, or transmission failure. **Solution: Flush the transmission fluid and replace the filter.** **Estimated Cost to Fix:** $200 - $400
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Lower Control Arm Bushing Failure:** Premature wear of the lower control arm bushings, leading to excessive tire wear, vibration, and instability. **Solution: Replace the lower control arm bushings.** **Estimated Cost to Fix:** $400 - $800+
@@ -53,3 +66,15 @@ The 2005 Chevrolet Cobalt is a compact sedan known for its sporty handling and a
 **Summary:**
 
 The 2005 Chevrolet Cobalt has been praised for its affordability and handling. However, some owners have experienced issues with specific components, including engine gaskets, transmission sensors, and suspension components. The severity and cost of these issues can vary depending on the specific problem and the extent of the damage. It's recommended to have the vehicle inspected regularly and to address any issues promptly to prevent further damage and costly repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

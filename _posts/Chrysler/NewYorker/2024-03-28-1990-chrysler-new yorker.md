@@ -53,6 +53,19 @@ The 1990 Chrysler New Yorker is a full-size luxury sedan that was offered with a
     * Estimated Cost to Fix: $300 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Sway bar end link failure**
@@ -100,3 +113,15 @@ The 1990 Chrysler New Yorker is a full-size luxury sedan that was offered with a
 **Summary**
 
 The 1990 Chrysler New Yorker is a comfortable and powerful sedan with a spacious interior. However, it is known to suffer from several common issues, including head gasket failure, intake manifold gasket failure, and transmission problems. These issues can be costly to fix, and some can lead to major engine or transmission damage. Overall, while the New Yorker may be a good choice for those seeking a classic luxury sedan, it is important to be aware of its potential problems and factor in the cost of potential repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

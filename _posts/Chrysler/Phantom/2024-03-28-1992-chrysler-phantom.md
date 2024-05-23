@@ -51,6 +51,19 @@ Despite its undeniable appeal, the Phantom has faced its fair share of issues ov
     * Solution: Rebuild or replace the transmission.
     * Estimated Cost to Fix: $1,500 - $3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Suspension:**
@@ -107,3 +120,15 @@ Despite its undeniable appeal, the Phantom has faced its fair share of issues ov
 **Summary**
 
 Overall, the 1992 Chrysler Phantom has faced a range of issues across various components. While some issues, such as intake manifold gasket failure and battery drain, are relatively minor and inexpensive to fix, others, like timing chain tensioner failure and transmission overheating, can be costly and require more extensive repairs. It's important to consider the potential expenses associated with these issues when purchasing or maintaining this classic sedan.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

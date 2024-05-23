@@ -80,3 +80,15 @@ The 1997 Lamborghini Diablo is a mid-engined sports car produced by Lamborghini.
 ### Summary
 
 The 1997 Lamborghini Diablo is a high-performance sports car with a rich history and a passionate following. However, it is also known for its reliability issues and high maintenance costs. The most common problems include head gasket failures, timing belt failures, clutch failures, alternator failures, and electrical problems. These issues can be expensive to fix, and parts can be difficult to find. As a result, it is important to factor in the potential costs of ownership before purchasing a Diablo.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

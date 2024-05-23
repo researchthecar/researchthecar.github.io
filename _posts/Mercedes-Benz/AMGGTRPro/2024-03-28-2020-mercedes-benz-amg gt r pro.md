@@ -21,6 +21,19 @@ The 2020 Mercedes-Benz AMG GT R Pro is a track-focused version of the already-po
 
 **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **AMG Ride Control Suspension**
@@ -76,3 +89,15 @@ The 2020 Mercedes-Benz AMG GT R Pro is a track-focused version of the already-po
 **Summary**
 
 The 2020 Mercedes-Benz AMG GT R Pro is a highly capable performance car, but it is not without its issues. While the engine and transmission have proven to be reliable, the electrical system and interior components have experienced some problems. The severity of these issues varies, with some being minor annoyances and others potentially more serious. The cost to fix these issues can also vary significantly, so it is important to factor that into the overall cost of ownership.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

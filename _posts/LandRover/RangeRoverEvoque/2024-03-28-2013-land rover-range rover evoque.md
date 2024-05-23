@@ -38,6 +38,19 @@ tags: ["Land Rover", "Range Rover Evoque", "2013"]
 * **9-Speed Automatic (optional)**
     * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front Lower Control Arm Bushing Failure:**
     * Description/Symptoms: The front lower control arm bushings may wear out prematurely, causing clunking noises, vibration, and excessive tire wear.
@@ -87,3 +100,15 @@ tags: ["Land Rover", "Range Rover Evoque", "2013"]
         * Recalls: None Found
 
 **Summary:** While the 2013 Land Rover Range Rover Evoque is a stylish and capable SUV, it has been reported to have some reliability issues with its engine, transmission, suspension, electrical, exterior, and interior components. Some of these issues can be costly to repair, so potential buyers should be aware of these potential problems before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

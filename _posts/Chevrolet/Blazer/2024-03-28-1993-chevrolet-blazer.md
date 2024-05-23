@@ -67,6 +67,19 @@ Owners of the 1993 Blazer generally praised its rugged build quality, spacious i
     * Estimated Cost to Fix: $500-$1000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Ball joint failure:**
@@ -122,3 +135,15 @@ Owners of the 1993 Blazer generally praised its rugged build quality, spacious i
 **Summary**
 
 The 1993 Chevrolet Blazer was a popular SUV with a number of desirable features. However, it was also plagued by a variety of engine, transmission, and other issues. The cost of these issues can range from minor to quite expensive, and some of the problems can be quite serious.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

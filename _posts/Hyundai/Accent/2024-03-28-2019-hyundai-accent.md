@@ -24,6 +24,19 @@ While the Accent is generally considered a reliable vehicle, certain issues have
     * **Jerking or Hesitation:** Symptoms include a noticeable hesitation or jerking when shifting gears. The solution is to update the transmission control module software. Estimated Cost to Fix: None, covered under warranty
     * **Slipping Gears:** Symptoms include a loss of power or difficulty accelerating. The solution is to replace the faulty transmission. Estimated Cost to Fix: $2,000 - $3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -47,3 +60,15 @@ While the Accent is generally considered a reliable vehicle, certain issues have
 **Summary**
 
 Overall, the 2019 Hyundai Accent has received positive reviews for its affordability, fuel efficiency, and compact size. However, certain issues have been reported by owners, including valve spring failure, timing chain tensioner failure, and transmission problems. The severity and cost of these issues vary, so it's advisable to research specific issues and potential solutions before purchasing a used 2019 Accent.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

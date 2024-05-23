@@ -52,6 +52,19 @@ Commonly praised for its towing capacity, off-road performance, and comfortable 
     * Estimated Cost to Fix: $800 - $1,200+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Leaf Spring Breakage**
@@ -97,3 +110,15 @@ Commonly praised for its towing capacity, off-road performance, and comfortable 
 **Summary**
 
 The 2003 Chevrolet Trailblazer offers some attractive features but comes with a range of potential issues, especially in the engine and transmission. While some repairs can be relatively inexpensive, serious problems like piston ring failure and transmission slipping can be costly to fix. Potential buyers should be aware of these issues and consider the cost of maintenance before purchasing a Trailblazer.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

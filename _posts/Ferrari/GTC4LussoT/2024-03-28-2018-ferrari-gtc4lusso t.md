@@ -26,6 +26,19 @@ The 2018 Ferrari GTC4Lusso T is a four-seater, all-wheel-drive grand tourer powe
     - Solution: Software update, clutch pack replacement, or transmission fluid change.
     - Estimated Cost to Fix: $1,000 - $2,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Adaptive Suspension Failure:**
     - Description/Symptoms: Malfunctioning adaptive suspension system can result in uneven ride quality, poor stability, and excessive body roll.
@@ -52,3 +65,15 @@ The 2018 Ferrari GTC4Lusso T is a four-seater, all-wheel-drive grand tourer powe
 
 **Summary:**
 While the 2018 Ferrari GTC4Lusso T offers impressive performance and luxury, it is not immune to potential issues. The reported problems range from engine-related concerns to transmission and suspension malfunctions. Electrical glitches and interior software issues have also been noted. The severity and cost of these issues can vary, so it is important for owners to be aware of them and address any problems promptly to maintain the vehicle's performance and reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

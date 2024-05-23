@@ -38,6 +38,19 @@ Owners of the 2016 Hyundai Genesis Coupe have reported various issues with their
         * Estimated Cost to Fix: $1,000 - $2,500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Noise**
@@ -78,3 +91,15 @@ Owners of the 2016 Hyundai Genesis Coupe have reported various issues with their
 **Summary**
 
 The 2016 Hyundai Genesis Coupe has several potential issues, particularly with its engine and transmission. The severity of these issues can range from minor annoyances to serious mechanical problems. The cost to fix these issues can also be significant, with some repairs exceeding $5,000. However, the 2016 Hyundai Genesis Coupe remains a popular choice for those seeking a sporty and affordable coupe.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -29,6 +29,19 @@ Owners of the 2021 Vantage appreciate its impressive acceleration, responsive ha
 * **Transmission Slipping:** The transmission may slip out of gear, especially during hard acceleration or deceleration. Symptoms include loss of power, rough shifting, and a shuddering sensation. Solution: Rebuild or replace the transmission. Estimated Cost to Fix: $3,000 - $5,000+
 * **Transmission Fluid Leaks:** Transmission fluid may leak from the transmission pan gasket or lines. Symptoms include fluid spots under the car and decreased fluid levels. Solution: Replace the faulty gasket or lines. Estimated Cost to Fix: $200 - $500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -48,3 +61,15 @@ Owners of the 2021 Vantage appreciate its impressive acceleration, responsive ha
 **Summary**
 
 Overall, the 2021 Aston Martin Vantage is a high-performance sports car that delivers an exhilarating driving experience. However, owners have reported some issues with the vehicle, particularly with the engine, transmission, and electrical systems. The severity of these issues may vary depending on the specific vehicle and its maintenance history. While some repairs may be relatively minor, others can be costly and time-consuming.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

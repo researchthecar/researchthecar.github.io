@@ -55,6 +55,19 @@ Recalls: None Found
 
 **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Rear Shock Absorber Mounts**
@@ -90,3 +103,15 @@ Recalls: None Found
 **Summary**
 
 The 2016 Chevrolet Cruze Limited has some notable issues, particularly with the 1.4L turbocharged I-4 engine and the 6-speed automatic transmission. While the issues are generally not severe, they can be costly to repair. The electrical and suspension components also have some minor issues. Overall, the Cruze Limited is a reliable vehicle, but it has some potential problems that buyers should be aware of before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

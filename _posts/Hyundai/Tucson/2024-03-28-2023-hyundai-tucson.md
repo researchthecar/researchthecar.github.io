@@ -35,6 +35,19 @@ While the Tucson has received positive reviews overall, a few issues have been r
 * **Clutch Pack Failure:** Description/Symptoms: Difficulty shifting gears, vibration during acceleration, or loss of power. Solution: Replacing the faulty clutch pack. Estimated Cost to Fix: $1,000 - $2,000+
 * **Mechatronic Unit Failure:** Description/Symptoms: Transmission stuck in gear, difficulty shifting, or loss of power. Solution: Replacing the mechatronic unit. Estimated Cost to Fix: $2,000 - $3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Strut Mount Bearing Failure:** Description/Symptoms: Clunking or squeaking noises when turning or driving over bumps. Solution: Replacing the faulty strut mount bearings. Estimated Cost to Fix: $200 - $400+
@@ -55,3 +68,15 @@ While the Tucson has received positive reviews overall, a few issues have been r
 **Summary:**
 
 Overall, the 2023 Hyundai Tucson has received positive reviews, but there are some known issues that owners have reported. The severity and cost of these issues can vary depending on the individual case. Potential buyers should be aware of these issues and consider them when making a decision to purchase this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

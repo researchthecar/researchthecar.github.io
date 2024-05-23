@@ -60,6 +60,19 @@ The Expedition is praised for its spacious interior, powerful engines, and comfo
     * Solution: Replace transmission control module
     * Estimated Cost to Fix: $500 - $1,000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Struts Failure**
@@ -123,3 +136,15 @@ The Expedition is praised for its spacious interior, powerful engines, and comfo
 **Summary**
 
 The 2014 Ford Expedition has a number of potential issues, ranging from minor annoyances to major mechanical problems. Engine problems are relatively common, with some models experiencing cam phaser failure, spark plug blowout, and timing chain failure. The transmission can also develop issues, such as shift solenoid failure, torque converter failure, and transmission control module failure. Suspension problems are generally minor, such as strut or shock failure, but can affect ride quality and handling. Electrical issues can include battery drain, alternator failure, and starter failure. Exterior issues can include sunroof malfunction, headlight condensation, and paint peeling. Interior issues can include dashboard cracking, climate control malfunction, and seats not folding flat. The severity of the issues ranges from minor inconveniences to major safety concerns. The cost of repairs can be significant, especially for engine and transmission issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -28,6 +28,19 @@ The 2014 Chevrolet Captiva Sport is a compact crossover SUV that offers a comfor
 
 * **6-Speed Automatic (2.4L I4)**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure**: Premature failure of the front struts, causing knocking and clunking noises. **Solution**: Strut replacement **Estimated Cost to Fix**: $500 - $700 **Recalls**: None Found
@@ -49,3 +62,15 @@ The 2014 Chevrolet Captiva Sport is a compact crossover SUV that offers a comfor
 **Summary**
 
 The 2014 Chevrolet Captiva Sport has a number of reported issues, with the engine and electrical systems being the most common. The severity and cost of these issues vary, with some requiring major repairs that can be expensive. Potential buyers should be aware of these potential problems and factor them into their decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

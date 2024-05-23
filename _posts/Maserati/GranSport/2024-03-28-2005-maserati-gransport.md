@@ -56,6 +56,19 @@ The car is known for its thrilling driving experience, but it has also been repo
 
 * **See Engine**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension strut failure:** Worn or damaged front suspension struts can cause excessive bouncing, clunking noises, and poor handling.
@@ -99,3 +112,15 @@ The car is known for its thrilling driving experience, but it has also been repo
 **Summary:**
 
 The 2005 Maserati GranSport has some potential issues that can be expensive to repair. The most common problems relate to the engine, transmission, and suspension. While the car offers a thrilling driving experience, potential owners should be aware of the maintenance costs associated with it.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

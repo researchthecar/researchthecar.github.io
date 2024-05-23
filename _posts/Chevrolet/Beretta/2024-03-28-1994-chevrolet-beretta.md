@@ -42,6 +42,19 @@ The 1994 Chevrolet Beretta was a sporty coupe offered with a variety of engine a
 * **5-speed Manual**
     * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 * **Front Lower Control Arms:**
     * **Ball Joint Wear:**
@@ -89,3 +102,15 @@ The 1994 Chevrolet Beretta was a sporty coupe offered with a variety of engine a
 
 **Summary:**
 The 1994 Chevrolet Beretta has several potential issues, particularly in its engine, transmission, and suspension components. Some of these issues, such as intake manifold gasket failure and head gasket failure, can be significant and costly to repair. Additionally, electrical problems and interior component failures are also common. Overall, the severity and cost of the potential issues with the Beretta should be considered before purchasing one of these vehicles.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

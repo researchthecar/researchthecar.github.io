@@ -44,6 +44,19 @@ The 2017 Lamborghini Aventador is a mid-engine sports car produced by Lamborghin
         * Estimated Cost to Fix: $500 - $1,500
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -75,3 +88,15 @@ The 2017 Lamborghini Aventador is a mid-engine sports car produced by Lamborghin
 **Summary**
 
 The 2017 Lamborghini Aventador is a high-performance sports car with impressive capabilities. However, it is not immune to issues, particularly with its engine and transmission. Excessive oil consumption, oil leaks, and clutch wear are common concerns. Electrical faults and alignment issues have also been reported, but they are less severe and less costly to fix. Overall, the Aventador is a well-built and reliable vehicle, but potential owners should be aware of these potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

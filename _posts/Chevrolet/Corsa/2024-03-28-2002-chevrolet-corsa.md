@@ -35,6 +35,19 @@ The Corsa has received praise for its sporty handling, comfortable interior, and
 * **Solenoid Failure:** A solenoid in the transmission may fail, causing erratic shifting or a lack of response. Symptoms include harsh shifting, delayed shifts, and check engine light. Replacing the solenoid is the solution. Estimated cost to fix: $200 - $500+
 * **Transmission Fluid Leak:** Transmission fluid may leak from the pan, lines, or seals. Symptoms include low transmission fluid levels and slipping gears. Replacing the leaking component is the solution. Estimated cost to fix: $100 - $500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:** The strut mounts may wear out, causing a clunking or banging noise when driving over bumps. Symptoms include excessive suspension vibration and instability. Replacing the strut mounts is the solution. Estimated cost to fix: $200 - $400+
@@ -57,3 +70,15 @@ The Corsa has received praise for its sporty handling, comfortable interior, and
 **Summary**
 
 The 2002 Chevrolet Corsa has been reported to have a range of issues, including oil leaks, timing chain failure, transmission problems, suspension issues, and electrical failures. The severity of these issues can vary, with some being minor annoyances and others potentially leading to costly repairs or even accidents. While the Corsa is generally a reliable and affordable vehicle, it is important to be aware of these potential issues before purchasing or owning one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

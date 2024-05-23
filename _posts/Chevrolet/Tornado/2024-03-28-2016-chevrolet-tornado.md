@@ -65,6 +65,19 @@ Owners of the 2016 Chevrolet Tornado have reported a number of issues, including
     * Estimated Cost to Fix: $300 - $600+
     * Recalls: 15V119000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension strut failure**
@@ -113,3 +126,15 @@ Owners of the 2016 Chevrolet Tornado have reported a number of issues, including
 **Summary**
 
 The 2016 Chevrolet Tornado has a number of reported issues, including engine misfires, transmission shudder, and suspension problems. The severity of the issues varies, but some can be costly to repair. Overall, the Tornado is a reliable truck, but it is important to be aware of the potential problems before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

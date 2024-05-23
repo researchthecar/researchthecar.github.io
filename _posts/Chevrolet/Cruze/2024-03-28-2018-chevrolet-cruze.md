@@ -38,6 +38,19 @@ Drivers appreciate the Cruze's spacious interior, comfortable ride, and responsi
 * **6-Speed Manual**
     * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Noise:**
@@ -73,3 +86,15 @@ Drivers appreciate the Cruze's spacious interior, comfortable ride, and responsi
 **Summary**
 
 The 2018 Chevrolet Cruze has several reported issues, particularly with the engine and transmission. While some of these issues are relatively minor and inexpensive to fix, others can be severe and costly. Overall, the severity and cost of the issues may vary depending on the specific issue and the extent of the repairs required.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

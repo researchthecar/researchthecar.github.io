@@ -49,6 +49,19 @@ The 2016 Chevrolet Sonic is a subcompact car available with two engine options: 
   - Estimated Cost to Fix: $1,000 - $3,000+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Premature Strut Failure:**
@@ -102,3 +115,15 @@ The 2016 Chevrolet Sonic is a subcompact car available with two engine options: 
 **Summary:**
 
 The 2016 Chevrolet Sonic has a mix of common and more serious issues, primarily affecting the engine, transmission, and suspension. The severity and cost of repairs can vary significantly depending on the specific issue. Some issues, such as paint problems and interior trim issues, are relatively minor and inexpensive to fix, while major issues such as engine oil consumption or transmission failure can be costly and time-consuming to resolve.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

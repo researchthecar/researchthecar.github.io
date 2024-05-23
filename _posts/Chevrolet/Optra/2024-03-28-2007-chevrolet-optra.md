@@ -51,6 +51,19 @@ The 2007 Chevrolet Optra, a compact sedan, is renowned for its fuel efficiency a
   - **Estimated Cost to Fix:** $1,200 - $2,000+
   - **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Rear Suspension Strut Failure:**
@@ -95,3 +108,15 @@ The 2007 Chevrolet Optra, a compact sedan, is renowned for its fuel efficiency a
 **Summary:**
 
 The 2007 Chevrolet Optra has experienced a range of issues, with the most severe and costly involving the engine and transmission. Intake manifold gasket failures, oil consumption, and timing chain failures can result in significant repair expenses. Transmission problems, such as solenoid and torque converter failures, can also be costly to address. Suspension and electrical components have also presented issues, leading to reduced ride quality and reliability. While the Optra has some positive attributes, these ongoing issues may outweigh its value proposition for potential buyers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -31,6 +31,19 @@ While the Navigator offers many positive attributes, it is not without its share
 * **Transmission slipping:** Transmission slips gears and fails to engage properly. Rebuild or replace transmission. $2,000 - $4,000+
 * **Solenoid failure:** Causes shifting problems and loss of power. Replace solenoids. $300 - $600+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** Causes clunking noises and reduced ride quality. Replace struts. $600 - $1,200+
@@ -57,3 +70,15 @@ While the Navigator offers many positive attributes, it is not without its share
 **Summary**
 
 While the 2000 Lincoln Navigator offers a luxurious and powerful driving experience, it is important to be aware of the potential issues associated with this vehicle. Transmission failures, suspension problems, electrical issues, and interior problems are some of the most common issues reported by owners. The severity and cost of these issues can vary widely, so it is important to have your vehicle inspected regularly and address any issues promptly to prevent more costly repairs down the road.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

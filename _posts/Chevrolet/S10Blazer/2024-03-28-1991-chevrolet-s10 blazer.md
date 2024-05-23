@@ -55,6 +55,19 @@ Owners praised the S10 Blazer for its versatility, off-road capabilities, and af
 * Estimated Cost to Fix: $500 - $1,000
 * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Ball Joints**
@@ -108,3 +121,15 @@ Owners praised the S10 Blazer for its versatility, off-road capabilities, and af
 **Summary**
 
 The 1991 Chevrolet S10 Blazer is a versatile and affordable compact SUV, but it has some common issues that owners should be aware of. The most severe issues, such as engine gasket failures and transmission slippage, can be costly to repair. However, many of the other issues are relatively minor and inexpensive to fix. Overall, the S10 Blazer remains a reliable and capable vehicle for those seeking a rugged and practical SUV.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

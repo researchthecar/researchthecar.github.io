@@ -52,6 +52,19 @@ The Quattroporte has received praise for its stylish design, comfortable cabin, 
     * Solution: Replace torque converter
     * Estimated Cost to Fix: $2,500 - $3,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Failure**
@@ -91,3 +104,15 @@ The Quattroporte has received praise for its stylish design, comfortable cabin, 
 **Summary**
 
 The 2019 Maserati Quattroporte is a powerful and stylish luxury sedan, but it is not without its issues. The engine and transmission can both experience serious problems that can be expensive to fix. Other issues, such as electrical problems and interior malfunctions, are also common. Overall, the Quattroporte is a reliable car, but potential buyers should be aware of the potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

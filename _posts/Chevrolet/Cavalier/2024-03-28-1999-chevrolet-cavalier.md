@@ -67,6 +67,19 @@ Owners appreciate the Cavalier's affordable price, fuel efficiency, and comforta
     - Estimated Cost to Fix: $150 - $300
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Strut Mount Bearing Failure**
@@ -108,3 +121,15 @@ Owners appreciate the Cavalier's affordable price, fuel efficiency, and comforta
 **Summary**
 
 The 1999 Chevrolet Cavalier has some reliability issues, but most are relatively minor and inexpensive to fix. The most common problems involve engine sensors, intake manifold gaskets, and suspension components. Overall, the Cavalier is a reliable and affordable compact car, but it may require some occasional repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

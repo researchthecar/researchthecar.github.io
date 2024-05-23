@@ -39,6 +39,19 @@ The 2015 BMW ActiveHybrid 3 combines a 3.0-liter TwinPower Turbo inline-6 engine
     * Solution: Replacement of the mechatronic sleeve.
     * Estimated Cost to Fix: $2,000 - $3,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Shock Absorber Failure:**
@@ -82,3 +95,15 @@ The 2015 BMW ActiveHybrid 3 combines a 3.0-liter TwinPower Turbo inline-6 engine
 **Summary**
 
 The 2015 BMW ActiveHybrid 3 offers a blend of performance and efficiency, but it is not without its potential issues. While some of the problems, such as suspension components and electrical glitches, are relatively minor and inexpensive to fix, major failures like timing chain tensioner or transmission issues can be costly to address. It is important for owners to be aware of these potential problems and to have their vehicles regularly inspected and serviced to prevent more serious issues from developing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

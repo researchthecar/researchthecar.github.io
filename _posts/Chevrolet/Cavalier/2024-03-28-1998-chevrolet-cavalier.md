@@ -62,6 +62,19 @@ The 1998 Chevrolet Cavalier is a compact car available in sedan, coupe, and conv
     * Estimated Cost to Fix: $200 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure**
@@ -117,3 +130,15 @@ The 1998 Chevrolet Cavalier is a compact car available in sedan, coupe, and conv
 **Summary**
 
 The 1998 Chevrolet Cavalier is a reliable and affordable compact car with a few common issues. The most serious issue is the head gasket failure on the 2.4L LD9 engine, which can be costly to repair. Other common issues include intake manifold gasket failure on the 2.2L Ecotec engine, transmission fluid leaks on the 4-speed automatic transmission, and strut mount failure in the suspension. Overall, the Cavalier's issues are relatively minor and can be fixed for a reasonable cost.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

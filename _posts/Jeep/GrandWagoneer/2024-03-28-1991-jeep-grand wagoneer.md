@@ -39,6 +39,19 @@ The 1991 Jeep Grand Wagoneer was a full-size luxury SUV that was powered by a 5.
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Ball Joint Wear:** Worn out ball joints can cause clunking noises and poor handling.
@@ -86,3 +99,15 @@ The 1991 Jeep Grand Wagoneer was a full-size luxury SUV that was powered by a 5.
 **Summary**
 
 The 1991 Jeep Grand Wagoneer has a number of potential reliability issues that can be costly to repair. Engine problems, transmission issues, and suspension wear are among the most common. While it is a capable off-road vehicle, its reliability concerns should be considered before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -23,6 +23,19 @@ Engine options for the Intrepid included a 3.3L V6 with 160 horsepower and 208 l
 - **6-speed Manual**
     - **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Front Control Arm Bushings:** The front control arm bushings can wear out, causing the suspension to become loose and noisy. The bushings must be replaced. **$100 - $200+**
 - **Rear Suspension Springs:** The rear suspension springs can sag over time, leading to a drop in ride height and poor handling. The springs must be replaced. **$200 - $400+**
@@ -42,3 +55,15 @@ Engine options for the Intrepid included a 3.3L V6 with 160 horsepower and 208 l
 **Summary**
 
 The 1994 Dodge Intrepid was a popular mid-size sedan that experienced a number of reliability issues. The engine and transmission were particularly problematic, with failures that could be costly to repair. The suspension and electrical systems also had some issues, but the interior and exterior were generally more reliable. Overall, the Intrepid's reliability issues make it a less desirable choice compared to its competitors.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

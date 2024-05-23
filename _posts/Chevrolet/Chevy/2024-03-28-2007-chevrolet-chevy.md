@@ -60,6 +60,19 @@ Drivers liked the Chevy's spacious interior, comfortable ride, and powerful engi
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure**
@@ -110,3 +123,15 @@ Drivers liked the Chevy's spacious interior, comfortable ride, and powerful engi
 **Summary**
 
 The 2007 Chevrolet Chevy had several potential issues that could range in severity and cost. The most serious issues included AFM lifter failure in the 5.3L V8 engine, torque converter failure in the 6-speed automatic transmission, and strut mount failure in the suspension. However, most of the reported issues were relatively minor and inexpensive to fix. Overall, the Chevy was a reliable and comfortable vehicle for its time.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

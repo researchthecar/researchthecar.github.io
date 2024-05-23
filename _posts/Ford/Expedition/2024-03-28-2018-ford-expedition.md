@@ -26,6 +26,19 @@ The 2018 Ford Expedition is a full-size SUV that offers a range of engine and tr
 * **Shifting Problems:** Symptoms include delayed or harsh shifts, slipping gears, and loss of power. Solution: Update the transmission control module software or replace transmission components. Estimated Cost to Fix: $1,000 - $3,000+
 * **Torque Converter Issues:** Symptoms include shuddering or vibration during acceleration, and whining or grinding noises. Solution: Replace the torque converter. Estimated Cost to Fix: $1,500 - $2,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Failure:** Symptoms include excessive tire wear, loose steering, and vibrations while driving. Solution: Replace the worn control arm bushings. Estimated Cost to Fix: $200 - $500+
@@ -46,3 +59,15 @@ The 2018 Ford Expedition is a full-size SUV that offers a range of engine and tr
 
 **Summary:**
 While the 2018 Ford Expedition is a capable SUV, it has experienced a range of mechanical and electrical issues. The severity of the problems can vary from minor annoyances to major mechanical failures requiring costly repairs. Owners should be aware of potential issues, particularly with the timing chain, transmission, and rear bumper.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

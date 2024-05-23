@@ -38,6 +38,19 @@ Owners of the Grand Cherokee appreciate its off-road capabilities, powerful engi
 
 * **No issues found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Ball joint failure:** Symptoms include clunking noises, excessive tire wear, and instability during braking or turning. Solution: Replace the ball joints. Estimated Cost to Fix: $200 - $400+ per joint
@@ -61,3 +74,15 @@ Owners of the Grand Cherokee appreciate its off-road capabilities, powerful engi
 **Summary**
 
 The 1997 Jeep Grand Cherokee has a reputation for reliability, but there are some common issues to be aware of, particularly with the engine and transmission. The severity and cost of these issues can vary, so it's important to have any potential problems addressed promptly to avoid more costly repairs down the road.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

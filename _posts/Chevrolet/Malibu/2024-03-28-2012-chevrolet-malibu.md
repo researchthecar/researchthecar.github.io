@@ -48,6 +48,19 @@ The 2012 Chevrolet Malibu is a mid-size sedan that offers a variety of engine an
     * Estimated Cost to Fix: $3,000 - $5,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:** The strut mounts may fail, leading to knocking or clunking noises, reduced suspension performance, and uneven tire wear.
@@ -91,3 +104,15 @@ The 2012 Chevrolet Malibu is a mid-size sedan that offers a variety of engine an
 **Summary:**
 
 The 2012 Chevrolet Malibu is a comfortable and fuel-efficient sedan, but it is not without its issues. The most severe problems include transmission failure, intake manifold runner control issues, and excessive oil consumption. However, many of the other issues are relatively minor and less expensive to fix. While the cost of repairs varies depending on the severity of the problem, owners can expect to pay anywhere from a few hundred dollars for minor issues to over $5,000 for major repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -34,6 +34,19 @@ The 1992 Chevrolet Corvette was powered by a 5.7-liter V8 engine that produced 3
 * **6-speed manual transmission**
     * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear suspension springs failure**
@@ -74,3 +87,15 @@ The 1992 Chevrolet Corvette was powered by a 5.7-liter V8 engine that produced 3
 **Summary**
 
 The 1992 Chevrolet Corvette is a reliable and powerful sports car, but it can suffer from certain issues, including intake manifold gasket failure, coolant leaks, alternator failure, and headlight switch failure. The severity of these issues varies, and the cost to repair them can also range from minor to major. It is important to have the Corvette regularly inspected and maintained by a qualified mechanic to prevent potential problems and ensure the best driving experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

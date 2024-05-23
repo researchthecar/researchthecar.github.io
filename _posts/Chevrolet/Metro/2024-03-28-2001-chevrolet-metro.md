@@ -26,6 +26,19 @@ The 2001 Chevrolet Metro was a compact and fuel-efficient hatchback powered by a
 
 - **Transmission Slipping:** Description/Symptoms: The transmission may slip or hesitate when shifting gears. Solution: Replace the transmission fluid and filter. If the problem persists, a transmission rebuild may be necessary. Estimated Cost to Fix: $500 - $2,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Strut Failure:** Description/Symptoms: The front or rear struts may fail, causing the vehicle to bounce excessively or handle poorly. Solution: Replace the struts and mounts. Estimated Cost to Fix: $600 - $1,000+
@@ -49,3 +62,15 @@ The 2001 Chevrolet Metro was a compact and fuel-efficient hatchback powered by a
 **Summary:**
 
 The 2001 Chevrolet Metro has several potential issues, particularly with the engine, transmission, and suspension. Some repairs can be costly, exceeding $1,000 or more. However, many of the issues are minor and relatively inexpensive to fix. Overall, the severity and cost of the issues are not severe compared to other vehicles of its age and class.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

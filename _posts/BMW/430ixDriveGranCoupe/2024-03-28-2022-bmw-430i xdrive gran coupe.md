@@ -44,6 +44,19 @@ The 2022 BMW 430i xDrive Gran Coupe is a performance-oriented compact luxury sed
         * Estimated Cost to Fix: $500 - $1,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -90,3 +103,15 @@ The 2022 BMW 430i xDrive Gran Coupe is a performance-oriented compact luxury sed
 **Summary**
 
 Overall, the 2022 BMW 430i xDrive Gran Coupe is a well-rounded vehicle with impressive performance and luxury amenities. However, it is not without its issues. The most common problems reported by owners include engine and transmission failures, electrical malfunctions, and various cosmetic issues. While some issues may be minor and easily resolved under warranty, others can be more severe and expensive to fix. Potential buyers should be aware of these potential issues before purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

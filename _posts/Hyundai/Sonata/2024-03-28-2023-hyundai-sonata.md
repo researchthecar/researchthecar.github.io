@@ -47,6 +47,19 @@ The Sonata offers a spacious interior, a comfortable ride, and a host of standar
     * **Estimated Cost to Fix:** $500 - $3,000+
     * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -84,3 +97,15 @@ The Sonata offers a spacious interior, a comfortable ride, and a host of standar
 **Summary**
 
 The 2023 Hyundai Sonata has a few potential issues, but most of them are minor and relatively inexpensive to fix. The most serious issue is the turbocharger failure, which can be costly to repair. Overall, the Sonata is a reliable and affordable vehicle that offers a comfortable and spacious interior.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

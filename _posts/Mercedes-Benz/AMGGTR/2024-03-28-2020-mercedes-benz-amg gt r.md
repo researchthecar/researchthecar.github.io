@@ -60,3 +60,15 @@ While the AMG GT R is a well-engineered car, some owners have reported issues wi
 ### Summary
 
 Overall, the 2020 Mercedes-Benz AMG GT R is a reliable and high-performing sports car. However, some owners have experienced issues with the engine, transmission, and electrical system. The severity of these issues varies, and the cost to fix them can range from a few hundred dollars to several thousand dollars. It is important to be aware of these potential problems before purchasing an AMG GT R.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

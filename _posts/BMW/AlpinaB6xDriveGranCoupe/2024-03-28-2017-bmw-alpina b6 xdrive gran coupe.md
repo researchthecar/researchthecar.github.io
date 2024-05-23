@@ -24,6 +24,19 @@ Despite its impressive performance, the B6 xDrive Gran Coupe has received some c
 
 * **Shifting problems:** The transmission may have difficulty shifting gears, causing a loss of power and performance. The symptoms include slipping gears, delayed shifts, and harsh shifts. The solution is to rebuild or replace the transmission. The estimated cost to fix is $2,500 - $5,000+.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -45,3 +58,15 @@ Despite its impressive performance, the B6 xDrive Gran Coupe has received some c
 **Summary**
 
 Overall, the 2017 BMW Alpina B6 xDrive Gran Coupe is a high-performance luxury sedan that offers an impressive driving experience. However, it has received some complaints from owners regarding engine and transmission issues. The severity of the issues varies, and the cost to fix can be expensive.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

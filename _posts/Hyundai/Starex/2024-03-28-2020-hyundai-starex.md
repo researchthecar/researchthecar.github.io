@@ -34,6 +34,19 @@ The 2020 Hyundai Starex is a versatile minivan available with a 2.5L gasoline en
         * Estimated Cost to Fix: $1,500 - $3,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Mount Failure**
@@ -67,3 +80,15 @@ The 2020 Hyundai Starex is a versatile minivan available with a 2.5L gasoline en
 **Summary**
 
 The 2020 Hyundai Starex is generally a reliable vehicle, but it has some potential issues to consider. The most severe and expensive issues include excessive oil consumption, transmission slippage, and rust on body panels. Regular maintenance and proper care can help mitigate these issues, but owners should be aware of their potential for repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

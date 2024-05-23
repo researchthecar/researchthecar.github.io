@@ -23,6 +23,19 @@ The 2022 Chevrolet Tracker is a subcompact SUV with an agile design and a spacio
 * **Transmission Hesitation/Jerking:** Transmission may hesitate or jerk when shifting gears. Requires software update or transmission replacement. Estimated Cost to Fix: $500 - $1,500
 * **Premature Transmission Failure:** Transmission may fail prematurely due to faulty torque converter or other internal components. Requires transmission rebuild or replacement. Estimated Cost to Fix: $3,000 - $5,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:** Strut mounts may wear prematurely, causing noises or vibrations. Requires strut mount replacement. Estimated Cost to Fix: $500 - $800
@@ -45,3 +58,15 @@ The 2022 Chevrolet Tracker is a subcompact SUV with an agile design and a spacio
 **Summary:**
 
 The 2022 Chevrolet Tracker has received some severe engine and transmission issues that can be costly to repair. The suspension, electrical, and exterior components have also had reported issues. While some of the interior issues are minor, the infotainment system lag can be frustrating for drivers. Overall, the Tracker has some reliability concerns that buyers should consider before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

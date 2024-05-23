@@ -24,6 +24,19 @@ The 2020 Aston Martin DBS is a handcrafted grand tourer with a powerful V12 engi
 * **Harsh shifting:** Transmission shifts roughly during acceleration or deceleration. **Solution:** Update transmission software or replace mechatronics unit. **Estimated Cost to Fix:** $500 - $2,000
 * **Delayed gear engagement:** Transmission hesitates to engage gears, especially from a standstill. **Solution:** Inspect and clean transmission fluid filter. **Estimated Cost to Fix:** $200 - $500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -47,3 +60,15 @@ The 2020 Aston Martin DBS is a handcrafted grand tourer with a powerful V12 engi
 **Summary:**
 
 While the 2020 Aston Martin DBS offers impressive performance, it has faced some reliability issues. Engine problems, such as oil leaks and intake manifold gasket failures, are the most concerning. Transmission issues, electrical glitches, and exterior defects have also been reported. The cost of repairs can be significant, ranging from a few hundred dollars to several thousand dollars.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

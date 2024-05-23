@@ -42,6 +42,19 @@ The 2021 Ford Expedition is a full-size SUV that offers a spacious cabin, powerf
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension Issues:**
 
 * **Front Suspension Bushing Failure:**
@@ -87,3 +100,15 @@ The 2021 Ford Expedition is a full-size SUV that offers a spacious cabin, powerf
 **Summary:**
 
 The 2021 Ford Expedition has some potential issues, but they vary in severity and cost. Engine and transmission problems are relatively rare, but can be expensive to fix. Suspension, electrical, and exterior issues are generally minor and inexpensive to resolve. Interior problems can be more frequent, but are often covered under warranty. Overall, the Expedition is a reliable vehicle, but potential buyers should be aware of these potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

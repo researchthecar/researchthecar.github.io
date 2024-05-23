@@ -30,6 +30,19 @@ The 2021 Land Rover Discovery Sport is a compact premium SUV that offers a refin
     Estimated Cost to Fix: $1,000 - $2,000+
     Recalls: NHTSA ID: 21V961000
     
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension**
@@ -69,3 +82,15 @@ The 2021 Land Rover Discovery Sport is a compact premium SUV that offers a refin
 **Summary**
 
 Overall, the 2021 Land Rover Discovery Sport is a capable and comfortable SUV. However, it is not without its issues. The most common problems reported by owners include oil leaks, transmission shifting issues, and electrical system problems. While some of these issues can be costly to fix, most are relatively minor and can be resolved with a software update or part replacement.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

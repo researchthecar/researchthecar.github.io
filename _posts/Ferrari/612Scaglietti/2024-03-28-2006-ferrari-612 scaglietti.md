@@ -27,6 +27,19 @@ The 2006 Ferrari 612 Scaglietti is a grand tourer produced by Ferrari. It featur
     * Solution: Rebuild or replace the transmission.
     * Estimated Cost to Fix: $5,000 - $15,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension control arm bushing wear:**
@@ -58,3 +71,15 @@ The 2006 Ferrari 612 Scaglietti is a grand tourer produced by Ferrari. It featur
 
 **Summary:**
 The 2006 Ferrari 612 Scaglietti is a highly desirable vehicle with impressive performance and luxurious features. However, like any high-performance vehicle, it is susceptible to certain issues. The most significant issues include oil pan gasket leaks, intake manifold coolant leaks, transmission shudder, and battery discharge. While the cost of repairs can be substantial, the rarity and exclusivity of the 612 Scaglietti often outweigh these potential problems for enthusiasts and collectors.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

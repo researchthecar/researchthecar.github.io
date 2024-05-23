@@ -46,6 +46,19 @@ The 2013 Ford Econoline Van is a full-size cargo or passenger van. It is availab
     * Estimated Cost to Fix: $1,200 - $1,800+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Ball Joint Wear:** The ball joints in the front suspension may wear prematurely, causing loose steering, vibration, and increased tire wear.
@@ -93,3 +106,15 @@ The 2013 Ford Econoline Van is a full-size cargo or passenger van. It is availab
 **Summary:**
 
 The 2013 Ford Econoline Van has received mixed reviews. While it offers spaciousness and powerful engines, it has also been plagued by various issues that can affect its reliability and safety. The engine and transmission problems, in particular, can be costly to repair. The suspension, electrical, exterior, and interior components have also experienced problems to varying degrees of severity. Potential buyers should carefully consider the potential costs associated with these issues before purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

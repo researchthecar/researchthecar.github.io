@@ -72,6 +72,19 @@ The Beretta was praised for its sporty handling and aggressive styling. However,
   * Estimated Cost to Fix: $1,500 - $2,500+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure**
@@ -127,3 +140,15 @@ The Beretta was praised for its sporty handling and aggressive styling. However,
 **Summary**
 
 The 1995 Chevrolet Beretta is a reliable car that is relatively inexpensive to maintain. However, it is important to be aware of the potential problems that can occur with this vehicle. Some of the most common issues include engine gasket failures, transmission problems, and suspension issues. The severity of these issues can vary depending on the severity of the problem. The cost of repairs can also vary, so be sure to get a diagnosis from a mechanic before proceeding with any repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

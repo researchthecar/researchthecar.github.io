@@ -33,6 +33,19 @@ The 2017 Land Rover Range Rover Sport is a luxury SUV that combines rugged off-r
 * **Transmission Control Module Failure:** The transmission control module can fail, causing the transmission to shift erratically or not at all. The transmission control module must be replaced. $1500 - $2000+
 * **Torque Converter Failure:** The torque converter can fail, causing the transmission to shudder or slip. The torque converter must be replaced. $2000 - $3000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Compressor Failure:** The air suspension compressor can fail, causing the suspension to sag or become inoperable. The air suspension compressor must be replaced. $1200 - $1800+
@@ -56,3 +69,15 @@ The 2017 Land Rover Range Rover Sport is a luxury SUV that combines rugged off-r
 **Summary**
 
 The 2017 Land Rover Range Rover Sport is a luxurious and capable SUV, but it is also expensive to purchase and maintain. Common issues include fuel pump failure, turbocharger failure, electrical system issues, and sunroof leaks. The cost to fix these issues can vary widely, from a few hundred dollars to several thousand dollars.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

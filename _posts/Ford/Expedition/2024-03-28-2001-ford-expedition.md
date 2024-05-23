@@ -35,6 +35,19 @@ The 2001 Ford Expedition is a full-size SUV with a 4.6L V8 engine and a 4-speed 
         * Solution: Rebuild or replace transmission.
         * Estimated Cost to Fix: $2,000 - $3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension**
@@ -82,3 +95,15 @@ The 2001 Ford Expedition is a full-size SUV with a 4.6L V8 engine and a 4-speed 
 **Summary:**
 
 The 2001 Ford Expedition has a number of reliability concerns, particularly with the engine, transmission, and suspension. These issues can be costly to repair, and some may require major replacements. Potential owners should be aware of these issues and factor in the potential expenses when considering a used Expedition.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

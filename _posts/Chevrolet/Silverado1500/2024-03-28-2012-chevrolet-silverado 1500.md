@@ -44,6 +44,19 @@ The 2012 Chevrolet Silverado 1500 is a full-size pickup truck offered with sever
 
 *Recalls:* None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension noise:** Creaking or clunking noises may come from the front suspension, especially while driving over uneven surfaces. The issue is often caused by worn or damaged ball joints or control arms. Replacing these components can cost between $500-$1,000 per side.
@@ -74,3 +87,15 @@ The 2012 Chevrolet Silverado 1500 is a full-size pickup truck offered with sever
 **Summary:**
 
 The 2012 Chevrolet Silverado 1500 has experienced a variety of issues, including engine lifter failures, transmission problems, suspension noise, electrical drain, and interior noises. The severity and cost of repairs vary depending on the specific issue. It is important to note that not all vehicles will experience these problems, and the overall reliability of the Silverado is still considered to be good.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

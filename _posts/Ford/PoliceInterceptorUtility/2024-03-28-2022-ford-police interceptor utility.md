@@ -24,6 +24,19 @@ The 2022 Ford Police Interceptor Utility is a highly versatile and capable vehic
  * Estimated Cost to Fix: $500 - $2,000+
  * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **No Issues Found**
 
@@ -56,3 +69,15 @@ The 2022 Ford Police Interceptor Utility is a highly versatile and capable vehic
 
 **Summary:**
 The 2022 Ford Police Interceptor Utility generally receives positive feedback for its performance and capabilities. However, it has some notable issues, including fuel injector malfunctions, transmission shifting problems, electrical harness issues, and dashboard cracks. The severity of these issues can vary, and some may require costly repairs. Potential buyers should be aware of these potential problems before purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

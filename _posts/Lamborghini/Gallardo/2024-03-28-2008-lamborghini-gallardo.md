@@ -44,6 +44,19 @@ The 2008 Lamborghini Gallardo is a mid-engine sports car that offers an exhilara
         * **Solution:** Repair or replace leaking hydraulic lines.
         * **Estimated Cost to Fix:** $500 - $1,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arm Bushings:**
@@ -91,3 +104,15 @@ The 2008 Lamborghini Gallardo is a mid-engine sports car that offers an exhilara
 **Summary:**
 
 Overall, the 2008 Lamborghini Gallardo has some potential issues and recalls, but the severity and cost of these problems can vary significantly. The engine and transmission issues are generally more expensive to fix, while interior and exterior issues are typically less costly. It's recommended to research common problems, perform regular maintenance, and consult with a qualified mechanic to address any concerns or potential issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

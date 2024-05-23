@@ -46,6 +46,19 @@ Despite its affordable price point, the Astra offered a comfortable ride, spacio
 -- Estimated Cost to Fix: $1,500 - $3,000
 -- Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Strut Mounts Wear:**
 -- Description/Symptoms: Noise and vibration during bumps, poor handling
@@ -87,3 +100,15 @@ Despite its affordable price point, the Astra offered a comfortable ride, spacio
 **Summary**
 
 The 2001 Chevrolet Astra is plagued by several mechanical issues, particularly with the engine and transmission. The cost to fix these problems can be significant, ranging from a few hundred dollars to several thousand dollars. Additionally, the Astra's unreliable electronics, interior problems, and poor fuel economy make it a less desirable choice for potential buyers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -75,6 +75,19 @@ Owners of the 2012 Chevrolet Equinox generally praise its roomy interior, comfor
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Lower Control Arm Bushing Failure**
@@ -139,3 +152,15 @@ Owners of the 2012 Chevrolet Equinox generally praise its roomy interior, comfor
 **Summary**
 
 The 2012 Chevrolet Equinox has a number of potential issues, including engine problems, transmission problems, suspension problems, and electrical problems. Some of these issues can be costly to fix, and some can even affect the safety of the vehicle. However, the Equinox is also a popular vehicle with many positive qualities, such as a roomy interior, comfortable ride, and powerful engines. Potential buyers should be aware of the potential issues with this vehicle before making a purchase, and should also consider the cost of fixing these issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

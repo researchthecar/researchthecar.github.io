@@ -32,6 +32,19 @@ The 2021 BMW M850i xDrive Gran Coupe is a high-performance luxury car that combi
     - Estimated Cost to Fix: $2,000 - $3,000
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Air Suspension Compressor Failure:**
     - Description/Symptoms: The air suspension compressor fails, leading to a loss of ride height and uneven suspension.
@@ -58,3 +71,15 @@ No issues found.
 
 **Summary:**
 The 2021 BMW M850i xDrive Gran Coupe is a high-performance luxury car with a number of potential issues. While some issues like oil leaks and battery drain are relatively minor and inexpensive to fix, more severe problems such as timing chain failure and mechatronic unit failure can be costly and time-consuming to repair. Overall, the severity and cost of the issues vary depending on the specific component and the extent of the damage. It's important for owners to be aware of these potential issues and to have their vehicles regularly inspected and maintained to prevent or address them promptly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

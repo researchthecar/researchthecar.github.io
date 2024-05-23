@@ -57,6 +57,19 @@ While the Grand Caravan is appreciated for its practicality and value, it has re
     * Estimated Cost to Fix: $200 - $400
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Failure**
@@ -97,3 +110,15 @@ While the Grand Caravan is appreciated for its practicality and value, it has re
 **Summary**
 
 The 2016 Dodge Grand Caravan is a practical and versatile minivan, but it has received criticism for its dated interior and lack of refinement. Common issues with the vehicle include engine coolant leaks, timing chain noise, shifting problems, suspension noise, and electrical system failures. The severity of these issues ranges from minor inconveniences to major repairs, and the costs to fix them can be significant, especially for transmission or engine replacements.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -29,6 +29,19 @@ The 1999 Maserati Quattroporte is a high-performance luxury sedan that was power
     * Estimated Cost to Fix: $2,500 - $5,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -84,3 +97,15 @@ The 1999 Maserati Quattroporte is a high-performance luxury sedan that was power
 The 1999 Maserati Quattroporte is a desirable luxury sedan that has been praised for its performance and style. However, it is not without its issues. The most common problems reported include engine oil leaks, transmission slippage, suspension component failures, electrical issues, and minor interior and exterior concerns.
 
 The severity and cost of these issues vary, with some requiring only minor repairs while others can be more expensive. It is important for potential owners to be aware of these potential problems and factor them into their decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

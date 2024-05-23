@@ -48,6 +48,19 @@ The Silverado 6500 HD is known for its powerful engines, strong towing and hauli
 
 * **No Major Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf Spring Breakage:**
@@ -88,3 +101,15 @@ The Silverado 6500 HD is known for its powerful engines, strong towing and hauli
 **Summary**
 
 The 2020 Chevrolet Silverado 6500 HD is a capable heavy-duty truck, but it has been subject to some issues. Engine and transmission problems are a concern, especially with the diesel engine. Other issues include suspension, electrical, and interior components. The severity and cost of these issues vary, but some can be significant.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

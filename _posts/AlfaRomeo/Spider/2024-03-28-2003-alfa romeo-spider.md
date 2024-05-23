@@ -46,6 +46,19 @@ The 2003 Alfa Romeo Spider is a stylish Italian sports car known for its sleek d
   * Estimated Cost to Fix: $1,200 - $2,000+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mounts Failure:** Worn strut mounts can result in excessive noise, vibration, and poor handling.
@@ -93,3 +106,15 @@ The 2003 Alfa Romeo Spider is a stylish Italian sports car known for its sleek d
 **Summary**
 
 The 2003 Alfa Romeo Spider is a stylish and engaging sports car, but it is not without its potential issues. The most common problems reported by owners involve the engine, transmission, and suspension components. While some repairs can be relatively inexpensive, others can be costly and time-consuming. It is important for prospective buyers to be aware of these potential issues before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -39,6 +39,19 @@ Owners praise the Stelvio for its thrilling performance, luxurious interior, and
         - Estimated Cost to Fix: $4,000 - $6,000+
         - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Adaptive Suspension Malfunction:**
     - Description/Symptoms: Suspension warning lights, uneven ride quality, and potential loss of control
@@ -71,3 +84,15 @@ Owners praise the Stelvio for its thrilling performance, luxurious interior, and
 **Summary:**
 
 The 2021 Alfa Romeo Stelvio has some reported issues, including engine timing chain failure, transmission slipping, and suspension malfunctions. While these issues can be costly to fix, they are not widespread and do not appear to be a major problem for most owners. However, potential buyers should be aware of these possible concerns before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

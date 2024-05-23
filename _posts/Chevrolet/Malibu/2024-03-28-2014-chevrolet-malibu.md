@@ -33,6 +33,19 @@ The 2014 Chevrolet Malibu is a midsize sedan known for its spacious interior, sm
     - Estimated Cost to Fix: $3,000 - $4,000+
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Front suspension:**
   - **Strut mount bearing failure:**
@@ -76,3 +89,15 @@ The 2014 Chevrolet Malibu is a midsize sedan known for its spacious interior, sm
 **Summary**
 
 The 2014 Chevrolet Malibu has several potential issues, ranging from minor to severe. The most common problems include intake manifold gasket failure, torque converter shudder, suspension component failures, and electrical issues. The cost of these repairs can vary widely, with some issues being relatively inexpensive to fix while others are quite costly. Overall, the Malibu's reliability is a concern, and buyers should be aware of these potential problems before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -36,6 +36,19 @@ The 1997 Chevrolet Astro is a popular minivan known for its spacious interior, p
 
 * **Clutch Failure:** The clutch may wear out over time or due to improper use. Symptoms include difficulty engaging gears or slipping during acceleration. Solution involves replacing the clutch. Estimated cost: $400 - $800+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Ball Joint Wear:** The front ball joints connect the lower control arms to the steering knuckles. They can wear out over time, causing clunking noises while driving and affecting vehicle handling. Solution involves replacing the ball joints. Estimated cost: $200 - $400+ per side
@@ -59,3 +72,15 @@ The 1997 Chevrolet Astro is a popular minivan known for its spacious interior, p
 **Summary**
 
 The 1997 Chevrolet Astro is a reliable and versatile vehicle, but it has some common issues that can affect its performance and comfort. While some issues are relatively minor and inexpensive to fix, others, such as engine and transmission problems, can be more severe and costly. Potential owners should be aware of these potential issues and factor them into their purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

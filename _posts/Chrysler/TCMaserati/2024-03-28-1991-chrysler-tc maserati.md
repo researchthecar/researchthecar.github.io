@@ -39,6 +39,19 @@ The 1991 Chrysler TC Maserati was a limited-edition collaboration between Chrysl
     * Solution: Torque converter replacement.
     * Estimated Cost to Fix: $3,000 - $5,000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Ball Joint Wear:**
@@ -78,3 +91,15 @@ The 1991 Chrysler TC Maserati was a limited-edition collaboration between Chrysl
 **Summary:**
 
 The 1991 Chrysler TC Maserati faced numerous issues, including major engine and transmission problems. The estimated cost of repairs for these issues can be substantial, ranging from $1,000 to over $10,000 per issue. The electrical system and suspension also had their share of problems, which could lead to further expenses. As a result, owning a Chrysler TC Maserati can be a costly and unreliable experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

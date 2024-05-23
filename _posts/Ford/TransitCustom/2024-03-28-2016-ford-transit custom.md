@@ -27,6 +27,19 @@ The 2016 Ford Transit Custom is a popular commercial van known for its spacious 
 
 * **Transmission Fluid Leaks:** Leaks can occur from the transmission seals or gaskets. Replacing the faulty components and topping up the transmission fluid usually fixes the issue. **Estimated Cost to Fix:** $500 - $1,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Suspension**
@@ -60,3 +73,15 @@ The 2016 Ford Transit Custom is a popular commercial van known for its spacious 
 **Summary**
 
 Overall, the 2016 Ford Transit Custom is a reliable van with a spacious interior and versatile configurations. However, some common issues affecting the engine, transmission, suspension, electrical, exterior, and interior components can occur. The severity of these issues varies, and repair costs can range from minor to moderate. Regular maintenance and timely repairs are crucial to minimize the risk of breakdowns and extend the vehicle's lifespan.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

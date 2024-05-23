@@ -37,6 +37,19 @@ People who like the Audi TT Quattro appreciate its stylish design, powerful engi
     * Solution: Replace the clutch.
     * Estimated Cost to Fix: $1,500 - $2,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** The front struts may fail, causing the car to bounce excessively and lose stability.
@@ -73,3 +86,15 @@ People who like the Audi TT Quattro appreciate its stylish design, powerful engi
 **Summary**
 
 The 2020 Audi TT Quattro is a reliable and fun-to-drive sports car. However, it is not without its problems. Some of the most common issues include oil leaks, timing chain tensioner failure, and suspension problems. The severity and cost of these issues vary, but some can be quite expensive to fix. Overall, the Audi TT Quattro is a good choice for drivers who are looking for a stylish and sporty car, but they should be aware of the potential problems that come with it.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

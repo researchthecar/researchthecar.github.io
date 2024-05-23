@@ -28,6 +28,19 @@ Recalls:
 Recalls:
 * **NHTSA Campaign Number 20V320000:** Transmission may not shift out of park
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front suspension:**
   * **Ball joint failure:** The ball joints may fail, causing the front suspension to collapse. The ball joints need to be replaced. $500 - $800+
@@ -56,3 +69,15 @@ Recalls:
 
 **Overall Summary**
 The 2020 Jeep Gladiator is a capable off-road truck, but it has received some complaints about its reliability. The severity and cost of the issues vary, with some being minor and inexpensive to fix, while others can be major and more expensive. The most common issues seem to be related to the engine, transmission, and electrical systems. If you are considering purchasing a 2020 Jeep Gladiator, be sure to do your research and be aware of the potential problems that you may encounter.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -37,6 +37,19 @@ The 1995 Ford Thunderbird was a sleek and stylish personal luxury coupe that off
   * Estimated Cost to Fix: $1,500 - $2,500+
   * Recalls: NHTSA Campaign ID 01V171000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Noise:** The front suspension can make clunking or squeaking noises when driving over bumps.
@@ -68,3 +81,15 @@ The 1995 Ford Thunderbird was a sleek and stylish personal luxury coupe that off
 **Summary**
 
 The 1995 Ford Thunderbird was a problematic vehicle with numerous issues that could affect its reliability, performance, and safety. The most severe and costly issues include transmission slippage, intake manifold gasket leaks, and electrical system faults. While the Thunderbird offered a stylish design and comfortable ride, its numerous problems detracted from its overall appeal.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

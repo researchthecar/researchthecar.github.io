@@ -45,6 +45,19 @@ The 2007 Lamborghini Murcielago is a high-performance supercar produced by Lambo
         * Estimated Cost to Fix: $500 - $1,500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * No Issues Found
 
@@ -71,3 +84,15 @@ The 2007 Lamborghini Murcielago is a high-performance supercar produced by Lambo
 
 **Summary:**
 The 2007 Lamborghini Murcielago is a highly capable supercar with impressive performance and aggressive styling. However, it is important to be aware of potential issues such as oil leaks, transmission problems, and electrical faults. The cost to repair these issues can be significant, so it is essential to consider the cost of maintenance and repairs when purchasing a used Murcielago.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

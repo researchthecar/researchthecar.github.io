@@ -51,6 +51,19 @@ The 2011 Chevrolet Silverado 2500 HD is a heavy-duty pickup truck that offers a 
     * Estimated Cost to Fix: $600 - $1,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front Suspension Strut Failure:**
     * Description/Symptoms: Excessive noise, poor handling, uneven tire wear
@@ -82,3 +95,15 @@ The 2011 Chevrolet Silverado 2500 HD is a heavy-duty pickup truck that offers a 
 **Summary**
 
 The 2011 Chevrolet Silverado 2500 HD has a range of issues that vary in severity and cost. Some issues, such as the engine intake manifold leak and the transmission shift solenoid failure, are relatively minor and inexpensive to fix. However, other issues, such as the timing chain failure and the injector failure, can be more serious and costly. Overall, the Silverado 2500 HD is a capable and reliable truck, but it is important to be aware of the potential issues that may arise.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -41,6 +41,19 @@ Solution: Replacement of the mechatronic unit.
 Estimated Cost to Fix: $5,000 - $7,000+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Upper Control Arm Bushing Failure:**
@@ -82,3 +95,15 @@ Recalls: None Found
 **Summary:**
 
 The 2011 Lamborghini Gallardo is an outstanding sports car, but it is not without potential issues. The engine and transmission are prone to some mechanical problems, while the suspension, electrical system, and interior can also experience failures. The severity of these issues varies, with some being relatively minor, while others can be costly to repair. If you are considering purchasing a Gallardo, it is essential to be aware of these potential problems and factor them into your decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

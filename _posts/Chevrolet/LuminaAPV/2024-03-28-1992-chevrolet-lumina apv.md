@@ -37,6 +37,19 @@ The 1992 Chevrolet Lumina APV was a versatile minivan offered with two engine op
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Worn shock absorbers**
@@ -72,3 +85,15 @@ The 1992 Chevrolet Lumina APV was a versatile minivan offered with two engine op
 **Summary**
 
 The 1992 Chevrolet Lumina APV was a spacious and comfortable minivan, but its reliability was hindered by a number of issues affecting various components, including the engine, transmission, suspension, electrical system, and interior. The severity of these issues and their potential cost to fix can make the Lumina APV a risky choice for those seeking a dependable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

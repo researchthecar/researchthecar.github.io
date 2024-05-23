@@ -34,6 +34,19 @@ The 2021 Ford Transit Custom is a versatile cargo van that offers impressive per
   * Estimated Cost to Fix: $200 - $600+
   * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -75,3 +88,15 @@ The 2021 Ford Transit Custom is a versatile cargo van that offers impressive per
 
 **Summary**
 The 2021 Ford Transit Custom has received mixed reviews, with some common issues reported by owners. The engine issues are generally more severe and costly to repair, while the transmission issues are more frequent but typically less expensive. The electrical and exterior issues are relatively minor and usually involve replacing a specific component. The interior issues are primarily related to the climate control system and seat adjustment mechanisms. Overall, the vehicle offers a solid performance and practical functionality, but some owners may face issues with certain components that can add to the ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

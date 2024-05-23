@@ -38,6 +38,19 @@ The Prizm was praised for its fuel efficiency, reliability, and spacious interio
 
 * **Belt or chain failure:** Can cause the transmission to fail completely. Solution: Replace the CVT belt or chain. Estimated Cost to Fix: $2,000 - $3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut or shock absorber failure:** Can cause poor handling, excess body roll, and uneven tire wear. Solution: Replace the struts or shock absorbers. Estimated Cost to Fix: $300 - $600+ per axle
@@ -62,3 +75,15 @@ The Prizm was praised for its fuel efficiency, reliability, and spacious interio
 **Summary:**
 
 The 1998 Chevrolet Prizm is a reliable and fuel-efficient compact sedan. However, it has been known to experience some issues with its engine, transmission, suspension, electrical system, and interior. The severity and cost of these issues vary, but some can be costly to repair. Overall, the Prizm is a decent value for the money, but it is important to be aware of the potential problems that it may encounter.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

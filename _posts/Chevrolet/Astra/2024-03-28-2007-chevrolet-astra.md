@@ -60,6 +60,19 @@ The 2007 Chevrolet Astra is a compact hatchback available with three engine opti
     * **Estimated Cost to Fix:** $200 - $300
     * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -97,3 +110,15 @@ The 2007 Chevrolet Astra is a compact hatchback available with three engine opti
 **Summary**
 
 The 2007 Chevrolet Astra has a mixed record of reliability, with some common issues in key areas. Engine concerns include oil consumption, timing chain tensioner failure, and head gasket failure, while the transmission is relatively trouble-free. Electrical issues such as alternator failure and battery drain are also present. Interior problems like climate control issues and dashboard squeaks and rattles can be annoying. Overall, the Astra's reliability issues are moderate in severity and may require occasional repairs, affecting its overall ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

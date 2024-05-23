@@ -40,6 +40,19 @@ The S5 Sportback has received praise for its impressive performance, comfortable
     * Estimated Cost to Fix: $1,000 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Noise**
@@ -75,3 +88,15 @@ The S5 Sportback has received praise for its impressive performance, comfortable
 **Summary**
 
 Overall, the issues reported with the 2020 Audi S5 Sportback are not widespread and the severity of the problems varies. Some issues, such as oil leaks and carbon buildup, can be costly to repair but may not occur frequently. Other issues, such as trunk lid struts and infotainment lag, are relatively minor and less expensive to fix. It is important to note that not all vehicles will experience these issues, and proper maintenance and care can help minimize the risk of problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

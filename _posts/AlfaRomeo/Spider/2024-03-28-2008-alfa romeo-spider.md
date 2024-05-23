@@ -52,6 +52,19 @@ Owners of the 2008 Alfa Romeo Spider have praised the car's stylish design, resp
   - Estimated Cost to Fix: $500 - $1,000+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Failure:**
@@ -92,3 +105,15 @@ Owners of the 2008 Alfa Romeo Spider have praised the car's stylish design, resp
 **Summary**
 
 The 2008 Alfa Romeo Spider is a stylish and powerful convertible sports car. However, it has been reported to have several issues, particularly with the engine, transmission, suspension, and electrical systems. Some of these issues can be costly to fix, so it is important for potential buyers to be aware of them before purchasing a used Spider.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

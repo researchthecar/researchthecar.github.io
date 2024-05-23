@@ -31,6 +31,19 @@ The 2015 Chevrolet Aveo is a compact sedan powered by a sole 1.6L ECOTEC I-4 eng
         * Estimated Cost to Fix: $1,500 - $3,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Bearing Failure:** The strut mount bearings can fail, causing clunking or rattling noises from the front end.
@@ -78,3 +91,15 @@ The 2015 Chevrolet Aveo is a compact sedan powered by a sole 1.6L ECOTEC I-4 eng
 **Summary:**
 
 The 2015 Chevrolet Aveo is plagued by a wide range of issues that can lead to costly repairs. Engine problems, transmission failures, and electrical malfunctions are particularly common. While the vehicle offers decent fuel economy and a roomy interior, its poor reliability can be a major concern for potential buyers. The severity of the issues varies, but many can result in significant inconvenience and expenses.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

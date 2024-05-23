@@ -61,6 +61,19 @@ The 2006 Ford Expedition is a full-size SUV available with two engine options: a
     * Solution: Replace solenoid
     * Estimated Cost to Fix: $500 - $1000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Air Suspension Compressor Failure:**
@@ -124,3 +137,15 @@ The 2006 Ford Expedition is a full-size SUV available with two engine options: a
 **Summary**
 
 The 2006 Ford Expedition has experienced a range of issues across various components, including the engine, transmission, suspension, electrical, exterior, and interior. Some of the more severe and costly issues include valve timing solenoid failure, crankshaft position sensor failure, torque converter lockup clutch failure, and heater core leak. The severity and cost of these issues can vary depending on the specific problem and its underlying cause. Potential buyers and owners should be aware of these potential issues and factor them into their decision-making or repair planning.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

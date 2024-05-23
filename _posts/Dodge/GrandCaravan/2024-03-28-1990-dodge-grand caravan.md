@@ -55,6 +55,19 @@ The 1990 Dodge Grand Caravan, a popular family minivan, was offered with a varie
     * Solution: Replace the transmission pan gasket or transmission seals
     * Estimated Cost to Fix: $200 - $500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front ball joint failure:**
@@ -102,3 +115,15 @@ The 1990 Dodge Grand Caravan, a popular family minivan, was offered with a varie
 **Summary**
 
 The 1990 Dodge Grand Caravan is a reliable and versatile vehicle, but it is not without its common issues. The most severe issues revolve around the engine, such as blown head gaskets and timing belt failures. These repairs can be costly, ranging from $1000 to $2500 or more. Other issues, such as transmission slipping and electrical problems, are also relatively common and can be expensive to fix. Exterior and interior issues are less serious, but they can still detract from the vehicle's overall appeal.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

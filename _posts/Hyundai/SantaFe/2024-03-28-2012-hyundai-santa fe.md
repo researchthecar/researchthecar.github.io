@@ -48,6 +48,19 @@ Owners generally praise the Santa Fe for its spacious interior, comfortable ride
     * Estimated Cost to Fix: $300 - $600
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * No Issues Found
@@ -89,3 +102,15 @@ Owners generally praise the Santa Fe for its spacious interior, comfortable ride
 **Summary:**
 
 The 2012 Hyundai Santa Fe is overall a reliable vehicle, but it has some potential issues that owners should be aware of. The engine issues, primarily with the 2.4-liter inline-four, are relatively common and can be costly to fix. The transmission issues, while less common, can also be expensive to address. Other issues, such as battery drain and dashboard cracking, are not as severe and can typically be fixed for a more reasonable cost.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

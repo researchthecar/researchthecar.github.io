@@ -21,6 +21,19 @@ Recalls: None Found
     * **Solenoid failure:** Solenoid failure can cause shifting problems and transmission failure. The solenoids need to be replaced. - Estimated Cost to Fix: $500 - $1,500
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front strut failure:** Front strut failure can cause a knocking noise, poor handling, and uneven tire wear. The front struts need to be replaced. - Estimated Cost to Fix: $800 - $1,500
 * **Rear shock failure:** Rear shock failure can cause a bouncy ride, poor handling, and uneven tire wear. The rear shocks need to be replaced. - Estimated Cost to Fix: $500 - $1,000
@@ -43,3 +56,15 @@ Recalls: None Found
 
 **Summary**
 The 2017 Chevrolet Caprice is a spacious and powerful sedan, but it has been reported to have some issues. The most severe issues include engine intake manifold cracking, transmission slipping, and suspension component failure. These issues can be expensive to fix, costing upwards of $4,000. However, many of the other issues are relatively minor and can be fixed for a few hundred dollars. Overall, the Caprice is a reliable vehicle, but it is important to be aware of the potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

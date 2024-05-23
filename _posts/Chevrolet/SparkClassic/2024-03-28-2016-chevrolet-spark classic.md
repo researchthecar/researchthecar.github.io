@@ -47,6 +47,19 @@ The 2016 Chevrolet Spark Classic is a compact hatchback powered by a 1.2-liter e
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Bearing Failure:**
@@ -97,3 +110,15 @@ The 2016 Chevrolet Spark Classic is a compact hatchback powered by a 1.2-liter e
 **Summary:**
 
 Overall, the 2016 Chevrolet Spark Classic has some potential issues, but the severity and cost of repairs vary depending on the problem. Engine issues are among the most serious and expensive, particularly timing chain issues, while minor issues like interior rattling or door handle problems are less costly. Despite its affordability, the Spark Classic's reliability concerns may deter some potential buyers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

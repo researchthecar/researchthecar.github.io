@@ -34,6 +34,19 @@ Some of the things people like about the Rapide include its stylish design, luxu
         * Estimated Cost to Fix: $2,000 - $3,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -61,3 +74,15 @@ Some of the things people like about the Rapide include its stylish design, luxu
 **Summary**
 
 The 2011 Aston Martin Rapide is a powerful and stylish grand tourer. However, it is important to be aware of the potential issues that can occur with this vehicle. The most serious issues include intake camshaft failure, crankshaft position sensor failure, and torque converter failure. These issues can be expensive to fix, so it is important to factor in the cost of potential repairs when considering purchasing a Rapide.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

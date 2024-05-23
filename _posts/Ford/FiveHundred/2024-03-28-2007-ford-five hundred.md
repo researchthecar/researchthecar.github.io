@@ -46,6 +46,19 @@ The 2007 Ford Five Hundred is a full-size sedan that was popular for its spaciou
     * Estimated Cost to Fix: $150 - $300
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mounts Worn Out:** The strut mounts may wear out, causing a clunking or rattling noise.
@@ -93,3 +106,15 @@ The 2007 Ford Five Hundred is a full-size sedan that was popular for its spaciou
 **Summary**
 
 The 2007 Ford Five Hundred is generally a reliable vehicle, but it does have some potential issues that owners should be aware of. The engine may develop knocking or oil leaks, while the transmission may experience slipping or fluid leaks. The suspension may deteriorate over time, leading to decreased handling and stability. Electrical issues can include battery drains or system malfunctions. The exterior may experience windshield wiper motor failure, while the interior may suffer from seat bolster wear or dashboard trim peeling. The cost of these repairs can range from relatively inexpensive to significant, so it is important to factor in potential maintenance expenses when considering purchasing a Five Hundred.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

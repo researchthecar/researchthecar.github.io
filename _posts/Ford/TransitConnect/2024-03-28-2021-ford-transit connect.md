@@ -25,6 +25,19 @@ Owners of the 2021 Transit Connect appreciate its spacious cargo area, maneuvera
     * **Transmission Fluid Leak:** Leaking fluid from the transmission pan or seals. Replacement of the leaking gaskets or seals. $200 - $500+
     * **Shift Solenoid Failure:** Gear slipping or hesitation, illuminated check engine light. Replacement of the faulty solenoid. $300 - $700+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Failure:** Leaking struts, excessive noise, poor handling. Replacement of the front struts. $600 - $1,200+
@@ -49,3 +62,15 @@ Owners of the 2021 Transit Connect appreciate its spacious cargo area, maneuvera
 **Summary:**
 
 The 2021 Ford Transit Connect is a versatile cargo van with some reported issues. The severity and cost of the problems vary, ranging from minor inconveniences to potentially costly repairs. Owners should be aware of these potential issues and consider regular maintenance to address them proactively. If you experience any of these problems with your Transit Connect, it's recommended to seek professional repair to ensure safe and reliable operation.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

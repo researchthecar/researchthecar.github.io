@@ -42,6 +42,19 @@ The 2006 Chevrolet Epica is a mid-size sedan powered by a 2.0L or 2.5L inline-4 
         * Estimated Cost to Fix: $1,500 - $2,500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -77,3 +90,15 @@ The 2006 Chevrolet Epica is a mid-size sedan powered by a 2.0L or 2.5L inline-4 
 **Summary**
 
 The 2006 Chevrolet Epica has a number of significant issues, particularly with its engine and transmission. These problems can be costly to repair and detract from the vehicle's overall reliability. While it offers a comfortable interior and a decent feature set, the severe engine, transmission, and electrical issues undermine its value proposition.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -38,6 +38,19 @@ Despite its strengths, the 1998 Ford Expedition is known for experiencing severa
 
 - **Harsh Shifting:** Rough or delayed gear changes indicate a problem with the transmission control module or transmission hydraulics. Diagnostic testing and repair or replacement of affected components is necessary. $500 - $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Leaking Struts:** Worn strut seals lead to fluid leakage and reduced ride quality. Replacement of struts is required. $500 - $1,000+ per axle
@@ -65,3 +78,15 @@ Despite its strengths, the 1998 Ford Expedition is known for experiencing severa
 **Summary:**
 
 The 1998 Ford Expedition is a capable SUV but has a history of potential issues in various components. The most severe and costly problems include cam phasor failure in the 5.4L V8 engine, which can require significant repairs, and instrument cluster failure. Other issues, such as suspension leaks and dashboard cracking, are more common but less costly to address. Prospective buyers should be aware of these potential issues and consider their impact on ownership costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

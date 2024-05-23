@@ -31,6 +31,19 @@ The 2009 Chevrolet W5500HD Tiltmaster is a heavy-duty commercial truck designed 
         - Estimated Cost to Fix: $500 - $1,500
         - Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **No Issues Found**
 
@@ -63,3 +76,15 @@ The 2009 Chevrolet W5500HD Tiltmaster is a heavy-duty commercial truck designed 
 **Summary**
 
 Overall, the 2009 Chevrolet W5500HD Tiltmaster is a reliable and capable work truck. However, it is important to be aware of potential issues such as injection pump failure, slipping gears in the transmission, and corrosion on the frame. The severity and cost of these issues can vary, but regular maintenance and timely repairs can help extend the life of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

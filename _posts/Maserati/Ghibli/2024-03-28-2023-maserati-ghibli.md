@@ -31,6 +31,19 @@ The Ghibli has received praise for its stylish design, comfortable interior, and
 
 * **Shifting Problems:** The transmission may experience delayed shifts, slipping gears, or harsh shifting. Symptoms include rough or hesitant shifting, difficulty engaging gears, and illuminated check engine light. The solution is to reprogram the transmission control module or replace the transmission. Estimated cost to fix: $1,000 - $2,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:** The strut mounts may fail, resulting in a clunking or grinding noise when driving over bumps. Symptoms include excessive vibration, uneven tire wear, and impaired handling. The solution is to replace the strut mounts. Estimated cost to fix: $500 - $1,000+
@@ -54,3 +67,15 @@ The Ghibli has received praise for its stylish design, comfortable interior, and
 **Summary**
 
 Overall, the 2023 Maserati Ghibli is a well-rounded luxury sports sedan with impressive performance and features. However, some owners have reported issues with certain components, including the turbocharger, transmission, suspension, electrical system, and interior. The severity and cost of these issues can vary depending on the specific problem and the extent of the damage. It is important for potential buyers to be aware of these issues and factor them into their purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -54,6 +54,19 @@ The 1996 Chrysler Intrepid is a mid-size sedan available with three different en
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Sway Bar End Link Failure**
@@ -85,3 +98,15 @@ The 1996 Chrysler Intrepid is a mid-size sedan available with three different en
 **Summary:**
 
 The 1996 Chrysler Intrepid has some known issues with its engine, transmission, suspension, and electrical systems. The most common problems include intake manifold gasket failure, timing chain tensioner failure, transmission solenoid pack failure, and climate control malfunction. The cost to fix these issues typically ranges from $100 to $1200.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

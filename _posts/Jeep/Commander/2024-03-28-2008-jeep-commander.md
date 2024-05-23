@@ -80,6 +80,19 @@ The Commander was praised for its spacious interior, powerful engines, and off-r
     * Estimated Cost to Fix: $1,000 - $1,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure**
@@ -135,3 +148,15 @@ The Commander was praised for its spacious interior, powerful engines, and off-r
 ### Summary
 
 The 2008 Jeep Commander is a midsize SUV that was praised for its spacious interior and powerful engines. However, it was also criticized for its poor fuel economy, cramped third row, and lack of modern features. Some of the most common issues include intake manifold gasket failure, timing chain tensioner failure, head gasket failure, oil pump failure, transmission solenoid failure, torque converter failure, control module failure, and overdrive failure. Overall, the Commander is a reliable vehicle but it can be expensive to fix some of the more common issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

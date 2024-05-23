@@ -40,6 +40,19 @@ The 2006 Chevrolet Optra is a compact sedan that was available in the United Sta
         * Estimated Cost to Fix: $2,000 - $3,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure**
@@ -89,3 +102,15 @@ The 2006 Chevrolet Optra is a compact sedan that was available in the United Sta
 **Summary**
 
 The 2006 Chevrolet Optra is a generally reliable vehicle, but it can experience some common issues, including head gasket failure, intake manifold gasket failure, and transmission problems. The cost of repairs for these issues can vary significantly depending on the severity of the problem and the location of the repair. Overall, the Optra is a good choice for a budget-minded consumer who is looking for a reliable compact sedan.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -29,6 +29,19 @@ The 2023 Chevrolet Traverse is a three-row SUV that offers a spacious interior, 
     * Estimated Cost to Fix: $2,000-$5,000
     * Recalls: NHTSA Campaign Number: 23V138000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut mount failure:**
@@ -82,3 +95,15 @@ The 2023 Chevrolet Traverse is a three-row SUV that offers a spacious interior, 
 **Summary**
 
 The 2023 Chevrolet Traverse has received a number of complaints about issues with its engine, transmission, suspension, electrical system, exterior, and interior. While some of these issues are minor and relatively inexpensive to fix, others can be more severe and costly. Overall, the reliability of the Traverse is below average, and potential buyers should be aware of the potential problems before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

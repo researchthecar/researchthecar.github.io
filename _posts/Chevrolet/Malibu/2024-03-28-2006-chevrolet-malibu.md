@@ -48,6 +48,19 @@ People who enjoy the 2006 Chevrolet Malibu praise its spacious interior, comfort
 * **6-Speed Automatic Transmission**
     * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arms:** The front lower control arms can wear out, causing clunking noises and decreased handling.
@@ -95,3 +108,15 @@ People who enjoy the 2006 Chevrolet Malibu praise its spacious interior, comfort
 **Summary**
 
 The 2006 Chevrolet Malibu has received generally positive reviews, but some owners have reported issues with specific components. The most commonly reported issues include intake manifold gasket failure, timing chain tensioner failure, and transmission solenoid failure. The severity and cost of repairs for these issues can vary depending on the specific problem and the vehicle's mileage and condition. Overall, the 2006 Chevrolet Malibu is a reliable vehicle with a spacious interior and a comfortable ride, but potential buyers should be aware of the potential issues listed above before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

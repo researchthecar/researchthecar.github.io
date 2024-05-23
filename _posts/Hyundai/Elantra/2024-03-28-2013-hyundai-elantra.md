@@ -44,6 +44,19 @@ The 2013 Hyundai Elantra is a compact car offered in various trim levels. It com
         * Estimated Cost to Fix: $1,000 - $2,000
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Rear suspension noise and vibration**
     * Description/Symptoms: Clunking or rattling noises coming from the rear suspension
@@ -79,3 +92,15 @@ The 2013 Hyundai Elantra is a compact car offered in various trim levels. It com
 
 **Summary:**
 Overall, the 2013 Hyundai Elantra has several significant issues that can be costly to repair. The engine bearing failure is a major concern that can lead to catastrophic engine failure. The transmission issues can also be problematic, causing power loss and difficulty shifting gears. The suspension, electrical, and interior issues are less severe but can still be annoying and costly to fix. Potential buyers should be aware of these issues before purchasing a 2013 Hyundai Elantra.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

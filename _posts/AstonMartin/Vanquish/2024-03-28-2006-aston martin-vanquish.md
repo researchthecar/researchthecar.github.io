@@ -43,6 +43,19 @@ Solution: Replace the valve body.
 Estimated Cost to Fix: $2000 - $3000+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Upper Control Arm Bushing Failure**
@@ -84,3 +97,15 @@ Recalls: None Found
 **Summary**
 
 The 2006 Aston Martin Vanquish is generally considered a reliable sports car, but it is not immune to some common issues. While the potential engine and transmission problems can be costly to repair, the other reported issues are typically less severe and expensive. Overall, the severity and cost of the reported issues for the Vanquish are comparable to other high-performance vehicles of its era.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

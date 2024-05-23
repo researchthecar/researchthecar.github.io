@@ -34,6 +34,19 @@ The 2013 Chevrolet Caprice is a full-size sedan powered by a standard 6.0L V8 en
   - Estimated Cost to Fix: $500 - $800
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 - **Rear Air Spring Failure:**
@@ -79,3 +92,15 @@ The 2013 Chevrolet Caprice is a full-size sedan powered by a standard 6.0L V8 en
 **Summary:**
 
 While the 2013 Chevrolet Caprice offers a powerful engine and comfortable ride, it has been reported to have several issues that can affect its reliability and functionality. The intake manifold gasket failure, oil cooler line leak, and rear air spring failure are some of the more severe issues, potentially leading to costly repairs. The electrical and interior issues, though less severe, can still cause inconvenience and discomfort to drivers. Overall, prospective owners should be aware of these potential issues before making a purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

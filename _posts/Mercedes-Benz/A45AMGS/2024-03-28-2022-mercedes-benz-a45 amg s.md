@@ -23,6 +23,19 @@ Despite its performance capabilities, the A45 AMG S offers a spacious and well-e
 > **AMG Speedshift DCT 8G Dual-Clutch Transmission**
 - **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Faulty Rear Differential:**
  - **Description/Symptoms:** Excessive noise, vibration, and potential loss of power while driving.
@@ -64,3 +77,15 @@ Despite its performance capabilities, the A45 AMG S offers a spacious and well-e
 **Summary**
 
 While the 2022 Mercedes-Benz A45 AMG S is a highly capable and enjoyable vehicle, it is not without its potential issues. The engine, suspension, electrical, and exterior components have all been reported to experience problems by some owners. The severity and cost of these issues vary, but it is important for potential buyers to be aware of these potential concerns before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

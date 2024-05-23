@@ -38,6 +38,19 @@ The 2016 Lamborghini Aventador is a high-performance sports car with a mid-mount
         * Estimated Cost to Fix: $1,500 - $3,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **No Issues Found**
 
@@ -71,3 +84,15 @@ The 2016 Lamborghini Aventador is a high-performance sports car with a mid-mount
 
 **Summary:**
 The Lamborghini Aventador is a high-performance sports car that offers an exhilarating driving experience. However, it has been prone to a number of issues. Engine problems, particularly valve issues, have been among the most serious and expensive to repair. The transmission and electrical systems have also experienced their fair share of problems. While the severity and cost of these issues can be significant, the Aventador's overall performance and desirability have kept it popular among enthusiasts.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

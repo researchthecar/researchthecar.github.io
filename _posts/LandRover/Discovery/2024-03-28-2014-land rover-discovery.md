@@ -39,6 +39,19 @@ The 2014 Land Rover Discovery is a full-size luxury SUV renowned for its rugged 
     * Estimated Cost to Fix: $200 - $500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Failure:**
@@ -94,3 +107,15 @@ The 2014 Land Rover Discovery is a full-size luxury SUV renowned for its rugged 
 **Summary**
 
 The 2014 Land Rover Discovery offers impressive off-road capabilities and a luxurious interior, but it is not without its reliability concerns. Engine and transmission issues appear to be the most severe and can be costly to repair. Owners should also be aware of potential suspension and electrical problems. While the severity of the issues varies, they can impact the vehicle's overall reliability and ownership costs. Regular maintenance and timely repairs are essential to mitigate these potential issues and extend the lifespan of the Discovery.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

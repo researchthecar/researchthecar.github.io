@@ -82,3 +82,15 @@ Recalls: None Found
 ### Summary
 
 The 2006 Chevrolet Astra is a reliable and affordable compact car. However, there are a few potential issues to be aware of, including coolant leaks, intake manifold gasket failure, and synchronizer wear. The severity of these issues is generally low, and the cost to fix them is typically reasonable.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

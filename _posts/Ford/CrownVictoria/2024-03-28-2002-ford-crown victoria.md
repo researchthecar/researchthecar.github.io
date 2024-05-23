@@ -36,6 +36,19 @@ The 2002 Ford Crown Victoria is a full-size sedan that was available with two en
         * Estimated Cost to Fix: $500 - $1,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension**
@@ -86,3 +99,15 @@ The 2002 Ford Crown Victoria is a full-size sedan that was available with two en
 **Summary**
 
 The 2002 Ford Crown Victoria has several potential mechanical issues, with the most severe and costly ones being timing chain failure, suspension failure, and electrical system failure. The cost to fix these issues can range from a few hundred dollars to several thousand dollars. While the Crown Victoria is generally a reliable car, it is important to be aware of these potential problems before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

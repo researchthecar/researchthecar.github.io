@@ -43,6 +43,19 @@ Drivers appreciate the Silverado 2500's powerful engines, rugged construction, a
     * Estimated Cost to Fix: $300 - $1,000
     * Recalls: 14V-300
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front end clunking:** Clunking or rattling noises from the front end when driving over bumps.
@@ -74,3 +87,15 @@ Drivers appreciate the Silverado 2500's powerful engines, rugged construction, a
 **Summary**
 
 While the 2012 Chevrolet Silverado 2500 is a popular and capable truck, some reported issues can be expensive to repair. Common problems include engine oil leaks, intake manifold failure, transmission shifting issues, and electrical problems. It's important for owners to be aware of these potential issues and factor the cost of repairs into their purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

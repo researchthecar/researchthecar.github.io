@@ -31,6 +31,19 @@ Despite its overall popularity, the 2017 Land Rover Range Rover Evoque has exper
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front Strut Mount Failure**
     * Description/Symptoms: Worn or damaged front strut mounts can cause excessive noise, vibration, and reduced handling stability.
@@ -76,3 +89,15 @@ Despite its overall popularity, the 2017 Land Rover Range Rover Evoque has exper
 
 **Summary**
 The 2017 Land Rover Range Rover Evoque has experienced various issues, ranging from minor electrical glitches to more serious engine and transmission problems. While some issues are relatively inexpensive to fix, others can be costly. Potential owners should be aware of these issues before purchasing a vehicle. It is advisable to research recalls and perform a thorough inspection before making a decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

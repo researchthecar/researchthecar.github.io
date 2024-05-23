@@ -65,6 +65,19 @@ The 1996 Chevrolet Chevy is a popular choice among drivers, offering a combinati
     * Estimated Cost to Fix: $100 - $200
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Ball Joint Failure:**
@@ -120,3 +133,15 @@ The 1996 Chevrolet Chevy is a popular choice among drivers, offering a combinati
 **Summary:**
 
 The 1996 Chevrolet Chevy has several common issues that can range from minor inconveniences to major repairs. Some of the more severe issues, such as the Vortec engine valve seat wear and transmission slippage, can be costly to fix. However, many of the other issues are relatively inexpensive to resolve. Overall, the Chevy is a reliable vehicle with a few potential problems that should be considered before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

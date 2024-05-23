@@ -13,6 +13,19 @@ The 2014 Chevrolet Matiz is a subcompact hatchback available with a single engin
 **Transmission**
 * **5-Speed Manual**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -56,3 +69,15 @@ The 2014 Chevrolet Matiz is a subcompact hatchback available with a single engin
 **Summary**
 
 While the 2014 Chevrolet Matiz is an affordable and basic form of transportation, it has several issues that can be expensive to repair. The electrical system and exterior body panels are prone to problems, which can lead to safety concerns and a diminished driving experience. It is important to consider these potential issues before purchasing a Matiz, as they can significantly impact the overall cost of ownership.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

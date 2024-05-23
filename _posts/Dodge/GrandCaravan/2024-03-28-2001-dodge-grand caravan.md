@@ -27,6 +27,19 @@ The 2001 Dodge Grand Caravan is a spacious and versatile minivan known for its c
 * **Torque Converter Failure:** Symptoms include shuddering or vibration during acceleration. Solution: Replacement of the torque converter. Estimated Cost to Fix: $1,000 - $1,500+
 * **Shift Solenoid Failure:** Symptoms include delayed or hard shifting. Solution: Replacement of the shift solenoid. Estimated Cost to Fix: $200 - $400
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Struts Failure:** Symptoms include excessive noise, vibration, and premature tire wear. Solution: Replacement of the front struts. Estimated Cost to Fix: $600 - $800+
@@ -53,3 +66,15 @@ The 2001 Dodge Grand Caravan is a spacious and versatile minivan known for its c
 **Summary:**
 
 The 2001 Dodge Grand Caravan is a reliable and family-friendly minivan. However, it has been known to experience certain issues, particularly with the intake manifold gasket and transmission. While some issues can be relatively inexpensive to fix, others can be more costly. It's important for owners to be aware of these potential issues and to address them promptly to maintain the vehicle's performance and reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

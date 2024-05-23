@@ -35,6 +35,19 @@ The 2014 Lamborghini Gallardo is a high-performance sports car powered by a natu
         * Estimated Cost to Fix: $3,000 - $5,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension control arm bushings:** Premature wear or failure of the control arm bushings can cause clunking noises and poor handling.
@@ -63,3 +76,15 @@ The 2014 Lamborghini Gallardo is a high-performance sports car powered by a natu
 **Summary**
 
 The 2014 Lamborghini Gallardo has several potential issues to watch out for, primarily related to the engine and transmission. These issues can be costly to repair, ranging from a few thousand dollars to over $30,000. While the Gallardo remains a thrilling and capable sports car, prospective buyers should be aware of these potential problems and factor them into their purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

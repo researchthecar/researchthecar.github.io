@@ -36,6 +36,19 @@ The 2004 Chevrolet Tornado is a compact pickup truck that offered a 2.2L Ecotec 
     * Estimated Cost to Fix: $2,000 - $5,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Clunks:**
@@ -82,3 +95,15 @@ The 2004 Chevrolet Tornado is a compact pickup truck that offered a 2.2L Ecotec 
 **Summary:**
 
 The 2004 Chevrolet Tornado is a vehicle marred by a multitude of issues that can negatively impact its reliability and resale value. While some issues are minor and relatively inexpensive to fix, others, such as transmission failure and electrical shorts, can be extremely costly and time-consuming to repair. Overall, potential buyers should be aware of these issues and factor them into their decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

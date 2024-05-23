@@ -31,6 +31,19 @@ Drivers appreciate the Volt's fuel efficiency, quiet operation, and high-tech fe
     * Estimated Cost to Fix: $100 - $300+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mounts:**
@@ -81,3 +94,15 @@ Drivers appreciate the Volt's fuel efficiency, quiet operation, and high-tech fe
 **Summary**
 
 The 2012 Chevrolet Volt has a few common issues that drivers should be aware of, including coolant leaks, transmission jerking, and battery cooling system failures. While some of these issues can be expensive to fix, the Volt generally has good reliability ratings. Overall, the Volt is a fuel-efficient and environmentally friendly vehicle that offers a balance of performance and convenience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

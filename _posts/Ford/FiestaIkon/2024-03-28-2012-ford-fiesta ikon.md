@@ -86,3 +86,15 @@ Recalls: None Found
 ### Summary
 
 The 2012 Ford Fiesta Ikon is a relatively reliable vehicle, but it is not without its issues. The most common problems reported by owners include cam phaser failure, intake manifold failure, transmission shudder, and suspension problems. Overall, the severity of these issues is moderate, and the estimated costs to fix them range from $100 to $2,500+.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

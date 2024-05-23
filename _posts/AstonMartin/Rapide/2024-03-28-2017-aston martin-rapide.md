@@ -36,6 +36,19 @@ Despite its impressive stats, the Rapide has received mixed reviews from consume
     * Estimated Cost to Fix: $2,500 - $5,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Wear:**
@@ -71,3 +84,15 @@ Despite its impressive stats, the Rapide has received mixed reviews from consume
 **Summary**
 
 The 2017 Aston Martin Rapide has some reliability issues to consider. While the engine and transmission concerns can be expensive to repair, the other issues are typically less severe and costly. However, owners should be aware of these potential issues before purchasing a Rapide and factor in the potential repair costs when making their decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

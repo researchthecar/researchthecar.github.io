@@ -39,6 +39,19 @@ The 1996 Cadillac Commercial Chassis was a heavy-duty vehicle designed for comme
     * Estimated Cost to Fix: $300 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Strut Mount Bearing Failure:**
@@ -89,3 +102,15 @@ The 1996 Cadillac Commercial Chassis was a heavy-duty vehicle designed for comme
 **Summary:**
 
 The 1996 Cadillac Commercial Chassis was a capable and durable vehicle, but it was not without its issues. Common engine problems included intake manifold gasket and valve stem seal failures, while transmission issues centered around torque converter and shift solenoid failures. The suspension system experienced issues with strut mount bearings and rear leaf springs. Electrical problems included alternator failure and battery drain. In the interior, the instrument cluster and HVAC system could malfunction. Overall, while the issues were typically not catastrophic, they could lead to significant downtime and repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -112,3 +112,15 @@ People praised the Dynasty for its smooth ride, ample interior space, and impres
 ### **Summary**
 
 The 1991 Chrysler Dynasty faces several potential issues, particularly with the engine and transmission. The most notable concerns are the head gasket failure on the 3.8-liter V6, the overdrive failure in the four-speed overdrive automatic transmission, and the timing belt failure on the 3.3-liter V6. These repairs can be costly, ranging from $1,000 to $3,000 or more. While the Dynasty offers a comfortable ride and a spacious interior, its reliability issues should be carefully considered before purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

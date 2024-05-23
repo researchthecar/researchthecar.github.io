@@ -49,6 +49,19 @@ While the Accent offers a reliable and economical driving experience, some owner
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Assembly Noise**
@@ -90,3 +103,15 @@ While the Accent offers a reliable and economical driving experience, some owner
 **Summary**
 
 Overall, the 2009 Hyundai Accent is a reliable and budget-friendly vehicle, but it is not without its drawbacks. The most significant issues reported by owners involve the engine (oil consumption, knocking noise), transmission (difficulty shifting, slipping gears), and suspension (strut assembly noise). Depending on the severity of the issue, repairs can range from minor to major expenses ($100 - $2,500+). It is recommended to have these issues addressed promptly to maintain the vehicle's performance and longevity.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

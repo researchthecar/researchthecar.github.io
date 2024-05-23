@@ -34,6 +34,19 @@ The 2019 Audi S5 Sportback is a sleek and sporty four-door hatchback that combin
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -71,3 +84,15 @@ The 2019 Audi S5 Sportback is a sleek and sporty four-door hatchback that combin
 **Summary**
 
 The 2019 Audi S5 Sportback is a well-rounded vehicle with strong performance and premium features. However, it is not immune to some common issues that can be costly to repair. Engine issues, such as cylinder deactivation malfunction and timing chain tensioner failure, are the most severe and expensive to fix. Transmission and electrical problems, while less severe, can still be inconvenient and costly. Overall, the issues identified for the 2019 Audi S5 Sportback are moderate in both severity and cost, but prospective buyers should be aware of their potential.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

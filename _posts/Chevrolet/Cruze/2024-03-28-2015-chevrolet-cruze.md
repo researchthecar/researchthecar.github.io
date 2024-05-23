@@ -55,6 +55,19 @@ The 2015 Chevrolet Cruze is a compact sedan offered with a choice of two engine 
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Failure:**
@@ -105,3 +118,15 @@ The 2015 Chevrolet Cruze is a compact sedan offered with a choice of two engine 
 **Summary:**
 
 While the 2015 Chevrolet Cruze has its strengths, it has also been plagued by a number of issues that can affect different areas of the vehicle. Some of the most common issues include intake manifold and timing chain problems in the 1.4L turbocharged engine, DPF issues in the 1.6L diesel engine, transmission fluid leaks, suspension strut failures, electrical system failures, roof panel noise, and difficulty removing the center console. The severity of these issues can vary, and the cost to repair them can range from a few hundred dollars to several thousand dollars. It is important for owners to be aware of these potential problems and take appropriate measures to address them, such as regular maintenance, repairs, or contacting the manufacturer for recalls.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

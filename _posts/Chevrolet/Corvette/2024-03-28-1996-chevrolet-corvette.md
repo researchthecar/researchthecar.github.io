@@ -41,6 +41,19 @@ Solution: Replace torque converter
 Estimated Cost to Fix: $1,000 - $1,500+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Rear Axle Seal Leak**
@@ -76,3 +89,15 @@ Recalls: None Found
 **Summary:**
 
 Overall, the 1996 Chevrolet Corvette is a reliable and enjoyable vehicle with few significant issues. The most common issues include intake manifold gasket failure, synchro gear wear, and torque converter failure. While these issues can be costly to fix, they are relatively rare and typically do not affect the overall performance or longevity of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -34,6 +34,19 @@ The 2021 Lamborghini Urus is a high-performance SUV with a twin-turbocharged 4.0
     * Estimated Cost to Fix: $5,000 - $10,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -70,3 +83,15 @@ The 2021 Lamborghini Urus is a high-performance SUV with a twin-turbocharged 4.0
 **Summary**
 
 The 2021 Lamborghini Urus is generally reliable, but certain issues can occur with its engine, transmission, electrical system, exterior, and interior. Engine problems can be significant and costly to fix, while transmission issues appear less common. Electrical problems and interior glitches are generally less severe and expensive. Overall, the Urus is a high-performance vehicle with a premium price, and potential owners should be aware of the possible issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

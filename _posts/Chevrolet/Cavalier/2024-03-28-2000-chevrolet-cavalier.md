@@ -41,6 +41,19 @@ Description/Symptoms: Delayed or erratic shifting, transmission slipping
 Solution: Replace transmission solenoid
 Estimated Cost to Fix: $250 - $400+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arm Bushing Failure:**
@@ -91,3 +104,15 @@ Estimated Cost to Fix: $150 - $250+
 **Summary**
 
 The 2000 Chevrolet Cavalier has a number of potential issues, including engine failures, transmission issues, and electrical problems. However, many of these issues are relatively minor and inexpensive to fix. Overall, the Cavalier is a reliable and affordable vehicle that has stood the test of time.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

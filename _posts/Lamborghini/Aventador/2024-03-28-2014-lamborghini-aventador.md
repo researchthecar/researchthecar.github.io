@@ -33,6 +33,19 @@ The 2014 Lamborghini Aventador is a high-performance sports car that is powered 
 * Estimated Cost to Fix: $25,000 - $30,000+
 * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -64,3 +77,15 @@ The 2014 Lamborghini Aventador is a high-performance sports car that is powered 
 **Summary:**
 
 Overall, the 2014 Lamborghini Aventador is a high-performance sports car that has received praise for its performance and aesthetics. However, some owners have reported experiencing issues with the transmission and electrical system. The severity and cost of these issues can vary depending on the specific problem and the extent of the damage. Potential buyers should be aware of these potential issues before purchasing an Aventador.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

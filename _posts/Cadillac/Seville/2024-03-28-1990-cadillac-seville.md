@@ -31,6 +31,19 @@ The 1990 Cadillac Seville is a luxury sedan available with a choice of three eng
 
 * **Torque Converter Failure:** The torque converter can fail, causing a loss of power or shuddering. **Symptoms:** Shuddering while driving, loss of power. **Solution:** Replace the torque converter. **Estimated Cost to Fix:** $1,000 - $1,500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:** The strut mount can fail, causing a clunking noise. **Symptoms:** Clunking noise from the front of the vehicle. **Solution:** Replace the strut mount. **Estimated Cost to Fix:** $200 - $400
@@ -57,3 +70,15 @@ The 1990 Cadillac Seville is a luxury sedan available with a choice of three eng
 **Summary**
 
 The 1990 Cadillac Seville is a luxurious sedan that offers a comfortable ride and powerful engines. However, it is known for its expensive maintenance costs and potential engine and transmission issues. The severity of these issues can vary depending on the engine and transmission option selected.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

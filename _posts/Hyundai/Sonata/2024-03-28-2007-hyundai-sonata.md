@@ -63,6 +63,19 @@ People like the Sonata for its spacious interior, comfortable ride, and fuel eff
     * Estimated Cost to Fix: $1,000 - $2,500+
     * Recalls: Hyundai Recall 144
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure**
@@ -122,3 +135,15 @@ People like the Sonata for its spacious interior, comfortable ride, and fuel eff
 **Summary**
 
 The 2007 Hyundai Sonata is a reliable and affordable vehicle, but it does have some potential issues with its engine, transmission, suspension, electrical system, exterior, and interior. These issues can range in severity from minor annoyances to major repairs. The cost to repair these issues can also vary depending on the severity of the problem.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

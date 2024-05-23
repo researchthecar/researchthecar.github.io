@@ -29,6 +29,19 @@ The 2015 Ferrari F12 Berlinetta is an Italian sports car that was produced by Fe
         * Estimated Cost to Fix: $3,000 - $5,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -60,3 +73,15 @@ The 2015 Ferrari F12 Berlinetta is an Italian sports car that was produced by Fe
 **Summary:**
 
 Overall, the 2015 Ferrari F12 Berlinetta is a high-performance sports car with a number of potential issues. While some of these issues are relatively minor and inexpensive to fix, others can be more serious and costly. As with any high-performance vehicle, regular maintenance and inspections are essential to keep the F12 running smoothly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

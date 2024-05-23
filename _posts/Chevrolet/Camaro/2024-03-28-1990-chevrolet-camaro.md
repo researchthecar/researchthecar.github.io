@@ -58,6 +58,19 @@ The Camaro was praised for its powerful engines, sporty handling, and aggressive
 **6-Speed Automatic Transmission**
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension clunking noise**
@@ -117,3 +130,15 @@ The Camaro was praised for its powerful engines, sporty handling, and aggressive
 **Summary**
 
 The 1990 Chevrolet Camaro is a classic muscle car with powerful engines and sporty handling. However, it has a number of common issues that can be expensive to fix. Some of the most serious issues include rod bearing failure, transmission slipping, and rear suspension sagging. If you are considering buying a 1990 Camaro, be sure to have it inspected by a qualified mechanic before making a decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

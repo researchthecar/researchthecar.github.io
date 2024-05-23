@@ -78,6 +78,19 @@ The 2015 Chevrolet Express Cargo is a full-size van renowned for its spacious ca
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Shock Absorber Failure**
@@ -133,3 +146,15 @@ The 2015 Chevrolet Express Cargo is a full-size van renowned for its spacious ca
 **Summary**
 
 The 2015 Chevrolet Express Cargo is a capable workhorse with a spacious cargo area and robust powertrains. However, it does have a number of potential issues, particularly with its engine and transmission. The 4.8L V8 and 6.0L V8 can experience intake manifold gasket failures and oil pressure sensor failures, while the 6.6L V8 can encounter turbocharger and EGR valve issues. The 6-speed and 8-speed automatic transmissions may also encounter shifting problems and leaks. Other common issues include rust and corrosion, dashboard cracking, and door panel deterioration. Overall, the severity of the issues and the potential cost to fix them can be significant, which may be a concern for some owners.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

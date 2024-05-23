@@ -37,6 +37,19 @@ The 2011 Aston Martin V12 Vantage is a high-performance sports car powered by a 
 - **Estimated Cost to Fix:** $1,500 - $5,000+
 - **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Suspension Arms:**
@@ -78,3 +91,15 @@ The 2011 Aston Martin V12 Vantage is a high-performance sports car powered by a 
 **Summary:**
 
 Overall, the 2011 Aston Martin V12 Vantage is a high-performance vehicle with impressive capabilities, but it is not without its issues. The engine and transmission can be prone to some problems, while the suspension, electrical, exterior, and interior also have some areas of concern. The severity and cost of the issues vary, but some can be significant. Potential buyers should carefully consider these potential issues before purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

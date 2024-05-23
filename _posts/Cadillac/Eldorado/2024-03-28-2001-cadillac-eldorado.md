@@ -36,6 +36,19 @@ The 2001 Cadillac Eldorado is a full-size luxury coupe powered by a 4.6L Northst
     * Solution: Replace leaking seals or gaskets
     * Estimated Cost to Fix: $200 - $500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mounts**
@@ -82,3 +95,15 @@ The 2001 Cadillac Eldorado is a full-size luxury coupe powered by a 4.6L Northst
 **Summary**
 
 The 2001 Cadillac Eldorado has met with mixed reviews. While it offers a powerful engine and comfortable interior, it has also been plagued by several issues. The most severe and expensive problems include intake manifold gasket failure, head gasket failure, and transmission fluid leaks. However, many of the other issues are relatively minor and can be fixed at a reasonable cost.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

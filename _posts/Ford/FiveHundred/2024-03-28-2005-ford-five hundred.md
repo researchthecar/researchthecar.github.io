@@ -26,6 +26,19 @@ Drivers appreciate the Five Hundred's spacious interior, comfortable ride qualit
 * **6-speed automatic transmission**
     * **Shifting problems:** The transmission may have difficulty shifting gears or may shift erratically. The transmission may need to be replaced to fix the problem. **Estimated Cost to Fix:** $2000 - $3000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension noise:** The front suspension can make noise when driving over bumps or rough roads. The struts or springs may need to be replaced to fix the problem. **Estimated Cost to Fix:** $500 - $1000+
@@ -48,3 +61,15 @@ Drivers appreciate the Five Hundred's spacious interior, comfortable ride qualit
 **Summary**
 
 The 2005 Ford Five Hundred is a reliable and spacious vehicle. However, some owners have reported issues with certain components. The most severe and expensive issues include timing chain failure, transmission failure, and dashboard cluster failure. Overall, the Five Hundred is a good choice for those looking for a comfortable and powerful sedan.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

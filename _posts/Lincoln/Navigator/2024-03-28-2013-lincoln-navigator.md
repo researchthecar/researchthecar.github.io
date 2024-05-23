@@ -49,6 +49,19 @@ Despite its upscale features, the Navigator has received mixed reviews. Owners h
     * Estimated Cost to Fix: $1,500 - $2,500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Failure:**
@@ -94,3 +107,15 @@ Despite its upscale features, the Navigator has received mixed reviews. Owners h
 **Summary**
 
 The 2013 Lincoln Navigator exhibits a range of issues across various components. The severity and cost of these issues vary, with some being relatively minor and others requiring major repairs. Common problems include engine turbocharger failures, transmission slipping, electrical battery drains, and various interior and exterior issues. While the Navigator offers a luxurious driving experience, its reliability concerns can be a major drawback for potential buyers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

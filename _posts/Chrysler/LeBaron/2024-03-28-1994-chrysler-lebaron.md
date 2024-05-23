@@ -26,6 +26,19 @@ The 1994 Chrysler LeBaron is a front-wheel-drive luxury coupe that was available
 - **Slipping Gears:** Can cause the transmission to lose power or gears to slip out of place. Requires transmission rebuild or replacement. $1,500 - $3,000+
 - **Torque Converter Shudder:** Can cause the transmission to shudder during acceleration. Requires replacement of the torque converter. $700 - $1,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Strut Mount Bearing Failure:** Can cause clunking or grinding noises, and uneven tire wear. Requires replacement of the strut mount bearings. $200 - $400+
@@ -51,3 +64,15 @@ The 1994 Chrysler LeBaron is a front-wheel-drive luxury coupe that was available
 **Summary:**
 
 The 1994 Chrysler LeBaron has a variety of issues that can range in severity and cost from minor repairs to major engine or transmission problems. While it is a comfortable and stylish car, potential buyers should be aware of the potential issues before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -21,6 +21,19 @@ The 2004 Maserati Quattroporte is a luxury sedan powered by a 4.2L V8 engine pro
     * **Slipping:** The transmission may experience slipping gears or difficulty shifting. This is often caused by worn-out clutch packs or a faulty valve body. The solution is to rebuild the transmission or replace it. Estimated cost to fix: $2,500 - $5,000+
     * **Torque Converter Failure:** The torque converter may fail, leading to a loss of power and shuddering. The solution is to replace the torque converter and any damaged components. Estimated cost to fix: $1,500 - $2,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushings:** The front control arm bushings can wear out, causing clunking noises and reduced stability. The solution is to replace the bushings. Estimated cost to fix: $200 - $400+
@@ -43,3 +56,15 @@ The 2004 Maserati Quattroporte is a luxury sedan powered by a 4.2L V8 engine pro
 **Summary**
 
 The 2004 Maserati Quattroporte is a capable luxury sedan with a potent engine, but it is not without its issues. Some of the most common problems include timing belt failure, valve seat recession, transmission slipping, and front control arm bushing wear. The cost to fix these issues can be substantial, so it is important to factor this into your ownership decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

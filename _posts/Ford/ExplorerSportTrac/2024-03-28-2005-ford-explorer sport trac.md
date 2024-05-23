@@ -53,6 +53,19 @@ The 2005 Ford Explorer Sport Trac was a versatile mid-size sport utility truck t
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension:**
@@ -106,3 +119,15 @@ The 2005 Ford Explorer Sport Trac was a versatile mid-size sport utility truck t
 **Summary:**
 
 The 2005 Ford Explorer Sport Trac is a solid and versatile vehicle when it's in good condition. However, it's important for potential buyers to be aware of the common issues associated with this model. Some issues, such as valve seat recession and timing chain failure, can be severe and costly to repair. Others, such as electrical and interior problems, are less severe but can still require attention. Overall, the severity and cost of the issues vary depending on the specific issue and the extent of the damage. Proper maintenance and regular inspections can help mitigate these issues and prolong the life of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

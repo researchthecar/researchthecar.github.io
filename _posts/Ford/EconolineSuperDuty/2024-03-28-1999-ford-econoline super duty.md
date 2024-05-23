@@ -65,6 +65,19 @@ The 1999 Ford Econoline Super Duty is a full-size van with available engine opti
     * Estimated Cost to Fix: $500 - $1,500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaking Shock Absorbers:** Worn or leaking shock absorbers can cause poor handling, reduced ride comfort, and premature tire wear.
@@ -116,3 +129,15 @@ The 1999 Ford Econoline Super Duty is a full-size van with available engine opti
 **Summary**
 
 The 1999 Ford Econoline Super Duty is a versatile and powerful vehicle, but it does have some common issues that owners should be aware of. The most severe and costly issues include engine and transmission failures, which can result in significant repair bills. Other issues, such as suspension, electrical, and interior problems, are generally less severe and less expensive to fix. Regular maintenance and preventative measures can help mitigate some of these issues and extend the lifespan of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

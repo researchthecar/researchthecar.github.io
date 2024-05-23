@@ -29,6 +29,19 @@ The 2021 Audi A5 Sportback is a stylish and luxurious sports car that combines i
     * Estimated Cost to Fix: $3,000 - $5,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Control Arm Bushing Failure:**
@@ -65,3 +78,15 @@ The 2021 Audi A5 Sportback is a stylish and luxurious sports car that combines i
 **Summary:**
 
 The 2021 Audi A5 Sportback has received positive reviews for its performance, handling, and interior. However, there are a few issues that potential buyers should be aware of, including timing chain tensioner failure, mechatronic unit failure, and rear control arm bushing failure. The severity and cost of these issues vary, but they can be significant.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

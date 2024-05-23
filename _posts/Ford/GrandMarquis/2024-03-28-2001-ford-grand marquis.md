@@ -52,6 +52,19 @@ The 2001 Ford Grand Marquis is a full-size sedan powered by a standard 4.6L V8 e
 -- Estimated Cost to Fix: $200 - $500
 -- Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Worn ball joints**
 -- Description/Symptoms: Loose or clunking sounds from the front suspension, uneven tire wear
@@ -100,3 +113,15 @@ The 2001 Ford Grand Marquis is a full-size sedan powered by a standard 4.6L V8 e
 
 **Summary:**
 The 2001 Ford Grand Marquis is a reliable and comfortable vehicle but is not without its issues. Common problems include intake manifold gasket failure, valve cover gasket leaks, torque converter shudder, and shift solenoid failure. These issues range in severity and cost to fix, but overall, the Grand Marquis is a relatively affordable car to maintain.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

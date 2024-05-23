@@ -26,6 +26,19 @@ Despite its low price, the Elantra was well-received by critics. It was praised 
     **Slipping:** The transmission may slip when shifting gears, causing a loss of power and acceleration. Symptoms include a high-pitched whining noise when shifting, slipping gears, and a loss of power. Replacing the transmission costs around $1,500 - $2,500+.
     **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front struts:** The front struts can wear out prematurely, causing a loss of ride comfort and handling. Symptoms include a rough ride, excessive bouncing, and a loss of steering precision. Replacing the front struts costs around $400 - $600+.
 * **Rear shocks:** The rear shocks can also wear out prematurely, causing similar symptoms to worn front struts. Replacing the rear shocks costs around $200 - $400+.
@@ -45,3 +58,15 @@ Despite its low price, the Elantra was well-received by critics. It was praised 
 **Summary**
 
 The 1993 Hyundai Elantra is a well-equipped and affordable compact sedan. However, owners have reported a number of issues with the vehicle, including engine problems, transmission problems, suspension problems, electrical problems, and interior problems. The severity of the issues varies, but some can be costly to repair. Overall, the Elantra is a reliable vehicle, but potential buyers should be aware of the potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

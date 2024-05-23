@@ -59,6 +59,19 @@ The 2020 Chevrolet Malibu is a midsize sedan known for its stylish design, comfo
         Estimated Cost to Fix: $500 - $800+
         Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Strut Mount Bearing Failure**
     Description/Symptoms: The strut mount bearing may wear or fail, causing a clunking noise when the vehicle is turning or going over bumps.
@@ -100,3 +113,15 @@ The 2020 Chevrolet Malibu is a midsize sedan known for its stylish design, comfo
 **Summary**
 
 The 2020 Chevrolet Malibu offers a comfortable and efficient driving experience but has faced some issues that owners have reported. Engine and transmission problems can be severe and expensive to repair, while other issues in areas like suspension, electrical, exterior, and interior may be more manageable. It's important for potential buyers to be aware of these potential issues before considering the Malibu as their next vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -43,6 +43,19 @@ The 2011 Hyundai Genesis Coupe is a sporty coupe that offers a powerful engine, 
     * **Estimated Cost to Fix:** $1,500 - $3,000+
     * **Recalls:** NHTSA ID: 14V352000, 16V591000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure:** The front strut mount may fail, causing the strut to lose its alignment.
@@ -84,3 +97,15 @@ The 2011 Hyundai Genesis Coupe is a sporty coupe that offers a powerful engine, 
 **Summary**
 
 The 2011 Hyundai Genesis Coupe has received mixed reviews regarding its reliability. Some owners have reported severe engine and transmission issues, while others have had relatively few problems. The severity and cost of issues can vary depending on the specific part that fails. It is important to note that the Genesis Coupe is a performance-oriented vehicle, and some issues may be associated with aggressive driving or modifications.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

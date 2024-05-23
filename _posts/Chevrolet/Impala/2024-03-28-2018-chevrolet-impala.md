@@ -47,6 +47,19 @@ The 2018 Chevrolet Impala is a full-size sedan powered by a 3.6L V6 engine produ
         - Solution: Replace transmission control module
         - Estimated Cost to Fix: $500 - $1,500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arm Bushing Failure:**
@@ -90,3 +103,15 @@ The 2018 Chevrolet Impala is a full-size sedan powered by a 3.6L V6 engine produ
 **Summary**
 
 While the 2018 Chevrolet Impala has some appealing features, it has also experienced several reliability issues. Common problems include intake manifold gasket failure, transmission shudder, electrical issues, and suspension problems. The severity and cost of these issues can vary, but they can affect the overall satisfaction and ownership experience of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

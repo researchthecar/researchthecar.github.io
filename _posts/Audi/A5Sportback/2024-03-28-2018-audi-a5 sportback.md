@@ -103,3 +103,15 @@ Despite its overall reliability, the 2018 Audi A5 Sportback has been reported to
 ## Summary
 
 Overall, the 2018 Audi A5 Sportback is a generally reliable vehicle. However, some potential issues can be costly to repair. The severity of these issues can range from minor annoyances to more serious problems that require major repairs. It is important for owners to be aware of these potential issues and to have them addressed if they occur.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

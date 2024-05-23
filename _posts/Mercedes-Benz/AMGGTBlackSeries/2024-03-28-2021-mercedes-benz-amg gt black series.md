@@ -74,3 +74,15 @@ Recalls: None Found
 ## Summary
 
 Overall, the 2021 Mercedes-Benz AMG GT Black Series is a high-performance sports car that has received positive reviews. However, there have been some reports of issues with the vehicle, particularly with the engine, transmission, and suspension. The severity and cost of these issues vary depending on the specific problem.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

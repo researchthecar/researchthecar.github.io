@@ -27,6 +27,19 @@ The 2010 Cadillac Escalade EXT is a full-size luxury pickup truck that offers a 
     - Estimated Cost to Fix: $1,000 - $2,000+
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Air Suspension Leaks:**
@@ -62,3 +75,15 @@ The 2010 Cadillac Escalade EXT is a full-size luxury pickup truck that offers a 
 **Summary:**
 
 The 2010 Cadillac Escalade EXT has some notable issues, particularly with the intake manifold and torque converter. These issues can be costly to fix, and there are a fair number of vehicles affected by them. Other issues, such as air suspension leaks, headlight condensation, and climate control malfunctions, are less severe and expensive to repair. Overall, the Escalade EXT is a reliable vehicle, but potential buyers should be aware of these common issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

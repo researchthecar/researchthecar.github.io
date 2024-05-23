@@ -39,6 +39,19 @@ The 2014 Bentley Continental is a luxury coupe and convertible that offers a com
   * Estimated Cost to Fix: $2,500 - $5,000
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Compressor Failure:** The air suspension compressor can fail, causing the suspension to lose pressure and the vehicle to sag.
@@ -94,3 +107,15 @@ The 2014 Bentley Continental is a luxury coupe and convertible that offers a com
 **Summary**
 
 The 2014 Bentley Continental is a high-performance luxury vehicle that offers a unique blend of style and power. However, it has been known to experience some reliability issues. The most common problems include engine timing chain tensioner failure, valve stem seal failure, transmission TCM and valve body failure, air suspension compressor failure, and electrical module failure. The cost of repairs for these issues can be significant. Overall, the Continental is a capable vehicle with a high level of refinement, but it comes at a high price and potential maintenance costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

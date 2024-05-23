@@ -25,6 +25,19 @@ The 1999 Cadillac Catera is a compact luxury sedan that shares its platform with
 **5-speed Automatic**
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Suspension**
@@ -63,3 +76,15 @@ The 1999 Cadillac Catera is a compact luxury sedan that shares its platform with
 **Summary**
 
 Overall, the 1999 Cadillac Catera has a moderate number of common issues, with the most severe and costly ones being coolant system leaks and sunroof problems. However, these issues affect specific components and are not widespread across the entire vehicle. The electrical system, suspension, and transmission are generally reliable.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

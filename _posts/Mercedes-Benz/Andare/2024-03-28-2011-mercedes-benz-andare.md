@@ -25,6 +25,19 @@ The 2011 Mercedes-Benz Andare is a discontinued midsize luxury sedan offered wit
 
 * **Transmission slipping:** Description/Symptoms: The transmission may slip out of gear or engage gears roughly. Solution: Replace the transmission. Estimated Cost to Fix: $4,000 - $6,000+ Recalls: 14V353000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air suspension failure:** Description/Symptoms: The air suspension system may leak or malfunction, causing the vehicle to drop or become unstable. Solution: Repair or replace the air suspension components. Estimated Cost to Fix: $1,500 - $2,500+ Recalls: None Found
@@ -44,3 +57,15 @@ The 2011 Mercedes-Benz Andare is a discontinued midsize luxury sedan offered wit
 **Summary:**
 
 Overall, the 2011 Mercedes-Benz Andare has several potential issues that can be costly to repair. The most severe issues include timing chain failure, transmission slipping, and air suspension failure. Owners should be aware of these potential problems and consider budgeting for potential repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

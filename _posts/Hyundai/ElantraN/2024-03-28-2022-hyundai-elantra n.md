@@ -32,6 +32,19 @@ The 2022 Hyundai Elantra N is a compact sports sedan that is powered by a turboc
 * **Clunking Noise:** A clunking noise when shifting or accelerating has been reported by some drivers. This can indicate a problem with the clutch packs or other internal transmission components. Replacing or repairing the affected components is the solution. Estimated cost: $2,000 - $5,000+
 * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Squeaky Noises:** Owners have reported a squeaking noise coming from the suspension, particularly when driving over bumps or rough roads. This is most likely caused by worn or damaged suspension components, such as bushings or sway bar links. Replacing the affected components is the solution. Estimated cost: $200 - $800+
@@ -52,3 +65,15 @@ The 2022 Hyundai Elantra N is a compact sports sedan that is powered by a turboc
 **Summary:**
 
 The 2022 Hyundai Elantra N is a performance-oriented sedan with some reported issues that can be concerning for owners. The engine and transmission issues, in particular, can be costly to fix. While some of the issues are covered by recalls, others require out-of-pocket expenses. Overall, the severity and cost of the issues can vary widely depending on the specific problem and the extent of the repairs needed.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

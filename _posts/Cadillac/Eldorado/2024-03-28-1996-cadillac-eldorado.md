@@ -30,6 +30,19 @@ The 1996 Cadillac Eldorado is a luxurious coupe that offers a comfortable and re
         * Estimated Cost to Fix: $2,000 - $3,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Sagging**
@@ -80,3 +93,15 @@ The 1996 Cadillac Eldorado is a luxurious coupe that offers a comfortable and re
 **Summary**
 
 The 1996 Cadillac Eldorado is a reliable and comfortable vehicle, but it is not without its issues. Some of the most common problems include intake manifold gasket failure, Northstar engine failure, transmission slipping, rear suspension sagging, battery drain, alternator failure, door handle failure, dashboard gauge cluster failure, power window failure, and A/C condenser failure. The severity and cost of these issues vary, but some can be quite expensive to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

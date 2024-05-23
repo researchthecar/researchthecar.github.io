@@ -24,6 +24,19 @@ The 1995 Hyundai Scoupe is a two-door sports car powered by the Alpha II engine,
 * **4-Speed Automatic**
     * **Shift Solenoid Failure:** Transmission shifts erratically or does not shift at all. Symptoms include hard shifting, slipping gears, and a check engine light. Solution: Replace the faulty shift solenoid. Estimated Cost to Fix: $150 - $250+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Struts:** Can leak or fail prematurely. Symptoms include excessive bouncing, poor handling, and uneven tire wear. Solution: Replace the front struts. Estimated Cost to Fix: $300 - $500+ per strut
@@ -46,3 +59,15 @@ The 1995 Hyundai Scoupe is a two-door sports car powered by the Alpha II engine,
 **Summary**
 
 The 1995 Hyundai Scoupe is a generally reliable vehicle, but it is not without its issues. The most common problems include oil pump failure, timing belt failure, synchronizer wear, and alternator failure. While these issues can be costly to repair, they are typically not severe enough to warrant avoiding the vehicle altogether. The Scoupe remains a good value for those seeking an affordable and sporty compact car.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

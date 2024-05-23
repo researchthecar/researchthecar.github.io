@@ -45,6 +45,19 @@ Owners generally like the Astra's stylish exterior, comfortable interior, and fu
     Estimated Cost to Fix: $300 - $500
     Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front struts leaking**
@@ -86,3 +99,15 @@ Recalls: None Found
 **Summary**
 
 The 2000 Chevrolet Astra has a number of potential issues, including problems with the engine, transmission, suspension, electrical system, and interior. The severity and cost of these issues can vary depending on the specific problem and the severity of the damage. However, overall, the Astra is a reliable vehicle that is relatively inexpensive to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

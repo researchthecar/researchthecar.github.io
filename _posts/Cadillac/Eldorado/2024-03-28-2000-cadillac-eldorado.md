@@ -41,6 +41,19 @@ The 2000 Cadillac Eldorado is a full-size luxury coupe that was praised for its 
         * Estimated Cost to Fix: $2,500 - $4,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arms:**
@@ -72,3 +85,15 @@ The 2000 Cadillac Eldorado is a full-size luxury coupe that was praised for its 
 **Summary:**
 
 The 2000 Cadillac Eldorado can experience a range of issues, including engine gaskets, transmission slipping, and electrical problems. While some issues are relatively minor and inexpensive to fix, others can be more severe and costly. Overall, the cost of repairs for the Eldorado can vary depending on the specific issue and the severity of the damage.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

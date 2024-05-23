@@ -26,6 +26,19 @@ The 2011 Ford Econoline Wagon is a full-size van offered with several engine and
 * **6-speed TorqShift automatic**
     * **No significant issues reported**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Worn shock absorbers:** Reduced handling and ride quality, increased braking distance. Requires replacement of the shock absorbers. $500 - $800+
@@ -49,3 +62,15 @@ The 2011 Ford Econoline Wagon is a full-size van offered with several engine and
 **Summary**
 
 Overall, the 2011 Ford Econoline Wagon has a range of issues that vary in severity and cost. Some issues, such as intake manifold gasket failure and transmission slipping, can be costly to repair. However, many other issues are relatively minor and can be addressed at a lower cost. Owners should be aware of these potential issues and consider their budget when purchasing and maintaining this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

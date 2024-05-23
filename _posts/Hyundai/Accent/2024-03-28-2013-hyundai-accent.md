@@ -59,3 +59,15 @@ The 2013 Hyundai Accent is a subcompact sedan offered with two engine options: a
 ### Summary
 
 The 2013 Hyundai Accent has a few common issues, including engine knocking, transmission slipping, suspension noise, electrical system failures, and fog light malfunctions. The severity and cost of these issues can vary depending on the specific problem. However, most can be addressed with repairs or replacements, and recalls have not yet been issued for any of the reported issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

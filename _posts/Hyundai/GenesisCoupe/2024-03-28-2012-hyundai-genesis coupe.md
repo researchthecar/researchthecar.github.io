@@ -36,6 +36,19 @@ The 2012 Hyundai Genesis Coupe is a rear-wheel-drive sports coupe powered by a 3
 * Estimated Cost to Fix: Free under warranty
 * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Rear Suspension Squeak:**
@@ -73,3 +86,15 @@ The 2012 Hyundai Genesis Coupe is a rear-wheel-drive sports coupe powered by a 3
 **Summary:**
 
 Overall, the 2012 Hyundai Genesis Coupe has received generally positive reviews for its performance, handling, and styling. However, some owners have experienced issues with engine knocking, transmission gear grinding and shift delays, suspension squeaks, electrical battery drain, and various interior rattles and creaks. While the severity of the issues can vary, some of them can be costly to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

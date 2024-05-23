@@ -29,6 +29,19 @@ Solution: Replace the transmission gears, synchronizers, or other damaged intern
 Estimated Cost to Fix: $1,500 - $3,000+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Leaf Springs**
@@ -61,3 +74,15 @@ Estimated Cost to Fix: $500 - $1,000
 **Summary:**
 
 The 1991 Chevrolet W4500 Tiltmaster is a capable heavy-duty truck with impressive performance and towing capabilities. However, it has encountered some reliability issues, particularly with the intake manifold gasket, transmission gears, and alternator. The severity and cost of these issues vary, but some can be relatively expensive to repair. Nonetheless, the W4500 Tiltmaster remains a popular choice for demanding applications due to its durability and proven track record.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

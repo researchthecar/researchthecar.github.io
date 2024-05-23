@@ -45,6 +45,19 @@ The 1994 Hyundai Sonata was a compact sedan that offered a comfortable and affor
     * Solution: Replace the torque converter.
     * Estimated Cost to Fix: $800 - $1,500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** The front struts can leak or fail, causing a bouncy or harsh ride.
@@ -81,3 +94,15 @@ The 1994 Hyundai Sonata was a compact sedan that offered a comfortable and affor
 **Summary**
 
 The 1994 Hyundai Sonata offers a comfortable ride and affordable ownership experience. However, it is not without its issues. The most severe and costly problems include timing belt failure, transmission failure, and body panel rust. Regular maintenance and addressing potential issues promptly can help extend the life of the vehicle, but it is important to be aware of the potential expenses involved before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

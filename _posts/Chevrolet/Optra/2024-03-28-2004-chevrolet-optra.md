@@ -46,6 +46,19 @@ The 2004 Chevrolet Optra is a compact sedan that was available with either a 2.0
     * Estimated Cost to Fix: $1,000 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:** The strut mount fails, causing excessive noise and vibration in the front of the vehicle.
@@ -87,3 +100,15 @@ The 2004 Chevrolet Optra is a compact sedan that was available with either a 2.0
 **Summary**
 
 The 2004 Chevrolet Optra has a number of potential issues that can affect its reliability and performance. While some issues are relatively minor and inexpensive to fix, others can be quite costly. Overall, the Optra's reliability is below average, and it may not be the best choice for those seeking a trouble-free vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

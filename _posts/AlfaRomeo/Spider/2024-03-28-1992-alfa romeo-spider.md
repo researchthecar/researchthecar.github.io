@@ -42,6 +42,19 @@ The 1992 Alfa Romeo Spider is a convertible sports car that was produced from 19
   * Estimated Cost to Fix: $500 - $1,000
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushings**
@@ -85,3 +98,15 @@ The 1992 Alfa Romeo Spider is a convertible sports car that was produced from 19
 **Summary**
 
 The 1992 Alfa Romeo Spider is a fun and sporty car, but it is not without its problems. The engine and transmission can experience a number of issues, which can be expensive to repair. The suspension, electrical system, and interior can also have problems. Overall, the Spider is a somewhat risky buy, and potential owners should be prepared for potential repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

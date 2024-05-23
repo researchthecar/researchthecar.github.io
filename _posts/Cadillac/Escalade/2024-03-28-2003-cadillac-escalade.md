@@ -32,6 +32,19 @@ The 2003 Cadillac Escalade is a full-size luxury SUV that debuted with a 6.0L V8
 >>Estimated Cost to Fix: $1,000 - $2,500
 >>Recalls: NHTSA Campaign Number 05V204000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **No Issues Found**
@@ -68,3 +81,15 @@ The 2003 Cadillac Escalade is a full-size luxury SUV that debuted with a 6.0L V8
 **Summary:**
 
 Overall, the 2003 Cadillac Escalade has some common issues that can be costly to repair. The engine is prone to intake manifold and valve cover gasket leaks, while the 4-speed automatic transmission can experience slippage. Electrical malfunctions and exterior door handle failures are also reported. However, the suspension is generally reliable. The severity of the issues varies, and some can be resolved with relatively minor repairs, while others may require extensive work or replacement of major components.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

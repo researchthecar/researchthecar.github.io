@@ -41,6 +41,19 @@ Owners appreciate the Quattroporte's stylish exterior, comfortable interior, and
         * Estimated Cost to Fix: $1,000 - $1,500
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension bushings**
@@ -80,3 +93,15 @@ Owners appreciate the Quattroporte's stylish exterior, comfortable interior, and
 **Summary**
 
 Overall, the 2011 Maserati Quattroporte is a capable luxury sports sedan, but it has some potential reliability issues. The most common issues are related to engine head gaskets, fuel injectors, and transmission shift solenoids. While these repairs can be expensive, the Quattroporte still offers a unique and engaging driving experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

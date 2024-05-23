@@ -37,6 +37,19 @@ The 2018 Dodge Attitude is a compact sedan that offers a comfortable ride and a 
   * Estimated Cost to Fix: $1,500 - $2,500
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Failure:**
@@ -72,3 +85,15 @@ The 2018 Dodge Attitude is a compact sedan that offers a comfortable ride and a 
 **Summary**
 
 While the 2018 Dodge Attitude has its strengths, it has experienced some reported issues with its engine, transmission, suspension, electrical, and interior components. The severity of these issues can vary, and the cost of repairs can range from minor to significant. However, the availability of aftermarket parts and repair manuals makes it possible for owners to address these problems themselves, potentially reducing the overall cost of ownership.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

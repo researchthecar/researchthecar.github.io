@@ -42,6 +42,19 @@ The 2003 Bentley Arnage is a full-size luxury car produced by Bentley Motors Lim
     * Estimated Cost to Fix: $2,000 - $5,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Compressor Failure:**
@@ -83,3 +96,15 @@ The 2003 Bentley Arnage is a full-size luxury car produced by Bentley Motors Lim
 **Summary**
 
 The 2003 Bentley Arnage is a luxurious and powerful vehicle, but it is not without its issues. The most common problems reported by owners include engine oil and coolant leaks, intake manifold gasket failure, and battery drain. While the cost of repairs for some issues can be significant, the Arnage remains a desirable choice for those seeking a blend of opulence and performance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

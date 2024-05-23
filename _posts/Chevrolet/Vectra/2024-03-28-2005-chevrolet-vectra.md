@@ -39,6 +39,19 @@ The 2005 Chevrolet Vectra is a mid-size sedan offered with a range of engine and
 
 * **No major issues reported**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear suspension noise:** Clunking or rattling sounds coming from rear suspension.
@@ -74,3 +87,15 @@ The 2005 Chevrolet Vectra is a mid-size sedan offered with a range of engine and
 **Summary:**
 
 The 2005 Chevrolet Vectra has several potential issues, particularly with the ignition coils, water pump, and timing chain tensioner. While these issues can be costly to repair, they are not widespread and can vary depending on the mileage and maintenance history of the vehicle. The suspension and electrical systems may also experience some issues, but they are generally less severe. Overall, the Vectra offers a spacious and comfortable ride at a relatively low price, but potential buyers should be aware of the potential costs associated with certain repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

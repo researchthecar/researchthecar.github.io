@@ -24,6 +24,19 @@ The 2023 Chevrolet Corvette is a high-performance sports car powered by a 6.2-li
 **7-Speed Manual**
 - **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Strut Bearing Failure:** Description/Symptoms: Worn or damaged strut bearings can cause rattling, clunking, or knocking noises, especially over bumps or uneven surfaces. Solution: Replacing the affected strut bearings. Estimated Cost to Fix: $500 - $800
@@ -45,3 +58,15 @@ The 2023 Chevrolet Corvette is a high-performance sports car powered by a 6.2-li
 **Summary:**
 
 While the 2023 Chevrolet Corvette offers impressive performance and style, it has been reported to have some issues, particularly with its fuel injectors, clutch system, and exterior trim. The severity and cost of these issues vary, but they can potentially lead to reduced performance, decreased reliability, or cosmetic concerns.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

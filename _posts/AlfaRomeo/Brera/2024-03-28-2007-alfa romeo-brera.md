@@ -39,6 +39,19 @@ While the Brera has many positive qualities, it has also been known to experienc
 * **Estimated Cost to Fix:** $500 - $1,000+
 * **Recalls:** NHTSA Recall #15V371000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Bearing Failure:** The strut mount bearings can wear out prematurely, leading to excessive noise and vibration.
@@ -68,3 +81,15 @@ While the Brera has many positive qualities, it has also been known to experienc
 * **Recalls:** None Found
 
 **Summary:** Overall, the 2007 Alfa Romeo Brera has a number of potential issues to watch out for. The engine, transmission, electrical, and interior components can all experience problems, some of which can be costly to repair. However, the Brera remains a desirable vehicle for those who appreciate its unique styling and performance capabilities.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

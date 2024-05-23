@@ -20,6 +20,19 @@ The 2023 Mercedes-Benz AMG GT 63 S is a high-performance coupe and convertible w
 **9-Speed Dual-Clutch Transmission**
 * **Clutch Pack Failure:** Description/Symptoms: The clutch pack may wear out prematurely, leading to transmission problems and loss of power. Solution: Replacing the faulty clutch pack or rebuilding the transmission. Estimated Cost to Fix: $3,000 - $7,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Adaptive Suspension Failure:** Description/Symptoms: The adaptive suspension system may malfunction, affecting ride quality and handling. Solution: Repair or replacement of affected components within the suspension. Estimated Cost to Fix: $1,000 - $3,000+
@@ -42,3 +55,15 @@ The 2023 Mercedes-Benz AMG GT 63 S is a high-performance coupe and convertible w
 **Summary:**
 
 The 2023 Mercedes-Benz AMG GT 63 S is a high-performance vehicle with impressive power and handling, but it is not without its problems. Some of the most common issues owners have experienced include engine intake valve deposits, turbocharger wastegate failure, clutch pack failure in the transmission, adaptive suspension failure, battery drain, central locking system failure, sunroof leak, and rear seat upholstery damage. While some of these issues are relatively minor and inexpensive to fix, others can be more severe and costly to address. Therefore, potential buyers should be aware of these issues before purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

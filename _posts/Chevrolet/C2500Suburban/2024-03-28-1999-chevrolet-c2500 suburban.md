@@ -32,6 +32,19 @@ The 1999 Chevrolet C2500 Suburban is a full-size SUV known for its spacious inte
         * Estimated Cost to Fix: $1,500 - $3,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -78,3 +91,15 @@ The 1999 Chevrolet C2500 Suburban is a full-size SUV known for its spacious inte
 **Summary**
 
 The 1999 Chevrolet C2500 Suburban is a reliable vehicle overall, but it does have some known issues. The most significant and expensive problems include Vortec engine knock, transmission slipping, and alternator failure. However, many of the issues are relatively minor and can be repaired for a reasonable cost. With proper maintenance and care, the C2500 Suburban can provide years of reliable service.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

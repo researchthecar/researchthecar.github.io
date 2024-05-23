@@ -29,6 +29,19 @@ Solution: Replacement or rebuilding of the transmission.
 Estimated Cost to Fix: $3,000 - $5,000+
 Recalls: NHTSA Campaign Number 13V304000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -56,3 +69,15 @@ Recalls: None Found
 **Summary:**
 
 The 2012 Cadillac Escalade ESV has experienced some issues, primarily related to the engine, transmission, and electrical system. The cost of repairs can be significant, especially for major components like the transmission. However, the vehicle also offers excellent performance and features, making it a desirable option for those seeking a full-size luxury SUV.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

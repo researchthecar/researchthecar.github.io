@@ -68,6 +68,19 @@ The Express Cargo is known for its spacious cargo area, powerful engines, and du
     * Estimated Cost to Fix: $2,500 - $4,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear leaf springs breaking**
@@ -123,3 +136,15 @@ The Express Cargo is known for its spacious cargo area, powerful engines, and du
 **Summary**
 
 Overall, the 2020 Chevrolet Express Cargo has a few potential issues, but they are not widespread. The most common problems are with the engine and suspension, but even these are relatively infrequent. The Express Cargo is still a reliable and capable van, but it is important to be aware of these potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

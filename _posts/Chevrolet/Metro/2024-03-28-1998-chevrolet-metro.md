@@ -52,6 +52,19 @@ tags: ["Chevrolet", "Metro", "1998"]
     * Solution: Replacing the torque converter and associated components.
     * Estimated Cost to Fix: $1,000 - $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure:** The struts can wear out and cause noise, instability, and reduced handling.
@@ -101,3 +114,15 @@ tags: ["Chevrolet", "Metro", "1998"]
     * Recalls: NHTSA Campaign ID #05V479000
 
 **Summary:** The 1998 Chevrolet Metro is a budget-friendly and fuel-efficient vehicle, but it is known for several potential issues, particularly with its engine and transmission. The severity of the issues ranges from minor (such as door handle failure) to major (such as head gasket failure or transmission failure). The cost of repairs can vary significantly depending on the specific issue, but many can be addressed for under $1,000.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

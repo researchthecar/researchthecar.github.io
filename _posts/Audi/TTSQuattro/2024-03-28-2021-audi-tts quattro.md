@@ -39,6 +39,19 @@ Solution: Replace the mechatronic unit
 Estimated Cost to Fix: $2,000 - $5,000+
 Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -66,3 +79,15 @@ Recalls: N/A
 **Summary:**
 
 The 2021 Audi TTS Quattro exhibits potential issues with its turbocharger, fuel pump, mechatronic unit, alternator, and infotainment system. While some issues are costly to repair, such as turbocharger and transmission failures, many are relatively minor and affordable. Overall, the TTS is a reliable and enjoyable sports car, but potential buyers should consider the associated maintenance costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

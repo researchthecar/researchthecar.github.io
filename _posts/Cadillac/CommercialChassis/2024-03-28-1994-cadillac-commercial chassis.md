@@ -39,6 +39,19 @@ Description/Symptoms: Difficulty shifting, clutch pedal spongy or not engaging
 Solution: Replace clutch master cylinder
 Estimated Cost to Fix: $200 - $400
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension**
@@ -89,3 +102,15 @@ Estimated Cost to Fix: $150 - $300+
 **Summary**
 
 The 1994 Cadillac Commercial Chassis had significant issues with various components, particularly in the engine, transmission, and suspension. The severity of these issues ranged from minor annoyances to potential safety hazards. Repair costs could be substantial, especially for issues requiring major component replacements.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

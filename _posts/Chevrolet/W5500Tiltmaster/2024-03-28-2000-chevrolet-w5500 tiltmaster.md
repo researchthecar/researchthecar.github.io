@@ -46,6 +46,19 @@ The 2000 Chevrolet W5500 Tiltmaster is a heavy-duty commercial truck designed fo
     * Solution: Replace the torque converter
     * Estimated Cost to Fix: $2000 - $3000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Leaf Spring Failure:**
@@ -95,3 +108,15 @@ The 2000 Chevrolet W5500 Tiltmaster is a heavy-duty commercial truck designed fo
 The 2000 Chevrolet W5500 Tiltmaster is a capable truck, but it does have its share of potential issues. The most common engine problems include intake and exhaust manifold gasket failures, oil pressure sensor failures, and PCV valve failures. Transmission issues are typically related to clutch failure in manual transmissions and torque converter failure in automatic transmissions. Suspension issues include leaf spring failure. Electrical problems can range from alternator and starter failures to battery issues. Exterior issues are mostly limited to headlight switch failures and tail light lens corrosion. Interior issues include instrument panel cluster failure.
 
 Overall, the severity of the issues is moderate, with most repairs costing between $500 and $1200. However, more expensive repairs, such as transmission or torque converter replacement, can cost up to $3000.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

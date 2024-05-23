@@ -33,6 +33,19 @@ While the Sonata has many positive attributes, it has also been plagued by sever
 * **Transmission Fluid Leak:** This leak can lead to low fluid levels and transmission damage. Symptoms include slipping gears, delayed shifts, and a burning smell. The source of the leak must be identified and repaired to fix the issue. Estimated Cost to Fix: Varies depending on the source of the leak
 * **ECM Failure:** This failure can cause a variety of transmission issues, including shifting problems, limp mode, and illuminated CEL. The ECM must be replaced to fix the issue. Estimated Cost to Fix: $500 - $1,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure:** This failure can cause a clunking noise from the front end and affect handling. Symptoms include a clunking noise over bumps, reduced handling, and uneven tire wear. The strut mounts must be replaced to fix the issue. Estimated Cost to Fix: $200 - $400+
@@ -63,3 +76,15 @@ While the Sonata has many positive attributes, it has also been plagued by sever
 **Summary**
 
 The 1999 Hyundai Sonata is a reliable and affordable mid-size sedan with some common issues. Engine issues tend to be the most severe and expensive to repair, while interior and exterior issues are generally less severe. While repairs can be costly, they are necessary to maintain the vehicle's safety and reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

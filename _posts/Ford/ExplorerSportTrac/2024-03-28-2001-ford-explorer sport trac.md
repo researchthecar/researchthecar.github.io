@@ -33,6 +33,19 @@ The 2001 Ford Explorer Sport Trac is a mid-size pickup truck that combines the v
 - **Clutch failure:** The clutch may slip or fail, causing the vehicle to lose power. Symptoms include a slipping clutch, a loss of power, and a burning smell. The solution is to replace the clutch. The estimated cost to fix this issue is $500 - $700.
 - **Transmission grinding:** The transmission may grind when shifting gears. Symptoms include a grinding noise when shifting gears and a difficulty shifting gears. The solution is to replace the transmission. The estimated cost to fix this issue is $1500 - $2500.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Ball joint failure:** The ball joints can fail, causing the vehicle to lose stability and control. Symptoms include a clunking noise when turning, a loose or wobbly steering wheel, and a loss of control. The solution is to replace the ball joints. The estimated cost to fix this issue is $400 - $600.
@@ -56,3 +69,15 @@ The 2001 Ford Explorer Sport Trac is a mid-size pickup truck that combines the v
 **Summary**
 
 Overall, the 2001 Ford Explorer Sport Trac is a reliable vehicle with a few common issues. The most severe and expensive issue is rust on the frame, which can cost up to $10,000 to fix. Other common issues include intake manifold gasket failure, timing chain tensioner failure, spark plug blowout, transmission slipping, torque converter failure, ball joint failure, strut failure, alternator failure, battery drain, starter failure, cracked dashboard, and seat upholstery tears. Most of these issues are relatively minor and inexpensive to fix, but they can still be annoying and disruptive.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

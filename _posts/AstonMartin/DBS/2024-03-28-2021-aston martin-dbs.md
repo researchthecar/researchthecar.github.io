@@ -33,6 +33,19 @@ The 2021 Aston Martin DBS is a high-performance grand tourer powered by a twin-t
   - **Estimated Cost to Fix:** $500 - $2,500+
   - **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Squeaky Suspension:** The suspension may produce squeaking or rattling noises over rough roads.
@@ -68,3 +81,15 @@ The 2021 Aston Martin DBS is a high-performance grand tourer powered by a twin-t
 **Summary:**
 
 The 2021 Aston Martin DBS is a high-performance vehicle that has received positive reviews for its design, performance, and luxury. However, it has also been plagued by some significant issues, particularly with the engine and transmission. While some of these issues are relatively minor and inexpensive to fix, others can be costly and time-consuming to repair. Overall, the severity and cost of these issues should be considered before purchasing a 2021 Aston Martin DBS.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -36,6 +36,19 @@ The 2005 Maserati Spyder is a high-performance convertible powered by a naturall
         * Solution: Replacement of the mechatronic unit
         * Estimated Cost to Fix: $4,000 - $6,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Wear**
@@ -75,3 +88,15 @@ The 2005 Maserati Spyder is a high-performance convertible powered by a naturall
 **Summary**
 
 The 2005 Maserati Spyder is a high-performance luxury vehicle that offers an exciting driving experience. However, it is not without its issues. Some of the more common and costly problems to watch out for include cam phaser failure, intake manifold gasket leaks, clutch release cylinder failure, mechatronic unit failure, and convertible top issues. While the severity and cost of these issues can vary, owners should be prepared for potential repairs to keep their Spyder in good condition.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

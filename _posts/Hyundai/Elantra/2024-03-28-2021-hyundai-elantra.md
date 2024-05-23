@@ -43,6 +43,19 @@ The Elantra is praised for its sleek design, spacious interior, and advanced saf
 * **Estimated Cost to Fix:** $2,000 - $3,000+
 * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Premature strut failure:** Knocking or clunking noises from the suspension, reduced ride quality
@@ -74,3 +87,15 @@ The Elantra is praised for its sleek design, spacious interior, and advanced saf
 **Summary**
 
 While the 2021 Hyundai Elantra is generally a reliable vehicle, some owners have reported issues with its engine, transmission, suspension, electrical, and interior components. The severity and cost of these issues vary depending on the specific problem. It is important for owners to be aware of these potential problems and to address them promptly if they occur.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -33,6 +33,19 @@ The 2006 Hyundai Tucson is a compact SUV that was available with either a 2.0-li
 * **Transmission Slipping:** Transmission hesitates or slips when shifting gears. Caused by worn clutch packs or torque converter. Fixed by rebuilding the transmission or replacing the clutch packs and torque converter. Estimated Cost to Fix: $1,500 - $2,500+
 * **Solenoid Failure:** Transmission shifts erratically or does not shift at all. Caused by a faulty solenoid. Fixed by replacing the solenoid. Estimated Cost to Fix: $200 - $400+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure:** Suspension makes a clunking noise when hitting bumps. Caused by worn strut mounts. Fixed by replacing the strut mounts. Estimated Cost to Fix: $200 - $300+
@@ -59,3 +72,15 @@ The 2006 Hyundai Tucson is a compact SUV that was available with either a 2.0-li
 **Summary**
 
 The 2006 Hyundai Tucson is a generally reliable vehicle, but it does have some common issues. The most severe and expensive issue is timing chain failure, which can affect the 2.0-liter engine. Other common issues include engine misfires, transmission slipping, and suspension component failures. Overall, the Tucson is a good choice for those looking for an affordable and comfortable compact SUV, but it is important to be aware of the potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

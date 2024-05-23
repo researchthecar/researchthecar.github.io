@@ -34,6 +34,19 @@ The 1997 Chevrolet Malibu is a midsize sedan that was offered with a variety of 
 * **5-speed manual**
     * **No major issues found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front suspension:**
     * **Premature wear of lower ball joints:**
@@ -65,3 +78,15 @@ The 1997 Chevrolet Malibu is a midsize sedan that was offered with a variety of 
 
 **Summary:**
 While the 1997 Chevrolet Malibu offered good value and comfort, it had its share of issues. The engine intake manifold gasket failure was a common problem across multiple engine options. Electrical problems and alternator failure were also reported. However, suspension and interior issues were less severe and costly to repair. Overall, the Malibu's problems were manageable, but some could be expensive to address.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

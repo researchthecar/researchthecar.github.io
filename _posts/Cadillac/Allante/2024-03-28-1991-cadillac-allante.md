@@ -29,6 +29,19 @@ The 1991 Cadillac Allante was a luxury roadster available with a single engine a
     Estimated Cost to Fix: $2,000 - $4,000+
     Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Sagging**
@@ -70,3 +83,15 @@ The 1991 Cadillac Allante was a luxury roadster available with a single engine a
 **Summary:**
 
 The 1991 Cadillac Allante is a stylish and comfortable roadster with significant reliability issues. The most common problems include intake manifold gasket failure, transmission slipping, and electrical system malfunctions. These issues can be costly to fix, making the Allante a risky investment for some buyers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

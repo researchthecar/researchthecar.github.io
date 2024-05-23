@@ -38,6 +38,19 @@ The 1992 Hyundai Scoupe is a compact sports car powered by a 1.5L SOHC inline-4 
     * Solution: Replace the torque converter.
     * Estimated Cost to Fix: $600 - $1500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure:** Struts can wear out over time, leading to reduced ride comfort, poor handling, and tire wear.
@@ -68,3 +81,15 @@ The 1992 Hyundai Scoupe is a compact sports car powered by a 1.5L SOHC inline-4 
 **Summary:**
 
 The 1992 Hyundai Scoupe has several potential issues, particularly with its engine (intake valve sticking and head gasket failure), transmission (synchronizer wear and torque converter failure), and suspension (strut failure). These issues can be costly to repair, ranging from a few hundred dollars to over $1000 in some cases. However, the Scoupe remains a popular choice for budget-minded enthusiasts seeking a sporty compact car.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

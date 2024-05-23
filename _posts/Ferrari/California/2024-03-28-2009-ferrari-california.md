@@ -39,6 +39,19 @@ People like the California's stylish design, powerful engine, and handling. Howe
 **Estimated Cost to Fix:** $3,000 - $6,000
 **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Issue:** Worn strut mounts
@@ -74,3 +87,15 @@ People like the California's stylish design, powerful engine, and handling. Howe
 **Summary**
 
 The 2009 Ferrari California is a high-performance sports car with some minor but potentially costly issues. The most severe and expensive issue is piston ring failure, which can require a complete engine rebuild. Other issues, such as worn synchros and a faulty clutch actuator, can also be expensive to fix. However, many of the issues are relatively minor and can be repaired for a reasonable cost.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

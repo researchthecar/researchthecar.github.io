@@ -47,6 +47,19 @@ Drivers praise the Eldorado for its opulent cabin, smooth ride, and powerful eng
     * Estimated Cost to Fix: $1,500 - $3,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure**
@@ -88,3 +101,15 @@ Drivers praise the Eldorado for its opulent cabin, smooth ride, and powerful eng
 **Summary**
 
 The 1993 Cadillac Eldorado has several potential issues, particularly with its engine and transmission. The cost to fix these problems can be substantial, but the severity of the issues varies. Regular maintenance and inspection can help prevent or detect these issues before they become major problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

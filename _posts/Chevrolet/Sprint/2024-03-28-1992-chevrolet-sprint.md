@@ -31,6 +31,19 @@ The 1992 Chevrolet Sprint is a subcompact hatchback that was available with a 1.
 * **Transmission mount failure:** The transmission mount can fail, causing the transmission to move excessively. Symptoms include a rattling noise from the engine, difficulty shifting gears, and a loss of power. The solution is to replace the transmission mount. Estimated cost to fix: $100 - $200
 * **Shift linkage failure:** The shift linkage can fail, causing the transmission to become inoperable. Symptoms include difficulty shifting gears or the gears becoming stuck. The solution is to replace the shift linkage. Estimated cost to fix: $100 - $300
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut failure:** The front struts can fail, causing the ride to become harsh and the handling to become unstable. Symptoms include a rattling noise from the front of the car, a decrease in ride height, and decreased handling. The solution is to replace the front struts. Estimated cost to fix: $300 - $500 per strut
@@ -58,3 +71,15 @@ The 1992 Chevrolet Sprint is a subcompact hatchback that was available with a 1.
 **Summary**
 
 The 1992 Chevrolet Sprint is a reliable and fuel-efficient vehicle, but it has some common issues that owners should be aware of. The most severe issues include blown head gaskets, timing chain tensioner failure, and transmission mount failure, which can all lead to significant repair costs. Other issues, such as door lock failure, window regulator failure, and climate control failure, are less severe but can still be inconvenient and expensive to fix. Overall, the 1992 Chevrolet Sprint is a good value for the money, but potential buyers should be aware of the potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

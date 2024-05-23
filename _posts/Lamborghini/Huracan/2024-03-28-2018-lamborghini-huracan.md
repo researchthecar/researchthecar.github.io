@@ -25,6 +25,19 @@ The 2018 Lamborghini Huracan is a high-performance sports car that combines cutt
 **8-Speed Dual-Clutch Transmission (DSG)**
 - **Mechatronic Unit Failure:** Symptoms include intermittent gear changes, hesitation, or failure to engage gears. The failure occurs when the mechatronic unit, which controls the transmission's hydraulics, malfunctions. Solution: Replacement of the mechatronic unit. Estimated Cost to Fix: $5,000 - $7,000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Strut Mount Failure:** Symptoms include excessive noise or vibration over bumps. The failure is caused by worn strut mounts, which allow the struts to move excessively and create noise. Solution: Replacement of the strut mounts. Estimated Cost to Fix: $500 - $1,000 per corner
 
@@ -45,3 +58,15 @@ The 2018 Lamborghini Huracan is a high-performance sports car that combines cutt
 **Summary**
 
 The 2018 Lamborghini Huracan is a high-performance sports car with a reputation for exceptional performance and handling. However, it is not immune to certain issues, particularly related to its engine, transmission, and suspension. These issues can range from minor inconveniences to potentially severe and expensive repairs. While the severity and cost of the reported issues vary, it's important for potential owners and drivers to be aware of them and factor them into their decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

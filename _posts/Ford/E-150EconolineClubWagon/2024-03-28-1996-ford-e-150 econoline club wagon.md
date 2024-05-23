@@ -22,6 +22,19 @@ The 1996 Ford E-150 Econoline Club Wagon is a full-size van available with multi
 **4-speed automatic**
 * **Transmission slipping:** Transmission slipping gears; difficulty shifting; delayed engagement. Solution: Repair or replace the transmission. Estimated Cost to Fix: $1,200 - $2,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front ball joint failure:** Loose or worn ball joints; clunking or popping noises; steering problems. Solution: Replace the ball joints. Estimated Cost to Fix: $200 - $400+
 * **Rear leaf spring failure:** Sagging rear suspension; uneven tire wear; poor handling. Solution: Replace the leaf springs. Estimated Cost to Fix: $400 - $600+
@@ -41,3 +54,15 @@ The 1996 Ford E-150 Econoline Club Wagon is a full-size van available with multi
 
 **Summary:**
 The 1996 Ford E-150 Econoline Club Wagon has a number of potential issues, including engine gasket failures, transmission problems, suspension issues, electrical problems, and interior problems. The severity of these issues can vary, but they can be expensive to fix. Potential owners should be aware of these issues before purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

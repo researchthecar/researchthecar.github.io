@@ -33,6 +33,19 @@ The 1990 Lamborghini Diablo is an iconic supercar powered by a naturally aspirat
         * Solution: Replace or repair shifter linkage, worn synchronizers, or damaged gears.
         * Estimated Cost to Fix: $500 - $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension**
@@ -74,3 +87,15 @@ The 1990 Lamborghini Diablo is an iconic supercar powered by a naturally aspirat
 **Summary**
 
 While the Lamborghini Diablo is a desirable and thrilling supercar, it has its share of potential issues. Some of these issues can be severe and expensive to fix, such as a catastrophic engine failure due to timing belt failure. Other issues, such as electrical gremlins or headlight bulb burnouts, are less severe but can still be frustrating for owners. Overall, it is essential to factor in the potential costs of maintenance and repairs when considering purchasing a used Diablo.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

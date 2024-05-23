@@ -39,6 +39,19 @@ Owners praise the Flying Spur for its opulent interior, powerful performance, an
   * Estimated Cost to Fix: $1,500 - $5,000+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Failure**
@@ -89,3 +102,15 @@ Owners praise the Flying Spur for its opulent interior, powerful performance, an
 **Summary**
 
 The 2014 Bentley Flying Spur offers an opulent and powerful experience, but some owners have reported reliability issues with certain components. The severity of these issues can range from minor cosmetic annoyances to more significant mechanical failures. The cost to repair these issues can be substantial, so potential buyers should be aware of these potential problems before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -135,3 +135,15 @@ The Optra was praised for its well-equipped interior, decent fuel economy, and r
 ### Summary
 
 The 2010 Chevrolet Optra has a number of potential issues, but most are relatively minor and inexpensive to fix. The most serious issues are the cylinder head gasket failure and torque converter failure, which can both lead to major engine or transmission damage. However, these issues are not common and most Optra owners experience few, if any, problems with their vehicles. Overall, the Optra is a reliable and affordable compact sedan that offers decent performance and features for its price.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

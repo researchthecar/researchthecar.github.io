@@ -45,6 +45,19 @@ The 1990 Chevrolet C60 Kodiak is a medium-duty pickup truck that offers a variet
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Leaf Spring Failure:** Failure of the front leaf springs can result in a loss of ride height and handling.
@@ -88,3 +101,15 @@ The 1990 Chevrolet C60 Kodiak is a medium-duty pickup truck that offers a variet
 **Summary**
 
 The 1990 Chevrolet C60 Kodiak is a capable and durable pickup truck, but it has been plagued by a number of issues. The most common problems include engine valve train noise, intake manifold gasket failure, injection pump failure, transmission grinding, and suspension failures. Electrical issues and interior malfunctions have also been reported. The severity and cost of repairs for these issues can vary greatly, but some can be quite expensive. Potential buyers should be aware of these potential problems before purchasing a C60 Kodiak.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

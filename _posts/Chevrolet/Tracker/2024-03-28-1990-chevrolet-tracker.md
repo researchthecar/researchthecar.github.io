@@ -94,3 +94,15 @@ The 1990 Chevrolet Tracker is a compact SUV that was available with a 1.6-liter 
 ## Summary
 
 Overall, the 1990 Chevrolet Tracker is a reliable and affordable vehicle. However, it is not without its issues. The most common problems include head gasket failure, intake manifold gasket leaks, and suspension component wear. These issues can be costly to repair, but they are not typically severe and can be avoided with regular maintenance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

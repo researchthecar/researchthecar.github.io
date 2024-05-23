@@ -41,6 +41,19 @@ The 2009 Chevrolet Tornado was a compact pickup truck based on the Matiz subcomp
         * Estimated Cost to Fix: $200 - $400+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * No Issues Found
@@ -77,3 +90,15 @@ The 2009 Chevrolet Tornado was a compact pickup truck based on the Matiz subcomp
 **Summary:**
 
 The 2009 Chevrolet Tornado is a budget-friendly pickup truck with known issues primarily related to the engine, transmission, and electrical system. The severity of the issues ranges from relatively minor (like HVAC fan motor failure) to more expensive repairs (like transmission slipping). The cost of repairs can vary significantly depending on the issue and the extent of the damage. Overall, the Tornado is a basic and affordable vehicle, but potential buyers should be aware of the potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -49,6 +49,19 @@ The 2008 Maserati Quattroporte is a luxury sedan that combines performance, styl
     * Estimated Cost to Fix: $500 - $700+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Wear**
@@ -108,3 +121,15 @@ The 2008 Maserati Quattroporte is a luxury sedan that combines performance, styl
 **Summary**
 
 While the 2008 Maserati Quattroporte offers a luxurious and performance-oriented driving experience, it is not without its challenges. Issues such as timing chain tensioner failures, valve seat wear, and torque converter failures can be costly to repair. Other issues like door handle failures and drain plug clogging are less severe but can still be bothersome. Overall, the cost of ownership for this vehicle can be significant, and potential buyers should be aware of the potential issues before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

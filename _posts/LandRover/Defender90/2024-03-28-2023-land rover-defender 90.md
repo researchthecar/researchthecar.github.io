@@ -24,6 +24,19 @@ The Defender 90 is praised for its rugged design, powerful engine, and comfortab
 * **8-Speed Automatic Transmission**
     * **Shifting Issues:** The transmission may hesitate or slip when shifting gears. The solution may involve reprogramming the transmission control module, replacing the transmission fluid, or overhauling the transmission. Estimated Cost to Fix: $500 - $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -43,3 +56,15 @@ The Defender 90 is praised for its rugged design, powerful engine, and comfortab
 
 ## Summary
 The 2023 Land Rover Defender 90 is a capable off-roader with a powerful engine and luxurious interior. However, it has been plagued by a number of issues, including engine leaks, timing chain problems, fuel injector failures, and electrical problems. Some of these issues can be costly to repair, but others can be addressed by software updates or minor repairs. Overall, the severity and cost of the issues with the Defender 90 vary depending on the specific problem.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -37,6 +37,19 @@ The 2016 Land Rover Discovery Sport is a compact luxury SUV offered with two eng
 - Estimated Cost to Fix: $4000 - $6000+
 - Recalls: LR068628, LR069927
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Arm Ball Joint Failure:**
@@ -96,3 +109,15 @@ The 2016 Land Rover Discovery Sport is a compact luxury SUV offered with two eng
 **Summary:**
 
 The 2016 Land Rover Discovery Sport has experienced a range of issues, including engine and transmission problems, suspension malfunctions, electrical failures, and exterior and interior issues. While some issues are relatively minor and inexpensive to fix, others, such as mechatronic unit failure and infotainment system malfunctions, can be costly and time-consuming to repair. Owners should be aware of these potential issues and factor them into their purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

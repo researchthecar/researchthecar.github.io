@@ -49,6 +49,19 @@ The 1998 Ford Club Wagon is a full-size van available with various engine and tr
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Sway Bar End Link Failure**
@@ -96,3 +109,15 @@ The 1998 Ford Club Wagon is a full-size van available with various engine and tr
 **Summary:**
 
 The 1998 Ford Club Wagon has faced some common issues that can impact its reliability and cost of ownership. While some issues, such as intake manifold gasket failure and timing chain tensioner failure, can be costly to repair, others are more affordable to resolve. Overall, owners should be aware of these potential issues and budget accordingly for maintenance and repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

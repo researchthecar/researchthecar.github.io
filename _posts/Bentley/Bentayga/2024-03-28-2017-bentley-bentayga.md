@@ -32,6 +32,19 @@ The 2017 Bentley Bentayga is a high-performance luxury SUV powered by a twin-tur
     * Solution: Replace or rebuild the torque converter.
     * Estimated Cost to Fix: $1,500 - $3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Air Suspension Leaks:**
     * Description/Symptoms: Vehicle leaning or sagging on one side, poor ride quality.
@@ -66,3 +79,15 @@ The 2017 Bentley Bentayga is a high-performance luxury SUV powered by a twin-tur
 
 **Summary:**
 While the 2017 Bentley Bentayga is a highly desirable SUV, potential owners should be aware of the possible issues it may face. While some problems are minor and relatively inexpensive to fix, others, such as engine or transmission failures, can be more serious and costly. It is important to factor in these potential issues and have a service plan or extended warranty in place to cover any unexpected repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

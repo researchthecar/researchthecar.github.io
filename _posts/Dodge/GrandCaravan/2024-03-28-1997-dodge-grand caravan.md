@@ -43,6 +43,19 @@ Drivers appreciate the Grand Caravan's roomy cabin, versatile seating arrangemen
 * **Overdrive band failure:** This can cause a lack of power in overdrive gear. The overdrive band needs to be replaced. **Estimated Cost to Fix:** $500 - $1,000
 * **Shift solenoid failure:** Same as four-speed automatic. **Estimated Cost to Fix:** $200 - $400
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut failure:** This can cause a clunking noise, a rough ride, and uneven tire wear. The front struts need to be replaced. **Estimated Cost to Fix:** $500 - $1,000
@@ -69,3 +82,15 @@ Drivers appreciate the Grand Caravan's roomy cabin, versatile seating arrangemen
 **Summary**
 
 The 1997 Dodge Grand Caravan is a popular minivan with a spacious interior, comfortable ride, and plenty of features. However, it has also been plagued by a number of issues over the years, including engine problems, transmission problems, suspension problems, electrical problems, and interior problems. The cost of these issues can vary depending on the severity of the problem. Some of the more serious issues, such as engine or transmission failure, can be very expensive to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

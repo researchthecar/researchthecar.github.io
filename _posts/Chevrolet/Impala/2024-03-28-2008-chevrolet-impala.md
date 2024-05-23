@@ -48,6 +48,19 @@ The Impala is praised for its spacious cabin, comfortable ride, and affordable p
         * Solution: Replace the input shaft seal.
         * Estimated Cost to Fix: $200 - $500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Control Arm Bushing Failure**
@@ -83,3 +96,15 @@ The Impala is praised for its spacious cabin, comfortable ride, and affordable p
 **Summary**
 
 The 2008 Chevrolet Impala has several known issues, ranging from mild annoyances to potentially serious problems. Engine and transmission issues are the most common and can be expensive to repair. Suspension and electrical problems are less severe but can still be costly to fix. Interior issues are relatively minor but can impact the overall comfort and appearance of the vehicle. Overall, the Impala is a reliable and affordable sedan, but it is important to be aware of the potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

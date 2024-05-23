@@ -13,6 +13,19 @@ The 2023 Audi e-tron Sportback is an all-electric luxury SUV with a sleek and sp
 
 **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -52,3 +65,15 @@ Recalls: NHTSA Campaign Number: 22V-619
 **Summary**
 
 The 2023 Audi e-tron Sportback has a few reported issues, primarily related to the electrical system. The most serious issue is the high-voltage battery cooling system failure, which can be costly to repair. However, the majority of the reported issues are relatively minor and inexpensive to fix. Overall, the e-tron Sportback is a well-built and reliable vehicle that provides a comfortable and enjoyable driving experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

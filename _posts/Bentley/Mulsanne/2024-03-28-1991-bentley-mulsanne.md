@@ -22,6 +22,19 @@ The 1991 Bentley Mulsanne is a luxurious sedan powered by a 6.75-liter V8 engine
 
   * **Shift Solenoid Failure:** Malfunctioning shift solenoids lead to erratic shifting, delayed engagements, and transmission slipping. Replacing the faulty solenoids and updating the transmission software is required. Estimated Cost to Fix: $1,500 - $2,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Valve Failure:** Leaking or faulty air suspension valves cause the vehicle to sag on one or more corners. Replacing the affected valves and adjusting the suspension system is necessary. Estimated Cost to Fix: $1,000 - $1,500+
@@ -45,3 +58,15 @@ The 1991 Bentley Mulsanne is a luxurious sedan powered by a 6.75-liter V8 engine
 **Summary**
 
 The 1991 Bentley Mulsanne is a luxurious and powerful sedan, but it does have several common issues. The severity and cost of these issues vary, but some can be quite expensive to repair. Potential buyers should be aware of these issues and factor them into their decision-making process.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

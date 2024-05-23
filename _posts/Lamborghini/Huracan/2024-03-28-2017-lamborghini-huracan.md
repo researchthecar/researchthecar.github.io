@@ -39,6 +39,19 @@ The 2017 Lamborghini Huracan is an Italian supercar known for its sleek design a
     * Solution: Reprogram or replace TCM
     * Estimated Cost to Fix: $1,000 - $2,500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Shock Absorber Failure:**
@@ -92,3 +105,15 @@ The 2017 Lamborghini Huracan is an Italian supercar known for its sleek design a
 **Summary:**
 
 The 2017 Lamborghini Huracan has experienced various issues across its major components, but these issues vary in severity and cost. Engine and transmission problems can be costly to repair, while suspension, electrical, exterior, and interior issues tend to be less expensive. It's important for Huracan owners to be aware of these potential issues and budget accordingly for maintenance and repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

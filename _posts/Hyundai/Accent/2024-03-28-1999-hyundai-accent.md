@@ -19,6 +19,19 @@ The Accent was praised for its fuel efficiency, affordability, and reliability. 
 
 * **Five-Speed Manual Transmission**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **No Issues Found**
@@ -51,3 +64,15 @@ Estimated Cost to Fix: $200 - $500
 **Summary:**
 
 The 1999 Hyundai Accent is a reliable and affordable vehicle, but it does have some common issues that can be expensive to fix. The most serious issue is the alternator failure, which can lead to a dead battery and leave you stranded. The other issues are less severe, but they can still be annoying and costly to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

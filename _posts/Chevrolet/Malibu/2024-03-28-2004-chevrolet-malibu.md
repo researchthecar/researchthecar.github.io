@@ -49,6 +49,19 @@ The 2004 Chevrolet Malibu is a mid-size sedan that offers a range of engine and 
         * Estimated Cost to Fix: $800 - $1,500
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Failure**
@@ -99,3 +112,15 @@ The 2004 Chevrolet Malibu is a mid-size sedan that offers a range of engine and 
 **Summary**
 
 The 2004 Chevrolet Malibu has a range of potential issues, including engine and transmission problems, suspension failures, electrical issues, and exterior and interior concerns. Some of the issues, such as the intake manifold gasket failure and the timing chain tensioner failure, can be expensive to repair. However, many of the other issues are relatively minor and inexpensive to fix. Overall, the Malibu is a reliable vehicle, but some owners may encounter problems that require attention.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

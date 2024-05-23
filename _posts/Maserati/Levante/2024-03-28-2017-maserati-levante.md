@@ -61,6 +61,19 @@ The 2017 Maserati Levante is a mid-size luxury SUV that combines performance and
     * Estimated Cost to Fix: $600-$1,200
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 * **Air Suspension Compressor Failure:**
     * Description/Symptoms: Vehicle losing ride height, difficulty adjusting ride height.
@@ -131,3 +144,15 @@ The 2017 Maserati Levante is a mid-size luxury SUV that combines performance and
 
 **Summary:**
 While the Maserati Levante is a luxurious and captivating SUV, it has faced reliability concerns that can be costly to fix. The most severe issues include engine failures, turbocharger bearing failures, and torque converter lock-up clutch failures, which can all lead to high repair bills. The electrical and interior components also have some potential issues, but these are generally less expensive to fix. Overall, potential buyers should be aware of the potential reliability issues with the Maserati Levante and consider the costs associated with repairs before making a decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

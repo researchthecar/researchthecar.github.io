@@ -44,6 +44,19 @@ The 1998 Cadillac DeVille is a full-size luxury sedan that was available with a 
         * Estimated Cost to Fix: $1,000 - $2,000
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Failure**
@@ -99,3 +112,15 @@ The 1998 Cadillac DeVille is a full-size luxury sedan that was available with a 
 **Summary**
 
 The 1998 Cadillac DeVille is a comfortable and powerful luxury sedan, but it is also prone to a number of common issues. The severity of these issues can vary, and some can be quite expensive to fix. Potential owners should be aware of these issues before purchasing a DeVille.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

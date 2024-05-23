@@ -40,6 +40,19 @@ The 650i is highly praised for its powerful engine, sophisticated handling, and 
     * Estimated Cost to Fix: $200-$400
     * Recalls: NHTSA Campaign Number: 19V363000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Bushing Failure:**
@@ -81,3 +94,15 @@ The 650i is highly praised for its powerful engine, sophisticated handling, and 
 **Summary**
 
 The 2014 BMW 650i Gran Coupe is a reliable vehicle overall. However, it has been reported to have some common issues, such as oil leaks, timing chain tensioner failure, and suspension bushing failure. The severity of these issues varies, and the cost to fix them can range from minor to moderate. It is important for owners to be aware of these potential issues and to have their vehicles serviced regularly to prevent or address them promptly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

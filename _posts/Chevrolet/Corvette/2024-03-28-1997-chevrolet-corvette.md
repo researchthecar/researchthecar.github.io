@@ -40,6 +40,19 @@ The 1997 Corvette was praised for its impressive performance, but it also had so
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear shock mount failure:** Symptoms include excessive clunking or knocking noises from the rear of the vehicle, especially over bumps. Solution: Replace the rear shock mounts. Estimated Cost to Fix: $300 - $600
@@ -61,3 +74,15 @@ The 1997 Corvette was praised for its impressive performance, but it also had so
 **Summary**
 
 Overall, the 1997 Chevrolet Corvette is a reliable and powerful sports car, but it does have some common issues to be aware of. The most severe and expensive issues relate to engine and transmission problems, such as cylinder head gasket failure and transmission slipping. Other issues, such as suspension and electrical problems, are typically less costly to repair. However, it is important to note that the cost of repairs will vary depending on the specific issue and the location of the repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -13,6 +13,19 @@ The 2023 Cadillac LYRIQ is an all-electric luxury SUV that offers a powerful and
 
 **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -57,3 +70,15 @@ Estimated Cost to Fix: $200 - $500
 **Summary**
 
 The 2023 Cadillac LYRIQ offers a sleek and technologically advanced driving experience, but it has also been subject to several issues. While the issues are mostly minor, some, such as battery degradation and infotainment problems, can be significant and expensive to fix. It is important for potential buyers to be aware of these issues before purchasing a LYRIQ.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

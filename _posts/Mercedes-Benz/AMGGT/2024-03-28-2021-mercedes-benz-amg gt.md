@@ -22,6 +22,19 @@ The 2021 Mercedes-Benz AMG GT is a high-performance sports car that combines the
     * **Clutch Wear:** Description/Symptoms: Slipping gears, poor shifting, delayed acceleration, shuddering or vibration during gear changes. Solution: Replacement of clutch packs. Estimated Cost to Fix: $1,500 - $2,000+. Recalls: None Found
     * **Mechatronic Unit Failure:** Description/Symptoms: Transmission unable to shift gears, transmission warning light. Solution: Replacement of mechatronic unit. Estimated Cost to Fix: $2,000 - $3,000+. Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -43,3 +56,15 @@ The 2021 Mercedes-Benz AMG GT is a high-performance sports car that combines the
 **Summary**
 
 The 2021 Mercedes-Benz AMG GT is a well-engineered and exciting sports car. However, it is prone to certain issues that can be costly to repair. The severity of the issues varies, but some, such as turbocharger and timing chain failure, can lead to significant engine damage if not addressed promptly. Overall, the cost of repairs for the 2021 AMG GT can be a concern for potential buyers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -21,6 +21,19 @@ The Discovery Sport is well-regarded for its comfortable interior, spacious carg
 **Transmission**
 - **8-Speed Automatic Transmission:** Description/Symptoms: The transmission may shift harshly, slip, or shudder. Solution: Repair or replace the transmission. Estimated Cost to Fix: $2,500 - $5,000. Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Front Suspension Lower Control Arm Wear:** Description/Symptoms: The lower control arm bushings may wear prematurely, causing a clunking noise when turning or braking. Solution: Replace the lower control arms. Estimated Cost to Fix: $500 - $750. Recalls: None Found
 
@@ -37,3 +50,15 @@ The Discovery Sport is well-regarded for its comfortable interior, spacious carg
 **Summary**
 
 The 2022 Land Rover Discovery Sport has a number of potential issues, with the most severe being engine and transmission failures. These issues can be costly to repair and may affect the vehicle's reliability. However, it is important to note that not all Discovery Sport owners will experience these problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

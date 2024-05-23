@@ -34,6 +34,19 @@ The 1995 Bentley Continental is a handcrafted luxury coupe that combines classic
     * Estimated Cost to Fix: $2,500 - $5,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Bushing Wear:**
@@ -79,3 +92,15 @@ The 1995 Bentley Continental is a handcrafted luxury coupe that combines classic
 **Summary**
 
 The 1995 Bentley Continental is a luxurious vehicle that provides an unforgettable driving experience. However, it is not without its issues. While engine and transmission problems are not as common, electrical and suspension issues can be more prevalent. The severity of these issues can vary depending on the specific problem and its underlying cause. The cost to repair these issues can be substantial, so owners should be prepared for potentially high maintenance costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -34,6 +34,19 @@ The 2014 Mercedes-Benz Alliado was a luxury subcompact crossover SUV that offere
     - Estimated Cost to Fix: $1,000 - $3,000+
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **No Major Issues Found**
@@ -77,3 +90,15 @@ The 2014 Mercedes-Benz Alliado was a luxury subcompact crossover SUV that offere
 Overall, the 2014 Mercedes-Benz Alliado had several notable issues, particularly with its engine and electrical systems. While the 2.0-liter engine seemed to be more reliable, the 1.6-liter engine was prone to turbocharger and timing chain failures. The seven-speed automatic transmission also exhibited frequent shuddering or hesitation during gear changes. Additionally, electrical gremlins and premature battery failures were common problems.
 
 The severity of these issues varied, with engine failures being the most costly and concerning. Repairs for the engine and transmission could easily exceed several thousand dollars. However, some issues, such as electrical problems and infotainment glitches, were less severe and relatively inexpensive to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

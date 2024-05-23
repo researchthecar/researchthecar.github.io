@@ -24,6 +24,19 @@ The 2012 BMW Alpina B7 xDrive is a high-performance luxury sedan powered by a tw
 * **Transmission Fluid Leak:** Leaks developing at the transmission pan gasket or other seals, causing fluid loss and potential transmission damage. Requires gasket replacement or seal repair. $500 - $1,200+
 * **Shifting Issues:** Intermittent shifting issues, including delayed shifts or harsh engagement, can be caused by worn solenoids or faulty valve bodies. Requires transmission servicing or component replacement. $1,500 - $4,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure:** Premature failure of the front strut mounts, leading to knocking or clunking noises when turning or driving over bumps. Requires strut mount replacement. $400 - $800+
@@ -48,3 +61,15 @@ The 2012 BMW Alpina B7 xDrive is a high-performance luxury sedan powered by a tw
 **Summary**
 
 While the 2012 BMW Alpina B7 xDrive offers impressive performance and luxury, it has some reported issues that potential buyers should consider. The severity and cost of these issues vary, but owners may experience expenses for turbocharger replacement, transmission servicing, suspension repairs, electrical system diagnoses, or interior component failures. It's important to consult with a qualified technician or refer to BMW service bulletins for specific details and estimated costs related to these issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

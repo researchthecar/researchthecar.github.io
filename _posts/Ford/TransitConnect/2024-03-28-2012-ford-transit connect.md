@@ -25,6 +25,19 @@ Recalls: 13V465000, 16V749000
 * **Torque Converter Failure:** The torque converter may fail, causing the transmission to lose power. Symptoms include a lack of acceleration, shuddering, and a burning smell. The solution is to replace the torque converter and fluid. Estimated Cost to Fix: $1,500 - $2,000+
 Recalls: 14S02, 16S40
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Premature Shock and Strut Wear:** The front shocks and struts may wear out prematurely, leading to a rough ride and reduced handling. The solution is to replace the shocks and struts. Estimated Cost to Fix: $600 - $1,000+
 * **Rear Leaf Spring Issues:** The rear leaf springs may break or sag over time, affecting the vehicle's ride height and handling. The solution is to replace the leaf springs. Estimated Cost to Fix: $800 - $1,200+
@@ -48,3 +61,15 @@ Recalls: None Found
 **Summary**
 
 The 2012 Ford Transit Connect has faced several issues, including engine, transmission, suspension, and electrical problems. Some of these issues can be costly to repair and could potentially affect the vehicle's reliability. While the issues may vary in severity, potential owners should be aware of and consider the possible costs associated with these repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

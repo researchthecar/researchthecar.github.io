@@ -47,6 +47,19 @@ Owners of the Audi TT Quattro appreciate its sleek design, impressive performanc
     * Estimated Cost to Fix: $2,500 - $4,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Wear:**
@@ -82,3 +95,15 @@ Owners of the Audi TT Quattro appreciate its sleek design, impressive performanc
 **Summary**
 
 While the 2014 Audi TT Quattro is a desirable sports car, it does have some potential issues to be aware of. The severity and cost of these issues vary, but some, such as the mechatronic unit failure, can be quite expensive to fix. It is important to have the vehicle inspected regularly and to address any issues promptly to avoid more costly repairs in the future.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

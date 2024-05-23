@@ -58,6 +58,19 @@ The 1991 Chrysler Town & Country is a full-size minivan known for its comfortabl
     * Estimated Cost to Fix: $200 - $500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -113,3 +126,15 @@ The 1991 Chrysler Town & Country is a full-size minivan known for its comfortabl
 **Summary:**
 
 The 1991 Chrysler Town & Country has a moderate number of potential issues, with the most common being engine and transmission problems. However, the severity and cost of these issues vary widely, and many of the affected parts can be repaired or replaced at a relatively low cost. Overall, this vehicle is generally known for its reliability and dependability, making it a solid choice for families and those seeking a spacious and comfortable minivan.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

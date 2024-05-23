@@ -53,6 +53,19 @@ The 2020 Alfa Romeo Giulia is a compact luxury sports sedan that comes standard 
     Estimated Cost to Fix: $4,000 - $6,000+
     Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Front Suspension Noise:**
     Description/Symptoms: Clunking or rattling noises from the front suspension, particularly over uneven roads
@@ -103,3 +116,15 @@ The 2020 Alfa Romeo Giulia is a compact luxury sports sedan that comes standard 
 
 **Summary:**
 The 2020 Alfa Romeo Giulia has faced various issues, most commonly affecting the engine, transmission, and electrical components. While severe issues like mechatronic unit failure or engine turbocharger replacement can be costly, minor problems like battery drain or HVAC malfunctions can be resolved at a relatively lower cost. It's worth noting that the severity and frequency of these issues may vary depending on individual driving habits and maintenance schedules.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -29,6 +29,19 @@ Solution: Replace the clutch disc and pressure plate.
 Estimated Cost to Fix: $1,000 - $1,500
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -56,3 +69,15 @@ Recalls: None Found
 **Summary:**
 
 The 2017 Aston Martin V8 Vantage is a high-performance sports car with impressive performance and handling. However, it does have some notable issues, including intake manifold cracking and clutch slippage. The interior is also known to be cramped and have limited storage space. The severity of these issues can vary depending on the individual vehicle and the cost of repairs can be substantial.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -25,6 +25,19 @@ While the Huracan is highly praised for its performance and driving dynamics, it
     * **Mechatronic Unit Failure:** Faulty mechatronic units can lead to shifting problems, loss of power, and transmission warnings. Replacement of the mechatronic unit is necessary. *$3,000 - $5,000+
     * **Software Issues:** Transmission software glitches can cause shifting delays, harsh shifts, or other transmission abnormalities. Software updates or reprogramming may resolve the issue. *$500 - $1,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension:**
@@ -49,3 +62,15 @@ While the Huracan is highly praised for its performance and driving dynamics, it
 **Summary**
 
 Overall, the 2019 Lamborghini Huracan has encountered a range of issues, including engine valve failures, transmission problems, suspension issues, and electrical malfunctions. While some of these issues can be costly to repair, they are generally not widespread or severe enough to detract from the car's overall performance and driving experience. Owners should remain aware of the potential issues and factor in the potential costs of maintenance and repairs when considering the purchase or ownership of a Huracan.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

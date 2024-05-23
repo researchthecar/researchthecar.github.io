@@ -25,6 +25,19 @@ The 1999 Chevrolet Prizm was a compact sedan manufactured by Toyota. It was powe
     * **Transmission Slippage:** Transmission slipping or refusing to shift gears. Overhauling or replacing the transmission fixes the issue. Estimated Cost to Fix: $1,500 - $3,000+
 * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Struts:**
@@ -54,3 +67,15 @@ The 1999 Chevrolet Prizm was a compact sedan manufactured by Toyota. It was powe
 **Summary:**
 
 Overall, the 1999 Chevrolet Prizm is a reliable and affordable vehicle. However, it is not without its issues. The engine, transmission, and suspension can have some costly problems that require major repairs. Electrical and exterior issues are relatively minor and less expensive to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

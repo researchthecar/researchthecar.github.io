@@ -48,6 +48,19 @@ While the Grand Caravan has many positive attributes, some owners have reported 
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -103,3 +116,15 @@ While the Grand Caravan has many positive attributes, some owners have reported 
 **Summary**
 
 While the 2002 Dodge Grand Caravan has many desirable features, it has also been known to experience certain issues, particularly with its engine, transmission, suspension, and electrical components. The severity and cost of these issues can vary depending on the specific parts involved and the extent of the damage. Some of the issues, such as intake manifold gasket failure, can be major and expensive to repair. However, other issues, like ignition coil failure, are relatively minor and affordable to fix. Overall, it is important for potential buyers to be aware of these potential issues before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

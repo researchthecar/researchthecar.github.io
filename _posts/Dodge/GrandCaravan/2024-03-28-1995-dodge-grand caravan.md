@@ -38,6 +38,19 @@ Owners appreciate the Grand Caravan's affordability, roomy interior, and versati
 
 * **Transmission Failure:** Symptoms include loss of power, slipping gears, and grinding noises. Solution involves rebuilding or replacing the transmission. Estimated Cost to Fix: $1,500 - $3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Wear:** Symptoms include clunking or rattling noises from the front suspension. Solution involves replacing the control arm bushings. Estimated Cost to Fix: $200 - $400+
@@ -61,3 +74,15 @@ Owners appreciate the Grand Caravan's affordability, roomy interior, and versati
 **Summary**
 
 The 1995 Dodge Grand Caravan has a number of common issues, particularly with its engine, transmission, and interior components. While some of these issues are relatively inexpensive to fix, others can be costly. Potential buyers should be aware of these issues and factor them into their purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

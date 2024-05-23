@@ -55,6 +55,19 @@ Solution: Update software, replace transmission fluid, or rebuild transmission
 Estimated Cost to Fix: $500 - $3,000+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Strut Failure**
@@ -86,3 +99,15 @@ Recalls: None Found
 **Summary**
 
 The 2017 Chevrolet Cruze has been plagued by a variety of issues, ranging from coolant leaks and oil consumption to transmission failures and electrical problems. The severity and cost of these issues can vary significantly, depending on the specific part that needs repair or replacement. Some issues have been addressed through recalls, but others remain unresolved. It is important for owners to be aware of these potential problems and to have the vehicle inspected and repaired as needed to ensure safe and reliable operation.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

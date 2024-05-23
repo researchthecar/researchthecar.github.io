@@ -37,6 +37,19 @@ Solution: Lubricate gearshift linkages or replace gear selector assembly.
 Estimated Cost to Fix: $100 - $300+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -68,3 +81,15 @@ Recalls: None Found
 **Summary:**
 
 The 1992 Land Rover Range Rover is generally a reliable vehicle, but it does have some common issues that can be costly to repair. The most significant concerns involve the engine, particularly the intake manifold gaskets, and the transmission, which can experience slipping gears. Electrical issues with the alternator are also relatively prevalent. While the suspension and interior have fewer problems, rust on the rear wheel arches can be a notable issue in certain climates. Overall, the cost of repairs can range from minor to substantial, depending on the severity of the issue.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -50,6 +50,19 @@ The 2003 Chevrolet Astra was a compact car with a sporty appearance and handling
     * Estimated Cost to Fix: $400 - $600+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Bearing Failure:**
@@ -95,3 +108,15 @@ The 2003 Chevrolet Astra was a compact car with a sporty appearance and handling
 **Summary:**
 
 The 2003 Chevrolet Astra had several potential issues, including engine component failures, transmission issues, electrical problems, and interior issues. The severity and cost of these issues varied, with some being minor and inexpensive to fix, while others could be more costly and time-consuming to repair. However, the vehicle's reputation for reliable handling and styling ensured it remained a popular choice among compact car enthusiasts.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

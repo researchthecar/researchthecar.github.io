@@ -30,6 +30,19 @@ The Evoque is known for its sleek design, luxurious interior, and impressive off
 * **8-Speed Automatic**
     * **Transmission Fluid Leak:** Transmission can leak fluid from the pan or seals. Solution: Replace the leaking components. Estimated Cost to Fix: $200 - $500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Noise:** Front suspension can make clunking or rattling noises over bumps. Solution: Replace the front suspension struts or mounts. Estimated Cost to Fix: $600 - $1,000
@@ -54,3 +67,15 @@ The Evoque is known for its sleek design, luxurious interior, and impressive off
 **Summary**
 
 The 2020 Land Rover Range Rover Evoque offers a luxurious and capable driving experience, but it has been plagued by a number of issues that can impact its reliability and cost of ownership. The most severe issues include engine timing chain failure, transmission torque converter shudder, and suspension noise. Electrical glitches and infotainment system problems are also common. Potential owners should be aware of these issues and factor in the cost of potential repairs when considering the Evoque.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

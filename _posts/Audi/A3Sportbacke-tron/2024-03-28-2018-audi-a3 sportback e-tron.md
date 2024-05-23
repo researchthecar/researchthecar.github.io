@@ -23,6 +23,19 @@ The 2018 Audi A3 Sportback e-tron is a compact luxury hatchback that combines a 
 * **Clutch failure:** The clutch can fail, causing the transmission to slip or not engage. The solution is to replace the clutch. The estimated cost to fix is $1,500 - $2,500+.
 * **Mechatronic unit failure:** The mechatronic unit can fail, causing the transmission to shift erratically or not at all. The solution is to replace the mechatronic unit. The estimated cost to fix is $2,000 - $3,000+.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut mount failure:** The front strut mount can fail, causing a clunking noise when driving over bumps. The solution is to replace the strut mounts. The estimated cost to fix is $200 - $400+.
@@ -51,3 +64,15 @@ The 2018 Audi A3 Sportback e-tron is a compact luxury hatchback that combines a 
 **Summary:**
 
 The 2018 Audi A3 Sportback e-tron is a fun-to-drive and fuel-efficient vehicle, but it has some reliability issues that can be costly to fix. The most severe issues are the transmission and suspension problems, which can lead to safety concerns. The electrical and interior issues are less severe but can still be annoying and expensive to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

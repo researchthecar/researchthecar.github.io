@@ -26,6 +26,19 @@ The 2014 BMW ActiveHybrid 5 is a luxury hybrid sedan that combines a 3.0-liter t
 * **Mechatronic unit failure:** The mechatronic unit, which controls the transmission's hydraulic and electronic functions, may fail due to electrical or mechanical issues. Symptoms include transmission shifting problems, loss of power, and check engine light illumination. **Solution:** Replace the mechatronic unit. **Estimated Cost to Fix:** $2,000 - $3,000+
 * **Driveline vibration:** The driveline, which connects the transmission to the wheels, may vibrate due to worn or damaged components such as CV joints or driveshafts. Symptoms include a noticeable vibration or shudder when accelerating or driving at higher speeds. **Solution:** Inspect and replace the affected components. **Estimated Cost to Fix:** $500 - $1,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mount bearing failure:** The strut mount bearings may fail due to wear or mechanical issues, causing clunking or rattling noises from the front of the vehicle. Symptoms include a clunking sound when turning or driving over bumps. **Solution:** Replace the strut mount bearings. **Estimated Cost to Fix:** $500 - $1,000+
@@ -53,3 +66,15 @@ The 2014 BMW ActiveHybrid 5 is a luxury hybrid sedan that combines a 3.0-liter t
 **Summary**
 
 The 2014 BMW ActiveHybrid 5 is a well-regarded vehicle that offers impressive performance and fuel economy, but it is not without its issues. The most significant concerns appear to be related to the engine, transmission, and electrical systems. Repairs for these issues can be costly, with some estimated to range from $2,000 to $5,000 or more. However, it's important to note that not all owners will experience these problems, and the severity and cost of repairs may vary depending on the specific issues encountered.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

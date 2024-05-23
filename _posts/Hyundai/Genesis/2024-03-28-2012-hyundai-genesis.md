@@ -31,6 +31,19 @@ The 2012 Hyundai Genesis is a premium sedan powered by a 3.8L V6 engine producin
 * **6-Speed Manual:**
     * **No issues found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No issues found**
@@ -67,3 +80,15 @@ The 2012 Hyundai Genesis is a premium sedan powered by a 3.8L V6 engine producin
 **Summary:**
 
 The 2012 Hyundai Genesis is a generally reliable vehicle with some common issues. The engine and transmission issues can be expensive to fix, but most other issues are relatively minor and affordable to address. Overall, the Genesis offers a good value for the price and a comfortable and enjoyable driving experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

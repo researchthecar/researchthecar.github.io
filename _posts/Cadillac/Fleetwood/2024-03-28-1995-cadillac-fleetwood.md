@@ -53,6 +53,19 @@ Despite its reputation for luxury, the Fleetwood has been plagued by a number of
         * Estimated Cost to Fix: $800 - $1,200+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Suspension Spring Sagging:**
@@ -108,3 +121,15 @@ Despite its reputation for luxury, the Fleetwood has been plagued by a number of
 **Summary:**
 
 The 1995 Cadillac Fleetwood has a number of potential issues that owners should be aware of. These issues range in severity from minor inconveniences to major mechanical failures. While the Fleetwood offers a comfortable and luxurious ride, it is important to consider the potential costs of repairs when making a purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

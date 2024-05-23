@@ -34,6 +34,19 @@ The 1994 Chevrolet W4500 Tiltmaster is a heavy-duty commercial vehicle designed 
     - Estimated Cost to Fix: $800-$1500+
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Leaf Spring Breakage:**
@@ -89,3 +102,15 @@ The 1994 Chevrolet W4500 Tiltmaster is a heavy-duty commercial vehicle designed 
 **Summary**
 
 Overall, the 1994 Chevrolet W4500 Tiltmaster is a durable and capable commercial vehicle, but it has its share of potential issues. The most severe issues are related to engine gasket failure and transmission synchro wear, which can be costly to repair. Other issues, such as suspension and electrical problems, are relatively common and less expensive to fix. Rust and interior wear are also worth noting, especially for vehicles in higher mileage or harsh environments.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

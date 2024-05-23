@@ -29,6 +29,19 @@ Owners of the 1993 Chrysler LeBaron generally praise the vehicle's comfortable r
 **Five-Speed Manual**
 - **Grinding gears:** The transmission may grind when shifting gears. This can be caused by worn synchronizers or a faulty clutch. The solution is to replace the worn parts. Estimated cost to fix: $300 - $600+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Struts:** The front and rear struts can wear out, causing the ride to become rough and unstable. The solution is to replace the struts. Estimated cost to fix: $400 - $800+
@@ -51,3 +64,15 @@ Owners of the 1993 Chrysler LeBaron generally praise the vehicle's comfortable r
 **Overall Summary**
 
 The 1993 Chrysler LeBaron is a comfortable and stylish sedan, but it has some potential issues that can be expensive to fix. The most common issues include intake manifold gasket failure, head gasket failure, slipping transmission, and suspension problems. While some of these issues are minor and can be fixed relatively cheaply, others are more serious and can require major repairs. Overall, the severity and cost of the issues with the 1993 Chrysler LeBaron vary depending on the specific issue, but they can be significant.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

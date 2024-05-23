@@ -28,6 +28,19 @@ People who like the 1995 Cadillac DeVille appreciate its spacious interior, comf
 **4-speed automatic transmission**
 * **Slipping gears:** This is a common problem on the 4-speed automatic transmission. The transmission may slip gears, causing the vehicle to hesitate or jerk when shifting. Symptoms of this issue include a hesitation or jerk when shifting, a decrease in acceleration, and a loss of power. The solution is to rebuild the transmission. The estimated cost to fix this issue is $1,500 - $2,500.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure:** The struts on the 1995 Cadillac DeVille can fail, causing the vehicle to ride rough and handle poorly. Symptoms of this issue include a rough ride, poor handling, and a decrease in ride height. The solution is to replace the struts. The estimated cost to fix this issue is $500 - $1,000 per strut.
@@ -48,3 +61,15 @@ People who like the 1995 Cadillac DeVille appreciate its spacious interior, comf
 **Summary**
 
 The 1995 Cadillac DeVille is a reliable luxury sedan that has a number of potential issues. The most common problems include engine intake manifold gasket failure, transmission slipping gears, and suspension strut failure. The severity of these issues can range from minor to major, and the cost to fix them can be significant. However, the overall reliability of the 1995 Cadillac DeVille is still good, and it is a popular choice for those who want a spacious and comfortable luxury sedan.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

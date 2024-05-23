@@ -43,6 +43,19 @@ Solution: Software update or transmission control module replacement
 Estimated Cost to Fix: $200 - $1,200+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -88,3 +101,15 @@ Recalls: None Found
 While the 2013 Audi TT RS Quattro is a highly capable vehicle overall, it has encountered some common issues that owners should be aware of. Engine problems, such as fuel injector failure and intake manifold leaks, can affect performance and reliability. Transmission issues, including shifting difficulties and shift delays, can impact driving experience. Electrical problems, such as battery drain and headlight malfunction, can potentially pose safety hazards. Exterior clear coat peeling can affect the vehicle's appearance. Interior issues, such as radio display malfunction and climate control problems, can be frustrating for owners.
 
 The severity of these issues can vary, and some may be more costly to repair than others. Owners should consider these potential problems when purchasing and maintaining a 2013 Audi TT RS Quattro.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

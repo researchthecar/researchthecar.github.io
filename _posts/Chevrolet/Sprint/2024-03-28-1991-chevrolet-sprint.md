@@ -31,6 +31,19 @@ The 1991 Chevrolet Sprint is a compact hatchback available with two engine optio
 
 **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Struts Failure:** Worn struts result in a bumpy ride and reduced handling. Replacing the struts and mounts improves suspension performance. **$500 - $1,000**
@@ -56,3 +69,15 @@ The 1991 Chevrolet Sprint is a compact hatchback available with two engine optio
 **Summary:**
 
 The 1991 Chevrolet Sprint is known for its fuel efficiency but has faced some reliability issues over time. Engine head gasket failure is a common concern for the 1.0L engine, while the 5-speed manual transmission has issues with grinding gears and shift linkage malfunctions. Suspension components like struts and shock absorbers require regular maintenance to ensure optimal handling. Electrical problems such as alternator and starter failure can affect the vehicle's operation. Interior components like door locks, window regulators, and dashboard may encounter issues due to wear or age. The severity of these issues can vary, and their cost of repair ranges from minor to major. Regular maintenance and inspections can help prevent or mitigate many of these problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -25,6 +25,19 @@ The 2009 Maserati Quattroporte is a luxury sedan with a sleek Italian design and
 * **6-speed manual transmission:**
     * **Clutch failure:** This issue can cause the clutch to slip or fail to engage, making it difficult to shift gears. The solution is to replace the clutch, which can cost $1,000 - $2,000+.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension:**
@@ -51,3 +64,15 @@ The 2009 Maserati Quattroporte is a luxury sedan with a sleek Italian design and
 **Summary:**
 
 The 2009 Maserati Quattroporte is a luxurious and powerful sedan, but it also has some reliability issues that potential owners should be aware of. The most common issues include engine problems, transmission problems, and electrical problems. Depending on the severity of the issue, repairs can range from a few hundred dollars to several thousand dollars.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

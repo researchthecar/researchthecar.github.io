@@ -41,6 +41,19 @@ Owners appreciate the Escalade EXT's spacious cabin, comfortable seating, and ad
     * Estimated Cost to Fix: $500 - $1,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arm Bushing Wear:**
@@ -81,3 +94,15 @@ Owners appreciate the Escalade EXT's spacious cabin, comfortable seating, and ad
 **Summary**
 
 The 2011 Cadillac Escalade EXT offers impressive performance and luxury, but it comes with a few notable issues. The premature head bolt failure on the 6.2L V8 engine can be a significant concern, potentially leading to expensive repairs. The transmission issues with clunking and hard shifting can also be frustrating for owners. While the electrical and exterior issues are less severe, they can still cause inconvenience and detract from the overall ownership experience. The severity of the issues and potential repair costs should be considered before purchasing an Escalade EXT.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

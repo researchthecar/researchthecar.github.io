@@ -29,6 +29,19 @@ The 2016 Ferrari California T is a luxurious grand tourer that offers a thrillin
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension knocking**
@@ -64,3 +77,15 @@ The 2016 Ferrari California T is a luxurious grand tourer that offers a thrillin
 **Summary**
 
 Overall, the 2016 Ferrari California T is a reliable and enjoyable vehicle. However, it is important to be aware of potential issues, particularly those related to the engine and suspension. The severity and cost of these issues can vary depending on the specific problem and the individual vehicle. Regular maintenance and inspections can help to identify and address potential problems early on, minimizing their impact on the vehicle's performance and longevity.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

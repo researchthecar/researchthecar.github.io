@@ -47,6 +47,19 @@ The 2017 Chevrolet Impala is a full-size sedan that offers a comfortable ride an
     * Estimated Cost to Fix: $200 - $800
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Assembly Failure:**
@@ -102,3 +115,15 @@ The 2017 Chevrolet Impala is a full-size sedan that offers a comfortable ride an
 **Summary**
 
 The 2017 Chevrolet Impala has a range of issues reported by owners. The most severe issues include intake manifold gasket failure, piston ring failure, timing chain failure, and torque converter shudder. However, many of these issues can be expensive to fix, costing over $1,000. The Impala also suffers from several minor issues, such as radio malfunctions, battery drain, and interior problems. Overall, the 2017 Chevrolet Impala has some notable reliability concerns that potential buyers should be aware of before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

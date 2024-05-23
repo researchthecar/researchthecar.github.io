@@ -23,6 +23,19 @@ The 1992 Lamborghini LM American was a high-performance off-road vehicle built b
     * **Clutch failure:** The clutch can wear out or fail, causing the transmission to slip or not engage. This issue is usually fixed by replacing the clutch assembly. Estimated cost to fix: $1500 - $2500+
     * **Gearbox bearing failure:** The gearbox bearings can fail, causing grinding noises or difficulty shifting gears. This issue is usually fixed by replacing the gearbox bearings. Estimated cost to fix: $2000 - $3000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension:**
@@ -53,3 +66,15 @@ The 1992 Lamborghini LM American was a high-performance off-road vehicle built b
 **Summary**
 
 The 1992 Lamborghini LM American had a number of reliability issues that could be expensive to fix. While the vehicle was popular with some enthusiasts, its high maintenance costs and poor reliability made it a risky investment.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

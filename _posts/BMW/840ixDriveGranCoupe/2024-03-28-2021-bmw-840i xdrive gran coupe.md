@@ -20,6 +20,19 @@ The 2021 BMW 840i xDrive Gran Coupe is a luxury four-door coupe that offers a po
 * **8-Speed Automatic**
   * **Transmission Shudder:** Vibration or shuddering felt during gear changes. Symptoms include rough shifting, slipping, or delayed engagement. Solution: Update transmission software or replace transmission components. Estimated Cost to Fix: $1,000 - $4,000+.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Adaptive M Suspension:**
@@ -43,3 +56,15 @@ The 2021 BMW 840i xDrive Gran Coupe is a luxury four-door coupe that offers a po
 **Summary:**
 
 The 2021 BMW 840i xDrive Gran Coupe offers a blend of performance and luxury, but it has some reported issues that owners should be aware of. The engine and transmission are prone to oil leaks, timing chain problems, and transmission shuddering. Suspension components can wear out, leading to noise and handling issues. Electrical components, such as batteries and HID headlamps, may also experience failures. Owners should be prepared for potential repairs that could range from a few hundred dollars to several thousand dollars, depending on the severity of the issue.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

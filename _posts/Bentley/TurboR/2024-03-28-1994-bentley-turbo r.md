@@ -22,6 +22,19 @@ The 1994 Bentley Turbo R is a luxurious performance sedan powered by a 6.75-lite
     * **Transmission Slip:** The transmission may experience slippage when shifting gears, indicating internal wear or solenoid issues. Repair or rebuild of the transmission is needed. $2,500 - $5,000+
     * **Converter Failure:** The torque converter can fail, causing shuddering or loss of drive. Replacement of the converter is necessary. $2,000 - $3,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Leaks:** The air suspension system can develop leaks in the airbags, lines, or compressor. Replacing the faulty components is required. $1,500 - $3,000+ per air bag + labor
@@ -46,3 +59,15 @@ The 1994 Bentley Turbo R is a luxurious performance sedan powered by a 6.75-lite
 **Summary:**
 
 The 1994 Bentley Turbo R has its allure, but potential owners should be aware of the various issues it can encounter. Engine problems, transmission slippage, and suspension leaks are among the most common and can be costly to repair. Electrical gremlins and interior deterioration add to the maintenance burden. While these issues may not be universal, they do warrant consideration before purchasing or owning a Turbo R. The severity and cost of these issues can vary depending on the extent of the problem and availability of parts.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

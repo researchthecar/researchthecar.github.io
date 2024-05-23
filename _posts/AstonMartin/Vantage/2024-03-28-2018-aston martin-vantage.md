@@ -30,6 +30,19 @@ Owners of the 2018 Aston Martin Vantage generally praise its stunning appearance
         * Estimated Cost to Fix: $1,000 - $5,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension:**
@@ -76,3 +89,15 @@ Owners of the 2018 Aston Martin Vantage generally praise its stunning appearance
 **Summary:**
 
 While the 2018 Aston Martin Vantage offers impressive performance and design, it is not without its flaws. Owners have reported various issues affecting the engine, transmission, suspension, electrical systems, and interior components. The severity of these issues ranges from minor inconveniences to more costly repairs. The cost to fix these issues can vary significantly depending on the specific problem and complexity of the repair. It's important for owners to be aware of these potential issues before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

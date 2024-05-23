@@ -46,6 +46,19 @@ The 2015 Hyundai Genesis Coupe is a rear-wheel-drive sports car available with t
     * Estimated Cost to Fix: $500 - $700
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Bearing Failure**
@@ -81,3 +94,15 @@ The 2015 Hyundai Genesis Coupe is a rear-wheel-drive sports car available with t
 **Summary**
 
 The 2015 Hyundai Genesis Coupe has a few notable issues, including turbocharger failure, intake manifold runner failure, synchronized wear, solenoid failure, strut mount bearing failure, battery discharge, door handle failure, and navigation system malfunction. The severity of these issues varies, but some can be costly to repair. Overall, the Genesis Coupe is a reliable and enjoyable sports car, but potential buyers should be aware of these potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

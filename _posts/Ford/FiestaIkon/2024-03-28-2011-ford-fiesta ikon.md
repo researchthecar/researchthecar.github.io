@@ -32,6 +32,19 @@ Owners of the 2011 Ford Fiesta Ikon have reported satisfaction with its fuel eff
 * **Loss of Drive Power:** The transmission may suddenly lose drive power while driving, posing a safety hazard. May require replacement of the transmission valve body or a complete transmission rebuild. Estimated Cost to Fix: $2,000 - $5,000+
 * **Recall: 14N05** Transmission gear selector position sensor may not engage park, increasing the risk of the vehicle rolling away unexpectedly. Fix: Install a new transmission gear selector position sensor.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Bearing Failure:** The strut mount bearings can wear out prematurely, causing a clunking or rattling noise from the front suspension, especially over bumps. Requires replacement of the strut mount bearings. Estimated Cost to Fix: $300 - $500+
@@ -55,3 +68,15 @@ Owners of the 2011 Ford Fiesta Ikon have reported satisfaction with its fuel eff
 **Summary**
 
 The 2011 Ford Fiesta Ikon is a generally reliable and affordable vehicle, but it has experienced some significant issues, particularly with the engine and transmission. The cam phaser failure and transmission issues can be costly to repair and may compromise the vehicle's reliability. While some issues are less severe, such as the sunvisor sagging or the interior trim rattles, they can still be annoying and detract from the overall driving experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

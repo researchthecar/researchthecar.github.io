@@ -48,6 +48,19 @@ The 1999 Ford E-450 Econoline Super Duty is a full-size van designed for heavy-d
         * Estimated Cost to Fix: $600 - $1,200+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front Ball Joint Failure**
     * Description/Symptoms: The front ball joints can wear out or fail, causing loose or wobbly steering, uneven tire wear, and a clunking or grinding noise when turning.
@@ -99,3 +112,15 @@ The 1999 Ford E-450 Econoline Super Duty is a full-size van designed for heavy-d
 **Summary**
 
 The 1999 Ford E-450 Econoline Super Duty is a capable and versatile vehicle that is generally reliable. However, like any vehicle, it has some known issues that owners should be aware of. The engine, transmission, and suspension components are generally reliable, but some issues can be costly to repair. The electrical and exterior components are fairly minor and affordable to fix. The interior issues can be frustrating but are often not major concerns. Overall, the E-450 is a solid vehicle with a good track record, but it is important to consider the potential repair costs when making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

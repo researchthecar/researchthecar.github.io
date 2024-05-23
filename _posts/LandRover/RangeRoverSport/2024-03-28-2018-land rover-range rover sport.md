@@ -68,6 +68,19 @@ Owners appreciate the Range Rover Sport's ruggedness, advanced technology, and c
     * Estimated Cost to Fix: $2,500 - $4,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Compressor Failure:** As mentioned in the Engine section, the air suspension compressor can fail, causing the vehicle to lower to the ground.
@@ -119,3 +132,15 @@ Owners appreciate the Range Rover Sport's ruggedness, advanced technology, and c
 **Summary:**
 
 The 2018 Land Rover Range Rover Sport has various reported issues across its engine, transmission, suspension, electrical, exterior, and interior components. Some issues are minor and easily fixable, while others can be more severe and costly to repair. The potential for costly repairs should be considered when purchasing or owning this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

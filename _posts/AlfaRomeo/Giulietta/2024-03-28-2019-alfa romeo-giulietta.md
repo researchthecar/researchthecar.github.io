@@ -52,6 +52,19 @@ Despite its appeal, the Giulietta has received mixed reviews from owners. Some p
         * Estimated Cost to Fix: $200 - $500+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -89,3 +102,15 @@ Despite its appeal, the Giulietta has received mixed reviews from owners. Some p
 **Summary:**
 
 The 2019 Alfa Romeo Giulietta has a mix of advantages and drawbacks. While it offers impressive performance and handling, it has also been plagued by reliability issues, particularly with its engine, transmission, and electrical systems. Some of these issues can be costly to repair, which should be considered before purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

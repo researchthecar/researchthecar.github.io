@@ -46,6 +46,19 @@ Owners of the 2018 Bentley Continental GT appreciate its luxurious interior, pow
   - **Estimated Cost to Fix:** $3,000 - $6,000+
   - **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Air Suspension Compressor Failure:**
@@ -86,3 +99,15 @@ Owners of the 2018 Bentley Continental GT appreciate its luxurious interior, pow
 **Summary:**
 
 The 2018 Bentley Continental GT is a luxurious and powerful grand tourer, but it is not without potential issues. Engine concerns, particularly timing chain tensioners and fuel injector failures, can be costly to repair. The transmission, suspension, and electrical system have also been reported to have problems. While interior issues are generally minor, exterior trim corrosion can be a cosmetic concern. The severity and cost of these issues vary, so it's important for potential owners to be aware of them before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

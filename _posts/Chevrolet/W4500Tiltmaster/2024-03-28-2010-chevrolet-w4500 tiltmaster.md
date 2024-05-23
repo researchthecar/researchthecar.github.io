@@ -50,6 +50,19 @@ The 2010 Chevrolet W4500 Tiltmaster is a heavy-duty commercial vehicle designed 
     * Estimated Cost to Fix: $2,500 - $4,000+
     * Recalls: NHTSA Campaign ID 16V662000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf Spring Failure:**
@@ -85,3 +98,15 @@ The 2010 Chevrolet W4500 Tiltmaster is a heavy-duty commercial vehicle designed 
 **Summary**
 
 The 2010 Chevrolet W4500 Tiltmaster is a capable heavy-duty vehicle with a number of issues that can affect its performance and reliability. The most severe and costly issues include fuel injector failure, turbocharger failure, and valve body failure. While some of these issues may be covered under warranty, others can be expensive to repair. Potential buyers should be aware of these issues before purchasing a W4500 Tiltmaster and factor in the potential costs of repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -21,6 +21,19 @@ Recalls: NHTSA Campaign Number: 18V473000 (Fuel Leak)
     * **Mechatronic Unit Failure:** The mechatronic unit controls the transmission's shifting. It can fail, causing shifting problems and transmission failure. Solution: Replace mechatronic unit. Estimated Cost to Fix: $2,000 - $4,000+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Air Suspension Failure:** The air suspension system can develop leaks, causing the vehicle to sag or become unstable. Solution: Replace air suspension components. Estimated Cost to Fix: $2,000 - $4,000+
 
@@ -38,3 +51,15 @@ Recalls: NHTSA Campaign Number: 18V356000 (Battery Fire Risk)
 
 **Summary:**
 The 2017 Maserati GranCabrio is a performance-oriented convertible that offers an exhilarating driving experience. However, it is important to be aware of potential reliability issues that can be costly to repair. The most severe issues to look out for are timing chain tensioner failure, transmission slippage, and air suspension failure. The estimated cost of repairs for these issues can range from $2,000 to $5,000+. Overall, the GranCabrio is a high-maintenance vehicle that requires attentive ownership and a willingness to invest in repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

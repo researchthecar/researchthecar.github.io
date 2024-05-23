@@ -46,6 +46,19 @@ Owners of the Mercedes-Benz Allianzo generally praise the vehicle for its luxuri
         * Estimated Cost to Fix: $1,500 - $4,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -83,3 +96,15 @@ Owners of the Mercedes-Benz Allianzo generally praise the vehicle for its luxuri
 **Summary**
 
 The Mercedes-Benz Allianzo is a luxurious and comfortable vehicle, but it has been plagued by a number of reliability issues. The most severe and expensive issue is the timing chain failure on the 3.0L V6 engine, which can cost over $4,000 to repair. The 7-speed automatic transmission is also known to have problems, including shifting issues and transmission slippage. Other common issues include EGR valve failure, turbocharger failure, battery drain, and electrical system malfunctions. Overall, the Mercedes-Benz Allianzo is not a reliable vehicle and should be avoided by potential buyers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

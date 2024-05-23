@@ -24,6 +24,19 @@ The 2011 Maserati GranCabrio is a luxurious, high-performance convertible that o
     * **Shift solenoid failure:** Symptoms include hard shifting, slipping gears, and a lack of power. Solution: Replace the shift solenoid. Estimated Cost to Fix: $1,000 - $1,500+
     * **Transmission fluid leaks:** Symptoms include a loss of transmission fluid and a decrease in performance. Solution: Replace the transmission fluid seals. Estimated Cost to Fix: $500 - $1,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No issues found**
@@ -46,3 +59,15 @@ The 2011 Maserati GranCabrio is a luxurious, high-performance convertible that o
 **Summary**
 
 The 2011 Maserati GranCabrio is a beautiful and powerful car, but it can also be expensive to maintain. The vehicle has a number of potential issues that can be costly to fix. However, by being aware of these issues and taking steps to prevent them, owners can help to ensure that their GranCabrio provides many years of enjoyment.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

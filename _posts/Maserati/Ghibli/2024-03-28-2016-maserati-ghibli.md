@@ -36,6 +36,19 @@ While the Ghibli has received praise for its sleek design, responsive handling, 
     * Estimated Cost to Fix: $1,200 - $1,800+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Lower Control Arm Bushing Wear**
@@ -71,3 +84,15 @@ While the Ghibli has received praise for its sleek design, responsive handling, 
 **Summary**
 
 While the 2016 Maserati Ghibli offers a captivating driving experience, potential buyers should be aware of the various issues that owners have reported. The severity of the issues varies, with some being relatively minor and inexpensive to fix, while others can be more costly and affect the overall performance of the vehicle. It is recommended to thoroughly research and consider the potential repair costs before purchasing a used Ghibli.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

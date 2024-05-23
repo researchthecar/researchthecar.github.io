@@ -55,6 +55,19 @@ Solution: Replacing the clutch pack.
 Estimated Cost to Fix: $1,000 - $1,500+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -90,3 +103,15 @@ Recalls: None Found
 **Summary**
 
 Overall, the 2014 Alfa Romeo Giulietta faces some issues that can be costly to repair, particularly the turbocharger failure and clutch pack failure in the diesel engine and TCT transmission, respectively. However, many owners report satisfaction with the vehicle's performance and overall ownership experience, suggesting that the severity and cost of the potential issues may not be a significant deterrent for all buyers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

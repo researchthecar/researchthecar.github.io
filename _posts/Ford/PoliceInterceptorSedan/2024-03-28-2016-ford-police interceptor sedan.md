@@ -45,6 +45,19 @@ The 2016 Ford Police Interceptor Sedan is a high-performance sedan designed spec
     * Estimated Cost to Fix: Free (under warranty)
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Premature Suspension Wear:** Excessive wear and tear on suspension components, such as ball joints and bushings.
@@ -76,3 +89,15 @@ The 2016 Ford Police Interceptor Sedan is a high-performance sedan designed spec
 **Summary**
 
 The 2016 Ford Police Interceptor Sedan is a reliable performer with strong engines and advanced safety features. However, some users have experienced issues with oil consumption, turbocharger failure, and premature suspension wear. These issues can be costly to repair but are generally addressed under warranty for most owners.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

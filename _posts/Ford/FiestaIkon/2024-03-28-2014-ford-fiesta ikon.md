@@ -37,6 +37,19 @@ The 2014 Ford Fiesta Ikon is a subcompact hatchback available with two engine op
   - Estimated Cost to Fix: $100 - $300+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Strut Mount Failure:**
@@ -72,3 +85,15 @@ The 2014 Ford Fiesta Ikon is a subcompact hatchback available with two engine op
 **Summary:**
 
 The 2014 Ford Fiesta Ikon has a few notable issues that can be costly to fix, especially the timing chain failure in the 1.6L engine and the head gasket failure in the 1.0L EcoBoost engine. The electrical gremlins and dashboard cracking can also be frustrating and expensive to resolve. However, the Fiesta Ikon remains a popular choice among budget-minded consumers due to its affordability, fuel efficiency, and fun-to-drive nature.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -35,6 +35,19 @@ The 2020 BMW 228i xDrive Gran Coupe is a compact luxury sedan powered by a 2.0L 
     * Estimated Cost to Fix: $2,500 - $3,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -66,3 +79,15 @@ The 2020 BMW 228i xDrive Gran Coupe is a compact luxury sedan powered by a 2.0L 
 **Summary:**
 
 While the 2020 BMW 228i xDrive Gran Coupe is a capable and enjoyable vehicle, it has some reported issues that owners should be aware of. The most common concerns include engine and transmission problems, particularly timing chain tensioner failure and mechatronic unit failure. Electrical system malfunctions and sunroof rattles are also reported. The severity and cost of repairs can vary depending on the specific issue and the affected components. It's important to address these issues promptly to prevent further damage and ensure the safety and reliability of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

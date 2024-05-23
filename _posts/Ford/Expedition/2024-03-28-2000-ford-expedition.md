@@ -108,3 +108,15 @@ Owners of the 2000 Ford Expedition generally praise its spacious interior, comfo
 ## Summary
 
 The 2000 Ford Expedition is a capable and spacious SUV, but it has been known to experience a number of issues. The most common problems include intake manifold gasket failure, transmission slippage, and ball joint failure. While the cost of repairs can be significant, the severity of the issues is generally not too severe. With regular maintenance and occasional repairs, the Expedition can provide many years of reliable service.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -59,6 +59,19 @@ The GranTurismo is also available with a choice of two transmissions: a 6-speed 
   * Estimated Cost to Fix: $2,000 - $3,000
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure**
@@ -104,3 +117,15 @@ The GranTurismo is also available with a choice of two transmissions: a 6-speed 
 **Summary**
 
 The 2012 Maserati GranTurismo is a powerful and stylish sports car that offers a thrilling driving experience. However, it has some issues that owners have reported. The most severe and expensive issues include the 4.7-liter V8's connecting rod bearing failure and the 6-speed automatic transmission's torque converter failure. Other issues, such as the 4.2-liter V8's valve timing solenoid failure, are less severe and less expensive to fix. Overall, the GranTurismo is a reliable car, but it is important to be aware of the potential issues that can occur.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

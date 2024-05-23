@@ -39,6 +39,19 @@ The 2021 Hyundai Accent is a compact sedan that comes with a single engine and t
     * Estimated Cost to Fix: $200 - $700+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Noise:**
@@ -94,3 +107,15 @@ The 2021 Hyundai Accent is a compact sedan that comes with a single engine and t
 **Summary:**
 
 The 2021 Hyundai Accent has several reported issues that can affect different components of the vehicle. Engine oil leaks and timing chain noise are some of the major concerns, while the transmission may also experience shifting problems or fluid leaks. Suspension issues such as noise and sagging can also occur. Electrical problems such as battery drain and wiring harness issues are also reported. In the exterior, headlight condensation and paint peeling are the most common issues. Interior problems include dashboard squeaks and rattles, as well as malfunctioning window switches. While these issues can be expensive to fix, they are generally not catastrophic in nature.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

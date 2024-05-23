@@ -27,6 +27,19 @@ The 2012 Dodge Challenger is a classic muscle car with a modern twist. It is ava
 **6-Speed Manual**
 
 * **Transmission grinding or difficulty shifting:** The transmission can grind or become difficult to shift, especially when cold. Symptoms include a grinding noise and a check engine light. The solution requires replacing the transmission synchronizers and other components. Estimated cost to fix: $1,000 - $1,500
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut mount failure:** The strut mounts can fail on high-mileage vehicles, causing a clunking noise and a rough ride. Symptoms include a clunking noise and a loss of alignment. The solution requires replacing the strut mounts. Estimated cost to fix: $500 - $1,000
@@ -46,3 +59,15 @@ The 2012 Dodge Challenger is a classic muscle car with a modern twist. It is ava
 **Interior**
 
 * **Heater core failure:** The heater core can fail on high-mileage vehicles, causing a lack of heat in the cabin. Symptoms include a cold cabin and a musty odor. The solution requires replacing the heater core. Estimated cost to fix: $500 - $1,000
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

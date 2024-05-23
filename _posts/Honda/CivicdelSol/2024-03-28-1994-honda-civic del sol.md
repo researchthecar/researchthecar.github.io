@@ -31,6 +31,19 @@ The 1994 Honda Civic del Sol is a two-door convertible that was available with t
 **4-speed automatic transmission**
 - **No issues found for this transmission**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Strut mounts wear out:** Description/Symptoms: The strut mounts wear out, causing the suspension to make noise and the car to handle poorly. Solution: Replace the strut mounts. Estimated Cost to Fix: $200 - $400+. Recalls: None Found
@@ -56,3 +69,15 @@ The 1994 Honda Civic del Sol is a two-door convertible that was available with t
 **Summary**
 
 The 1994 Honda Civic del Sol is a reliable and fun-to-drive car, but it is not without its problems. The most common issues include valve cover gasket leaks, timing belt tensioner failure, intake manifold gasket leaks, piston ring failure, worn-out synchros, and strut mount wear. The severity of these issues varies, but some can be expensive to fix. Overall, the Civic del Sol is a good choice for drivers who are looking for a sporty and reliable convertible, but they should be aware of the potential problems that can come with it.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -32,6 +32,19 @@ The 2023 BMW 430i xDrive Gran Coupe is a compact four-door luxury car that offer
         * Estimated Cost to Fix: $200 - $1,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Adaptive M Suspension**
@@ -83,3 +96,15 @@ The 2023 BMW 430i xDrive Gran Coupe is a compact four-door luxury car that offer
 **Summary:**
 
 While the 2023 BMW 430i xDrive Gran Coupe offers a well-balanced driving experience, it has been reported to have some minor issues. Engine oil consumption, valve cover gasket leaks, transmission hesitation, and excessive road noise are among the most common problems. Electrical issues with the infotainment system and backup camera, as well as interior rattling sunroof and loose dashboard trim, have also been reported. While most of these issues are not severe or widespread, they can affect the overall driving experience and should be considered when making a purchase decision. Repair costs can range from a few hundred dollars to over a thousand dollars, depending on the specific issue and the level of repair required.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

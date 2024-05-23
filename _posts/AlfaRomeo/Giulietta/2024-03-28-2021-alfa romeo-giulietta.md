@@ -45,6 +45,19 @@ The 2021 Alfa Romeo Giulietta is a compact luxury sedan that offers a blend of p
         * Estimated Cost to Fix: $500 - $1,500+
         * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Strut Failure**
@@ -85,3 +98,15 @@ The 2021 Alfa Romeo Giulietta is a compact luxury sedan that offers a blend of p
 **Summary**
 
 The 2021 Alfa Romeo Giulietta has faced a range of issues that affect its reliability and performance. Engine problems, transmission malfunctions, suspension issues, and electrical gremlins can lead to costly repairs. Interior issues, such as climate control malfunctions and infotainment bugs, further detract from the ownership experience. The severity and cost of these issues vary, but they can significantly impact the vehicle's value and desirability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

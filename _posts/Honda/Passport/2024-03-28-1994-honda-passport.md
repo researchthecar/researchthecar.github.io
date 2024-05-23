@@ -46,6 +46,19 @@ The Passport was praised for its spacious interior, comfortable ride, and off-ro
         * Estimated Cost to Fix: $1,500 - $3,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension**
@@ -98,3 +111,15 @@ The Passport was praised for its spacious interior, comfortable ride, and off-ro
 **Summary**
 
 The 1994 Honda Passport is a reliable and capable SUV that is known for its spacious interior, comfortable ride, and off-road capabilities. However, it does have some common issues that owners should be aware of, such as VVT system failure, intake manifold gasket failure, timing belt failure, and rust. The severity and cost of these issues can vary depending on the specific problem and the condition of the vehicle. Owners should regularly maintain their Passport and address any issues as soon as they arise to prevent more costly repairs down the road.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

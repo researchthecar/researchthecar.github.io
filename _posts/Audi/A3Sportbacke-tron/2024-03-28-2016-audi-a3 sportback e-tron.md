@@ -27,6 +27,19 @@ The 2016 Audi A3 Sportback e-tron is a plug-in hybrid luxury hatchback that comb
     * **Estimated Cost to Fix:** $500 - $2,000
     * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -63,3 +76,15 @@ The 2016 Audi A3 Sportback e-tron is a plug-in hybrid luxury hatchback that comb
 **Summary:**
 
 The 2016 Audi A3 Sportback e-tron has some notable issues, mainly related to the PCV valve, transmission, and electrical system. These issues can be costly to fix, but most are not widespread. Overall, the A3 Sportback e-tron is a reliable and enjoyable vehicle that offers a unique blend of performance and fuel efficiency.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

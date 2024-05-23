@@ -37,6 +37,19 @@ The 2019 Buick Regal TourX is a crossover wagon based on the Opel Insignia. It i
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -72,3 +85,15 @@ The 2019 Buick Regal TourX is a crossover wagon based on the Opel Insignia. It i
 **Summary**
 
 The 2019 Buick Regal TourX is generally a reliable vehicle, but it has experienced some issues in specific areas. The most severe issues, such as engine stalling and transmission hesitation, can be costly to repair, but most other problems are relatively minor and affordable to address. Overall, the Regal TourX is a solid choice for those seeking a spacious and comfortable crossover wagon, but it is advisable to be aware of the potential issues before making a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -51,6 +51,19 @@ Solution: Repair or replace the leaking components.
 Estimated Cost to Fix: $300 - $700+ 
 Recalls: 07V085000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Subframe Rust:** 
@@ -104,3 +117,15 @@ Recalls: 02V438000
 **Summary**
 
 The 2001 Hyundai Sonata has a number of significant issues that can impact its reliability and safety. The most severe and costly issues include timing belt failure, transmission fluid leaks, rear subframe rust, airbag deployment failure, and electrical problems. Owners should be aware of these issues and address them promptly to avoid costly repairs and potential safety hazards.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

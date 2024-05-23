@@ -37,6 +37,19 @@ Description/Symptoms: Transmission fluid leaking from the transmission case, cau
 Solution: Replace or repair the leaking components, such as seals or gaskets.
 Estimated Cost to Fix: $500 - $1,500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension strut failure**
@@ -81,3 +94,15 @@ Estimated Cost to Fix: $200 - $400
 **Summary**
 
 The 1991 Lamborghini Diablo is a demanding and expensive car to maintain. The potential issues listed above can be severe and costly to repair. However, finding a well-maintained Diablo can offer an unforgettable driving experience that justifies the challenges of ownership.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

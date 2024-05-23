@@ -20,6 +20,19 @@ The 1995 Dodge Ramcharger is a full-size SUV that was available with two engine 
 **Transmission**
 * **4-speed automatic transmission:** The 4-speed automatic transmission can fail, causing a loss of power or shifting problems. Symptoms include slipping gears, a delayed shift, or no movement at all. The solution is to rebuild or replace the transmission. Estimated Cost to Fix: $1,000 - $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front suspension:** The front suspension can wear out, causing a loss of handling and stability. Symptoms include a clunking sound from the suspension, a decrease in ride quality, and uneven tire wear. The solution is to replace the worn components of the suspension. Estimated Cost to Fix: $500 - $1,000+
 * **Rear suspension:** The rear suspension can also wear out, causing similar symptoms to the front suspension. The solution is to replace the worn components of the suspension. Estimated Cost to Fix: $500 - $1,000+
@@ -38,3 +51,15 @@ The 1995 Dodge Ramcharger is a full-size SUV that was available with two engine 
 
 **Summary:**
 The 1995 Dodge Ramcharger is a capable SUV with a spacious interior and powerful engine. However, it is prone to some common issues that can be costly to repair. The most serious issues include engine failures and transmission failures, which can cost thousands of dollars to fix. Other issues, such as suspension wear and electrical problems, are less severe but can still be expensive to address. Overall, the Ramcharger is a reliable vehicle but it is important to be aware of the potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

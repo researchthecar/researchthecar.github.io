@@ -49,6 +49,19 @@ The 1998 Ford E-150 Econoline Club Wagon is a full-size passenger van with seati
 
 * **Input shaft seal failure:** This issue occurs when the input shaft seal fails, causing transmission fluid to leak out of the transmission. Symptoms include poor shifting, slipping, and a drop in transmission fluid levels. The solution is to replace the input shaft seal. Estimated cost to fix: $300 - $600
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension strut failure:** This issue occurs when the front suspension strut fails, causing the vehicle to lose stability and handling. Symptoms include excessive bounce, poor handling, and a knocking noise from the front end. The solution is to replace the front suspension strut. Estimated cost to fix: $500 - $1,000+
@@ -82,3 +95,15 @@ The 1998 Ford E-150 Econoline Club Wagon is a full-size passenger van with seati
 **Summary**
 
 The 1998 Ford E-150 Econoline Club Wagon is a reliable and versatile vehicle, but it has some common issues that owners should be aware of. The most severe and expensive issues include timing chain failure, transmission failure, and rust and corrosion. However, many of the issues are relatively minor and can be fixed for a reasonable cost.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

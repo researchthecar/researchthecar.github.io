@@ -41,6 +41,19 @@ The 2019 BMW Alpina B6 xDrive Gran Coupe is powered by a twin-turbocharged 4.4-l
 * Estimated Cost to Fix: $3,000 - $6,000+
 * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Failure:**
@@ -88,3 +101,15 @@ The 2019 BMW Alpina B6 xDrive Gran Coupe is powered by a twin-turbocharged 4.4-l
 **Summary:**
 
 The 2019 BMW Alpina B6 xDrive Gran Coupe is a high-performance luxury vehicle, but it has faced some issues, including engine timing chain tensioner and high-pressure fuel pump failures in the V8 engine, transmission shudder and gear slippage in the 8-speed automatic, suspension component failures, electrical issues such as battery drain and infotainment system malfunctions, and interior concerns like headliner sagging. The severity and cost of repairs vary depending on the issue. It's important for owners to be aware of potential problems and to seek professional diagnosis and repairs to maintain the vehicle's performance and reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

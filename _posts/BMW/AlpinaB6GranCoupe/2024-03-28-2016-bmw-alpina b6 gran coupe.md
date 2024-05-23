@@ -34,6 +34,19 @@ The 2016 BMW Alpina B6 Gran Coupe is a high-performance sports sedan that combin
     * Estimated Cost to Fix: $2,000 - $5,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Adaptive Suspension Control Failure:** The adaptive suspension control module can fail, leading to suspension problems, such as reduced ride comfort, handling issues, and uneven tire wear.
@@ -84,3 +97,15 @@ The 2016 BMW Alpina B6 Gran Coupe is a high-performance sports sedan that combin
 **Summary:**
 
 Overall, the 2016 BMW Alpina B6 Gran Coupe is a well-regarded performance sedan, but it is not without its potential issues. Owners have reported problems with the turbochargers, intake valve carbon buildup, transmission slipping, suspension control failures, battery discharge, infotainment system glitches, and various exterior and interior fitment issues. The severity and cost of these issues can vary, but some repairs can be expensive, especially for major engine or transmission problems. It is important for potential owners to be aware of these potential issues and consider them when making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

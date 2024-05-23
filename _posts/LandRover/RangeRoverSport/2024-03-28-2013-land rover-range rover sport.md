@@ -53,6 +53,19 @@ Despite its reputation for luxury and performance, the Range Rover Sport has bee
     * Estimated Cost to Fix: $1,500 - $2,500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Failure**
@@ -106,3 +119,15 @@ Despite its reputation for luxury and performance, the Range Rover Sport has bee
 **Summary**
 
 The 2013 Land Rover Range Rover Sport is a capable and luxurious SUV, but it has been marred by a number of issues over the years. These issues can be expensive to fix, so it is important to be aware of them before purchasing one of these vehicles. The engine, transmission, suspension, electrical system, exterior, and interior have all been known to have problems. The severity of the issues and the cost to fix them can vary depending on the specific problem.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

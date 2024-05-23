@@ -34,6 +34,19 @@ Description/Symptoms: The torque converter can fail, which can cause the transmi
 Solution: The torque converter must be replaced.
 Estimated Cost to Fix: $2000 - $3000
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -59,3 +72,15 @@ Estimated Cost to Fix: $1000 - $2000
 **Summary**
 
 The 2010 Aston Martin DBS is a high-performance grand tourer that has a number of potential issues. The most serious issues are the timing chain failure and the battery drain. However, most of the other issues are relatively minor and can be fixed for a reasonable cost. Overall, the DBS is a reliable car that is well-suited for long-distance driving.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

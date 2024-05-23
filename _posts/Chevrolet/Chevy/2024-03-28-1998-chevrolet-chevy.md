@@ -64,6 +64,19 @@ The 1998 Chevrolet Chevy was a popular truck due to its powerful engine options,
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Wear:**
@@ -99,3 +112,15 @@ The 1998 Chevrolet Chevy was a popular truck due to its powerful engine options,
 **Summary:**
 
 The 1998 Chevrolet Chevy is a popular truck with some common problems. The most severe and expensive issue is the Vortec engine knock, which can cost over $2,000 to fix. Other common issues include intake manifold gasket failure, shift solenoid failure, and suspension wear. Overall, the 1998 Chevrolet Chevy is a reliable truck but it is important to be aware of the potential problems before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

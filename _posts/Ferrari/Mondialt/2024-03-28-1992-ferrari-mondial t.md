@@ -20,6 +20,19 @@ The 1992 Ferrari Mondial t is powered by a 3.4-liter V8 engine rated at 300 hors
 
 * **5-Speed Manual:** No major transmission issues have been reported.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Shock Absorber Failure:** The rear shock absorbers can fail prematurely, resulting in a harsh ride and poor handling. Replacement of the shock absorbers is necessary. Estimated cost: $1,000 - $1,500+
@@ -50,3 +63,15 @@ The 1992 Ferrari Mondial t is a classic sports car with many desirable qualities
 * Interior: Climate Control Failure, Odometer Gear Failure
 
 Regular maintenance and inspections are crucial to prevent or mitigate these issues. The cost of repairs can be substantial, especially for major engine or transmission problems. It is important to consider these potential expenses when purchasing a used Ferrari Mondial t.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

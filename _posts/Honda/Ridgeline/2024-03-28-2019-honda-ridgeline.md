@@ -31,6 +31,19 @@ Owners appreciate the Ridgeline's spacious cabin, comfortable ride, and versatil
     * Estimated Cost to Fix: $400 - $800
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Bushing Wear:**
@@ -71,3 +84,15 @@ Owners appreciate the Ridgeline's spacious cabin, comfortable ride, and versatil
 **Summary:**
 
 Overall, the 2019 Honda Ridgeline has some common issues that owners should be aware of. The majority of the problems are relatively minor and can be fixed for a reasonable cost. However, there are some more severe issues, such as fuel pump failure and transmission solenoid issues, that can be more expensive to repair. It's important for potential buyers to weigh the potential risks and costs of these issues before making a decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

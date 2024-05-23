@@ -43,6 +43,19 @@ The 2012 Land Rover Defender is an iconic off-road SUV known for its ruggedness 
     * Solution: Replace input shaft bearing
     * Estimated Cost to Fix: $1,000 - $2,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Coil Spring Failure:**
@@ -94,3 +107,15 @@ The 2012 Land Rover Defender is an iconic off-road SUV known for its ruggedness 
 **Summary**
 
 The 2012 Land Rover Defender is a capable off-roader, but it comes with a long list of potential issues. Many of these problems are related to the engine, transmission, and suspension, and they can be costly to repair. Despite these issues, the Defender's ruggedness and off-road performance still attract buyers who are willing to tolerate its reliability shortcomings.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

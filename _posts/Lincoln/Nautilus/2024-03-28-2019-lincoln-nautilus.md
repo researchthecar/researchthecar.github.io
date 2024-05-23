@@ -39,6 +39,19 @@ The 2019 Lincoln Nautilus is a luxury crossover SUV that offers a refined drivin
         * Estimated Cost to Fix: $100 - $200
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Air Suspension**
@@ -90,3 +103,15 @@ The 2019 Lincoln Nautilus is a luxury crossover SUV that offers a refined drivin
 **Summary**
 
 While the 2019 Lincoln Nautilus offers a luxurious and comfortable driving experience, it is not without its issues. The most common issues reported by owners include engine problems, such as intake valve carbon buildup and turbocharger failure, and transmission issues, such as transmission slippage and shift hesitation. Electrical issues, such as battery drain and infotainment system malfunctions, are also prevalent. Exterior issues, such as door handle problems and sunroof leaks, and interior issues, such as climate control issues and seat adjustment issues, have also been reported. Some of these issues can be costly to repair, especially engine and transmission problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

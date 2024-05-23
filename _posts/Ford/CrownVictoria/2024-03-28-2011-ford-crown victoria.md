@@ -47,6 +47,19 @@ The 2011 Ford Crown Victoria is a full-size sedan powered by a single powertrain
         * Estimated Cost to Fix: $1,000 - $1,500
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
     * **Front Lower Control Arm Bushing Wear:**
@@ -117,3 +130,15 @@ The 2011 Ford Crown Victoria is a full-size sedan powered by a single powertrain
 **Summary:**
 
 The 2011 Ford Crown Victoria is a reliable and durable vehicle with a powerful engine and comfortable ride, but it is also susceptible to certain issues. The most common issues include engine intake manifold gasket failure, transmission slipping gears, and suspension component wear. Fortunately, most of these issues are relatively inexpensive to fix, but some major repairs, such as transmission or engine replacement, can be costly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

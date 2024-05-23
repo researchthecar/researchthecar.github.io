@@ -35,6 +35,19 @@ The 2004 Bentley Continental GT is a luxurious grand tourer with a twin-turbocha
   - Estimated Cost to Fix: $2,000 - $3,000+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Air Suspension Failure:**
@@ -76,3 +89,15 @@ The 2004 Bentley Continental GT is a luxurious grand tourer with a twin-turbocha
 **Summary:**
 
 The 2004 Bentley Continental GT is a vehicle with potential issues, especially in the engine, transmission, and suspension. While some issues may be minor and affordable to fix, others, such as major engine or transmission failures, can be costly and time-consuming to repair. It is crucial to consider these issues when considering purchasing or owning this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

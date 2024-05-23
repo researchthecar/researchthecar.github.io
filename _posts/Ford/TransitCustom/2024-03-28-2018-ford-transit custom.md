@@ -34,6 +34,19 @@ Despite its overall strengths, the Transit Custom has been reported to experienc
 **10-Speed Automatic Transmission**
 - **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Front Suspension Struts Failure:** Description/Symptoms: Noise from front suspension; reduced handling and stability. Solution: Replace suspension struts. Estimated Cost to Fix: $400 - $800. Recalls: None Found
@@ -57,3 +70,15 @@ Despite its overall strengths, the Transit Custom has been reported to experienc
 **Summary**
 
 Overall, the 2018 Ford Transit Custom is a reliable and capable work van, but it has experienced some issues that have affected owners. The severity and cost of these issues vary, but they can be addressed by consulting with a qualified mechanic or referring to official recall notices. It is important to proactively address any issues as they arise to ensure optimal performance and longevity of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

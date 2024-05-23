@@ -28,6 +28,19 @@ Solution: Replacement of worn clutch plates.
 Estimated Cost to Fix: $3,000 - $6,000+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Suspension**
@@ -64,3 +77,15 @@ Recalls: None Found
 
 **Summary**
 While the Ferrari F12 Berlinetta remains a formidable sports car, it is not without its potential issues. The most prevalent concerns are related to the engine's coolant leaks, transmission clutch wear, and suspension bushings. The cost of repairs for these issues can be substantial, ranging from a few hundred dollars to several thousand dollars. However, it is important to note that not all F12s will experience these problems, and the vehicle's overall reliability has been generally positive.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

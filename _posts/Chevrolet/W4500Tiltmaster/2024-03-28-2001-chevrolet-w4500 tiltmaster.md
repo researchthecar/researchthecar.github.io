@@ -37,6 +37,19 @@ The 2001 Chevrolet W4500 Tiltmaster is a heavy-duty commercial truck offered wit
 * Estimated Cost to Fix: $400 - $600+
 * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Issues Found**
@@ -74,3 +87,15 @@ The 2001 Chevrolet W4500 Tiltmaster is a heavy-duty commercial truck offered wit
 **Summary**
 
 The 2001 Chevrolet W4500 Tiltmaster has a range of issues affecting different components. The engine may experience valve stem seal failure, leading to excessive oil consumption. The transmission options have reported issues with slipping gears and delayed engagement. Electrical shorts and exterior rust issues are also present. The interior may experience heater core leaks and instrument cluster malfunctions. Overall, the severity of the issues varies, with some requiring significant repairs, while others are more manageable.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

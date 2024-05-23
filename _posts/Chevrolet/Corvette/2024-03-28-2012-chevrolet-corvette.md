@@ -38,6 +38,19 @@ The 2012 Chevrolet Corvette is the sixth generation of the iconic American sport
     * Estimated Cost to Fix: $400 - $800+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Failure**
@@ -83,3 +96,15 @@ The 2012 Chevrolet Corvette is the sixth generation of the iconic American sport
 **Summary**
 
 The 2012 Chevrolet Corvette is a high-performance sports car with a proven track record. However, like all vehicles, it has some potential issues that owners should be aware of. The most common issues reported by owners include engine misfires, transmission shifting problems, suspension noise, and electrical problems. While these issues can be costly to repair, they are not widespread and should not deter prospective buyers from considering this iconic vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

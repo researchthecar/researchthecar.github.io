@@ -39,6 +39,19 @@ The 2011 Dodge Attitude is a compact sedan that was praised for its affordabilit
     * Estimated Cost to Fix: $1,200 - $2,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Worn Front Struts:** Premature wear of front struts, leading to a loss of stability and handling.
@@ -79,3 +92,15 @@ The 2011 Dodge Attitude is a compact sedan that was praised for its affordabilit
 **Summary**
 
 The 2011 Dodge Attitude had several issues that affected its performance, reliability, and overall driving experience. Engine problems such as oil consumption and timing chain issues were particularly severe, requiring costly repairs. Transmission concerns, suspension issues, and electrical problems also contributed to the vehicle's low overall reliability ratings. Interior and exterior issues were less severe but still affected the vehicle's comfort and aesthetics.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

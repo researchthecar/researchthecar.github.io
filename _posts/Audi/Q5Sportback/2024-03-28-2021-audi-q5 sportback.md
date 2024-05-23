@@ -31,6 +31,19 @@ The 2021 Audi Q5 Sportback is a stylish and sporty SUV that offers a comfortable
     * Estimated Cost to Fix: $3,000 - $5,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No issues found.**
@@ -63,3 +76,15 @@ The 2021 Audi Q5 Sportback is a stylish and sporty SUV that offers a comfortable
 **Summary**
 
 The 2021 Audi Q5 Sportback is a generally reliable vehicle, but it has experienced some issues. The most common problems are related to the engine, transmission, and electrical system. The severity of the issues varies, with some being relatively minor and others being more serious. The cost of repairs can also vary greatly depending on the extent of the problem. Overall, the Q5 Sportback is a good choice for buyers who are looking for a stylish and sporty SUV, but they should be aware of the potential issues that may arise.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

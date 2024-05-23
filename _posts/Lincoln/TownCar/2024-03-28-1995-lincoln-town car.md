@@ -36,6 +36,19 @@ The 1995 Lincoln Town Car is a full-size luxury sedan known for its smooth ride,
 * **5-speed Manual**
     * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front lower control arms:**
@@ -68,3 +81,15 @@ The 1995 Lincoln Town Car is a full-size luxury sedan known for its smooth ride,
 **Summary**
 
 The 1995 Lincoln Town Car is a comfortable and luxurious vehicle, but it is not without its potential issues. Engine and transmission problems can be costly to repair, as can electrical and suspension malfunctions. However, many of these issues are relatively common and can be addressed by an experienced mechanic.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

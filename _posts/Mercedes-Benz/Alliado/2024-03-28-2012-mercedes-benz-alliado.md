@@ -29,6 +29,19 @@ The 2012 Mercedes-Benz Alliado is a luxury sedan powered by a 3.5-liter V6 engin
 * Estimated Cost to Fix: $1,000 - $3,000+
 * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **No Major Issues Found**
@@ -56,3 +69,15 @@ The 2012 Mercedes-Benz Alliado is a luxury sedan powered by a 3.5-liter V6 engin
 **Summary**
 
 The 2012 Mercedes-Benz Alliado has a few noteworthy issues, mainly related to the engine, transmission, and electrical systems. While these issues can be costly to fix, they are not widespread and do not significantly impact the overall reliability of the vehicle. The Alliado remains a popular choice for luxury sedan enthusiasts who prioritize comfort, performance, and style.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

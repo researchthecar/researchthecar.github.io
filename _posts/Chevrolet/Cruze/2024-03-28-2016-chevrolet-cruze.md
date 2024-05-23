@@ -45,6 +45,19 @@ The 2016 Chevrolet Cruze is a compact sedan known for its affordability, fuel ef
 **6-Speed Automatic (1.6L Naturally Aspirated)**
 * **No Major Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Shock Absorber Failure:** The rear shock absorbers can fail prematurely, causing a rough ride and potential handling issues.
@@ -91,3 +104,15 @@ The 2016 Chevrolet Cruze is a compact sedan known for its affordability, fuel ef
 **Summary:**
 
 Overall, the 2016 Chevrolet Cruze has received mixed feedback from owners. While its affordability and spacious interior are often appreciated, it has been plagued by several issues that can be costly to repair. The most significant problems include premature transmission failure, intake valve deposits, and rear shock absorber failure. These issues can affect the vehicle's performance, reliability, and comfort. It is important for potential buyers to be aware of these potential issues before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

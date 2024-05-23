@@ -29,6 +29,19 @@ The 2004 Chevrolet Tracker is a compact SUV offered with two engine options: a 2
         - Estimated Cost to Fix: $2,000 - $3,000+
         - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Strut Mount Bearing Failure**
     - Description/Symptoms: Knocking or clunking noises from front suspension, uneven tire wear
@@ -74,3 +87,15 @@ The 2004 Chevrolet Tracker is a compact SUV offered with two engine options: a 2
 
 **Summary**
 The 2004 Chevrolet Tracker is a reliable and affordable SUV with good fuel efficiency and off-road capabilities. However, it has some common issues, including intake manifold gasket failure, timing chain tensioner failure, and suspension component wear. The repairs for these issues can be expensive, ranging from $200 to over $3,000. It is important to consider these potential costs when considering purchasing a 2004 Chevrolet Tracker.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

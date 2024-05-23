@@ -39,6 +39,19 @@ The 2002 Ferrari 550 Maranello is a mid-engine, rear-wheel-drive sports car prod
     * Estimated Cost to Fix: $1,500 - $2,500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -71,3 +84,15 @@ The 2002 Ferrari 550 Maranello is a mid-engine, rear-wheel-drive sports car prod
 **Summary**
 
 The 2002 Ferrari 550 Maranello is a reliable and well-built sports car. However, it is not without its issues. The most common problems are with the engine, transmission, and electrical system. The cost to fix these issues can be high, but it is important to remember that the 550 Maranello is an exotic car and the cost of ownership is always going to be higher than that of a more mainstream vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

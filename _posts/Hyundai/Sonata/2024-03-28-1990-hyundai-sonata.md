@@ -28,6 +28,19 @@ The 1990 Hyundai Sonata was a compact sedan that offered two engine options: a 1
 * **Difficulty shifting gears:** This issue can be caused by worn synchros or a faulty clutch master cylinder. Symptoms include difficulty engaging gears, grinding noises when shifting, and a spongy clutch pedal. The solution is to replace the worn components. **Estimated Cost to Fix:** $300 - $800+
 * **Transmission fluid leaks:** Transmission fluid leaks can occur from the input shaft seal, output shaft seal, or pan gasket. Symptoms include low transmission fluid levels, slipping gears, and a burning smell. The solution is to replace the leaking seal or gasket. **Estimated Cost to Fix:** $200 - $500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Worn strut mounts:** The strut mounts are rubber isolators that connect the struts to the car's body. When they wear out, they can cause a clunking noise when driving over bumps. The solution is to replace the worn strut mounts. **Estimated Cost to Fix:** $200 - $400+
@@ -51,3 +64,15 @@ The 1990 Hyundai Sonata was a compact sedan that offered two engine options: a 1
 **Summary**
 
 The 1990 Hyundai Sonata is a budget-friendly sedan with some serious reliability issues. The engine is prone to head gasket and timing belt failures, while the transmission can develop shifting problems and leaks. The suspension and electrical systems are also known to have issues. Rust is a common problem on the exterior, and the interior can suffer from power window and climate control failures. The severity and cost of these issues can vary, but overall, the 1990 Sonata is not a reliable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

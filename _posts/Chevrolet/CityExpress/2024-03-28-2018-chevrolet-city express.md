@@ -29,6 +29,19 @@ The 2018 Chevrolet City Express is a compact cargo van manufactured by GM. It is
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Shock Absorbers Leaking**
@@ -88,3 +101,15 @@ The 2018 Chevrolet City Express is a compact cargo van manufactured by GM. It is
 **Summary**
 
 The 2018 Chevrolet City Express has several reported issues, with the most common being in the engine, transmission, and electrical systems. The severity of the issues ranges from minor, such as dashboard rattling, to major, such as intake valve sticking or transmission shuddering. The cost to fix these issues can also vary significantly, from a few hundred dollars to over $3,000. While the City Express is a practical and affordable van, it is important to be aware of potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

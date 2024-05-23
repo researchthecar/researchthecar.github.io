@@ -39,6 +39,19 @@ People who liked the Roadmaster praised its powerful engine, smooth ride, and co
         - Estimated Cost to Fix: $1,500 - $3,000+
         - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Air Suspension Failure:** 
@@ -80,3 +93,15 @@ People who liked the Roadmaster praised its powerful engine, smooth ride, and co
 **Summary**
 
 The 1994 Buick Roadmaster is a powerful and comfortable luxury sedan, but it does have some known issues. The severity and cost of these issues can vary, but some of the more common problems include intake manifold gasket failure, water pump failure, torque converter shudder, and transmission slipping. It's important to factor in the potential costs of these repairs when considering purchasing a used Roadmaster.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

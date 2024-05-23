@@ -14,6 +14,19 @@ The 2015 Chevrolet Impala Limited is a full-size sedan that was praised for its 
 **Transmission**
 * **6-speed automatic**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front struts**
  **Issue:** Worn or damaged strut mounts
@@ -69,3 +82,15 @@ The 2015 Chevrolet Impala Limited is a full-size sedan that was praised for its 
 
 **Summary**
 The 2015 Chevrolet Impala Limited had a mix of minor and moderate issues. The most common problems included worn strut mounts, premature battery failure, and brittle door handles. While these issues could be annoying, they were generally not too expensive to fix. However, more serious issues such as a leaking heater core could be more costly to repair. Overall, the Impala Limited had a decent reliability rating, with most owners reporting few major problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

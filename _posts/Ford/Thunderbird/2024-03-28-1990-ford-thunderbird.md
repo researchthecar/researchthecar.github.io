@@ -40,6 +40,19 @@ The 1990 Ford Thunderbird is a personal luxury coupe that was offered with a cho
 * **Clutch master cylinder failure:** The clutch master cylinder can fail, causing difficulty engaging gears. Symptoms include a spongy clutch pedal, difficulty shifting gears, and a lack of clutch pressure. The solution is to replace the clutch master cylinder. Estimated cost to fix: $100 - $200+
 * **Slave cylinder failure:** The slave cylinder can fail, causing difficulty engaging gears. Symptoms include a spongy clutch pedal, difficulty shifting gears, and a lack of clutch pressure. The solution is to replace the slave cylinder. Estimated cost to fix: $100 - $200+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension Issues**
 
 * **Front suspension strut failure:** The front suspension struts can fail, causing a loss of handling and stability. Symptoms include a rough ride, a drop in ride height, and uneven tire wear. The solution is to replace the front suspension struts. Estimated cost to fix: $400 - $800+
@@ -68,3 +81,15 @@ The 1990 Ford Thunderbird is a personal luxury coupe that was offered with a cho
 **Summary**
 
 The 1990 Ford Thunderbird is a stylish and powerful personal luxury coupe that is not without its issues. The most common problems include engine and transmission failures, which can be costly to repair. However, the majority of the issues are relatively minor and can be fixed for a reasonable cost. Overall, the Thunderbird is a reliable and enjoyable vehicle that is a good value for the money.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

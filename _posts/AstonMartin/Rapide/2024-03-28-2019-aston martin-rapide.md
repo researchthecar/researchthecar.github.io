@@ -31,6 +31,19 @@ The 2019 Aston Martin Rapide is a luxurious sports car offering a blend of perfo
         * Estimated Cost to Fix: $2,000 - $5,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Squeaks**
@@ -71,3 +84,15 @@ The 2019 Aston Martin Rapide is a luxurious sports car offering a blend of perfo
 **Summary**
 
 The 2019 Aston Martin Rapide offers a thrilling driving experience but is not without potential issues. Engine concerns, such as misfiring and oil leaks, are notable, along with transmission slippage. Electrical malfunctions and convertible top issues can also arise. However, the severity and cost of these problems vary, and many owners report high levels of satisfaction with the vehicle's performance, styling, and exclusivity.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

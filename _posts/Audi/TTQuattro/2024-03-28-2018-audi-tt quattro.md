@@ -32,6 +32,19 @@ The 2018 Audi TT Quattro is a sports car available with a 2.0L turbocharged inli
       - Estimated Cost to Fix: $2,000 - $3,500+
 - **No Recalls Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Strut failure:** Symptoms include excessive bouncing, uneven tire wear, and poor handling. The struts may need to be replaced.
   - Estimated Cost to Fix: $600 - $1,200+
@@ -61,3 +74,15 @@ The 2018 Audi TT Quattro is a sports car available with a 2.0L turbocharged inli
 **Summary**
 
 The 2018 Audi TT Quattro is a performance-oriented sports car with a few potential issues to watch out for. Engine problems, such as turbocharger failures and fuel injector issues, can be costly to repair. Transmission issues, particularly with the 7-speed S tronic, are also a concern. Electrical problems and suspension components may also require attention. However, the overall severity and cost of these issues are not excessive, and the TT Quattro remains a desirable choice for those seeking a stylish and enjoyable driving experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

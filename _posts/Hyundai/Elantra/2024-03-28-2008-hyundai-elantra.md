@@ -38,6 +38,19 @@ The 2008 Hyundai Elantra is a compact sedan known for its budget-friendly price,
     * Estimated Cost to Fix: $1,000 - $3,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mounts Deterioration:**
@@ -73,3 +86,15 @@ The 2008 Hyundai Elantra is a compact sedan known for its budget-friendly price,
 **Summary:**
 
 The 2008 Hyundai Elantra is generally a reliable vehicle, but it is not without its issues. The most common problems reported by owners include engine oil leaks, timing chain tensioner failure, transmission slippage, front strut mount deterioration, electrical gremlins, windshield leaks, and power window motor failure. While some of these issues can be minor and inexpensive to fix, others can be more severe and costly. It is important to note that not all Elantras will experience all of these issues, and some may have no issues whatsoever.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

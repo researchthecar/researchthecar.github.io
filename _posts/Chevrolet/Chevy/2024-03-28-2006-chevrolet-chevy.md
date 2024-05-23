@@ -65,6 +65,19 @@ Drivers appreciate the Chevy's spacious interior, comfortable ride, and reliable
     - Estimated Cost to Fix: $500 - $1,000+
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Front Lower Control Arm Bushing Failure:**
@@ -124,3 +137,15 @@ Drivers appreciate the Chevy's spacious interior, comfortable ride, and reliable
 **Summary:**
 
 The 2006 Chevrolet Chevy is known for its comfort and reliability, but it has been reported to experience issues with certain components. Engine issues range from intake manifold gasket failures to timing chain guide failures, and transmission problems include shift solenoid failures and torque converter lock-up clutch failures. Electrical issues include battery drain and alternator failure. Exterior problems include door lock actuator failures and tailgate handle failures, while interior issues include heater core leaks and power window switch failures. The severity of these issues can vary, and repair costs can be significant.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

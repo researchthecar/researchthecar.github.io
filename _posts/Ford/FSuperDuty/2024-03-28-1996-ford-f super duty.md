@@ -50,6 +50,19 @@ The 1996 Ford F Super Duty is a full-size pickup truck known for its robust towi
         - Estimated Cost to Fix: $1,500 - $2,500+
         - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 - **Leaf Spring Breakage:**
@@ -100,3 +113,15 @@ The 1996 Ford F Super Duty is a full-size pickup truck known for its robust towi
 **Summary:**
 
 Overall, the 1996 Ford F Super Duty is a reliable vehicle with relatively few major issues. The engine, transmission, and suspension components are generally robust, but certain parts may fail over time due to wear and tear. Electrical problems can also be encountered, though they are not widespread. The interior is well-built, but minor issues such as dashboard rattles and seat belt buckle failure can occur. The severity and cost of these issues vary, but most can be addressed at a reasonable expense.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

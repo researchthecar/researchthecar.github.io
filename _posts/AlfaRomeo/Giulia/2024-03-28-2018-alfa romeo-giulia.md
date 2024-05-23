@@ -33,6 +33,19 @@ The 2018 Alfa Romeo Giulia is an Italian sports sedan that offers a unique blend
     * Estimated Cost to Fix: $1,500 - $2,500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -64,3 +77,15 @@ The 2018 Alfa Romeo Giulia is an Italian sports sedan that offers a unique blend
 **Summary**
 
 The 2018 Alfa Romeo Giulia has a notable history of issues, particularly in its engine, transmission, and electrical systems. While the vehicle offers impressive performance and style, its reliability problems can be a major concern for potential buyers. The estimated cost to fix the issues can range from several hundred dollars to over $2,500, indicating that these problems can be significant in both severity and cost.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

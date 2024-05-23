@@ -49,6 +49,19 @@ The 2011 Chevrolet Tahoe is a full-size SUV that offers a combination of power, 
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Noise**
@@ -108,3 +121,15 @@ The 2011 Chevrolet Tahoe is a full-size SUV that offers a combination of power, 
 **Summary**
 
 The 2011 Chevrolet Tahoe is a capable and versatile SUV, but it has been plagued by a number of reliability issues. These issues range in severity from minor annoyances to potentially major breakdowns, and they can be expensive to repair. If you are considering purchasing a 2011 Tahoe, be sure to do your research and factor in the potential costs of repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

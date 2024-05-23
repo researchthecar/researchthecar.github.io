@@ -47,6 +47,19 @@ The 2021 Ford Transit Courier is a compact cargo van that offers a practical sol
     * Estimated Cost to Fix: $600 - $1200
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Front Strut Failure:**
@@ -100,3 +113,15 @@ The 2021 Ford Transit Courier is a compact cargo van that offers a practical sol
 **Summary:**
 
 The 2021 Ford Transit Courier has reported issues that range from minor inconveniences to more serious and costly repairs. While some owners have experienced trouble-free ownership, others have encountered issues with the engine, transmission, suspension, electrical system, and interior components. It's important to consider the severity and cost of these issues when evaluating this vehicle for purchase or lease.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

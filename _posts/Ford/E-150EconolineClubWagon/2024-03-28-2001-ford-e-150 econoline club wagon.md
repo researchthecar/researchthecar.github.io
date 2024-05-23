@@ -52,6 +52,19 @@ The E-150 Econoline Club Wagon was a popular choice for families and businesses 
         * Estimated Cost to Fix: $500 - $1,000+
         * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension**
@@ -109,3 +122,15 @@ The E-150 Econoline Club Wagon was a popular choice for families and businesses 
 **Summary**
 
 The 2001 Ford E-150 Econoline Club Wagon was a popular choice for families and businesses alike, but it was also known for its reliability issues. The most common problems with the E-150 Econoline Club Wagon include engine timing chain failure, transmission slipping, and suspension problems. The cost of repairs can be significant, so it is important to factor in the potential cost of repairs when considering purchasing a used E-150 Econoline Club Wagon.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

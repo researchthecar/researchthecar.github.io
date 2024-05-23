@@ -41,6 +41,19 @@ The GTC4Lusso is praised for its stunning design, luxurious interior, and bliste
     * Estimated Cost to Fix: $500 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Lower Control Arm Bushing Failure**
@@ -76,3 +89,15 @@ The GTC4Lusso is praised for its stunning design, luxurious interior, and bliste
 **Summary**
 
 The 2019 Ferrari GTC4Lusso is a high-performance grand tourer that offers stunning design, luxurious interior, and blistering performance. However, it is not without its issues. Some of the more common problems include intake valve failure, fuel injector failure, clutch wear, and transmission fluid leaks. While these issues can be costly to repair, they are generally infrequent and do not detract from the overall driving experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -45,6 +45,19 @@ While the M440i xDrive Gran Coupe has received praise for its powerful engine, s
     * Solution: Replace mechatronic unit
     * Estimated Cost to Fix: $2,000 - $4,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -93,3 +106,15 @@ While the M440i xDrive Gran Coupe has received praise for its powerful engine, s
 **Summary**
 
 While the 2022 BMW M440i xDrive Gran Coupe offers a thrilling driving experience and luxurious interior, it has received some criticism for its high price tag and limited rear-seat headroom. The vehicle has also faced a few potential issues with its engine, transmission, and electrical systems. These issues can range in severity and cost to fix, with some being minor and relatively inexpensive while others can be more serious and costly. However, it is important to note that these issues do not affect all M440i xDrive Gran Coupes and many owners have reported positive experiences with their vehicles.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

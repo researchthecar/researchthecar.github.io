@@ -35,6 +35,19 @@ People who like the 1996 Dodge Intrepid praise its spacious interior, comfortabl
   * Estimated Cost to Fix: $1,000 - $1,500
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Worn sway bar links**
@@ -94,3 +107,15 @@ People who like the 1996 Dodge Intrepid praise its spacious interior, comfortabl
 **Summary**
 
 The 1996 Dodge Intrepid is a reliable and affordable midsize sedan. However, it is not without its problems. The most common issues reported by owners include intake manifold gasket failure, torque converter failure, and worn sway bar links. These issues can be costly to repair, but they are not typically severe enough to cause major problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -28,6 +28,19 @@ The 2009 Aston Martin DBS is a grand tourer produced by Aston Martin from 2007 t
 * **Transmission Control Unit (TCU) Failures:** The TCU can fail, causing the transmission to shift erratically or not shift at all. Symptoms include harsh shifting, delayed shifts, or a check engine light. The fix involves replacing the TCU. **Estimated Cost to Fix:** $1,000 - $2,000+
 * **Valve Body Issues:** The valve body can malfunction, causing the transmission to shift improperly or slip. Symptoms include rough shifting, delayed shifts, or a loss of power. The fix involves replacing the valve body. **Estimated Cost to Fix:** $1,500 - $2,500+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Knocking:** The front suspension can develop a knocking sound when driving over bumps or rough roads. The fix involves replacing the faulty suspension components. **Estimated Cost to Fix:** $500 - $1,000+
@@ -58,3 +71,15 @@ The 2009 Aston Martin DBS is a grand tourer produced by Aston Martin from 2007 t
 **Summary**
 
 The 2009 Aston Martin DBS is a beautiful and powerful grand tourer, but it is not without its issues. The most common problems include oil leaks, coolant leaks, timing chain problems, clutch problems, TCU failures, and suspension knocking. These issues can be expensive to fix, so it is important to factor in the potential cost of repairs when considering purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

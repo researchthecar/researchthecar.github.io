@@ -34,6 +34,19 @@ The 2002 Ford E-150 Econoline Club Wagon is a versatile full-size van offering a
     * Estimated Cost to Fix: $1200 - $2000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf Spring Breakage:**
@@ -79,3 +92,15 @@ The 2002 Ford E-150 Econoline Club Wagon is a versatile full-size van offering a
 **Summary:**
 
 The 2002 Ford E-150 Econoline Club Wagon generally has minor to moderate issues that are common for vehicles of this age. The most significant problems involve engine intake manifold gasket failures, transmission torque converter shudder, and suspension leaf spring breakage. However, the overall cost to repair these issues can vary significantly depending on the severity and the cost of labor.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

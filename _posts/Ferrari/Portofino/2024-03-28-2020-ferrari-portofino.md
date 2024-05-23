@@ -31,6 +31,19 @@ The 2020 Ferrari Portofino is a luxury convertible grand tourer that delivers an
         * Estimated Cost to Fix: $4,000 - $6,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -72,3 +85,15 @@ The 2020 Ferrari Portofino is a luxury convertible grand tourer that delivers an
 **Summary**
 
 The 2020 Ferrari Portofino is generally a reliable vehicle, but some issues are worth noting. The engine can experience turbocharger or fuel injector problems, while the transmission may encounter clutch wear. Electrical issues, such as battery drain and wiring harness problems, have also been reported. Some exterior clear coat peeling has been observed, and the interior may experience climate control or infotainment system glitches. The severity of these issues varies, and repair costs can be substantial, so it's essential to consider the potential expenses before purchasing a Portofino.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

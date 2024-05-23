@@ -35,6 +35,19 @@ The 2009 Cadillac Escalade EXT is a full-size luxury pickup truck renowned for i
 * **4-speed Automatic**
     * **No Major Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Noise**
@@ -85,3 +98,15 @@ The 2009 Cadillac Escalade EXT is a full-size luxury pickup truck renowned for i
 **Summary**
 
 The 2009 Cadillac Escalade EXT has several common issues, particularly with its engine, electrical system, and exterior components. While some issues are minor annoyances, others can lead to significant repairs and expenses. The cost of these repairs can vary depending on the severity of the issue and the availability of aftermarket parts. Overall, potential buyers should be aware of these common issues before purchasing a used Escalade EXT.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

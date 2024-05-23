@@ -49,6 +49,19 @@ The 2010 Hyundai Sonata is a mid-size sedan available with a variety of engine a
     * Estimated Cost to Fix: $1000-$1500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Failure**
@@ -93,3 +106,15 @@ The 2010 Hyundai Sonata is a mid-size sedan available with a variety of engine a
 
 **Summary:**
 The 2010 Hyundai Sonata is a reliable vehicle overall, but it does have some common issues to watch out for. The most significant issue is the timing chain tensioner failure, which can be expensive to repair. Other common problems include intake manifold runner control valve failure, intake valve deposits, and clutch failure on manual transmissions. The suspension, electrical, exterior, and interior issues are typically less severe and less costly to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

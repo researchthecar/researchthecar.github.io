@@ -70,6 +70,19 @@ The 2011 Chevrolet Camaro is a popular muscle car that offers a thrilling drivin
     * Estimated Cost to Fix: $2,000 - $4,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Failure**
@@ -120,3 +133,15 @@ The 2011 Chevrolet Camaro is a popular muscle car that offers a thrilling drivin
 **Summary**
 
 The 2011 Chevrolet Camaro has some known issues that owners should be aware of. Engine problems, such as intake manifold gasket failure, timing chain failure, and piston ring failure, can be severe and expensive to repair. Transmission issues, such as shuddering or hesitation and slipping gears, can also be significant and costly. Suspension and electrical issues are less common but can still cause inconvenience and safety concerns. Overall, the Camaro is a reliable vehicle, but it is essential to be aware of these potential problems before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

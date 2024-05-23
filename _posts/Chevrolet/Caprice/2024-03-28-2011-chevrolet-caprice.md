@@ -37,6 +37,19 @@ The 2011 Chevrolet Caprice is a full-size sedan powered by a 6.0L V8 engine with
         * Estimated Cost to Fix: $1,000 - $2,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension Control Arm Bushing Wear**
@@ -87,3 +100,15 @@ The 2011 Chevrolet Caprice is a full-size sedan powered by a 6.0L V8 engine with
 **Summary**
 
 The 2011 Chevrolet Caprice is a reliable and comfortable vehicle, but it is not without its issues. The engine and transmission can experience problems, and the suspension may wear out over time. Electrical issues and interior noises are also common. The severity of these issues is moderate, and the cost to fix them can range from a few hundred dollars to over a thousand dollars. However, the overall value and reliability of the Caprice make it a good choice for those seeking a full-size sedan.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

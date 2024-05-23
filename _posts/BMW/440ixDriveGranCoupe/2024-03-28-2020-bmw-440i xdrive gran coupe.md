@@ -32,6 +32,19 @@ The 2020 BMW 440i xDrive Gran Coupe is a sleek and powerful luxury sedan. It fea
         * Estimated Cost to Fix: $2,500 - $4,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Wear:**
@@ -87,3 +100,15 @@ The 2020 BMW 440i xDrive Gran Coupe is a sleek and powerful luxury sedan. It fea
 **Summary**
 
 Overall, while the 2020 BMW 440i xDrive Gran Coupe is generally well-received, it has faced some issues with its engine, transmission, and suspension components. Notably, the fuel injector failure, valve cover gasket leak, and mechatronic unit failure are among the most severe issues, requiring significant repairs. The severity of these issues and the associated repair costs can be a concern for potential owners. However, it's important to note that these issues are not widespread and may not affect all 440i xDrive models.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -71,6 +71,19 @@ The 2011 Chevrolet Silverado 2500 is a full-size heavy-duty pickup truck offered
 - Estimated Cost to Fix: $1,000 - $2,000+
 - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Leaf Spring Failure:**
@@ -124,3 +137,15 @@ The 2011 Chevrolet Silverado 2500 is a full-size heavy-duty pickup truck offered
 **Summary:**
 
 The 2011 Chevrolet Silverado 2500 has faced some reliability issues, particularly with its engine and transmission components. However, the severity and cost of these issues vary, and many vehicles have proven to be reliable. It is recommended to research specific model years and engine/transmission options for more detailed information on their potential issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

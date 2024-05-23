@@ -100,3 +100,15 @@ Recalls: None Found
 ### Summary
 
 The 2016 Chevrolet Cruze NG is a generally reliable vehicle, but it has experienced some issues with its engine, transmission, and electrical systems. The severity of these issues varies, with some being relatively minor and inexpensive to fix, while others can be more serious and costly. Overall, the Cruze NG is a decent option for those looking for an affordable and fuel-efficient compact sedan.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

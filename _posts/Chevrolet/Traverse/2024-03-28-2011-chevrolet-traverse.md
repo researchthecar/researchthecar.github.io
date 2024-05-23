@@ -47,6 +47,19 @@ The 2011 Chevrolet Traverse is a midsize SUV that was offered with a choice of t
 
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut failure**
@@ -82,3 +95,15 @@ The 2011 Chevrolet Traverse is a midsize SUV that was offered with a choice of t
 **Summary**
 
 The 2011 Chevrolet Traverse is a spacious and comfortable SUV with powerful V6 engines. However, it has a number of potential issues, including intake manifold cracking, oil consumption, transmission problems, and suspension failure. The severity and cost of these issues can vary, but they can be a significant inconvenience for owners.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

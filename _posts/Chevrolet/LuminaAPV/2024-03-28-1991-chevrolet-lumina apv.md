@@ -26,6 +26,19 @@ The 1991 Chevrolet Lumina APV was a popular minivan that offered spacious seatin
 
 - **Clutch Failure:** The clutch may fail, causing the vehicle to be unable to move. Symptoms include difficulty shifting gears, a burning smell, and a check engine light. The solution is to replace the clutch. The estimated cost to fix is $500-$1,000.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Strut Failure:** The struts can fail, causing the vehicle to bounce excessively and lose control. Symptoms include a rough ride, uneven tire wear, and a check engine light. The solution is to replace the struts. The estimated cost to fix is $600-$1,200.
@@ -49,3 +62,15 @@ The 1991 Chevrolet Lumina APV was a popular minivan that offered spacious seatin
 **Summary**
 
 The 1991 Chevrolet Lumina APV had several issues that could affect its reliability. The most common issues were with the engine, transmission, suspension, and electrical systems. The severity of the issues ranged from minor, such as dashboard cracking, to major, such as transmission failure. The cost of repairs could be expensive, ranging from a few hundred dollars to several thousand dollars.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

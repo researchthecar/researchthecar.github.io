@@ -44,6 +44,19 @@ The 1993 Chrysler Imperial was a full-size luxury sedan. It was offered with a 3
     * **Estimated Cost to Fix:** $300 - $500+
     * **Recalls:** None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front struts leaking:**
@@ -99,3 +112,15 @@ The 1993 Chrysler Imperial was a full-size luxury sedan. It was offered with a 3
 **Summary:**
 
 The 1993 Chrysler Imperial is a comfortable and spacious luxury sedan, but it is not without its issues. The engine and transmission are known to have several problems, and the suspension and electrical system are also prone to issues. The severity of these issues can range from minor nuisances to major breakdowns, and the cost to fix them can be significant.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

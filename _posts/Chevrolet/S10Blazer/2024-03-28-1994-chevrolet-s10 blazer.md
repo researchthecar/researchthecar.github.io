@@ -27,6 +27,19 @@ The 1994 Chevrolet S10 Blazer is a mid-size SUV available with several engine an
 **Manual Transmission**
 * **No Issues Found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Leaf Spring Failure:** The leaf springs can wear out and sag, affecting ride quality and handling. Replacement of the leaf springs is typically required. Estimated cost: $500 - $1,000+
@@ -48,3 +61,15 @@ The 1994 Chevrolet S10 Blazer is a mid-size SUV available with several engine an
 **Summary**
 
 The 1994 Chevrolet S10 Blazer has some common issues that can affect reliability and performance. The severity of these issues can vary, and the cost of repairs can range from minor to major. Potential buyers should be aware of these problems and factor them into their purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

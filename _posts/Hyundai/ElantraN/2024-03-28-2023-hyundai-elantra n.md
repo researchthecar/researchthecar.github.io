@@ -37,6 +37,19 @@ The 2023 Hyundai Elantra N is a sport-tuned sedan that offers thrilling performa
     * Estimated Cost to Fix: $1500 - $5000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Excessive Body Roll:**
@@ -80,3 +93,15 @@ The 2023 Hyundai Elantra N is a sport-tuned sedan that offers thrilling performa
 **Summary:**
 
 While the 2023 Hyundai Elantra N is a popular choice for driving enthusiasts, it has experienced some issues that potential buyers should be aware of. Most of the issues are minor and can be resolved with relatively low costs, such as battery drain, connectivity issues, and steering wheel vibration. However, more serious problems like transmission shuddering or difficulty shifting gears could be more costly to repair. Overall, it's important to research all vehicles thoroughly and consider the potential issues before making a purchasing decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

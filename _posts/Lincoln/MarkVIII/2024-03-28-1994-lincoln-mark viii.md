@@ -50,6 +50,19 @@ The Mark VIII was praised for its stylish design, comfortable interior, and powe
         * Estimated Cost to Fix: $500 - $1,500
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -87,3 +100,15 @@ The Mark VIII was praised for its stylish design, comfortable interior, and powe
 **Summary**
 
 The 1994 Lincoln Mark VIII is a powerful and stylish luxury coupe that has several notable issues. The most common problems are with the engine, particularly the intake manifold gasket and timing chain. The transmission can also be problematic, with slipping gears and torque converter failure. Electrical issues, such as alternator and starter failure, are also common. Overall, the Mark VIII is a reliable vehicle, but it has several issues that can be expensive to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

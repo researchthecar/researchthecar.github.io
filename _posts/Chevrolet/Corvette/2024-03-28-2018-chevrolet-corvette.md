@@ -38,6 +38,19 @@ The 2018 Chevrolet Corvette is a sports car that features a variety of engine an
         * Estimated Cost to Fix: $2,000 - $3,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -65,3 +78,15 @@ The 2018 Chevrolet Corvette is a sports car that features a variety of engine an
 **Summary:**
 
 The 2018 Chevrolet Corvette has some notable issues, particularly with its engine and transmission. The cylinder head cracking issue is a major concern, as it can lead to catastrophic engine failure. The transmission issues, while not as severe, can still cause significant problems and affect the drivability of the vehicle. The cost to repair these issues can be substantial, ranging from hundreds to thousands of dollars.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

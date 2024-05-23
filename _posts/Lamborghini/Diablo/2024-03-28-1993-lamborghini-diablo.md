@@ -31,6 +31,19 @@ The Diablo was a popular car, but it was also known for its reliability issues. 
 * **Torque converter failure:** The torque converter can fail, causing the transmission to slip and lose power.
 * **Valve body failure:** The valve body can fail, causing the transmission to shift erratically or not shift at all.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Shock absorber failure:** The shock absorbers can fail, causing the car to ride roughly and lose stability.
@@ -58,3 +71,15 @@ The Diablo was a popular car, but it was also known for its reliability issues. 
 ## Summary
 
 The 1993 Lamborghini Diablo is a powerful and stylish sports car, but it is also known for its reliability issues. The most common problems with the Diablo include engine, transmission, suspension, electrical, exterior, and interior issues. The severity of the issues can vary, but some of them can be expensive to fix. If you are considering buying a Diablo, it is important to be aware of the potential problems and factor in the cost of repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -63,6 +63,19 @@ The 2002 Ford E-350 Econoline Club Wagon is a popular choice for families and co
     *Estimated Cost to Fix: $800 - $1,500
     *Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Ball joint failure:** The ball joints in the front suspension can wear out over time, which can cause the vehicle to pull to one side while driving.
@@ -114,3 +127,15 @@ The 2002 Ford E-350 Econoline Club Wagon is a popular choice for families and co
 **Summary:**
 
 The 2002 Ford E-350 Econoline Club Wagon is a reliable and versatile vehicle, but it is not without its issues. Some of the most common problems include engine intake manifold failure, spark plug blowout, turbocharger failure, transmission slipping, and rust. While some of these issues are relatively minor and inexpensive to fix, others can be quite costly to repair. It is important to factor in the potential repair costs when considering purchasing an E-350.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

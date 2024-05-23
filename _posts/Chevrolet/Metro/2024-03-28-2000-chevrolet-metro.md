@@ -24,6 +24,19 @@ The 2000 Chevrolet Metro is a subcompact hatchback that offers affordable and re
 * **3-Speed Automatic Transmission**
     * **Transmission Slipping:** Difficulty accelerating or maintaining speed may indicate a slipping transmission. Symptoms include a sudden loss of power or a delayed response when shifting gears. Solution: Rebuild or replace the transmission. Estimated Cost to Fix: $1,500 - $3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mount Bearing Failure:** Worn strut mount bearings can cause a clunking noise when turning or driving over bumps. Symptoms include excessive tire wear and an unstable ride. Solution: Replace the strut mount bearings. Estimated Cost to Fix: $200 - $400+
@@ -47,3 +60,15 @@ The 2000 Chevrolet Metro is a subcompact hatchback that offers affordable and re
 **Summary:**
 
 The 2000 Chevrolet Metro is a reliable and fuel-efficient vehicle, but it is not without its issues. The engine and transmission can encounter problems with oil consumption, leaks, and transmission slipping. The suspension may experience strut mount bearing failure and shock absorber issues. Electrical concerns include alternator failure and battery drain. The exterior is prone to rust, and the interior may suffer from dashboard cracking and faulty climate control panels. The severity and cost of these issues can vary, so it is important to research potential problems before purchasing a used Metro.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

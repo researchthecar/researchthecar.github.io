@@ -49,6 +49,19 @@ Overall, the 1998 Chevrolet Monte Carlo was a popular and stylish vehicle. It of
  Estimated Cost to Fix: $200-$300  
  Recalls: None Found  
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**  
 
 - **Front Lower Control Arm Bushing Failure**  
@@ -107,3 +120,15 @@ Overall, the 1998 Chevrolet Monte Carlo was a popular and stylish vehicle. It of
 
 **Overall Summary**  
 The 1998 Chevrolet Monte Carlo had a number of common issues, including engine leaks, transmission problems, and electrical failures. The most severe issues were the intake manifold gasket failure and the supercharger intercooler pump failure, which could both lead to major engine damage. The other issues were generally less severe and less expensive to fix. Overall, the 1998 Monte Carlo was a reliable and affordable vehicle, but it did have its share of problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

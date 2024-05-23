@@ -31,6 +31,19 @@ The 1998 Bentley Brooklands was a luxurious coupe that offered an unparalleled c
     * Solution: Replace the reverse gear set.
     * Estimated Cost to Fix: $2,000 - $3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Pump Failure:**
@@ -70,3 +83,15 @@ The 1998 Bentley Brooklands was a luxurious coupe that offered an unparalleled c
 **Summary:**
 
 While the Bentley Brooklands offered exceptional luxury and performance, it was susceptible to a number of issues, particularly in the engine, transmission, and suspension. Some repairs, such as timing chain tensioner failure and reverse gear failure, can be costly and labor-intensive. However, the overall reliability and desirability of the Brooklands make it a sought-after classic car among enthusiasts.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

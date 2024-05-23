@@ -60,6 +60,19 @@ The Aveo was praised for its affordability, fuel efficiency, and stylish design.
     * Estimated Cost to Fix: $2,000 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Suspension Noise**
@@ -117,3 +130,15 @@ The 2011 Chevrolet Aveo has a number of potential issues, including engine oil c
 The severity of the issues varies, with some being minor annoyances and others being potentially catastrophic. The cost to fix the issues also varies, with some being relatively inexpensive and others being quite expensive.
 
 Overall, the 2011 Chevrolet Aveo is a budget-friendly vehicle with a number of potential issues. It is important to be aware of these issues before purchasing a used Aveo, and to factor the potential cost of repairs into your decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -27,6 +27,19 @@ The 2009 Ford Explorer Sport Trac is a midsize pickup truck based on the Ford Ex
   - Estimated Cost to Fix: $200 - $500+
   - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Front Lower Control Arms - Bushing Failure:**
   - Description/Symptoms: Worn or damaged bushings in the front lower control arms can lead to excessive suspension movement and noise. Symptoms may include a clunking noise when turning or braking, and uneven tire wear.
@@ -67,3 +80,15 @@ The 2009 Ford Explorer Sport Trac is a midsize pickup truck based on the Ford Ex
 
 **Summary**
 The 2009 Ford Explorer Sport Trac is a capable and versatile vehicle, but it has some significant issues that can be expensive to fix. Engine problems, transmission issues, and suspension failures can all be costly to repair. While interior and exterior issues may not be as severe, they can still detract from the overall ownership experience. Potential buyers should be aware of these issues before purchasing a used Explorer Sport Trac.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

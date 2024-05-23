@@ -73,6 +73,19 @@ The 2014 Chevrolet Sonic is a subcompact car that offers several engine and tran
   * Estimated Cost to Fix: $800 - $1200+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Failure**
@@ -128,3 +141,15 @@ The 2014 Chevrolet Sonic is a subcompact car that offers several engine and tran
 **Summary**
 
 The 2014 Chevrolet Sonic has a number of potential issues, including engine problems, transmission problems, and electrical problems. The severity and cost of these issues vary depending on the specific problem. Overall, the Sonic is a reliable and affordable car, but it is important to be aware of these potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

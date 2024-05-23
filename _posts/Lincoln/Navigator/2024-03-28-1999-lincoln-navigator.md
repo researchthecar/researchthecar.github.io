@@ -40,6 +40,19 @@ Owners generally praise the Navigator for its performance, comfort, and off-road
         * Estimated Cost to Fix: $2,500 - $4,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Front suspension:**
     * **Upper control arm bushings:**
@@ -86,3 +99,15 @@ Owners generally praise the Navigator for its performance, comfort, and off-road
 
 **Summary:**
 The 1999 Lincoln Navigator is a capable SUV with a spacious interior and powerful engine. However, owners should be aware of potential issues with the engine, transmission, suspension, electrical, exterior, and interior components. The severity and cost of these issues can vary, but some can be expensive to repair. It is important to research common issues and have the vehicle inspected by a mechanic before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

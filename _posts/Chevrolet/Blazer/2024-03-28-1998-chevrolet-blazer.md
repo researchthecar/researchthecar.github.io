@@ -83,6 +83,19 @@ The 1998 Chevrolet Blazer was a mid-size SUV available with a variety of engine 
   * Estimated Cost to Fix: $300 - $600
   * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front End Alignment:**
@@ -142,3 +155,15 @@ The 1998 Chevrolet Blazer was a mid-size SUV available with a variety of engine 
 **Summary:**
 
 The 1998 Chevrolet Blazer has some potential mechanical issues, particularly in the engine, transmission, and suspension. However, the severity and cost of repairs vary depending on the specific problem and the affected components. Owners should be aware of these potential issues before purchasing or owning a Blazer.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

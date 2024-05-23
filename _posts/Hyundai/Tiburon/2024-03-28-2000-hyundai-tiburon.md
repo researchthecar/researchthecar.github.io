@@ -99,6 +99,19 @@ While the Tiburon remains a popular choice among enthusiasts, it is not without 
         * $2,000 - $4,000
 * **Recall:** NHTSA Campaign Number: 22V897000: Transmission may shift into Neutral without warning.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -158,3 +171,15 @@ While the Tiburon remains a popular choice among enthusiasts, it is not without 
 **Summary**
 
 The 2000 Hyundai Tiburon has its fair share of issues, but the severity and cost of repairs vary. Engine problems, such as valve train noise and oil burning, can be relatively minor and affordable to fix. Transmission issues, particularly with the automatic transmission, can be more costly to repair. Electrical shorts, body corrosion, and interior malfunctions have also been reported. Overall, it is important to consider the potential expenses associated with ownership before purchasing a Tiburon. Regular maintenance and timely repairs can help extend the vehicle's life and mitigate potential problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

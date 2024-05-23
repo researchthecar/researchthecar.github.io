@@ -38,6 +38,19 @@ The 2012 Audi TT RS Quattro is a high-performance sports car powered by a turboc
     * Estimated Cost to Fix: $4,000 - $6,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Failure:**
@@ -83,3 +96,15 @@ The 2012 Audi TT RS Quattro is a high-performance sports car powered by a turboc
 **Summary:**
 
 The 2012 Audi TT RS Quattro is a high-performance sports car that offers a thrilling driving experience. However, it is not without its issues. Engine issues, particularly turbocharger wastegate failures and head gasket leaks, are a concern. The transmission, specifically the 7-speed S tronic, may experience expensive Mechatronic unit failures. Electrical glitches, such as alternator failures and ECU software bugs, have also been reported. Some minor paint quality issues and interior noises may also arise. While these issues can be frustrating, the TT RS remains a highly sought-after sports car for those willing to address potential problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

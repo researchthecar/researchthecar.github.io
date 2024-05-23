@@ -48,6 +48,19 @@ Owners have generally praised the Santa Fe for its reliability, affordability, a
     * Solution: Rebuild or replace transmission
     * Estimated Cost to Fix: $2,000-$3,000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front strut failure**
@@ -83,3 +96,15 @@ Owners have generally praised the Santa Fe for its reliability, affordability, a
 **Summary**
 
 Overall, the 2005 Hyundai Santa Fe is a reliable and affordable SUV with a spacious interior. However, it is not without its problems. Some of the more severe issues, such as engine and transmission failures, can be costly to repair. However, many of the other issues are relatively minor and inexpensive to fix.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

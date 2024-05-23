@@ -39,6 +39,19 @@ The Ghibli is a popular choice for drivers who want a luxurious and sporty sedan
 * **Transmission noise:** The transmission can make noise when shifting gears. The solution is to replace the transmission bearings or gears. The estimated cost to fix is $1,500 - $2,500.
 * **Shifting problems:** The transmission can have problems shifting gears, causing the car to jerk or hesitate. The solution is to adjust the shift linkage or replace the transmission synchronizers. The estimated cost to fix is $200 - $500.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension noise:** The front suspension can make noise when driving over bumps or rough roads. The solution is to replace the front suspension struts or control arms. The estimated cost to fix is $500 - $1,000.
@@ -66,3 +79,15 @@ The Ghibli is a popular choice for drivers who want a luxurious and sporty sedan
 **Summary**
 
 The Maserati Ghibli is a stylish and powerful luxury sports sedan. However, it has some issues that owners should be aware of. The most common issues are with the engine, transmission, suspension, and electrical system. The severity of the issues can range from minor annoyances to major problems that can require expensive repairs. The cost to fix the issues can also be high, especially for major repairs. If you are considering buying a Maserati Ghibli, be sure to research the common issues and factor in the potential cost of repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

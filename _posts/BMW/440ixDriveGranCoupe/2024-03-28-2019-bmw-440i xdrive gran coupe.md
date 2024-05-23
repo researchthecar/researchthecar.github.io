@@ -37,6 +37,19 @@ The 2019 BMW 440i xDrive Gran Coupe is a midsize luxury sports sedan powered by 
         * Estimated Cost to Fix: $300-$800
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Standard Suspension**
@@ -94,3 +107,15 @@ The 2019 BMW 440i xDrive Gran Coupe is a midsize luxury sports sedan powered by 
 **Summary:**
 
 The 2019 BMW 440i xDrive Gran Coupe has some significant issues that can be costly to repair, such as engine timing chain failure and transmission mechatronic unit failure. While it is a stylish and capable vehicle, potential buyers should be aware of these potential problems and factor them into their decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

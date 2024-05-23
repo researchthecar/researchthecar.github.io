@@ -29,6 +29,19 @@ The 2014 Bentley Mulsanne is a luxurious full-size sedan that offers an exquisit
         * Estimated Cost to Fix: $5,000 - $7,000+
         * Recalls: None
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 * **Air Suspension Malfunction**
         * Description/Symptoms: Vehicle may sag or ride unevenly; reduced handling and stability; warning lights on dash.
@@ -69,3 +82,15 @@ The 2014 Bentley Mulsanne is a luxurious full-size sedan that offers an exquisit
 
 **Summary**
 While the 2014 Bentley Mulsanne offers remarkable luxury and performance, some issues have been reported by owners. The most common issues involve the engine, including valve stem seal failure and timing chain tensioner failure. The transmission can also experience mechatronic unit failure. Other concerns include suspension malfunction, electrical battery drain, and interior infotainment display failure. The severity of these issues can vary, but some can be costly to repair. Potential buyers should be aware of these potential problems before considering a purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

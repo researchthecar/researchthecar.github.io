@@ -52,6 +52,19 @@ Drivers appreciate the Trax's fuel efficiency, affordability, and spacious inter
     * Solution: CVT pulley replacement
     * Estimated Cost to Fix: $1000 - $2000+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Strut Mounts Failure**
@@ -91,3 +104,15 @@ Drivers appreciate the Trax's fuel efficiency, affordability, and spacious inter
 **Summary:**
 
 The 2019 Chevrolet Trax has some common issues, particularly with the engine and transmission. While some issues are relatively inexpensive to fix, others can be costly. Owners may want to consider extended warranty coverage to protect against potential repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

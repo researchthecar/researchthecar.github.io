@@ -28,6 +28,19 @@ The 2017 Maserati GranTurismo is a high-performance luxury coupe known for its s
     Estimated Cost to Fix: $2,500 - $4,000+
     Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 - **Front suspension:**
     - **Strut mount bearing failure:** Symptoms include clunking or rattling noises from the front suspension, especially over bumps or uneven surfaces. The strut mount bearing can wear out or fail, causing the strut to move excessively. 
@@ -56,3 +69,15 @@ The 2017 Maserati GranTurismo is a high-performance luxury coupe known for its s
 **Summary**
 
 The 2017 Maserati GranTurismo is a desirable luxury coupe, but potential buyers should be aware of some common issues that have been reported by owners. The engine, transmission, suspension, electrical, and interior components can all experience problems that can be costly to repair. It is important to factor these potential issues into the decision-making process when considering the purchase of a GranTurismo.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

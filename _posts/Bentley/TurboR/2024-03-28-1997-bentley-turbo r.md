@@ -31,6 +31,19 @@ The 1997 Bentley Turbo R was a luxurious and powerful grand tourer that offered 
 > Solution: Replace the failed solenoid(s).
 > Estimated Cost to Fix: $500 - $800+
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear Air Suspension Leaks**
@@ -62,3 +75,15 @@ The 1997 Bentley Turbo R was a luxurious and powerful grand tourer that offered 
 **Summary**
 
 The 1997 Bentley Turbo R offers a luxurious and powerful driving experience, but it is not without its issues. The most common problems reported by owners include intake valve guide wear, oil leaks, and electrical harness damage. While these issues can be significant and expensive to fix, the overall reliability of the Turbo R is generally considered to be above average for a luxury vehicle of its age.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

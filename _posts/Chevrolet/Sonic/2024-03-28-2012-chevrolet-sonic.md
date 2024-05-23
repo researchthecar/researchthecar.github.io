@@ -51,6 +51,19 @@ Solution: Replace transmission fluid or rebuild transmission
 Estimated Cost to Fix: $500 - $2,500+
 Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Front Strut Mount Failure**
@@ -98,3 +111,15 @@ Recalls: None Found
 **Summary**
 
 While the Chevrolet Sonic is generally reliable, it is not without its issues. The most severe issues include piston ring failure, turbocharger failure, and transmission slipping. The cost to fix these issues can be high, ranging from $1,000 to $3,000 or more. However, many of the other issues, such as door handle malfunction or climate control malfunction, are relatively minor and inexpensive to fix. Overall, the Sonic's reliability is on par with other vehicles in its class, but it is important to be aware of potential issues before purchasing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

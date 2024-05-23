@@ -41,6 +41,19 @@ The 2005 Hyundai Elantra is a compact sedan that offers a spacious interior, com
     - Estimated Cost to Fix: $200 - $500+
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Struts and shocks failure**
@@ -81,3 +94,15 @@ The 2005 Hyundai Elantra is a compact sedan that offers a spacious interior, com
 **Summary**
 
 Overall, the 2005 Hyundai Elantra is a reliable vehicle with relatively few major issues. The most common issues include engine misfires, timing chain failure, transmission shudder, and suspension component failures. The severity of these issues can vary depending on the specific part that has failed. The estimated costs to fix these issues range from $100 to $2,000 or more, depending on the issue and the severity of the damage.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

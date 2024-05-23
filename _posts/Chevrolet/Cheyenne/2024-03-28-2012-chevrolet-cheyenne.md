@@ -42,6 +42,19 @@ The 2012 Chevrolet Cheyenne is a full-size pickup truck that comes standard with
 
 * **No issues found**
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear axle seals:** The rear axle seals can leak, causing a loss of fluid and damage to the rear axle. The seals can be replaced for around $500 - $1,000.
@@ -66,3 +79,15 @@ The 2012 Chevrolet Cheyenne is a full-size pickup truck that comes standard with
 **Overall Summary:**
 
 The 2012 Chevrolet Cheyenne has a number of serious issues that can affect its reliability, performance, and safety. These issues can be costly to fix, and some may require major repairs. While the Cheyenne is a popular vehicle, it is important to be aware of its potential problems before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

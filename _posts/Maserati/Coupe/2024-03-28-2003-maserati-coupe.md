@@ -34,6 +34,19 @@ The 2003 Maserati Coupe is a stylish and performance-oriented sports car powered
     * Estimated Cost to Fix: $1,000-$2,500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Control Arm Bushing Failure:**
@@ -78,3 +91,15 @@ The 2003 Maserati Coupe is a stylish and performance-oriented sports car powered
 **Summary:**
 
 The 2003 Maserati Coupe offers an exhilarating driving experience but faces some significant reliability issues. The most severe problems include excessive oil consumption, timing chain failure, and suspension bushing failure. These issues can be expensive to repair, ranging from $1,000 to $7,000+. The interior and electrical systems have also experienced malfunctions that can be inconvenient and costly to fix. Potential buyers should be prepared for higher maintenance and repair expenses compared to similar vehicles in this class.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -67,6 +67,19 @@ Owners of the 2018 Chevrolet Express Cargo generally praise its spacious cargo a
     * Estimated Cost to Fix: $800 - $1,500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension noise:** 
@@ -122,3 +135,15 @@ Owners of the 2018 Chevrolet Express Cargo generally praise its spacious cargo a
 **Summary**
 
 The 2018 Chevrolet Express Cargo has received mixed reviews from owners. While some owners praise its spacious cargo area, powerful engines, and towing capabilities, others have reported issues with various components of the vehicle. Some of the more severe issues, such as transmission slipping and turbocharger failure, can be expensive to repair. However, many of the other issues are relatively minor and can be fixed for less than $1,000.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

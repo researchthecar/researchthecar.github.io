@@ -38,6 +38,19 @@ The 2012 Aston Martin DBS is a high-performance grand tourer that is powered by 
         * Estimated Cost to Fix: $500 - $2,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -68,3 +81,15 @@ The 2012 Aston Martin DBS is a high-performance grand tourer that is powered by 
 **Summary**
 
 The 2012 Aston Martin DBS is a high-performance grand tourer that is known for its stylish design, luxurious interior, and powerful engine. However, it is also known for some reliability issues. The most common issues are related to the engine, transmission, and electrical system. The severity of the issues can vary, but some of them can be expensive to repair. Overall, the DBS is a reliable car, but it is important to be aware of the potential issues before purchasing one.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

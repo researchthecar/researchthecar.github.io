@@ -31,6 +31,19 @@ The 2020 Dodge Attitude is a budget-friendly sedan offered with a 1.2-liter 3-cy
     * Estimated Cost to Fix: $500 - $1,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut/Shock Mount Failure:** Worn or damaged strut or shock mounts, causing a rattling noise and reduced handling.
@@ -78,3 +91,15 @@ The 2020 Dodge Attitude is a budget-friendly sedan offered with a 1.2-liter 3-cy
 **Summary**
 
 The 2020 Dodge Attitude has several common issues, primarily affecting the engine, transmission, and suspension. While the issues can be costly to repair, they are generally not severe and can be resolved. However, it is essential for owners to be aware of these issues and address them promptly to avoid potential damage or further expenses.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

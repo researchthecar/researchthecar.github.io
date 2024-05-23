@@ -46,6 +46,19 @@ The 2014 Ford Transit Custom is a versatile commercial van offered with a range 
     Solution: Replace clutch kit
     Estimated Cost to Fix: $1000 - $1500
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front Suspension:**
@@ -97,3 +110,15 @@ The 2014 Ford Transit Custom is a versatile commercial van offered with a range 
 **Summary:**
 
 The 2014 Ford Transit Custom has faced some issues with its engine, transmission, suspension, and electrical systems. The severity of these issues varies, but some can lead to significant repair costs. Potential owners should be aware of these issues and consider their impact on the vehicle's reliability and cost of ownership.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

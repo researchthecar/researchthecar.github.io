@@ -39,6 +39,19 @@ However, like any vehicle, the Range Rover is not immune to problems. Here is a 
 * Estimated Cost to Fix: $1,000 - $3,000+
 * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 **Air Suspension Failure**
@@ -74,3 +87,15 @@ However, like any vehicle, the Range Rover is not immune to problems. Here is a 
 **Summary**
 
 Overall, the 2016 Land Rover Range Rover is a reliable and well-built SUV. However, it is not immune to problems. Some of the most common issues include intake manifold failure, EGR cooler failure, shifting problems, air suspension failure, and electrical issues. The severity and cost of these issues can vary depending on the specific problem.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

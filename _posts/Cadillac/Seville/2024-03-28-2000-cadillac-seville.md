@@ -53,6 +53,19 @@ The 2000 Cadillac Seville is a mid-size luxury sedan renowned for its elegant st
     * Estimated Cost to Fix: $200 - $500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Mount Failure:**
@@ -94,3 +107,15 @@ The 2000 Cadillac Seville is a mid-size luxury sedan renowned for its elegant st
 **Summary**
 
 The 2000 Cadillac Seville is a stylish and comfortable luxury sedan that has been plagued by several issues. While some issues, such as strut mount failure or battery drain, are relatively minor and inexpensive to fix, engine and transmission problems can be severe and costly. The average cost of repairs for the issues listed above ranges from $200 to $3,000+, making the Seville a potentially expensive vehicle to maintain.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

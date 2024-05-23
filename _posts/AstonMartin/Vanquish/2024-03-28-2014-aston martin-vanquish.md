@@ -44,6 +44,19 @@ The 2014 Aston Martin Vanquish is a high-performance grand tourer known for its 
     * Estimated Cost to Fix: $800 - $1500
     * Recalls: N/A
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -85,3 +98,15 @@ The 2014 Aston Martin Vanquish is a high-performance grand tourer known for its 
 **Summary:**
 
 The 2014 Aston Martin Vanquish is a high-performance vehicle with impressive handling and performance. However, it does have some issues, including engine mapping errors, intake valve deposits, and electrical glitches. The severity of these issues varies, and the cost to fix them can be significant. Overall, while the Vanquish is an exciting and desirable car, potential owners should be aware of its potential issues and associated costs before making a purchase decision.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

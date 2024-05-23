@@ -29,6 +29,19 @@ Owners of the 1998 Cadillac Catera have reported a number of issues with their v
 * **Transmission slipping:** The transmission may slip, causing a loss of power and acceleration. The transmission can be rebuilt or replaced for $1,500 - $3,000+.
 * **Torque converter failure:** The torque converter may fail, causing the transmission to slip and shudder. The torque converter can be replaced for $500 - $1,000+.
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front suspension strut failure:** The front suspension struts can fail, causing the vehicle to bounce and handle poorly. The struts can be replaced for $400 - $800+.
@@ -52,3 +65,15 @@ Owners of the 1998 Cadillac Catera have reported a number of issues with their v
 **Summary**
 
 The 1998 Cadillac Catera is a reliable vehicle, but it does have some common issues. The most severe and expensive issues are related to the engine and transmission. However, many of the other issues are relatively minor and inexpensive to fix. Overall, the Catera is a good value for the money.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

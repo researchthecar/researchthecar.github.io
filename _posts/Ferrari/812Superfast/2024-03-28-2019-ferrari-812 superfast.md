@@ -29,6 +29,19 @@ The 2019 Ferrari 812 Superfast is a high-performance sports car with a naturally
         * Estimated Cost to Fix: $5,000 - $10,000+
         * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 * **Front Axle Bushing Failure:**
     * Description/Symptoms: Premature wear or failure of the front axle bushings can cause excessive noise, vibration, or handling issues.
@@ -55,3 +68,15 @@ The 2019 Ferrari 812 Superfast is a high-performance sports car with a naturally
 
 **Summary:**
 The 2019 Ferrari 812 Superfast is a high-performance vehicle that has received positive reviews. However, it has experienced some reported issues, including potential engine intake manifold cracking, connecting rod bearing failure, and transmission clutch overheating. While these issues can be costly to repair, they are not widespread and should not deter potential buyers from considering this exceptional sports car.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

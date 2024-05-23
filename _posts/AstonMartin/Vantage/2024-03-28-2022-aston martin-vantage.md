@@ -34,6 +34,19 @@ The 2022 Aston Martin Vantage is a luxurious sports car that delivers exhilarati
     * Estimated Cost to Fix: $1,000 - $2,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **No Issues Found**
@@ -65,3 +78,15 @@ The 2022 Aston Martin Vantage is a luxurious sports car that delivers exhilarati
 **Summary**
 
 The 2022 Aston Martin Vantage is a highly capable sports car that offers thrilling performance and luxurious amenities. However, it is not without potential issues, including engine oil leaks, turbocharger failures, transmission shifting problems, electrical battery drain, sunroof leaks, and infotainment system glitches. While the severity and cost of these issues vary, they are important to consider when owning or considering purchasing this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -61,6 +61,19 @@ The 2009 Chevrolet Malibu is a midsize sedan that was praised for its spacious i
     - Estimated Cost to Fix: $1,500 - $3,000+
     - Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 - **Strut Mounting Bearing Failure:**
@@ -93,3 +106,15 @@ The 2009 Chevrolet Malibu is a midsize sedan that was praised for its spacious i
 **Summary:**
 
 The 2009 Chevrolet Malibu has a few potential issues that can arise, with the most common being excessive oil consumption in the 2.4L Ecotec engine, timing chain failure in the 2.4L Ecotec engine, and transmission slipping or shuddering in the 6-speed automatic transmission. The severity and cost of these issues can vary, but they can potentially be expensive to repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

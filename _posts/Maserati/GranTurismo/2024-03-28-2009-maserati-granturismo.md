@@ -47,6 +47,19 @@ The 2009 Maserati GranTurismo is a high-performance Italian sports car powered b
   * Estimated Cost to Fix: $1,500 - $2,000+
   * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension:**
 
 * **Front Suspension Control Arm Bushings:**
@@ -97,3 +110,15 @@ The 2009 Maserati GranTurismo is a high-performance Italian sports car powered b
 **Summary:**
 
 The 2009 Maserati GranTurismo is a captivating sports car, but it is not without its issues. The most serious problems include valve guide wear and torque converter lockup issues, which can be expensive to repair. Other issues, such as door handle failure and climate control malfunction, are less severe but can still be frustrating. Overall, the cost to fix the GranTurismo's problems can add up quickly, so prospective buyers should be prepared for potential repair expenses before purchasing the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -58,6 +58,19 @@ The 2000 Ford Grand Marquis is a full-size sedan that was praised for its spacio
     * Estimated Cost to Fix: $800 - $1,500
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Front lower control arm bushings:**
@@ -103,3 +116,15 @@ The 2000 Ford Grand Marquis is a full-size sedan that was praised for its spacio
 **Summary:**
 
 The 2000 Ford Grand Marquis is a comfortable and affordable full-size sedan that has its fair share of reliability issues. Engine problems, particularly intake manifold failures and spark plug blowouts, are common concerns. The transmission can also experience problems such as slipping gears and torque converter shudder. Suspension issues like worn out control arm bushings and electrical problems like alternator failure and quick battery drains are also prevalent. Exterior rust on the trunk lid can be an issue, while interior components like the air conditioning evaporator core and power windows can fail. Overall, these issues can lead to significant repair costs, especially for the more severe engine and transmission problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

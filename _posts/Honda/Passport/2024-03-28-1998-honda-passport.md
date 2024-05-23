@@ -39,6 +39,19 @@ The 1998 Honda Passport is a mid-size SUV that offers a spacious interior, relia
     * Estimated Cost to Fix: $1,500 - $3,000+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Rear suspension sagging**
@@ -94,3 +107,15 @@ The 1998 Honda Passport is a mid-size SUV that offers a spacious interior, relia
 **Summary**
 
 The 1998 Honda Passport is a reliable and durable vehicle, but it is not without its issues. The most common problems include intake manifold gasket failure, timing belt tensioner failure, torque converter shudder, and rear suspension sagging. These issues can be expensive to fix, but many of them are preventable with proper maintenance. Overall, the Passport is a solid choice for those seeking a capable SUV with a proven track record.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

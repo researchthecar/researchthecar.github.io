@@ -51,6 +51,19 @@ The 2002 Chevrolet Cavalier is a compact car available with two engine options: 
     * Estimated Cost to Fix: $1500 - $2500+
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Strut Failure:**
@@ -110,3 +123,15 @@ The 2002 Chevrolet Cavalier is a compact car available with two engine options: 
 **Summary:**
 
 The 2002 Chevrolet Cavalier suffers from a range of issues, including engine and transmission problems, suspension wear, electrical failures, and interior defects. The cost to fix these issues can vary significantly, but repairs can be expensive, especially for major components like the transmission or head gasket. While the Cavalier offers affordability and fuel efficiency, its reliability issues may outweigh its benefits for some buyers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

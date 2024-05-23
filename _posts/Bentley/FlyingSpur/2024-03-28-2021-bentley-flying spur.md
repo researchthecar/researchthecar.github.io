@@ -38,6 +38,19 @@ People who love the Bentley Flying Spur appreciate its spacious cabin, powerful 
         * Estimated Cost to Fix: $5,000 - $8,000
     * Recalls: None Found
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **Suspension**
 
 * **Air Suspension Leak**
@@ -73,3 +86,15 @@ People who love the Bentley Flying Spur appreciate its spacious cabin, powerful 
 **Summary:**
 
 The 2021 Bentley Flying Spur is a magnificent vehicle, but it is not without its issues. Some of the problems reported by owners can be costly to repair, including engine and transmission failures. However, many of the issues are relatively minor and can be fixed for a reasonable price. Overall, the Flying Spur is a solid choice for those who are looking for a luxurious and powerful sedan.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
