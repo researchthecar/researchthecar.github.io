@@ -21,6 +21,10 @@ function encodeMakeForUrl(make) {
   return make.replace(/\s/g, '-'); // Replace spaces with hyphens
 }
 
+function encodeModelForUrl(model) {
+  return model.replace(/\s/g, '-');
+}
+
 // Event listeners
 yearSelect.addEventListener('change', updateSubmitButton);
 makeSelect.addEventListener('change', updateSubmitButton);
@@ -92,7 +96,7 @@ fetch('./assets/cars_parsed.json')
         event.preventDefault();
         const year = document.getElementById('year').value.toLowerCase();
         const make = encodeMakeForUrl(document.getElementById('make').value.toLowerCase());
-        const model = document.getElementById('model').value.toLowerCase();
+        const model = encodeModelForUrl(document.getElementById('model').value.toLowerCase());
         chosenVehicleInput.value = `${year}-${make}-${model}`;
         const chosenVehicleUrl = `/posts/${chosenVehicleInput.value}`;  // Construct URL
         window.location.href = chosenVehicleUrl;  // Redirect using Javascript
