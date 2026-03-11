@@ -61,6 +61,19 @@ The 2004 Hyundai Tiburon, a sporty compact coupe, offered a blend of style and p
 - **Cost:** $300 - $1500+
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -125,3 +138,15 @@ The 2004 Hyundai Tiburon, a sporty compact coupe, offered a blend of style and p
 --- 
 ### Summary Verdict
 The 2004 Hyundai Tiburon presents a mixed reliability profile. Common issues tend to revolve around age-related wear, particularly with the timing belt (critical for both engines), oil leaks, and suspension components like bushings and shocks. Electrical gremlins, such as failing window regulators and alternators, are also noted. The automatic transmission can sometimes exhibit harsh shifting. While not plagued by widespread catastrophic failures, owners should be aware of potential maintenance needs, especially concerning the timing belt replacement schedule. Regular inspections for rust, particularly in areas prone to corrosion, are also advisable. Overall, with diligent maintenance and addressing common wear items, the Tiburon can remain a reasonably reliable sporty coupe.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

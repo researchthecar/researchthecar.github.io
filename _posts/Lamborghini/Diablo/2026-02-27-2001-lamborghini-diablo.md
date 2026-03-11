@@ -61,6 +61,19 @@ The 2001 Lamborghini Diablo, a legendary supercar, represents a pinnacle of Ital
 - **Cost:** $400 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Independent Suspension
@@ -126,3 +139,15 @@ The 2001 Lamborghini Diablo, a legendary supercar, represents a pinnacle of Ital
 --- 
 ### Summary Verdict
 The 2001 Lamborghini Diablo, while an iconic supercar, demands diligent maintenance and specialized care. Its V12 engines, particularly the later 6.0L variants, can experience issues like camshaft wear and fuel injector problems, requiring significant investment. Transmission reliability is generally good for the manual units, but clutch wear and synchro issues are common on high-mileage examples. Electrical gremlins, often stemming from aging wiring harnesses and sensor failures, are a notable concern. Suspension components like shock absorbers and bushings are also prone to wear. Owners should budget for specialized labor and parts, as repairs are complex and costly. Despite these potential issues, with proper care and attention, the Diablo remains a thrilling and rewarding exotic car.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -39,6 +39,19 @@ The 2019 Mitsubishi Mirage is a subcompact car known for its affordability and f
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -99,3 +112,15 @@ The 2019 Mitsubishi Mirage is a subcompact car known for its affordability and f
 --- 
 ### Summary Verdict
 The 2019 Mitsubishi Mirage is a basic, no-frills vehicle where reliability is generally acceptable for its price point. The 1.2L engine and manual transmission are typically robust. However, the CVT transmission has shown some susceptibility to hesitation and jerky behavior, which can be a concern for some drivers. Electrical issues, particularly with the infotainment system and occasional premature battery failure, are noted. Exterior lighting can sometimes develop condensation. The interior is generally durable, though the HVAC blower motor is a component that may require attention. Overall, the Mirage is a functional car for basic transportation, but potential buyers should be aware of the specific areas that may require maintenance or repair over its lifespan, especially concerning the CVT.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

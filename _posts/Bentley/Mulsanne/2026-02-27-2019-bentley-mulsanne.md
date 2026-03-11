@@ -32,6 +32,19 @@ The 2019 Bentley Mulsanne represents the pinnacle of British luxury and engineer
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Air Suspension System
@@ -90,3 +103,15 @@ The 2019 Bentley Mulsanne represents the pinnacle of British luxury and engineer
 --- 
 ### Summary Verdict
 The 2019 Bentley Mulsanne demonstrates a high level of technical reliability, characteristic of its ultra-luxury segment. The powertrain, consisting of the robust 6.75L V8 engine and 8-speed automatic transmission, is exceptionally dependable with no widespread reported issues. Potential concerns are primarily concentrated in the sophisticated air suspension system, where leaks or compressor failures can occur, and in the complex electrical systems, particularly the infotainment and ADAS, which may experience software glitches or sensor issues. Interior climate control actuators can also be a point of attention. While these issues are not endemic, they represent the most common technical challenges encountered, with repair costs reflecting the premium nature of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

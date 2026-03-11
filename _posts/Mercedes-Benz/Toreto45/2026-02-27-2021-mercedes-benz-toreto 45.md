@@ -44,6 +44,19 @@ The 2021 Mercedes-Benz Toreto 45, a compact luxury SUV, generally exhibits stron
 - **Cost:** $400 - $1,500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Suspension
@@ -104,3 +117,15 @@ The 2021 Mercedes-Benz Toreto 45, a compact luxury SUV, generally exhibits stron
 --- 
 ### Summary Verdict
 The 2021 Mercedes-Benz Toreto 45 (assumed GLA/GLB class) demonstrates good overall reliability, with the powertrain and electrical systems being the primary areas where minor issues may arise. Coolant leaks and turbocharger concerns are the most frequently cited engine problems, while transmission software and sensor issues can affect the electrical and drivetrain components. However, these are generally manageable with timely diagnostics and repairs. The suspension, exterior, and interior components are typically robust. Regular maintenance and addressing any warning lights promptly are key to ensuring long-term dependability for this luxury compact SUV.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

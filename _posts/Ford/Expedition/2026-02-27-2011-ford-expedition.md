@@ -42,6 +42,19 @@ The 2011 Ford Expedition, a full-size SUV, offered robust capability and a comfo
 - **Cost:** $200 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Independent Front Suspension / Solid Rear Axle
@@ -81,3 +94,15 @@ The 2011 Ford Expedition, a full-size SUV, offered robust capability and a comfo
 --- 
 ### Summary Verdict
 The 2011 Ford Expedition is a generally dependable full-size SUV, particularly noted for its powerful engine and robust towing capabilities. The most frequently reported technical issues revolve around the 5.4L V8 engine, specifically concerning cam phasers and spark plug blowouts, which can lead to noticeable performance problems and require specialized repairs. The 6-speed automatic transmission can occasionally exhibit torque converter shudder or harsh shifting, often addressable with fluid changes or software updates. Other systems like suspension, electrical, exterior, and interior components are considered relatively reliable with no widespread critical failures documented. Owners should be aware of the potential engine and transmission concerns and ensure proper maintenance to mitigate these risks.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

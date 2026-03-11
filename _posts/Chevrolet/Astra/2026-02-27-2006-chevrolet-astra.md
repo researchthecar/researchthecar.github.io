@@ -80,6 +80,19 @@ The 2006 Chevrolet Astra, a compact car offered in various body styles, presente
 - **Cost:** $700 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -139,3 +152,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2006 Chevrolet Astra, while offering a range of engine and transmission choices, exhibits some common reliability concerns. The gasoline engines, particularly the 1.8L, can suffer from oil and coolant leaks. The more powerful 2.0L turbo variant is prone to turbocharger and head gasket issues. Diesel variants commonly face DPF and EGR valve problems. Manual transmissions, especially the M32, are known for bearing wear. Automatic transmissions can develop issues with solenoids and torque converters. Suspension components like bushings and shocks/struts are also areas to watch. Electrical gremlins, particularly with fuse boxes and sensors, can arise. Exterior rust can be a concern depending on climate. Interiorly, HVAC blower motors and central locking actuators are potential failure points. Overall, while not universally problematic, potential buyers should be aware of these specific weaknesses and ensure thorough inspection.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

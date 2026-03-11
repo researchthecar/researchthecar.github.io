@@ -46,6 +46,19 @@ The 2011 Mercedes-Benz Gran Viale Articulado, a robust articulated bus designed 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Air Suspension System
@@ -111,3 +124,15 @@ The 2011 Mercedes-Benz Gran Viale Articulado, a robust articulated bus designed 
 --- 
 ### Summary Verdict
 The 2011 Mercedes-Benz Gran Viale Articulado demonstrates a commendable level of reliability, particularly in its core powertrain and transmission systems, which are built for heavy-duty service. The primary areas where potential issues may arise are the air suspension system, with reports of leaks and compressor problems, and the electrical system, specifically concerning the Body Control Module and wiring harnesses, which can lead to intermittent faults. The interior HVAC system's blower motor is another component that may require attention. Overall, with diligent maintenance and prompt attention to emerging issues, the Gran Viale Articulado remains a dependable choice for public transportation fleets.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

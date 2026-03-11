@@ -32,6 +32,19 @@ The 2018 Lamborghini Urus, a high-performance luxury SUV, generally exhibits str
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Air Suspension
@@ -92,3 +105,15 @@ The 2018 Lamborghini Urus, a high-performance luxury SUV, generally exhibits str
 --- 
 ### Summary Verdict
 The 2018 Lamborghini Urus demonstrates a high level of reliability for a vehicle in its class. Major mechanical failures are rare, with the powerful 4.0L twin-turbo V8 engine and its associated transmission proving to be robust. The primary areas where minor issues have been noted are within the complex electrical systems, specifically occasional infotainment glitches and potential sensor calibration needs for ADAS features. These are generally manageable with software updates or professional recalibration. Exterior and interior components are built to a luxury standard and do not present widespread reliability concerns. Routine, high-quality maintenance is crucial for preserving the Urus's performance and longevity, and owners should anticipate higher servicing costs typical of exotic vehicles.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

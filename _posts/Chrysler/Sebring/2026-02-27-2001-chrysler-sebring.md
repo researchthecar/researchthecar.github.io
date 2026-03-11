@@ -54,6 +54,19 @@ The 2001 Chrysler Sebring, available as a coupe, sedan, and convertible, offered
 - **Cost:** $300 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -119,3 +132,15 @@ The 2001 Chrysler Sebring, available as a coupe, sedan, and convertible, offered
 --- 
 ### Summary Verdict
 The 2001 Chrysler Sebring presents a mixed reliability profile. Owners should be particularly aware of potential issues with the 2.7L V6 engine's timing chain and oil sludge, as well as common automatic transmission problems like slipping and overheating. Suspension components and certain electrical parts, such as the alternator and BCM, are also noted areas for potential repair. Exterior elements, especially on convertible models, and interior trim can show signs of age. While not universally problematic, addressing these known weak points proactively can significantly improve the ownership experience and longevity of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

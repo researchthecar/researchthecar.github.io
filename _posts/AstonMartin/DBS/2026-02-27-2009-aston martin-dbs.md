@@ -44,6 +44,19 @@ The 2009 Aston Martin DBS, a grand tourer exuding performance and luxury, genera
 - **Cost:** $2000 - $3500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Damping System
@@ -97,3 +110,15 @@ The 2009 Aston Martin DBS, a grand tourer exuding performance and luxury, genera
 --- 
 ### Summary Verdict
 The 2009 Aston Martin DBS is a remarkable supercar with a generally solid reliability foundation, especially considering its performance capabilities. The V12 engine is robust, though specific components like ignition coils and oil coolers can require attention. Transmission options, both manual and automatic, have documented wear points like clutches and torque converters, which are not uncommon for high-performance vehicles. Electrical gremlins, particularly with the infotainment system and door locks, can occur. While the exterior and interior are generally well-built, specific climate control components may need servicing. Owners should budget for specialized maintenance and potential repairs, as parts and labor for exotic cars are significantly more expensive than for mainstream vehicles.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

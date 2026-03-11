@@ -46,6 +46,19 @@ The 2019 Chevrolet Beat, a subcompact car, generally offers a decent level of re
 - **Cost:** $300 - $700
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -106,3 +119,15 @@ The 2019 Chevrolet Beat, a subcompact car, generally offers a decent level of re
 --- 
 ### Summary Verdict
 The 2019 Chevrolet Beat is a generally reliable subcompact car, particularly with its manual transmission and petrol engine. The primary areas of concern are the Automated Manual Transmission (AMT), which can exhibit clutch actuator issues, and certain electrical components, notably the infotainment system and potential battery drain problems. These issues are not universal but have been reported by a notable number of owners. For buyers considering the AMT version, it's advisable to ensure it has been well-maintained or factor in potential repair costs. Overall, the Beat offers good value, but awareness of these specific potential faults is recommended.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -54,6 +54,19 @@ The 2012 Chevrolet Malibu, a mid-size sedan, aimed to offer a blend of comfort, 
 - **Cost:** $800 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -100,3 +113,15 @@ The 2012 Chevrolet Malibu, a mid-size sedan, aimed to offer a blend of comfort, 
 --- 
 ### Summary Verdict
 The 2012 Chevrolet Malibu presents a mixed reliability profile. The most significant concerns tend to revolve around the powertrain, particularly the 2.4L Ecotec engine's oil consumption and timing chain issues, and the 3.6L V6's timing chain susceptibility. The automatic transmission can also exhibit shifting problems and torque converter issues. Electrical gremlins, often related to the BCM or infotainment system, are also noted. However, the suspension, exterior, and interior components generally fare better, with no widespread critical failures reported. Prospective buyers should be aware of these potential issues and factor in possible repair costs, especially for the engine and transmission.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

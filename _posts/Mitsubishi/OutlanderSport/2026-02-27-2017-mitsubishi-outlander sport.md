@@ -44,6 +44,19 @@ The 2017 Mitsubishi Outlander Sport is a compact SUV known for its value and pra
 - **Cost:** $400 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -86,3 +99,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2017 Mitsubishi Outlander Sport generally presents a reliable profile, especially with the 2.0L engine option. The 2.4L engine has seen some reports of oil leaks, which are typically manageable repairs. The CVT transmission, while common in this segment, can occasionally exhibit issues like hesitation or overheating, necessitating attention. Electrical gremlins, particularly with the infotainment system and occasional battery drain, are also noted but not universally prevalent. Overall, for its price point, the Outlander Sport offers a reasonable level of dependability, with most potential issues being addressable without extreme cost, provided they are caught early.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

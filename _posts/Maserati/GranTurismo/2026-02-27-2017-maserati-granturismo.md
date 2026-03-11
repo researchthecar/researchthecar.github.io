@@ -32,6 +32,19 @@ The 2017 Maserati GranTurismo, a grand tourer known for its striking design and 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Skyhook
@@ -81,3 +94,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2017 Maserati GranTurismo is a desirable exotic car with a generally good reliability record for its segment. The naturally aspirated V8 engine and ZF automatic transmission are robust. Potential issues tend to be concentrated in the sophisticated electronic systems, such as the infotainment and adaptive suspension components, which can be costly to repair. Owners should budget for specialized maintenance and be prepared for higher repair costs compared to less exotic vehicles. Regular servicing by qualified technicians is crucial to maintaining its performance and reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

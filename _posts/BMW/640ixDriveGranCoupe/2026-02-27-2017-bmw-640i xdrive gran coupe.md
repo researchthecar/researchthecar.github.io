@@ -37,6 +37,19 @@ The 2017 BMW 640i xDrive Gran Coupe, a luxurious four-door coupe, generally offe
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive M Suspension
@@ -97,3 +110,15 @@ The 2017 BMW 640i xDrive Gran Coupe, a luxurious four-door coupe, generally offe
 --- 
 ### Summary Verdict
 The 2017 BMW 640i xDrive Gran Coupe demonstrates solid overall reliability, particularly in its powertrain components. The 3.0L turbocharged inline-six engine and the 8-speed automatic transmission are generally robust. However, potential owners should be aware of isolated issues such as coolant leaks from the water pump or thermostat, and occasional PCV valve failures, which are not uncommon for turbocharged engines of this era. Electrical gremlins, primarily related to the iDrive infotainment system and potential parasitic battery drain, are the most frequently cited non-wear-and-tear concerns. These issues are typically manageable with timely diagnosis and repair. The suspension, exterior, and interior components generally hold up well, reflecting BMW's premium build quality.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

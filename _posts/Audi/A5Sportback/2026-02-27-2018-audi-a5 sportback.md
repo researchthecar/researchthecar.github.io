@@ -46,6 +46,19 @@ The 2018 Audi A5 Sportback is a premium compact executive car known for its blen
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -113,3 +126,15 @@ The 2018 Audi A5 Sportback is a premium compact executive car known for its blen
 --- 
 ### Summary Verdict
 The 2018 Audi A5 Sportback generally exhibits good reliability, with its powertrain and chassis components performing commendably. The most frequently cited potential issues tend to be in the electrical system, specifically related to the infotainment unit experiencing occasional glitches or software-related battery drain problems. These are not typically indicative of catastrophic failure but can be inconvenient and require professional diagnosis. For owners, proactive maintenance and addressing any early warning signs, particularly with the electronic systems, will contribute to a positive ownership experience. Overall, it's a dependable choice within its segment.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

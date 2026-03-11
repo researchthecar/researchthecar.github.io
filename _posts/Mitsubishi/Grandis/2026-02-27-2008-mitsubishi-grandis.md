@@ -51,6 +51,19 @@ The 2008 Mitsubishi Grandis, a versatile MPV, generally presents a respectable r
 - **Cost:** $300 - $2500+
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Suspension
@@ -100,3 +113,15 @@ The 2008 Mitsubishi Grandis, a versatile MPV, generally presents a respectable r
 --- 
 ### Summary Verdict
 The 2008 Mitsubishi Grandis offers a generally reliable ownership experience, with most reported issues being specific to certain components rather than systemic flaws. The diesel engines, particularly the 2.0L DI-D, may encounter turbocharger or EGR valve issues, while the petrol 2.4L can experience oil leaks. Transmission reliability is decent, though the automatic can sometimes exhibit harsh shifting. Suspension components like bushings and ball joints are common wear items. Electrical gremlins, such as window regulators and sensor faults, can occur. Exterior rust is a potential concern depending on climate and maintenance. Interior issues often revolve around the air conditioning system. Overall, with diligent maintenance and prompt attention to emerging problems, the Grandis can remain a dependable family vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

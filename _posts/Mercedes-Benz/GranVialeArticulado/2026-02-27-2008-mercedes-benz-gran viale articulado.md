@@ -56,6 +56,19 @@ The 2008 Mercedes-Benz Gran Viale Articulado, a robust articulated bus designed 
 - **Cost:** $800 - $2,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Air Suspension System
@@ -124,3 +137,15 @@ The 2008 Mercedes-Benz Gran Viale Articulado, a robust articulated bus designed 
 --- 
 ### Summary Verdict
 The 2008 Mercedes-Benz Gran Viale Articulado is a generally reliable vehicle for its class, with most reported issues stemming from the complexities inherent in large, articulated public transport vehicles. Powertrain components, particularly the diesel engines and automatic transmissions, are robust but can experience issues like turbocharger problems or torque converter wear under heavy use. The air suspension system is prone to leaks over time, and the electrical system, with its extensive multiplex wiring, can develop intermittent faults. Exterior issues like articulation joint wear and corrosion are also noted. Interior components, especially seating and HVAC, show wear consistent with high passenger volume. Proactive maintenance and timely repairs are crucial for maximizing the lifespan and operational efficiency of this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -37,6 +37,19 @@ The 2016 Mercedes-Benz GLE350d, a mid-size luxury SUV, generally offers a solid 
 - **Cost:** $1500 - $3000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### AirMatic Air Suspension
@@ -104,3 +117,15 @@ The 2016 Mercedes-Benz GLE350d, a mid-size luxury SUV, generally offers a solid 
 --- 
 ### Summary Verdict
 The 2016 Mercedes-Benz GLE350d is a capable luxury SUV with a generally good reliability record, particularly for its standard suspension. However, owners should be aware of potential issues with the diesel engine's emissions system (AdBlue heater, EGR cooler) and the 7-speed automatic transmission's torque converter. The optional AirMatic suspension can also be a source of costly repairs if leaks develop. Electrical gremlins, especially within the COMAND infotainment system, and exterior lighting moisture ingress are also noted concerns. While not pervasive, these issues can be expensive to rectify, underscoring the importance of thorough pre-purchase inspections and considering extended warranties for these specific components.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

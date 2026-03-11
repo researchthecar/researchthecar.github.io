@@ -63,6 +63,19 @@ The 2006 Hyundai Tiburon, a sporty compact coupe, offered a blend of style and p
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -123,3 +136,15 @@ The 2006 Hyundai Tiburon, a sporty compact coupe, offered a blend of style and p
 --- 
 ### Summary Verdict
 The 2006 Hyundai Tiburon presents a mixed reliability profile. While its sporty design and performance are appealing, potential buyers should be aware of common issues. The engines, particularly the 2.0L, can experience oil consumption and timing belt problems, while the 2.7L V6 may develop oil leaks or VIM actuator issues. Automatic transmissions can be prone to harsh shifting, and manual clutches will eventually need replacement. Electrical systems, especially the BCM and alternator, are also noted areas for potential concern. Exterior paint and interior upholstery can show wear typical for its age. Despite these potential drawbacks, many Tiburons have provided years of service with proper maintenance and timely repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

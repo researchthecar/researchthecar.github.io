@@ -80,6 +80,19 @@ The 2003 Chevrolet Astra, a compact car known for its European roots and practic
 - **Cost:** $700 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -145,3 +158,15 @@ The 2003 Chevrolet Astra, a compact car known for its European roots and practic
 --- 
 ### Summary Verdict
 The 2003 Chevrolet Astra presents a mixed reliability profile. Common issues tend to center around the engine, particularly ignition coils and oil leaks on smaller engines, while the more powerful turbo variants can face turbocharger wear. Transmissions, especially the manual M32, are known for bearing issues, and automatics can suffer from solenoid or torque converter problems. Suspension components like control arm bushings are also a frequent point of attention. Electrical gremlins, often related to the BCM, and exterior rust on common areas are also noted. While not plagued by widespread catastrophic failures, owners should be prepared for potential repairs in these specific areas, especially as the vehicle ages. Regular maintenance and prompt attention to early symptoms are crucial for managing its long-term reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

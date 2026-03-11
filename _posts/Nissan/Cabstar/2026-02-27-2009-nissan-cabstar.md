@@ -56,6 +56,19 @@ The 2009 Nissan Cabstar, a light commercial vehicle, is generally considered a r
 - **Cost:** $700 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -105,3 +118,15 @@ The 2009 Nissan Cabstar, a light commercial vehicle, is generally considered a r
 --- 
 ### Summary Verdict
 The 2009 Nissan Cabstar demonstrates a generally solid reliability profile for a commercial vehicle, with most reported issues stemming from components subjected to heavy use. Engine variants, particularly the diesel options, can experience issues like turbocharger problems or EGR valve malfunctions, which are not uncommon for this type of powertrain. Transmission reliability is fair, with clutch wear being a typical concern for manual gearboxes. Suspension components, especially leaf springs, may require attention due to load-bearing duties. Electrical systems can present issues such as alternator failure. While exterior rust can be a concern in certain environments, the interior is generally robust. Proactive maintenance and addressing issues promptly are key to ensuring the longevity and operational efficiency of the Cabstar.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

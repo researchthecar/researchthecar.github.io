@@ -32,6 +32,19 @@ The 2018 Mitsubishi Eclipse Cross is a compact crossover SUV that offers a disti
 - **Cost:** $150 - $400 (Software update/fluid service)
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -78,3 +91,15 @@ The 2018 Mitsubishi Eclipse Cross is a compact crossover SUV that offers a disti
 --- 
 ### Summary Verdict
 The 2018 Mitsubishi Eclipse Cross generally offers a reliable ownership experience, with the most frequently cited technical concerns revolving around the 1.5L turbocharged engine's oil dilution and occasional hesitations with the CVT transmission. Electrical issues, particularly with the infotainment system's connectivity, have also been noted. However, these issues are often addressable through software updates or routine servicing. The suspension, exterior, and interior components have shown good durability. Overall, while not entirely immune to minor technical quirks, the Eclipse Cross is considered a reasonably dependable vehicle in its segment, provided potential buyers are aware of and prepared for these specific potential issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

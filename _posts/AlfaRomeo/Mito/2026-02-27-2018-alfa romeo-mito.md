@@ -75,6 +75,19 @@ The 2018 Alfa Romeo MiTo, a stylish and sporty compact car, offers a range of en
 - **Cost:** $700 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -135,3 +148,15 @@ The 2018 Alfa Romeo MiTo, a stylish and sporty compact car, offers a range of en
 --- 
 ### Summary Verdict
 The 2018 Alfa Romeo MiTo presents a mixed reliability profile. While its engines, particularly the MultiAir variants, can be prone to specific component failures like the MultiAir unit itself or turbocharger issues, and the manual transmissions (especially the M32) have known bearing wear concerns, many owners report satisfaction. Diesel variants may face DPF issues. Electrical gremlins, often related to the Body Control Module or parasitic battery drain, are also noted. Exterior rust can be a concern in certain climates, and interior electronics like the infotainment system can occasionally be temperamental. Despite these potential issues, the MiTo's engaging driving dynamics and distinctive styling remain strong selling points for enthusiasts.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

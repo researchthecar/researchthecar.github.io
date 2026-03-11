@@ -54,6 +54,19 @@ The 2023 Land Rover Discovery Sport, a compact luxury SUV, aims to blend premium
 - **Cost:** $300 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Coil Spring Suspension
@@ -107,3 +120,15 @@ The 2023 Land Rover Discovery Sport, a compact luxury SUV, aims to blend premium
 --- 
 ### Summary Verdict
 The 2023 Land Rover Discovery Sport presents a mixed reliability profile. While its core mechanical components like the suspension and exterior generally hold up well, owners should be aware of potential issues with the engine's cooling system and turbocharger, particularly in the P250 variant. The hybrid model introduces complexity with potential hybrid system malfunctions. Transmission issues, such as harsh shifting, are also noted, often resolvable with software updates or fluid services. Electrical gremlins, especially concerning the infotainment system and battery drain, require attention. Overall, while not plagued by widespread catastrophic failures, the Discovery Sport demands diligent maintenance and awareness of its specific potential weak points to ensure long-term reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

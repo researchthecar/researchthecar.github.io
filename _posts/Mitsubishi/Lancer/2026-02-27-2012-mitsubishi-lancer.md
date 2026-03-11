@@ -65,6 +65,19 @@ The 2012 Mitsubishi Lancer, a compact car known for its sporty styling and avail
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -130,3 +143,15 @@ The 2012 Mitsubishi Lancer, a compact car known for its sporty styling and avail
 --- 
 ### Summary Verdict
 The 2012 Mitsubishi Lancer offers a generally reliable ownership experience, especially for models equipped with the 2.4L engine and manual transmissions. The primary concerns revolve around potential oil consumption in the 2.0L engine and some CVT transmission issues, particularly hesitation. Electrical gremlins like power window failures and infotainment glitches can also occur. Performance-oriented models like the Ralliart and Evolution, while more engaging to drive, carry a higher risk of more significant and costly repairs due to their specialized components. Overall, with diligent maintenance and awareness of common issues, the 2012 Lancer can be a dependable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -54,6 +54,19 @@ The 2007 Ferrari 612 Scaglietti, a grand tourer known for its V12 power and luxu
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Dampers
@@ -98,3 +111,15 @@ The 2007 Ferrari 612 Scaglietti, a grand tourer known for its V12 power and luxu
 --- 
 ### Summary Verdict
 The 2007 Ferrari 612 Scaglietti is a capable grand tourer with a generally robust V12 engine. However, its exotic nature and complex systems, particularly the F1 automated manual transmission and adaptive suspension, present potential reliability concerns. Owners should budget for specialized maintenance, including the critical timing belt service. Common issues revolve around the F1 transmission's hydraulic system and clutch actuators, as well as electronic components like window regulators and infotainment glitches. While the core mechanicals are strong, proactive maintenance and addressing warning lights promptly are crucial for long-term ownership satisfaction and to mitigate costly repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

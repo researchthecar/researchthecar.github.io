@@ -46,6 +46,19 @@ The 2011 Mitsubishi Outlander is a compact SUV that offered a range of powertrai
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -95,3 +108,15 @@ The 2011 Mitsubishi Outlander is a compact SUV that offered a range of powertrai
 --- 
 ### Summary Verdict
 The 2011 Mitsubishi Outlander generally presents a reliable ownership experience, particularly with its 2.4L 4-cylinder engine and the 6-speed automatic transmission, which show no widespread significant issues. The primary concern for potential buyers or current owners lies with the CVT transmission, which has been reported to experience overheating and failure, necessitating costly repairs. Suspension components like struts, shocks, ball joints, and tie rod ends are subject to wear and tear, as expected for a vehicle of this age and type, but are generally repairable. Electrical issues, such as faulty power window motors and battery drain, are also noted but not overwhelmingly common. Overall, the Outlander is a practical choice, but careful inspection of the transmission and regular maintenance are advised.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

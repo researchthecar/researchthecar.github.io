@@ -39,6 +39,19 @@ The 2021 Mitsubishi Mirage is a subcompact car known for its affordability and f
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -99,3 +112,15 @@ The 2021 Mitsubishi Mirage is a subcompact car known for its affordability and f
 --- 
 ### Summary Verdict
 The 2021 Mitsubishi Mirage offers a basic transportation solution with a focus on economy. While its powertrain is generally considered reliable for its class, potential owners should be aware of reported issues with the CVT transmission, particularly concerning hesitation and jerky operation. Electrical gremlins, such as infotainment system glitches and occasional battery issues, are also noted. Exterior concerns like paint durability and headlight condensation can arise. Interior wear on upholstery is not uncommon. Despite these points, the Mirage remains a viable option for budget-conscious buyers prioritizing low purchase and running costs over premium features and long-term durability in all aspects.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

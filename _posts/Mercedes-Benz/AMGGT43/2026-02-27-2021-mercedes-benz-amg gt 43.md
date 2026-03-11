@@ -32,6 +32,19 @@ The 2021 Mercedes-Benz AMG GT 43, a four-door coupe blending performance with pr
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### AMG RIDE CONTROL+ suspension
@@ -78,3 +91,15 @@ The 2021 Mercedes-Benz AMG GT 43, a four-door coupe blending performance with pr
 --- 
 ### Summary Verdict
 The 2021 Mercedes-Benz AMG GT 43 demonstrates a commendable level of reliability, with its core powertrain components (engine and transmission) showing no significant widespread issues. The primary areas that may require attention are related to the electrical system, specifically occasional infotainment software glitches and potential premature 12V battery drain. These are not uncommon in modern vehicles with complex electronics. Other systems like suspension, exterior, and interior components are generally robust. Owners should be aware of the possibility of software-related issues and ensure regular battery health checks to maintain optimal performance and prevent starting problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

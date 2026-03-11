@@ -44,6 +44,19 @@ The 2017 Mitsubishi Mirage is a subcompact car known for its affordability and f
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -90,3 +103,15 @@ The 2017 Mitsubishi Mirage is a subcompact car known for its affordability and f
 --- 
 ### Summary Verdict
 The 2017 Mitsubishi Mirage, while economical, presents a reliability profile that aligns with its price point. The 1.2L engine is generally considered robust for its class, with no significant widespread issues reported. However, the Continuously Variable Transmission (CVT) is a notable area of concern, with documented instances of hesitation, jerking, and overheating, which can lead to costly repairs. The manual transmission option appears to be more reliable. Electrical issues, particularly with the infotainment system and potential battery drain, are also points to monitor. Exterior and interior components are typically free of major defects, reflecting standard wear for the vehicle's age. Overall, the Mirage is a functional car for basic transportation, but potential buyers should be aware of the CVT's susceptibility to problems and budget accordingly for potential repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

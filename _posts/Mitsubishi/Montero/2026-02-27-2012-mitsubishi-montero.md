@@ -44,6 +44,19 @@ The 2012 Mitsubishi Montero, also known as the Pajero in many markets, is a body
 - **Cost:** $600 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Independent Front Suspension / Solid Rear Axle
@@ -88,3 +101,15 @@ The 2012 Mitsubishi Montero, also known as the Pajero in many markets, is a body
 --- 
 ### Summary Verdict
 The 2012 Mitsubishi Montero demonstrates a solid, albeit not flawless, reliability record, particularly for its intended use as a capable off-roader. The 3.8L V6 engine is generally robust but can be prone to coolant and oil leaks as it ages. Transmission issues, while not universal, can manifest as harsh shifting or clutch wear in manual variants. Suspension components like ball joints and bushings are common wear items, especially with heavy use. Electrical gremlins, such as window regulators and alternators, are also noted. Exterior rust can be a concern in certain climates. Overall, the Montero is a durable vehicle, but owners should be aware of these potential issues and factor in maintenance costs, especially if purchasing a used model.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

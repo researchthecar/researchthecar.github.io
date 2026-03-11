@@ -46,6 +46,19 @@ The 2023 Hyundai Santa Cruz, a unique compact pickup truck, generally exhibits g
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -106,3 +119,15 @@ The 2023 Hyundai Santa Cruz, a unique compact pickup truck, generally exhibits g
 --- 
 ### Summary Verdict
 The 2023 Hyundai Santa Cruz demonstrates a strong reliability record, with its powertrain and core mechanical components performing well. The most commonly cited, albeit minor, issues revolve around the infotainment system experiencing occasional glitches that are typically resolved with software updates. A less frequent concern is the potential for premature 12V battery failure, which is a manageable repair. Overall, the Santa Cruz is a dependable choice for its segment, offering a good balance of utility and modern features with minimal widespread technical problems reported by owners.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

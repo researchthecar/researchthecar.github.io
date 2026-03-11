@@ -42,6 +42,19 @@ The 2014 Chrysler Town & Country, a popular minivan, generally offers a comforta
 - **Cost:** $300 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -100,3 +113,15 @@ The 2014 Chrysler Town & Country, a popular minivan, generally offers a comforta
 --- 
 ### Summary Verdict
 The 2014 Chrysler Town & Country presents a mixed reliability profile. The 3.6L Pentastar engine is generally robust but can experience issues with intake manifold and oil filter housing leaks. The 6-speed automatic transmission is a common source of concern, with reports of hesitation, shuddering, and overheating that can lead to costly repairs. Suspension components like sway bar links and struts may require attention sooner than expected. Electrical gremlins, particularly with the Body Control Module and power sliding doors, are not uncommon. Interior electronics, such as the Uconnect system, can also be prone to glitches. While not a complete write-off, potential buyers should be aware of these common issues and factor in potential maintenance costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

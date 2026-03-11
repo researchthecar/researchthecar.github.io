@@ -49,6 +49,19 @@ The 2012 Mitsubishi Outlander Sport is a compact crossover known for its value a
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -93,3 +106,15 @@ The 2012 Mitsubishi Outlander Sport is a compact crossover known for its value a
 --- 
 ### Summary Verdict
 The 2012 Mitsubishi Outlander Sport presents a generally positive reliability picture, particularly with its manual transmission. The most commonly cited concerns revolve around the CVT, which can exhibit hesitation or overheating issues, and some engine-related problems like oil consumption and VVT actuator noise. Electrical gremlins, primarily with the infotainment system, are also noted. However, many of these issues are not universal and can often be addressed with maintenance or specific repairs. For owners who prioritize affordability and a straightforward driving experience, the Outlander Sport remains a viable option, provided they are aware of and prepared for potential, albeit not guaranteed, maintenance needs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

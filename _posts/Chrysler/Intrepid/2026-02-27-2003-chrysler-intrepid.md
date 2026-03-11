@@ -56,6 +56,19 @@ The 2003 Chrysler Intrepid, part of the second generation of the model, offered 
 - **Cost:** $150 - $400
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -121,3 +134,15 @@ The 2003 Chrysler Intrepid, part of the second generation of the model, offered 
 --- 
 ### Summary Verdict
 The 2003 Chrysler Intrepid, while offering a comfortable ride and decent features for its time, is prone to several specific issues that owners should be aware of. The 2.7L and 3.2L V6 engines are particularly susceptible to head gasket failures and oil sludge buildup, respectively, which can be costly to repair. The 42LE automatic transmission can experience slipping and overheating. On the suspension front, worn ball joints, tie rods, and struts are common. Electrical gremlins, often related to the BCM or alternator, can also arise. Exterior paint issues like clear coat peeling and interior wear on seat fabric are also frequently reported. Despite these potential drawbacks, addressing these known issues proactively can help maintain the vehicle's usability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -44,6 +44,19 @@ The 2011 Chevrolet Aveo, a subcompact car, was designed with affordability and f
 - **Cost:** $500 - $2500+
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -93,3 +106,15 @@ The 2011 Chevrolet Aveo, a subcompact car, was designed with affordability and f
 --- 
 ### Summary Verdict
 The 2011 Chevrolet Aveo presents a mixed reliability profile. While its powertrain options are generally functional, common issues like oil and coolant leaks in the engine, and potential transmission problems (especially with the automatic) require attention. Suspension components, particularly struts and ball joints, can wear out, leading to ride quality and steering issues. Electrical gremlins, such as faulty power window motors and instrument cluster problems, are also noted. Interior components like the HVAC blower motor can fail. Owners should be vigilant about fluid levels and listen for unusual noises. Regular maintenance is crucial, but be prepared for potential repairs in the areas mentioned.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

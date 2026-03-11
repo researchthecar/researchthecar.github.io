@@ -51,6 +51,19 @@ The 2011 Mitsubishi RVR, also known as the Outlander Sport in some markets, is a
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -95,3 +108,15 @@ The 2011 Mitsubishi RVR, also known as the Outlander Sport in some markets, is a
 --- 
 ### Summary Verdict
 The 2011 Mitsubishi RVR generally offers a reliable ownership experience, particularly with its naturally aspirated gasoline engines and the 6-speed automatic transmission. The primary areas of concern tend to be related to the Continuously Variable Transmission (CVT), which can exhibit hesitation or overheating issues, and some minor electrical gremlins such as infotainment glitches or occasional battery drain. These issues are not universally reported but are documented enough to warrant attention. For buyers considering a used 2011 RVR, a thorough inspection, especially of the CVT, and a review of maintenance history are recommended. Overall, it's a competent compact SUV with a few specific points to monitor for optimal long-term reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

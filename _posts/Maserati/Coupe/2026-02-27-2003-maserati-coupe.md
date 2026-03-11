@@ -49,6 +49,19 @@ The 2003 Maserati Coupe, a striking Italian grand tourer, offers a blend of perf
 - **Cost:** $1,500 - $2,500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -98,3 +111,15 @@ The 2003 Maserati Coupe, a striking Italian grand tourer, offers a blend of perf
 --- 
 ### Summary Verdict
 The 2003 Maserati Coupe is a desirable performance car, but its exotic nature means potential owners must budget for specific reliability concerns. The V8 engine requires diligent maintenance, particularly regarding the timing belt, to avoid costly damage. The automated DuoSelect transmission is a known weak point, with hydraulic and actuator issues being relatively common and expensive to repair. While the chassis and exterior are generally robust, electrical gremlins, such as window regulators and ECU problems, can also arise. Regular, specialized maintenance is paramount for mitigating these issues and enjoying the Maserati Coupe's performance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

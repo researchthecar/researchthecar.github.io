@@ -39,6 +39,19 @@ The 2022 Mitsubishi Mirage G4 is a subcompact sedan known for its affordability 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front / Torsion Beam Rear
@@ -78,3 +91,15 @@ The 2022 Mitsubishi Mirage G4 is a subcompact sedan known for its affordability 
 --- 
 ### Summary Verdict
 The 2022 Mitsubishi Mirage G4 demonstrates commendable reliability for its segment, particularly in its powertrain components. The 1.2L engine and its associated transmission options (CVT and manual) have shown a low incidence of significant mechanical failures, aligning with expectations for a vehicle focused on affordability and basic transportation. The primary area where minor concerns have been noted is within the electrical system, specifically related to occasional infotainment glitches. These are typically resolved with software updates. Other categories such as suspension, exterior, and interior components generally perform as expected with no widespread reliability issues reported. Overall, the Mirage G4 is a dependable choice for budget-conscious buyers prioritizing low running costs and straightforward operation.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

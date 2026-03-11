@@ -86,6 +86,19 @@ The 2004 Chevrolet Corsa, a popular subcompact car, offered a range of engine an
 - **Cost:** $600 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -151,3 +164,15 @@ The 2004 Chevrolet Corsa, a popular subcompact car, offered a range of engine an
 --- 
 ### Summary Verdict
 The 2004 Chevrolet Corsa generally presents a reasonable reliability record for its segment and age. The petrol engines, particularly the 1.0L, 1.2L, and 1.4L Ecotec variants, are largely trouble-free. The diesel engines, while offering better fuel economy, can be susceptible to turbocharger and EGR valve issues, especially the 1.3 CDTI. Manual transmissions are typically robust, though some later manual gearboxes (M32) can develop bearing wear. The Easytronic automated manual is more prone to actuator failures. Suspension components like shock absorbers and bushings can wear out, as can common electrical items such as alternators and body control modules. Rust is a potential concern on older models. Overall, with diligent maintenance and attention to common issues, the Corsa can remain a dependable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

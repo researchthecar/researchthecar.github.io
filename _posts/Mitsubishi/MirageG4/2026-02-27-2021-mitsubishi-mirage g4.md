@@ -39,6 +39,19 @@ The 2021 Mitsubishi Mirage G4 is a subcompact sedan known for its affordability 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front Suspension / Torsion Beam Rear
@@ -85,3 +98,15 @@ The 2021 Mitsubishi Mirage G4 is a subcompact sedan known for its affordability 
 --- 
 ### Summary Verdict
 The 2021 Mitsubishi Mirage G4 demonstrates a generally reliable profile for its segment, with its core mechanical components like the engine and suspension showing minimal reported issues. The primary areas of concern tend to be the Continuously Variable Transmission (CVT), which can exhibit hesitation or shuddering, and the infotainment system's connectivity. Battery premature failure is also a noted, albeit not widespread, concern. For potential buyers, understanding these specific points and ensuring proper maintenance, especially for the CVT, will be key to a positive ownership experience. Overall, it offers a dependable, no-frills transportation solution with a few predictable quirks for its price point.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

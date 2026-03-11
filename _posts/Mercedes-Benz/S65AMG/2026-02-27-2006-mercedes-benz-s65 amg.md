@@ -52,6 +52,19 @@ The 2006 Mercedes-Benz S65 AMG, a pinnacle of luxury and performance, is equippe
 - **Cost:** $800 - $2,000.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Active Body Control (ABC) System
@@ -106,3 +119,15 @@ The 2006 Mercedes-Benz S65 AMG, a pinnacle of luxury and performance, is equippe
 --- 
 ### Summary Verdict
 The 2006 Mercedes-Benz S65 AMG is a high-performance luxury vehicle with a complex V12 twin-turbocharged engine and sophisticated systems like Active Body Control. While it offers unparalleled driving dynamics, these advanced features can lead to more frequent and costly repairs compared to less performance-oriented vehicles. Common issues revolve around the powertrain (turbochargers, ignition coils), the ABC suspension system (leaks, pump failures), and various electrical components, particularly the SAM unit. Regular, specialized maintenance is crucial to mitigate these potential problems. Owners should budget for higher-than-average maintenance and repair costs, especially for specialized components.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

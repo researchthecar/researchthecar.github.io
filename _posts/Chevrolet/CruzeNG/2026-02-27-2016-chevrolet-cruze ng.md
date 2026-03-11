@@ -73,6 +73,19 @@ The 2016 Chevrolet Cruze NG (Next Generation) aimed to improve upon its predeces
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -117,3 +130,15 @@ The 2016 Chevrolet Cruze NG (Next Generation) aimed to improve upon its predeces
 --- 
 ### Summary Verdict
 The 2016 Chevrolet Cruze NG presents a mixed reliability profile. The gasoline 1.4L turbo engine has seen reports of turbocharger issues, coolant leaks from the water pump, and oil consumption, which can be costly to repair. The diesel 2.0L engine, while offering good torque, is susceptible to DPF and EGR system problems, common in diesel powertrains. Automatic transmissions can experience shifting issues and TCM faults. Electrical gremlins, particularly with the infotainment system and occasional battery drain, are also noted. However, the suspension and interior/exterior components generally hold up well. Prospective buyers should be aware of these potential issues, especially when considering higher-mileage examples or specific powertrain configurations.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

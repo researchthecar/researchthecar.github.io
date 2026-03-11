@@ -51,6 +51,19 @@ The 2004 Chevrolet Optra, also known as the Daewoo Lacetti in many markets, was 
 - **Cost:** $300 - $2000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -100,3 +113,15 @@ The 2004 Chevrolet Optra, also known as the Daewoo Lacetti in many markets, was 
 --- 
 ### Summary Verdict
 The 2004 Chevrolet Optra presents a mixed reliability profile. While it can be an economical choice, potential owners should be aware of common issues such as oil and coolant leaks from the engine, and potential timing chain problems on the 2.0L. Transmission issues, particularly with the automatic, and wear on suspension components like ball joints and tie rods are also noted. Electrical gremlins, such as faulty window regulators and instrument cluster problems, can add to repair costs. Exterior rust can be a concern depending on climate. Overall, while not a segment leader in reliability, addressing these known issues proactively can help maintain the Optra's functionality.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

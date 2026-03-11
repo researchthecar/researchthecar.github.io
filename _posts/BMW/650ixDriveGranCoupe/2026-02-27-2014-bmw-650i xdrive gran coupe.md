@@ -42,6 +42,19 @@ The 2014 BMW 650i xDrive Gran Coupe, a luxurious four-door coupe, offers a blend
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Drive System
@@ -95,3 +108,15 @@ The 2014 BMW 650i xDrive Gran Coupe, a luxurious four-door coupe, offers a blend
 --- 
 ### Summary Verdict
 The 2014 BMW 650i xDrive Gran Coupe is a capable and luxurious vehicle with a generally solid reliability record for its class. The primary areas of concern tend to be related to the potent twin-turbocharged V8 engine, specifically potential issues with turbocharger oil leaks, ignition coils, and fuel injectors, which can be costly to repair. The advanced suspension systems, while providing excellent handling, can also present expensive repair opportunities if components like the active roll stabilization fail. Electrical gremlins, such as infotainment system glitches and intermittent battery drain, are also noted. However, the transmission and exterior/interior components are typically robust. Regular maintenance and prompt attention to any warning signs are crucial for maintaining the long-term reliability and enjoyment of this high-performance coupe.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -39,6 +39,19 @@ The 2024 Maserati Grecale, a luxury compact SUV, aims to blend performance with 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -106,3 +119,15 @@ The 2024 Maserati Grecale, a luxury compact SUV, aims to blend performance with 
 --- 
 ### Summary Verdict
 The 2024 Maserati Grecale, being a new entrant, shows promising initial reliability, with no major widespread mechanical failures reported across its engine and transmission options. The standard powertrain configurations appear robust. However, potential owners should be aware of the optional Skyhook adaptive air suspension, which has seen some reports of air spring leaks, a common issue with such systems. Electrical gremlins, particularly concerning the infotainment system's software and occasional premature 12V battery failures, are also noted. These are not uncommon for vehicles with advanced electronics. Overall, the Grecale presents a generally reliable package, with most reported issues being manageable and not indicative of systemic design flaws, though vigilance with the optional air suspension and software updates is advised.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

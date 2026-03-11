@@ -73,6 +73,19 @@ The 2019 Alfa Romeo MiTo, while celebrated for its distinctive Italian styling a
 - **Cost:** $1500 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -133,3 +146,15 @@ The 2019 Alfa Romeo MiTo, while celebrated for its distinctive Italian styling a
 --- 
 ### Summary Verdict
 The 2019 Alfa Romeo MiTo exhibits a reliability profile that aligns with its sporty, compact segment, with some specific Italian flair for potential electrical and powertrain quirks. The petrol MultiAir engines, while offering good performance, are prone to issues with the MultiAir unit itself and ignition coils. Diesel variants can face DPF and EGR valve problems, common in modern diesels. The Dualogic automatic transmission is a notable area for potential costly repairs, with actuator and mechatronic unit failures being reported. Manual transmissions are generally more robust, though clutch wear is a standard consideration. Electrical gremlins, particularly with the Body Control Module and infotainment, can also surface. While the chassis and exterior/interior components are generally sound, proactive maintenance and awareness of these specific potential issues are recommended for owners to ensure a smoother ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

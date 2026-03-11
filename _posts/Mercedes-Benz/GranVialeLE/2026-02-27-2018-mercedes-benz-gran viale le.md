@@ -37,6 +37,19 @@ The 2018 Mercedes-Benz Gran Viale LE, a premium multi-purpose vehicle, generally
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Suspension
@@ -83,3 +96,15 @@ The 2018 Mercedes-Benz Gran Viale LE, a premium multi-purpose vehicle, generally
 --- 
 ### Summary Verdict
 The 2018 Mercedes-Benz Gran Viale LE demonstrates good overall reliability, with its core mechanical components, including the engine and transmission, generally performing well. The most commonly reported issues tend to be related to the diesel emissions system (DPF and AdBlue) and occasional electrical gremlins within the infotainment system or parasitic battery drain. These are not uncommon for vehicles of this age and complexity. Proactive maintenance, especially concerning the diesel exhaust system, and addressing minor electrical glitches promptly can ensure continued dependable service. For most owners, the Gran Viale LE offers a reliable and comfortable experience, with repair costs generally aligning with premium vehicle expectations.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

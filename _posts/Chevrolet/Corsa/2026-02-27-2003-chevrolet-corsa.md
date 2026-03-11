@@ -82,6 +82,19 @@ The 2003 Chevrolet Corsa, a popular subcompact car, generally offered a decent l
 - **Cost:** $500 - $900
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -150,3 +163,15 @@ The 2003 Chevrolet Corsa, a popular subcompact car, generally offered a decent l
 --- 
 ### Summary Verdict
 The 2003 Chevrolet Corsa is a generally reliable small car, but potential buyers should be aware of common issues. The smaller 3-cylinder engines are more prone to head gasket and timing chain problems. Diesel variants can suffer from injector pump issues. Manual transmissions are typically robust, but clutch wear is common. The automated manual (Easytronic) can be problematic with its actuators and hydraulic pump. Electrical gremlins, particularly with the instrument cluster and window regulators, are not uncommon. Exterior rust can be a concern on older models, especially in the wheel arches and sills. Interior wear on seat bolsters and HVAC blower resistor failures are also noted. Despite these points, with diligent maintenance and addressing issues promptly, the Corsa can remain a cost-effective and functional vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

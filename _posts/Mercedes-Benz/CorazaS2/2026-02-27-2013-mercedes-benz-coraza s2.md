@@ -46,6 +46,19 @@ The 2013 Mercedes-Benz CLS S2 (likely referring to the CLS Shooting Brake, model
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### AIRMATIC Air Suspension
@@ -118,3 +131,15 @@ The 2013 Mercedes-Benz CLS S2 (likely referring to the CLS Shooting Brake, model
 --- 
 ### Summary Verdict
 The 2013 Mercedes-Benz CLS S2 (X218) demonstrates good overall reliability, particularly in its powertrain and general build quality. The most notable potential issues tend to arise from the optional AIRMATIC air suspension system, where leaks or module failures can occur, leading to significant repair costs. The COMAND infotainment system may occasionally exhibit minor glitches. Beyond these specific points, the vehicle is generally robust. Regular maintenance and prompt attention to any warning signs are crucial for ensuring long-term dependability and preserving the luxury experience associated with this model.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

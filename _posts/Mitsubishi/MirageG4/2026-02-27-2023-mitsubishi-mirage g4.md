@@ -39,6 +39,19 @@ The 2023 Mitsubishi Mirage G4 is a subcompact sedan known for its affordability 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front Suspension / Torsion Beam Rear
@@ -85,3 +98,15 @@ The 2023 Mitsubishi Mirage G4 is a subcompact sedan known for its affordability 
 --- 
 ### Summary Verdict
 The 2023 Mitsubishi Mirage G4 demonstrates a generally reliable profile for its segment, with the powertrain and core mechanical systems showing minimal widespread issues. The primary areas where minor concerns have been noted are within the electrical system, specifically occasional infotainment glitches and, in some instances, premature battery failure. These issues are typically addressable with software updates or component replacement and do not indicate systemic flaws in the vehicle's design. For budget-conscious buyers prioritizing basic transportation and fuel economy, the Mirage G4 offers a dependable choice, provided potential minor electrical quirks are understood and managed.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

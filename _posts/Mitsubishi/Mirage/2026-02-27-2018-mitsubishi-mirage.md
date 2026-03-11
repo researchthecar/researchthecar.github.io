@@ -44,6 +44,19 @@ The 2018 Mitsubishi Mirage is a subcompact car known for its affordability and f
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Torsion Beam Rear
@@ -98,3 +111,15 @@ The 2018 Mitsubishi Mirage is a subcompact car known for its affordability and f
 --- 
 ### Summary Verdict
 The 2018 Mitsubishi Mirage is a budget-friendly subcompact that generally performs its basic functions reliably. The 1.2L engine and manual transmission are typically trouble-free. However, the CVT transmission has been noted for potential issues like hesitation and overheating, requiring attention and potentially costly repairs. Electrical components, particularly the infotainment system, can experience glitches. Exterior paint and interior materials may show wear sooner than on more premium vehicles. While not plagued by major widespread mechanical failures, owners should be mindful of the CVT's behavior and potential for minor electrical and interior wear. Regular maintenance is key to maximizing the lifespan of this economical vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

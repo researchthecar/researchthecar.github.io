@@ -32,6 +32,19 @@ The 2014 Mercedes-Benz B Electric Drive, a compact electric hatchback, aimed to 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -97,3 +110,15 @@ The 2014 Mercedes-Benz B Electric Drive, a compact electric hatchback, aimed to 
 --- 
 ### Summary Verdict
 The 2014 Mercedes-Benz B Electric Drive is generally considered reliable, with its electric powertrain and core mechanicals showing good durability. The primary areas of concern tend to be within the electrical system, specifically related to the battery pack's long-term degradation and potential issues with the charging system. Infotainment glitches are also noted, though often resolvable with software updates. Beyond these electrical components, the vehicle's engine, transmission, suspension, exterior, and interior have not shown widespread significant issues, indicating a solid overall build quality for its age and segment.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

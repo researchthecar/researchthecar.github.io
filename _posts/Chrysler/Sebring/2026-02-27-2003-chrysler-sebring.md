@@ -61,6 +61,19 @@ The 2003 Chrysler Sebring, available as a coupe, sedan, and convertible, offered
 - **Cost:** $400 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -126,3 +139,15 @@ The 2003 Chrysler Sebring, available as a coupe, sedan, and convertible, offered
 --- 
 ### Summary Verdict
 The 2003 Chrysler Sebring presents a mixed reliability profile. The 2.4L I4 engine is generally more robust than the 2.7L V6, which is prone to significant issues like head gasket failure and timing chain problems. Automatic transmissions can experience harsh shifting or slipping. Suspension components like ball joints and tie rods may wear prematurely. Electrical issues, particularly with the BCM and alternator, are not uncommon. Convertible models can face challenges with their top mechanisms. While not a universally problematic vehicle, potential buyers should be aware of the specific weaknesses, especially concerning the 2.7L V6 engine and transmission, and factor in potential repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

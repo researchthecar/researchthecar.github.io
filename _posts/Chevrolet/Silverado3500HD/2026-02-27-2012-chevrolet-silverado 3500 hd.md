@@ -49,6 +49,19 @@ The 2012 Chevrolet Silverado 3500 HD is a heavy-duty pickup truck designed for d
 - **Cost:** $300 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Heavy-Duty Suspension
@@ -93,3 +106,15 @@ The 2012 Chevrolet Silverado 3500 HD is a heavy-duty pickup truck designed for d
 --- 
 ### Summary Verdict
 The 2012 Chevrolet Silverado 3500 HD is a capable and generally reliable heavy-duty truck. The gasoline engine option is known for its durability with no significant widespread issues. The Duramax diesel, while powerful, can experience issues related to its emissions control systems, specifically the DPF and EGR, which are common to many modern diesel engines. Transmission issues, particularly with the torque converter, are also noted. Electrical components like the alternator and various sensors can occasionally fail. Overall, for a heavy-duty vehicle, the Silverado 3500 HD offers solid reliability, with most potential issues being manageable and repairable, especially if preventative maintenance is performed.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

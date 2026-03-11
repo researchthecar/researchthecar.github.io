@@ -65,6 +65,19 @@ The 2009 Chevrolet Optra, also known as the Daewoo Lacetti in many markets, was 
 - **Cost:** $300 - $800 (fluid service), $1500 - $3000 (rebuild/replacement)
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -119,3 +132,15 @@ The 2009 Chevrolet Optra, also known as the Daewoo Lacetti in many markets, was 
 --- 
 ### Summary Verdict
 The 2009 Chevrolet Optra presents a mixed reliability profile. While the gasoline engines and manual transmissions generally show good durability, the diesel variants, particularly the 2.0L JTDm, are more prone to issues like turbocharger and EGR valve problems. Automatic transmissions can experience slipping, requiring costly repairs. Suspension components, such as bushings and shocks, are common wear items that may need replacement. Electrical issues like alternator failure and window regulator problems are also noted. Interior components like the HVAC blower motor and door lock actuators can also fail. Overall, the Optra can be a reliable car if well-maintained, but potential buyers should be aware of these specific common faults, especially when considering models with the diesel engine or automatic transmission.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

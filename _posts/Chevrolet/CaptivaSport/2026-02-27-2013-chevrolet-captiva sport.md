@@ -54,6 +54,19 @@ The 2013 Chevrolet Captiva Sport, a compact SUV, aimed to offer a blend of utili
 - **Cost:** $200 - $700
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -103,3 +116,15 @@ The 2013 Chevrolet Captiva Sport, a compact SUV, aimed to offer a blend of utili
 --- 
 ### Summary Verdict
 The 2013 Chevrolet Captiva Sport presents a mixed reliability profile. The 2.4L and 3.0L engines have shown tendencies towards oil leaks and timing chain issues, which can be costly to repair. The automatic transmission can also be a source of concern, with reports of harsh shifting and overheating. Suspension components like struts and ball joints may require attention as the vehicle ages. Electrical issues, particularly with power windows and the infotainment system, are also noted. While the exterior and interior generally hold up well, potential buyers should be aware of these common mechanical and electrical concerns and factor in potential repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

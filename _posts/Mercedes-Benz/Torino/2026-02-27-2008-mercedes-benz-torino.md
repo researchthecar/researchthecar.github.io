@@ -61,6 +61,19 @@ The 2008 Mercedes-Benz Torino, a model that aimed to blend luxury with performan
 - **Cost:** $400 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -117,3 +130,15 @@ The 2008 Mercedes-Benz Torino, a model that aimed to blend luxury with performan
 --- 
 ### Summary Verdict
 The 2008 Mercedes-Benz Torino, based on typical Mercedes-Benz platforms of that era, offers a generally reliable ownership experience, particularly with the V8 engines. The primary areas of concern tend to be the M272 V6 engine's balance shaft and intake manifold, and potential issues with the automatic transmissions, especially the 7-speed. Electrical gremlins, often related to the SAM unit, can also surface. If equipped with AirMatic suspension, leaks and compressor failures are notable potential expenses. Despite these points, with diligent maintenance and addressing issues promptly, the Torino can remain a dependable luxury vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

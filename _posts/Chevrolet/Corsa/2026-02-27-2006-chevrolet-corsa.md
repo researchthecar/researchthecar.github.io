@@ -79,6 +79,19 @@ The 2006 Chevrolet Corsa, a popular compact car, generally offered a decent leve
 - **Cost:** $500 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -123,3 +136,15 @@ The 2006 Chevrolet Corsa, a popular compact car, generally offered a decent leve
 --- 
 ### Summary Verdict
 The 2006 Chevrolet Corsa presents a generally reliable profile, particularly with its petrol engine variants. The 1.3 CDTI diesel engine shows some susceptibility to turbocharger and EGR valve issues, which are not uncommon for this type of powertrain. The Easytronic automated manual transmission can experience actuator problems. Electrical gremlins, such as window regulators and instrument cluster faults, are also noted but are often repairable. For most owners, the Corsa is expected to provide dependable service with standard maintenance. Buyers should pay attention to the specific engine and transmission type when assessing potential used models.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

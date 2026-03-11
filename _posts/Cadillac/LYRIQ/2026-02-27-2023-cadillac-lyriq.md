@@ -39,6 +39,19 @@ The 2023 Cadillac LYRIQ represents a significant step into the electric vehicle 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard/Sport Chassis
@@ -99,3 +112,15 @@ The 2023 Cadillac LYRIQ represents a significant step into the electric vehicle 
 --- 
 ### Summary Verdict
 The 2023 Cadillac LYRIQ, as a new entrant in the premium EV space, demonstrates a promising start in terms of reliability. The electric powertrain and core chassis components appear robust. The primary areas of concern, based on early data, are related to the sophisticated electrical systems, particularly the infotainment and battery charging functionality, which may require software updates or diagnostics. The 12V auxiliary battery has also shown some instances of premature failure, a common issue in EVs that rely heavily on this component for system initialization. Overall, the LYRIQ is positioned as a reliable luxury electric vehicle, with most potential issues being software-related or manageable through standard dealership service.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

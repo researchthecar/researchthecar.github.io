@@ -51,6 +51,19 @@ The 2018 Mitsubishi Outlander Sport is a compact SUV known for its value proposi
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -111,3 +124,15 @@ The 2018 Mitsubishi Outlander Sport is a compact SUV known for its value proposi
 --- 
 ### Summary Verdict
 The 2018 Mitsubishi Outlander Sport presents a generally reliable profile, especially with the 2.0L engine and 6-speed automatic transmission. The CVT, while common, has shown some susceptibility to hesitation and overheating issues, which can lead to moderate repair costs. Electrical gremlins, particularly with the infotainment system and potential battery drain, are also areas to monitor. Oil leaks from the 2.4L engine are a possibility but typically involve manageable repairs. Overall, for its price point, the Outlander Sport offers decent dependability, but potential buyers should be aware of the specific powertrain and electrical components that may require attention over time.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

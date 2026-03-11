@@ -32,6 +32,19 @@ The 2021 Hyundai Kona Electric is a subcompact SUV that has generally received p
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -97,3 +110,15 @@ The 2021 Hyundai Kona Electric is a subcompact SUV that has generally received p
 --- 
 ### Summary Verdict
 The 2021 Hyundai Kona Electric demonstrates strong reliability, particularly in its core electric powertrain components. The primary areas of concern, as with most EVs, revolve around the long-term health of the battery pack and potential issues with the charging system. Software glitches within the infotainment system are also a possibility, though often resolvable with updates. Other categories like suspension, exterior, and interior components show no widespread reliability concerns. Overall, the Kona Electric offers a dependable ownership experience, with potential costs primarily associated with battery longevity or charging system repairs outside of warranty.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

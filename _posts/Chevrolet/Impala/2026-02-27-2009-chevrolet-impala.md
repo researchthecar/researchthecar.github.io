@@ -61,6 +61,19 @@ The 2009 Chevrolet Impala, a mid-size sedan, offered a range of powertrain optio
 - **Cost:** $800 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -126,3 +139,15 @@ The 2009 Chevrolet Impala, a mid-size sedan, offered a range of powertrain optio
 --- 
 ### Summary Verdict
 The 2009 Chevrolet Impala generally presents a reasonable level of reliability, particularly with its V8 engine option. However, owners should be aware of potential issues with the intake manifold gaskets on V6 engines, as well as common transmission problems like torque converter shudder and gear slipping, especially on higher-mileage vehicles. Electrical gremlins, particularly related to the BCM and alternator, can also arise. Suspension components like struts and ball joints may require attention as the vehicle ages. Regular maintenance and prompt attention to early symptoms can help mitigate the impact of these potential issues and ensure continued serviceability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

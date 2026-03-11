@@ -44,6 +44,19 @@ The 2013 Hyundai Elantra Coupe, a stylish and sporty compact car, generally offe
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -88,3 +101,15 @@ The 2013 Hyundai Elantra Coupe, a stylish and sporty compact car, generally offe
 --- 
 ### Summary Verdict
 The 2013 Hyundai Elantra Coupe demonstrates reasonable reliability, with the powertrain and chassis generally performing well. The most frequently cited issues tend to be related to engine oil consumption and occasional transmission hesitation in automatic models, which can be costly to repair if they become severe. Electrical components, particularly the TPMS sensors and interior lighting, have also seen some reports of failure. While not overwhelmingly problematic, potential buyers should be aware of these specific areas. Overall, the Elantra Coupe offers a decent ownership experience, but proactive maintenance and awareness of these potential issues are recommended for long-term satisfaction.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -32,6 +32,19 @@ The 2021 BMW M850i xDrive Gran Coupe, a luxurious and performance-oriented four-
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive M Suspension
@@ -92,3 +105,15 @@ The 2021 BMW M850i xDrive Gran Coupe, a luxurious and performance-oriented four-
 --- 
 ### Summary Verdict
 The 2021 BMW M850i xDrive Gran Coupe is a highly reliable vehicle, particularly in its core mechanical components like the engine and transmission. The 4.4L twin-turbo V8 and the 8-speed automatic transmission are robust and have proven dependable. The primary areas where minor issues have been noted are within the electrical system, specifically occasional infotainment glitches and, less commonly, premature battery drain. These are often resolvable with software updates or standard battery replacement. The suspension, exterior, and interior components generally perform without significant widespread problems. Overall, the M850i offers a strong reliability record for a luxury performance car, with most potential issues being minor and manageable.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

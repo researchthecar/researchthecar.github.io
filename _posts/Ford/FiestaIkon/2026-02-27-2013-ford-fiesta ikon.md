@@ -56,6 +56,19 @@ The 2013 Ford Fiesta Ikon, a subcompact car, generally offers a decent ownership
 - **Cost:** $200 - $500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -105,3 +118,15 @@ The 2013 Ford Fiesta Ikon, a subcompact car, generally offers a decent ownership
 --- 
 ### Summary Verdict
 The 2013 Ford Fiesta Ikon presents a generally acceptable reliability profile for its class, particularly if equipped with the manual transmission. The most frequently cited issues revolve around the engine's cooling and lubrication systems, with potential for coolant and oil leaks. The PowerShift automatic transmission, while offering convenience, has a history of shuddering and potential leaks, making the manual a more robust choice for long-term reliability. Suspension components like bushings and shocks can wear over time, leading to noise and handling degradation. Electrical issues, such as alternator failure and power window problems, are also noted. Exterior and interior components are less prone to significant technical failures, with most concerns being cosmetic or related to normal use. Regular maintenance and prompt attention to early signs of leaks or transmission issues are crucial for maximizing the lifespan and minimizing unexpected repair costs of the 2013 Fiesta Ikon.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

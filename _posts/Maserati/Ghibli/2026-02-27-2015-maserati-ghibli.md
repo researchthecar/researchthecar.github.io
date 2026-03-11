@@ -54,6 +54,19 @@ The 2015 Maserati Ghibli, a luxury sports sedan, offers a blend of Italian styli
 - **Cost:** $150 - $300
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard/Skyhook Adaptive Suspension
@@ -108,3 +121,15 @@ The 2015 Maserati Ghibli, a luxury sports sedan, offers a blend of Italian styli
 --- 
 ### Summary Verdict
 The 2015 Maserati Ghibli, while offering a compelling driving experience, exhibits some common reliability concerns typical of luxury performance vehicles. The V6 engines, both gasoline and diesel, can experience issues with turbochargers, oil leaks, and emissions systems like the DPF. The automatic transmission is generally robust but can suffer from fluid leaks or software glitches. Electrical gremlins, particularly with the infotainment system and battery drain, are also noted. Suspension components, especially the adaptive Skyhook system, can be costly to repair if they develop leaks. Interior electronics like seat adjustments and climate control can also present issues. Prospective buyers should factor in potential repair costs for these specific components.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

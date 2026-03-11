@@ -42,6 +42,19 @@ The 2011 Aston Martin DBS, a grand tourer known for its potent V12 engine and lu
 - **Cost:** $2000 - $4000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Damping System
@@ -88,3 +101,15 @@ The 2011 Aston Martin DBS, a grand tourer known for its potent V12 engine and lu
 --- 
 ### Summary Verdict
 The 2011 Aston Martin DBS is a remarkable vehicle with a generally solid mechanical foundation. The V12 engine is a highlight, though ignition and cooling system components can require attention. The automatic transmission is robust but can suffer from leaks or torque converter issues. Electrical gremlins, particularly with the infotainment and locking systems, are not uncommon in exotic cars of this era. Suspension components, especially the adaptive dampers, can be costly to repair. Interior wear is typical for a car of its age and use. Overall, the DBS demands significant financial commitment for maintenance and repairs, but its reliability is acceptable for a hand-built supercar when properly cared for.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

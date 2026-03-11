@@ -58,6 +58,19 @@ The 2005 Chevrolet Cobalt, a compact car, offered a range of engine and transmis
 - **Cost:** $300 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -107,3 +120,15 @@ The 2005 Chevrolet Cobalt, a compact car, offered a range of engine and transmis
 --- 
 ### Summary Verdict
 The 2005 Chevrolet Cobalt can be a budget-friendly vehicle, but it's not without its potential issues. The 2.2L Ecotec engine's tendency for oil consumption is a notable concern that requires diligent monitoring. While manual transmissions are generally robust, clutch wear is a common repair. Automatic transmissions may develop leaks. Suspension components like struts and sway bar links can wear out, leading to ride quality issues. Electrical problems, such as failing window regulators and ignition switches, are also reported. Exterior rust can be a significant problem in certain environments. Overall, while many Cobalts serve their owners well, prospective buyers should be prepared for potential repairs, particularly concerning the engine and suspension, and factor these into their ownership costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -51,6 +51,19 @@ The 2011 Mini Cooper Countryman, a compact crossover offering a blend of Mini's 
 - **Cost:** $800 - $3,500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -95,3 +108,15 @@ The 2011 Mini Cooper Countryman, a compact crossover offering a blend of Mini's 
 --- 
 ### Summary Verdict
 The 2011 Mini Cooper Countryman offers a unique driving experience but comes with specific reliability considerations. The turbocharged 'S' models are more susceptible to issues like turbocharger problems and PCV valve failures, which can be costly to repair. Automatic transmissions have also seen reports of slipping and hesitation, potentially requiring significant investment. While the suspension and exterior/interior components are generally robust, owners should be mindful of potential control arm bushing wear and electrical gremlins such as power window regulators and sunroof drain issues. Regular maintenance, especially on turbocharged engines and automatic transmissions, is crucial for mitigating these potential problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

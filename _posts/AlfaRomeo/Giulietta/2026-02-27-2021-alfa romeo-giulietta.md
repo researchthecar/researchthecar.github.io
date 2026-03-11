@@ -73,6 +73,19 @@ The 2021 Alfa Romeo Giulietta, while celebrated for its distinctive Italian styl
 - **Cost:** $300 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -122,3 +135,15 @@ The 2021 Alfa Romeo Giulietta, while celebrated for its distinctive Italian styl
 --- 
 ### Summary Verdict
 The 2021 Alfa Romeo Giulietta, while offering a compelling driving experience, exhibits some common European automotive reliability trends. The petrol and diesel engines, particularly the MultiAir system and diesel particulate filters (DPF), can be sources of concern. Transmission issues, especially with the TCT automatic, and suspension wear are also noted. Electrical gremlins, primarily with the infotainment system, can occur. However, exterior and interior components generally hold up well. Proactive maintenance, especially concerning the DPF and MultiAir unit, and addressing any early signs of electrical or transmission trouble are key to ensuring a more reliable ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

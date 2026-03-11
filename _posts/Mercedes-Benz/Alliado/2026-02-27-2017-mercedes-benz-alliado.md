@@ -32,6 +32,19 @@ The 2017 Mercedes-Benz Metris (also known as the Vito in other markets) is a ver
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -78,3 +91,15 @@ The 2017 Mercedes-Benz Metris (also known as the Vito in other markets) is a ver
 --- 
 ### Summary Verdict
 The 2017 Mercedes-Benz Metris demonstrates good overall reliability, particularly in its core mechanical components like the engine and transmission. The 2.0L turbo engine and 7-speed automatic transmission are generally robust. The suspension system also holds up well under typical commercial use. The primary areas of concern, though not widespread, tend to be in the electrical system, specifically with the infotainment unit experiencing occasional glitches and potential battery drain issues that require professional diagnosis. Exterior and interior components are generally durable. With proper maintenance and attention to potential electrical quirks, the Metris should provide dependable service.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

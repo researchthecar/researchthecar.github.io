@@ -44,6 +44,19 @@ The 2022 Audi Q4 e-tron Sportback represents Audi's entry into the compact elect
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -111,3 +124,15 @@ The 2022 Audi Q4 e-tron Sportback represents Audi's entry into the compact elect
 --- 
 ### Summary Verdict
 The 2022 Audi Q4 e-tron Sportback demonstrates a promising start in terms of reliability, leveraging the established MEB platform. While no major powertrain or structural issues have been widely reported, a few minor electrical gremlins, particularly concerning the infotainment system's software and occasional 12V battery issues, have been noted. These are not uncommon for first-year models of technologically advanced vehicles. The overall sentiment from early adopters is positive, with the vehicle performing well in its core functions. Owners should be aware of potential software updates for the infotainment and ensure regular checks of the 12V battery as part of routine maintenance. For a new electric model, the Q4 e-tron Sportback appears to be a reliable choice, with most issues being minor and addressable.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

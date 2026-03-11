@@ -54,6 +54,19 @@ The 2011 Hyundai Sonata, a mid-size sedan, generally presented a solid value pro
 - **Cost:** $800 - $1,800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -93,3 +106,15 @@ The 2011 Hyundai Sonata, a mid-size sedan, generally presented a solid value pro
 --- 
 ### Summary Verdict
 The 2011 Hyundai Sonata offers a generally comfortable and stylish package, but potential buyers should be aware of significant powertrain concerns. The 2.4L and 2.0L Turbo engines have documented issues with excessive oil consumption and, in more severe cases, bearing failure, leading to costly repairs. The automatic transmission can also exhibit problems like harsh shifting and torque converter issues. While other systems like suspension, electrical, exterior, and interior components are relatively robust, the engine and transmission reliability are the primary areas of concern for this model year. Thorough pre-purchase inspection and maintenance history review are highly recommended.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

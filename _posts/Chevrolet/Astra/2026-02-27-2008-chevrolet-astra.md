@@ -63,6 +63,19 @@ The 2008 Chevrolet Astra, a compact car offered in various body styles, aimed to
 - **Cost:** $400 - $900
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -128,3 +141,15 @@ The 2008 Chevrolet Astra, a compact car offered in various body styles, aimed to
 --- 
 ### Summary Verdict
 The 2008 Chevrolet Astra presents a mixed reliability profile. While the core mechanicals can be robust if maintained, specific components like the manual transmission's bearings (M32) and certain engine sensors or gaskets are known weak points. Electrical gremlins, particularly related to the BCM and instrument cluster, can be frustrating and costly to diagnose. Exterior rust can be a concern depending on climate and maintenance. Interior components like the HVAC blower resistor are relatively inexpensive to fix. Overall, potential buyers should be aware of these common issues and factor in potential repair costs, especially for higher-mileage examples.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

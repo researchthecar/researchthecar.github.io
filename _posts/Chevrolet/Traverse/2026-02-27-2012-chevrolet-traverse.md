@@ -42,6 +42,19 @@ The 2012 Chevrolet Traverse is a mid-size SUV known for its spacious interior an
 - **Cost:** $800 - $1,500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -93,3 +106,15 @@ The 2012 Chevrolet Traverse is a mid-size SUV known for its spacious interior an
 --- 
 ### Summary Verdict
 The 2012 Chevrolet Traverse generally performs well, but common issues tend to center around the powertrain and some electrical components. The 3.6L V6 engine can experience timing chain and intake manifold gasket problems, while the 6-speed automatic transmission may develop issues with harsh shifting or torque converter failure. Suspension components like strut mounts and rear shocks are also noted for potential wear. Electrical gremlins, particularly related to the Body Control Module and infotainment system, can also arise. While the exterior and interior are relatively robust, these specific mechanical and electrical concerns are the most frequently reported reliability issues for this model year.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

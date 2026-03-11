@@ -54,6 +54,19 @@ The 2005 Ferrari 612 Scaglietti, a grand tourer designed for comfortable high-sp
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Dampers
@@ -119,3 +132,15 @@ The 2005 Ferrari 612 Scaglietti, a grand tourer designed for comfortable high-sp
 --- 
 ### Summary Verdict
 The 2005 Ferrari 612 Scaglietti is a capable grand tourer with a powerful V12 engine. While its core mechanicals are robust, owners should be aware of potential issues common to high-end, low-volume exotics. The F1 transmission, particularly its hydraulic system, can be a significant expense. Electrical gremlins related to the Body Control Module and infotainment system are also noted. Engine components like ignition coils and sensors can fail, requiring specialized attention. Suspension electronics and headlight sealing are other areas to monitor. Despite these potential challenges, with diligent maintenance and prompt attention to issues, the 612 Scaglietti can remain a rewarding ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

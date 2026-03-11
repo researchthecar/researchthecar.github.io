@@ -49,6 +49,19 @@ The 2005 Ford Explorer Sport Trac, a unique blend of SUV and pickup truck, offer
 - **Cost:** $800 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -114,3 +127,15 @@ The 2005 Ford Explorer Sport Trac, a unique blend of SUV and pickup truck, offer
 --- 
 ### Summary Verdict
 The 2005 Ford Explorer Sport Trac, while offering a unique utility, exhibits some common reliability concerns typical for its age and platform. The 4.0L V6 engine is prone to timing chain and intake manifold issues, and the 5R55E transmission can suffer from solenoid pack and torque converter problems. Suspension components like ball joints and leaf springs may require attention. Electrical gremlins, often linked to the BCM, and alternator failures are also noted. Exterior rust can be a significant concern depending on climate. Interior issues are generally less severe, with blend door actuators being a common point of failure. Despite these potential issues, many Sport Tracs remain on the road with proper maintenance and timely repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

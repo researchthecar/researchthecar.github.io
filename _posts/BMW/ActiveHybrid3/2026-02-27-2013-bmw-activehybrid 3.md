@@ -37,6 +37,19 @@ The 2013 BMW ActiveHybrid 3 is a sophisticated luxury sedan that blends performa
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -83,3 +96,15 @@ The 2013 BMW ActiveHybrid 3 is a sophisticated luxury sedan that blends performa
 --- 
 ### Summary Verdict
 The 2013 BMW ActiveHybrid 3 generally offers a reliable ownership experience, with its core mechanical components like the transmission and standard chassis showing good durability. The primary areas of potential concern are related to the advanced hybrid system, specifically the hybrid battery and electric motor, which can be costly to repair or replace if they fail. Electrical issues, particularly with the infotainment system and hybrid control module, are also noted. Owners should be aware of these potential hybrid-specific costs and ensure proper maintenance of the hybrid components to maximize longevity.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

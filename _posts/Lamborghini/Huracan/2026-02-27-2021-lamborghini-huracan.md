@@ -32,6 +32,19 @@ The 2021 Lamborghini Huracan represents the pinnacle of Italian supercar enginee
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Magnetorheological Dampers (Optional/Standard on some trims)
@@ -99,3 +112,15 @@ The 2021 Lamborghini Huracan represents the pinnacle of Italian supercar enginee
 --- 
 ### Summary Verdict
 The 2021 Lamborghini Huracan demonstrates strong technical reliability, particularly concerning its core powertrain components, the 5.2L V10 engine and the 7-speed dual-clutch transmission. These systems are engineered for extreme performance and have proven robust. Minor electrical gremlins, primarily related to the infotainment system's software, are the most commonly cited, though typically resolved with updates. Other systems like suspension, exterior, and interior components show no significant widespread issues, reflecting the high build quality expected of a supercar in this segment. Owners should be aware that while mechanical reliability is generally excellent, the cost of any potential repairs or specialized maintenance will be substantial due to the exotic nature and advanced technology of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -47,6 +47,19 @@ The 2005 Maserati GranSport, a potent blend of luxury and performance, is a desi
 - **Cost:** $1,000 - $3,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Skyhook System
@@ -105,3 +118,15 @@ The 2005 Maserati GranSport, a potent blend of luxury and performance, is a desi
 --- 
 ### Summary Verdict
 The 2005 Maserati GranSport is a performance icon with a distinct character. While its V8 engine and engaging driving experience are highlights, potential owners should be prepared for higher maintenance costs and specific reliability concerns compared to more mainstream luxury vehicles. Key areas to monitor include the timing chain system, clutch and hydraulic components of the Cambiocorsa transmission, and the adaptive suspension. Electrical gremlins, particularly related to the BCM and infotainment, can also arise. Despite these potential challenges, with diligent maintenance and prompt attention to any developing issues, the GranSport can offer a rewarding ownership experience for the dedicated enthusiast.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

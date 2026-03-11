@@ -32,6 +32,19 @@ The 2020 Hyundai Kona Electric is a compact electric SUV that has generally rece
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Suspension
@@ -83,3 +96,15 @@ The 2020 Hyundai Kona Electric is a compact electric SUV that has generally rece
 --- 
 ### Summary Verdict
 The 2020 Hyundai Kona Electric demonstrates strong reliability, particularly in its powertrain components which are inherently simpler than those in gasoline vehicles. The primary areas of concern, as with most EVs of this era, revolve around the long-term health of the battery pack and potential issues with the charging system or infotainment software. Battery degradation is a natural process, but significant or premature loss of capacity can be a costly repair outside of warranty. Charging system faults and infotainment glitches, while not universally reported, are the most common technical issues encountered. Overall, the Kona Electric is considered a dependable electric vehicle, with most potential problems being related to the advanced electrical systems rather than mechanical wear.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

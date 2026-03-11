@@ -51,6 +51,19 @@ The 2017 Mini Cooper Clubman, known for its distinctive styling and go-kart-like
 - **Cost:** $400 - $900
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -95,3 +108,15 @@ The 2017 Mini Cooper Clubman, known for its distinctive styling and go-kart-like
 --- 
 ### Summary Verdict
 The 2017 Mini Cooper Clubman generally demonstrates good reliability, with the 1.5L three-cylinder engine and manual transmission being particularly robust. The more powerful 2.0L turbo engine in the Cooper S variants has seen some reports of coolant leaks and turbocharger issues, which can be costly to repair. The 8-speed automatic transmission may experience fluid leaks. Electrical gremlins, primarily related to the infotainment system and occasional battery drain, are also noted. A specific exterior concern involves potential water leaks around the unique split rear doors. Overall, the Clubman is a dependable choice, but potential buyers should be aware of these specific mechanical and electrical points, especially when considering higher-mileage examples or the Cooper S models.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -39,6 +39,19 @@ The 2019 Audi A5 Sportback is generally considered a reliable vehicle, blending 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -85,3 +98,15 @@ The 2019 Audi A5 Sportback is generally considered a reliable vehicle, blending 
 --- 
 ### Summary Verdict
 The 2019 Audi A5 Sportback demonstrates strong overall reliability, particularly in its powertrain components. The 2.0L TFSI engines and the 7-speed S tronic transmission are robust and have not shown widespread failure trends. The primary areas of concern are minor electrical gremlins, such as occasional infotainment system glitches and, less commonly, intermittent battery drain issues. These are typically resolvable with software updates or diagnosis of parasitic draws. The suspension, exterior, and interior components are generally well-built and do not present significant reliability concerns beyond normal wear and tear. For potential buyers, focusing on a thorough pre-purchase inspection, especially for the electrical system, is advisable.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

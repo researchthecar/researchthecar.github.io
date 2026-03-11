@@ -44,6 +44,19 @@ The 2020 Mitsubishi Mirage is a subcompact car known for its affordability and f
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front Suspension / Torsion Beam Rear Axle
@@ -88,3 +101,15 @@ The 2020 Mitsubishi Mirage is a subcompact car known for its affordability and f
 --- 
 ### Summary Verdict
 The 2020 Mitsubishi Mirage, while a budget-friendly choice, exhibits a reliability profile that aligns with its price point. The 1.2L engine and manual transmission are generally robust, with no widespread issues reported. However, the Continuously Variable Transmission (CVT) has seen some complaints regarding hesitation, jerking, and potential overheating, which can lead to costly repairs. Electrical components, particularly the infotainment system and battery performance, can also be a source of minor frustration. Exterior and interior components are typically free of significant defects. For potential buyers, opting for the manual transmission may offer greater long-term reliability, while CVT owners should be mindful of regular maintenance and potential issues. Overall, the Mirage is a functional vehicle for basic transportation, but its reliability is not its strongest suit, especially concerning the automatic transmission.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

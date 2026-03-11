@@ -76,6 +76,19 @@ The 2000 Lamborghini Diablo, a legendary supercar, represents a pinnacle of Ital
 - **Cost:** $400 - $1,200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Independent Suspension
@@ -141,3 +154,15 @@ The 2000 Lamborghini Diablo, a legendary supercar, represents a pinnacle of Ital
 --- 
 ### Summary Verdict
 The 2000 Lamborghini Diablo, while an iconic supercar, requires dedicated maintenance and can present specific reliability challenges typical of exotic vehicles of its era. The V12 engines, particularly the 5.7L and 6.0L variants, are prone to cooling system and oil leaks due to age and high performance demands. Transmission issues, especially clutch wear and synchronizer problems in the manual gearboxes, are also noted. Electrical gremlins, often stemming from aging wiring harnesses, can lead to intermittent faults. While the suspension and exterior generally hold up well, components like pop-up headlight actuators can fail. Owners should budget for specialized maintenance and potential repairs to keep this legendary machine in top condition.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

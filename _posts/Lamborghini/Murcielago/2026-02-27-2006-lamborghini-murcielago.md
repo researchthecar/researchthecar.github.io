@@ -61,6 +61,19 @@ The 2006 Lamborghini Murciélago, a true supercar icon, represents a pinnacle of
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Damping System
@@ -114,3 +127,15 @@ The 2006 Lamborghini Murciélago, a true supercar icon, represents a pinnacle of
 --- 
 ### Summary Verdict
 The 2006 Lamborghini Murciélago, while a desirable supercar, presents potential reliability concerns primarily centered around its complex powertrain and specialized systems. The V12 engines, though powerful, can be susceptible to cooling system leaks and clutch actuator issues, especially in the e-gear transmission variants. The e-gear system itself, with its hydraulic components, is a known area for potential costly repairs. Suspension and electrical systems, particularly the adaptive damping and infotainment, can also require attention. While the manual transmission offers a more straightforward mechanical experience, overall, prospective owners should budget for specialized maintenance and potential repairs, understanding that exotic car ownership inherently involves higher costs and a need for expert servicing.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -52,6 +52,19 @@ The 2008 Mercedes-Benz CL65 AMG, a pinnacle of luxury grand touring, is equipped
 - **Cost:** $800 - $2,000.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Active Body Control (ABC)
@@ -117,3 +130,15 @@ The 2008 Mercedes-Benz CL65 AMG, a pinnacle of luxury grand touring, is equipped
 --- 
 ### Summary Verdict
 The 2008 Mercedes-Benz CL65 AMG is a high-performance luxury coupe with a complex V12 engine and advanced systems. While it offers an exceptional driving experience, potential buyers should be prepared for higher maintenance and repair costs compared to less performance-oriented vehicles. Key areas to monitor include the twin-turbo V12 engine's components (turbos, intercoolers), the sophisticated Active Body Control (ABC) suspension for leaks, and the intricate electrical systems, particularly the COMAND infotainment and potential battery drain issues. Transmission reliability is generally good, but torque converter and TCM issues can arise. Diligent maintenance and a thorough pre-purchase inspection are crucial for ownership satisfaction.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

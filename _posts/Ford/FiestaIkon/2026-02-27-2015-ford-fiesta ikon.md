@@ -61,6 +61,19 @@ The 2015 Ford Fiesta Ikon, a popular subcompact car, generally offers a respecta
 - **Cost:** $200 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -105,3 +118,15 @@ The 2015 Ford Fiesta Ikon, a popular subcompact car, generally offers a respecta
 --- 
 ### Summary Verdict
 The 2015 Ford Fiesta Ikon presents a generally reliable profile, with most owners reporting satisfaction. The primary areas to monitor are the engine cooling and oil systems, particularly with the 1.0L EcoBoost, and potential issues with the PowerShift automatic transmission, such as shuddering. Manual transmissions are typically robust. Electrical gremlins, like infotainment glitches and battery drain, are not uncommon but are usually repairable. Suspension components like bushings can wear over time, leading to noise. Exterior and interior components are largely free of significant widespread defects. Overall, the Fiesta Ikon is a sensible choice for budget-conscious buyers, provided regular maintenance is performed and potential powertrain quirks are understood.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

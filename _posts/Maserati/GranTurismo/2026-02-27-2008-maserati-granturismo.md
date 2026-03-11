@@ -64,6 +64,19 @@ The 2008 Maserati GranTurismo, a grand tourer renowned for its striking design a
 - **Cost:** $1000 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -123,3 +136,15 @@ The 2008 Maserati GranTurismo, a grand tourer renowned for its striking design a
 --- 
 ### Summary Verdict
 The 2008 Maserati GranTurismo, while a desirable exotic, presents a reliability profile typical of its class. Owners should be prepared for potential issues primarily concerning the powertrain, specifically oil leaks and exhaust manifold cracks on the V8 engines, and torque converter or mechatronic unit problems with the automatic transmission. Electrical gremlins, such as infotainment glitches and battery drain, are also noted. Suspension components like bushings and shocks can wear, requiring attention. Interior trim, particularly stitching, may show age. Despite these potential concerns, many owners find the driving experience and aesthetics outweigh the maintenance demands. Regular, specialized maintenance is paramount for ensuring the long-term health and enjoyment of this luxurious grand tourer.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

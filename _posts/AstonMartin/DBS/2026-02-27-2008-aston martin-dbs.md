@@ -47,6 +47,19 @@ The 2008 Aston Martin DBS is a grand tourer renowned for its potent V12 engine a
 - **Cost:** $1,000 - $2,500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Damping System
@@ -100,3 +113,15 @@ The 2008 Aston Martin DBS is a grand tourer renowned for its potent V12 engine a
 --- 
 ### Summary Verdict
 The 2008 Aston Martin DBS, while a magnificent machine, presents reliability concerns typical of a low-volume, high-performance exotic. The V12 engine is generally robust but can suffer from costly issues like ignition coil failures and oil cooler leaks. The automatic transmission, while smooth, can experience torque converter or TCM problems. Electrical gremlins, particularly with the infotainment system, are not uncommon. Suspension components, especially the adaptive damping system, can also be a source of expensive repairs. Owners must budget for specialized maintenance and potential repairs, as parts and labor are significantly higher than for mainstream vehicles. Despite these potential drawbacks, with diligent care and professional servicing, the DBS can remain a rewarding ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

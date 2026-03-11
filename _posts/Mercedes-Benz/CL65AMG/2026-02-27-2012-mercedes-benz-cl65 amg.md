@@ -47,6 +47,19 @@ The 2012 Mercedes-Benz CL65 AMG, a pinnacle of luxury grand touring, is equipped
 - **Cost:** $1500 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Active Body Control (ABC)
@@ -98,3 +111,15 @@ The 2012 Mercedes-Benz CL65 AMG, a pinnacle of luxury grand touring, is equipped
 --- 
 ### Summary Verdict
 The 2012 Mercedes-Benz CL65 AMG is a high-performance luxury coupe with a complex V12 engine and advanced systems like Active Body Control. While generally well-built, owners should be aware of potential issues related to the turbocharger wastegate actuators, ignition coils, and ABC system hydraulic components, which can be costly to repair. Transmission issues, particularly with the torque converter seal and TCM, are also noted. Electrical gremlins in the infotainment system can occur. Despite these potential concerns, with proper maintenance and prompt attention to any developing issues, the CL65 AMG can provide a rewarding ownership experience, though maintenance costs will remain high due to the specialized nature of its components.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

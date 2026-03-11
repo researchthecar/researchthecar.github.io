@@ -47,6 +47,19 @@ The 2011 Mercedes-Benz S65 AMG, a pinnacle of luxury and performance, is equippe
 - **Cost:** $1,200 - $2,500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Active Body Control (ABC) System
@@ -98,3 +111,15 @@ The 2011 Mercedes-Benz S65 AMG, a pinnacle of luxury and performance, is equippe
 --- 
 ### Summary Verdict
 The 2011 Mercedes-Benz S65 AMG is a complex luxury performance sedan. While its V12 engine and advanced systems provide an exceptional driving experience, they also present potential reliability challenges. Key areas of concern include the twin-turbocharged engine's components like turbochargers and ignition coils, the robust but intricate 5-speed automatic transmission, and the sophisticated Active Body Control (ABC) suspension system, which can be prone to hydraulic leaks. Electrical issues, particularly with the COMAND infotainment system and various sensors, are also noted. Owners must be prepared for higher maintenance costs and the possibility of significant repair bills, especially for powertrain and suspension components. Despite these potential drawbacks, with diligent maintenance and prompt attention to any emerging issues, the S65 AMG can remain a rewarding vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

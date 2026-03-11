@@ -63,6 +63,19 @@ The 2007 Hyundai Tiburon, a sporty compact coupe, offered a blend of style and p
 - **Cost:** $300 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -123,3 +136,15 @@ The 2007 Hyundai Tiburon, a sporty compact coupe, offered a blend of style and p
 --- 
 ### Summary Verdict
 The 2007 Hyundai Tiburon presents a mixed reliability profile. While its engines and transmissions are generally robust with proper maintenance, common issues like oil leaks and clutch wear (especially on manual transmissions) are frequently reported. The automatic transmission can sometimes exhibit harsh shifting. Electrical gremlins, particularly related to the Body Control Module, and suspension wear are also points to consider. Exterior rust can be a concern on older models, and interior components like seat upholstery may show age. Overall, it's a car that can offer enjoyable driving, but potential buyers should be aware of these common issues and factor in potential repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

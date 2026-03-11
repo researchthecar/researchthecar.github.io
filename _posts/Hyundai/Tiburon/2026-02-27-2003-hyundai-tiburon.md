@@ -56,6 +56,19 @@ The 2003 Hyundai Tiburon, a sporty compact coupe, offered a blend of style and p
 - **Cost:** $300 - $1500+
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -110,3 +123,15 @@ The 2003 Hyundai Tiburon, a sporty compact coupe, offered a blend of style and p
 --- 
 ### Summary Verdict
 The 2003 Hyundai Tiburon presents a mixed reliability profile. Common issues tend to revolve around age-related wear, particularly oil leaks from both engine variants and potential timing belt failures, which can be costly if not addressed proactively. Transmission issues, especially with the automatic, can arise, manifesting as rough shifting. Suspension components like bushings and shocks are also prone to wear. Electrical gremlins, such as faulty window regulators and instrument clusters, are not uncommon. Exterior rust can be a concern depending on climate. While not plagued by widespread catastrophic failures, owners should be prepared for maintenance and potential repairs typical of a vehicle of this vintage, especially concerning the engine and transmission.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

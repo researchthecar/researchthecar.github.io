@@ -56,6 +56,19 @@ The 2000 Chrysler Intrepid, part of the second generation of the LH platform, of
 - **Cost:** $700 - $1,500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -121,3 +134,15 @@ The 2000 Chrysler Intrepid, part of the second generation of the LH platform, of
 --- 
 ### Summary Verdict
 The 2000 Chrysler Intrepid presents a mixed reliability profile. The 2.7L V6 engine is a notable weak point, prone to head gasket failures and oil sludge issues, necessitating careful maintenance and potentially costly repairs. The 42LE automatic transmission can also develop problems like slipping gears or torque converter issues. Beyond the powertrain, common concerns include worn suspension components (ball joints, tie rods, struts), electrical gremlins often stemming from the BCM or instrument cluster, and typical exterior wear like clear coat peeling. Interior components like seat upholstery and the HVAC blower motor are also areas where owners may face repairs. While the 3.2L and 3.5L V6 engines are generally more robust, potential buyers should be aware of these common failure points and factor in potential maintenance costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

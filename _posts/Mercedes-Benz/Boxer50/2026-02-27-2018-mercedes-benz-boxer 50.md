@@ -51,6 +51,19 @@ The 2018 Mercedes-Benz Boxer 50, a robust commercial vehicle, generally exhibits
 - **Cost:** $300 - $700
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -95,3 +108,15 @@ The 2018 Mercedes-Benz Boxer 50, a robust commercial vehicle, generally exhibits
 --- 
 ### Summary Verdict
 The 2018 Mercedes-Benz Boxer 50 is a generally reliable commercial vehicle, particularly for its intended purpose. The most common issues tend to be related to the diesel engines, specifically the glow plug system and turbocharger, and wear-and-tear items on the manual transmission. Automatic transmission issues are less frequent but can involve fluid leaks. Suspension components like ball joints and bushings are also noted for potential wear. Electrical system concerns, such as battery drain and sensor failures, are present but typically manageable. Overall, with diligent maintenance and prompt attention to early warning signs, the Boxer 50 should provide dependable service.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -37,6 +37,19 @@ The 2019 BMW 650i xDrive Gran Coupe, while a luxurious and performance-oriented 
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive M Suspension
@@ -79,3 +92,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2019 BMW 650i xDrive Gran Coupe is a powerful and luxurious sedan that generally offers a premium driving experience. While its core mechanical components like the transmission are robust, potential owners should be aware of specific engine-related concerns, such as oil consumption and turbocharger issues, which can be costly to repair. Electrical gremlins, particularly with the infotainment system and battery drain, are also noted. Suspension components, especially the active dampers, can require attention. Despite these potential drawbacks, with diligent maintenance and prompt attention to any emerging issues, the 650i xDrive Gran Coupe can remain a reliable and enjoyable vehicle. However, the cost of ownership, especially for repairs, is expected to be higher than average.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

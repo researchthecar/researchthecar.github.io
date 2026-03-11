@@ -51,6 +51,19 @@ The 2015 Mercedes-Benz Gran Viale Articulado, a robust articulated bus designed 
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Air Suspension System
@@ -116,3 +129,15 @@ The 2015 Mercedes-Benz Gran Viale Articulado, a robust articulated bus designed 
 --- 
 ### Summary Verdict
 The 2015 Mercedes-Benz Gran Viale Articulado demonstrates a commendable level of reliability, particularly in its core mechanical components. While issues like coolant leaks and turbocharger problems can arise with the larger diesel engines, they are generally manageable with timely maintenance and repair. The air suspension system, a critical component for passenger comfort and vehicle dynamics, may experience air spring leaks or leveling valve issues over time. Electrical gremlins, often related to the Body Control Module or wiring harness, are not uncommon in vehicles of this complexity and age, requiring thorough diagnostics. Overall, the Gran Viale Articulado is a dependable choice for public transportation, with most reported issues being repairable and not indicative of systemic design flaws.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -56,6 +56,19 @@ The 2022 Chevrolet Captiva, a compact SUV primarily targeted at emerging markets
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Torsion Beam Rear
@@ -116,3 +129,15 @@ The 2022 Chevrolet Captiva, a compact SUV primarily targeted at emerging markets
 --- 
 ### Summary Verdict
 The 2022 Chevrolet Captiva demonstrates reasonable reliability for its class, with the powertrain being the primary area of concern, particularly the 1.5L turbocharged engine and the CVT transmission. Issues like turbo lag, oil leaks, and transmission hesitation are not uncommon and can impact the driving experience. The electrical system, specifically the infotainment unit and potential battery drain, also warrants attention. However, the suspension, exterior, and interior components generally hold up well, with no widespread critical failures reported. For potential owners, it is advisable to ensure thorough pre-purchase inspections, especially focusing on the engine and transmission, and to be prepared for potential maintenance related to these systems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

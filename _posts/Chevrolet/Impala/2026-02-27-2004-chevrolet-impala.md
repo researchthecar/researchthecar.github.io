@@ -66,6 +66,19 @@ The 2004 Chevrolet Impala, a popular mid-size sedan, offered a range of powertra
 - **Cost:** $400 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -131,3 +144,15 @@ The 2004 Chevrolet Impala, a popular mid-size sedan, offered a range of powertra
 --- 
 ### Summary Verdict
 The 2004 Chevrolet Impala, particularly models equipped with the 3.8L V6 engines, can be prone to intake manifold gasket leaks and, in some cases, head gasket issues. Transmission problems, specifically with the 4T65-E, often involve the torque converter or solenoids. Electrical gremlins related to the BCM and alternator failures are also noted. While exterior rust can be a concern in certain climates, and interior wear is typical for its age, these are the most commonly reported technical reliability concerns. Overall, with diligent maintenance and awareness of these potential issues, the 2004 Impala can remain a functional vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

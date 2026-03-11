@@ -56,6 +56,19 @@ The 2004 Chrysler Intrepid, part of the second generation of the model, offered 
 - **Cost:** $200 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -121,3 +134,15 @@ The 2004 Chrysler Intrepid, part of the second generation of the model, offered 
 --- 
 ### Summary Verdict
 The 2004 Chrysler Intrepid presents a mixed reliability profile. The 2.7L V6 engine is a notable weak point, prone to head gasket issues and oil sludge, requiring diligent maintenance and potentially costly repairs. The automatic transmission can also develop issues like slipping or overheating. Suspension components like ball joints and tie rods are common wear items. Electrical gremlins, particularly related to the Body Control Module, can cause frustrating intermittent problems. Exterior paint can suffer from clear coat degradation, and interior components like HVAC blend doors and power window regulators are also known to fail. While the 3.2L and 3.5L V6 engines are generally more robust, potential buyers should be aware of these common issues and factor in potential repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

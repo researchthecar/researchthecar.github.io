@@ -54,6 +54,19 @@ The 2017 Maserati Ghibli, a luxury sports sedan, offers a blend of Italian styli
 - **Cost:** $300 - $900
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -96,3 +109,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2017 Maserati Ghibli, while offering a desirable blend of performance and luxury, exhibits some common reliability concerns. The twin-turbocharged V6 engines can be prone to turbocharger issues and oil leaks, and the ZF 8-speed automatic transmission may experience harsh shifting or leaks. Electrical gremlins, particularly with the infotainment system and battery drain, are also reported. Exterior door handle mechanisms and interior climate control components can also require attention. Owners should be prepared for potentially higher maintenance costs compared to more mainstream luxury brands, with specific attention needed for powertrain and electrical systems. Regular servicing and prompt attention to warning signs are crucial for maintaining the Ghibli's performance and longevity.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

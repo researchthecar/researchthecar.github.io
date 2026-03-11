@@ -54,6 +54,19 @@ The 2013 Maserati GranTurismo, a grand tourer known for its striking design and 
 - **Cost:** $1200 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -107,3 +120,15 @@ The 2013 Maserati GranTurismo, a grand tourer known for its striking design and 
 --- 
 ### Summary Verdict
 The 2013 Maserati GranTurismo is a desirable exotic car with a generally solid mechanical foundation, particularly its Ferrari-derived V8 engines. However, owners should anticipate potential costs associated with specific engine components like oil seals and exhaust manifolds, as well as potential issues with the automatic transmission's torque converter or mechatronic unit. Electrical gremlins, especially within the infotainment system and window regulators, are also noted. While the suspension, exterior, and interior are relatively robust, proactive maintenance and a budget for unexpected repairs are crucial for maintaining this luxury grand tourer.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

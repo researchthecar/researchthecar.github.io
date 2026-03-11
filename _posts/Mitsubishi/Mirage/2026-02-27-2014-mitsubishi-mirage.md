@@ -46,6 +46,19 @@ The 2014 Mitsubishi Mirage is a subcompact car designed for fuel efficiency and 
 - **Cost:** $150 - $300 for fluid service; $1,500 - $4,000 for CVT replacement.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Torsion Beam Rear
@@ -90,3 +103,15 @@ The 2014 Mitsubishi Mirage is a subcompact car designed for fuel efficiency and 
 --- 
 ### Summary Verdict
 The 2014 Mitsubishi Mirage is a basic, economical subcompact. Its primary strengths lie in its fuel efficiency and low purchase price. Reliability is generally acceptable for its class, with the 1.0L and 1.2L engines and manual transmissions proving quite robust. The CVT, however, is a noted area of potential concern, with some owners experiencing hesitation or jerking, which can lead to costly repairs. Electrical issues like battery drain and infotainment glitches are also occasionally reported. Exterior paint can be susceptible to fading. Overall, the Mirage is a functional car for budget-conscious buyers, but potential buyers should be aware of the CVT's reputation and factor in potential electrical maintenance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

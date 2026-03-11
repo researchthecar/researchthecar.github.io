@@ -54,6 +54,19 @@ The 2012 Aston Martin V12 Vantage represents a pinnacle of automotive engineerin
 - **Cost:** $600 - $1,500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Damping System
@@ -103,3 +116,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2012 Aston Martin V12 Vantage, while a magnificent machine, requires diligent ownership. The 5.9L V12 engine is robust but can experience issues like ignition coil failures and coolant leaks, which are costly to repair. Both the manual and automatic transmissions are generally reliable, though clutch wear on the manual and torque converter issues on the automatic are potential concerns. Electrical gremlins, particularly with the infotainment system and battery drain, can arise. Suspension components, specifically the adaptive dampers, may require replacement. Overall, expect high maintenance costs and the need for specialized technicians. Despite these potential issues, the V12 Vantage remains a desirable supercar with a strong core mechanical foundation.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

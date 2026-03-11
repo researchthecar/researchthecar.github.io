@@ -68,6 +68,19 @@ The 2008 Chevrolet Optra, also known as the Daewoo Lacetti in many markets, was 
 - **Cost:** $400 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -127,3 +140,15 @@ The 2008 Chevrolet Optra, also known as the Daewoo Lacetti in many markets, was 
 --- 
 ### Summary Verdict
 The 2008 Chevrolet Optra presents a mixed reliability profile. While its core mechanicals can be robust with proper care, common issues tend to surface in areas like oil leaks, cooling system integrity, and timing components for certain engines. Automatic transmission problems, such as harsh shifting, are also noted. Electrical gremlins, including window regulators and instrument clusters, can add to repair costs. Suspension components like ball joints and tie rods may require attention as mileage increases. Overall, the Optra is a vehicle that benefits significantly from diligent maintenance and prompt attention to any developing issues to maintain its operational reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

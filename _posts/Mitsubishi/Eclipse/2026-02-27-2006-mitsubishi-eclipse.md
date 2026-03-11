@@ -58,6 +58,19 @@ The 2006 Mitsubishi Eclipse, a sporty compact coupe, offered a range of performa
 - **Cost:** $300 - $600 (fluid service); $3000 - $5000 (replacement)
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -123,3 +136,15 @@ The 2006 Mitsubishi Eclipse, a sporty compact coupe, offered a range of performa
 --- 
 ### Summary Verdict
 The 2006 Mitsubishi Eclipse, while offering an engaging driving experience, presents a mixed reliability picture. Owners should be aware of potential issues with oil consumption and timing belt maintenance on the 4-cylinder engines, and intake manifold leaks on the V6. Transmission reliability varies, with the CVT being a notable concern for potential costly failures. Suspension components like bushings and strut mounts can wear over time. Electrical issues, particularly with the BCM and alternator, are also reported. Exterior paint and interior wear are common for vehicles of this age. Regular maintenance and prompt attention to reported issues are crucial for maintaining the 2006 Eclipse.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

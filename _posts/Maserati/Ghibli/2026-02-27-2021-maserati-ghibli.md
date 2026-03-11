@@ -66,6 +66,19 @@ The 2021 Maserati Ghibli, a luxury sports sedan, offers a blend of performance a
 - **Cost:** $300 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Skyhook Air Suspension
@@ -138,3 +151,15 @@ The 2021 Maserati Ghibli, a luxury sports sedan, offers a blend of performance a
 --- 
 ### Summary Verdict
 The 2021 Maserati Ghibli presents a compelling option for those seeking performance and luxury, but potential buyers should be aware of specific reliability concerns. Powertrain components, particularly the V6 engines, can experience oil leaks and turbocharger issues, while the automatic transmission may exhibit harsh shifting. The adaptive air suspension is prone to leaks and compressor failures. Electrical gremlins, such as infotainment system glitches and battery drain, are also noted. Exterior and interior components, like door handles and leather upholstery, can show wear or malfunction. While not indicative of universal failure, these issues suggest that maintenance and repair costs for a Ghibli may be higher than for more mainstream luxury vehicles, and diligent servicing is recommended.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

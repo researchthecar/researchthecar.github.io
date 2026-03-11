@@ -32,6 +32,19 @@ The 2021 Mercedes-Benz CLA45 AMG, a high-performance compact sedan, generally ex
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### AMG Performance 4MATIC+ Suspension
@@ -78,3 +91,15 @@ The 2021 Mercedes-Benz CLA45 AMG, a high-performance compact sedan, generally ex
 --- 
 ### Summary Verdict
 The 2021 Mercedes-Benz CLA45 AMG demonstrates commendable reliability for a vehicle in its performance class. The core mechanical components, including the powerful 2.0L turbo engine and the 8-speed DCT transmission, are robust and have not shown widespread failure trends. The primary area for potential minor concern lies within the sophisticated electrical system, specifically the MBUX infotainment, which can occasionally experience software glitches requiring updates or resets. Beyond this, the suspension, exterior, and interior components are generally holding up well. Overall, the CLA45 AMG offers a reliable platform for performance enthusiasts, provided routine maintenance is diligently performed and potential minor electrical quirks are addressed promptly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

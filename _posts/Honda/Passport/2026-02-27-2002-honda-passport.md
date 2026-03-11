@@ -37,6 +37,19 @@ The 2002 Honda Passport, a mid-size SUV, was known for its robust construction a
 - **Cost:** $300 - $800 (for fluid/filter/solenoid), $1500 - $3000 (for rebuild/replacement)
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -81,3 +94,15 @@ The 2002 Honda Passport, a mid-size SUV, was known for its robust construction a
 --- 
 ### Summary Verdict
 The 2002 Honda Passport is a generally dependable SUV, particularly its powertrain when properly maintained. The most significant concerns tend to revolve around the 3.2L V6 engine's timing belt, which requires timely replacement to avoid catastrophic failure, and potential oil leaks. Automatic transmission issues like harsh shifting can arise and may require significant repair. Suspension components, especially ball joints and bushings, are common wear items that can lead to noise and handling issues. Electrical gremlins, such as alternator failure and power window problems, are also noted. Exterior rust can be a concern in certain climates. Overall, with proactive maintenance and attention to these known issues, the 2002 Passport can remain a capable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

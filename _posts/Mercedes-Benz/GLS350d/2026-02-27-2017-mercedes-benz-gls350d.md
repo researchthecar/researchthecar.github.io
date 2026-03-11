@@ -42,6 +42,19 @@ The 2017 Mercedes-Benz GLS350d, a full-size luxury SUV, offers a blend of comfor
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### AIRMATIC Air Suspension
@@ -103,3 +116,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2017 Mercedes-Benz GLS350d is a capable and luxurious SUV with a generally solid mechanical foundation. The primary areas of concern tend to revolve around the diesel engine's emissions system (DPF and AdBlue) and the AIRMATIC air suspension. These components, while advanced, can be costly to repair if they fail. Electrical issues like battery drain are also noted, though not excessively common. For prospective buyers, a thorough pre-purchase inspection, especially focusing on the aforementioned systems, is highly recommended. Regular maintenance adhering to Mercedes-Benz's schedule is crucial for mitigating potential issues and ensuring long-term reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -73,6 +73,19 @@ The 2004 Mitsubishi Lancer, a compact car known for its sporty styling and affor
 - **Cost:** $400 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -127,3 +140,15 @@ The 2004 Mitsubishi Lancer, a compact car known for its sporty styling and affor
 --- 
 ### Summary Verdict
 The 2004 Mitsubishi Lancer generally presents a decent reliability record for its class, particularly the naturally aspirated engine variants. Common issues tend to revolve around the engine's head gasket and oil seals, as well as wear-and-tear items in the transmission and suspension, especially on higher-mileage examples. Electrical components like the alternator and window regulators can also be points of concern. For performance-oriented models (e.g., Evolution), the turbocharged engine and drivetrain require more diligent maintenance and can be prone to more significant failures if pushed hard or not properly cared for. Overall, with regular maintenance and attention to reported issues, the Lancer can be a dependable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

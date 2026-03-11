@@ -42,6 +42,19 @@ The 2018 Audi A3 Sportback e-tron is a premium compact hatchback that blends pra
 - **Cost:** $1,000 - $2,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -93,3 +106,15 @@ The 2018 Audi A3 Sportback e-tron is a premium compact hatchback that blends pra
 --- 
 ### Summary Verdict
 The 2018 Audi A3 Sportback e-tron presents a generally reliable package, particularly in its core mechanical and structural components. The primary areas requiring attention are related to its advanced plug-in hybrid system. Issues with the hybrid battery and charging system, while not universal, represent the most significant potential repair costs. Transmission issues, specifically with the S tronic dual-clutch gearbox, can also be costly. Engine reliability is typically good, but turbocharger and coolant system issues can arise. Electrical gremlins in the infotainment system are usually software-related and often resolvable with updates. Overall, for potential buyers, a thorough pre-purchase inspection focusing on the hybrid components and a review of maintenance history are highly recommended.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

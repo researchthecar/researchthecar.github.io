@@ -46,6 +46,19 @@ The 2011 Mitsubishi Outlander Sport, also known as the RVR in some markets, is a
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -85,3 +98,15 @@ The 2011 Mitsubishi Outlander Sport, also known as the RVR in some markets, is a
 --- 
 ### Summary Verdict
 The 2011 Mitsubishi Outlander Sport generally presents itself as a reliable vehicle with no significant widespread mechanical failures reported for its engine or suspension systems. The most commonly noted technical concern revolves around the Continuously Variable Transmission (CVT), which can occasionally exhibit hesitation or slight jerking, often resolvable with software updates or fluid services. Minor electrical issues, primarily related to the infotainment system's responsiveness, have also been documented. Overall, for its model year and segment, the Outlander Sport offers a decent reliability record, with most potential issues being relatively minor and manageable, making it a sensible choice for budget-conscious buyers seeking a practical compact SUV.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

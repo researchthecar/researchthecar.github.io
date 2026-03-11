@@ -53,6 +53,19 @@ The 2004 Chevrolet Classic, a rebadged Daewoo Lacetti for many markets, is gener
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -112,3 +125,15 @@ The 2004 Chevrolet Classic, a rebadged Daewoo Lacetti for many markets, is gener
 --- 
 ### Summary Verdict
 The 2004 Chevrolet Classic presents a generally reliable profile for its segment and age, with its powertrain options (1.6L, 1.8L, 2.0L engines and manual/automatic transmissions) showing few widespread issues. The primary areas where owners might encounter problems are related to the suspension, specifically worn bushings and strut mounts, and certain electrical components like window regulators and instrument clusters. Exterior issues tend to be cosmetic or age-related, such as rust and headlight clouding. Interior wear, particularly on the driver's seat, and HVAC blower motor failures are also noted. Overall, it's a sensible choice for budget-conscious buyers, provided potential buyers are aware of and prepared for these common, albeit not universal, repair points.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

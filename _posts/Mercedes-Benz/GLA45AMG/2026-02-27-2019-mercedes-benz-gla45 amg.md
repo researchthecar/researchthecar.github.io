@@ -42,6 +42,19 @@ The 2019 Mercedes-Benz GLA45 AMG, a compact performance SUV, generally offers a 
 - **Cost:** $1500 - $3000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### AMG Sport Suspension
@@ -81,3 +94,15 @@ The 2019 Mercedes-Benz GLA45 AMG, a compact performance SUV, generally offers a 
 --- 
 ### Summary Verdict
 The 2019 Mercedes-Benz GLA45 AMG is a performance-oriented vehicle that, while generally reliable, can present specific issues related to its high-output powertrain. The engine's turbocharger and PCV system are potential areas for concern, as is the sophisticated AMG SPEEDSHIFT dual-clutch transmission, particularly its mechatronics unit and clutch packs, especially if subjected to aggressive driving. Other systems like suspension, electrical, exterior, and interior components show good reliability with no widespread reported issues. Owners should be aware of these potential powertrain-related repairs, which can be costly, and ensure regular maintenance is performed to mitigate risks.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

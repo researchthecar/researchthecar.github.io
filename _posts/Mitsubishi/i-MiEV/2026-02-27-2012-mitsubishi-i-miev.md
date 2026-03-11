@@ -32,6 +32,19 @@ The 2012 Mitsubishi i-MiEV is a subcompact electric vehicle known for its urban 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Suspension
@@ -90,3 +103,15 @@ The 2012 Mitsubishi i-MiEV is a subcompact electric vehicle known for its urban 
 --- 
 ### Summary Verdict
 The 2012 Mitsubishi i-MiEV generally exhibits good reliability in its core electric powertrain components, with the electric motor and single-speed transmission being robust. However, as with many early EVs, the high-voltage battery pack is a significant concern for long-term ownership, with degradation and eventual replacement being a costly inevitability. Electrical issues, particularly with the onboard charger and the smaller 12V auxiliary battery, have also been noted. Beyond these electrical aspects, the i-MiEV is relatively free from widespread mechanical or structural problems, making it a dependable choice for city driving if the battery's condition and potential replacement cost are carefully considered.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

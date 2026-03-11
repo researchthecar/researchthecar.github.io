@@ -58,6 +58,19 @@ The 2004 Mitsubishi Space Star, a compact multi-purpose vehicle (MPV), offered a
 - **Cost:** $300 - $700
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -102,3 +115,15 @@ The 2004 Mitsubishi Space Star, a compact multi-purpose vehicle (MPV), offered a
 --- 
 ### Summary Verdict
 The 2004 Mitsubishi Space Star generally presents a mixed reliability profile. The diesel engines, while offering good economy, are more prone to issues like turbocharger and EGR valve problems. Petrol engines are relatively more robust, with ignition coil failures being a notable concern for the smaller displacement. Transmission issues are typically related to wear and tear on clutches for manuals and potential leaks for automatics. Suspension components like bushings and ball joints can wear out, leading to noise and handling issues. Electrical problems, such as alternator and window regulator failures, are also reported. Exterior rust can be a concern depending on climate and maintenance. Overall, while not plagued by widespread catastrophic failures, potential buyers should be aware of these common issues and factor in potential repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

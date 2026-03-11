@@ -42,6 +42,19 @@ The 2011 Cadillac Escalade EXT is a luxury full-size SUV with a focus on comfort
 - **Cost:** $400 - $2,000+
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Magnetic Ride Control (MRC)
@@ -87,3 +100,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2011 Cadillac Escalade EXT, powered by its potent 6.2L V8, offers a commanding presence. However, potential buyers should be aware of common issues such as Active Fuel Management (AFM) lifter problems and oil consumption, which can be costly to repair. The 6-speed automatic transmission can sometimes exhibit torque converter shudder or harsh shifting. While the standard chassis is generally robust, the premium Magnetic Ride Control suspension can develop leaks in its struts. Electrical gremlins, particularly with the infotainment system and various sensors, are also noted. Despite these potential drawbacks, many owners find the Escalade EXT to be a reliable and luxurious vehicle when these issues are addressed proactively.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

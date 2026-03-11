@@ -61,6 +61,19 @@ The 2022 Maserati Ghibli, a luxury sports sedan, offers a blend of Italian desig
 - **Cost:** $250 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Skyhook Suspension
@@ -128,3 +141,15 @@ The 2022 Maserati Ghibli, a luxury sports sedan, offers a blend of Italian desig
 --- 
 ### Summary Verdict
 The 2022 Maserati Ghibli presents a mixed reliability profile. While the V8 engine variant appears robust, the V6 engines have shown some susceptibility to oil leaks and turbocharger issues, which can be costly to repair. The ZF 8-speed automatic transmission, though generally reliable, can experience issues with harsh shifting or fluid leaks. Owners of models equipped with the adaptive air suspension should be aware of potential leaks. Electrical gremlins, particularly with the infotainment system and intermittent battery drain, are also noted concerns. Despite these points, the exterior and interior components, barring typical wear, are generally holding up well. Regular maintenance and prompt attention to early warning signs are crucial for maintaining the Ghibli's performance and longevity.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -46,6 +46,19 @@ The 2024 Maserati Ghibli, a luxury sports sedan, aims to blend performance with 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Air Suspension
@@ -99,3 +112,15 @@ The 2024 Maserati Ghibli, a luxury sports sedan, aims to blend performance with 
 --- 
 ### Summary Verdict
 The 2024 Maserati Ghibli presents a mixed reliability picture. While the powertrain options are generally robust with no widespread issues reported, potential owners should be mindful of the luxury vehicle's specific vulnerabilities. The adaptive air suspension is a notable area where component failures, such as leaks or compressor issues, can arise, leading to significant repair costs. Electrical systems, particularly the infotainment unit, can experience software glitches requiring updates or resets. Battery drain is another concern that may necessitate professional diagnosis. Exterior and interior components, including upholstery and body panels, appear to be holding up well with no major reported problems. Overall, the Ghibli offers a thrilling driving experience, but its reliability demands a proactive approach to maintenance and a budget that accounts for potential repairs in these specific areas.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

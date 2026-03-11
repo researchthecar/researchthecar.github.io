@@ -54,6 +54,19 @@ The 2011 Aston Martin V12 Vantage, a potent grand tourer, is celebrated for its 
 - **Cost:** $1,500 - $2,500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Damping System
@@ -96,3 +109,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2011 Aston Martin V12 Vantage, while a remarkable performance machine, exhibits some potential reliability concerns typical of exotic sports cars. The V12 engine, though powerful, can experience issues with ignition coils and coolant leaks. Transmissions, both manual and automated manual, may require attention for clutch wear or actuator/pump failures. The adaptive suspension can also develop issues with dampers. Electrical gremlins, particularly with the infotainment system and battery drain, are not uncommon. Exterior and interior components are generally robust, with no widespread critical failures reported. Owners should budget for potentially high repair costs and prioritize specialized maintenance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

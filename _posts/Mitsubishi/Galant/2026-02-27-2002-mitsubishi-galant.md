@@ -61,6 +61,19 @@ The 2002 Mitsubishi Galant, a mid-size sedan, offered a blend of comfort and pra
 - **Cost:** $600 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -126,3 +139,15 @@ The 2002 Mitsubishi Galant, a mid-size sedan, offered a blend of comfort and pra
 --- 
 ### Summary Verdict
 The 2002 Mitsubishi Galant generally presents as a reasonably reliable vehicle, particularly concerning its core mechanicals when properly maintained. However, common issues tend to surface with age and mileage. The 2.4L engine can be susceptible to timing belt-related problems if maintenance is neglected, and oil leaks are not uncommon. The V6 engine may face intake manifold gasket issues. Automatic transmissions can develop slipping or overheating problems, while manual transmissions are more prone to clutch wear. Electrical gremlins, often linked to the BCM, can manifest as intermittent faults. Exterior rust can be a concern in certain climates, and interior wear on high-contact areas like the driver's seat is typical. Overall, addressing scheduled maintenance, especially for the timing belt, and being aware of potential leaks and electrical quirks will contribute significantly to the long-term reliability of a 2002 Galant.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

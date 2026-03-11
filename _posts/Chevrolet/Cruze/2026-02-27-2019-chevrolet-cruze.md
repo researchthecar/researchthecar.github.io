@@ -63,6 +63,19 @@ The 2019 Chevrolet Cruze, a compact car offered in sedan and hatchback body styl
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -119,3 +132,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2019 Chevrolet Cruze generally presents a good reliability record, particularly for its gasoline engine and automatic transmission options. The 1.4L turbocharged engine can experience coolant leaks and turbocharger issues, while the diesel variant may encounter DPF and EGR problems, which are common for diesel powertrains. The manual transmission can have clutch wear, and some automatic transmissions have reported harsh shifting. Electrical gremlins, such as infotainment system glitches and battery drain, are also noted. Overall, the Cruze is a solid choice if routine maintenance is performed and potential issues are addressed promptly. The diesel engine's reliability is dependent on proper usage and maintenance of its emissions systems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

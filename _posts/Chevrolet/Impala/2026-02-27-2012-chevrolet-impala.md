@@ -54,6 +54,19 @@ The 2012 Chevrolet Impala is a mid-size sedan that, for its model year, offered 
 - **Cost:** $500 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -103,3 +116,15 @@ The 2012 Chevrolet Impala is a mid-size sedan that, for its model year, offered 
 --- 
 ### Summary Verdict
 The 2012 Chevrolet Impala generally presents a good reliability record, especially concerning its V6 powertrains which are known for their longevity. The most commonly reported issues tend to be related to the automatic transmission, particularly torque converter shudder and occasional gear slipping, which can be costly to repair. Engine components like intake manifold gaskets and oil cooler lines are also noted for potential leaks. Suspension components such as ball joints, tie rods, and struts can wear over time and require replacement. Electrical issues, while not pervasive, can include faulty window regulators and instrument cluster problems. Overall, with regular maintenance and attention to these potential problem areas, the 2012 Impala can be a dependable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -44,6 +44,19 @@ The 2024 Cadillac LYRIQ represents a significant step into the electric vehicle 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -118,3 +131,15 @@ The 2024 Cadillac LYRIQ represents a significant step into the electric vehicle 
 --- 
 ### Summary Verdict
 The 2024 Cadillac LYRIQ, as a first-generation all-electric vehicle, shows promising initial reliability. The electric powertrain and battery pack have not reported widespread issues, which is a strong indicator for EV longevity. The primary areas of concern are typical for new technology, such as potential software glitches within the advanced infotainment system and the occasional premature failure of the 12V auxiliary battery, which is crucial for powering vehicle electronics even in an EV. Other systems like suspension, exterior, and interior components appear to be holding up well. Overall, the LYRIQ is positioned as a reliable luxury electric SUV, with most potential issues being minor and software-related, or common to any vehicle's 12V system.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

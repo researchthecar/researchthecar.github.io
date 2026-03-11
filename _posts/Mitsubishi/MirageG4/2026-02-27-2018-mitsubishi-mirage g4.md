@@ -39,6 +39,19 @@ The 2018 Mitsubishi Mirage G4 is a subcompact sedan known for its affordability 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Torsion Beam Rear
@@ -85,3 +98,15 @@ The 2018 Mitsubishi Mirage G4 is a subcompact sedan known for its affordability 
 --- 
 ### Summary Verdict
 The 2018 Mitsubishi Mirage G4 generally presents as a reliable vehicle for its price point, with its core mechanical components like the engine and suspension showing few widespread issues. However, potential owners should be aware of some common concerns, particularly with the Continuously Variable Transmission (CVT), which can sometimes exhibit hesitation or shuddering. Electrical gremlins, such as infotainment system connectivity problems and premature battery drain, are also noted. While these issues are not universal, they represent the most frequent technical reliability concerns beyond routine maintenance. For budget-conscious buyers prioritizing basic transportation and fuel economy, the Mirage G4 can be a suitable choice, provided they are prepared for potential minor repairs related to its transmission and electrical systems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

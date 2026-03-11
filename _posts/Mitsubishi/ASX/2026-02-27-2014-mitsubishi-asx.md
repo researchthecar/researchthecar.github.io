@@ -46,6 +46,19 @@ The 2014 Mitsubishi ASX, also known as the Outlander Sport in some markets, is a
 - **Cost:** $150 - $350
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Suspension
@@ -111,3 +124,15 @@ The 2014 Mitsubishi ASX, also known as the Outlander Sport in some markets, is a
 --- 
 ### Summary Verdict
 The 2014 Mitsubishi ASX demonstrates good overall reliability, with its core mechanical components, particularly the petrol engines, being quite dependable. The primary areas where minor issues have been noted are the CVT transmission (occasional hesitation), certain suspension components (strut mounts, bushings) leading to noise, and some electrical quirks like infotainment connectivity and power window operation. Exterior and interior components are generally robust. With routine maintenance, the ASX should provide a trouble-free ownership experience for most drivers, making it a solid choice in the compact SUV segment for those prioritizing value and dependability over luxury features.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

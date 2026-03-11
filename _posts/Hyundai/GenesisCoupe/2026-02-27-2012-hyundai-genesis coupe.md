@@ -51,6 +51,19 @@ The 2012 Hyundai Genesis Coupe is a rear-wheel-drive sports coupe that offered a
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -95,3 +108,15 @@ The 2012 Hyundai Genesis Coupe is a rear-wheel-drive sports coupe that offered a
 --- 
 ### Summary Verdict
 The 2012 Hyundai Genesis Coupe, particularly with the 3.8L V6 engine and either transmission, presents a generally reliable option. The 2.0L Turbo engine, while offering more spirited performance, has a higher propensity for specific issues like turbocharger problems and oil consumption, which can be costly to repair. Transmission reliability is good across both manual and automatic options, though clutch wear is a common maintenance item for manuals. Electrical components like window regulators and infotainment systems can occasionally develop faults. Exterior paint issues and interior seat wear are also noted. Prospective buyers should pay close attention to the maintenance history and condition of the turbocharger and oil consumption on 2.0T models.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

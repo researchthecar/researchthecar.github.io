@@ -54,6 +54,19 @@ The 2008 Chevrolet Impala, a popular mid-size sedan, offered a range of powertra
 - **Cost:** $200 - $500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -105,3 +118,15 @@ The 2008 Chevrolet Impala, a popular mid-size sedan, offered a range of powertra
 --- 
 ### Summary Verdict
 The 2008 Chevrolet Impala is a generally dependable vehicle, particularly with the 3.5L V6 engine. However, owners should be aware of potential issues with intake manifold gaskets and oil pressure sensors on this engine. The 3.9L V6, while offering more power, carries a higher risk of timing chain and VVT system problems. Transmission issues, primarily with the torque converter and fluid leaks, are also noted. Electrical gremlins, especially related to the BCM and alternator, can arise. Suspension components like struts and control arms may require attention due to wear. Overall, with diligent maintenance and awareness of these common problems, the 2008 Impala can remain a cost-effective and functional daily driver.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

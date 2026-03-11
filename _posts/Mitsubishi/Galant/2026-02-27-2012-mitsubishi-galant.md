@@ -39,6 +39,19 @@ The 2012 Mitsubishi Galant, though a model nearing the end of its production run
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Rear
@@ -83,3 +96,15 @@ The 2012 Mitsubishi Galant, though a model nearing the end of its production run
 --- 
 ### Summary Verdict
 The 2012 Mitsubishi Galant is a reasonably reliable vehicle, particularly in its powertrain. The 2.4L engine and available automatic and manual transmissions have shown good durability. The primary areas where owners might encounter issues are related to age-specific electrical components, such as power window motors and alternators. Suspension and exterior/interior components generally hold up well. While not immune to problems, the Galant offers a solid ownership experience for its segment, provided routine maintenance is performed. It's a practical choice for budget-conscious buyers prioritizing dependability over advanced features.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

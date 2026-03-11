@@ -47,6 +47,19 @@ The 2018 Mercedes-Benz CLA45 AMG, a high-performance compact luxury sedan, gener
 - **Cost:** $2,000 - $4,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### AMG Sport Suspension
@@ -100,3 +113,15 @@ The 2018 Mercedes-Benz CLA45 AMG, a high-performance compact luxury sedan, gener
 --- 
 ### Summary Verdict
 The 2018 Mercedes-Benz CLA45 AMG is a performance-oriented vehicle with a generally good reliability record for its class. The primary areas of concern tend to be related to its high-output powertrain, specifically potential issues with the turbocharger, transmission control module, and clutch packs, which can be costly to repair. Electrical gremlins, such as infotainment system glitches and intermittent battery drain, are also noted. However, many owners report satisfaction with the vehicle's overall dependability, provided regular maintenance is performed. Addressing potential issues proactively can help mitigate larger repair bills.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

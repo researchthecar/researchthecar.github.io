@@ -78,6 +78,19 @@ The 2016 Ford Transit Custom is a popular commercial van known for its practical
 - **Cost:** $900 - $1600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -143,3 +156,15 @@ The 2016 Ford Transit Custom is a popular commercial van known for its practical
 --- 
 ### Summary Verdict
 The 2016 Ford Transit Custom generally offers good reliability for a commercial vehicle, with most issues being manageable and repairable. The 2.2L TDCi diesel engines, while robust, can be prone to turbocharger and EGR valve issues, which are common in many diesel applications. Manual transmissions may require clutch replacements over time, and automatic variants can experience fluid leaks or torque converter problems. Suspension components like bushings and shocks are subject to wear, especially under heavy use. Electrical gremlins, particularly with the BCM, and battery drain can occur. Exterior rust is a concern in certain climates, and interior components like the HVAC blower motor and infotainment system can also develop faults. Regular maintenance and prompt attention to early symptoms are key to maintaining the long-term reliability of the Transit Custom.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

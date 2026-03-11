@@ -52,6 +52,19 @@ The 2006 Mercedes-Benz SL65 AMG, a high-performance grand tourer, is renowned fo
 - **Cost:** $1,500 - $3,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Active Body Control (ABC)
@@ -113,3 +126,15 @@ The 2006 Mercedes-Benz SL65 AMG, a high-performance grand tourer, is renowned fo
 --- 
 ### Summary Verdict
 The 2006 Mercedes-Benz SL65 AMG is a pinnacle of automotive engineering, but its complexity, particularly the V12 twin-turbo engine and Active Body Control suspension, means potential for significant repair costs. Common issues revolve around the turbochargers, intercoolers, ABC system hydraulics, and the retractable hardtop. Electrical gremlins, often related to control modules like the SAM, can also arise. While the core powertrain is robust when maintained, the sheer number of specialized components means that proactive maintenance and a budget for potential repairs are essential for ownership. Owners should seek out specialists familiar with AMG and V12 platforms for diagnosis and repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

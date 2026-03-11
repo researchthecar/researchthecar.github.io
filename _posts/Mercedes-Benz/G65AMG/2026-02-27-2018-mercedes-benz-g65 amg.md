@@ -37,6 +37,19 @@ The 2018 Mercedes-Benz G65 AMG, a pinnacle of luxury and performance, is renowne
 - **Cost:** $1,000 - $2,500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Solid Axle Suspension
@@ -86,3 +99,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2018 Mercedes-Benz G65 AMG is a highly exclusive and powerful SUV. While its core mechanical components, particularly the engine and transmission, are built to handle immense power, they are not immune to issues. Turbocharger failures and coolant leaks are the most notable engine concerns. The transmission can sometimes suffer from TCM malfunctions. Electrical gremlins, such as infotainment system glitches and battery drain, are also reported. Suspension bushings can wear over time, leading to minor handling and noise issues. Overall, the G65 AMG offers a robust ownership experience, but potential buyers should be aware of the high cost associated with repairs for its specialized components.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -56,6 +56,19 @@ The 2001 Mitsubishi Eclipse, a sporty compact coupe, offered a range of engine a
 - **Cost:** $600 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -100,3 +113,15 @@ The 2001 Mitsubishi Eclipse, a sporty compact coupe, offered a range of engine a
 --- 
 ### Summary Verdict
 The 2001 Mitsubishi Eclipse can be a reliable car if well-maintained, but specific powertrain options, particularly the turbocharged engine, are more prone to significant issues like turbocharger failure and head gasket problems. Automatic transmission issues, such as slipping gears, are also noted. Common wear items include suspension components and clutch wear on manual transmissions. Electrical gremlins like power window motors and alternators can also surface. Rust is a concern for older models, especially in certain climates. Prospective buyers should carefully inspect any vehicle for these potential problems and factor in potential repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

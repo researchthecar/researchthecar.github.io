@@ -68,6 +68,19 @@ The 2018 Ford Transit Custom is a popular choice in the commercial van segment, 
 - **Cost:** $400 - $2000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -128,3 +141,15 @@ The 2018 Ford Transit Custom is a popular choice in the commercial van segment, 
 --- 
 ### Summary Verdict
 The 2018 Ford Transit Custom demonstrates good overall reliability, particularly in its suspension, exterior, and interior components, where no significant widespread issues are reported. The primary areas requiring attention tend to be related to the diesel engine's emissions control systems (DPF and AdBlue), especially under conditions that limit regular regeneration cycles. Transmission issues, while not pervasive, can occur, with clutch wear on manuals and occasional electronic control glitches on automatics being noted. Electrical concerns are generally limited to battery longevity and occasional infotainment system glitches. Regular maintenance, mindful driving habits for diesel emissions systems, and prompt attention to warning lights are key to maintaining the Transit Custom's dependable service.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

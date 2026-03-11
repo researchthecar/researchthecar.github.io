@@ -73,6 +73,19 @@ The 2010 Chevrolet Cobalt, a compact car, offered a range of powertrain options 
 - **Cost:** $400 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -132,3 +145,15 @@ The 2010 Chevrolet Cobalt, a compact car, offered a range of powertrain options 
 --- 
 ### Summary Verdict
 The 2010 Chevrolet Cobalt, while generally an economical choice, exhibits some common reliability concerns typical for its age and class. Engine issues, particularly oil consumption and leaks on the 2.4L and timing chain problems on the 2.2L, are notable. Automatic transmission issues like harsh shifting and potential TCM failures are also reported. Suspension components such as struts and ball joints can wear out, leading to ride quality and steering issues. Electrical gremlins, including power window motors and alternator failures, are present. Exterior rust can be a concern in certain climates. Interiorly, HVAC blower motors and dashboard cracking are the most frequently cited problems. Regular maintenance and prompt attention to early symptoms are crucial for mitigating these potential issues and ensuring the longevity of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

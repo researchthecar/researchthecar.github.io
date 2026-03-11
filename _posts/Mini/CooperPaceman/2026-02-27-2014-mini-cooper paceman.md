@@ -56,6 +56,19 @@ The 2014 Mini Cooper Paceman, a distinctive three-door compact SUV, offers a ble
 - **Cost:** $400 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -105,3 +118,15 @@ The 2014 Mini Cooper Paceman, a distinctive three-door compact SUV, offers a ble
 --- 
 ### Summary Verdict
 The 2014 Mini Cooper Paceman presents a mixed reliability profile. While its engaging driving experience and distinctive design are strong selling points, potential owners should be aware of common issues, particularly concerning the engine's timing chain and oil seals, especially in the turbocharged Cooper S variants. Transmission problems, though not universal, can also arise, particularly with the automatic. Electrical gremlins like power window regulators and sensor failures are also noted. However, the exterior and general chassis components tend to be more robust. Regular maintenance and prompt attention to early signs of trouble can help mitigate these potential reliability concerns and ensure a more enjoyable ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

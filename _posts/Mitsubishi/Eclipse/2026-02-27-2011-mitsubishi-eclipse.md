@@ -70,6 +70,19 @@ The 2011 Mitsubishi Eclipse, in its final model year, offered a blend of sporty 
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -124,3 +137,15 @@ The 2011 Mitsubishi Eclipse, in its final model year, offered a blend of sporty 
 --- 
 ### Summary Verdict
 The 2011 Mitsubishi Eclipse is a reasonably reliable sports coupe, with most reported issues falling into predictable categories for a vehicle of its age and performance focus. Common concerns include oil leaks and timing belt maintenance for the 2.4L engine, and intake manifold issues for the V6. Automatic transmission fluid leaks can occur, and manual clutch wear is a possibility with high mileage or aggressive driving. Suspension components like ball joints and struts are also common wear items. Electrical issues such as power window motors and alternators are not uncommon. Exterior rust can be a concern in certain climates, and interior wear on seats is also noted. Overall, with regular maintenance and addressing these specific potential problems, the 2011 Eclipse can provide a fun and dependable driving experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

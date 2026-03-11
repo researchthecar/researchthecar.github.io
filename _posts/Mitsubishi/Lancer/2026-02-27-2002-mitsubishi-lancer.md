@@ -56,6 +56,19 @@ The 2002 Mitsubishi Lancer, a compact sedan known for its sporty styling and aff
 - **Cost:** $200 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -105,3 +118,15 @@ The 2002 Mitsubishi Lancer, a compact sedan known for its sporty styling and aff
 --- 
 ### Summary Verdict
 The 2002 Mitsubishi Lancer generally presents as a reasonably reliable vehicle, especially the non-turbocharged variants. Common issues tend to revolve around typical wear items for a car of this age, such as suspension components and clutch wear in manual transmissions. Engine-related problems like oil and coolant leaks are not uncommon and are usually manageable. For performance-oriented models like the Evolution, the turbocharged engine and its associated systems can be more prone to issues if not meticulously maintained. Electrical components like alternators and window regulators can also be points of failure. Rust can be a concern depending on the vehicle's climate history. Overall, with diligent maintenance and addressing issues promptly, the 2002 Lancer can remain a dependable daily driver.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

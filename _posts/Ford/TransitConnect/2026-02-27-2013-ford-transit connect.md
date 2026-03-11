@@ -60,6 +60,19 @@ The 2013 Ford Transit Connect, a compact commercial van, was designed for utilit
 - **Cost:** $700 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -99,3 +112,15 @@ The 2013 Ford Transit Connect, a compact commercial van, was designed for utilit
 --- 
 ### Summary Verdict
 The 2013 Ford Transit Connect is a capable commercial vehicle with a few common areas of concern. Engine issues, particularly with the diesel particulate filter and turbochargers on specific engines, are notable. Transmission problems, especially with the automatic, and suspension wear are also reported. Electrical gremlins like battery drain and interior component failures such as HVAC blower motors are less frequent but still present. Overall, while not immune to issues, many problems are repairable with moderate costs, making it a viable option if well-maintained.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

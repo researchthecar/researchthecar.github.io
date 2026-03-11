@@ -49,6 +49,19 @@ The 2011 Lamborghini Gallardo, a mid-engine V10 supercar, is renowned for its ex
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard/Optional Lift System
@@ -93,3 +106,15 @@ The 2011 Lamborghini Gallardo, a mid-engine V10 supercar, is renowned for its ex
 --- 
 ### Summary Verdict
 The 2011 Lamborghini Gallardo is a highly desirable supercar with a generally strong mechanical foundation. The most commonly reported issues tend to revolve around the E-gear transmission's hydraulic system (pump and actuators) and clutch components, which are expected given the nature of automated manual transmissions in high-performance vehicles. Electrical gremlins, particularly with the infotainment system, can also occur. While the V10 engine itself is robust, attention to oil levels and potential leaks is advised. The manual transmission variant offers a more straightforward and potentially more reliable experience in terms of the gearbox. Owners should budget for specialized maintenance and potential repairs, as parts and labor for exotic cars are significantly more expensive than for mainstream vehicles. Regular servicing by qualified technicians is paramount for long-term reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

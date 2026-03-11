@@ -54,6 +54,19 @@ The 2018 Chevrolet Impala is a full-size sedan that offered a comfortable ride a
 - **Cost:** $1000 - $3000+
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -98,3 +111,15 @@ The 2018 Chevrolet Impala is a full-size sedan that offered a comfortable ride a
 --- 
 ### Summary Verdict
 The 2018 Chevrolet Impala presents a mixed reliability profile. While the suspension, exterior, and interior components generally hold up well with no widespread reported issues, owners should be aware of potential concerns within the powertrain and electrical systems. The 2.5L and 3.6L engines can experience oil or coolant leaks and, in the case of the V6, timing chain issues. The 6-speed automatic transmission may exhibit hesitation or slipping. Electrical problems, particularly with the infotainment system and battery drain, are also noted. Regular maintenance and prompt attention to early symptoms are crucial for mitigating these potential reliability challenges and ensuring a positive ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

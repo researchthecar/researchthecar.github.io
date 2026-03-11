@@ -39,6 +39,19 @@ The 2018 Dodge Attitude, a subcompact sedan primarily sold in Mexico and other L
 - **Cost:** $300 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Torsion Beam Rear
@@ -99,3 +112,15 @@ The 2018 Dodge Attitude, a subcompact sedan primarily sold in Mexico and other L
 --- 
 ### Summary Verdict
 The 2018 Dodge Attitude presents itself as a generally dependable subcompact car with a focus on affordability and basic transportation. Its mechanical simplicity, particularly with the 1.6L engine and manual transmission, contributes to a solid reliability record. The CVT, while offering convenience, shows a slight tendency towards hesitation or jerking, which can often be addressed with maintenance. Electrical gremlins, such as infotainment system glitches and occasional battery issues, are the most frequently noted concerns, though typically not catastrophic. Exterior and interior components are largely free of widespread problems, with minor issues like headlight condensation being relatively uncommon. Overall, the Attitude is a sensible choice for budget-conscious buyers prioritizing low running costs and straightforward operation over advanced features or performance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -72,6 +72,19 @@ The 2009 Chevrolet Cobalt, a compact car, offered a range of powertrain options 
 - **Cost:** $300 - $1500+
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -121,3 +134,15 @@ The 2009 Chevrolet Cobalt, a compact car, offered a range of powertrain options 
 --- 
 ### Summary Verdict
 The 2009 Chevrolet Cobalt presents a mixed reliability profile. While its suspension and exterior components are generally robust, potential buyers should be aware of common issues within the powertrain, particularly with the 2.0L supercharged engine (turbocharger, oil leaks) and the 2.4L engine (oil consumption). The automatic transmission can also experience slipping or harsh shifting. Electrical gremlins like failing power window motors and ignition switches, along with interior issues such as HVAC blower motor and door lock actuator failures, are also noted. Regular maintenance and addressing these specific potential problems proactively can help mitigate long-term ownership costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

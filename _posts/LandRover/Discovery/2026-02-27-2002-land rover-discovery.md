@@ -54,6 +54,19 @@ The 2002 Land Rover Discovery, often known as the Discovery 2, is a capable off-
 - **Cost:** $700 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Coil Spring Suspension
@@ -130,3 +143,15 @@ The 2002 Land Rover Discovery, often known as the Discovery 2, is a capable off-
 --- 
 ### Summary Verdict
 The 2002 Land Rover Discovery presents a classic case of a capable but potentially high-maintenance vehicle. Its V8 engine, while powerful, is prone to significant issues like head gasket failure and oil leaks, demanding attention and budget. Transmission issues, particularly with the automatic, can also be costly. The suspension, especially the air-ride system, requires diligent upkeep to avoid leaks and compressor failures. Electrical gremlins, often stemming from the BCU or wiring, are a common frustration. Exterior rust is a significant concern for longevity. While it excels off-road, potential owners should be prepared for ongoing maintenance and the possibility of substantial repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

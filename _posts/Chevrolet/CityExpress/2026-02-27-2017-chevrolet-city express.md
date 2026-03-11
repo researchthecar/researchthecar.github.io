@@ -32,6 +32,19 @@ The 2017 Chevrolet City Express is a compact cargo van designed for urban commer
 - **Cost:** $300 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Front-Wheel Drive
@@ -76,3 +89,15 @@ The 2017 Chevrolet City Express is a compact cargo van designed for urban commer
 --- 
 ### Summary Verdict
 The 2017 Chevrolet City Express demonstrates reasonable reliability for a commercial van in its segment. The powertrain, particularly the 2.0L engine, is generally robust. The CVT transmission is the most frequently cited area for potential issues, with some owners reporting hesitation or shuddering, often addressable with maintenance or software updates. Electrical gremlins, such as infotainment glitches and battery drain, are also noted but not considered widespread critical failures. Overall, the City Express is a practical and dependable choice for light commercial duties, provided routine maintenance is performed and potential CVT nuances are monitored.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -51,6 +51,19 @@ The 2015 Chevrolet Matiz, a subcompact city car, generally presents a mixed bag 
 - **Cost:** $400 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -95,3 +108,15 @@ The 2015 Chevrolet Matiz, a subcompact city car, generally presents a mixed bag 
 --- 
 ### Summary Verdict
 The 2015 Chevrolet Matiz is a budget-friendly city car that, while generally functional, exhibits some common reliability concerns. The 1.0L engine can be prone to cooling system leaks and ignition coil issues. Transmission problems, particularly with the automatic, may manifest as harsh shifting. Suspension components like ball joints and tie rod ends can wear prematurely, leading to noise and steering issues. Electrical gremlins, such as alternator failures and power window problems, are also reported. The exterior generally holds up well, but interior components like the HVAC blower motor can fail. Regular maintenance and prompt attention to early warning signs are crucial for mitigating these potential issues and ensuring a more reliable ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -51,6 +51,19 @@ The 2001 Chevrolet Metro, a subcompact car known for its fuel efficiency and aff
 - **Cost:** $300 - $600 (fluid service); $1500 - $3000 (rebuild/replacement)
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front / Torsion Beam Rear
@@ -105,3 +118,15 @@ The 2001 Chevrolet Metro, a subcompact car known for its fuel efficiency and aff
 --- 
 ### Summary Verdict
 The 2001 Chevrolet Metro is a budget-friendly vehicle that can offer reliable transportation if well-maintained. Its primary strengths lie in its fuel economy and low purchase price. However, common issues such as head gasket failures on the 1.0L engine, timing belt concerns on the 1.3L, and potential transmission problems with the automatic variant require attention. Electrical components like the alternator can also be a point of failure. Rust is a significant concern for older models, especially in areas with harsh weather. While not a luxury vehicle, addressing these potential issues proactively can ensure the Metro remains a cost-effective daily driver.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

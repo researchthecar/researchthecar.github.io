@@ -44,6 +44,19 @@ The 2015 BMW ActiveHybrid 3, a performance-oriented hybrid sedan, generally exhi
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -90,3 +103,15 @@ The 2015 BMW ActiveHybrid 3, a performance-oriented hybrid sedan, generally exhi
 --- 
 ### Summary Verdict
 The 2015 BMW ActiveHybrid 3 is a generally reliable vehicle, particularly concerning its core gasoline engine and transmission. The primary areas of concern tend to revolve around the hybrid system's battery and associated electronics, which can be costly to repair or replace if issues arise. Electrical gremlins, especially within the infotainment system, are also noted but often resolvable with software updates. Owners should be aware of the potential for hybrid battery degradation over time, a common characteristic of hybrid vehicles. Overall, with proper maintenance and attention to potential hybrid-specific issues, the ActiveHybrid 3 offers a dependable and engaging driving experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

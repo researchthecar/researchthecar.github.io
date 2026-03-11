@@ -37,6 +37,19 @@ The 2014 BMW 640i xDrive Gran Coupe, a luxurious four-door coupe, generally offe
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Drive (Optional)
@@ -82,3 +95,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2014 BMW 640i xDrive Gran Coupe is a generally reliable luxury vehicle, with its robust 3.0L inline-6 engine and 8-speed automatic transmission being standout performers. The most commonly cited issues tend to be related to the optional Adaptive Drive suspension components and occasional electrical gremlins within the iDrive system or keyless entry sensors. While the turbocharger wastegate rattle and PCV valve issues are known, they are often addressable with proper maintenance and timely repairs. Overall, the 640i xDrive offers a compelling blend of performance and luxury, with a reliability profile that, while not flawless, is competitive within its segment, provided potential buyers are aware of and prepared for these specific potential concerns.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

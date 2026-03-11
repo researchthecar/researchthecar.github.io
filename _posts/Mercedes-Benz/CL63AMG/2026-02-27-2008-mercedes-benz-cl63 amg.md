@@ -47,6 +47,19 @@ The 2008 Mercedes-Benz CL63 AMG, a high-performance grand tourer, offers a poten
 - **Cost:** $1,000 - $2,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### ABC (Active Body Control)
@@ -96,3 +109,15 @@ The 2008 Mercedes-Benz CL63 AMG, a high-performance grand tourer, offers a poten
 --- 
 ### Summary Verdict
 The 2008 Mercedes-Benz CL63 AMG is a powerful and luxurious coupe, but its advanced systems, particularly the ABC suspension and the M156 engine, can be sources of significant repair costs. While the engine and transmission are generally robust, specific components like camshafts and the transmission control module can fail. The Active Body Control suspension is known for its complexity and potential for costly hydraulic leaks or pump failures. Electrical gremlins and sensor issues are also possibilities in a vehicle of this age and complexity. Prospective buyers should be prepared for higher-than-average maintenance and repair expenses, especially concerning the specialized performance systems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

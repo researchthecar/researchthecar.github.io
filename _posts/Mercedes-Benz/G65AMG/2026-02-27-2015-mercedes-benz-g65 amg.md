@@ -47,6 +47,19 @@ The 2015 Mercedes-Benz G65 AMG, a pinnacle of luxury and performance, is renowne
 - **Cost:** $1,500 - $3,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Damping System
@@ -85,3 +98,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2015 Mercedes-Benz G65 AMG is a highly specialized and powerful vehicle. While its core mechanical components are generally robust, owners should be aware of potential issues with the twin-turbo V12 engine's turbochargers and cooling system, as well as the automatic transmission's control module and torque converter. The adaptive damping system in the suspension can also be a source of repair costs. Electrical gremlins, particularly with the infotainment system and parasitic battery drain, are not uncommon in high-end vehicles of this era. Despite these potential concerns, the G65 AMG remains a desirable and capable machine, with most issues being repairable, albeit at a premium cost reflective of its luxury and performance status.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

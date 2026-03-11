@@ -44,6 +44,19 @@ The 2002 Mitsubishi Diamante, a mid-size sedan known for its comfortable ride an
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -98,3 +111,15 @@ The 2002 Mitsubishi Diamante, a mid-size sedan known for its comfortable ride an
 --- 
 ### Summary Verdict
 The 2002 Mitsubishi Diamante is a reasonably reliable vehicle, particularly with its 5-speed automatic transmission and standard suspension components showing fewer widespread issues. The 3.5L V6 engine, while generally robust, can be prone to issues like intake manifold gasket leaks and requires diligent maintenance of the timing belt. Electrical components, such as power window motors and instrument clusters, are areas where owners might encounter problems. Exterior paint, specifically clear coat degradation, is a common cosmetic concern for vehicles of this age. Interior issues like HVAC blower motor failure are also noted. Overall, with proactive maintenance and attention to these specific potential problem areas, the Diamante can remain a dependable car.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

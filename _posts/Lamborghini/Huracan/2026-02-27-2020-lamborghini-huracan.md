@@ -39,6 +39,19 @@ The 2020 Lamborghini Huracan, a celebrated supercar, generally exhibits strong m
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Magnetorheological Dampers
@@ -99,3 +112,15 @@ The 2020 Lamborghini Huracan, a celebrated supercar, generally exhibits strong m
 --- 
 ### Summary Verdict
 The 2020 Lamborghini Huracan demonstrates commendable reliability for a vehicle of its performance class. The naturally aspirated V10 engine and dual-clutch transmission are exceptionally robust, with no significant widespread mechanical failures reported. Electrical systems, while generally reliable, can occasionally present minor infotainment glitches or intermittent battery drain issues, which are typically resolvable through software updates or component diagnosis. Exterior and interior components maintain a high standard, with no common durability concerns. Overall, the Huracan is a dependable supercar, provided it receives diligent maintenance and specialized care.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

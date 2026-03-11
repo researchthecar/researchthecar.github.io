@@ -42,6 +42,19 @@ The 2012 Aston Martin Virage represents a pinnacle of British luxury grand touri
 - **Cost:** $1500 - $3000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Dampers
@@ -102,3 +115,15 @@ The 2012 Aston Martin Virage represents a pinnacle of British luxury grand touri
 --- 
 ### Summary Verdict
 The 2012 Aston Martin Virage is a sophisticated grand tourer with a generally strong reliability record for its class. While not immune to issues, particularly those related to complex electronic systems and high-performance components, widespread failures are rare. Common concerns tend to be related to potential coolant leaks from the V12 engine, transmission fluid leaks, and occasional electronic glitches within the infotainment system or adaptive suspension. Repairs, when needed, are typically expensive and require specialized knowledge and parts. Owners should prioritize regular, professional maintenance to ensure the longevity and optimal performance of this exclusive vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

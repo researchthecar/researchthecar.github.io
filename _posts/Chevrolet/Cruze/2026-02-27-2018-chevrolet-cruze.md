@@ -63,6 +63,19 @@ The 2018 Chevrolet Cruze is a compact car that offered a range of engine and tra
 - **Cost:** $300 - $1800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -107,3 +120,15 @@ The 2018 Chevrolet Cruze is a compact car that offered a range of engine and tra
 --- 
 ### Summary Verdict
 The 2018 Chevrolet Cruze generally demonstrates good reliability, particularly with its standard gasoline engine and automatic transmissions. The most frequently reported technical concerns tend to revolve around the turbocharger system and potential coolant leaks on the 1.4L engine, as well as DPF and EGR issues on the diesel variant. Transmission issues, while not pervasive, can include hesitation or harsh shifting, often addressable with software updates or fluid services. Electrical gremlins, such as infotainment system glitches and occasional battery drain, are also noted but typically manageable. Overall, the Cruze is a solid choice for a compact car, with most potential issues being repairable and not indicative of systemic design flaws.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -44,6 +44,19 @@ The 2012 Chevrolet Matiz, a subcompact city car, generally presents a mixed reli
 - **Cost:** $300 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -88,3 +101,15 @@ The 2012 Chevrolet Matiz, a subcompact city car, generally presents a mixed reli
 --- 
 ### Summary Verdict
 The 2012 Chevrolet Matiz is a budget-friendly city car that offers decent functionality for its class. Its primary strengths lie in its compact size and fuel economy. However, reliability can be a concern, with common issues reported in the engine (oil and cooling leaks), transmission (clutch wear on manuals, harsh shifting on automatics), and electrical systems (alternator and window regulators). Suspension components like ball joints and tie rods may also require attention. While the exterior generally holds up well, interior components like the HVAC blower motor can be a point of failure. Prospective owners should factor in potential repair costs for these known issues, especially on higher-mileage examples.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

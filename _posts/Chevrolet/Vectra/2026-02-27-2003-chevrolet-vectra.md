@@ -63,6 +63,19 @@ The 2003 Chevrolet Vectra, a mid-size family car, offered a range of engine and 
 - **Cost:** $400 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -128,3 +141,15 @@ The 2003 Chevrolet Vectra, a mid-size family car, offered a range of engine and 
 --- 
 ### Summary Verdict
 The 2003 Chevrolet Vectra presents a mixed reliability profile. Common issues tend to revolve around specific engine variants, particularly the timing chain on the 2.2L and turbocharger components on the 2.0T. Transmission issues, especially bearing wear in manual gearboxes and solenoid problems in automatics, are also noted. Electrical gremlins, often linked to the BCM, and rust in common areas are other points of concern. While not plagued by widespread catastrophic failures, potential buyers should be aware of these specific weak points and ensure thorough inspection and maintenance history review.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

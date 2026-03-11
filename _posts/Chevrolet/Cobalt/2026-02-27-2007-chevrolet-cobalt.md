@@ -80,6 +80,19 @@ The 2007 Chevrolet Cobalt, a compact car, offered a range of powertrain options 
 - **Cost:** $600 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -139,3 +152,15 @@ The 2007 Chevrolet Cobalt, a compact car, offered a range of powertrain options 
 --- 
 ### Summary Verdict
 The 2007 Chevrolet Cobalt presents a mixed reliability profile. The Ecotec engines, particularly the 2.2L, are generally considered robust but can suffer from oil leaks and timing chain issues. The 2.4L and 2.0L Turbo variants are more prone to oil consumption and specific component failures like VVT actuators or turbocharger problems, respectively. Automatic transmissions (4T45-E) are a common source of concern, with slipping and harsh shifting being prevalent. Manual transmissions are typically more reliable, though clutch wear and shifter cable issues can arise. Suspension components like strut mounts and ball joints are typical wear items. Electrical issues, such as window regulators and ignition switches, are also noted. Exterior rust can be a concern in certain climates. Overall, while the Cobalt can be an economical choice, potential buyers should be aware of these common issues and factor in potential repair costs, especially for the automatic transmission and more complex engine variants.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

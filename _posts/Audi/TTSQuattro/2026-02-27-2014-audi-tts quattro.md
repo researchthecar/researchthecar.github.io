@@ -49,6 +49,19 @@ The 2014 Audi TTS Quattro, a performance-oriented variant of the TT model, is ge
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Magnetic Ride Control (Optional)
@@ -95,3 +108,15 @@ The 2014 Audi TTS Quattro, a performance-oriented variant of the TT model, is ge
 --- 
 ### Summary Verdict
 The 2014 Audi TTS Quattro offers a compelling blend of performance and style. While the 2.0L TFSI engine and S tronic transmission are generally robust, potential owners should be aware of possible issues such as PCV valve failures and water pump leaks for the engine, and mechatronic unit or clutch pack concerns for the S tronic transmission. The optional Magnetic Ride Control can also be a source of expense if dampers fail. Electrical gremlins, particularly with the infotainment system, are not uncommon. Despite these potential issues, with proper maintenance and addressing concerns promptly, the 2014 TTS Quattro can remain a reliable and enjoyable performance car.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

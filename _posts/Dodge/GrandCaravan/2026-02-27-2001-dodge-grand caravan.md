@@ -66,6 +66,19 @@ The 2001 Dodge Grand Caravan, a popular choice for families, offered a blend of 
 - **Cost:** $700 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -138,3 +151,15 @@ The 2001 Dodge Grand Caravan, a popular choice for families, offered a blend of 
 --- 
 ### Summary Verdict
 The 2001 Dodge Grand Caravan is a practical minivan with several known mechanical and electrical weak points. The most common issues revolve around the automatic transmission, particularly slipping and harsh shifting, and engine-related problems like intake manifold leaks and head gasket failures on the 2.4L models. Electrical components, such as power window motors and the instrument cluster, can also be a source of frustration. Exterior rust and issues with sliding door mechanisms are also frequently reported. While not inherently unreliable, prospective buyers and current owners should be aware of these potential repair costs and prioritize maintenance, especially for the transmission and engine cooling system.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

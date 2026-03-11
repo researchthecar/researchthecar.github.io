@@ -42,6 +42,19 @@ The 2012 Cadillac Escalade EXT is a luxury extended-cab pickup truck that blends
 - **Cost:** $500 - $1,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Magnetic Ride Control (MRC)
@@ -102,3 +115,15 @@ The 2012 Cadillac Escalade EXT is a luxury extended-cab pickup truck that blends
 --- 
 ### Summary Verdict
 The 2012 Cadillac Escalade EXT, powered by its robust 6.2L V8 engine, offers a compelling blend of luxury and utility. However, potential owners should be aware of common issues such as Active Fuel Management (AFM) lifter problems and oil consumption, which can be costly to repair. Transmission issues, particularly with the torque converter and solenoids, are also noted. The advanced Magnetic Ride Control suspension, while providing a superior ride, can be expensive to maintain if sensors or actuators fail. Electrical gremlins, especially with the CUE infotainment system and BCM, can also arise. Despite these potential drawbacks, many Escalade EXTs provide reliable service with proper maintenance and attention to these known problem areas.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

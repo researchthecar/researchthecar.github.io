@@ -39,6 +39,19 @@ The 2017 Mitsubishi Mirage G4 is a subcompact sedan known for its affordability 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -92,3 +105,15 @@ The 2017 Mitsubishi Mirage G4 is a subcompact sedan known for its affordability 
 --- 
 ### Summary Verdict
 The 2017 Mitsubishi Mirage G4 presents itself as a cost-effective and generally reliable subcompact car. Its primary strengths lie in its fuel efficiency and low purchase price. While major mechanical failures are uncommon, potential buyers should be aware of minor issues such as occasional CVT hesitation and some interior trim rattles. Electrical components, particularly the infotainment system's Bluetooth connectivity, can sometimes be finicky. However, these issues are typically minor and manageable. For its intended purpose as basic, economical transportation, the Mirage G4 offers a reasonable level of dependability, making it a viable option for budget-conscious consumers who prioritize practicality over luxury or performance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

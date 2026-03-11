@@ -61,6 +61,19 @@ The 2012 Mini Cooper Countryman, a compact crossover offering a blend of Mini's 
 - **Cost:** $500 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -115,3 +128,15 @@ The 2012 Mini Cooper Countryman, a compact crossover offering a blend of Mini's 
 --- 
 ### Summary Verdict
 The 2012 Mini Cooper Countryman offers a unique driving experience but requires attention to potential powertrain and electrical issues. The 1.6L engines, both naturally aspirated and turbocharged, can be prone to timing chain and carbon buildup problems, respectively. Automatic transmissions may develop leaks or solenoid issues. Suspension components like control arm bushings and rear shocks are common wear items that can lead to noise and handling degradation. Electrical gremlins, such as power window regulators and sunroof mechanisms, also appear. While not a paragon of bulletproof reliability, addressing these known issues proactively can contribute to a more dependable ownership experience for this distinctive compact crossover.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

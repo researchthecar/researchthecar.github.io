@@ -54,6 +54,19 @@ The 2012 Mercedes-Benz CLS S2, often referred to as the CLS Shooting Brake, repr
 - **Cost:** $1,000 - $2,500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### AIRMATIC Air Suspension
@@ -117,3 +130,15 @@ The 2012 Mercedes-Benz CLS S2, often referred to as the CLS Shooting Brake, repr
 --- 
 ### Summary Verdict
 The 2012 Mercedes-Benz CLS S2 is a luxurious and capable vehicle, but potential buyers should be aware of specific reliability concerns. The V6 and V8 engines, while powerful, can experience timing chain tensioner wear and oil leaks, with the V8 also susceptible to turbocharger issues. The 7-speed automatic transmission may develop problems with the torque converter or valve body. The AIRMATIC suspension system is a common source of issues, with leaks in struts and compressor failures being prevalent. Electrical gremlins, particularly with the SAM unit, and infotainment system glitches are also noted. While the standard suspension and exterior components are generally robust, the potential for costly repairs in the powertrain, transmission, and suspension systems means thorough pre-purchase inspection and a budget for potential maintenance are advisable.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

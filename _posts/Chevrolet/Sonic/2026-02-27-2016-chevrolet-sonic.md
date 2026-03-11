@@ -56,6 +56,19 @@ The 2016 Chevrolet Sonic is a subcompact car offered in sedan and hatchback body
 - **Cost:** $600 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -110,3 +123,15 @@ The 2016 Chevrolet Sonic is a subcompact car offered in sedan and hatchback body
 --- 
 ### Summary Verdict
 The 2016 Chevrolet Sonic presents a mixed reliability profile. Common issues tend to revolve around the powertrain, particularly oil and coolant leaks in the 1.8L engine and turbocharger or oil consumption concerns with the 1.4L turbo. Automatic transmission problems like harsh shifting are also noted. Suspension components such as struts and ball joints can wear over time. Electrical issues like battery drain and sensor failures are not uncommon. Exterior rust can be a concern in certain environments, and interior components like the HVAC blower motor and infotainment system may require attention. While not plagued by widespread catastrophic failures, owners should be aware of these potential repair areas and budget accordingly for maintenance and repairs beyond standard wear and tear.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

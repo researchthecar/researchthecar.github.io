@@ -39,6 +39,19 @@ The 2020 Mitsubishi Mirage G4 is a subcompact sedan known for its affordability 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Torsion Beam Rear
@@ -85,3 +98,15 @@ The 2020 Mitsubishi Mirage G4 is a subcompact sedan known for its affordability 
 --- 
 ### Summary Verdict
 The 2020 Mitsubishi Mirage G4 demonstrates commendable reliability for its segment, particularly in its core powertrain components. While the engine and transmissions (both CVT and manual) are generally robust, some owners have reported minor electrical issues, such as infotainment system glitches and occasional battery drain, which are not uncommon in vehicles with extensive electronic features. The interior may show signs of wear on frequently used surfaces over time, which is typical for its class. Overall, the Mirage G4 is a dependable choice for budget-conscious buyers prioritizing basic transportation and fuel economy, with a low likelihood of major mechanical failures.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

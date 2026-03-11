@@ -39,6 +39,19 @@ The 2019 Lamborghini Huracan, a mid-engine sports car, is renowned for its exhil
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Magnetorheological Dampers
@@ -85,3 +98,15 @@ The 2019 Lamborghini Huracan, a mid-engine sports car, is renowned for its exhil
 --- 
 ### Summary Verdict
 The 2019 Lamborghini Huracan demonstrates strong mechanical reliability, particularly with its potent V10 engine and advanced transmissions. Major powertrain failures are exceptionally rare. The most commonly cited issues tend to be minor electrical glitches within the infotainment system or occasional battery drain, which are not unique to this model and are generally resolvable with diagnostics and software updates. Owners should be aware that due to the exotic nature of the vehicle, any repairs, even minor ones, can incur higher costs due to specialized labor and parts. Overall, the Huracan is a reliable supercar when maintained properly, with its primary ownership considerations revolving around performance driving and the associated costs of specialized maintenance and potential repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

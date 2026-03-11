@@ -32,6 +32,19 @@ The 2012 BMW Alpina B7 xDrive, a high-performance luxury sedan, is generally reg
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Drive System
@@ -90,3 +103,15 @@ The 2012 BMW Alpina B7 xDrive, a high-performance luxury sedan, is generally reg
 --- 
 ### Summary Verdict
 The 2012 BMW Alpina B7 xDrive is a remarkably well-engineered vehicle with a strong reputation for reliability in its core powertrain and drivetrain. The V8 engine and 8-speed automatic transmission are robust and capable of high mileage with proper maintenance. However, as a complex luxury performance sedan, it is not without potential issues, particularly in its advanced suspension and electrical systems. Owners should anticipate potential costs related to air suspension components and the sophisticated iDrive system. While major engine or transmission failures are uncommon, proactive maintenance and awareness of these specific areas can ensure a more predictable ownership experience. Overall, it offers good reliability for its class, but maintenance and repair costs will be higher than average.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -46,6 +46,19 @@ The 2012 Nissan Frontier is a mid-size pickup truck known for its ruggedness and
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -85,3 +98,15 @@ The 2012 Nissan Frontier is a mid-size pickup truck known for its ruggedness and
 --- 
 ### Summary Verdict
 The 2012 Nissan Frontier demonstrates solid reliability, especially with its 4-cylinder engine and manual transmission. The V6 engine, while powerful, has a notable potential issue with timing chain wear, which can be costly to repair but is often manageable with timely maintenance. The automatic transmission can sometimes exhibit shifting problems, which may require significant repair. Other systems like suspension, electrical, exterior, and interior components generally hold up well, with no widespread systemic failures reported. Owners should be mindful of the V6 timing chain and automatic transmission behavior, but overall, the Frontier is a dependable choice for a mid-size truck.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

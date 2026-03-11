@@ -49,6 +49,19 @@ The 2012 Lamborghini Gallardo, a mid-engine V10 supercar, is renowned for its ex
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard/Adaptive Suspension
@@ -93,3 +106,15 @@ The 2012 Lamborghini Gallardo, a mid-engine V10 supercar, is renowned for its ex
 --- 
 ### Summary Verdict
 The 2012 Lamborghini Gallardo is a highly desirable supercar with a generally robust mechanical foundation. The V10 engine is a strong performer, and manual transmissions are typically trouble-free. However, the E-gear automated manual transmission can present issues, particularly with its hydraulic system and actuators, which can be costly to repair. Electrical gremlins, such as infotainment system quirks and window regulator failures, are also noted. While not as prone to widespread problems as some mass-produced vehicles, owners should budget for potential repairs related to the complex transmission and electrical systems. Regular, specialized maintenance is crucial for mitigating these risks.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

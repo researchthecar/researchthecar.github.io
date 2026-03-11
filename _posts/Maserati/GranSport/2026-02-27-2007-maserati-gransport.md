@@ -42,6 +42,19 @@ The 2007 Maserati GranSport, a potent blend of luxury and performance, generally
 - **Cost:** $1,000 - $2,500+
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Skyhook System
@@ -91,3 +104,15 @@ The 2007 Maserati GranSport, a potent blend of luxury and performance, generally
 --- 
 ### Summary Verdict
 The 2007 Maserati GranSport offers a thrilling driving experience but requires a commitment to maintenance. The primary areas of concern are the engine's camshaft and lifters, potential oil leaks, and the automated manual transmission's clutch and hydraulic system. The adaptive suspension, while advanced, can also be a source of costly repairs. Electrical gremlins, particularly with window regulators and the infotainment system, are not uncommon. Despite these potential issues, with regular specialized servicing and prompt attention to any developing problems, the GranSport can remain a reliable and rewarding exotic car. Prospective buyers should factor in the higher cost of parts and labor associated with maintaining a vehicle of this caliber.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

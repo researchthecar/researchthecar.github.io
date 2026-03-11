@@ -61,6 +61,19 @@ The 2011 Mitsubishi Galant, in its final production year, offered a blend of com
 - **Cost:** $300 - $1,200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -107,3 +120,15 @@ The 2011 Mitsubishi Galant, in its final production year, offered a blend of com
 --- 
 ### Summary Verdict
 The 2011 Mitsubishi Galant presents a mixed reliability picture. While the exterior and interior generally hold up well, potential buyers should be aware of common issues affecting the engine and transmission. The 2.4L engine's oil consumption and timing belt concerns, along with the V6's intake manifold and VVT issues, require attention. Transmission problems, particularly with the 4-speed automatic, such as slipping gears and torque converter issues, are also noted. Electrical gremlins, especially related to the BCM and alternator, can add to ownership costs. Regular maintenance and prompt attention to these specific potential problems are advised to ensure a more reliable ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

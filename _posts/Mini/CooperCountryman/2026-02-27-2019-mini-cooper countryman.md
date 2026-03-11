@@ -60,6 +60,19 @@ The 2019 Mini Cooper Countryman, a compact SUV known for its sporty handling and
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -104,3 +117,15 @@ The 2019 Mini Cooper Countryman, a compact SUV known for its sporty handling and
 --- 
 ### Summary Verdict
 The 2019 Mini Cooper Countryman generally offers good reliability, particularly in its powertrain. The 1.5L and 2.0L turbo gasoline engines, along with the available transmissions, are not plagued by widespread, significant issues. The most commonly reported non-wear-and-tear problems tend to be in the electrical system, specifically with infotainment glitches and occasional battery drain, which can often be resolved with software updates or component diagnosis. Minor oil leaks have been noted on the more powerful 2.0L turbo engine. Overall, the Countryman is a dependable choice in its segment, with most potential issues being manageable and not indicative of systemic failure.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -66,6 +66,19 @@ The 2003 Mitsubishi Lancer, a compact sedan known for its sporty styling and aff
 - **Cost:** $700 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -125,3 +138,15 @@ The 2003 Mitsubishi Lancer, a compact sedan known for its sporty styling and aff
 --- 
 ### Summary Verdict
 The 2003 Mitsubishi Lancer generally presents as a reasonably reliable vehicle, particularly its powertrain when properly maintained. However, common issues tend to surface with age and mileage. Owners should be aware of potential oil and coolant leaks from the engine, clutch wear or transmission issues in automatics, and suspension components like ball joints and tie rods. Electrical problems such as alternator failure and interior issues like HVAC blower motor failure are also noted. Exterior rust can be a concern in certain climates. Addressing these potential problems proactively can help maintain the Lancer's overall dependability and value.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

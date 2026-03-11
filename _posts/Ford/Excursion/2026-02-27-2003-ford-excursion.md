@@ -78,6 +78,19 @@ The 2003 Ford Excursion, a heavy-duty SUV, was known for its robust construction
 - **Cost:** $800 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -127,3 +140,15 @@ The 2003 Ford Excursion, a heavy-duty SUV, was known for its robust construction
 --- 
 ### Summary Verdict
 The 2003 Ford Excursion is a formidable vehicle with robust powertrains, but its age means certain components are prone to failure. The gasoline V8s can suffer from spark plug issues, while the 6.0L Power Stroke diesel is notorious for EGR cooler, oil cooler, and head gasket/stud problems, which can be costly to repair. Transmission issues, particularly with the torque converter, are also noted. Suspension components like ball joints and leaf springs may require attention due to the vehicle's weight and intended use. Electrical gremlins, such as instrument cluster and window regulator failures, are common for vehicles of this era. Rust can be a concern depending on climate. Overall, while capable, potential buyers should be aware of these common issues, especially concerning the 6.0L diesel engine and associated repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

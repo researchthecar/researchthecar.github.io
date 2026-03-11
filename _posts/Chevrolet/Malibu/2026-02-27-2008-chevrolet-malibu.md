@@ -51,6 +51,19 @@ The 2008 Chevrolet Malibu, a mid-size sedan, aimed to offer a blend of comfort, 
 - **Cost:** $400 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -97,3 +110,15 @@ The 2008 Chevrolet Malibu, a mid-size sedan, aimed to offer a blend of comfort, 
 --- 
 ### Summary Verdict
 The 2008 Chevrolet Malibu presents a mixed reliability profile. The most commonly cited issues revolve around the Ecotec engines, particularly the 2.4L, with oil consumption and timing chain problems being notable concerns. The V6 engines also have reports of timing chain issues and intake manifold leaks. Automatic transmissions can experience harsh shifting or slipping. On the positive side, the exterior and interior generally hold up well with no widespread critical failures reported. Electrical gremlins, such as BCM issues and power window motor failures, are also present. Prospective buyers should be aware of these potential repair areas and factor them into ownership costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

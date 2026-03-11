@@ -51,6 +51,19 @@ The 2016 Chevrolet Cruze, a compact sedan, offered a range of powertrain options
 - **Cost:** $700 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -108,3 +121,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2016 Chevrolet Cruze presents a mixed reliability picture. While its core mechanical components like the engine and transmission can be robust when properly maintained, specific issues have been noted. The 1.4L turbo engine is prone to turbocharger problems and coolant leaks, while the automatic transmission can exhibit harsh shifting. Suspension components, particularly struts and rear bushings, may require attention. Electrical gremlins, often stemming from the BCM or parasitic battery drain, are also a concern. Exterior paint issues like clear coat peeling and interior problems such as HVAC blend door failures and infotainment glitches are also reported. Owners should be aware of these potential issues and ensure regular maintenance to mitigate risks.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

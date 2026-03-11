@@ -54,6 +54,19 @@ The 2014 Mercedes-Benz Viano, a versatile and spacious multi-purpose vehicle, ge
 - **Cost:** $300 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -105,3 +118,15 @@ The 2014 Mercedes-Benz Viano, a versatile and spacious multi-purpose vehicle, ge
 --- 
 ### Summary Verdict
 The 2014 Mercedes-Benz Viano demonstrates good overall reliability, particularly in its core mechanicals. The diesel engines, while generally robust, can encounter issues with emissions systems like the DPF and AdBlue, especially with varied driving cycles. The automatic transmission is typically dependable, though torque converter and fluid leak issues can arise. Suspension components, particularly air suspension if fitted, and standard wear items like bushings are areas to monitor. Electrical gremlins, often related to the infotainment system and sensors, are not uncommon in vehicles of this era. With diligent maintenance and prompt attention to warning lights, the Viano remains a capable and durable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

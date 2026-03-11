@@ -37,6 +37,19 @@ The 2017 Maserati GranCabrio, a luxurious Italian convertible, offers a compelli
 - **Cost:** $500 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Skyhook Suspension
@@ -83,3 +96,15 @@ The 2017 Maserati GranCabrio, a luxurious Italian convertible, offers a compelli
 --- 
 ### Summary Verdict
 The 2017 Maserati GranCabrio is a desirable exotic convertible with a powerful V8 engine and engaging driving dynamics. While it doesn't suffer from widespread, catastrophic failures, owners should be aware of potential issues related to oil leaks from the V8, occasional transmission harshness, and electrical gremlins within the infotainment system. The convertible top mechanism and interior leather also require diligent care. Proactive maintenance, especially fluid changes and regular inspections, coupled with a budget for potential repairs that are typical for a luxury performance vehicle, will contribute to a more reliable ownership experience. Specialized technicians familiar with Maserati are recommended for complex repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -54,6 +54,19 @@ The 2014 Mercedes-Benz Gran Viale, a model often associated with robust engineer
 - **Cost:** $1500 - $3000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -103,3 +116,15 @@ The 2014 Mercedes-Benz Gran Viale, a model often associated with robust engineer
 --- 
 ### Summary Verdict
 The 2014 Mercedes-Benz Gran Viale demonstrates good overall reliability, particularly in its core mechanical components. The diesel engines, while capable, can experience issues like turbocharger problems or EGR valve malfunctions, which are not uncommon for this type of powertrain. Transmission issues, primarily with the automatic gearbox, can arise but are often repairable. Suspension components, especially bushings, may require attention due to the vehicle's utility nature. Electrical gremlins, such as battery drain, are also noted. However, the exterior and interior generally hold up well. Regular maintenance is crucial for mitigating these potential issues and ensuring the longevity of the Gran Viale.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

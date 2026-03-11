@@ -51,6 +51,19 @@ The 2016 Mini Cooper Paceman, a quirky and stylish compact crossover, offers a b
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -95,3 +108,15 @@ The 2016 Mini Cooper Paceman, a quirky and stylish compact crossover, offers a b
 --- 
 ### Summary Verdict
 The 2016 Mini Cooper Paceman generally presents a decent reliability record, particularly for its naturally aspirated engine and manual transmission variants. The Cooper S model, with its turbocharged engine, is more prone to specific issues like turbocharger problems and PCV valve failures, which are common in many turbocharged vehicles. Automatic transmission owners may encounter shuddering or hesitation, often resolvable with maintenance. Electrical gremlins, such as power window regulators and infotainment glitches, are also noted. While not plagued by widespread critical failures, potential buyers should be aware of these specific components and factor in potential repair costs, especially for higher-mileage examples of the Cooper S.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

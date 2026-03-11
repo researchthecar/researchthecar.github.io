@@ -32,6 +32,19 @@ The 2019 Hyundai Kona Electric is a compact electric SUV that has generally rece
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -97,3 +110,15 @@ The 2019 Hyundai Kona Electric is a compact electric SUV that has generally rece
 --- 
 ### Summary Verdict
 The 2019 Hyundai Kona Electric generally exhibits good reliability, particularly in its powertrain components which are simpler than those in gasoline cars. The primary concerns for electric vehicles of this era revolve around the long-term health of the battery pack, with degradation being a natural process, and potential issues with the onboard charging system. Software glitches in the infotainment system are also a possibility, though often resolvable with updates. Other systems like suspension, exterior, and interior components have shown no widespread significant issues. Owners should be aware of battery warranty terms and potential costs associated with out-of-warranty battery replacement, though this is a long-term consideration.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -42,6 +42,19 @@ The 2022 Mercedes-Benz CLA45 AMG, a high-performance compact executive car, gene
 - **Cost:** $400 - $900
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### AMG Ride Control Suspension
@@ -88,3 +101,15 @@ The 2022 Mercedes-Benz CLA45 AMG, a high-performance compact executive car, gene
 --- 
 ### Summary Verdict
 The 2022 Mercedes-Benz CLA45 AMG demonstrates a commendable level of reliability for a performance-oriented vehicle. The primary areas of concern tend to be related to the complex powertrain, specifically potential coolant leaks from the engine and occasional harsh shifting or leaks from the dual-clutch transmission. Electrical gremlins, particularly with the infotainment system's software, are also noted but are often resolvable with updates. The 12V battery has shown some instances of premature failure. However, the suspension, exterior, and interior components are generally robust. With diligent maintenance and prompt attention to any emerging issues, the CLA45 AMG should provide a thrilling and dependable driving experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

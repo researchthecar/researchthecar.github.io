@@ -58,6 +58,19 @@ The 2010 Chevrolet Optra, a compact sedan and hatchback, offered a range of engi
 - **Cost:** $500 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -112,3 +125,15 @@ The 2010 Chevrolet Optra, a compact sedan and hatchback, offered a range of engi
 --- 
 ### Summary Verdict
 The 2010 Chevrolet Optra generally presents a reasonable reliability record, particularly with its manual transmission and Ecotec engines, which show few widespread issues. However, owners should be aware of potential problems with the automatic transmission, specifically concerning gear slipping and torque converter issues. Suspension components like bushings and struts can wear over time, leading to noise and handling degradation. Electrical gremlins, such as alternator failure and window regulator problems, are also noted. Exterior rust can be a concern in certain climates. Interiorly, HVAC blower motors and door lock actuators are components that may require attention. Overall, proactive maintenance and addressing early signs of these common issues can contribute to a more reliable ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

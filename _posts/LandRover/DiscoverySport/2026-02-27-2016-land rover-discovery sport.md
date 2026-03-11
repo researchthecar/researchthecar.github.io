@@ -49,6 +49,19 @@ The 2016 Land Rover Discovery Sport, a compact luxury SUV, offers a blend of pre
 - **Cost:** $300 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -109,3 +122,15 @@ The 2016 Land Rover Discovery Sport, a compact luxury SUV, offers a blend of pre
 --- 
 ### Summary Verdict
 The 2016 Land Rover Discovery Sport presents a generally reliable package, particularly with its petrol engine option. However, owners should be aware of potential issues with the diesel engine's EGR valve and DPF system, as well as the 9-speed automatic transmission's shifting behavior and potential leaks. Electrical gremlins, such as infotainment glitches and battery drain, are also noted. While many issues are repairable with moderate costs, proactive maintenance and prompt attention to warning signs are recommended to ensure long-term dependability and enjoyment of this capable SUV.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

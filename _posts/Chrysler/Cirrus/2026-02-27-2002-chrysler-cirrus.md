@@ -54,6 +54,19 @@ The 2002 Chrysler Cirrus, a mid-size sedan, offered a blend of comfort and pract
 - **Cost:** $700 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -119,3 +132,15 @@ The 2002 Chrysler Cirrus, a mid-size sedan, offered a blend of comfort and pract
 --- 
 ### Summary Verdict
 The 2002 Chrysler Cirrus, while offering a comfortable ride, exhibits common issues for its age and segment. Engine reliability can be a concern, particularly with head gasket failures on the 2.0L and timing belt issues on the 2.4L. Transmission problems like slipping gears and torque converter issues are also reported. Suspension components such as ball joints and struts may require attention. Electrical gremlins, often stemming from the BCM or alternator, are not uncommon. Exterior rust can be an issue in certain climates, and interior components like HVAC blend doors and dashboard materials can degrade. Overall, potential buyers should be aware of these potential repair costs and prioritize a thorough pre-purchase inspection.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

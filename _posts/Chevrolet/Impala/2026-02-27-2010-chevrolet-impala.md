@@ -54,6 +54,19 @@ The 2010 Chevrolet Impala, a mid-size sedan, offered a range of powertrain optio
 - **Cost:** $400 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -100,3 +113,15 @@ The 2010 Chevrolet Impala, a mid-size sedan, offered a range of powertrain optio
 --- 
 ### Summary Verdict
 The 2010 Chevrolet Impala generally presents a decent reliability record, with its most commonly reported issues centering around the powertrain and specific electrical components. Engine oil cooler lines and intake manifold gaskets on the V6 engines are known to develop leaks, requiring attention to prevent further damage. Transmission issues, particularly with the torque converter and solenoids, can lead to significant repair costs. Electrical gremlins, such as BCM malfunctions and premature alternator failure, are also noted. While suspension components like ball joints and bushings can wear out, this is not uncommon for a vehicle of this age and mileage. The exterior and interior systems are largely free from widespread, recurring technical defects.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

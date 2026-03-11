@@ -56,6 +56,19 @@ The 2012 Chevrolet Orlando, a compact MPV, aimed to blend practicality with a di
 - **Cost:** $600 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -100,3 +113,15 @@ The 2012 Chevrolet Orlando, a compact MPV, aimed to blend practicality with a di
 --- 
 ### Summary Verdict
 The 2012 Chevrolet Orlando presents a mixed reliability profile. The gasoline 1.8L Ecotec engine can experience common issues like oil and coolant leaks, which are generally manageable with timely repairs. The 2.0L VCDi diesel engine, however, shows a higher propensity for turbocharger problems and DPF regeneration issues, which can be more costly to address. Automatic transmission problems, such as harsh shifting, are also noted. While suspension and electrical components can develop faults like worn bushings or alternator failures, these are not exceptionally prevalent. The exterior and interior generally hold up well. Prospective buyers should pay close attention to the maintenance history, especially concerning the diesel engine and automatic transmission, and budget for potential repairs related to these components.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

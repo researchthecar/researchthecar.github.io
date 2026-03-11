@@ -66,6 +66,19 @@ The 2003 Ford Fiesta Ikon, a popular subcompact car, generally offered a decent 
 - **Cost:** $300 - $700
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Torsion Beam Rear
@@ -130,3 +143,15 @@ The 2003 Ford Fiesta Ikon, a popular subcompact car, generally offered a decent 
 --- 
 ### Summary Verdict
 The 2003 Ford Fiesta Ikon is a generally reliable subcompact, with most reported issues being manageable and typical for a vehicle of its age and class. Owners should be aware of potential coolant leaks and ignition coil problems with the petrol engines, and clutch wear on manual transmissions. Electrical gremlins, such as alternator failure and window regulator issues, can also arise. Rust can be a concern in certain climates. Despite these points, with diligent maintenance and timely repairs, the Fiesta Ikon remains a practical and economical choice for budget-conscious buyers.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

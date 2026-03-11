@@ -54,6 +54,19 @@ The 2003 Chrysler Cirrus, a mid-size sedan, aimed to offer a blend of comfort an
 - **Cost:** $600 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -119,3 +132,15 @@ The 2003 Chrysler Cirrus, a mid-size sedan, aimed to offer a blend of comfort an
 --- 
 ### Summary Verdict
 The 2003 Chrysler Cirrus, while offering a comfortable ride, exhibits some common reliability concerns typical of its age and class. Engine issues like head gasket failures and oil leaks, particularly with the 2.4L, and transmission problems such as slipping gears and torque converter issues are notable. Suspension components like ball joints and tie rods are also prone to wear. Electrical gremlins, especially related to the BCM and alternator, can be frustrating. Exterior rust and interior wear, particularly dashboard cracking and HVAC blend door failures, are also points to consider. Prospective buyers should be aware of these potential repair costs and ensure thorough pre-purchase inspections.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

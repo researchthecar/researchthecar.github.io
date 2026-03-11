@@ -61,6 +61,19 @@ The 2013 Nissan Cabstar, a light commercial vehicle, is generally recognized for
 - **Cost:** $700 - $1400
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -110,3 +123,15 @@ The 2013 Nissan Cabstar, a light commercial vehicle, is generally recognized for
 --- 
 ### Summary Verdict
 The 2013 Nissan Cabstar demonstrates a generally reliable profile for a commercial vehicle, with its diesel engines and manual transmissions being the most common configurations. Key areas of concern tend to be related to the turbocharger and EGR system on the 2.5L engines, and potential cylinder head gasket or injector issues on the 3.0L. Manual transmissions can experience clutch wear and, less commonly, gearbox bearing issues. Suspension components like leaf springs and shock absorbers are subject to wear due to load. Electrical issues, particularly alternator failure, are also noted. Rust can be a concern depending on the operating environment. Overall, with diligent maintenance and addressing issues promptly, the Cabstar can remain a dependable work vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -56,6 +56,19 @@ The 2012 Nissan Cabstar, a light commercial vehicle, generally exhibits a robust
 - **Cost:** $150 - $300
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -105,3 +118,15 @@ The 2012 Nissan Cabstar, a light commercial vehicle, generally exhibits a robust
 --- 
 ### Summary Verdict
 The 2012 Nissan Cabstar demonstrates reasonable reliability for a commercial vehicle, with its diesel engines being the primary focus for potential issues, particularly concerning the DPF system and turbochargers. Transmission components, especially clutches on manual gearboxes, require attention over time. Suspension elements like leaf springs can be prone to wear under heavy loads. Electrical gremlins, such as alternator failure and wiring corrosion, are also noted. While not plagued by widespread critical failures, proactive maintenance and addressing early symptoms are key to ensuring the longevity and operational efficiency of the Cabstar.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

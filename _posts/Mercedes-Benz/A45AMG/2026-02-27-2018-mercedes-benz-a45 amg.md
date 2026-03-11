@@ -47,6 +47,19 @@ The 2018 Mercedes-Benz A45 AMG, a high-performance compact hatchback, is renowne
 - **Cost:** $1500 - $3000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### AMG Ride Control Sport Suspension
@@ -93,3 +106,15 @@ The 2018 Mercedes-Benz A45 AMG, a high-performance compact hatchback, is renowne
 --- 
 ### Summary Verdict
 The 2018 Mercedes-Benz A45 AMG is a performance-oriented vehicle with a generally robust mechanical foundation. The primary areas of concern tend to be related to the high-strung nature of its powertrain, specifically the turbocharger and transmission's mechatronic unit, which can require attention. Electrical gremlins, particularly with the infotainment system and occasional battery drain, are also noted. However, for a vehicle of its performance class, major widespread failures are not overwhelmingly common. Regular maintenance and addressing early signs of issues are crucial for maintaining its reliability and performance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

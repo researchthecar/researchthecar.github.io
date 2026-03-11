@@ -61,6 +61,19 @@ The 2003 Mitsubishi Eclipse, particularly in its third generation, presented a m
 - **Cost:** $500 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -117,3 +130,15 @@ The 2003 Mitsubishi Eclipse, particularly in its third generation, presented a m
 --- 
 ### Summary Verdict
 The 2003 Mitsubishi Eclipse is a car that requires careful consideration regarding its reliability. While the 2.4L engine is generally more robust, the 3.0L V6 and both automatic and manual transmissions have documented issues that can be costly to repair. Common problems include oil leaks, timing belt concerns, transmission shifting problems, and clutch wear. Electrical gremlins, particularly with the BCM and alternator, can also surface. Suspension components like ball joints and tie rods are typical wear items. Despite these potential drawbacks, many owners find the Eclipse enjoyable to drive, but proactive maintenance and awareness of these common issues are key to a positive ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

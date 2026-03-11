@@ -61,6 +61,19 @@ The 2008 Nissan Cabstar E, a light commercial vehicle, is generally considered a
 - **Cost:** $600 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -110,3 +123,15 @@ The 2008 Nissan Cabstar E, a light commercial vehicle, is generally considered a
 --- 
 ### Summary Verdict
 The 2008 Nissan Cabstar E demonstrates a generally good reliability record for a commercial vehicle. The most common concerns tend to be related to the powertrain, specifically with turbocharger issues on the 2.5L diesel and potential cylinder head gasket problems on the 3.0L diesel. Transmission issues, particularly clutch wear on manual gearboxes, are also noted. Suspension components like leaf springs can experience wear due to heavy use. Electrical system issues, such as alternator failure, are not uncommon. However, the exterior and interior components are typically robust. Overall, with regular maintenance and addressing issues promptly, the Cabstar E remains a dependable option for commercial applications.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -32,6 +32,19 @@ The 2014 Mitsubishi i-MiEV is a subcompact electric vehicle known for its urban 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Suspension
@@ -92,3 +105,15 @@ The 2014 Mitsubishi i-MiEV is a subcompact electric vehicle known for its urban 
 --- 
 ### Summary Verdict
 The 2014 Mitsubishi i-MiEV demonstrates strong reliability in its core electric powertrain components, with the electric motor and single-speed transmission generally proving robust. The primary areas of concern revolve around the electrical system, specifically the long-term health and potential degradation of the high-voltage battery pack, which can be a significant expense to replace. Issues with the onboard charger and premature failure of the 12V auxiliary battery have also been noted. While the suspension, exterior, and interior systems are largely free of widespread technical faults, owners should be aware of the potential for battery degradation and charging system issues as the vehicle ages. Overall, it's a reliable city car, but battery health is the key long-term consideration.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

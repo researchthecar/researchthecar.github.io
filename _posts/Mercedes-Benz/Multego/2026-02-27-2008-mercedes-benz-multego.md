@@ -51,6 +51,19 @@ The 2008 Mercedes-Benz Multego, a versatile commercial vehicle, generally exhibi
 - **Cost:** $1000 - $2000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Air Suspension
@@ -90,3 +103,15 @@ The 2008 Mercedes-Benz Multego, a versatile commercial vehicle, generally exhibi
 --- 
 ### Summary Verdict
 The 2008 Mercedes-Benz Multego demonstrates good overall reliability, with its diesel engines and transmissions being generally robust. Potential owners should be aware of common issues such as turbocharger problems and EGR valve malfunctions in the 2.2L CDI, and glow plug issues in the 2.7L CDI. Transmission-wise, clutch wear in manuals and torque converter issues in automatics are noted. Suspension can be affected by air spring leaks, and electrical gremlins may arise from the Body Control Module. While these issues can be costly to repair, they are often manageable with timely maintenance and addressing problems promptly. Exterior and interior components are typically durable for this model year.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -73,6 +73,19 @@ The 2006 Chevrolet Cobalt, a compact car, offered a range of powertrain options 
 - **Cost:** $100 - $250
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -132,3 +145,15 @@ The 2006 Chevrolet Cobalt, a compact car, offered a range of powertrain options 
 --- 
 ### Summary Verdict
 The 2006 Chevrolet Cobalt presents a mixed reliability picture. While the base 2.2L engine and manual transmissions are generally considered robust, the more powerful 2.4L and especially the 2.0L turbo engines have known issues like oil consumption, timing chain problems, and turbocharger failures that can be costly. Automatic transmissions can suffer from harsh shifting. Common issues across all models include suspension wear, electrical glitches like window regulators and instrument clusters, and potential for rust in certain climates. Buyers should be aware of these potential repair costs, particularly if considering models with the higher-performance engines or automatic transmissions.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

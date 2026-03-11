@@ -54,6 +54,19 @@ The 2009 Mercedes-Benz Torino, a model known for its blend of luxury and perform
 - **Cost:** $1000 - $1800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Suspension
@@ -108,3 +121,15 @@ The 2009 Mercedes-Benz Torino, a model known for its blend of luxury and perform
 --- 
 ### Summary Verdict
 The 2009 Mercedes-Benz Torino, while generally well-built, presents a few common areas that may require attention. Engine-related issues like timing chain wear and intake manifold problems are notable, as are potential transmission issues with the 7G-TRONIC. Suspension components, particularly bushings, can wear over time. Electrical gremlins, such as window regulators and sensors, are also reported. However, exterior components are typically robust. Interior issues often center around HVAC and seat controls. Overall, the Torino offers a premium experience, but owners should be prepared for potential repair costs associated with these specific components to maintain its reliability and performance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

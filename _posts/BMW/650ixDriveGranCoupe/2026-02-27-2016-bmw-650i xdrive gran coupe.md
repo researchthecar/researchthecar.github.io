@@ -42,6 +42,19 @@ The 2016 BMW 650i xDrive Gran Coupe, a luxurious four-door coupe, offers a blend
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Drive System
@@ -109,3 +122,15 @@ The 2016 BMW 650i xDrive Gran Coupe, a luxurious four-door coupe, offers a blend
 --- 
 ### Summary Verdict
 The 2016 BMW 650i xDrive Gran Coupe demonstrates a solid reliability record for its class, particularly concerning its powertrain and general build quality. The primary areas that may require attention are related to the advanced technology features, such as the infotainment system's software and the complex adaptive suspension components. Engine-specific issues, while not pervasive, can be costly to repair, with turbochargers, ignition coils, and fuel injectors being potential points of concern. Proactive maintenance and addressing early warning signs are crucial for owners to ensure long-term dependability and minimize unexpected repair expenses.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

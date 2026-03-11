@@ -56,6 +56,19 @@ The 2000 Hyundai Tiburon, a sporty compact coupe, offered a blend of style and p
 - **Cost:** $250 - $1500+
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -100,3 +113,15 @@ The 2000 Hyundai Tiburon, a sporty compact coupe, offered a blend of style and p
 --- 
 ### Summary Verdict
 The 2000 Hyundai Tiburon presents a mixed bag in terms of reliability. While its engines and transmissions are generally robust if maintained, specific issues like oil leaks on both the 2.0L and 2.7L engines, and potential timing belt concerns on the 2.0L, require attention. Automatic transmission issues can be costly. Suspension components, particularly ball joints and bushings, are prone to wear. Electrical gremlins like window regulators and alternators are also reported. Exterior rust can be a concern in certain climates. Overall, the Tiburon can be a fun and affordable car, but potential buyers should be aware of these common problem areas and factor in potential repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

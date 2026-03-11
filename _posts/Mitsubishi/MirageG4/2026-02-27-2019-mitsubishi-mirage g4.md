@@ -39,6 +39,19 @@ The 2019 Mitsubishi Mirage G4 is a subcompact sedan known for its affordability 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -99,3 +112,15 @@ The 2019 Mitsubishi Mirage G4 is a subcompact sedan known for its affordability 
 --- 
 ### Summary Verdict
 The 2019 Mitsubishi Mirage G4 demonstrates a generally reliable profile, particularly given its entry-level status. The 1.2L engine and manual transmission are robust, with no significant widespread issues reported. The CVT, while generally dependable, has seen some reports of hesitation or slipping, which can be addressed with maintenance or, in more severe cases, repair. Electrical components, specifically the infotainment system, may occasionally exhibit minor glitches. Interior wear on upholstery is a common observation for vehicles in this class. Overall, the Mirage G4 is a sensible choice for budget-conscious buyers prioritizing low running costs and basic transportation, with most potential issues being minor and manageable.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

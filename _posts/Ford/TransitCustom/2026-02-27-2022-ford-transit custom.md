@@ -53,6 +53,19 @@ The 2022 Ford Transit Custom is a highly popular commercial vehicle known for it
 - **Cost:** $400 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -109,3 +122,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2022 Ford Transit Custom demonstrates a generally strong reliability record, particularly concerning its core mechanical components like the chassis and suspension. The most frequently reported issues tend to be related to the advanced emission control systems (AdBlue, DPF) on the EcoBlue diesel engines, which can be sensitive to driving patterns and require specific maintenance. Electrical gremlins, such as infotainment system glitches and occasional battery drain, are also noted but are not typically indicative of systemic failures. Transmission issues, while not widespread, can occur and may require significant repair costs. Overall, with proper maintenance and awareness of potential emission system needs, the Transit Custom is a dependable workhorse.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

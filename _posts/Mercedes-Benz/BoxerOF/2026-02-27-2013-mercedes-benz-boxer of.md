@@ -56,6 +56,19 @@ The 2013 Mercedes-Benz Boxer OF, a robust commercial vehicle, generally exhibits
 - **Cost:** $1000 - $2000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -109,3 +122,15 @@ The 2013 Mercedes-Benz Boxer OF, a robust commercial vehicle, generally exhibits
 --- 
 ### Summary Verdict
 The 2013 Mercedes-Benz Boxer OF demonstrates a commendable level of reliability for a commercial vehicle. The diesel engines, while robust, can experience issues like glow plug failures or turbocharger problems, and the automated manual transmission may encounter actuator faults. Suspension components, particularly leaf springs, can be subject to wear and tear under heavy loads. Electrical systems, including wiring harnesses and alternators, are generally dependable but can develop issues over time. Exterior rust can be a concern in certain climates. Interior components like the HVAC blower motor are generally reliable, though wear on high-use items like seat upholstery is common. Overall, with regular maintenance and prompt attention to emerging issues, the Boxer OF is a durable and capable work vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

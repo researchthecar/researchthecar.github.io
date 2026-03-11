@@ -51,6 +51,19 @@ The 2011 Chevrolet Tornado, a compact pickup truck, generally presents a mixed b
 - **Cost:** $500 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -95,3 +108,15 @@ The 2011 Chevrolet Tornado, a compact pickup truck, generally presents a mixed b
 --- 
 ### Summary Verdict
 The 2011 Chevrolet Tornado is a functional pickup that can offer decent service if well-maintained. Key areas to monitor include potential coolant and oil leaks from the engines, especially the 2.8L Vortec, and timing chain concerns on the 2.4L Ecotec. Transmission issues like slipping gears in automatics and clutch wear in manuals are also noted. Suspension components like ball joints and bushings can wear out, leading to noise and handling issues. Electrical problems, such as alternator failure, and exterior rust, particularly on the undercarriage, are also reported. Interior dashboard cracking is a common cosmetic issue. Despite these points, many owners find the Tornado to be a reliable workhorse for its intended purpose.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

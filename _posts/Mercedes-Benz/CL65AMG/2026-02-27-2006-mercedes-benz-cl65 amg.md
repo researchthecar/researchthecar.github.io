@@ -52,6 +52,19 @@ The 2006 Mercedes-Benz CL65 AMG, a pinnacle of luxury and performance, is equipp
 - **Cost:** $1,000 - $2,500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Active Body Control (ABC)
@@ -106,3 +119,15 @@ The 2006 Mercedes-Benz CL65 AMG, a pinnacle of luxury and performance, is equipp
 --- 
 ### Summary Verdict
 The 2006 Mercedes-Benz CL65 AMG is a high-performance luxury coupe with a complex V12 engine and advanced systems. While the core mechanicals are robust, owners should anticipate potential issues with the twin-turbocharged engine's components, particularly the turbochargers and intercooler system. The Active Body Control suspension is prone to hydraulic leaks and pump failures, which can be expensive to repair. Electrical gremlins, often related to the SAM unit or infotainment system, are also a possibility. Transmission issues, while less common, can involve the torque converter or valve body. Due to the specialized nature and cost of parts and labor, meticulous maintenance and a thorough pre-purchase inspection are highly recommended for this exotic vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

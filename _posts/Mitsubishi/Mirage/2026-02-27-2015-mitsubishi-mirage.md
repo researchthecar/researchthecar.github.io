@@ -39,6 +39,19 @@ The 2015 Mitsubishi Mirage is a subcompact car known for its fuel efficiency and
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Torsion Beam Rear
@@ -88,3 +101,15 @@ The 2015 Mitsubishi Mirage is a subcompact car known for its fuel efficiency and
 --- 
 ### Summary Verdict
 The 2015 Mitsubishi Mirage is a basic, economical subcompact. Its primary strengths lie in fuel efficiency and low purchase price. Reliability is generally acceptable for its segment, with the 1.2L engine and manual transmission proving to be quite robust. The CVT, while efficient, has seen some reports of hesitation or jerking, which may require attention. Electrical gremlins, such as battery drain and infotainment glitches, are not uncommon. Interior rattles can also be a minor annoyance. For budget-conscious buyers prioritizing low running costs, the Mirage can be a suitable choice, provided expectations are managed regarding refinement and long-term durability compared to more expensive alternatives.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

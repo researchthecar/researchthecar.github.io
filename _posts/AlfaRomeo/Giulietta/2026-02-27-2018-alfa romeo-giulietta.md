@@ -53,6 +53,19 @@ The 2018 Alfa Romeo Giulietta, a stylish Italian hatchback, offers a compelling 
 - **Cost:** $1500 - $4000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -97,3 +110,15 @@ The 2018 Alfa Romeo Giulietta, a stylish Italian hatchback, offers a compelling 
 --- 
 ### Summary Verdict
 The 2018 Alfa Romeo Giulietta presents a mixed reliability profile. While the chassis and standard manual transmission are generally robust, owners should be mindful of potential issues with the MultiAir petrol engine unit and the TCT dual-clutch transmission, which can be costly to repair. Diesel variants may encounter DPF problems, especially if driven primarily in urban environments. Electrical gremlins, particularly with the infotainment system and occasional battery drain, are also noted. Despite these potential drawbacks, the Giulietta remains a desirable option for those prioritizing style and driving engagement, provided they are prepared for potentially higher maintenance costs compared to more mainstream competitors.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

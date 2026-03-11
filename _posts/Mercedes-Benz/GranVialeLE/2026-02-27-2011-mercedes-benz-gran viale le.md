@@ -42,6 +42,19 @@ The 2011 Mercedes-Benz Gran Viale LE, a model often associated with commercial o
 - **Cost:** $800 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -86,3 +99,15 @@ The 2011 Mercedes-Benz Gran Viale LE, a model often associated with commercial o
 --- 
 ### Summary Verdict
 The 2011 Mercedes-Benz Gran Viale LE, while a specialized vehicle, demonstrates a generally reliable mechanical foundation. The 2.2L CDI diesel engine, though susceptible to common diesel issues like DPF clogging and EGR valve problems, is generally robust. Transmission concerns, particularly with the 5-speed automatic, can arise, with torque converter and TCM issues being the most notable. Electrical systems may require attention, with alternators and wiring harnesses being potential points of failure. Suspension, exterior, and interior components are less prone to widespread issues, suggesting good build quality in these areas. Regular maintenance and prompt attention to early symptoms are key to ensuring long-term reliability for this model.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -42,6 +42,19 @@ The 2005 Mercury Montego, a mid-size sedan, offered a comfortable ride and a spa
 - **Cost:** $200 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -86,3 +99,15 @@ The 2005 Mercury Montego, a mid-size sedan, offered a comfortable ride and a spa
 --- 
 ### Summary Verdict
 The 2005 Mercury Montego presents a mixed reliability profile. The powertrain, particularly the 3.0L V6 engine, can experience issues like coolant leaks and sensor failures. The automatic transmission is also a point of concern, with reports of harsh shifting and leaks that can lead to costly repairs. Suspension components, such as ball joints and bushings, are prone to wear. Electrical gremlins, like faulty window regulators and instrument clusters, can also arise. Exterior paint issues, specifically clear coat peeling, are not uncommon. Interiorly, the HVAC blower motor is a known failure point. While not universally problematic, potential buyers should be aware of these common issues and factor in potential repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

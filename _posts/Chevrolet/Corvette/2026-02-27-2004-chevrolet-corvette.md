@@ -44,6 +44,19 @@ The 2004 Chevrolet Corvette, a C5 generation icon, is generally regarded as a re
 - **Cost:** $300 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -88,3 +101,15 @@ The 2004 Chevrolet Corvette, a C5 generation icon, is generally regarded as a re
 --- 
 ### Summary Verdict
 The 2004 Chevrolet Corvette is a robust sports car with a strong reliability record for its performance class. The LS1 engine is generally dependable, and the manual transmission is well-regarded. The automatic transmission can occasionally develop torque converter issues. Common problems are often related to age, such as minor coolant or oil leaks, and electrical components like window motors and headlight switches. Suspension issues are less common but can involve the active handling system. Overall, with proper maintenance, the 2004 Corvette offers a rewarding and relatively reliable ownership experience for a performance vehicle of its era.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

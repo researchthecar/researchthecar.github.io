@@ -73,6 +73,19 @@ The 2019 Alfa Romeo Giulietta, while celebrated for its distinctive Italian styl
 - **Cost:** $300 - $700
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -122,3 +135,15 @@ The 2019 Alfa Romeo Giulietta, while celebrated for its distinctive Italian styl
 --- 
 ### Summary Verdict
 The 2019 Alfa Romeo Giulietta offers a compelling blend of style and performance, but potential buyers should be aware of specific reliability concerns. The petrol MultiAir engines can experience issues with the MultiAir unit and turbochargers. Diesel variants are more prone to DPF and EGR valve problems, common in many modern diesels. The TCT automatic transmission, while offering sporty shifts, can be a source of expensive repairs, particularly the mechatronic unit. Suspension components like bushings and shocks can wear, leading to noise and handling degradation. Electrical gremlins, especially with the infotainment system and occasional battery drain, are also noted. While exterior and interior components are generally robust, the mechanical and electrical systems require diligent maintenance and awareness of potential costly repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

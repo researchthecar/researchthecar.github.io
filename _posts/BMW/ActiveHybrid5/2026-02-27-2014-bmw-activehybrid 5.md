@@ -37,6 +37,19 @@ The 2014 BMW ActiveHybrid 5, a luxury sedan blending performance with efficiency
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -90,3 +103,15 @@ The 2014 BMW ActiveHybrid 5, a luxury sedan blending performance with efficiency
 --- 
 ### Summary Verdict
 The 2014 BMW ActiveHybrid 5 demonstrates good overall reliability, with its core mechanical components performing well. The primary areas of concern are specific to its hybrid system, namely potential degradation of the hybrid battery and issues with the electric motor/generator, which can incur significant repair costs. Electrical gremlins, particularly with the hybrid control module and infotainment system, are also noted. However, for a luxury hybrid vehicle of this era, these issues are not considered excessive. Regular maintenance and prompt attention to hybrid system warnings are recommended for optimal long-term ownership.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

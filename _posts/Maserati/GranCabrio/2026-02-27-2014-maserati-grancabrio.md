@@ -37,6 +37,19 @@ The 2014 Maserati GranCabrio, a luxurious Italian convertible, offers a compelli
 - **Cost:** $400 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Skyhook System
@@ -102,3 +115,15 @@ The 2014 Maserati GranCabrio, a luxurious Italian convertible, offers a compelli
 --- 
 ### Summary Verdict
 The 2014 Maserati GranCabrio is a desirable exotic car, but its ownership experience can be punctuated by specific mechanical and electrical issues. Common concerns include oil leaks and timing chain wear in the V8 engine, and potential transmission shifting problems. The sophisticated adaptive suspension can also be a source of costly repairs if dampers or air springs fail. Electrical gremlins, particularly with the infotainment and convertible top systems, are not uncommon. Exterior paint and interior leather can also show premature wear. While not plagued by widespread catastrophic failures, owners should budget for potentially expensive repairs, especially for the engine, transmission, and suspension components, and ensure diligent maintenance is performed by marque-specialist technicians.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

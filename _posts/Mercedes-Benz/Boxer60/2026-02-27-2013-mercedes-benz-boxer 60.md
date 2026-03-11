@@ -56,6 +56,19 @@ The 2013 Mercedes-Benz Boxer 60, a robust commercial vehicle, generally exhibits
 - **Cost:** $1,500 - $3,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -121,3 +134,15 @@ The 2013 Mercedes-Benz Boxer 60, a robust commercial vehicle, generally exhibits
 --- 
 ### Summary Verdict
 The 2013 Mercedes-Benz Boxer 60 is a generally reliable commercial vehicle. The most common issues tend to be related to the diesel engines, particularly the turbocharger and EGR system on the 2.3L, and glow plugs/injectors on the 3.0L. Transmission issues are less frequent but clutch wear on manuals and torque converter problems on automatics are noted. Suspension components like shocks and springs can wear, especially under heavy use. Electrical gremlins, often due to wiring harness issues, and exterior rust are also points to monitor. Interior wear is typical for a vehicle of this age and purpose. Overall, with diligent maintenance, the Boxer 60 offers good long-term service.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

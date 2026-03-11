@@ -51,6 +51,19 @@ The 2018 Land Rover Discovery, a capable and luxurious SUV, generally presents a
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Air Suspension System
@@ -102,3 +115,15 @@ The 2018 Land Rover Discovery, a capable and luxurious SUV, generally presents a
 --- 
 ### Summary Verdict
 The 2018 Land Rover Discovery offers a compelling blend of luxury and off-road capability. While generally reliable, potential owners should be aware of specific issues, particularly concerning the air suspension system (leaks, compressor failure) and certain diesel engine components (EGR cooler, DPF). Electrical gremlins, especially with the infotainment system and occasional battery drain, are also noted. The petrol V6 and the automatic transmission have proven to be quite robust. Addressing these potential issues proactively through diligent maintenance and prompt repairs can ensure a more positive ownership experience with this capable SUV.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

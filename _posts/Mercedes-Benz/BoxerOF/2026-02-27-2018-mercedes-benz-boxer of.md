@@ -56,6 +56,19 @@ The 2018 Mercedes-Benz Boxer OF, a robust commercial vehicle, generally exhibits
 - **Cost:** $1,000 - $2,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front Suspension
@@ -123,3 +136,15 @@ The 2018 Mercedes-Benz Boxer OF, a robust commercial vehicle, generally exhibits
 --- 
 ### Summary Verdict
 The 2018 Mercedes-Benz Boxer OF demonstrates a commendable level of reliability for a commercial vehicle. The most frequently reported technical concerns revolve around the diesel engines, particularly issues with the turbocharger and EGR valve on the 2.3L variant, and glow plugs and fuel injectors on the 3.0L. Transmission issues are less common but can include clutch wear on manual units and actuator problems with the automated manual. Suspension components like ball joints and leaf springs can experience wear, as expected in heavy-duty use. Electrical gremlins, such as BCM glitches and alternator failures, are also noted. Exterior and interior components generally hold up well, with minor issues like hinge corrosion being the primary concern. Overall, with proactive maintenance and addressing issues promptly, the Boxer OF is a dependable workhorse.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

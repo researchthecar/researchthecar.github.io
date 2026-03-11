@@ -57,6 +57,19 @@ The 2005 Mercedes-Benz CL65 AMG, a high-performance luxury coupe, is known for i
 - **Cost:** $1000 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Active Body Control (ABC)
@@ -122,3 +135,15 @@ The 2005 Mercedes-Benz CL65 AMG, a high-performance luxury coupe, is known for i
 --- 
 ### Summary Verdict
 The 2005 Mercedes-Benz CL65 AMG is a remarkable performance coupe, but its complexity and high-output V12 engine mean that potential buyers should anticipate higher maintenance and repair costs compared to less performance-oriented vehicles. Key areas to monitor include the Active Body Control suspension, twin-turbocharged V12 engine components (especially turbos and intercoolers), and the 5-speed automatic transmission. Electrical gremlins, particularly with the COMAND system and various sensors, can also arise. While the exterior and interior are generally well-built, specific components like climate control and power seats can develop issues. Thorough pre-purchase inspection by a specialist familiar with AMG models is highly recommended.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

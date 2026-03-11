@@ -46,6 +46,19 @@ The 2022 Hyundai Santa Cruz, a compact pickup truck with a unibody construction,
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Independent Front and Rear
@@ -106,3 +119,15 @@ The 2022 Hyundai Santa Cruz, a compact pickup truck with a unibody construction,
 --- 
 ### Summary Verdict
 The 2022 Hyundai Santa Cruz demonstrates a commendable level of reliability for a first-year model. The powertrain options (2.5L naturally aspirated and turbocharged engines paired with 8-speed automatics) have not shown significant widespread issues. Similarly, the suspension and core exterior/interior components appear robust. The primary areas where minor concerns have been noted are within the electrical system, specifically occasional infotainment glitches that are often resolvable with software updates, and a few reports of premature 12V battery failure. Overall, the Santa Cruz offers a promising start in terms of dependability, with most owners likely to experience a trouble-free ownership period, provided these minor electrical quirks are addressed.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

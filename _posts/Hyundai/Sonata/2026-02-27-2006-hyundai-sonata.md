@@ -61,6 +61,19 @@ The 2006 Hyundai Sonata, a mid-size sedan, offered a blend of value and features
 - **Cost:** $600 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -114,3 +127,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2006 Hyundai Sonata presents a mixed reliability profile. While its core powertrain components are generally robust, owners should be aware of potential issues with oil leaks and timing belt maintenance on the 2.4L engine, and camshaft sensor/intake manifold issues on the 3.3L V6. Automatic transmission problems like slipping gears can be costly. Suspension components like ball joints and bushings are common wear items. Electrical gremlins, particularly with the BCM and alternator, can arise. Exterior paint degradation and interior comfort system quirks are also noted. Despite these potential drawbacks, many issues are repairable, and the Sonata can still be a viable option if well-maintained and if common problems are addressed proactively.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

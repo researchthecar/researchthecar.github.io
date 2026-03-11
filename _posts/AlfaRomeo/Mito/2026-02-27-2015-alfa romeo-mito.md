@@ -68,6 +68,19 @@ The 2015 Alfa Romeo MiTo, a stylish Italian compact car, offers a range of engin
 - **Cost:** $200 - $500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -112,3 +125,15 @@ The 2015 Alfa Romeo MiTo, a stylish Italian compact car, offers a range of engin
 --- 
 ### Summary Verdict
 The 2015 Alfa Romeo MiTo presents a mixed reliability profile. While its engines, particularly the petrol MultiAir and diesel JTDm variants, can be prone to specific component failures like the MultiAir unit or DPF issues, these are often addressable with targeted repairs. The Dualogic transmission is a notable area for potential concern, with actuator issues being the most significant reported problem. Suspension components like bushings can wear over time, leading to noise and handling degradation. Electrical gremlins, especially with the infotainment system, are also not uncommon. Despite these points, the MiTo's core mechanicals are generally robust if maintained, but potential buyers should factor in the possibility of addressing these known issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

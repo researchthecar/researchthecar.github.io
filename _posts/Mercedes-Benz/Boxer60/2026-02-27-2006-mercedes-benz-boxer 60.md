@@ -44,6 +44,19 @@ The 2006 Mercedes-Benz Boxer 60, a commercial van known for its utility and robu
 - **Cost:** $700 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -90,3 +103,15 @@ The 2006 Mercedes-Benz Boxer 60, a commercial van known for its utility and robu
 --- 
 ### Summary Verdict
 The 2006 Mercedes-Benz Boxer 60 is a capable commercial vehicle with a generally acceptable reliability profile for its class and age. The most common concerns tend to be related to the diesel engine's ancillary components like glow plugs and turbochargers, as well as wear on manual transmission clutches and synchronizers. Suspension components, particularly leaf springs, can also require attention due to the nature of commercial use. Electrical issues, such as wiring harness problems and alternator failures, are not uncommon. Exterior rust can be a concern depending on climate and maintenance. Overall, with diligent maintenance and prompt attention to emerging issues, the Boxer 60 can remain a dependable workhorse.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

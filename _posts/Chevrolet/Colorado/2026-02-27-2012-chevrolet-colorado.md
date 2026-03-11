@@ -68,6 +68,19 @@ The 2012 Chevrolet Colorado, a compact pickup truck, offered a range of powertra
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -117,3 +130,15 @@ The 2012 Chevrolet Colorado, a compact pickup truck, offered a range of powertra
 --- 
 ### Summary Verdict
 The 2012 Chevrolet Colorado is a capable compact truck, but potential buyers and current owners should be aware of common issues. The engines, particularly the 2.9L and 3.7L, can experience cooling system leaks and, in the case of the 3.7L, timing chain problems. Automatic transmissions may develop slipping or overheating issues. Suspension components like ball joints and leaf springs are also noted for wear. Electrical problems such as alternator failure and window regulator issues are not uncommon. Exterior rust, especially on the frame, is a significant concern for vehicles in certain climates. Interiorly, HVAC blower motor failures can affect comfort. While not overwhelmingly problematic, these areas represent the most frequent technical concerns reported for this model year.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -39,6 +39,19 @@ The 2024 Mitsubishi Mirage G4 is a subcompact sedan known for its affordability 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Torsion Beam Rear
@@ -99,3 +112,15 @@ The 2024 Mitsubishi Mirage G4 is a subcompact sedan known for its affordability 
 --- 
 ### Summary Verdict
 The 2024 Mitsubishi Mirage G4 demonstrates a generally reliable profile, particularly concerning its core powertrain. The 1.2L engine and available CVT or manual transmission are not subject to widespread mechanical failures. Minor electrical issues, primarily with the infotainment system, and some interior trim wear are the most commonly noted, though these are typically minor and easily addressed. The suspension, exterior, and other major systems appear robust for the vehicle's intended use. Overall, the Mirage G4 is a dependable choice for budget-conscious buyers prioritizing basic transportation and low running costs, with few significant reliability concerns.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

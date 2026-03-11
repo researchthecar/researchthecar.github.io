@@ -46,6 +46,19 @@ The 2017 Mercedes-Benz Torino, a model known for its blend of luxury and perform
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -113,3 +126,15 @@ The 2017 Mercedes-Benz Torino, a model known for its blend of luxury and perform
 --- 
 ### Summary Verdict
 The 2017 Mercedes-Benz Torino demonstrates a commendable level of reliability, with most major systems performing as expected. The powertrain, in both its petrol and diesel variants, and the automatic transmissions are generally robust. Potential areas for attention include the AIRMATIC air suspension, which can develop leaks over time, and certain electrical components like the infotainment system and battery management, which may experience software glitches or parasitic drain. Exterior and interior components are largely free from widespread issues, though specific parts like LED headlights or climate control actuators can fail. Overall, the Torino offers a dependable luxury experience, with most reported issues being isolated rather than systemic.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

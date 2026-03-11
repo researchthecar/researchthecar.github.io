@@ -58,6 +58,19 @@ The 2022 Mini Cooper Clubman generally presents a strong reliability profile, bu
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -114,3 +127,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2022 Mini Cooper Clubman demonstrates good overall reliability, with most reported issues being minor and addressable through software updates or component replacements. The 2.0L turbocharged engine, while offering spirited performance, has a slightly higher potential for issues like coolant leaks and turbocharger problems compared to the 1.5L three-cylinder. Transmission reliability is generally strong across all options, though some dual-clutch automatic users have reported occasional shifting anomalies. Electrical gremlins, particularly with the infotainment system, are not uncommon but are typically resolved with software fixes. For owners prioritizing a blend of driving dynamics and dependable daily use, the Clubman is a solid choice, especially models equipped with the 1.5L engine or manual transmission.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

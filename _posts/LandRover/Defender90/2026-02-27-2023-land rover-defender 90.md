@@ -46,6 +46,19 @@ The 2023 Land Rover Defender 90, a modern interpretation of an iconic off-roader
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Coil Spring Suspension
@@ -109,3 +122,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2023 Land Rover Defender 90 demonstrates a solid reliability record, particularly concerning its core powertrain components across all engine and transmission options. The Ingenium engines and the ZF 8-speed automatic transmission are generally robust. Potential areas for attention are primarily within the electronic systems, such as the infotainment unit experiencing occasional software glitches, and the optional air suspension system which can be prone to leaks over time. Battery drain issues, while not widespread, have also been noted and require prompt diagnosis. Overall, the Defender 90 offers a dependable off-road experience, with most reported issues being manageable and not indicative of systemic failures.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

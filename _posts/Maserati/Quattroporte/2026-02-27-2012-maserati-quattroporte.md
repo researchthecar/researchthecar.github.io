@@ -37,6 +37,19 @@ The 2012 Maserati Quattroporte, a luxury sedan known for its potent performance 
 - **Cost:** $1,000 - $3,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Skyhook System
@@ -90,3 +103,15 @@ The 2012 Maserati Quattroporte, a luxury sedan known for its potent performance 
 --- 
 ### Summary Verdict
 The 2012 Maserati Quattroporte is a performance-oriented luxury car with a higher-than-average likelihood of requiring repairs compared to more mainstream luxury vehicles. Key areas of concern include the V8 engine's timing chain tensioners and potential oil leaks, as well as the automatic transmission's shifting behavior. The adaptive suspension can also be a source of costly repairs if air springs or the compressor fail. Electrical gremlins, particularly with the infotainment system and door locks, are not uncommon. While the exterior and interior materials are generally robust, specific components like climate control blend doors can fail. Prospective buyers should budget for above-average maintenance and repair costs and ensure a thorough pre-purchase inspection by a specialist.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

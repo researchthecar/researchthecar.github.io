@@ -32,6 +32,19 @@ The 2022 Hyundai Kona Electric is a subcompact SUV that has garnered positive at
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -99,3 +112,15 @@ The 2022 Hyundai Kona Electric is a subcompact SUV that has garnered positive at
 --- 
 ### Summary Verdict
 The 2022 Hyundai Kona Electric generally presents a strong reliability record, particularly in its core electric powertrain components. The primary areas of concern, as with most EVs, revolve around the long-term health of the battery pack and potential issues with the charging system and infotainment software. While battery degradation is a natural process, significant or premature loss of capacity can be a costly issue, though often covered by warranty. Software glitches in the infotainment system are not uncommon and are typically resolved with updates. Overall, for an electric vehicle, the Kona Electric is considered a reliable option, with most reported issues being manageable or covered under warranty.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -56,6 +56,19 @@ The 2011 Nissan Cabstar is a light commercial vehicle known for its utility and 
 - **Cost:** $150 - $350
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -105,3 +118,15 @@ The 2011 Nissan Cabstar is a light commercial vehicle known for its utility and 
 --- 
 ### Summary Verdict
 The 2011 Nissan Cabstar demonstrates reasonable reliability for a commercial vehicle, with its diesel engines and manual transmissions being generally robust. Common issues tend to revolve around components subject to high wear or specific operating conditions, such as turbochargers, intercoolers, and clutch systems. Suspension components, particularly leaf springs, can require attention due to the vehicle's load-carrying nature. Electrical faults, like alternator failure, are also noted. While not immune to problems, most issues are repairable and do not indicate systemic design flaws. Regular maintenance and prompt attention to early symptoms are crucial for maximizing the lifespan and minimizing downtime of the Cabstar.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -53,6 +53,19 @@ The 2011 Ford Fiesta Ikon, a subcompact car primarily sold in emerging markets, 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -92,3 +105,15 @@ The 2011 Ford Fiesta Ikon, a subcompact car primarily sold in emerging markets, 
 --- 
 ### Summary Verdict
 The 2011 Ford Fiesta Ikon generally exhibits good reliability, particularly concerning its core mechanical components like the engine and transmission. Owners typically report few significant issues beyond routine maintenance. The electrical system, suspension, exterior, and interior also tend to hold up well, reflecting the car's design philosophy of simplicity and durability. While specific issues are rare, any problems encountered are usually minor and manageable. Overall, the Fiesta Ikon is considered a dependable choice for basic transportation, with a low likelihood of major mechanical failures.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

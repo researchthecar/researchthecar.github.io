@@ -42,6 +42,19 @@ The 2018 Aston Martin Vanquish represents the pinnacle of British luxury grand t
 - **Cost:** $1500 - $3000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Dampers
@@ -91,3 +104,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2018 Aston Martin Vanquish is a highly desirable supercar with a generally strong reliability record for its class. The V12 engine and automatic transmission are robust, though potential issues like ignition coil failures, oil leaks, and transmission fluid leaks can arise and are costly to repair. Electrical gremlins, particularly with the infotainment system and occasional battery drain, are also noted. Suspension components, especially the adaptive dampers, can be expensive if they fail. While interior and exterior elements are typically of high quality, owners should be aware of the potential for significant repair costs associated with the powertrain and electronics, which is characteristic of owning a low-volume, high-performance luxury vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

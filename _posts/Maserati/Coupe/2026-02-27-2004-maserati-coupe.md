@@ -54,6 +54,19 @@ The 2004 Maserati Coupe, a striking Italian grand tourer, offers a blend of perf
 - **Cost:** $800 - $1,800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Skyhook System
@@ -108,3 +121,15 @@ The 2004 Maserati Coupe, a striking Italian grand tourer, offers a blend of perf
 --- 
 ### Summary Verdict
 The 2004 Maserati Coupe is a desirable exotic car with a passionate following. Its reliability is a mixed bag, with the potent V8 engine and manual transmission generally being robust if well-maintained. However, the sophisticated adaptive suspension and complex electronic systems are known weak points that can lead to costly repairs. The DuoSelect transmission, while offering a unique driving experience, is particularly prone to issues. Owners should budget for potential maintenance and repairs, especially concerning the electrical and suspension components. Thorough pre-purchase inspection by a specialist is highly recommended.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

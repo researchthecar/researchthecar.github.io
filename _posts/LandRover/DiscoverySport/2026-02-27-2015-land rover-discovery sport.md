@@ -61,6 +61,19 @@ The 2015 Land Rover Discovery Sport, a compact luxury SUV, aimed to blend practi
 - **Cost:** $200 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -103,3 +116,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2015 Land Rover Discovery Sport presents a mixed reliability profile. The diesel engines, particularly the TD4 variants, are prone to EGR valve and turbocharger issues, while the petrol engine can suffer from timing chain problems. The 9-speed automatic transmission may exhibit harsh shifting or leaks. Electrical gremlins, such as infotainment system glitches and battery drain, are also noted. Suspension components like bushings can wear prematurely, leading to noise and handling issues. While the exterior and interior generally hold up well, potential buyers should be aware of these common technical concerns and factor in potential repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

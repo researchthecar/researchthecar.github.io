@@ -54,6 +54,19 @@ The 2003 Lamborghini Murciélago, a celebrated V12 supercar, represents a pinnac
 - **Cost:** $3,500 - $6,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -103,3 +116,15 @@ The 2003 Lamborghini Murciélago, a celebrated V12 supercar, represents a pinnac
 --- 
 ### Summary Verdict
 The 2003 Lamborghini Murciélago, while a mechanical marvel, presents potential reliability concerns primarily centered around its complex V12 engine and the sophisticated E-gear transmission. Owners should be prepared for potential issues with cooling systems, oil coolers, and exhaust manifolds, which can lead to significant repair costs. The E-gear system, in particular, is known for actuator and hydraulic pump failures. While the chassis, exterior, and interior generally hold up well, electrical gremlins such as window regulators and sensor failures can also occur. Proactive maintenance and a thorough pre-purchase inspection are highly recommended for any prospective owner to mitigate unexpected expenses and ensure the continued performance of this exotic supercar.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

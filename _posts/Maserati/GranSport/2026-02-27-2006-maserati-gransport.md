@@ -42,6 +42,19 @@ The 2006 Maserati GranSport, a performance-oriented evolution of the 3200 GT, is
 - **Cost:** $1,000 - $2,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Skyhook System
@@ -100,3 +113,15 @@ The 2006 Maserati GranSport, a performance-oriented evolution of the 3200 GT, is
 --- 
 ### Summary Verdict
 The 2006 Maserati GranSport offers a thrilling driving experience but comes with a reliability profile typical of exotic Italian sports cars from its era. Key areas of concern include the engine's timing chain tensioners, the DuoSelect transmission's clutch actuator and hydraulic system, and the adaptive Skyhook suspension components. Electrical gremlins, particularly related to the Body Control Module and infotainment system, are also noted. While the exterior and interior are generally well-built, specific components like climate control blend doors can fail. Prospective buyers should budget for potential repairs, prioritize vehicles with comprehensive service history, and seek out specialists familiar with Maserati's intricacies to mitigate ownership risks.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

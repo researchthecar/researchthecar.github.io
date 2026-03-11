@@ -44,6 +44,19 @@ The 2002 Hyundai Elantra, a compact sedan, aimed to offer value and practicality
 - **Cost:** $200 - $400 (fluid/filter), $400 - $800 (solenoids), $1500 - $3000 (rebuild)
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -88,3 +101,15 @@ The 2002 Hyundai Elantra, a compact sedan, aimed to offer value and practicality
 --- 
 ### Summary Verdict
 The 2002 Hyundai Elantra is a generally reliable vehicle for its price point, but it is not without its common issues. Owners should be aware of potential problems such as oil leaks and timing belt concerns with the 1.8L engine. Transmission issues, particularly with the automatic, can arise, manifesting as harsh shifting. Suspension components like ball joints and tie rods may wear over time. Electrical gremlins, including alternator failure and power window motor issues, are also reported. Interior comfort can be affected by HVAC blower resistor failures. While many of these are repairable, they represent the most frequent technical reliability concerns for this model year.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

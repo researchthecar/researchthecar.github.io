@@ -51,6 +51,19 @@ The 2021 Mini Cooper Clubman generally presents a strong reliability profile, bu
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -111,3 +124,15 @@ The 2021 Mini Cooper Clubman generally presents a strong reliability profile, bu
 --- 
 ### Summary Verdict
 The 2021 Mini Cooper Clubman is a reliable vehicle with a generally positive ownership experience. The powertrain, including both the 1.5L and 2.0L turbocharged engines and the available transmissions, shows good durability with only minor, isolated reports of issues like coolant leaks or turbocharger concerns on the more powerful variants. The primary areas that may require attention are related to the electrical system, specifically infotainment software glitches and occasional battery drain issues, which are not uncommon in modern vehicles with complex electronics. Suspension and exterior/interior components are largely free of widespread complaints. Overall, the Clubman offers solid reliability for its class, provided routine maintenance is performed and potential electrical gremlins are addressed promptly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

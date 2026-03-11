@@ -66,6 +66,19 @@ The 2020 Maserati Ghibli, a luxury sports sedan, offers a blend of Italian desig
 - **Cost:** $300 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -112,3 +125,15 @@ The 2020 Maserati Ghibli, a luxury sports sedan, offers a blend of Italian desig
 --- 
 ### Summary Verdict
 The 2020 Maserati Ghibli, while a desirable luxury vehicle, exhibits some common reliability concerns typical of high-performance Italian cars. The most frequently reported issues revolve around the engine, particularly oil leaks and turbocharger problems, which can be costly to repair. Transmission issues like harsh shifting and leaks also appear, alongside potential electrical glitches with the infotainment system and battery drain. Owners should be aware of these potential weak points and factor in the possibility of higher maintenance costs compared to more mainstream luxury brands. Regular servicing and prompt attention to any warning signs are crucial for maintaining the Ghibli's performance and longevity.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

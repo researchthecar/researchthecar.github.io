@@ -49,6 +49,19 @@ The 2006 Ford Five Hundred, a mid-size sedan, aimed to offer a comfortable and s
 - **Cost:** $700 - $1800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -95,3 +108,15 @@ The 2006 Ford Five Hundred, a mid-size sedan, aimed to offer a comfortable and s
 --- 
 ### Summary Verdict
 The 2006 Ford Five Hundred presents a mixed reliability profile. The powertrain, particularly the CVT transmission, is a notable area for potential concern, with fluid leaks and valve body issues being the most common complaints. Engine-related issues like intake manifold gasket leaks and VIM actuator failures also require attention. The suspension can experience strut mount bearing issues, and electrical gremlins, often linked to the Body Control Module or premature alternator failure, are not uncommon. While exterior and interior components generally hold up well, potential buyers should be aware of these specific mechanical and electrical vulnerabilities and factor in potential repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

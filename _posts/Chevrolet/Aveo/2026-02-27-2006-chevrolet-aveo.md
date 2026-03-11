@@ -44,6 +44,19 @@ The 2006 Chevrolet Aveo, a subcompact car, was designed with affordability and f
 - **Cost:** $400 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -93,3 +106,15 @@ The 2006 Chevrolet Aveo, a subcompact car, was designed with affordability and f
 --- 
 ### Summary Verdict
 The 2006 Chevrolet Aveo presents a mixed reliability profile. While its powertrain is generally robust for its class, common issues tend to surface in areas like oil and coolant leaks from the engine, and wear-and-tear on suspension components such as ball joints and tie rods. Transmission issues, particularly with the automatic variant, can be costly. Electrical gremlins, like faulty window regulators and instrument cluster problems, are also noted. Exterior rust can be a concern depending on the vehicle's history and climate. Overall, expect potential repairs related to seals, suspension, and electrical components, which are typical for vehicles in this age and price bracket.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

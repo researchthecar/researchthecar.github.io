@@ -66,6 +66,19 @@ The 2003 Dodge Grand Caravan, a popular minivan, offered a range of engine and t
 - **Cost:** $400 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -138,3 +151,15 @@ The 2003 Dodge Grand Caravan, a popular minivan, offered a range of engine and t
 --- 
 ### Summary Verdict
 The 2003 Dodge Grand Caravan is a functional minivan with common issues for its age and class. Owners should be aware of potential problems with the 2.4L, 3.3L, and 3.8L engines, particularly head gasket failures and intake manifold leaks. Transmission issues, especially with the 4-speed automatic, can include torque converter and solenoid problems. Suspension components like ball joints and tie rods are also prone to wear. Electrical gremlins, such as BCM failures and power window motor issues, can arise. Exterior rust and sticking sliding doors are common cosmetic and functional concerns. Interiorly, HVAC blend door actuators and dashboard cracking are notable. Despite these potential issues, many Grand Caravans remain reliable with proper maintenance and timely repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

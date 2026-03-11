@@ -37,6 +37,19 @@ The 2019 Audi RS5 Sportback, a high-performance four-door coupe, generally exhib
 - **Cost:** $500 - $2,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Sport Suspension
@@ -83,3 +96,15 @@ The 2019 Audi RS5 Sportback, a high-performance four-door coupe, generally exhib
 --- 
 ### Summary Verdict
 The 2019 Audi RS5 Sportback is a compelling performance sedan with a generally solid reliability record. The primary areas of concern tend to be related to its high-performance nature, such as potential turbocharger issues and the complexity of the adaptive suspension. Electrical gremlins, particularly with the infotainment system and driver assistance sensors, can also arise. Transmission performance is usually robust, but occasional reports of harsh shifting warrant attention. Owners should be prepared for potentially higher maintenance costs associated with premium performance vehicles, especially concerning the specialized components of the RS5. Regular servicing and prompt attention to any warning lights are crucial for maintaining its performance and longevity.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

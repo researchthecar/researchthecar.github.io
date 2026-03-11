@@ -49,6 +49,19 @@ The 2006 Aston Martin V8 Vantage represents a blend of potent performance and ha
 - **Cost:** $3,000 - $6,000+
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -93,3 +106,15 @@ The 2006 Aston Martin V8 Vantage represents a blend of potent performance and ha
 --- 
 ### Summary Verdict
 The 2006 Aston Martin V8 Vantage is a desirable supercar with a generally solid mechanical foundation, particularly the manual transmission variant. The primary areas of concern tend to be the timing chain tensioners on the 4.3L V8 engine, which require proactive inspection and potential replacement to avoid catastrophic failure. Clutch wear can be significant, especially with spirited driving. Electrical gremlins, particularly with the infotainment system and door actuators, are also noted. While the suspension, exterior, and interior are typically robust, potential buyers should budget for these specific powertrain and electrical maintenance items. Regular servicing by a specialist familiar with Aston Martins is crucial for long-term reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

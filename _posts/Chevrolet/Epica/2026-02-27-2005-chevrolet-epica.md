@@ -56,6 +56,19 @@ The 2005 Chevrolet Epica, a mid-size sedan, offered a range of engine and transm
 - **Cost:** $500 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -100,3 +113,15 @@ The 2005 Chevrolet Epica, a mid-size sedan, offered a range of engine and transm
 --- 
 ### Summary Verdict
 The 2005 Chevrolet Epica presents a mixed reliability profile. The inline-6 engine, while offering smoother power delivery, is more prone to timing chain and oil consumption issues than the inline-4. Automatic transmission problems like harsh shifting are not uncommon. Suspension components, particularly bushings and ball joints, can wear out, leading to noise and handling degradation. Electrical gremlins, such as faulty window regulators and sensors, also appear in owner reports. Exterior rust can be a concern depending on climate and maintenance. Interior issues are less severe, with HVAC blower motor failures being a notable point. Overall, while not plagued by widespread catastrophic failures, the Epica requires attention to its specific weak points to maintain reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -86,6 +86,19 @@ The 2005 Chevrolet Corsa, a popular compact car, generally offered a decent leve
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -154,3 +167,15 @@ The 2005 Chevrolet Corsa, a popular compact car, generally offered a decent leve
 --- 
 ### Summary Verdict
 The 2005 Chevrolet Corsa presents a mixed reliability profile. Gasoline engines, particularly the 1.0L to 1.4L Ecotec variants, and the standard manual transmissions are generally robust. However, diesel engines, especially the 1.3 CDTI, can be prone to turbocharger and EGR issues. The automated manual (Easytronic) transmission is a notable weak point, with actuator failures being a common complaint. Electrical gremlins, such as instrument cluster and window regulator problems, are also frequently reported. Exterior rust can be a concern on older models, particularly in the wheel arches and sills. Overall, while the Corsa can be an economical car to run, potential buyers should be aware of these specific potential issues and factor in the possibility of repairs, especially concerning the diesel engines and automated transmission.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

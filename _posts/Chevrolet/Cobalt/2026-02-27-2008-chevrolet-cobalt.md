@@ -80,6 +80,19 @@ The 2008 Chevrolet Cobalt, a compact car, offered a range of powertrain options 
 - **Cost:** $700 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -145,3 +158,15 @@ The 2008 Chevrolet Cobalt, a compact car, offered a range of powertrain options 
 --- 
 ### Summary Verdict
 The 2008 Chevrolet Cobalt presents a mixed reliability picture. While its basic operation is generally sound, potential buyers should be aware of common issues, particularly concerning oil consumption and leaks with the 2.4L engine, and timing chain concerns with the 2.2L. Automatic transmission issues, such as torque converter problems and fluid leaks, are also noted. Electrical gremlins, often linked to the BCM, can be frustrating. Exterior rust can be a concern in certain climates. Despite these potential drawbacks, many of the issues are addressable with proper maintenance and timely repairs, making it a potentially viable option for those seeking an economical vehicle, provided a thorough pre-purchase inspection is conducted.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

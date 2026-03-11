@@ -42,6 +42,19 @@ The 2012 Dodge Grand Caravan is a family-oriented minivan known for its practica
 - **Cost:** $200 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -86,3 +99,15 @@ The 2012 Dodge Grand Caravan is a family-oriented minivan known for its practica
 --- 
 ### Summary Verdict
 The 2012 Dodge Grand Caravan, powered by the 3.6L Pentastar V6, presents a mixed reliability profile. Common issues tend to center around the engine's intake manifold and oil filter housing, with potential for leaks. The 6-speed automatic transmission can experience shifting problems and leaks, requiring attention. Electrical components like power windows and the Uconnect system are not immune to glitches. Exterior and interior components, such as rear hatch struts and sliding doors, can also develop issues over time. While not plagued by catastrophic failures, owners should be aware of these potential repair points and budget accordingly for maintenance beyond standard wear and tear.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

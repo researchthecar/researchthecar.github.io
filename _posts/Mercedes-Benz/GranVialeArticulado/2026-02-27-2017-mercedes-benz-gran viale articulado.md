@@ -46,6 +46,19 @@ The 2017 Mercedes-Benz Gran Viale Articulado, a robust articulated bus designed 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Air Suspension System
@@ -111,3 +124,15 @@ The 2017 Mercedes-Benz Gran Viale Articulado, a robust articulated bus designed 
 --- 
 ### Summary Verdict
 The 2017 Mercedes-Benz Gran Viale Articulado demonstrates a commendable level of reliability for a commercial vehicle of its size and complexity. While the air suspension system can experience issues like leaks or compressor failures, and electrical components such as the BCM or wiring harnesses may require attention over time, these are not indicative of systemic design flaws. The powertrains (OM 470 and OM 936 engines with ZF Ecolife transmissions) are generally robust. Proactive maintenance and prompt addressing of minor issues are key to ensuring the long-term operational efficiency and durability of this articulated bus. Overall, it is a dependable choice for public transportation fleets.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

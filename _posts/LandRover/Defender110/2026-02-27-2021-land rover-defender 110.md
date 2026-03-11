@@ -44,6 +44,19 @@ The 2021 Land Rover Defender 110, a highly anticipated revival of an iconic name
 - **Cost:** $500 - $2,500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Air Suspension System
@@ -116,3 +129,15 @@ The 2021 Land Rover Defender 110, a highly anticipated revival of an iconic name
 --- 
 ### Summary Verdict
 The 2021 Land Rover Defender 110 presents a generally robust package, particularly in its core off-road capabilities. However, early models have shown some susceptibility to specific issues, notably with the air suspension system (leaks, compressor failure) and electrical components, such as infotainment glitches and potential battery drain. Engine-related concerns, like coolant leaks in the P300 and mild-hybrid system issues in the P400, have also been documented. Transmission performance is generally good, though some instances of rough shifting have occurred. While the interior and exterior have largely avoided widespread problems, potential buyers should be aware of these documented technical concerns and factor in potential repair costs, especially for the more complex systems like the air suspension and mild-hybrid setup.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

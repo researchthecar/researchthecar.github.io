@@ -46,6 +46,19 @@ The 2016 Mini Cooper Clubman, a compact premium hatchback, offers a blend of spo
 - **Cost:** $400 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -90,3 +103,15 @@ The 2016 Mini Cooper Clubman, a compact premium hatchback, offers a blend of spo
 --- 
 ### Summary Verdict
 The 2016 Mini Cooper Clubman generally demonstrates good reliability, with its powertrains being a strong point. The 1.5L engine in the Cooper model is particularly robust. The Cooper S model's 2.0L engine may occasionally develop oil leaks, which are typically manageable repairs. Automatic transmission models can sometimes exhibit harsh shifting, often resolvable with fluid services or software adjustments. Electrical gremlins, such as infotainment system glitches and battery drain, are the most frequently cited non-routine issues, though not necessarily widespread. Suspension, exterior, and interior components are largely free of significant reported problems. Overall, the Clubman is a reliable choice, especially when basic maintenance is kept up.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

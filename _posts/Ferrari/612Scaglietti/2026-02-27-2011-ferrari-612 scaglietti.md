@@ -42,6 +42,19 @@ The 2011 Ferrari 612 Scaglietti, a grand tourer known for its blend of performan
 - **Cost:** $1500 - $3000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Dampers
@@ -88,3 +101,15 @@ The 2011 Ferrari 612 Scaglietti, a grand tourer known for its blend of performan
 --- 
 ### Summary Verdict
 The 2011 Ferrari 612 Scaglietti is a mechanically sound vehicle, but its complexity means potential issues can arise, particularly with the F1 transmission and electronic systems. While the V12 engine is generally robust, ignition coils and cooling system integrity are areas to monitor. Suspension components, especially the adaptive dampers, can be costly to repair. Electrical gremlins, such as infotainment glitches and window regulator failures, are not uncommon. Despite these points, with diligent maintenance and prompt attention to any warning signs, the 612 Scaglietti can provide a reliable and exhilarating ownership experience. Specialized Ferrari technicians are recommended for diagnosis and repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -32,6 +32,19 @@ The 2022 BMW Alpina B8 Gran Coupe represents a pinnacle of performance and luxur
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Alpina Active Suspension
@@ -92,3 +105,15 @@ The 2022 BMW Alpina B8 Gran Coupe represents a pinnacle of performance and luxur
 --- 
 ### Summary Verdict
 The 2022 BMW Alpina B8 Gran Coupe demonstrates strong reliability, benefiting from BMW's mature platform and Alpina's performance-oriented enhancements. The core powertrain (4.4L Twin-Turbo V8 and 8-speed automatic transmission) is exceptionally robust, with no significant widespread issues reported. Minor concerns are primarily limited to occasional infotainment software glitches and potential sensor recalibration needs for ADAS features, which are common across many modern luxury vehicles. The suspension, exterior, and interior components are generally free from significant defects. Overall, the B8 is a dependable high-performance luxury car, with maintenance costs reflecting its premium nature.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

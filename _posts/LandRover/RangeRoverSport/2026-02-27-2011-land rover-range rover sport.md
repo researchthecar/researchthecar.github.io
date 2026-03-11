@@ -54,6 +54,19 @@ The 2011 Land Rover Range Rover Sport, while offering a blend of luxury and off-
 - **Cost:** $1,500 - $2,500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Air Suspension
@@ -108,3 +121,15 @@ The 2011 Land Rover Range Rover Sport, while offering a blend of luxury and off-
 --- 
 ### Summary Verdict
 The 2011 Range Rover Sport is a capable luxury SUV, but potential buyers should be aware of its reliability concerns, particularly with the V8 gasoline engine's timing chain and the diesel's turbocharger. The automatic transmission can also be a source of expensive repairs. Air suspension components and electrical gremlins, especially with the infotainment system, are also common complaints. While the exterior and interior generally fare better, specific issues like sunroof and heated seat failures can occur. Thorough pre-purchase inspection and a budget for potential repairs are strongly advised for this model year.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

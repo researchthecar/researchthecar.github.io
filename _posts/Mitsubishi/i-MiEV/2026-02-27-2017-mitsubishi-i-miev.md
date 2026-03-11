@@ -32,6 +32,19 @@ The 2017 Mitsubishi i-MiEV is a subcompact electric vehicle known for its urban 
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -90,3 +103,15 @@ The 2017 Mitsubishi i-MiEV is a subcompact electric vehicle known for its urban 
 --- 
 ### Summary Verdict
 The 2017 Mitsubishi i-MiEV demonstrates good reliability in its core electric powertrain components, with the electric motor and single-speed transmission being largely trouble-free. The primary areas of concern revolve around the high-voltage battery pack, which can experience degradation over its lifespan, leading to reduced range and potentially costly replacement. Electrical system issues, particularly with charging components and the auxiliary 12V battery, are also noted. While the suspension, exterior, and interior generally hold up well, the HVAC system's heating performance can be a point of mild dissatisfaction in colder climates. Overall, the i-MiEV is a mechanically simple EV, but potential buyers should be aware of battery health and associated costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

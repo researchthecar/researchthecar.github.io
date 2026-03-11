@@ -56,6 +56,19 @@ The 2014 Nissan Cabstar, a light commercial vehicle, generally presents a solid 
 - **Cost:** $200 - $400
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -105,3 +118,15 @@ The 2014 Nissan Cabstar, a light commercial vehicle, generally presents a solid 
 --- 
 ### Summary Verdict
 The 2014 Nissan Cabstar demonstrates good overall reliability, especially concerning its powertrain. The diesel engines, while generally robust, can experience issues like glow plug failures or turbocharger problems, particularly with high mileage or less diligent maintenance. Transmission reliability is also strong, with manual gearboxes being the norm and clutch wear being the most common concern. Suspension components, particularly leaf springs and shock absorbers, may require attention due to the vehicle's commercial nature and load-carrying duties. Electrical issues, such as alternator failure, are not uncommon but are generally repairable. Exterior and interior components are typically durable. For prospective buyers, focusing on maintenance history and addressing any minor issues promptly will ensure continued dependable service.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

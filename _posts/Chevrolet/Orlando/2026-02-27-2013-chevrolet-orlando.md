@@ -73,6 +73,19 @@ The 2013 Chevrolet Orlando, a compact MPV, aimed to blend practicality with a di
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -117,3 +130,15 @@ The 2013 Chevrolet Orlando, a compact MPV, aimed to blend practicality with a di
 --- 
 ### Summary Verdict
 The 2013 Chevrolet Orlando presents a mixed reliability profile. The gasoline engines, particularly the 1.4L turbo and 2.4L, have documented issues with turbocharger failure, coolant leaks, oil consumption, and timing chain problems, which can be costly to repair. The diesel engine, while generally robust, is susceptible to DPF and EGR valve issues common in diesel powertrains. Automatic transmissions have also seen reports of harsh shifting and torque converter problems. Electrical gremlins, such as infotainment system glitches and battery drain, are also noted. However, the suspension, exterior, and interior components appear to be relatively trouble-free. Prospective buyers should be aware of these potential engine and transmission concerns and factor in potential repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -46,6 +46,19 @@ The 2010 Mitsubishi Lancer, a compact car known for its sporty styling and engag
 - **Cost:** $2,000 - $4,500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -85,3 +98,15 @@ The 2010 Mitsubishi Lancer, a compact car known for its sporty styling and engag
 --- 
 ### Summary Verdict
 The 2010 Mitsubishi Lancer is generally considered a reliable vehicle, especially when equipped with the manual transmission. Owners typically experience few significant mechanical problems outside of standard maintenance. The most commonly cited issue, particularly with the 2.0L engine, is excessive oil consumption, which requires diligent monitoring. The CVT transmission, while offering smooth operation, has a higher reported incidence of issues like jerking or hesitation, potentially leading to costly repairs. Other systems like suspension, electrical, exterior, and interior components are largely free from widespread reliability concerns. Prospective buyers should pay close attention to the transmission type and the maintenance history of any 2010 Lancer they consider.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

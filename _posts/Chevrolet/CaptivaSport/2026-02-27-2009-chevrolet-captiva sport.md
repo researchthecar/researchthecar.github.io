@@ -54,6 +54,19 @@ The 2009 Chevrolet Captiva Sport, a compact SUV, offered a blend of practicality
 - **Cost:** $800 - $1,800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -113,3 +126,15 @@ The 2009 Chevrolet Captiva Sport, a compact SUV, offered a blend of practicality
 --- 
 ### Summary Verdict
 The 2009 Chevrolet Captiva Sport presents a mixed reliability profile. Owners should be particularly aware of potential issues with the engine, specifically turbocharger problems on the 2.0L and timing chain/oil consumption concerns on the 2.4L. The automatic transmission can also experience shifting problems and torque converter issues. Suspension components like control arm bushings and strut mounts are common wear items that may require attention. Electrical gremlins, such as faulty window regulators and sensor failures, are also reported. Exterior rust on lower body panels and interior issues like HVAC blower motor failure are notable. While not universally problematic, these areas represent the most frequent technical concerns for this model year.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

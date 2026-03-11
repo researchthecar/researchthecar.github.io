@@ -47,6 +47,19 @@ The 2019 Mercedes-Benz S65 AMG, a pinnacle of luxury and performance, is equippe
 - **Cost:** $1500 - $3000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Active Body Control (ABC)
@@ -90,3 +103,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2019 Mercedes-Benz S65 AMG, while a marvel of engineering, presents potential reliability concerns primarily within its complex powertrain and advanced suspension systems. Owners may encounter issues with ignition coils, oil leaks, and turbochargers on the V12 engine, as well as transmission control module and torque converter problems. The Active Body Control suspension is also a notable area for potential hydraulic leaks or pump failures. Electrical gremlins, particularly with the infotainment system and parasitic battery drain, can also arise. While the exterior and interior generally hold up well, the sophisticated nature of the S65 AMG means that repairs, when needed, can be costly and require specialized knowledge.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

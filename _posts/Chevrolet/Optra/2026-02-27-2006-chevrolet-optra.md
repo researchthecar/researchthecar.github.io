@@ -61,6 +61,19 @@ The 2006 Chevrolet Optra, a compact car offered in various markets, presented a 
 - **Cost:** $700 - $1300
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -115,3 +128,15 @@ The 2006 Chevrolet Optra, a compact car offered in various markets, presented a 
 --- 
 ### Summary Verdict
 The 2006 Chevrolet Optra, while offering an economical entry point, exhibits some common reliability concerns, particularly within its powertrain and electrical systems. Engine issues like oil and coolant leaks are frequently reported, and turbocharged variants can face turbocharger problems. Automatic transmissions may experience harsh shifting or torque converter issues. Suspension components, such as ball joints and strut mounts, can wear prematurely. Electrical gremlins, including faulty window regulators and instrument cluster malfunctions, are also noted. Owners should be aware of these potential issues and budget for potential repairs beyond standard maintenance to ensure continued reliable operation.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

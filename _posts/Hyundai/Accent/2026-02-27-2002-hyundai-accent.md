@@ -44,6 +44,19 @@ The 2002 Hyundai Accent, a subcompact car, was generally positioned as an afford
 - **Cost:** $300 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -93,3 +106,15 @@ The 2002 Hyundai Accent, a subcompact car, was generally positioned as an afford
 --- 
 ### Summary Verdict
 The 2002 Hyundai Accent is a budget-friendly vehicle that, while generally functional, exhibits common issues typical for its age and class. Engine and transmission components, particularly the clutch in manual variants and potential for harsh shifting in automatics, are areas to monitor. Suspension parts like ball joints and tie rods can wear out, leading to steering and tire issues. Electrical problems, such as alternator failure and window regulators, are also reported. Exterior rust can be a significant concern depending on climate. Interiorly, the HVAC blower motor is a known failure point. Despite these potential issues, many owners find the Accent to be a reliable car if basic maintenance is performed and known problem areas are addressed proactively.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

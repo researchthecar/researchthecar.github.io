@@ -32,6 +32,19 @@ The 2020 BMW 840i xDrive Gran Coupe, a luxurious four-door coupe, generally exhi
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive M Suspension
@@ -92,3 +105,15 @@ The 2020 BMW 840i xDrive Gran Coupe, a luxurious four-door coupe, generally exhi
 --- 
 ### Summary Verdict
 The 2020 BMW 840i xDrive Gran Coupe demonstrates a commendable level of reliability, particularly in its core powertrain components. The 3.0L turbocharged inline-six engine and the 8-speed automatic transmission are robust and generally free from significant issues. The primary areas where owners might encounter problems are within the complex electrical system, specifically related to infotainment glitches and potential battery drain issues. These are not uncommon in modern luxury vehicles with extensive electronic features. Exterior and interior components, as well as the suspension, appear to be well-built and do not present widespread reliability concerns. Overall, the 840i xDrive Gran Coupe offers a reliable luxury driving experience, with electrical system vigilance being the most pertinent consideration.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

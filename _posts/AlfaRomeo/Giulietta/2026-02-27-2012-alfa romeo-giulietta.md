@@ -63,6 +63,19 @@ The 2012 Alfa Romeo Giulietta, a stylish Italian compact car, offers a compellin
 - **Cost:** $400 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -107,3 +120,15 @@ The 2012 Alfa Romeo Giulietta, a stylish Italian compact car, offers a compellin
 --- 
 ### Summary Verdict
 The 2012 Alfa Romeo Giulietta presents a mixed reliability profile. While its engines and transmissions can offer engaging performance, specific components like the MultiAir unit on petrol engines and DPF/EGR systems on diesels are known to require attention. The TCT transmission, while advanced, can be prone to costly mechatronic unit failures. Electrical gremlins, particularly with the BCM, are also a possibility. Suspension components like wishbone bushings can wear, and interior electronics, especially the infotainment, may experience glitches. Despite these potential issues, many owners find the driving experience and styling outweigh the risks, provided they are prepared for potentially higher maintenance costs compared to more mainstream competitors.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

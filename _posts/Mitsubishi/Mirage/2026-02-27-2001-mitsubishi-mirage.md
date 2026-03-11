@@ -66,6 +66,19 @@ The 2001 Mitsubishi Mirage, a subcompact car, was generally positioned as an aff
 - **Cost:** $700 - $1300
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -138,3 +151,15 @@ The 2001 Mitsubishi Mirage, a subcompact car, was generally positioned as an aff
 --- 
 ### Summary Verdict
 The 2001 Mitsubishi Mirage is a budget-friendly vehicle that can offer reliable transportation if well-maintained. Common issues tend to revolve around the engine (head gaskets, oil leaks) and transmission (clutch wear, automatic transmission solenoids). Electrical components like alternators and power window motors can also be points of failure. Exterior rust is a concern for vehicles in rust-prone areas. While not without its potential problems, addressing these known issues proactively can help ensure a more dependable ownership experience for this economical subcompact.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

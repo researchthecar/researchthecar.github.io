@@ -42,6 +42,19 @@ The 2011 BMW Alpina B7L xDrive, a high-performance luxury sedan, generally exhib
 - **Cost:** $1200 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Drive System
@@ -88,3 +101,15 @@ The 2011 BMW Alpina B7L xDrive, a high-performance luxury sedan, generally exhib
 --- 
 ### Summary Verdict
 The 2011 BMW Alpina B7L xDrive is a highly capable luxury sedan with a generally good reliability record for its class. Potential owners should be aware of specific issues that can arise, particularly concerning the twin-turbocharged V8 engine's wastegate actuators and potential coolant leaks from the valley pan gasket. The automatic transmission, while robust, can experience issues with the mechatronic unit or torque converter. The advanced suspension system, while providing excellent performance, can be a source of costly hydraulic leaks. Electrical gremlins, especially within the iDrive system and parking sensors, are also noted. Despite these potential concerns, with diligent maintenance and prompt attention to any developing issues, the Alpina B7L xDrive can remain a reliable and exhilarating vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

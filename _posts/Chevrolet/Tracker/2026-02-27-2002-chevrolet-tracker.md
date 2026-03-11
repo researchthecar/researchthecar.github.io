@@ -51,6 +51,19 @@ The 2002 Chevrolet Tracker, a compact SUV, was a rebadged version of the Suzuki 
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -110,3 +123,15 @@ The 2002 Chevrolet Tracker, a compact SUV, was a rebadged version of the Suzuki 
 --- 
 ### Summary Verdict
 The 2002 Chevrolet Tracker, particularly with the 2.0L engine, can be prone to head gasket issues and oil leaks, which are significant but repairable. Automatic transmission problems like slipping gears are also noted. Suspension components such as struts and ball joints may require attention over time. Electrically, alternators and power window components are common failure points. Exterior rust can be a concern depending on climate. While not without its potential problems, many of these are typical for vehicles of this age and type. Regular maintenance and prompt attention to early symptoms can help mitigate these issues and extend the vehicle's lifespan.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

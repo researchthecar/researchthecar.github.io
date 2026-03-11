@@ -39,6 +39,19 @@ The 2011 Dodge Attitude, a subcompact sedan, generally presents a mixed bag of r
 - **Cost:** $300 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -88,3 +101,15 @@ The 2011 Dodge Attitude, a subcompact sedan, generally presents a mixed bag of r
 --- 
 ### Summary Verdict
 The 2011 Dodge Attitude is a budget-friendly subcompact that generally performs adequately but has some common areas of concern. The powertrain, particularly the automatic transmission, can experience issues like harsh shifting. Electrical components, such as power windows and battery drain, are also noted problem areas. Interior components like the HVAC blower motor and door lock actuators can fail. However, the engine and suspension systems are relatively reliable. Owners should be aware of these potential issues and budget for potential repairs, especially concerning the transmission and electrical systems, to maintain the vehicle's functionality.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

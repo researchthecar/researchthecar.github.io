@@ -42,6 +42,19 @@ The 2019 Mercedes-Benz CLA45 AMG, a high-performance compact luxury sedan, gener
 - **Cost:** $1200 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### AMG Sport Suspension
@@ -81,3 +94,15 @@ The 2019 Mercedes-Benz CLA45 AMG, a high-performance compact luxury sedan, gener
 --- 
 ### Summary Verdict
 The 2019 Mercedes-Benz CLA45 AMG offers a compelling blend of performance and luxury, with a generally solid reliability record. The primary areas that may require attention are related to the high-performance powertrain, specifically potential issues with the turbocharger's wastegate actuator and coolant leaks from the water pump or thermostat housing. The dual-clutch transmission, while quick-shifting, can also present issues with its mechatronics unit or clutch packs. However, many owners report a positive ownership experience, especially when adhering to recommended maintenance schedules. Beyond these specific powertrain concerns, other systems like suspension, electrical, exterior, and interior components are typically reliable.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

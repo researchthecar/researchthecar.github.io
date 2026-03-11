@@ -61,6 +61,19 @@ The 2014 Ford Fiesta Ikon, a subcompact car, generally offers a decent balance o
 - **Cost:** $200 - $500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -110,3 +123,15 @@ The 2014 Ford Fiesta Ikon, a subcompact car, generally offers a decent balance o
 --- 
 ### Summary Verdict
 The 2014 Ford Fiesta Ikon presents a generally reliable profile for its class, with the most commonly reported technical concerns revolving around the powertrain and suspension components. The manual transmission is typically robust, while the PowerShift automatic can occasionally exhibit issues like shuddering or rough shifting, often addressable with fluid changes or software updates. Engine-related problems are primarily minor leaks (coolant and oil) that require timely attention. Suspension components like struts and ball joints may require replacement as the vehicle ages. Electrical issues, such as alternator failure or power window problems, are not uncommon but are generally repairable. Exterior and interior components show good resilience with no widespread critical failures reported.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

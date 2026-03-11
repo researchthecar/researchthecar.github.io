@@ -56,6 +56,19 @@ The 2002 Chrysler Intrepid, part of the second generation of the LH platform, of
 - **Cost:** $600 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -121,3 +134,15 @@ The 2002 Chrysler Intrepid, part of the second generation of the LH platform, of
 --- 
 ### Summary Verdict
 The 2002 Chrysler Intrepid, while offering a comfortable ride, exhibits some common issues typical of vehicles from its era. The 2.7L V6 engine is particularly noted for potential head gasket failures and oil sludge issues, necessitating diligent maintenance. The 42LE transmission can also develop problems like harsh shifting or torque converter issues. Suspension components like ball joints and tie rods are prone to wear, and electrical gremlins, especially related to the BCM and alternator, are not uncommon. Exterior rust can be a concern in certain climates, and interior components like HVAC blend doors and power window regulators are also known failure points. Owners should be aware of these potential issues and factor them into their maintenance and repair budgets.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

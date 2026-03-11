@@ -56,6 +56,19 @@ The 2011 Hyundai Genesis Coupe is a rear-wheel-drive sports coupe that offered a
 - **Cost:** $300 - $1,500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -100,3 +113,15 @@ The 2011 Hyundai Genesis Coupe is a rear-wheel-drive sports coupe that offered a
 --- 
 ### Summary Verdict
 The 2011 Hyundai Genesis Coupe generally presents a good reliability record, especially considering its sporty nature and price point. The 3.8L V6 engine is particularly robust, with the timing chain tensioner being the most noted, albeit not extremely common, issue. The 2.0L turbo engine has seen more reports of turbocharger issues and oil consumption, which are not uncommon for turbocharged engines of this era. Transmission reliability is decent, with clutch wear being a typical wear item for manual transmissions and some reports of harsh shifting in automatics. Electrical components like power window motors and infotainment systems can occasionally present minor issues. Overall, with proper maintenance, the Genesis Coupe can be a reliable and enjoyable sports car.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

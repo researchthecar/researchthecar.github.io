@@ -32,6 +32,19 @@ The 2022 Lamborghini Huracan represents a pinnacle of exotic automotive engineer
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Magnetorheological Dampers
@@ -78,3 +91,15 @@ The 2022 Lamborghini Huracan represents a pinnacle of exotic automotive engineer
 --- 
 ### Summary Verdict
 The 2022 Lamborghini Huracan demonstrates a high level of technical reliability, particularly in its core powertrain components. The naturally aspirated V10 engine and dual-clutch transmission are robust and engineered for extreme performance. The primary areas where minor issues have been noted are within the electrical system, specifically concerning the infotainment interface and potential battery drain. These are generally manageable with software updates or diagnostics. The suspension, exterior, and interior components are largely free from widespread technical defects. Overall, the Huracan offers a dependable ownership experience for a supercar, provided regular, specialized maintenance is performed.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

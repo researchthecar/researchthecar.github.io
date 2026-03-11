@@ -53,6 +53,19 @@ The 2022 Mini Cooper Countryman generally presents a solid reliability profile, 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -113,3 +126,15 @@ The 2022 Mini Cooper Countryman generally presents a solid reliability profile, 
 --- 
 ### Summary Verdict
 The 2022 Mini Cooper Countryman offers a generally reliable ownership experience. Major mechanical failures are uncommon across its engine and transmission options. The most frequently cited technical concerns tend to be minor electrical gremlins, such as occasional infotainment system glitches or, less commonly, intermittent battery drain issues. These are typically addressable with software updates or targeted diagnostics. Beyond these isolated incidents, the Countryman performs well in terms of powertrain, suspension, exterior, and interior durability, making it a solid choice for those seeking a stylish and engaging compact SUV with a good reliability outlook.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

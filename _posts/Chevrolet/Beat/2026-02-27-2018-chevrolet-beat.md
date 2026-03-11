@@ -46,6 +46,19 @@ The 2018 Chevrolet Beat, a subcompact hatchback, generally presents a decent rel
 - **Cost:** $150 - $300
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -99,3 +112,15 @@ The 2018 Chevrolet Beat, a subcompact hatchback, generally presents a decent rel
 --- 
 ### Summary Verdict
 The 2018 Chevrolet Beat is a generally reliable subcompact car, with its most common reported issues stemming from the automated manual transmission (AMT) exhibiting jerky shifts and occasional electrical gremlins like infotainment screen unresponsiveness or battery drain. Interior trim can develop minor rattles, and the AC might experience reduced airflow. However, the core engine and suspension components are robust and do not suffer from widespread failures. For those considering the AMT version, a pre-purchase inspection should specifically check for smooth gear engagement. Overall, it offers a cost-effective ownership experience with manageable potential repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

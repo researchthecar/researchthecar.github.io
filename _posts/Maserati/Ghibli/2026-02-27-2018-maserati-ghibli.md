@@ -66,6 +66,19 @@ The 2018 Maserati Ghibli, a luxury sports sedan, offers a blend of Italian styli
 - **Cost:** $150 - $300
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -136,3 +149,15 @@ The 2018 Maserati Ghibli, a luxury sports sedan, offers a blend of Italian styli
 --- 
 ### Summary Verdict
 The 2018 Maserati Ghibli, while a desirable luxury vehicle, exhibits some common reliability concerns typical of its performance-oriented nature and complex systems. The most frequently reported issues revolve around the engine, particularly oil leaks and turbocharger problems in the gasoline variants, and DPF/EGR issues in the diesel models. Transmission issues are less common but can include fluid leaks or software glitches. Electrical gremlins, especially with the infotainment system and potential battery drain, are also noted. Suspension components, particularly air suspension if equipped, can be a source of costly repairs. While not plagued by widespread catastrophic failures, owners should be prepared for potential maintenance costs that are higher than average for the segment, especially concerning powertrain and electrical systems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

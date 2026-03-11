@@ -37,6 +37,19 @@ The 2011 Maserati GranCabrio, a luxurious Italian convertible, offers a compelli
 - **Cost:** $400 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Skyhook System
@@ -83,3 +96,15 @@ The 2011 Maserati GranCabrio, a luxurious Italian convertible, offers a compelli
 --- 
 ### Summary Verdict
 The 2011 Maserati GranCabrio is a desirable exotic car with a powerful V8 engine and engaging driving dynamics. However, potential owners should be aware of specific reliability concerns, particularly regarding oil leaks and timing chain wear in the engine, and potential issues with the adaptive suspension dampers and the complex convertible top mechanism. Transmission shifting can also be a point of concern. While the exterior and interior generally hold up well, the electrical systems, especially the infotainment and convertible top controls, may require attention. Regular, specialized maintenance is crucial for mitigating these potential issues and ensuring the longevity of this high-performance convertible.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -61,6 +61,19 @@ The 2008 Alfa Romeo Spider, a stylish Italian roadster, offers a compelling blen
 - **Cost:** $800 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -121,3 +134,15 @@ The 2008 Alfa Romeo Spider, a stylish Italian roadster, offers a compelling blen
 --- 
 ### Summary Verdict
 The 2008 Alfa Romeo Spider is a desirable sports car with a passionate following. While it offers a rewarding driving experience, potential owners should be prepared for higher-than-average maintenance costs and the possibility of specific electrical and powertrain issues. The automated manual transmission (Selespeed) can be particularly costly to repair if problems arise. Thorough pre-purchase inspection by a specialist familiar with Alfas is highly recommended. With diligent maintenance and prompt attention to known issues, the Spider can be a reliable and enjoyable convertible.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

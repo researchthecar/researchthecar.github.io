@@ -39,6 +39,19 @@ The 2022 Land Rover Discovery Sport, a compact luxury SUV, aims to blend premium
 - **Cost:** $500 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Coil Spring Suspension
@@ -99,3 +112,15 @@ The 2022 Land Rover Discovery Sport, a compact luxury SUV, aims to blend premium
 --- 
 ### Summary Verdict
 The 2022 Land Rover Discovery Sport demonstrates a generally solid reliability record, with most reported issues being relatively minor and addressable. The primary concerns revolve around potential coolant leaks in the P250 engine variant and occasional hesitations or jerks in the 9-speed automatic transmission. Electrical gremlins, particularly with the infotainment system's responsiveness and intermittent battery drain, are also noted but not pervasive. Exterior and interior components, along with the suspension and the MHEV powertrain, appear to be robust. Owners should be aware of these potential issues and ensure regular maintenance, especially concerning the cooling system and transmission software.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -46,6 +46,19 @@ The 2012 Mitsubishi RVR, also known as the Outlander Sport in some markets, is a
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Suspension
@@ -85,3 +98,15 @@ The 2012 Mitsubishi RVR, also known as the Outlander Sport in some markets, is a
 --- 
 ### Summary Verdict
 The 2012 Mitsubishi RVR generally presents a solid reliability profile, especially concerning its powertrain. The naturally aspirated engines are robust, and while the CVT can occasionally exhibit minor hesitations, it's not a widespread critical failure. Electrical gremlins are infrequent and typically minor, such as infotainment system quirks. The suspension, exterior, and interior components have proven durable for the model year. Overall, the RVR is a sensible choice for budget-conscious buyers prioritizing dependability over luxury, with most potential issues being minor and relatively inexpensive to address.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

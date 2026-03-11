@@ -42,6 +42,19 @@ The 2015 BMW 650i xDrive Gran Coupe, a luxurious four-door coupe, offers a blend
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Drive System
@@ -95,3 +108,15 @@ The 2015 BMW 650i xDrive Gran Coupe, a luxurious four-door coupe, offers a blend
 --- 
 ### Summary Verdict
 The 2015 BMW 650i xDrive Gran Coupe is a capable and luxurious vehicle with a generally good reliability record. The primary areas of concern revolve around the potent 4.4L twin-turbo V8 engine, which can experience issues like turbocharger failure, fuel injector problems, and valve stem seal wear, especially at higher mileage. The complex electrical systems, particularly the iDrive infotainment and potential for battery drain, also warrant attention. While the transmission and exterior/interior components are typically robust, proactive maintenance and addressing potential electrical gremlins are key to ensuring a positive ownership experience for this high-performance grand tourer.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

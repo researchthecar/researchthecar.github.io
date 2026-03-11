@@ -54,6 +54,19 @@ The 2011 Chevrolet Captiva Sport, a compact SUV, aimed to offer a blend of pract
 - **Cost:** $400 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -103,3 +116,15 @@ The 2011 Chevrolet Captiva Sport, a compact SUV, aimed to offer a blend of pract
 --- 
 ### Summary Verdict
 The 2011 Chevrolet Captiva Sport presents a mixed reliability profile. The 2.4L engine is generally more reliable than the 3.0L V6, which has known significant issues with its timing chain. Transmission problems, particularly with the automatic gearbox, can be costly to repair. Suspension components like struts and bushings are common wear items that may require attention. Electrical issues, such as power window motors and infotainment glitches, are also noted. While the exterior and interior generally hold up well, potential buyers should be aware of the engine and transmission concerns, especially with the V6 model, and budget accordingly for potential repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

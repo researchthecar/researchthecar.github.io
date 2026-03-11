@@ -54,6 +54,19 @@ The 2013 Aston Martin V12 Vantage, a pinnacle of British automotive engineering,
 - **Cost:** $2000 - $3500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Damping System
@@ -96,3 +109,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2013 Aston Martin V12 Vantage is a remarkable supercar with a generally robust mechanical foundation. However, potential owners should be aware of specific reliability concerns, particularly within the engine and transmission systems. Ignition coil failures and oil cooler leaks are the most commonly cited engine issues. For transmissions, both the manual and the automated manual (Sportshift II) can experience clutch wear, gear selector problems, or hydraulic system failures, respectively, which can be costly to repair. The adaptive suspension dampers can also be a source of expense if they fail. Electrical gremlins, such as infotainment system glitches and battery drain, are also noted. While the exterior and interior generally hold up well, the complexity and performance nature of the V12 Vantage mean that repairs, when needed, can be significant in cost and require specialized knowledge.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

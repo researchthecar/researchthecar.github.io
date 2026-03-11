@@ -61,6 +61,19 @@ The 2004 Mitsubishi Galant, a mid-size sedan, offered a blend of comfort and per
 - **Cost:** $500 - $900
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -126,3 +139,15 @@ The 2004 Mitsubishi Galant, a mid-size sedan, offered a blend of comfort and per
 --- 
 ### Summary Verdict
 The 2004 Mitsubishi Galant generally presents as a reasonably reliable vehicle, particularly if well-maintained. Common issues tend to be concentrated in areas like the engine (oil leaks, timing belt concerns on the 2.4L, intake manifold gaskets on the V6), transmission (slipping or torque converter issues on automatics, clutch wear on manuals), and suspension components (ball joints, bushings). Electrical gremlins, such as BCM issues or alternator failure, can also occur. Exterior rust can be a concern in certain climates. While not immune to problems, most issues are repairable with moderate costs, especially if addressed proactively. Regular maintenance and prompt attention to early symptoms are key to ensuring long-term reliability for this model.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

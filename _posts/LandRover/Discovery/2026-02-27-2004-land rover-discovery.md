@@ -54,6 +54,19 @@ The 2004 Land Rover Discovery, often referred to as the Discovery 2, is a capabl
 - **Cost:** $800 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Air Suspension (SLS)
@@ -115,3 +128,15 @@ The 2004 Land Rover Discovery, often referred to as the Discovery 2, is a capabl
 --- 
 ### Summary Verdict
 The 2004 Land Rover Discovery presents a classic case of a capable but potentially high-maintenance vehicle. Its V8 engines are prone to head gasket issues and oil leaks, while the automatic transmission can suffer from solenoid and torque converter problems. The air suspension system, a hallmark of its off-road capability, is a common source of leaks and compressor failures. Electrical gremlins, often stemming from the BCU or corroded wiring, are also frequently reported. Exterior rust can be a significant concern, particularly in certain climates. While the interior can develop issues like sagging headliners, these are generally less critical than the mechanical and electrical faults. Prospective buyers should budget for potential repairs and prioritize vehicles with a well-documented maintenance history.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

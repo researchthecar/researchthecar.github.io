@@ -70,6 +70,19 @@ The 2009 Mitsubishi Eclipse, a sporty compact coupe, offered a blend of performa
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -135,3 +148,15 @@ The 2009 Mitsubishi Eclipse, a sporty compact coupe, offered a blend of performa
 --- 
 ### Summary Verdict
 The 2009 Mitsubishi Eclipse is a generally dependable sports coupe, particularly with the manual transmissions. The most common concerns tend to revolve around potential oil leaks and timing belt maintenance for the 2.4L engine, and intake manifold issues for the V6. Automatic transmissions, especially the 4-speed, can experience shifting problems over time. Electrical gremlins related to the BCM and premature alternator failure are also noted. Exterior paint issues and interior wear are not uncommon for a vehicle of this age. Regular maintenance, especially on the timing belt and fluid changes for the automatic transmission, is crucial for longevity.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

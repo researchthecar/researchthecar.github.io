@@ -56,6 +56,19 @@ The 2004 Nissan Frontier is a compact pickup truck known for its ruggedness and 
 - **Cost:** $500 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -112,3 +125,15 @@ The 2004 Nissan Frontier is a compact pickup truck known for its ruggedness and 
 --- 
 ### Summary Verdict
 The 2004 Nissan Frontier is a generally robust truck, but like many vehicles of its age, it is susceptible to certain common issues. Engine-related problems such as head gasket failure on the 4-cylinder models and intake manifold leaks on the supercharged V6 are notable. Transmission issues, particularly with the automatic, can lead to costly repairs. Suspension components like ball joints and leaf springs may require attention. Electrical gremlins, such as alternator failure, and exterior rust are also points to consider. Regular maintenance and prompt attention to early symptoms can help mitigate the severity and cost of these potential repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

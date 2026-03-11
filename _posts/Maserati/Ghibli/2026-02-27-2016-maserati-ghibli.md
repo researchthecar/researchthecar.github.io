@@ -54,6 +54,19 @@ The 2016 Maserati Ghibli, a luxury sports sedan, offers a compelling blend of It
 - **Cost:** $150 - $300
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -96,3 +109,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2016 Maserati Ghibli, while offering a luxurious and sporty experience, exhibits some common reliability concerns typical of high-performance luxury vehicles. The V6 engines, particularly the twin-turbocharged gasoline variant, can experience issues with turbochargers and oil leaks. Diesel models may face challenges with the Diesel Particulate Filter (DPF) and EGR valve. The automatic transmission is generally robust but can suffer from fluid leaks or software glitches. Electrical gremlins, especially with the infotainment system and battery drain, are also noted. Exterior door handle mechanisms and interior climate control components like the blower motor are other areas that have seen reported issues. While not overwhelmingly problematic, potential buyers should be aware of these specific areas and factor in potential repair costs beyond standard maintenance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -66,6 +66,19 @@ The 2021 Land Rover Discovery Sport, a compact luxury SUV, offers a blend of pre
 - **Cost:** $300 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Coil Spring Suspension
@@ -145,3 +158,15 @@ The 2021 Land Rover Discovery Sport, a compact luxury SUV, offers a blend of pre
 --- 
 ### Summary Verdict
 The 2021 Land Rover Discovery Sport presents a generally solid reliability record, with most reported issues being manageable and not indicative of systemic failure across the board. The Ingenium engines, particularly the gasoline variants, can experience coolant leaks and turbocharger issues, while the diesel models may face DPF and AdBlue system faults. The automatic transmission is mostly reliable but can exhibit shifting anomalies. Electrical gremlins, especially with the infotainment system and battery drain, are present but often resolvable with software updates or component replacement. The optional air suspension is a potential area for costly repairs if leaks or compressor failures occur. Overall, proactive maintenance and addressing early warning signs are key to ensuring a positive ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -51,6 +51,19 @@ The 2015 Mini Cooper Paceman, a quirky and stylish compact crossover, generally 
 - **Cost:** $400 - $900
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -95,3 +108,15 @@ The 2015 Mini Cooper Paceman, a quirky and stylish compact crossover, generally 
 --- 
 ### Summary Verdict
 The 2015 Mini Cooper Paceman presents a mixed bag of reliability. While the core mechanicals are generally robust, potential owners should be mindful of specific issues like timing chain problems in naturally aspirated engines and turbocharger concerns in the Cooper S models. Automatic transmission fluid leaks and worn suspension components are also areas to inspect. Electrical gremlins, particularly with the infotainment system and power windows, can be a source of frustration. However, many of these issues are not universal and can be mitigated with diligent maintenance and prompt attention to early warning signs. Overall, it's a vehicle that rewards attentive ownership.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

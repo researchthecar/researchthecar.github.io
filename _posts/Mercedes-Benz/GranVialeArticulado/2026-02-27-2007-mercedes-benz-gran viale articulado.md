@@ -66,6 +66,19 @@ The 2007 Mercedes-Benz Gran Viale Articulado, a robust articulated bus designed 
 - **Cost:** $1000 - $3500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Air Suspension System
@@ -134,3 +147,15 @@ The 2007 Mercedes-Benz Gran Viale Articulado, a robust articulated bus designed 
 --- 
 ### Summary Verdict
 The 2007 Mercedes-Benz Gran Viale Articulado is a generally reliable commercial vehicle, built for demanding service. While specific issues like EGR malfunctions, turbocharger wear, and torque converter problems can arise with high mileage, they are often manageable with proper maintenance and timely repairs. The air suspension and electrical systems, particularly the complex multiplex wiring, are areas that may require attention. Overall, the Gran Viale Articulado offers a solid foundation for fleet operations, provided a proactive maintenance schedule is followed. Its robust construction and proven powertrain options contribute to its reputation for durability in urban transit.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

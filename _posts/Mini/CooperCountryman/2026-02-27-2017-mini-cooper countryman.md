@@ -60,6 +60,19 @@ The 2017 Mini Cooper Countryman, a compact SUV known for its distinctive styling
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -104,3 +117,15 @@ The 2017 Mini Cooper Countryman, a compact SUV known for its distinctive styling
 --- 
 ### Summary Verdict
 The 2017 Mini Cooper Countryman generally presents a reliable profile, especially with its base 1.5L engine and manual transmission. The more powerful 2.0L turbo engine, while offering better performance, shows a tendency for minor oil leaks, which are manageable with timely repairs. Automatic transmissions, particularly the 6-speed variant, can sometimes exhibit harsh shifting. Electrical gremlins, such as infotainment system glitches and occasional battery drain, are the most commonly cited non-wear-and-tear issues. Diesel variants may encounter DPF problems, a common concern for diesel vehicles. Overall, the Countryman is a reasonably dependable choice for its segment, provided routine maintenance is followed and potential minor issues are addressed promptly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

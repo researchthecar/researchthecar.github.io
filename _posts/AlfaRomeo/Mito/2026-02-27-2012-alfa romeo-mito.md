@@ -60,6 +60,19 @@ The 2012 Alfa Romeo MiTo, a stylish Italian compact car, offers a range of engin
 - **Cost:** $800 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -104,3 +117,15 @@ The 2012 Alfa Romeo MiTo, a stylish Italian compact car, offers a range of engin
 --- 
 ### Summary Verdict
 The 2012 Alfa Romeo MiTo presents a mixed reliability profile. The MultiAir petrol engines can be susceptible to issues with the MultiAir unit itself, while the diesel variants may encounter DPF problems, particularly if driven primarily in urban environments. Transmission-wise, manual gearboxes can experience clutch wear, and the Dualogic automatic system has been known to have actuator failures. Electrical gremlins, such as window regulator malfunctions and BCM issues, are also noted. However, the exterior and interior generally hold up well, with no widespread critical component failures reported. Owners should be aware of these potential issues and ensure regular maintenance, especially for the diesel particulate filter and the MultiAir system.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

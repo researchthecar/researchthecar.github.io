@@ -32,6 +32,19 @@ The 2022 BMW M850i xDrive Gran Coupe represents the pinnacle of BMW's luxury per
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive M Suspension
@@ -92,3 +105,15 @@ The 2022 BMW M850i xDrive Gran Coupe represents the pinnacle of BMW's luxury per
 --- 
 ### Summary Verdict
 The 2022 BMW M850i xDrive Gran Coupe demonstrates a high level of technical reliability, particularly in its core powertrain components. The robust 4.4L twin-turbo V8 and the smooth 8-speed automatic transmission are generally trouble-free. Areas that may require attention are primarily within the advanced electrical systems, such as occasional infotainment glitches and potential sensor malfunctions for driver assistance features. These are not uncommon in vehicles with such extensive technology. Overall, the M850i offers a dependable ownership experience for a luxury performance vehicle, provided routine maintenance is followed and potential electrical quirks are addressed promptly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

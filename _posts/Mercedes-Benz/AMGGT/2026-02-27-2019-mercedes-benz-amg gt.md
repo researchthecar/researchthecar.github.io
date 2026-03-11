@@ -42,6 +42,19 @@ The 2019 Mercedes-Benz AMG GT is a high-performance luxury sports car known for 
 - **Cost:** $2,000 - $4,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### AMG Ride Control Sport Suspension
@@ -84,3 +97,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2019 Mercedes-Benz AMG GT, while a pinnacle of performance engineering, exhibits some specific reliability concerns primarily related to its high-strung powertrain. The 4.0L twin-turbo V8 can experience issues with wastegate actuators and oil coolers, while the AMG SPEEDSHIFT DCT transmission may face problems with its mechatronics unit and clutch packs. Electrical gremlins, particularly with the infotainment system and occasional battery drain, are also noted. However, the suspension, exterior, and interior components generally hold up well, with no widespread issues reported. Proactive maintenance and addressing early signs of these specific problems can help mitigate potential costs and ensure the continued enjoyment of this exceptional sports car.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -39,6 +39,19 @@ The 2018 Hyundai Accent is a subcompact car known for its affordability and fuel
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Torsion Beam Rear
@@ -83,3 +96,15 @@ The 2018 Hyundai Accent is a subcompact car known for its affordability and fuel
 --- 
 ### Summary Verdict
 The 2018 Hyundai Accent is generally considered a reliable vehicle for its segment, with its powertrain (1.6L engine and 6-speed automatic/manual transmission) showing a good track record. The most commonly reported issues tend to be in the electrical system, specifically with the infotainment unit experiencing glitches and occasional battery drain problems. These are not typically critical failures but can be inconvenient. Suspension, exterior, and interior components have largely been free of widespread complaints. For prospective buyers, focusing on a thorough pre-purchase inspection, especially for the electrical system, is advisable. Overall, the Accent offers a dependable ownership experience when basic maintenance is performed.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

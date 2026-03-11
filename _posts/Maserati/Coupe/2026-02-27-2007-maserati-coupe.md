@@ -54,6 +54,19 @@ The 2007 Maserati Coupe, a grand tourer known for its striking design and potent
 - **Cost:** $1,000 - $2,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -118,3 +131,15 @@ The 2007 Maserati Coupe, a grand tourer known for its striking design and potent
 --- 
 ### Summary Verdict
 The 2007 Maserati Coupe is a desirable exotic car that requires a significant commitment to maintenance and potential repairs. While the core V8 engine is generally robust, issues like timing chain wear and oil leaks can be costly. The Cambiocorsa transmission, while offering a unique driving experience, is prone to hydraulic system and actuator problems. Suspension components and general electrical gremlins are also areas to watch. Interior and exterior wear are typical for a car of this age and luxury level. Prospective buyers should budget for higher-than-average maintenance and repair costs, and prioritize vehicles with a comprehensive service history.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

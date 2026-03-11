@@ -49,6 +49,19 @@ The 2014 Chevrolet Captiva Sport, a compact SUV, offers a blend of practicality 
 - **Cost:** $700 - $1,500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -98,3 +111,15 @@ The 2014 Chevrolet Captiva Sport, a compact SUV, offers a blend of practicality 
 --- 
 ### Summary Verdict
 The 2014 Chevrolet Captiva Sport presents a mixed reliability profile. The most significant concerns revolve around the engine, particularly the 2.4L and 3.0L engines, with reported issues of oil consumption and timing chain problems, which can be costly to repair. The automatic transmission also shows a tendency for harsh shifting and torque converter issues. Suspension components like strut mounts and control arm bushings can wear prematurely, leading to noise and handling degradation. Electrical gremlins, such as infotainment system glitches and battery drain, are also noted. While interior and exterior issues are generally less severe, water leaks and interior rattles can detract from the ownership experience. Prospective buyers should be aware of these potential mechanical and electrical vulnerabilities and factor in potential repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -68,6 +68,19 @@ The 2014 Mini Cooper Countryman, a compact SUV known for its distinctive styling
 - **Cost:** $1000 - $2000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -112,3 +125,15 @@ The 2014 Mini Cooper Countryman, a compact SUV known for its distinctive styling
 --- 
 ### Summary Verdict
 The 2014 Mini Cooper Countryman presents a mixed reliability profile. The naturally aspirated 1.6L engine is prone to timing chain and oil leak issues, while the turbocharged Cooper S variants can experience turbocharger and high-pressure fuel pump problems. Automatic transmissions may develop leaks or torque converter issues. Electrical components like window regulators and sunroofs are also noted areas for potential repair. However, the manual transmission and the more powerful 2.0L turbo engine in the JCW model, along with suspension, exterior, and interior components, generally show good reliability. Regular maintenance and prompt attention to early symptoms are crucial for mitigating potential costs and ensuring longevity.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

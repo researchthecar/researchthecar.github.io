@@ -37,6 +37,19 @@ The 2013 BMW ActiveHybrid 5, a sophisticated blend of luxury sedan comfort and h
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -90,3 +103,15 @@ The 2013 BMW ActiveHybrid 5, a sophisticated blend of luxury sedan comfort and h
 --- 
 ### Summary Verdict
 The 2013 BMW ActiveHybrid 5 demonstrates good overall reliability, characteristic of BMW's engineering. The primary concerns revolve around the hybrid-specific components, namely the hybrid battery and electric motor, which can incur significant repair costs if they fail. Electrical issues, particularly with the 12V auxiliary battery and hybrid control module software, are also noted. While the conventional engine and transmission are generally robust, owners should be prepared for potential expenses related to the advanced hybrid system as the vehicle ages. Regular maintenance and prompt attention to warning lights are crucial for longevity.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

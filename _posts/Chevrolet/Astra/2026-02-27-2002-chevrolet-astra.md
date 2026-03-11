@@ -80,6 +80,19 @@ The 2002 Chevrolet Astra, a compact car offered in various body styles, presente
 - **Cost:** $500 - $900
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -144,3 +157,15 @@ The 2002 Chevrolet Astra, a compact car offered in various body styles, presente
 --- 
 ### Summary Verdict
 The 2002 Chevrolet Astra, while offering a practical and often economical ownership experience, exhibits common issues for its age and class. Engine reliability varies by specific powerplant, with the turbocharged variants potentially requiring more attention. Transmission issues, particularly with manual gearboxes and automatic solenoids, are noted. Suspension components like bushings and struts are typical wear items. Electrical gremlins, such as alternator and window regulator problems, can occur. Exterior rust is a concern in certain climates, and interior components like the HVAC blower motor are also prone to failure. Regular maintenance and prompt attention to early signs of trouble are crucial for maximizing the lifespan and reliability of this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

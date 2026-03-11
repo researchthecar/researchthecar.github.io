@@ -61,6 +61,19 @@ The 2006 Chevrolet Impala, a popular mid-size sedan, offered a range of powertra
 - **Cost:** $300 - $700
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -126,3 +139,15 @@ The 2006 Chevrolet Impala, a popular mid-size sedan, offered a range of powertra
 --- 
 ### Summary Verdict
 The 2006 Chevrolet Impala is a generally dependable vehicle, but like many cars of its age, it is susceptible to specific issues. Common problems tend to revolve around the engine's intake manifold gaskets and oil cooler lines, particularly on V6 models. Transmission issues like torque converter shudder and solenoid failures are also noted. Suspension components such as ball joints and bushings can wear out, leading to noise and handling problems. Electrical gremlins, often related to the BCM or ignition switch, can cause intermittent frustrations. Exterior rust can be a concern in certain climates, and interior comfort features like the HVAC blend door actuators may fail. While not overwhelmingly problematic, potential buyers should be aware of these common repair areas and factor them into their ownership considerations.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

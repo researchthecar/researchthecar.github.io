@@ -42,6 +42,19 @@ The 2019 Mercedes-Benz AMG GT R is a high-performance sports car renowned for it
 - **Cost:** $3000 - $6000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### AMG Ride Control Sport Suspension
@@ -102,3 +115,15 @@ The 2019 Mercedes-Benz AMG GT R is a high-performance sports car renowned for it
 --- 
 ### Summary Verdict
 The 2019 Mercedes-Benz AMG GT R demonstrates a commendable level of technical reliability, especially considering its extreme performance focus. The 4.0L twin-turbo V8 engine and the 7-speed dual-clutch transmission are generally robust, though specific components like wastegate actuators, intercooler seals, and the transmission's mechatronics unit or clutch packs can be potential points of failure, often related to the high demands placed upon them. Electrical systems, particularly ADAS sensors, may require recalibration. Overall, for a supercar of this caliber, the GT R offers a solid reliability record, with most issues being manageable and within the expected range for a performance-oriented vehicle. Regular maintenance and attentive driving habits are key to preserving its performance and longevity.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

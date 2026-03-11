@@ -46,6 +46,19 @@ The 2018 Mercedes-Benz Coraza S2, a luxury sedan, generally exhibits strong reli
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### AIRMATIC Air Suspension
@@ -113,3 +126,15 @@ The 2018 Mercedes-Benz Coraza S2, a luxury sedan, generally exhibits strong reli
 --- 
 ### Summary Verdict
 The 2018 Mercedes-Benz Coraza S2 demonstrates a commendable level of technical reliability, particularly in its core powertrain components (engines and transmissions), which are generally robust. The primary areas where owners might encounter issues are related to the advanced AIRMATIC air suspension system, which can develop leaks, and occasional electrical gremlins, such as infotainment glitches or battery drain issues. These are not uncommon for vehicles with such sophisticated technology. Overall, with proper maintenance and attention to potential issues like air suspension leaks, the Coraza S2 should provide a dependable and luxurious ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

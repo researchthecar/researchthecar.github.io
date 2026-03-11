@@ -32,6 +32,19 @@ The 2023 Hyundai Kona Electric is a subcompact SUV that has garnered attention f
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -97,3 +110,15 @@ The 2023 Hyundai Kona Electric is a subcompact SUV that has garnered attention f
 --- 
 ### Summary Verdict
 The 2023 Hyundai Kona Electric generally presents a strong reliability outlook, particularly in its core electric powertrain components. The electric motor and single-speed transmission are robust and have not shown significant widespread issues. The primary areas to monitor are the electrical system, specifically the battery pack for potential degradation over extended periods and occasional charging system faults, and the infotainment system for software-related glitches. Exterior and interior components have proven durable. With proper maintenance and awareness of potential electrical system nuances, the Kona Electric is a reliable choice for an electric vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -83,6 +83,19 @@ The 2005 Ford Excursion, a heavy-duty SUV, was known for its robust construction
 - **Cost:** $700 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -148,3 +161,15 @@ The 2005 Ford Excursion, a heavy-duty SUV, was known for its robust construction
 --- 
 ### Summary Verdict
 The 2005 Ford Excursion, particularly models equipped with the 6.0L Power Stroke diesel engine, is known for potential significant mechanical issues such as EGR cooler failure, oil cooler failure, and head gasket problems, which can be costly to repair. Gasoline V8 and V10 engines are more prone to spark plug blowout and intake manifold gasket leaks. Transmission issues like torque converter problems and overheating can also arise. Suspension components like ball joints and leaf springs may require attention due to the vehicle's weight and intended use. Electrical issues, particularly with the instrument cluster and power windows, are also documented. While capable and robust, prospective buyers should be aware of these potential reliability concerns and factor in potential repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

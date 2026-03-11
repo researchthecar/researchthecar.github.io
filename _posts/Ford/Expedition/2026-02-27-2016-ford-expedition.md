@@ -37,6 +37,19 @@ The 2016 Ford Expedition is a full-size SUV known for its robust towing capacity
 - **Cost:** $300 - $3,000+
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Independent Front Suspension / Solid Rear Axle
@@ -81,3 +94,15 @@ The 2016 Ford Expedition is a full-size SUV known for its robust towing capacity
 --- 
 ### Summary Verdict
 The 2016 Ford Expedition offers a solid ownership experience with its powerful EcoBoost engine and spacious cabin. While generally reliable, potential owners should be aware of possible issues with the turbochargers and cooling system on the 3.5L EcoBoost engine, as well as transmission hesitation or shuddering. Electrical gremlins, particularly with the infotainment system and occasional battery drain, are also noted. The air suspension system can be a point of failure, leading to costly repairs if the compressor fails. Overall, with proper maintenance and awareness of these potential weak points, the 2016 Expedition remains a capable and dependable large SUV.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

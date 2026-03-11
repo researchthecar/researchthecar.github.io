@@ -37,6 +37,19 @@ The 2016 Maserati GranCabrio, a luxurious Italian convertible, offers a compelli
 - **Cost:** $400 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Skyhook
@@ -83,3 +96,15 @@ The 2016 Maserati GranCabrio, a luxurious Italian convertible, offers a compelli
 --- 
 ### Summary Verdict
 The 2016 Maserati GranCabrio is a desirable exotic car with a passionate following. While its performance and design are its strong suits, potential owners should be prepared for higher maintenance costs and the possibility of specific issues, particularly with the engine's oil seals and timing chain, transmission shifting, and electrical systems like the infotainment. The convertible top mechanism and interior leather also require attention. Proactive maintenance and addressing issues promptly are key to maintaining this vehicle's performance and value. It is not a vehicle for those seeking low-cost, trouble-free ownership, but rather for enthusiasts who appreciate its unique character and are willing to invest in its upkeep.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

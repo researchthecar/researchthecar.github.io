@@ -58,6 +58,19 @@ The 2007 Mercedes-Benz Torino, a model often associated with robust German engin
 - **Cost:** $1500 - $3000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -102,3 +115,15 @@ The 2007 Mercedes-Benz Torino, a model often associated with robust German engin
 --- 
 ### Summary Verdict
 The 2007 Mercedes-Benz Torino, while a premium vehicle, exhibits a reliability profile consistent with its age and luxury segment. The diesel engines, particularly the 2.2L CDI, can experience issues like glow plug failures and turbocharger problems, while the 3.0L CDI may face EGR valve malfunctions. Petrol variants are generally robust but can suffer from ignition coil failures. Automatic transmissions, especially the 7-speed, may require attention to the torque converter. Electrical gremlins, such as window regulators and various sensors, are not uncommon. The suspension, particularly if equipped with air suspension, can develop leaks. Overall, the Torino offers a good ownership experience if common issues are addressed promptly, with maintenance costs reflecting its luxury origins.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

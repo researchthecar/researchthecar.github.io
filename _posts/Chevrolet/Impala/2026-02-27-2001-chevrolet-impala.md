@@ -61,6 +61,19 @@ The 2001 Chevrolet Impala, a popular mid-size sedan, offered a blend of comfort 
 - **Cost:** $300 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -119,3 +132,15 @@ The 2001 Chevrolet Impala, a popular mid-size sedan, offered a blend of comfort 
 --- 
 ### Summary Verdict
 The 2001 Chevrolet Impala, particularly with the 3.8L V6 engines, is generally considered a durable vehicle. However, common issues to be aware of include potential head gasket failures on the 3.4L and some 3.8L engines, and intake manifold gasket leaks on the 3.8L. The 4T65E transmission can experience torque converter or solenoid issues. Electrical problems often stem from the Body Control Module or premature alternator failure. Suspension components like strut mounts and ball joints may require attention. Exterior rust can be a concern in certain climates. Overall, while not immune to age-related problems, many 2001 Impalas have proven to be reliable with proper maintenance and addressing these known issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

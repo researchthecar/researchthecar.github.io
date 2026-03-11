@@ -44,6 +44,19 @@ The 2003 Mitsubishi Diamante, a mid-size sedan known for its comfortable ride an
 - **Cost:** $300 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -88,3 +101,15 @@ The 2003 Mitsubishi Diamante, a mid-size sedan known for its comfortable ride an
 --- 
 ### Summary Verdict
 The 2003 Mitsubishi Diamante is a reasonably reliable vehicle, with most reported issues falling into categories like engine maintenance (timing belt, gaskets), transmission wear, and common electrical or exterior paint concerns. Proactive maintenance, especially regarding the timing belt and transmission fluid, is crucial for longevity. While some electrical and exterior issues can be costly, they are not indicative of systemic failure across the board. Overall, with diligent care and addressing specific known issues, the Diamante can provide dependable service.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

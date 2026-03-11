@@ -49,6 +49,19 @@ The 2003 Ford Explorer Sport Trac, a unique blend of SUV and pickup truck, offer
 - **Cost:** $700 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -114,3 +127,15 @@ The 2003 Ford Explorer Sport Trac, a unique blend of SUV and pickup truck, offer
 --- 
 ### Summary Verdict
 The 2003 Ford Explorer Sport Trac presents a mixed reliability picture. The 4.0L V6 engine is known for potential timing chain and intake manifold issues, while the 4.6L V8 is generally more robust. The 5R55E transmission can experience solenoid pack and torque converter problems. Suspension components like ball joints and leaf springs are common wear items. Electrical gremlins, particularly related to the BCM and alternator, can arise. Exterior rust is a concern in certain climates, and interior components like the HVAC blower motor may require attention. Despite these potential issues, many owners find the Sport Trac to be a capable and useful vehicle when properly maintained, with many common repairs being manageable in cost.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

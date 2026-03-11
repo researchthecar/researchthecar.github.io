@@ -56,6 +56,19 @@ The 2012 Mercedes-Benz Tres Ejes, a commercial vehicle designed for heavy-duty a
 - **Cost:** $600 - $1300
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Heavy-Duty Leaf Spring Suspension
@@ -107,3 +120,15 @@ The 2012 Mercedes-Benz Tres Ejes, a commercial vehicle designed for heavy-duty a
 --- 
 ### Summary Verdict
 The 2012 Mercedes-Benz Tres Ejes demonstrates good overall reliability, particularly in its core powertrain and chassis components, which are built for demanding commercial use. The most frequently reported issues tend to be related to emissions control systems (DEF injectors, EGR coolers) and specific transmission components like shift actuators, especially in automated manual transmissions. Electrical system issues, such as alternator failure, are also noted. While less common, suspension components like leaf springs can experience wear and tear under heavy loads. The exterior and interior generally hold up well, with no widespread critical failures reported. Proactive maintenance, especially concerning the emissions system and regular checks of the electrical and suspension components, is recommended to ensure continued optimal performance and longevity of the Tres Ejes.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

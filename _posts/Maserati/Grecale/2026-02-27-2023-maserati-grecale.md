@@ -39,6 +39,19 @@ The 2023 Maserati Grecale, a luxury compact SUV, aims to blend performance with 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -106,3 +119,15 @@ The 2023 Maserati Grecale, a luxury compact SUV, aims to blend performance with 
 --- 
 ### Summary Verdict
 The 2023 Maserati Grecale, being a new entrant, shows a promising start in terms of mechanical reliability for its core powertrain and transmission components. The 2.0L mild-hybrid and 3.0L V6 engines, along with the ZF 8-speed automatic transmission, have not shown significant widespread issues. However, potential owners should be aware of isolated reports concerning the Skyhook adaptive air suspension requiring recalibration and occasional software glitches within the infotainment system, which are not uncommon for first-year models of technologically advanced vehicles. Electrical systems, particularly the 12V battery, have seen some reports of premature drain. Overall, the Grecale appears to be a solid offering, but early adopters might encounter minor electronic or suspension calibration issues that are typically resolvable through software updates or dealership service.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

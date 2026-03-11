@@ -49,6 +49,19 @@ The 2018 Land Rover Discovery Sport, a compact luxury SUV, offers a blend of pre
 - **Cost:** $400 - $900
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Suspension
@@ -109,3 +122,15 @@ The 2018 Land Rover Discovery Sport, a compact luxury SUV, offers a blend of pre
 --- 
 ### Summary Verdict
 The 2018 Land Rover Discovery Sport presents a generally reliable package, with its petrol engine options showing fewer reported issues than the diesel variants. The primary concerns tend to revolve around the diesel engine's emissions system (EGR cooler and AdBlue) and the sophisticated 9-speed automatic transmission, which can occasionally exhibit harsh shifting or leaks. Electrical gremlins, particularly with the infotainment system and intermittent battery drain, are also noted. While not indicative of widespread failure, these points suggest that owners of diesel models or those experiencing transmission anomalies should be prepared for potential repair costs. Regular maintenance and prompt attention to warning lights are crucial for mitigating these issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -54,6 +54,19 @@ The 2017 Chevrolet Impala is a full-size sedan that offered a comfortable ride a
 - **Cost:** $200 - $700
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -103,3 +116,15 @@ The 2017 Chevrolet Impala is a full-size sedan that offered a comfortable ride a
 --- 
 ### Summary Verdict
 The 2017 Chevrolet Impala presents a mixed bag in terms of reliability. While the core mechanical components are generally robust with proper maintenance, owners should be aware of potential issues with oil and coolant leaks on both engine options, and timing chain concerns on the 3.6L V6. The automatic transmission can sometimes exhibit harsh shifting or slipping. Electrical gremlins, particularly with the infotainment system and occasional battery drain, are also noted. Suspension components like struts and bushings may require attention as the vehicle ages. Overall, it's a decent vehicle, but potential buyers should factor in the possibility of addressing these specific technical concerns.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

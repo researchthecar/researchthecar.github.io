@@ -46,6 +46,19 @@ The 2011 Nissan Frontier is a mid-size pickup truck known for its ruggedness and
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -85,3 +98,15 @@ The 2011 Nissan Frontier is a mid-size pickup truck known for its ruggedness and
 --- 
 ### Summary Verdict
 The 2011 Nissan Frontier is a generally reliable truck, especially with the 2.5L engine and manual transmission. The 4.0L V6, while more powerful, has a notable potential issue with timing chain wear, which can be costly to repair. Automatic transmission issues, particularly harsh shifting, are also reported and may require significant investment. Common exterior problems include rust, especially on the frame, which is a concern for trucks used in harsh climates. Electrical gremlins related to the BCM and interior HVAC blend door actuators are also documented. Despite these potential issues, many owners find the Frontier to be a durable and capable vehicle when properly maintained.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -51,6 +51,19 @@ The 2001 Chrysler Intrepid, part of the third generation of the LH platform, off
 - **Cost:** $300 - $800 (fluid/filter/solenoid), $1500 - $3000 (rebuild)
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -116,3 +129,15 @@ The 2001 Chrysler Intrepid, part of the third generation of the LH platform, off
 --- 
 ### Summary Verdict
 The 2001 Chrysler Intrepid presents a mixed reliability profile. The 2.7L V6 engine is a notable weak point, prone to head gasket issues and oil sludge if not meticulously maintained. The 3.2L and 3.5L V6 engines are generally more robust. Transmission issues, particularly with the 42LE, can arise, often manifesting as harsh shifting. Suspension components like ball joints and springs can wear out, as expected for a vehicle of this age and class. Electrical gremlins, often linked to the BCM, and common exterior issues like peeling clear coat and cloudy headlights are also reported. Interior components, such as blend door actuators and power window regulators, can also fail. Overall, while offering comfort and space, potential buyers should be aware of the specific engine and electrical vulnerabilities.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -56,6 +56,19 @@ The 2011 Mercedes-Benz Boxer OF, a robust commercial vehicle, generally exhibits
 - **Cost:** $1500 - $3000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -109,3 +122,15 @@ The 2011 Mercedes-Benz Boxer OF, a robust commercial vehicle, generally exhibits
 --- 
 ### Summary Verdict
 The 2011 Mercedes-Benz Boxer OF demonstrates a generally reliable profile, with its diesel engines and manual transmissions being strong points. Potential issues tend to be concentrated in areas like the turbocharger and EGR system for the engines, and clutch wear for manual transmissions. The automated manual transmission can be a source of more significant repair costs due to actuator issues. Electrical system integrity, particularly wiring harness condition, and exterior rust are also points to monitor. Interior components like the HVAC blower motor and seat wear are common, but typically less critical. Overall, with diligent maintenance and attention to these specific areas, the Boxer OF can remain a dependable workhorse.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

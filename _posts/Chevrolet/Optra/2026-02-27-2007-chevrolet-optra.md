@@ -51,6 +51,19 @@ The 2007 Chevrolet Optra, also known as the Daewoo Lacetti in many markets, was 
 - **Cost:** $400 - $2000+
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -100,3 +113,15 @@ The 2007 Chevrolet Optra, also known as the Daewoo Lacetti in many markets, was 
 --- 
 ### Summary Verdict
 The 2007 Chevrolet Optra presents a mixed reliability profile. Common issues tend to revolve around the engine's sealing (oil and coolant leaks), potential timing chain wear on the 2.0L, and standard wear items in the transmission and suspension, such as clutches and ball joints. Electrical gremlins like faulty window regulators and instrument cluster problems are also noted. Exterior rust can be a concern depending on climate. While not plagued by catastrophic failures across the board, owners should be prepared for potential repairs related to these specific components. Regular maintenance and prompt attention to early symptoms are crucial for managing the long-term reliability of this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

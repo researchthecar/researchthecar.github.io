@@ -49,6 +49,19 @@ The 2020 Chevrolet Impala, while a capable sedan, exhibits a mixed reliability p
 - **Cost:** $300 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -114,3 +127,15 @@ The 2020 Chevrolet Impala, while a capable sedan, exhibits a mixed reliability p
 --- 
 ### Summary Verdict
 The 2020 Chevrolet Impala presents a generally acceptable reliability record, with the most frequently cited issues revolving around the powertrain and certain electrical components. Engine oil and coolant leaks are common concerns, particularly with the 2.5L engine, and the 3.6L V6 can experience timing chain problems. Transmission issues like hesitation and overheating are also reported. Suspension components such as struts and ball joints may require attention over time. Electrical gremlins, especially with the infotainment system and intermittent battery drain, can be frustrating. While not plagued by widespread critical failures, potential buyers should be aware of these potential repair costs and consider a pre-purchase inspection.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

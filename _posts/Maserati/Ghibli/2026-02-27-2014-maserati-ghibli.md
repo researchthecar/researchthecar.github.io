@@ -54,6 +54,19 @@ The 2014 Maserati Ghibli, a luxury sports sedan, offers a blend of Italian styli
 - **Cost:** $150 - $300
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard/Skyhook Adaptive Suspension
@@ -105,3 +118,15 @@ The 2014 Maserati Ghibli, a luxury sports sedan, offers a blend of Italian styli
 --- 
 ### Summary Verdict
 The 2014 Maserati Ghibli, while a desirable luxury sedan, exhibits some common reliability concerns, particularly related to its powertrain and electrical systems. Owners may encounter issues such as oil leaks and turbocharger problems with the V6 gasoline engines, and DPF or EGR issues with the diesel variant. Transmission problems, though less frequent, can include fluid leaks and software glitches. Electrical gremlins, especially with the infotainment system and potential battery drain, are also noted. Suspension components, particularly air suspension if equipped, can be costly to repair. While not plagued by widespread catastrophic failures, potential buyers should budget for potential repairs, especially for vehicles outside of warranty, and ensure thorough pre-purchase inspections.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

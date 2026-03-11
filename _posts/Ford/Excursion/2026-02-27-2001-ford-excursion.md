@@ -78,6 +78,19 @@ The 2001 Ford Excursion, a heavy-duty SUV, was built for towing and hauling, off
 - **Cost:** $500 - $900
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -143,3 +156,15 @@ The 2001 Ford Excursion, a heavy-duty SUV, was built for towing and hauling, off
 --- 
 ### Summary Verdict
 The 2001 Ford Excursion is a formidable vehicle, particularly the 7.3L Power Stroke diesel variant, which is known for its durability. However, owners should be aware of potential issues such as spark plug blowouts on gasoline engines, torque converter problems with the 4R100 transmission under heavy use, and common wear items like ball joints and leaf springs. Electrical gremlins, especially related to the instrument cluster and BCM, can also arise. While not inherently unreliable, its age and heavy-duty nature mean that proactive maintenance and addressing specific known issues are key to long-term satisfaction.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

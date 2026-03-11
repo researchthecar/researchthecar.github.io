@@ -73,6 +73,19 @@ The 2014 Chevrolet Orlando, a compact multi-purpose vehicle (MPV), aimed to blen
 - **Cost:** $600 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -127,3 +140,15 @@ The 2014 Chevrolet Orlando, a compact multi-purpose vehicle (MPV), aimed to blen
 --- 
 ### Summary Verdict
 The 2014 Chevrolet Orlando presents a mixed reliability profile. The gasoline engines, particularly the 2.4L, have shown tendencies towards oil consumption and timing chain issues, while the diesel variants can suffer from DPF and EGR problems. Automatic transmissions may experience harsh shifting or torque converter issues. Suspension components like struts and bushings are subject to wear, as expected for a vehicle of this age and type. Electrical gremlins, such as infotainment system glitches and battery drain, are also noted. Interior wear and exterior rust can be concerns depending on the vehicle's history and climate. Overall, while not plagued by widespread catastrophic failures, potential buyers should be aware of these common issues and factor in potential repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

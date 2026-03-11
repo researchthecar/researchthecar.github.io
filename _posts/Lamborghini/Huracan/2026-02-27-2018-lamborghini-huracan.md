@@ -39,6 +39,19 @@ The 2018 Lamborghini Huracan, a mid-engine supercar, is renowned for its exhilar
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Magnetorheological Dampers
@@ -85,3 +98,15 @@ The 2018 Lamborghini Huracan, a mid-engine supercar, is renowned for its exhilar
 --- 
 ### Summary Verdict
 The 2018 Lamborghini Huracan demonstrates strong mechanical reliability for its high-performance nature, with its V10 engine and advanced transmissions being particularly robust. The primary areas where owners might encounter issues are related to the sophisticated electrical systems, such as infotainment glitches or intermittent battery drain, which are not uncommon in complex, low-volume supercars. These issues are generally manageable with software updates or component diagnosis. Beyond these specific electrical concerns, the Huracan is a well-engineered vehicle with no widespread structural, suspension, or major powertrain failures reported. Regular specialized maintenance is crucial for preserving its performance and longevity.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

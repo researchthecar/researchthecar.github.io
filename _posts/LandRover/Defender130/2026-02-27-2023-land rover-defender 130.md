@@ -39,6 +39,19 @@ The 2023 Land Rover Defender 130, building on the acclaimed platform of its 90 a
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Air Suspension
@@ -104,3 +117,15 @@ The 2023 Land Rover Defender 130, building on the acclaimed platform of its 90 a
 --- 
 ### Summary Verdict
 The 2023 Land Rover Defender 130 demonstrates strong overall reliability, particularly in its powertrain and core structural components. The primary areas of concern, based on available data, revolve around the sophisticated air suspension system, which can experience leaks or compressor failures, and occasional electrical gremlins, notably with the infotainment software and 12V battery longevity. These issues, while not pervasive, are the most frequently cited technical faults. For owners, proactive maintenance and prompt attention to suspension warning lights are advisable. The robust build and advanced technology contribute to a generally dependable experience, but potential buyers should be aware of these specific, albeit manageable, reliability points.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

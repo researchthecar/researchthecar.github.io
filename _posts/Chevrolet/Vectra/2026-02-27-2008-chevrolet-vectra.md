@@ -65,6 +65,19 @@ The 2008 Chevrolet Vectra, often known internationally as the Opel Vectra or Vau
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -123,3 +136,15 @@ The 2008 Chevrolet Vectra, often known internationally as the Opel Vectra or Vau
 --- 
 ### Summary Verdict
 The 2008 Chevrolet Vectra presents a mixed reliability profile. While the chassis and general exterior/interior components are generally robust, specific powertrain and electrical issues are noted. Diesel variants, particularly those with the 1.9L JTDm engine, are prone to DPF and EGR problems, which can be costly to repair. Manual transmissions, especially the M32 gearbox, have a known weakness for bearing failure. Petrol engines can also experience issues like turbocharger problems or timing chain wear depending on the specific engine. Electrical gremlins, often related to the BCM or various sensors, are also a possibility. Prospective buyers should be aware of these potential issues and factor in the possibility of maintenance and repair costs, especially for higher-mileage examples or those with diesel engines.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

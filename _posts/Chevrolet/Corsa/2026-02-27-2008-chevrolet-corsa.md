@@ -58,6 +58,19 @@ The 2008 Chevrolet Corsa, often recognized for its compact size and fuel efficie
 - **Cost:** $700 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -107,3 +120,15 @@ The 2008 Chevrolet Corsa, often recognized for its compact size and fuel efficie
 --- 
 ### Summary Verdict
 The 2008 Chevrolet Corsa offers a budget-friendly option for urban driving, but potential buyers should be aware of its reliability quirks. Diesel variants, particularly the 1.3 CDTI, are prone to turbocharger and EGR issues, while petrol engines can suffer from ignition coil problems. The Easytronic transmission is a known weak point, with actuator failures being common. Suspension components and general electrical issues like alternator failure also appear in owner reports. While not a universally problematic vehicle, diligent pre-purchase inspection and awareness of these common faults are recommended to avoid unexpected repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

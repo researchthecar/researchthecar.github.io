@@ -61,6 +61,19 @@ The 2007 Chevrolet Impala, a popular mid-size sedan, offered a range of powertra
 - **Cost:** $300 - $700
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -104,3 +117,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2007 Chevrolet Impala generally presents as a reasonably reliable vehicle, particularly with its V6 engines. However, common issues tend to revolve around the intake manifold gaskets on V6 models, potential torque converter shudder in the automatic transmissions, and some electrical gremlins related to the BCM and ignition switch. The V8's Active Fuel Management system can also be a source of concern. Suspension components like ball joints and bushings are also noted for wear. While not indicative of a fundamentally flawed vehicle, these are the most frequently cited technical problems that owners should be aware of for potential maintenance and repair planning.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -66,6 +66,19 @@ The 2012 Maserati GranTurismo, a grand tourer known for its striking design and 
 - **Cost:** $1200 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -133,3 +146,15 @@ The 2012 Maserati GranTurismo, a grand tourer known for its striking design and 
 --- 
 ### Summary Verdict
 The 2012 Maserati GranTurismo is a desirable exotic car, but its reliability requires careful consideration. Owners are most likely to encounter issues related to the engine (oil leaks, timing chain wear) and transmission, especially with the automated manual variant. Electrical gremlins, such as infotainment system glitches and battery drain, are also noted. While the suspension and exterior generally hold up well, proactive maintenance and a budget for potential repairs are essential for a positive ownership experience. Prospective buyers should prioritize vehicles with a comprehensive service history and consider pre-purchase inspections by marque specialists.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -32,6 +32,19 @@ The 2018 Mercedes-Benz GLC350e is a plug-in hybrid SUV that combines luxury, per
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -83,3 +96,15 @@ The 2018 Mercedes-Benz GLC350e is a plug-in hybrid SUV that combines luxury, per
 --- 
 ### Summary Verdict
 The 2018 Mercedes-Benz GLC350e generally exhibits good reliability in its conventional powertrain components (engine and transmission) and chassis. The primary areas of concern are concentrated within the hybrid electrical system, specifically the battery's longevity and charging functionality, which can incur significant repair costs. Infotainment system glitches are also a possibility, though often resolvable with software updates. Owners should be aware of potential battery degradation over time and ensure proper maintenance of the charging system. For the most part, the non-hybrid aspects of the vehicle perform as expected for a luxury SUV of this class.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

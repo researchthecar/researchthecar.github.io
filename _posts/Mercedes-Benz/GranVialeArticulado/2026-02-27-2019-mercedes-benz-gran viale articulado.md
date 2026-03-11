@@ -46,6 +46,19 @@ The 2019 Mercedes-Benz Gran Viale Articulado, a specialized articulated bus desi
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Air Suspension System
@@ -104,3 +117,15 @@ The 2019 Mercedes-Benz Gran Viale Articulado, a specialized articulated bus desi
 --- 
 ### Summary Verdict
 The 2019 Mercedes-Benz Gran Viale Articulado demonstrates good overall reliability, particularly in its powertrain options (OM 470 and OM 936 engines with ZF Ecolife transmissions), where no significant widespread issues are reported. The primary areas of concern tend to be related to the air suspension system, with potential for air spring leaks and compressor malfunctions, and certain electrical components like the Body Control Module and LED lighting units, which can experience intermittent faults or failures. The interior HVAC system's blower motor is another component that may require attention. These issues are generally repairable and fall within expected maintenance for a heavy-duty commercial vehicle operating in demanding urban environments. Proactive maintenance and timely repairs are key to ensuring continued operational efficiency.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

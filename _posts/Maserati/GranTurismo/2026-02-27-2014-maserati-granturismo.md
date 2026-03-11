@@ -39,6 +39,19 @@ The 2014 Maserati GranTurismo, a grand tourer known for its striking design and 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -92,3 +105,15 @@ The 2014 Maserati GranTurismo, a grand tourer known for its striking design and 
 --- 
 ### Summary Verdict
 The 2014 Maserati GranTurismo is a desirable exotic car with a generally good mechanical foundation. The Ferrari-derived V8 engines and the ZF automatic transmission are known for their durability. Reliability concerns are more likely to stem from the complex electrical systems, such as the infotainment unit, and ancillary components like window regulators and climate control actuators. These issues, while not necessarily widespread, are more common in luxury and performance vehicles of this era. Regular specialized maintenance is crucial for preserving the GranTurismo's performance and longevity. For potential buyers, a thorough pre-purchase inspection focusing on these electrical and interior systems is highly recommended.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

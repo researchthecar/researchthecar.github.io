@@ -54,6 +54,19 @@ The 2018 Mercedes-Benz Gran Viale RF, a versatile and luxurious passenger van, g
 - **Cost:** $1500 - $3000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Suspension
@@ -107,3 +120,15 @@ The 2018 Mercedes-Benz Gran Viale RF, a versatile and luxurious passenger van, g
 --- 
 ### Summary Verdict
 The 2018 Mercedes-Benz Gran Viale RF demonstrates good overall reliability, with the powertrain and chassis being generally robust. The most commonly reported issues tend to be related to the diesel emissions control systems (DPF, AdBlue) and specific electronic components, particularly the infotainment system and various sensors. These are not typically catastrophic failures but can lead to warning lights and reduced functionality. Transmission issues are less common but can be costly when they occur. Regular servicing and prompt attention to warning lights are recommended to maintain optimal performance and prevent minor issues from escalating.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

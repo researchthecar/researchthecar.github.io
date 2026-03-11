@@ -56,6 +56,19 @@ The 2012 Mitsubishi Montero Sport, also known as the Pajero Sport in many market
 - **Cost:** $600 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Independent Front Suspension / Solid Rear Axle
@@ -100,3 +113,15 @@ The 2012 Mitsubishi Montero Sport, also known as the Pajero Sport in many market
 --- 
 ### Summary Verdict
 The 2012 Mitsubishi Montero Sport generally presents a solid reliability record, especially concerning its robust powertrain options. The 3.0L V6 and 2.5L diesel engines are known for their durability, though common issues like coolant leaks and timing belt wear on the V6, and turbocharger or injector problems on the diesel, can arise. Automatic transmission issues such as slipping gears are the most frequently cited concern, while manual transmissions may require clutch replacements over time. Suspension components like ball joints and bushings are typical wear items for an SUV of this age and type. Electrical gremlins, particularly alternator failures and window regulators, are also noted. Exterior rust, especially on the frame, is a significant concern for vehicles in corrosive environments. Overall, with diligent maintenance and addressing specific known issues, the Montero Sport can remain a reliable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

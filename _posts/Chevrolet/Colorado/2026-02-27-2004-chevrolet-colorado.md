@@ -61,6 +61,19 @@ The 2004 Chevrolet Colorado, a compact pickup truck, offered a range of powertra
 - **Cost:** $500 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -110,3 +123,15 @@ The 2004 Chevrolet Colorado, a compact pickup truck, offered a range of powertra
 --- 
 ### Summary Verdict
 The 2004 Chevrolet Colorado presents a mixed reliability profile. While the core chassis and basic electrical systems are generally robust, specific engine and transmission options have documented weaknesses. The 2.8L and 3.5L engines can experience cooling and oil leaks, and the 3.5L is prone to timing chain issues. Automatic transmissions may develop slipping or torque converter problems. Manual transmissions are more straightforward but subject to normal clutch wear. Suspension components like ball joints and leaf springs can require replacement over time. Rust is a concern for exterior body panels. Overall, proactive maintenance and addressing early signs of trouble are key to maintaining reliability for this model year.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -32,6 +32,19 @@ The 2015 BMW Alpina B6 xDrive Gran Coupe, a high-performance luxury sedan, gener
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive M Suspension
@@ -92,3 +105,15 @@ The 2015 BMW Alpina B6 xDrive Gran Coupe, a high-performance luxury sedan, gener
 --- 
 ### Summary Verdict
 The 2015 BMW Alpina B6 xDrive Gran Coupe is a highly capable and generally reliable performance vehicle. The core powertrain components, including the V8 engine and automatic transmission, are robust. The primary areas where minor issues have been noted are within the complex electrical system, specifically concerning the infotainment unit and potential battery drain. These are not uncommon for vehicles with extensive electronic features. Owners should be prepared for higher maintenance and repair costs typical of a luxury performance car, but widespread mechanical failures are not a significant concern for this model year.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -56,6 +56,19 @@ The 2008 Mercedes-Benz Boxer 60, a robust panel van designed for commercial use,
 - **Cost:** $250 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -121,3 +134,15 @@ The 2008 Mercedes-Benz Boxer 60, a robust panel van designed for commercial use,
 --- 
 ### Summary Verdict
 The 2008 Mercedes-Benz Boxer 60 is a generally dependable commercial vehicle. The most common issues tend to revolve around the diesel engines, particularly the turbocharger and EGR system on the 2.2L CDI, and injector issues on the 2.8L JTD. Transmission reliability is fair, with clutch wear and gear selector cables being the primary concerns. Suspension components like ball joints and leaf springs can wear out under heavy use. Electrical gremlins, especially related to wiring harnesses and alternators, are also noted. Exterior rust can be a concern depending on climate and maintenance. Interior wear, particularly on the driver's seat and HVAC blower, is typical for a work vehicle. Proactive maintenance and addressing these specific issues promptly can ensure continued serviceability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

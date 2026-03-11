@@ -66,6 +66,19 @@ The 2011 Maserati GranTurismo, a grand tourer known for its striking design and 
 - **Cost:** $1,200 - $2,500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard/Skyhook Adaptive
@@ -115,3 +128,15 @@ The 2011 Maserati GranTurismo, a grand tourer known for its striking design and 
 --- 
 ### Summary Verdict
 The 2011 Maserati GranTurismo is a desirable exotic car with a generally solid mechanical foundation, particularly its Ferrari-derived V8 engines. However, potential buyers should be prepared for the higher cost of ownership associated with such a vehicle. Key areas to monitor include the timing chain tensioners and potential oil leaks on the engines, as well as torque converter and mechatronic unit issues on the automatic transmissions. Electrical gremlins, such as infotainment system glitches and window regulator failures, are also noted. While the suspension, exterior, and interior are relatively robust, proactive maintenance and a thorough pre-purchase inspection are highly recommended to mitigate potential repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

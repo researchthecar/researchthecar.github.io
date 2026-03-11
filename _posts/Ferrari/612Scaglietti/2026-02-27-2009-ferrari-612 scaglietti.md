@@ -54,6 +54,19 @@ The 2009 Ferrari 612 Scaglietti, a grand tourer known for its V12 power and eleg
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Dampers
@@ -121,3 +134,15 @@ The 2009 Ferrari 612 Scaglietti, a grand tourer known for its V12 power and eleg
 --- 
 ### Summary Verdict
 The 2009 Ferrari 612 Scaglietti is a capable grand tourer with a generally robust mechanical foundation. The V12 engine, while powerful, can experience issues like ignition coil failures and coolant leaks, which are not uncommon for high-performance V12s of this era. The F1 transmission, a complex automated manual, is more prone to issues than a traditional manual, with clutch actuator and hydraulic pump problems being the most significant concerns. Electrical gremlins, particularly with the infotainment and window systems, are also noted. While not plagued by widespread critical failures, owners should budget for potential repairs, especially on aging electrical and transmission components, and ensure regular, specialized maintenance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

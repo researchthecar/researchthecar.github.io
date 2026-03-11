@@ -51,6 +51,19 @@ The 2012 Chevrolet Tornado, a compact pickup truck, generally exhibits a decent 
 - **Cost:** $600 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -95,3 +108,15 @@ The 2012 Chevrolet Tornado, a compact pickup truck, generally exhibits a decent 
 --- 
 ### Summary Verdict
 The 2012 Chevrolet Tornado is a utilitarian vehicle that, while not without its potential issues, offers a generally reliable ownership experience. Common concerns revolve around the cooling system, ignition components, and potential for rust in certain climates. Transmission issues, while not epidemic, can be costly if they arise. Electrical components like alternators and window regulators are also noted points of failure. For prospective buyers, a thorough inspection, especially for rust and evidence of past cooling system problems, is recommended. With proper maintenance, the Tornado can serve as a dependable workhorse.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

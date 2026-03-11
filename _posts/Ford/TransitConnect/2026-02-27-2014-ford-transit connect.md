@@ -85,6 +85,19 @@ The 2014 Ford Transit Connect, a compact commercial van, is generally considered
 - **Cost:** $600 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -134,3 +147,15 @@ The 2014 Ford Transit Connect, a compact commercial van, is generally considered
 --- 
 ### Summary Verdict
 The 2014 Ford Transit Connect offers a generally dependable platform for commercial use. The most frequently reported issues tend to center around the powertrain, specifically coolant leaks in gasoline engines and DPF-related problems in diesel variants. Transmission issues, while not universal, can be costly to repair if they arise. Electrical gremlins, such as battery drain, are also noted. However, with diligent maintenance and prompt attention to early warning signs, the Transit Connect can remain a cost-effective and reliable vehicle for its intended purpose. Suspension components are generally robust, and interior/exterior issues are minimal.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

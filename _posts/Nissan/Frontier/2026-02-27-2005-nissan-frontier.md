@@ -56,6 +56,19 @@ The 2005 Nissan Frontier is a compact pickup truck known for its ruggedness and 
 - **Cost:** $300 - $2500+
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -115,3 +128,15 @@ The 2005 Nissan Frontier is a compact pickup truck known for its ruggedness and 
 --- 
 ### Summary Verdict
 The 2005 Nissan Frontier is a generally robust truck, but potential buyers should be aware of common issues. Engine oil leaks and timing chain noise are notable for the 4-cylinder, while the supercharged V6 can experience belt issues and, less commonly, head gasket problems. Automatic transmission issues like harsh shifting can arise. Suspension components like ball joints and leaf springs are wear items that may need attention. Electrical issues such as alternator failure and interior comfort items like the HVAC blower motor are also reported. Rust is a significant concern for trucks in rust-prone areas. Overall, with proper maintenance and inspection, the 2005 Frontier can remain a reliable workhorse.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

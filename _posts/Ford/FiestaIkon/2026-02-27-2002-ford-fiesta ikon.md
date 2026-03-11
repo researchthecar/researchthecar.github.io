@@ -53,6 +53,19 @@ The 2002 Ford Fiesta Ikon, a popular subcompact car, offered a range of engine a
 - **Cost:** $300 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Torsion Beam Rear
@@ -97,3 +110,15 @@ The 2002 Ford Fiesta Ikon, a popular subcompact car, offered a range of engine a
 --- 
 ### Summary Verdict
 The 2002 Ford Fiesta Ikon is generally a dependable small car, with its manual transmission variants being particularly robust. The primary areas of concern tend to be the automatic transmission, which can develop slipping issues, and potential electrical problems like alternator failure. Suspension components, specifically bushings, may require attention due to age and mileage. Exterior rust can be a concern in certain climates. While interior wear is common for a vehicle of this age, it's typically cosmetic. Overall, with proper maintenance and addressing these known potential issues, the Fiesta Ikon can remain a cost-effective and reliable mode of transportation.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

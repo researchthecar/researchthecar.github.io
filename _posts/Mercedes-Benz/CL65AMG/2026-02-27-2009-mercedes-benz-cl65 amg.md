@@ -47,6 +47,19 @@ The 2009 Mercedes-Benz CL65 AMG, a pinnacle of luxury grand touring, is equipped
 - **Cost:** $800 - $1,400
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Active Body Control (ABC)
@@ -105,3 +118,15 @@ The 2009 Mercedes-Benz CL65 AMG, a pinnacle of luxury grand touring, is equipped
 --- 
 ### Summary Verdict
 The 2009 Mercedes-Benz CL65 AMG is a high-performance luxury coupe with a complex and powerful V12 engine. While it offers an exceptional driving experience, its reliability is marked by potential issues common to high-end, performance-oriented vehicles. Key areas of concern include the intricate Active Body Control suspension system, potential turbocharger and intercooler problems, and the sophisticated electronic systems. The 5-speed automatic transmission, while robust, can also experience issues with the torque converter or control module. Owners should budget for higher maintenance and repair costs, as specialized parts and labor are often required. Despite these potential drawbacks, with diligent maintenance and prompt attention to issues, the CL65 AMG can remain a rewarding ownership experience for enthusiasts.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

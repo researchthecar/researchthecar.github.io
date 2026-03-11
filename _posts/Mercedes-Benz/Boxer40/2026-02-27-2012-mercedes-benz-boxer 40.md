@@ -51,6 +51,19 @@ The 2012 Mercedes-Benz Boxer 40, a robust commercial vehicle, generally exhibits
 - **Cost:** $400 - $900
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -95,3 +108,15 @@ The 2012 Mercedes-Benz Boxer 40, a robust commercial vehicle, generally exhibits
 --- 
 ### Summary Verdict
 The 2012 Mercedes-Benz Boxer 40 demonstrates a commendable level of reliability for a commercial vehicle. The primary areas to monitor are the diesel engines, particularly the 2.2L CDI, which can experience turbocharger and EGR valve issues, and the 3.0L V6 CDI with potential injector problems. Transmission reliability is generally good, though clutch wear on manual units and potential fluid leaks on automatics are noted. The suspension and electrical systems, while robust, can present issues like worn suspension components and alternator failures. Exterior and interior components are largely free from widespread defects. Proactive maintenance and addressing early signs of trouble can ensure the Boxer 40 remains a dependable workhorse.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

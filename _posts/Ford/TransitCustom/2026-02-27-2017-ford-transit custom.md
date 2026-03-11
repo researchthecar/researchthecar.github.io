@@ -68,6 +68,19 @@ The 2017 Ford Transit Custom is a popular commercial vehicle known for its pract
 - **Cost:** $300 - $1800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -119,3 +132,15 @@ The 2017 Ford Transit Custom is a popular commercial vehicle known for its pract
 --- 
 ### Summary Verdict
 The 2017 Ford Transit Custom generally presents a solid reliability record for a commercial vehicle. The most commonly reported issues tend to revolve around the diesel engine's emissions control systems, specifically the Diesel Particulate Filter (DPF) and Exhaust Gas Recirculation (EGR) valve, which can require maintenance or replacement. Transmission issues, particularly with the automatic gearbox, can occur, often related to shifting performance or requiring fluid services. Suspension components like bushings can wear over time, leading to noise and handling degradation. Electrical gremlins, such as battery drain or sensor faults, are also noted. Exterior and interior components are generally robust, with infotainment glitches being the primary concern in the cabin. Regular maintenance, especially for the diesel engine's emissions systems, is crucial for optimal long-term reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

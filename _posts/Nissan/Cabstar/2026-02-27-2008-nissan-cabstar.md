@@ -56,6 +56,19 @@ The 2008 Nissan Cabstar, a light commercial vehicle, is generally considered a r
 - **Cost:** $400 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -105,3 +118,15 @@ The 2008 Nissan Cabstar, a light commercial vehicle, is generally considered a r
 --- 
 ### Summary Verdict
 The 2008 Nissan Cabstar is a utilitarian vehicle that, while not prone to widespread catastrophic failures, can exhibit specific issues common to commercial vehicles. Engine-related problems, particularly with the turbocharger and injectors on the 2.5L, and potential overheating or EGR issues on the 3.0L, are notable. Transmission reliability is generally good, with clutch wear being the most common concern for manual gearboxes. Suspension components like leaf springs and bushings can wear over time due to heavy use. Electrical issues such as alternator failure and wiring problems are also reported. Rust can be a concern depending on the vehicle's operating environment. Overall, the Cabstar offers reasonable reliability for its class, but regular maintenance and attention to potential problem areas are crucial for long-term serviceability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

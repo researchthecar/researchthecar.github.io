@@ -59,6 +59,19 @@ The 2001 Lamborghini Murciélago, a true icon of automotive design and performan
 - **Cost:** $1,500 - $3,500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Double Wishbone
@@ -108,3 +121,15 @@ The 2001 Lamborghini Murciélago, a true icon of automotive design and performan
 --- 
 ### Summary Verdict
 The 2001 Lamborghini Murciélago, while a masterpiece of engineering and design, demands diligent maintenance and awareness of its specific potential issues. The V12 engine, though powerful, can be prone to cooling and oil leaks, requiring regular inspection. Transmission reliability varies between the manual and the more complex e-Gear automated manual, with the latter potentially requiring more specialized attention to its hydraulic systems. Electrical gremlins, particularly with the ECU and various sensors, are not uncommon in exotic cars of this era and can lead to frustrating diagnostics. Despite these points, the suspension and exterior/interior components generally hold up well. Prospective buyers should factor in the costs associated with addressing these known issues to ensure the long-term enjoyment and mechanical integrity of this legendary supercar.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

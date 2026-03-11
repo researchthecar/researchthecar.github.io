@@ -66,6 +66,19 @@ The 2002 Ford Excursion, a heavy-duty full-size SUV, was built for towing and ha
 - **Cost:** $300 - $700
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -115,3 +128,15 @@ The 2002 Ford Excursion, a heavy-duty full-size SUV, was built for towing and ha
 --- 
 ### Summary Verdict
 The 2002 Ford Excursion is a formidable vehicle, but its age and size mean certain components are prone to wear and failure. The Triton V8 engines share a common spark plug blowout issue, while the Power Stroke diesel can experience ICP sensor and injector problems. The 4R100 transmission, though robust, can suffer from torque converter issues and overheating, especially under heavy use. Suspension components like ball joints and leaf springs are also common wear items. Electrical gremlins, such as instrument cluster and window regulator failures, are not uncommon. Rust can be a significant concern depending on the vehicle's climate history. Despite these potential issues, with proper maintenance and timely repairs, the Excursion can remain a reliable workhorse.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

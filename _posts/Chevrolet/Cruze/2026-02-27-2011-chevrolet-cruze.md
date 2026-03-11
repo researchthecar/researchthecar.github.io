@@ -66,6 +66,19 @@ The 2011 Chevrolet Cruze, a compact sedan, aimed to offer a blend of fuel effici
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -110,3 +123,15 @@ The 2011 Chevrolet Cruze, a compact sedan, aimed to offer a blend of fuel effici
 --- 
 ### Summary Verdict
 The 2011 Chevrolet Cruze presents a mixed reliability profile. The 1.8L engine is generally more straightforward, though cooling and oil leaks can occur. The 1.4L turbo engine, while offering better fuel economy, is more prone to issues with the turbocharger, PCV system, and intake manifold. Automatic transmission problems, such as harsh shifting and leaks, are also noted. Electrical components like the alternator and power window motors can be points of failure. The manual transmission, suspension, exterior, and interior components appear to be relatively robust with fewer reported widespread issues. Prospective buyers should be aware of the potential for engine and transmission-related repairs, especially with the turbocharged variant.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

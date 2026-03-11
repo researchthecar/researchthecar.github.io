@@ -32,6 +32,19 @@ The 2001 Nissan Altra EV was a pioneering electric vehicle, representing an earl
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Suspension
@@ -97,3 +110,15 @@ The 2001 Nissan Altra EV was a pioneering electric vehicle, representing an earl
 --- 
 ### Summary Verdict
 The 2001 Nissan Altra EV, being an early electric vehicle, presents a unique reliability profile. Its electric powertrain components, such as the motor and transmission, generally showed good durability due to their mechanical simplicity compared to internal combustion engines. However, the primary areas of concern revolve around the high-voltage battery pack, which, typical for its era, is susceptible to degradation over time, leading to reduced range and requiring costly eventual replacement. Issues with the battery management system and on-board charger can also impact usability. Other electrical components like the inverter and interior electronics may also require attention. Traditional mechanical systems like suspension and exterior components generally performed as expected for a vehicle of its age, with no widespread systemic failures reported.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -49,6 +49,19 @@ The 2017 Dodge Attitude, a subcompact sedan, generally presents a mixed bag in t
 - **Cost:** $200 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -93,3 +106,15 @@ The 2017 Dodge Attitude, a subcompact sedan, generally presents a mixed bag in t
 --- 
 ### Summary Verdict
 The 2017 Dodge Attitude, while an economical choice, exhibits some common reliability concerns typical of its segment. The engine and transmission are the most frequent sources of reported issues, with cooling system leaks, ignition coil failures, and CVT-related problems being notable. Suspension components like ball joints and tie rods can also wear prematurely. Electrical gremlins, particularly with power windows and the infotainment system, are not uncommon. Exterior and interior components generally fare better, with no widespread critical failures documented. Prospective buyers should be aware of these potential issues and factor in the possibility of repairs, especially concerning the powertrain, when considering this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

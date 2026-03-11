@@ -54,6 +54,19 @@ The 2018 Chevrolet Malibu is a mid-size sedan that offers a comfortable ride and
 - **Cost:** $250 - $700
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -100,3 +113,15 @@ The 2018 Chevrolet Malibu is a mid-size sedan that offers a comfortable ride and
 --- 
 ### Summary Verdict
 The 2018 Chevrolet Malibu offers a generally reliable ownership experience, particularly in its suspension, electrical, and exterior components. However, potential buyers and current owners should be mindful of reported issues concerning the 1.5L and 2.0L turbo engines, specifically coolant leaks and oil consumption in the 2.0L. The 9-speed automatic transmission has also seen some reports of hesitation and shuddering. Addressing these potential issues proactively through diligent maintenance and prompt repairs can help mitigate significant costs and ensure a smoother ownership journey. Overall, it's a competent mid-size sedan with a few specific areas that warrant attention.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

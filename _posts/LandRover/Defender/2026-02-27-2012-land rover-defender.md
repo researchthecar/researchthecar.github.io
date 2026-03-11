@@ -47,6 +47,19 @@ The 2012 Land Rover Defender, a rugged and utilitarian off-road vehicle, is know
 - **Cost:** $300 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis & Suspension
@@ -115,3 +128,15 @@ The 2012 Land Rover Defender, a rugged and utilitarian off-road vehicle, is know
 --- 
 ### Summary Verdict
 The 2012 Land Rover Defender, while celebrated for its off-road prowess and durability, exhibits some common reliability concerns typical of its age and design. The 2.2L diesel engine can experience issues with the turbocharger, EGR valve, and glow plugs. The manual transmission, while robust, may require clutch replacement or attention to oil leaks. Suspension components like springs, shock absorbers, and bushings are prone to wear, especially under heavy use. Electrical gremlins, often stemming from corroded connections, and exterior corrosion are significant points to inspect. Interior components like the dashboard can crack, and the heater matrix is a known potential failure point. Despite these issues, many are repairable, and the Defender's overall mechanical simplicity aids in maintenance for those willing to address its specific needs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

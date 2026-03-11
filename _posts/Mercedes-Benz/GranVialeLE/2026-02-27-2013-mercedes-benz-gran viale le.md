@@ -49,6 +49,19 @@ The 2013 Mercedes-Benz Gran Viale LE, a model often associated with commercial o
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -88,3 +101,15 @@ The 2013 Mercedes-Benz Gran Viale LE, a model often associated with commercial o
 --- 
 ### Summary Verdict
 The 2013 Mercedes-Benz Gran Viale LE demonstrates good overall reliability, particularly in its transmission, suspension, electrical, exterior, and interior components, which generally do not present widespread issues. The primary concerns revolve around the diesel engines, specifically the Diesel Particulate Filter (DPF) system and EGR valves, which can require maintenance or repair. These issues are common in modern diesel vehicles and are often linked to driving cycles and maintenance practices. With diligent upkeep and attention to emission control systems, the Gran Viale LE is a dependable vehicle for its intended purpose.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

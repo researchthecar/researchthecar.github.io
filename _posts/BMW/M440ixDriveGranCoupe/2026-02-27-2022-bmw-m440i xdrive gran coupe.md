@@ -32,6 +32,19 @@ The 2022 BMW M440i xDrive Gran Coupe, powered by the robust B58 3.0L inline-six 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive M Suspension
@@ -92,3 +105,15 @@ The 2022 BMW M440i xDrive Gran Coupe, powered by the robust B58 3.0L inline-six 
 --- 
 ### Summary Verdict
 The 2022 BMW M440i xDrive Gran Coupe presents a strong case for reliability, particularly in its core powertrain components. The 3.0L turbocharged inline-six engine and the ZF 8-speed automatic transmission are proven units with a solid track record. While the mechanical aspects are generally sound, potential owners should be aware of minor electrical gremlins, primarily related to the infotainment system's software and occasional sensor issues for driver assistance features. These are often resolvable with software updates or recalibration. Overall, the M440i xDrive Gran Coupe offers a compelling blend of performance and dependability, with most issues being minor and manageable.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

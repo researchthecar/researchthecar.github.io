@@ -42,6 +42,19 @@ The 2002 Chevrolet Astro, a popular full-size van, offered a blend of utility an
 - **Cost:** $200 - $500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -107,3 +120,15 @@ The 2002 Chevrolet Astro, a popular full-size van, offered a blend of utility an
 --- 
 ### Summary Verdict
 The 2002 Chevrolet Astro is a generally reliable vehicle, particularly its powertrain. The 4.3L V6 engine and 4-speed automatic transmission are known for their durability when properly maintained. Common issues tend to be related to age and mileage, such as intake manifold gasket leaks, wear on ignition components, and potential transmission solenoid issues. Suspension components like ball joints and leaf springs can also wear out. Electrical gremlins, especially related to the BCM, and rust are areas to inspect carefully. Overall, with diligent maintenance and attention to these potential problem areas, the 2002 Astro can continue to be a dependable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -54,6 +54,19 @@ The 2006 Ferrari 612 Scaglietti, a grand tourer blending performance with practi
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Dampers
@@ -98,3 +111,15 @@ The 2006 Ferrari 612 Scaglietti, a grand tourer blending performance with practi
 --- 
 ### Summary Verdict
 The 2006 Ferrari 612 Scaglietti, while a magnificent V12 grand tourer, requires diligent maintenance and awareness of its specific potential issues. The powertrain, particularly the F1 transmission's automated manual system, can be a source of significant expense, with clutch actuators and hydraulic systems being common failure points. The V12 engine itself is robust but requires adherence to its strict maintenance schedule, especially regarding timing belts and coolant systems. Electrical gremlins, such as window regulators and infotainment glitches, are not uncommon in vehicles of this era and complexity. Suspension components, especially the adaptive dampers, can also be costly to repair. Despite these potential challenges, many owners find the 612 Scaglietti to be a rewarding and reliable exotic when properly cared for by specialists.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -46,6 +46,19 @@ The 2004 Ford Fiesta Ikon, a popular subcompact car, generally offered a decent 
 - **Cost:** $800 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Torsion Beam Rear
@@ -95,3 +108,15 @@ The 2004 Ford Fiesta Ikon, a popular subcompact car, generally offered a decent 
 --- 
 ### Summary Verdict
 The 2004 Ford Fiesta Ikon is a generally reliable subcompact, particularly with its manual transmission variants. While some owners may encounter issues with the automatic transmission, suspension components like ball joints and bushings, and specific electrical items such as window regulators and instrument clusters, these are often manageable and not indicative of systemic failure. The engines are typically robust. For prospective buyers, a thorough inspection focusing on these potential weak points is advisable. Overall, it represents a sensible choice for budget-conscious buyers seeking a functional and reasonably dependable vehicle, provided it has been maintained adequately.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

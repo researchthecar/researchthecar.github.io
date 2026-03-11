@@ -42,6 +42,19 @@ The 2018 Mercedes-Benz AMG GT is a high-performance luxury sports car renowned f
 - **Cost:** $2,500 - $5,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### AMG RIDE CONTROL Sport Suspension
@@ -90,3 +103,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2018 Mercedes-Benz AMG GT is a highly capable and generally reliable performance vehicle. While it avoids widespread critical failures, owners should be aware of potential issues with the twin-turbo V8 engine's wastegate actuators and oil cooler lines, as well as the sophisticated dual-clutch transmission's mechatronics unit and clutch packs. Electrical gremlins, such as battery drain, and minor exterior issues like headlight condensation can also occur. Interior components like seat motors may require attention. Despite these potential points of concern, with proper maintenance and prompt attention to any developing issues, the AMG GT offers a rewarding ownership experience for enthusiasts.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

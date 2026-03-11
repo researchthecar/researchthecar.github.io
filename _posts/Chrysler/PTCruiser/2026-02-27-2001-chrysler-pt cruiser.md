@@ -73,6 +73,19 @@ The 2001 Chrysler PT Cruiser, a distinctive retro-styled compact car, offered a 
 - **Cost:** $600 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -145,3 +158,15 @@ The 2001 Chrysler PT Cruiser, a distinctive retro-styled compact car, offered a 
 --- 
 ### Summary Verdict
 The 2001 Chrysler PT Cruiser, while stylistically unique, presented a mixed bag in terms of reliability, particularly in its debut year. Common issues revolved around the powertrain, with automatic transmissions sometimes exhibiting harsh shifting or slipping, and oil/coolant leaks being prevalent across engine options. Electrical gremlins, such as malfunctioning power windows and instrument cluster issues, were also noted. The exterior could be susceptible to rust in common areas, and interior wear on seats was not uncommon. Despite these potential drawbacks, many owners found the PT Cruiser to be a charming and functional vehicle, with many issues being repairable at moderate costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

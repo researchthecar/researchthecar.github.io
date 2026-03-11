@@ -42,6 +42,19 @@ The 2014 Dodge Grand Caravan, a popular choice for families and commercial use, 
 - **Cost:** $500 - $1200+
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -107,3 +120,15 @@ The 2014 Dodge Grand Caravan, a popular choice for families and commercial use, 
 --- 
 ### Summary Verdict
 The 2014 Dodge Grand Caravan is a functional vehicle with common issues primarily revolving around its powertrain and electrical systems. The 3.6L V6 engine can experience intake manifold and oil filter housing leaks, while the 62TE transmission may develop shifting problems or overheat. Suspension components like sway bar links and struts can wear out prematurely. Electrical gremlins, particularly related to the BCM and alternator, are also noted. Exterior and interior components, such as sliding door mechanisms and HVAC blower motors, can also require attention. While not overwhelmingly problematic, potential buyers should be aware of these common repair areas and factor them into their ownership costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

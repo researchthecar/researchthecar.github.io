@@ -73,6 +73,19 @@ The 2002 Chrysler PT Cruiser, a distinctive compact car with retro styling, offe
 - **Cost:** $600 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -145,3 +158,15 @@ The 2002 Chrysler PT Cruiser, a distinctive compact car with retro styling, offe
 --- 
 ### Summary Verdict
 The 2002 Chrysler PT Cruiser, while stylish, exhibits a mixed reliability record. Common issues tend to center around the powertrain, particularly oil leaks and cooling system problems in naturally aspirated engines, and turbocharger issues in GT models. Automatic transmissions can suffer from harsh shifting or leaks. Electrically, the Body Control Module and window regulators are known weak points, leading to various intermittent faults. Suspension components like ball joints and tie rods may require attention. Exterior rust can be a concern, and interior wear is typical for its age. Prospective buyers should carefully inspect these areas and factor in potential repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -66,6 +66,19 @@ The 2003 Chevrolet Impala, a popular mid-size sedan, offered a range of powertra
 - **Cost:** $400 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -131,3 +144,15 @@ The 2003 Chevrolet Impala, a popular mid-size sedan, offered a range of powertra
 --- 
 ### Summary Verdict
 The 2003 Chevrolet Impala, particularly models equipped with the 3.4L and 3.8L V6 engines, can be susceptible to intake manifold gasket leaks and, in some cases, head gasket failures. The 4T65-E transmission, while generally robust, may experience issues with the torque converter or solenoids over time. Suspension components like strut mounts and ball joints are also noted areas for potential wear. Electrical gremlins, often related to the BCM or alternator, can arise. Exterior rust is a concern in certain climates. Overall, the Impala offers decent value, but potential buyers should be aware of these common issues and factor in potential repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

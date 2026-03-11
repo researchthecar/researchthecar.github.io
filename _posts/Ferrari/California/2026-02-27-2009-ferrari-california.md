@@ -42,6 +42,19 @@ The 2009 Ferrari California, a grand tourer with a retractable hardtop, aimed to
 - **Cost:** $1500 - $3000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Magnetorheological Dampers (Optional MagneRide)
@@ -109,3 +122,15 @@ The 2009 Ferrari California, a grand tourer with a retractable hardtop, aimed to
 --- 
 ### Summary Verdict
 The 2009 Ferrari California, while a desirable grand tourer, exhibits some specific reliability concerns typical of a high-performance exotic. The engine's dry sump system and exhaust manifolds can require attention. The dual-clutch transmission, particularly its mechatronic unit and clutch actuators, is a notable area for potential issues. Owners should also be aware of possible problems with the optional magnetorheological dampers and the complex retractable hardtop mechanism. Electrical gremlins, such as infotainment glitches and battery drain, can also occur. While interior wear is possible, the core mechanical and electrical systems are the primary focus for potential reliability concerns beyond standard maintenance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -66,6 +66,19 @@ The 2012 Chevrolet Cruze, a compact sedan, offered a range of engine and transmi
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -115,3 +128,15 @@ The 2012 Chevrolet Cruze, a compact sedan, offered a range of engine and transmi
 --- 
 ### Summary Verdict
 The 2012 Chevrolet Cruze presents a mixed reliability profile. The 1.4L turbocharged engine is prone to issues like turbocharger failure and oil consumption, while coolant leaks can affect both engine options. Automatic transmission problems, particularly harsh shifting and control module failures, are also noted. Electrical components like the alternator and power window motors can fail. Interior issues such as HVAC blower motor and infotainment system glitches are reported. Manual transmissions appear more reliable. Owners should be aware of these potential issues and ensure regular maintenance, especially concerning the cooling and lubrication systems, to mitigate risks.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

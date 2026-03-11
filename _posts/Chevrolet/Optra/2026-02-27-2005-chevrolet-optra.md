@@ -51,6 +51,19 @@ The 2005 Chevrolet Optra, also known as the Daewoo Lacetti in many markets, was 
 - **Cost:** $200 - $1500+
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -105,3 +118,15 @@ The 2005 Chevrolet Optra, also known as the Daewoo Lacetti in many markets, was 
 --- 
 ### Summary Verdict
 The 2005 Chevrolet Optra presents a budget-friendly option with a few common areas of concern. The 1.8L Ecotec engine can be prone to oil and coolant leaks, requiring attention to seals and gaskets. Transmissions, both manual and automatic, may experience wear issues like clutch problems or rough shifting. Suspension components, particularly bushings and shocks, are also noted for wear. Electrical gremlins can surface in the form of window regulators and instrument clusters. Exterior rust can be an issue depending on climate and care. Interior wear, especially on upholstery and the HVAC blower, is also reported. Overall, while not plagued by catastrophic failures, the Optra demands regular maintenance and awareness of these potential issues to ensure continued serviceability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

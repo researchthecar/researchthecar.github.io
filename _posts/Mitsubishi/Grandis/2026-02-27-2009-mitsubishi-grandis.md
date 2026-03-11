@@ -56,6 +56,19 @@ The 2009 Mitsubishi Grandis, a versatile MPV, generally presents a respectable r
 - **Cost:** $1000 - $1800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Suspension
@@ -105,3 +118,15 @@ The 2009 Mitsubishi Grandis, a versatile MPV, generally presents a respectable r
 --- 
 ### Summary Verdict
 The 2009 Mitsubishi Grandis offers a generally reliable ownership experience, with most reported issues being specific to certain components rather than widespread design flaws. The diesel engines, particularly the 2.0L DI-D, can be prone to turbocharger and EGR valve issues, while the petrol engine may develop oil leaks. Automatic transmission issues, such as torque converter problems and fluid leaks, are also noted. Suspension components like bushings and ball joints are common wear items. Electrical gremlins, such as window regulators and sensors, can occur. Exterior rust can be a concern in certain climates. Interior issues are typically minor, like AC performance or trim rattles. Regular maintenance and prompt attention to early symptoms are crucial for maximizing the Grandis's longevity and minimizing repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -61,6 +61,19 @@ The 2006 Mercedes-Benz Citaro, a popular model in urban public transportation, i
 - **Cost:** $1,000 - $2,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Air Suspension System
@@ -119,3 +132,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2006 Mercedes-Benz Citaro demonstrates a generally strong reliability record, characteristic of its premium brand and purpose-built design for commercial use. The most frequently reported issues tend to be concentrated in areas subject to high stress and continuous operation, such as the engine's turbocharger and EGR systems, and automatic transmission components like torque converters and solenoid packs. Suspension issues, primarily related to air spring leaks and leveling valves, are also noted. Electrical gremlins, often stemming from the Body Control Module or wiring harness integrity, can present complex diagnostic challenges. Exterior and interior components, while subject to wear, typically involve localized repairs like door mechanisms or HVAC blower motors. Overall, with diligent maintenance and timely addressing of emerging issues, the Citaro remains a dependable platform for public transportation.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

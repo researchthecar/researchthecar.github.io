@@ -58,6 +58,19 @@ The 2006 Mitsubishi Lancer, particularly in its North American configurations, i
 - **Cost:** $300 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -112,3 +125,15 @@ The 2006 Mitsubishi Lancer, particularly in its North American configurations, i
 --- 
 ### Summary Verdict
 The 2006 Mitsubishi Lancer is a generally dependable compact car, especially with the naturally aspirated engines. The 2.0L turbo engine in the Ralliart model, while offering performance, introduces potential for more significant repairs like turbocharger and head gasket issues. Automatic transmissions can sometimes develop slipping problems. Suspension components like control arm bushings and strut mounts are common wear items. Electrical issues such as window regulators and alternators are also noted. Interior wear, particularly on seats, is typical for a vehicle of this age. Overall, it's a solid choice for budget-conscious buyers, but potential buyers should be aware of the specific issues associated with the turbocharged engine and automatic transmission.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

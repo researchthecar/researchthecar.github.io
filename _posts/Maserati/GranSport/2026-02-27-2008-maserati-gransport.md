@@ -42,6 +42,19 @@ The 2008 Maserati GranSport, a potent blend of luxury and performance, is known 
 - **Cost:** $1,000 - $2,500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Skyhook System
@@ -91,3 +104,15 @@ The 2008 Maserati GranSport, a potent blend of luxury and performance, is known 
 --- 
 ### Summary Verdict
 The 2008 Maserati GranSport offers a thrilling driving experience, but potential buyers should be aware of specific reliability concerns, particularly with the automated manual transmission's clutch actuator and hydraulic system, and the adaptive suspension components. Engine-related issues like timing chain tensioner wear and exhaust manifold leaks are also documented. Electrical gremlins, such as window regulator failures, can occur. While the exterior and interior generally hold up well, proactive maintenance and a thorough pre-purchase inspection are highly recommended to mitigate potential repair costs and ensure a rewarding ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

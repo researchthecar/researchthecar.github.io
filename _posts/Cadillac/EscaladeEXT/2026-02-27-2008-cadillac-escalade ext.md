@@ -42,6 +42,19 @@ The 2008 Cadillac Escalade EXT, a luxury extended-cab pickup truck, is known for
 - **Cost:** $2,000 - $4,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Magnetic Ride Control (MRC)
@@ -114,3 +127,15 @@ The 2008 Cadillac Escalade EXT, a luxury extended-cab pickup truck, is known for
 --- 
 ### Summary Verdict
 The 2008 Cadillac Escalade EXT, powered by the robust 6.2L V8, generally offers a solid ownership experience. However, potential buyers and current owners should be aware of common issues such as Active Fuel Management (AFM) lifter problems and oil consumption, which can be costly to repair. The 6-speed automatic transmission, while capable, can sometimes exhibit torque converter shudder or internal wear. The advanced Magnetic Ride Control suspension, while providing a superior ride, is susceptible to leaks and sensor failures. Electrical gremlins related to the BCM and infotainment system are also noted. Addressing these potential issues proactively through diligent maintenance and timely repairs can help mitigate significant expenses and ensure the continued enjoyment of this luxurious and capable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

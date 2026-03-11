@@ -68,6 +68,19 @@ The 2009 Mitsubishi Montero Sport, also known as the Pajero Sport in many market
 - **Cost:** $700 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Independent Front Suspension / Solid Rear Axle
@@ -123,3 +136,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2009 Mitsubishi Montero Sport is a capable SUV with generally strong mechanicals, especially its V6 engines and robust chassis. However, owners should be aware of potential issues such as timing belt maintenance for the 3.5L V6, and common wear items like ball joints, bushings, and alternators. Transmission issues, particularly with the automatic variants, can arise with age and mileage, often manifesting as slipping or harsh shifting. Rust can be a concern on older models, especially in corrosive environments. Electrical components like window regulators and the HVAC blower motor are also noted areas for potential repair. Regular maintenance and prompt attention to early symptoms are key to maintaining the reliability of this vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

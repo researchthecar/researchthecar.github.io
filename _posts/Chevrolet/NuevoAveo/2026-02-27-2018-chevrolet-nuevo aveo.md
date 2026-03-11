@@ -61,6 +61,19 @@ The 2018 Chevrolet Aveo, often referred to as the 'Nuevo Aveo' in certain market
 - **Cost:** $200 - $500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Torsion Beam Rear
@@ -115,3 +128,15 @@ The 2018 Chevrolet Aveo, often referred to as the 'Nuevo Aveo' in certain market
 --- 
 ### Summary Verdict
 The 2018 Chevrolet Aveo presents a generally acceptable reliability profile for its class, particularly in its exterior and basic mechanicals. However, potential owners should be aware of reported issues concerning oil and coolant leaks from the 1.6L engine, and turbocharger or cooling system concerns with the 1.4L turbo variant. Automatic transmission models have seen some reports of harsh shifting. Electrical gremlins, such as battery drain and alternator failures, are also noted. While not a vehicle plagued by widespread critical failures, proactive maintenance and awareness of these common issues can help mitigate potential repair costs and ensure a more reliable ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

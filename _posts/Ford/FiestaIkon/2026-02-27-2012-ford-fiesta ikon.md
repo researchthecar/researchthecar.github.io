@@ -66,6 +66,19 @@ The 2012 Ford Fiesta Ikon, a subcompact car, generally presented a mixed bag of 
 - **Cost:** $700 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -115,3 +128,15 @@ The 2012 Ford Fiesta Ikon, a subcompact car, generally presented a mixed bag of 
 --- 
 ### Summary Verdict
 The 2012 Ford Fiesta Ikon is a budget-friendly subcompact that offers decent value, but it's not without its potential reliability concerns. The most frequently reported issues tend to center around the powertrain, with coolant leaks and oil leaks being common for the 1.6L gasoline engine, and turbocharger/injector problems for the 1.5L diesel. Transmissions, both manual and automatic, can also present issues like clutch wear or slipping. Electrical gremlins, such as faulty power windows and instrument clusters, and interior component failures like the HVAC blower motor, are also noted. While suspension and exterior components are generally reliable, prospective buyers should be prepared for potential repairs, especially concerning the engine and transmission.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

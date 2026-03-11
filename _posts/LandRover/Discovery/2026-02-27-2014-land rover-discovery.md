@@ -59,6 +59,19 @@ The 2014 Land Rover Discovery, often referred to as the Discovery 4, is a capabl
 - **Cost:** $1200 - $2800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Air Suspension (Optional)
@@ -115,3 +128,15 @@ The 2014 Land Rover Discovery, often referred to as the Discovery 4, is a capabl
 --- 
 ### Summary Verdict
 The 2014 Land Rover Discovery presents a mixed reliability profile. The diesel engines, particularly the TDV6, are prone to issues with turbochargers, EGR valves, and injectors, which can be costly to repair. The petrol V8 can suffer from timing chain and water pump problems. Automatic transmission issues, such as torque converter and mechatronic unit failures, are also noted. The optional air suspension system is a common source of problems, with leaks and compressor failures being frequent. Electrical gremlins, including battery drain and infotainment glitches, can also occur. While the standard suspension and interior/exterior components are generally robust, potential buyers should be aware of the significant repair costs associated with the powertrain and air suspension. Regular and thorough maintenance is crucial for mitigating these potential issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
