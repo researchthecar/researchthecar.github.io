@@ -44,6 +44,19 @@ The 2018 Subaru Impreza is generally considered a reliable vehicle, known for it
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -100,3 +113,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2018 Subaru Impreza demonstrates solid reliability, particularly with its manual transmission and standard chassis components. The most frequently cited issues revolve around the 2.0L engine's potential for oil consumption and coolant leaks, and the CVT transmission's occasional hesitation. Electrical gremlins, primarily with the infotainment system and battery drain, are also noted. Exterior and interior components are generally robust. Addressing potential oil consumption and ensuring the CVT is functioning smoothly through regular maintenance are key for long-term ownership. Overall, it remains a dependable choice, especially for those seeking all-wheel-drive capability in a compact car.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

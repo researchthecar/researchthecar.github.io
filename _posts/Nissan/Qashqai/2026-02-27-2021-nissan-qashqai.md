@@ -46,6 +46,19 @@ The 2021 Nissan Qashqai, a popular compact crossover, generally presents a solid
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Rear
@@ -106,3 +119,15 @@ The 2021 Nissan Qashqai, a popular compact crossover, generally presents a solid
 --- 
 ### Summary Verdict
 The 2021 Nissan Qashqai is generally considered a reliable compact SUV. Most owners experience a trouble-free ownership period with no significant recurring faults. The primary areas where minor issues have been noted include occasional glitches with the infotainment system, such as screen unresponsiveness, and some reports of slight hesitations or jerking from the Xtronic CVT transmission, often rectifiable with software updates or fluid services. The petrol and diesel engines, along with the manual transmission, suspension, and interior components, have shown good durability. Overall, the Qashqai offers a dependable choice for its segment, provided routine maintenance is adhered to.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

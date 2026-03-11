@@ -66,6 +66,19 @@ The 2000 Volkswagen Derby, a compact sedan known for its practicality and fuel e
 - **Cost:** $700 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Torsion Beam Rear
@@ -130,3 +143,15 @@ The 2000 Volkswagen Derby, a compact sedan known for its practicality and fuel e
 --- 
 ### Summary Verdict
 The 2000 Volkswagen Derby is a reasonably reliable vehicle for its age, with most reported issues being common for European cars of this vintage. The petrol engines are generally robust, though ignition and sensor issues can arise. The TDI diesel engines are known for their durability but can be susceptible to turbocharger problems. Transmission issues, particularly with the automatic, are a notable concern and may require attention. Suspension components like ball joints and tie rods are typical wear items. Electrical gremlins, such as window regulators and instrument clusters, are also frequently reported. Exterior and interior issues are mostly cosmetic or related to aging seals and trim. Overall, with diligent maintenance and prompt attention to known issues, the Derby can remain a dependable daily driver.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

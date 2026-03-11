@@ -53,6 +53,19 @@ The 2019 Nissan Qashqai, a popular compact SUV, generally presents a solid relia
 - **Cost:** $200 - $1200 (depending on solution)
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -109,3 +122,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2019 Nissan Qashqai is generally considered a reliable vehicle, with most owners experiencing trouble-free operation. The most frequently cited technical concerns revolve around the Diesel Particulate Filter (DPF) system in diesel variants, particularly under conditions that don't allow for regular regeneration. Petrol engines, especially the 1.3L DIG-T, may see occasional oil consumption issues. The CVT transmission, while generally smooth, can sometimes exhibit minor jerking or hesitation. Electrical gremlins, primarily related to the infotainment system's connectivity and occasional battery drain, are also noted. Exterior and interior components are largely robust, with minor issues like headlight condensation being infrequent. Overall, for its segment, the Qashqai offers a good balance of reliability, though potential buyers of diesel models should be mindful of DPF maintenance requirements.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -44,6 +44,19 @@ The 2009 Nissan Pathfinder is a mid-size SUV known for its rugged capability and
 - **Cost:** $500 - $3000+
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Independent Front Suspension / Solid Rear Axle
@@ -83,3 +96,15 @@ The 2009 Nissan Pathfinder is a mid-size SUV known for its rugged capability and
 --- 
 ### Summary Verdict
 The 2009 Nissan Pathfinder, particularly with the 5.6L V8 engine, demonstrates good overall reliability. The 4.0L V6 can be prone to timing chain and intake manifold issues, which are significant but repairable. The 5-speed automatic transmission is generally robust but can develop shifting problems over time, often addressable with maintenance or component replacement. Suspension components, especially bushings, are common wear items on SUVs of this age. Electrical gremlins related to the BCM are also a possibility. Despite these potential issues, the Pathfinder remains a capable and durable SUV when properly maintained.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

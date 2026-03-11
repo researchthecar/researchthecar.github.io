@@ -49,6 +49,19 @@ The 2017 Volvo V90 Cross Country, a premium wagon with enhanced off-road capabil
 - **Cost:** $500 - $2,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -91,3 +104,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2017 Volvo V90 Cross Country is a generally reliable vehicle, particularly in its core mechanical components. The powertrain, while sophisticated, can occasionally experience issues like coolant leaks or turbocharger problems, with associated repair costs varying. Diesel variants may encounter DPF or AdBlue system issues, common to modern diesel technology. Transmission reliability is good, though some owners report occasional shifting anomalies. Electrical systems, especially the advanced infotainment, can sometimes exhibit glitches requiring software updates or component replacement. The exterior and interior generally hold up well, with no widespread systemic failures reported. Overall, the V90 Cross Country offers a dependable ownership experience, with most potential issues being manageable and within the expected range for a premium vehicle of its age.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -76,6 +76,19 @@ The 2003 Porsche Boxster, a mid-engine two-seater sports car, offered a compelli
 - **Cost:** $1,200 - $2,500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -120,3 +133,15 @@ The 2003 Porsche Boxster, a mid-engine two-seater sports car, offered a compelli
 --- 
 ### Summary Verdict
 The 2003 Porsche Boxster, while a desirable sports car, is known for specific potential mechanical issues, most notably the Intermediate Shaft (IMS) bearing failure, which can be catastrophic if not addressed. Rear main seal leaks are also a common concern. Transmission reliability is generally good, though clutch wear and shifter cable issues can arise with age and mileage. Electrical components like window regulators and headlight switches can also be points of failure. Regular maintenance and proactive inspection of known weak points, especially the IMS bearing, are crucial for maintaining the long-term reliability and value of this model.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

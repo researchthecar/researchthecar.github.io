@@ -44,6 +44,19 @@ The 2020 Polestar Polestar 1 is a high-performance plug-in hybrid electric vehic
 - **Cost:** $100 - $300
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Öhlins Continuously Controlled Electronic Suspension
@@ -90,3 +103,15 @@ The 2020 Polestar Polestar 1 is a high-performance plug-in hybrid electric vehic
 --- 
 ### Summary Verdict
 The 2020 Polestar Polestar 1, being a limited-production, high-performance PHEV, exhibits a reliability profile that leans towards specialized components and systems. While the core gasoline engine and transmission are generally robust, the complexity of the hybrid powertrain, including the high-voltage battery and electric drive units, presents the most significant potential for issues. Owners should be prepared for the possibility of electronic control module failures, particularly within the advanced suspension and hybrid systems. Electrical components, especially the battery pack, can be costly to repair or replace outside of warranty. Regular maintenance by qualified technicians is crucial for ensuring the longevity and optimal performance of this technologically advanced vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

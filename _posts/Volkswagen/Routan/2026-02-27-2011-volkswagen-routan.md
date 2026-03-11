@@ -54,6 +54,19 @@ The 2011 Volkswagen Routan, a minivan developed in partnership with Chrysler, sh
 - **Cost:** $200 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -108,3 +121,15 @@ The 2011 Volkswagen Routan, a minivan developed in partnership with Chrysler, sh
 --- 
 ### Summary Verdict
 The 2011 Volkswagen Routan presents a mixed reliability profile. While the core structure and basic functionality are generally sound, owners should be aware of potential issues, particularly with the V6 engines (3.8L and 4.0L) concerning intake manifold gaskets and oil cooler lines. The shared Chrysler automatic transmission can also experience shifting problems. Electrical components like power window motors and instrument clusters have been reported to fail. Exterior and interior issues, such as sliding door problems and HVAC blower motor failures, are also noted. Regular maintenance and prompt attention to early signs of trouble are recommended to mitigate repair costs and ensure longevity.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

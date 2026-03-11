@@ -46,6 +46,19 @@ The 2021 Subaru Crosstrek is generally regarded as a reliable compact SUV, known
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -106,3 +119,15 @@ The 2021 Subaru Crosstrek is generally regarded as a reliable compact SUV, known
 --- 
 ### Summary Verdict
 The 2021 Subaru Crosstrek presents itself as a dependable choice in the compact SUV segment. Its powertrain options, both the 2.0L and the more potent 2.5L BOXER engines, are generally robust. The CVT transmission, while occasionally exhibiting minor hesitations, is largely reliable, and the manual transmission is a solid alternative. Electrical gremlins, primarily concerning the infotainment system's responsiveness, are the most frequently cited non-wear-and-tear issues, though often resolvable with software updates. Exterior paint susceptibility to chipping and minor interior wear on high-contact areas like seat bolsters are noted but not widespread critical failures. Overall, the Crosstrek offers good value with a strong reliability record for its class.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

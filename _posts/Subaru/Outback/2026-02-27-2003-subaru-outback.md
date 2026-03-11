@@ -56,6 +56,19 @@ The 2003 Subaru Outback, a popular choice for those seeking a blend of car-like 
 - **Cost:** $700 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Suspension
@@ -121,3 +134,15 @@ The 2003 Subaru Outback, a popular choice for those seeking a blend of car-like 
 --- 
 ### Summary Verdict
 The 2003 Subaru Outback is a capable and generally reliable vehicle, particularly for its age. The most significant and costly potential issue is head gasket failure, which is common on many Subaru models of this era, especially the 2.5L engines. Turbocharged models may also face turbocharger issues. Transmission problems, while not universal, can occur, particularly with the automatic. Suspension components and electrical issues like BCM glitches are also reported. Rust can be a concern in certain climates. Despite these potential drawbacks, with diligent maintenance and addressing issues promptly, the 2003 Outback can continue to be a dependable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

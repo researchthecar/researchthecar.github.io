@@ -49,6 +49,19 @@ The 2001 Toyota MR2 Spyder, known for its mid-engine, rear-wheel-drive layout an
 - **Cost:** $800 - $1,800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -98,3 +111,15 @@ The 2001 Toyota MR2 Spyder, known for its mid-engine, rear-wheel-drive layout an
 --- 
 ### Summary Verdict
 The 2001 Toyota MR2 Spyder is generally a reliable vehicle, especially with the manual transmission. The most significant potential issues lie with the optional 6-speed SMT, which can be prone to actuator and hydraulic pump problems. Engine-wise, the 1.8L 1ZZ-FE can experience oil consumption and leaks, requiring monitoring and potential repairs. Electrical components like power window motors and ABS sensors can also fail over time. Exterior concerns are mainly related to the convertible top mechanism and potential headlight condensation. Overall, with proper maintenance and attention to the known weak points, the MR2 Spyder can be a dependable and enjoyable sports car.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

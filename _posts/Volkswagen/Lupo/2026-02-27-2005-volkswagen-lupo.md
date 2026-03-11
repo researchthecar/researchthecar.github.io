@@ -78,6 +78,19 @@ The 2005 Volkswagen Lupo, a compact city car, was generally well-regarded for it
 - **Cost:** $700 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -142,3 +155,15 @@ The 2005 Volkswagen Lupo, a compact city car, was generally well-regarded for it
 --- 
 ### Summary Verdict
 The 2005 Volkswagen Lupo presents a mixed reliability profile. While its core mechanicals and city-friendly design are generally sound, specific engine variants, particularly the petrol engines, can experience issues like coolant leaks and timing belt problems if maintenance schedules are not strictly followed. The diesel engines, while robust, can face turbocharger wear. Transmission issues, especially with the automatic variants, are not uncommon and can be costly to repair. Electrical gremlins, such as window regulators and central locking, are a recurring theme, often due to age and component wear. Exterior rust can be a concern in certain climates, and interior components like seat fabric and HVAC blowers may show signs of wear. Overall, the Lupo can be a reliable car, but potential buyers should be aware of these common issues and factor in potential repair costs, especially for vehicles with higher mileage or incomplete service histories.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

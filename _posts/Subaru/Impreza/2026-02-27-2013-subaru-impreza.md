@@ -44,6 +44,19 @@ The 2013 Subaru Impreza, known for its standard all-wheel-drive system and pract
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -95,3 +108,15 @@ The 2013 Subaru Impreza, known for its standard all-wheel-drive system and pract
 --- 
 ### Summary Verdict
 The 2013 Subaru Impreza is a generally reliable vehicle, especially concerning its core mechanical components like the engine and manual transmission. The standard AWD system adds to its appeal. Owners should be aware of potential oil consumption issues with the 2.0L engine and occasional transmission quirks with the CVT. Electrical issues, particularly with the BCM and alternator, are also noted. Suspension components like sway bar links and strut mounts may require attention as the vehicle ages. Overall, with diligent maintenance and awareness of these common points, the 2013 Impreza can be a dependable choice.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

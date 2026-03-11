@@ -51,6 +51,19 @@ The 2005 Nissan Platina, a subcompact car primarily sold in Latin America, was b
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -100,3 +113,15 @@ The 2005 Nissan Platina, a subcompact car primarily sold in Latin America, was b
 --- 
 ### Summary Verdict
 The 2005 Nissan Platina is generally considered a dependable vehicle for its class, with its most common issues revolving around typical wear items and some specific electrical components. The 1.6L engine, while generally robust, can experience ignition coil failures and minor oil leaks. The manual transmission's clutch is a wear item that may require replacement. Suspension components like ball joints and strut mounts can also develop issues over time, leading to noise and handling problems. Electrical gremlins, particularly with window regulators and the alternator, are also noted. Overall, the Platina offers reasonable reliability, but owners should be aware of these potential repair areas to maintain its functionality.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

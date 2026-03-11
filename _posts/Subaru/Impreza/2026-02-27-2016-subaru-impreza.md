@@ -44,6 +44,19 @@ The 2016 Subaru Impreza is generally considered a reliable vehicle, known for it
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -86,3 +99,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2016 Subaru Impreza offers a solid ownership experience with its standard AWD and practical nature. The most commonly cited technical issues revolve around the 2.0L engine's potential for oil consumption and, less frequently, head gasket leaks. The CVT transmission can sometimes exhibit hesitation. Electrical gremlins, particularly with the infotainment system, and exterior paint issues like clear coat peeling are also noted. While these issues exist, they are not universally experienced, and many owners report high satisfaction. Regular maintenance and prompt attention to early symptoms can mitigate many potential problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

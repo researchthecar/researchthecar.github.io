@@ -46,6 +46,19 @@ The 2003 Nissan Tsubame, a compact sedan known for its fuel efficiency and pract
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -90,3 +103,15 @@ The 2003 Nissan Tsubame, a compact sedan known for its fuel efficiency and pract
 --- 
 ### Summary Verdict
 The 2003 Nissan Tsubame is generally considered a reliable vehicle, especially with its base 1.5L engine and manual transmission. The most commonly reported significant issues tend to be oil consumption in the 1.8L engine, potential transmission problems in automatic variants, and age-related electrical component failures like alternators and power window motors. Suspension wear, particularly bushings, is also a common point of attention for vehicles of this age. However, these issues are often manageable and do not indicate a fundamental flaw in the vehicle's design. With regular maintenance and prompt attention to any developing problems, the Tsubame can continue to be a dependable mode of transportation.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

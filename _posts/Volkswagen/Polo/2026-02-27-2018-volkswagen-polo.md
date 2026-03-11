@@ -60,6 +60,19 @@ The 2018 Volkswagen Polo is generally considered a reliable compact car, popular
 - **Cost:** $1500 - $3000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front / Torsion Beam Rear
@@ -104,3 +117,15 @@ The 2018 Volkswagen Polo is generally considered a reliable compact car, popular
 --- 
 ### Summary Verdict
 The 2018 Volkswagen Polo demonstrates good overall reliability, particularly with its naturally aspirated and turbocharged petrol engines, and manual transmissions. The primary area of concern is the 7-speed DSG automatic transmission, which can experience issues with its mechatronic unit, leading to significant repair costs. Electrical gremlins, such as infotainment system glitches and occasional battery drain, are also noted but are generally manageable. The suspension, exterior, and interior components are typically robust. For buyers prioritizing long-term dependability, opting for a manual transmission or a well-maintained example with a DSG gearbox is advisable, with a thorough pre-purchase inspection recommended.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -78,6 +78,19 @@ The 2011 Volkswagen Gol, a popular subcompact car primarily sold in Latin Americ
 - **Cost:** $800 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front / Torsion Beam Rear
@@ -137,3 +150,15 @@ The 2011 Volkswagen Gol, a popular subcompact car primarily sold in Latin Americ
 --- 
 ### Summary Verdict
 The 2011 Volkswagen Gol offers a budget-friendly option, but its reliability is not without caveats. The EA111 engines, particularly the 1.0L and 1.6L variants, are prone to ignition coil failures and, in some cases, timing chain or water pump issues. Manual transmissions can experience clutch wear and synchronizer problems. Electrically, alternators and window regulators are common points of failure. While the exterior and interior are generally robust, HVAC blower motors and door lock actuators can be troublesome. Prospective buyers should factor in potential repair costs for these common issues, especially if purchasing a higher-mileage example.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

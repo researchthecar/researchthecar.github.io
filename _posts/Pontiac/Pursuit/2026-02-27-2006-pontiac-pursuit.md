@@ -44,6 +44,19 @@ The 2006 Pontiac Pursuit, a compact sedan, offered a blend of fuel efficiency an
 - **Cost:** $400 - $1500+
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -102,3 +115,15 @@ The 2006 Pontiac Pursuit, a compact sedan, offered a blend of fuel efficiency an
 --- 
 ### Summary Verdict
 The 2006 Pontiac Pursuit is a generally dependable vehicle, with its 1.8L Ecotec engine being the most common source of reported issues, primarily related to oil and coolant leaks. The manual transmission is quite robust, while the automatic transmission may experience shifting problems. Suspension components like struts and ball joints can wear over time, and electrical issues, particularly with the BCM and alternator, are not uncommon. Interior and exterior components are typically less problematic. Regular maintenance and prompt attention to early signs of leaks or electrical anomalies are key to maintaining the Pursuit's reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -44,6 +44,19 @@ The 2019 Nissan Versa Note is a subcompact hatchback known for its fuel efficien
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -88,3 +101,15 @@ The 2019 Nissan Versa Note is a subcompact hatchback known for its fuel efficien
 --- 
 ### Summary Verdict
 The 2019 Nissan Versa Note presents a generally reliable profile for its segment, with the 1.6L engine proving to be robust. The primary area of concern lies with the CVT transmission, which can occasionally exhibit hesitation, jerking, or overheating issues, potentially requiring costly repairs or replacements. Electrical gremlins, such as infotainment system glitches and keyless entry problems, are also noted but are typically less severe and more manageable. The suspension, exterior, and interior components are largely free from widespread technical defects. For potential buyers, a thorough inspection of the CVT's service history and performance is recommended.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

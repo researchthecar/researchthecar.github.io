@@ -44,6 +44,19 @@ The 2008 Suzuki Forenza, a compact sedan and wagon, aimed to offer a practical a
 - **Cost:** $500 - $900
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -100,3 +113,15 @@ The 2008 Suzuki Forenza, a compact sedan and wagon, aimed to offer a practical a
 --- 
 ### Summary Verdict
 The 2008 Suzuki Forenza presents a mixed reliability profile. While its powertrain options are generally functional, common issues such as oil leaks and potential timing belt problems in the 2.0L engine require attention. Transmission issues, particularly with the automatic, can be costly. Suspension components like struts and ball joints are also noted for wear. Electrical gremlins, including alternator and window regulator failures, are not uncommon. Exterior rust can be a significant concern depending on climate. Interior issues like HVAC blower motor failure and instrument cluster problems add to the potential repair list. Overall, the Forenza is a budget car that may require more frequent and potentially expensive repairs as it ages, especially compared to some of its contemporaries.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

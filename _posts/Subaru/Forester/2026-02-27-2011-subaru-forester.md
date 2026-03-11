@@ -56,6 +56,19 @@ The 2011 Subaru Forester is generally considered a reliable vehicle, particularl
 - **Cost:** $300 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -105,3 +118,15 @@ The 2011 Subaru Forester is generally considered a reliable vehicle, particularl
 --- 
 ### Summary Verdict
 The 2011 Subaru Forester is a dependable SUV with a solid reputation for reliability. The most commonly cited issues revolve around the engine, particularly head gasket failures and oil consumption, which can be costly to repair. Transmission issues are less frequent but can occur, especially with the automatic variants. Suspension components like sway bar links and struts may require attention as the vehicle ages. Electrical problems, such as window regulators and ABS sensor issues, are also noted. Despite these potential concerns, many owners find the Forester to be a robust and long-lasting vehicle when properly maintained, with its AWD system being a significant advantage.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

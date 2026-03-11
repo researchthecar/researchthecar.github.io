@@ -49,6 +49,19 @@ The 2011 Nissan Pathfinder is a capable mid-size SUV known for its ruggedness an
 - **Cost:** $500 - $2,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -108,3 +121,15 @@ The 2011 Nissan Pathfinder is a capable mid-size SUV known for its ruggedness an
 --- 
 ### Summary Verdict
 The 2011 Nissan Pathfinder, particularly with the 4.0L V6 engine and 5-speed automatic transmission, exhibits some common reliability concerns. The most frequently reported issues involve the engine's timing chain system and intake manifold gaskets, along with transmission problems such as harsh shifting and overheating. Suspension components like bushings and rear springs can also wear over time. Electrical gremlins, including instrument cluster and power window failures, are not uncommon. Exterior issues like failing hatch struts and paint degradation, and interior problems such as HVAC blower motor failures, are also noted. Despite these potential drawbacks, many owners find the Pathfinder to be a durable vehicle when these issues are addressed proactively.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

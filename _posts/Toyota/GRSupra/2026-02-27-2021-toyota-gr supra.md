@@ -46,6 +46,19 @@ The 2021 Toyota GR Supra, a performance-oriented sports coupe, generally exhibit
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive M Suspension
@@ -106,3 +119,15 @@ The 2021 Toyota GR Supra, a performance-oriented sports coupe, generally exhibit
 --- 
 ### Summary Verdict
 The 2021 Toyota GR Supra demonstrates commendable reliability, particularly in its powertrain and chassis components, which are largely derived from proven BMW engineering. While minor electrical glitches, such as occasional infotainment system hiccups, can occur, they are generally resolved with software updates and do not represent systemic failures. The performance-oriented nature of the vehicle means that components are subjected to higher stresses, but the build quality and component selection contribute to a robust overall package. For owners who adhere to the recommended maintenance schedule, the GR Supra is expected to provide a dependable and exhilarating driving experience with a low probability of major mechanical issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

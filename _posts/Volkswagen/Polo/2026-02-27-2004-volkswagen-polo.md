@@ -78,6 +78,19 @@ The 2004 Volkswagen Polo, a popular subcompact car, offered a range of engine an
 - **Cost:** $600 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -132,3 +145,15 @@ The 2004 Volkswagen Polo, a popular subcompact car, offered a range of engine an
 --- 
 ### Summary Verdict
 The 2004 Volkswagen Polo is a generally dependable small car, but potential buyers and current owners should be aware of common issues. Engine reliability varies by specific powerplant, with the TDI engines being robust but susceptible to turbo and EGR problems, while petrol engines can experience oil consumption or timing belt issues. Transmission issues, particularly with the automatic, can be costly. Suspension components like ball joints and bushings are wear items that may require attention. Electrical gremlins, such as window regulators and central locking, are not uncommon. Exterior rust can be a concern on older models, especially in certain climates. Overall, with diligent maintenance and awareness of these potential pitfalls, the Polo can remain a practical and economical vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

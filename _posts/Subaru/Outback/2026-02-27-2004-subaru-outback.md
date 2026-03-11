@@ -56,6 +56,19 @@ The 2004 Subaru Outback, a popular choice for those seeking a blend of car-like 
 - **Cost:** $800 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -115,3 +128,15 @@ The 2004 Subaru Outback, a popular choice for those seeking a blend of car-like 
 --- 
 ### Summary Verdict
 The 2004 Subaru Outback is a generally reliable vehicle, particularly praised for its AWD system and practicality. However, potential buyers and owners should be aware of common issues such as head gasket failures, especially on the 2.5L engine, and oil leaks across both engine options. Transmission issues, particularly with the automatic, and wear on suspension components like bushings are also points to consider. Electrical gremlins like window regulators and instrument cluster problems can arise, as can exterior rust in common areas and interior noises. Despite these potential drawbacks, many Outbacks continue to serve their owners well with proper maintenance and timely repairs of these known issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

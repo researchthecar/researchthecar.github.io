@@ -44,6 +44,19 @@ The 2004 Nissan Pathfinder, a capable mid-size SUV, offered a blend of off-road 
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front Suspension / Solid Rear Axle
@@ -103,3 +116,15 @@ The 2004 Nissan Pathfinder, a capable mid-size SUV, offered a blend of off-road 
 --- 
 ### Summary Verdict
 The 2004 Nissan Pathfinder is a generally dependable SUV, particularly known for its capable V6 engine and robust drivetrain. The most commonly reported issues revolve around the automatic transmission, which can develop shifting problems over time, and some engine-related gasket leaks (timing chain cover, intake manifold). Suspension components like ball joints and tie rods are also areas to monitor for wear. Electrical gremlins, such as instrument cluster issues and window motors, can occur. Exterior paint and interior comfort features like seat heaters and HVAC blowers are also noted for occasional failures. Despite these points, with proper maintenance and addressing these common issues, the 2004 Pathfinder can remain a reliable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

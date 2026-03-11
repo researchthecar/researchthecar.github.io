@@ -68,6 +68,19 @@ The 2017 Volvo V40 Cross Country, known for its distinctive styling and practica
 - **Cost:** $700 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -114,3 +127,15 @@ The 2017 Volvo V40 Cross Country, known for its distinctive styling and practica
 --- 
 ### Summary Verdict
 The 2017 Volvo V40 Cross Country is a generally reliable vehicle, with most reported issues being specific to certain engine variants or electronic components rather than systemic failures. The diesel engines, particularly the D4, may encounter DPF or EGR issues common to modern diesels. Petrol engines can experience turbocharger or coolant system problems. Automatic transmissions might exhibit occasional shifting anomalies. Electrical gremlins, especially with the infotainment system and potential battery drain, are the most frequently cited non-wear-and-tear issues. Overall, with diligent maintenance and attention to these specific potential problem areas, the V40 Cross Country offers a dependable ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

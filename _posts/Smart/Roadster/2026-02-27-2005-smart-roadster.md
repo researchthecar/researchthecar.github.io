@@ -54,6 +54,19 @@ The 2005 Smart Roadster, a unique two-seater sports car, is known for its distin
 - **Cost:** $200 - $400
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -105,3 +118,15 @@ The 2005 Smart Roadster, a unique two-seater sports car, is known for its distin
 --- 
 ### Summary Verdict
 The 2005 Smart Roadster, while offering a unique driving experience, presents a few key areas for potential concern. The 0.7L turbocharged engines, in both power variants, are susceptible to turbocharger issues and oil leaks, which can be costly to repair. The automated manual transmission, while generally functional, can suffer from clutch actuator failures. Electrical gremlins, particularly related to the SAM unit, are also a known issue that can lead to frustrating intermittent faults. The soft-top roof can also develop leaks over time. Despite these points, many owners find the Roadster to be a reliable and enjoyable car when these common issues are addressed. Regular maintenance and prompt attention to warning signs are crucial for maintaining its reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

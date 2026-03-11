@@ -39,6 +39,19 @@ The 2023 Subaru Impreza is generally considered a reliable vehicle, building on 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -85,3 +98,15 @@ The 2023 Subaru Impreza is generally considered a reliable vehicle, building on 
 --- 
 ### Summary Verdict
 The 2023 Subaru Impreza stands out as a reliable compact car, particularly with its standard all-wheel drive system. The 2.0L Boxer engine and manual transmission are robust, with no significant widespread issues reported. The CVT transmission, while generally dependable, has seen some isolated reports of hesitation or minor jerking, often resolvable with software updates. Electrical gremlins, such as infotainment screen unresponsiveness and occasional premature battery failure, are the most commonly cited concerns, though these are not typically indicative of systemic flaws. Overall, the Impreza offers a solid ownership experience with a good track record for durability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

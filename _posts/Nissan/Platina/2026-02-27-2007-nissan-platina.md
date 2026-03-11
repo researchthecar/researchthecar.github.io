@@ -44,6 +44,19 @@ The 2007 Nissan Platina, a subcompact car primarily sold in Latin America, was b
 - **Cost:** $300 - $700
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -83,3 +96,15 @@ The 2007 Nissan Platina, a subcompact car primarily sold in Latin America, was b
 --- 
 ### Summary Verdict
 The 2007 Nissan Platina is generally a dependable vehicle, particularly for its intended market. The most commonly reported issues revolve around the engine's ignition system (coil packs) and potential oil leaks from the valve cover gasket. Transmission issues, while not rampant, can include clutch wear on manual models and fluid leaks on automatics. Suspension components like ball joints and tie rod ends are also noted for wear. Electrical problems are less frequent but can include issues with power window regulators. Interior concerns often center on the HVAC blower motor. Overall, the Platina offers reasonable reliability, but owners should be aware of these potential repair areas and budget accordingly for maintenance and unexpected fixes.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -65,6 +65,19 @@ The 2003 Volkswagen Van, often referred to by its model name (e.g., Transporter 
 - **Cost:** $800 - $1800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -129,3 +142,15 @@ The 2003 Volkswagen Van, often referred to by its model name (e.g., Transporter 
 --- 
 ### Summary Verdict
 The 2003 Volkswagen Van, while a capable and practical vehicle, exhibits a mixed reliability record typical of its age and segment. The TDI diesel engines, particularly the 2.5L variants, can be prone to issues like injector seal leaks and turbocharger problems, while the 1.9L TDI may face head gasket concerns. Manual transmissions are generally robust, but clutch wear is common. Automatic transmissions can experience torque converter issues. Suspension components like ball joints and bushings are common wear items. Electrical gremlins, such as window regulators and central locking, are also reported. Rust can be a significant concern depending on climate and maintenance. Overall, thorough pre-purchase inspection and a good maintenance history are crucial for a reliable ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

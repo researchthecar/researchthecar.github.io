@@ -44,6 +44,19 @@ The 2017 Subaru Outback is a popular choice for those seeking a versatile wagon 
 - **Cost:** $500 - $3,500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -90,3 +103,15 @@ The 2017 Subaru Outback is a popular choice for those seeking a versatile wagon 
 --- 
 ### Summary Verdict
 The 2017 Subaru Outback is generally a reliable vehicle, with its 3.6L engine and standard chassis components showing minimal issues. The most commonly reported concerns revolve around the 2.5L engine's potential for oil consumption and, less frequently, head gasket leaks. The CVT transmission can sometimes exhibit minor hesitation. Electrical issues, particularly with the infotainment system and occasional battery drain, are also noted. Despite these points, the Outback remains a strong contender in its segment, offering good value and capability. Addressing potential oil consumption early and ensuring proper maintenance of the CVT can contribute to a positive ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

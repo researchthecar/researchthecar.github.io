@@ -42,6 +42,19 @@ The 2019 Nissan Rogue Sport is a compact crossover known for its practicality an
 - **Cost:** $300 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -95,3 +108,15 @@ The 2019 Nissan Rogue Sport is a compact crossover known for its practicality an
 --- 
 ### Summary Verdict
 The 2019 Nissan Rogue Sport generally offers a reliable ownership experience, with the powertrain being a common area for potential concerns, particularly the Xtronic CVT transmission which can exhibit hesitation or overheating issues. Electrical gremlins, such as infotainment system glitches and battery drain, are also noted. While the engine and suspension are relatively robust, owners should be aware of potential oil and coolant leaks. Proactive maintenance and addressing early signs of these issues can significantly mitigate repair costs and ensure the longevity of the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

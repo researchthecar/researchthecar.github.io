@@ -51,6 +51,19 @@ The 2014 Subaru Forester is generally considered a reliable vehicle, particularl
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -97,3 +110,15 @@ The 2014 Subaru Forester is generally considered a reliable vehicle, particularl
 --- 
 ### Summary Verdict
 The 2014 Subaru Forester presents a generally strong reliability record. The most frequently cited concerns revolve around potential oil consumption in the 2.5L naturally aspirated engine and, less commonly, head gasket issues. The CVT transmission can sometimes exhibit minor hesitation, often resolvable with software updates. Electrical gremlins, particularly with the infotainment system's Bluetooth, are also noted but typically manageable. The turbocharged engine and manual transmission variants are less prone to these specific issues. Overall, with regular maintenance and attention to potential oil consumption, the Forester is a dependable choice, especially for those prioritizing AWD capability and practicality.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

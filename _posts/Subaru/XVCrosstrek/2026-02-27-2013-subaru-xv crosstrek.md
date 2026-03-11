@@ -44,6 +44,19 @@ The 2013 Subaru XV Crosstrek, known for its distinctive styling and standard all
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -90,3 +103,15 @@ The 2013 Subaru XV Crosstrek, known for its distinctive styling and standard all
 --- 
 ### Summary Verdict
 The 2013 Subaru XV Crosstrek is a generally reliable vehicle, particularly praised for its standard AWD and practical design. The most frequently reported issues revolve around the 2.0L engine's tendency for oil consumption and potential head gasket leaks, along with some concerns regarding the CVT transmission's performance. Electrical gremlins, such as Bluetooth connectivity problems and keyless entry malfunctions, are also noted. However, many of these issues are manageable with regular maintenance and timely repairs. The manual transmission and suspension systems are typically robust. Overall, it remains a competent choice for those seeking an all-weather capable compact SUV, provided potential powertrain and electrical quirks are considered.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

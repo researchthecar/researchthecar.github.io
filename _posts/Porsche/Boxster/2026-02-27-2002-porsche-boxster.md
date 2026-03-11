@@ -66,6 +66,19 @@ The 2002 Porsche Boxster, part of the 986 generation, is a mid-engine sports car
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -117,3 +130,15 @@ The 2002 Porsche Boxster, part of the 986 generation, is a mid-engine sports car
 --- 
 ### Summary Verdict
 The 2002 Porsche Boxster (986 generation) offers a compelling sports car experience, but potential buyers and current owners should be aware of specific reliability concerns, primarily related to the engine. The Intermediate Shaft (IMS) bearing is a well-documented potential failure point that can lead to catastrophic engine damage if not addressed. Rear main seal leaks and oil cooler issues are also common. Beyond the engine, electrical components like window regulators and headlight switches can be prone to failure. The convertible top mechanism's hydraulic cylinders may also develop leaks over time. However, the manual transmission and suspension systems are generally robust. With diligent maintenance and awareness of these common issues, the 2002 Boxster can remain a rewarding and reliable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

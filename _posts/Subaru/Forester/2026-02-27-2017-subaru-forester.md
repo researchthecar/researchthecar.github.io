@@ -51,6 +51,19 @@ The 2017 Subaru Forester is generally regarded as a reliable compact SUV, known 
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -93,3 +106,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2017 Subaru Forester is a dependable vehicle with a strong reputation for safety and capability. While the 2.5L engine has seen some reports of oil consumption and potential head gasket issues, these are not universal and often manageable with regular checks. The CVT transmission is generally robust, though occasional software glitches can cause minor drivability concerns. Electrical issues, particularly with the infotainment screen, are also noted but typically resolvable. Overall, the Forester offers good value and reliability for its class, with most potential issues being repairable and not indicative of systemic failure across the model range.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

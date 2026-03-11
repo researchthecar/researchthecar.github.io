@@ -60,6 +60,19 @@ The 2020 Volkswagen T-Cross is a subcompact crossover SUV that has generally rec
 - **Cost:** $150 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -120,3 +133,15 @@ The 2020 Volkswagen T-Cross is a subcompact crossover SUV that has generally rec
 --- 
 ### Summary Verdict
 The 2020 Volkswagen T-Cross demonstrates good overall reliability, particularly in its engine and suspension systems, with no significant widespread issues reported for these core components across its various engine options. The manual transmissions are also proving robust. The primary areas that have seen some owner-reported concerns are the 7-speed DSG automatic transmission, which can occasionally exhibit less-than-smooth shifting, and the electrical system, specifically the infotainment unit's responsiveness and occasional battery drain issues. These electrical and transmission concerns are not universal but are worth noting. For potential buyers, a thorough pre-purchase inspection, especially focusing on these electrical and transmission aspects, is advisable. Overall, the T-Cross is a dependable choice in its segment.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

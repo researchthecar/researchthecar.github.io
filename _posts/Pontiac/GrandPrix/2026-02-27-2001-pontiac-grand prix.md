@@ -66,6 +66,19 @@ The 2001 Pontiac Grand Prix, a popular mid-size sedan, offered a range of engine
 - **Cost:** $300 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -131,3 +144,15 @@ The 2001 Pontiac Grand Prix, a popular mid-size sedan, offered a range of engine
 --- 
 ### Summary Verdict
 The 2001 Pontiac Grand Prix exhibits a mixed reliability record. The most common and costly issues tend to revolve around the engine, particularly intake manifold gasket leaks and, on the L36 engines, potential head gasket failures. Transmission problems, especially with the 4T65E, such as torque converter issues, are also notable. Electrical gremlins, often related to the BCM, and common exterior wear like rust and headlight hazing are also reported. While not inherently unreliable, owners should be aware of these potential repair areas and budget accordingly for maintenance and unexpected fixes. Regular inspections and prompt attention to early symptoms can mitigate some of these issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

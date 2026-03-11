@@ -54,6 +54,19 @@ The 2009 Volkswagen Routan, a minivan developed in partnership with Chrysler, sh
 - **Cost:** $500 - $2000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -118,3 +131,15 @@ The 2009 Volkswagen Routan, a minivan developed in partnership with Chrysler, sh
 --- 
 ### Summary Verdict
 The 2009 Volkswagen Routan exhibits a reliability profile typical of minivans from this era, with a notable influence from its Chrysler underpinnings. Common issues tend to center around the powertrain (engine oil leaks, transmission shifting problems) and electrical systems (power windows, instrument cluster). While the suspension and exterior components are generally robust, some owners report issues with sliding doors and headlight sealing. Interior components like the HVAC blower motor can also be a point of concern. Despite these potential drawbacks, the Routan remains a practical choice for families when properly maintained, but prospective buyers should budget for potential repairs, particularly concerning the engine and transmission.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

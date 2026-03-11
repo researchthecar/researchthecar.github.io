@@ -56,6 +56,19 @@ The 2002 Subaru Forester, a compact SUV known for its all-wheel-drive capability
 - **Cost:** $800 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Suspension
@@ -115,3 +128,15 @@ The 2002 Subaru Forester, a compact SUV known for its all-wheel-drive capability
 --- 
 ### Summary Verdict
 The 2002 Subaru Forester is a capable and generally dependable vehicle, particularly for those seeking all-wheel-drive utility. The most significant potential issue to be aware of is head gasket failure, especially on the 2.5L engines, which can be a costly repair. Other common concerns include oil leaks, suspension wear (bushings and struts), and some electrical gremlins like window regulators and instrument clusters. Automatic transmission issues and clutch wear on manuals are also possibilities with age and mileage. While not immune to problems, addressing these potential issues proactively can ensure continued reliable service from this practical SUV.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

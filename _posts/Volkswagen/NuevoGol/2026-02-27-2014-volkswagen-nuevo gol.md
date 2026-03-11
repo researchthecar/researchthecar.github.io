@@ -56,6 +56,19 @@ The 2014 Volkswagen Nuevo Gol, a popular subcompact car in many Latin American m
 - **Cost:** $600 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -100,3 +113,15 @@ The 2014 Volkswagen Nuevo Gol, a popular subcompact car in many Latin American m
 --- 
 ### Summary Verdict
 The 2014 Volkswagen Nuevo Gol demonstrates a generally reliable performance, particularly with its manual transmission variants. The most commonly reported issues revolve around the ignition system (coils) and the plastic intake manifold on its EA111 engines, which are relatively common for this engine family. The automated manual transmission (I-Motion) can present more complex issues with its actuators. Suspension components like ball joints and tie rods are typical wear items for a vehicle of this age and mileage. Electrical issues, such as alternator failure and window regulators, are also noted but not excessively prevalent. Overall, the Nuevo Gol is considered a dependable choice for its class, provided it has been maintained adequately. Addressing minor issues promptly can prevent more significant problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

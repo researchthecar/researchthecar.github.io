@@ -65,6 +65,19 @@ The 2004 Volkswagen Van, often recognized by its various model names depending o
 - **Cost:** $800 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -119,3 +132,15 @@ The 2004 Volkswagen Van, often recognized by its various model names depending o
 --- 
 ### Summary Verdict
 The 2004 Volkswagen Van presents a mixed reliability profile. While the 1.9L TDI engine and some manual transmissions are generally robust, the 2.5L TDI engine can be prone to issues like injector seal leaks and turbocharger problems, which can be costly to repair. Automatic transmissions may experience torque converter issues. Suspension components, particularly ball joints and bushings, are common wear items that require attention. Electrical gremlins, such as window regulators and central locking, also appear in reports. Exterior rust can be a significant concern depending on the vehicle's climate and maintenance history. Interior components like the HVAC blower motor are also noted failure points. Overall, while offering great utility, potential buyers should be aware of these common issues and factor in potential repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

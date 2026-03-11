@@ -51,6 +51,19 @@ The 2018 Volkswagen Delivery, a versatile light commercial vehicle, is generally
 - **Cost:** $1500 - $3000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front / Leaf Spring Rear
@@ -100,3 +113,15 @@ The 2018 Volkswagen Delivery, a versatile light commercial vehicle, is generally
 --- 
 ### Summary Verdict
 The 2018 Volkswagen Delivery demonstrates a solid reliability record, particularly for its intended commercial use. The diesel engines, while powerful, can be susceptible to issues like DPF clogging and EGR valve problems, which are common in modern diesels and require diligent maintenance. Transmission reliability is generally good, though the DSG automatic can present more complex and costly repairs if the mechatronic unit fails. Suspension components, especially leaf springs, may require attention due to the vehicle's load-carrying nature. Electrical issues like battery drain and alternator failure are not uncommon but are typically repairable. Overall, with regular servicing and attention to potential diesel-specific issues, the 2018 Delivery should provide dependable service.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

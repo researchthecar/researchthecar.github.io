@@ -56,6 +56,19 @@ The 2009 Subaru Forester, a popular compact SUV, is generally regarded as a reli
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -100,3 +113,15 @@ The 2009 Subaru Forester, a popular compact SUV, is generally regarded as a reli
 --- 
 ### Summary Verdict
 The 2009 Subaru Forester is a generally dependable vehicle, with its standard AWD being a significant draw. The most commonly cited significant issues revolve around the EJ series engines, specifically head gasket failures and oil consumption, which can be costly to repair. Automatic transmissions have also seen reports of harsh shifting or slipping. Electrical gremlins, such as power window motor failures and ABS warning lights, are less common but documented. Manual transmissions and the chassis/suspension, exterior, and interior components tend to be more robust. Regular maintenance, especially addressing potential head gasket issues proactively, can significantly contribute to the longevity and reliability of this Forester model.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

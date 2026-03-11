@@ -51,6 +51,19 @@ The 2005 Pontiac Pursuit, a compact sedan, was part of GM's global Delta platfor
 - **Cost:** $400 - $2500+
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -109,3 +122,15 @@ The 2005 Pontiac Pursuit, a compact sedan, was part of GM's global Delta platfor
 --- 
 ### Summary Verdict
 The 2005 Pontiac Pursuit, while offering a decent driving experience for its class, exhibits some common reliability concerns typical of its era and platform. Engine issues like oil leaks and potential timing chain problems with the Ecotec engines are notable. Automatic transmission issues, such as harsh shifting, can be costly to repair. Suspension components like struts and sway bar links are also prone to wear. Electrical gremlins, often stemming from the BCM or alternator failure, can cause significant inconvenience. Exterior rust can be a concern depending on climate and maintenance. Interior issues like HVAC blower motor failure and dashboard cracking are also reported. Overall, while not plagued by widespread catastrophic failures, prospective owners should be aware of these potential repair areas and budget accordingly for maintenance and unforeseen issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

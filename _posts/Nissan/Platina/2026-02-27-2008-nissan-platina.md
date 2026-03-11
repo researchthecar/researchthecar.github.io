@@ -51,6 +51,19 @@ The 2008 Nissan Platina, a subcompact car primarily sold in Latin America, is ge
 - **Cost:** $300 - $700
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front / Torsion Beam Rear
@@ -95,3 +108,15 @@ The 2008 Nissan Platina, a subcompact car primarily sold in Latin America, is ge
 --- 
 ### Summary Verdict
 The 2008 Nissan Platina is a generally dependable subcompact vehicle, particularly praised for its economy and practicality. While it doesn't suffer from widespread critical failures, common issues tend to be related to wear items and specific electrical components like ignition coils, throttle bodies, and window regulators. The manual transmission is typically robust, while the automatic can occasionally experience solenoid issues. Suspension components are generally durable. Routine maintenance is key to longevity, but owners can expect potential costs associated with the aforementioned items as the vehicle ages. Overall, it represents a solid choice for budget-conscious buyers prioritizing reliability over advanced features.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

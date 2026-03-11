@@ -46,6 +46,19 @@ The 2009 Nissan Platina, a subcompact car primarily sold in Latin America, is ge
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front / Torsion Beam Rear
@@ -90,3 +103,15 @@ The 2009 Nissan Platina, a subcompact car primarily sold in Latin America, is ge
 --- 
 ### Summary Verdict
 The 2009 Nissan Platina is a generally dependable vehicle with a good reputation for reliability, especially considering its age and market segment. The powertrain (engine and transmission) options are robust and rarely present significant issues beyond normal wear. The most common areas for concern tend to be suspension components like bushings and ball joints, as well as electrical issues such as window regulators and alternators, which are not uncommon for vehicles of this age. Exterior corrosion can be a factor in humid or coastal regions. Overall, with routine maintenance and addressing minor wear items, the Platina should continue to provide reliable service.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -39,6 +39,19 @@ The 2024 Subaru Impreza, a compact car known for its standard all-wheel drive an
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -99,3 +112,15 @@ The 2024 Subaru Impreza, a compact car known for its standard all-wheel drive an
 --- 
 ### Summary Verdict
 The 2024 Subaru Impreza demonstrates a strong reliability outlook, consistent with Subaru's reputation. The powertrain, including both the 2.0L and 2.5L Boxer engines and the Lineartronic CVT, shows no significant widespread issues. Similarly, the suspension, exterior components, and interior materials are generally robust. The primary area where minor concerns have been noted is the infotainment system, which can occasionally exhibit software glitches or connectivity hiccups. These are typically resolved with software updates or system resets and do not represent a major mechanical flaw. Overall, the Impreza is a dependable choice for consumers seeking a practical and capable compact vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

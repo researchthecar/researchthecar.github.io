@@ -37,6 +37,19 @@ The 2018 Nissan Titan XD is a heavy-duty pickup truck known for its robust towin
 - **Cost:** $300 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -76,3 +89,15 @@ The 2018 Nissan Titan XD is a heavy-duty pickup truck known for its robust towin
 --- 
 ### Summary Verdict
 The 2018 Nissan Titan XD, particularly with its Cummins diesel engine, presents a mixed reliability profile. The primary concerns revolve around the diesel engine's EGR cooler and turbocharger, which can lead to significant repair costs. The transmission can also exhibit issues with harsh shifting. Electrical components, specifically the infotainment system, have seen some reports of glitches. However, the suspension, exterior, and interior generally appear to be reliable with no widespread reported issues. Owners should be aware of potential diesel-specific maintenance and repair needs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -42,6 +42,19 @@ The 2014 Subaru Tribeca, while a capable family SUV, exhibits a mixed reliabilit
 - **Cost:** $700 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -84,3 +97,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2014 Subaru Tribeca presents a moderate reliability profile. While the engine is generally robust, potential owners should be aware of common oil and coolant leaks. The automatic transmission is a more frequent source of concern, with issues like harsh shifting and torque converter problems reported. Suspension components, particularly bushings, can wear out, leading to noise and handling degradation. Electrical gremlins, such as infotainment system glitches and battery drain, are also noted. Exterior rust can be an issue in certain environments, and interior climate control actuators may require replacement. Overall, while not plagued by widespread catastrophic failures, the Tribeca requires diligent maintenance and potential owners should budget for repairs related to its transmission and electrical systems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

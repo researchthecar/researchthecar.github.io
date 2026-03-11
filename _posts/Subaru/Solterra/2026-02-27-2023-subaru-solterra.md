@@ -32,6 +32,19 @@ The 2023 Subaru Solterra, an all-electric SUV developed in partnership with Toyo
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -83,3 +96,15 @@ The 2023 Subaru Solterra, an all-electric SUV developed in partnership with Toyo
 --- 
 ### Summary Verdict
 The 2023 Subaru Solterra, as a first-year electric vehicle, shows a mixed reliability profile. While its core powertrain and chassis components appear robust, with no widespread mechanical failures reported, the electrical system presents some concerns. Notably, issues related to charging performance and the 12V battery have been documented, along with occasional infotainment system glitches. These electrical issues, particularly those concerning the battery, can be costly if not covered under warranty. Overall, the Solterra is a competent EV, but potential buyers should be aware of the early-stage electrical system challenges that may require attention.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

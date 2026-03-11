@@ -60,6 +60,19 @@ The 2018 Nissan Qashqai, a popular compact crossover, generally offers a good le
 - **Cost:** $300 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -120,3 +133,15 @@ The 2018 Nissan Qashqai, a popular compact crossover, generally offers a good le
 --- 
 ### Summary Verdict
 The 2018 Nissan Qashqai is generally considered a reliable compact SUV. While minor issues with the CVT transmission and occasional electrical glitches like infotainment screen unresponsiveness or battery drain have been reported, these are not pervasive across all vehicles. The petrol and diesel engines, along with the manual transmission, have proven to be robust. The suspension, exterior, and interior components typically hold up well with regular maintenance. Overall, the Qashqai offers a dependable ownership experience, with most potential problems being relatively minor and manageable in terms of cost and repair.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

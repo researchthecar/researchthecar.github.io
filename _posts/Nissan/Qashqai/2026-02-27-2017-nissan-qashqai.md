@@ -53,6 +53,19 @@ The 2017 Nissan Qashqai is a popular compact crossover known for its practicalit
 - **Cost:** $400 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -97,3 +110,15 @@ The 2017 Nissan Qashqai is a popular compact crossover known for its practicalit
 --- 
 ### Summary Verdict
 The 2017 Nissan Qashqai generally presents a good reliability profile, particularly with its petrol engines and manual transmissions. The CVT automatic, while convenient, has a higher propensity for issues like hesitations or jerking, often requiring fluid changes or more involved repairs. Diesel variants can encounter DPF problems, a common concern for modern diesels, especially if driven primarily on short city journeys. Electrical gremlins, such as infotainment glitches and keyless entry problems, are also reported by a segment of owners. Overall, the Qashqai is a dependable choice for many, but potential buyers should be aware of these specific areas and consider the vehicle's service history, especially for diesel and CVT models.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

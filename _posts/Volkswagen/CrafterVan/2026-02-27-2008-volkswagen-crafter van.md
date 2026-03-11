@@ -78,6 +78,19 @@ The 2008 Volkswagen Crafter, a robust panel van, was designed for commercial use
 - **Cost:** $1000 - $2000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -137,3 +150,15 @@ The 2008 Volkswagen Crafter, a robust panel van, was designed for commercial use
 --- 
 ### Summary Verdict
 The 2008 Volkswagen Crafter is a capable commercial vehicle, but potential buyers should be aware of common issues, particularly concerning the turbocharger and EGR system on its TDI engines. Transmission reliability is generally good, though clutch wear on manual gearboxes and potential torque converter issues on automatics are noted. Suspension components like leaf springs and shock absorbers can require attention due to the nature of commercial use. Electrical issues, such as alternator failure, and some interior trim or exterior component wear are also reported. Regular maintenance and prompt attention to early symptoms are crucial for maintaining the Crafter's operational efficiency and longevity.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

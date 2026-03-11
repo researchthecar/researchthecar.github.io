@@ -44,6 +44,19 @@ The 2014 Subaru Impreza is generally considered a reliable vehicle, particularly
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -83,3 +96,15 @@ The 2014 Subaru Impreza is generally considered a reliable vehicle, particularly
 --- 
 ### Summary Verdict
 The 2014 Subaru Impreza is a solid choice for those seeking a reliable all-wheel-drive vehicle. The primary areas of concern tend to be related to the 2.0L engine's potential for oil consumption and coolant leaks, and the CVT transmission's occasional hesitation or shuddering. The manual transmission and other systems like suspension, electrical, exterior, and interior components generally exhibit good reliability with no widespread issues reported. Regular maintenance and prompt attention to any early signs of the noted issues can help ensure a long and dependable service life for the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

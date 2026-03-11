@@ -46,6 +46,19 @@ The 2002 Nissan Tsubame, a compact sedan known for its fuel efficiency and pract
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Rear
@@ -100,3 +113,15 @@ The 2002 Nissan Tsubame, a compact sedan known for its fuel efficiency and pract
 --- 
 ### Summary Verdict
 The 2002 Nissan Tsubame is generally considered a reliable vehicle for its age, with its core mechanical components like the engine and transmission demonstrating good durability. The most common issues tend to be related to age and environmental factors, such as exterior paint degradation and interior dashboard cracking due to sun exposure. Electrical components like the alternator and window regulators are also potential points of failure. While routine maintenance is crucial, owners can expect a dependable experience if these specific age-related issues are addressed proactively. Overall, it remains a sensible choice for budget-conscious buyers seeking a no-frills, reliable mode of transportation.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

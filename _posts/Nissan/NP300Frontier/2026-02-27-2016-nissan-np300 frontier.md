@@ -51,6 +51,19 @@ The 2016 Nissan NP300 Frontier, a robust mid-size pickup truck, is generally rec
 - **Cost:** $400 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -90,3 +103,15 @@ The 2016 Nissan NP300 Frontier, a robust mid-size pickup truck, is generally rec
 --- 
 ### Summary Verdict
 The 2016 Nissan NP300 Frontier demonstrates a generally good reliability record, particularly with its gasoline engine option. The diesel engine, while powerful, shows a tendency for turbocharger and EGR valve issues, which are not uncommon for modern diesel powertrains. Transmission reliability is decent, though some owners have reported harsh shifting with the automatic. Suspension components, specifically leaf springs, can experience wear under heavy use. Overall, the NP300 Frontier is a capable and dependable truck for its intended purpose, with most potential issues being manageable and repairable. Regular maintenance and prompt attention to any emerging problems are key to ensuring long-term reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -90,6 +90,19 @@ The 2004 Subaru Impreza, particularly in its WRX and STI variants, is renowned f
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -156,3 +169,15 @@ The 2004 Subaru Impreza, particularly in its WRX and STI variants, is renowned f
 --- 
 ### Summary Verdict
 The 2004 Subaru Impreza, while offering engaging driving dynamics, particularly in its turbocharged variants, presents several potential reliability concerns. The EJ-series engines, especially the turbocharged versions found in the WRX and STI, are prone to head gasket failures and, in higher-performance models, internal component damage like piston ring issues. Manual transmissions can experience synchronizer wear, while the STI's 6-speed requires careful attention. Electrical gremlins like faulty window regulators and instrument clusters are not uncommon. Rust can also be a significant issue depending on climate. Despite these potential drawbacks, many issues are well-documented and repairable, making proactive maintenance and awareness key for owners of this enthusiast-focused vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

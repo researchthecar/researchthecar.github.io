@@ -42,6 +42,19 @@ The 2000 Oldsmobile Intrigue, a mid-size sedan, aimed to blend performance and l
 - **Cost:** $300 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -100,3 +113,15 @@ The 2000 Oldsmobile Intrigue, a mid-size sedan, aimed to blend performance and l
 --- 
 ### Summary Verdict
 The 2000 Oldsmobile Intrigue, while offering a comfortable and stylish package, exhibits some common reliability concerns typical of vehicles from its era. The engine's intake manifold gaskets and EGR valve can be sources of trouble. Transmissions, particularly the 4T65E, may experience issues with the torque converter and solenoids. Suspension components like struts and ball joints are prone to wear. Electrical gremlins, often linked to the BCM and alternator, are also reported. Exterior paint issues and interior climate control and power window components are other areas to watch. Regular maintenance and prompt attention to these potential problems can help mitigate significant repair costs and ensure a more reliable ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

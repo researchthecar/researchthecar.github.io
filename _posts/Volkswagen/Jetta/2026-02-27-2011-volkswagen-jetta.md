@@ -80,6 +80,19 @@ The 2011 Volkswagen Jetta, part of the Mk6 generation, offered a range of powert
 - **Cost:** $1,000 - $2,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -129,3 +142,15 @@ The 2011 Volkswagen Jetta, part of the Mk6 generation, offered a range of powert
 --- 
 ### Summary Verdict
 The 2011 Volkswagen Jetta presents a mixed reliability profile. The gasoline engines, particularly the 2.5L, are generally more robust, though ignition coil and valve cover gasket issues can arise. The 2.0L TSI engine is prone to more significant issues like timing chain tensioner failure, which can be costly. The TDI diesel engine, while fuel-efficient, has documented problems with its DPF and EGR systems, especially if not maintained properly or driven in conditions that don't allow for regular regeneration. Transmission-wise, the DSG gearbox can be a source of expensive repairs, while the automatic and manual transmissions are generally more reliable, though clutch wear is a common maintenance item for manuals. Suspension components like control arm bushings and strut mounts are typical wear items that may require attention. Electrical issues like window regulators and infotainment glitches are also reported. Overall, the 2011 Jetta can be a good car, but potential buyers should be aware of the specific powertrain's common problems and factor in potential repair costs, especially for the TSI and TDI engines and the DSG transmission.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

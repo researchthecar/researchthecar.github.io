@@ -56,6 +56,19 @@ The 2002 Subaru Outback, a popular choice for those seeking a blend of car-like 
 - **Cost:** $700 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -121,3 +134,15 @@ The 2002 Subaru Outback, a popular choice for those seeking a blend of car-like 
 --- 
 ### Summary Verdict
 The 2002 Subaru Outback is a capable and generally reliable vehicle, particularly for its all-wheel-drive system and comfortable ride. The most significant and costly potential issue is head gasket failure, which affects both engine variants and requires significant repair. Other common concerns include oil leaks, automatic transmission issues, and typical wear items like struts and sway bar links. Electrical gremlins, particularly related to the BCM, can also arise. Exterior rust can be a concern in certain climates. Despite these potential problems, with diligent maintenance and addressing issues promptly, the 2002 Outback can remain a dependable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

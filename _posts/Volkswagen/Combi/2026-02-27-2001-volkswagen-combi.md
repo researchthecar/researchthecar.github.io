@@ -56,6 +56,19 @@ The 2001 Volkswagen Combi, often recognized for its utility and spaciousness, pr
 - **Cost:** $300 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -109,3 +122,15 @@ The 2001 Volkswagen Combi, often recognized for its utility and spaciousness, pr
 --- 
 ### Summary Verdict
 The 2001 Volkswagen Combi, while a practical choice, exhibits some common reliability concerns that owners should be aware of. The 2.5L TDI engine is prone to head gasket and turbocharger issues, while the 2.8L VR6 can suffer from timing chain wear. Automatic transmissions may develop torque converter problems. Electrically, wiring harness issues and alternator failures are noted. Externally, rust can be a significant concern depending on climate and maintenance. Interior components like the HVAC blower motor and seat upholstery can also require attention. Despite these potential issues, many Kombis remain functional with diligent maintenance and timely repairs, making it a vehicle where proactive care is highly recommended.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -56,6 +56,19 @@ The 2011 Volkswagen Clasico, a model primarily for specific markets, generally p
 - **Cost:** $400 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front / Torsion Beam Rear
@@ -110,3 +123,15 @@ The 2011 Volkswagen Clasico, a model primarily for specific markets, generally p
 --- 
 ### Summary Verdict
 The 2011 Volkswagen Clasico offers a generally robust mechanical foundation, particularly its engines and transmissions, which are known for longevity with proper care. However, potential owners should be aware of common electrical gremlins, such as window regulator and instrument cluster issues, and potential wear on suspension components like ball joints and tie rods. Interior comfort systems like the HVAC blower motor and door lock actuators can also be points of failure. While not plagued by widespread catastrophic failures, these specific issues represent the most common and documented reliability concerns for this model year, with repair costs varying but generally falling within reasonable expectations for a vehicle of its age.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

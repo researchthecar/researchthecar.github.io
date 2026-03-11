@@ -66,6 +66,19 @@ The 2003 Pontiac Grand Prix, a popular mid-size sedan, offered a range of powert
 - **Cost:** $400 - $700
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -131,3 +144,15 @@ The 2003 Pontiac Grand Prix, a popular mid-size sedan, offered a range of powert
 --- 
 ### Summary Verdict
 The 2003 Pontiac Grand Prix can be a decent value, but potential buyers should be aware of common issues, particularly with the 3.8L V6 engines regarding head gaskets and intake manifold leaks. Transmission issues with the 4T65E, such as torque converter and solenoid problems, are also frequently reported. Electrical gremlins, especially related to the BCM and alternator, can add to repair costs. While the suspension and exterior/interior components are generally less problematic, some wear items and cosmetic issues like clear coat peeling are common for vehicles of this age. Thorough pre-purchase inspection is highly recommended.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

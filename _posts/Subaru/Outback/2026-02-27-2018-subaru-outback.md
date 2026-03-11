@@ -44,6 +44,19 @@ The 2018 Subaru Outback is generally considered a reliable vehicle, known for it
 - **Cost:** $200 - $500 (software update); $3,000 - $6,000 (replacement)
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -104,3 +117,15 @@ The 2018 Subaru Outback is generally considered a reliable vehicle, known for it
 --- 
 ### Summary Verdict
 The 2018 Subaru Outback is a solid choice for those seeking a capable and reliable all-wheel-drive vehicle. The most frequently cited issues revolve around the 2.5L engine's potential for oil consumption and coolant leaks, and some owners have experienced infotainment system glitches or battery drain. The CVT transmission is generally robust but can occasionally exhibit minor hesitations. The 3.6L engine and other major systems like suspension, exterior, and interior components are largely free of widespread problems. With diligent maintenance and awareness of these specific potential concerns, the 2018 Outback offers a dependable ownership experience.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

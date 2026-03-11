@@ -80,6 +80,19 @@ The 2008 Volkswagen Bora, a compact sedan, generally presented a mixed bag of re
 - **Cost:** $1000 - $2000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -129,3 +142,15 @@ The 2008 Volkswagen Bora, a compact sedan, generally presented a mixed bag of re
 --- 
 ### Summary Verdict
 The 2008 Volkswagen Bora offers a range of engine and transmission choices, each with its own reliability profile. Petrol engines, particularly the 2.0L FSI, can be prone to oil consumption and timing chain issues, while the 1.9L TDI diesel is known for potential dual-mass flywheel and turbocharger wear. Automatic transmissions, specifically the 6-speed 09G, may experience torque converter or valve body problems. Suspension components like control arm bushings and rear shocks are common wear items. Electrical gremlins, such as window regulators and HVAC resistors, can also surface. While not plagued by catastrophic failures across the board, prospective buyers should be mindful of these specific potential issues and factor in potential repair costs, especially for the more complex engine and transmission options.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

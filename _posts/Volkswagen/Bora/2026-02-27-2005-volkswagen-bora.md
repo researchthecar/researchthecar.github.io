@@ -80,6 +80,19 @@ The 2005 Volkswagen Bora, also known as the Jetta in many markets, represents a 
 - **Cost:** $400 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -152,3 +165,15 @@ The 2005 Volkswagen Bora, also known as the Jetta in many markets, represents a 
 --- 
 ### Summary Verdict
 The 2005 Volkswagen Bora (Jetta) is a generally reliable vehicle, especially with the robust 1.9L TDI diesel engine. Common issues tend to be age-related, such as suspension wear (bushings, ball joints), electrical gremlins stemming from the BCM or window regulators, and exterior rust in vulnerable areas. Engine-specific issues like ignition coil failures on petrol variants and turbocharger concerns on the 1.8T are documented. Automatic transmission issues, particularly with the 01M, can be costly. Overall, with diligent maintenance and addressing known weak points, the Bora can remain a dependable car. Buyers should be aware of potential rust and electrical quirks common to vehicles of this era.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

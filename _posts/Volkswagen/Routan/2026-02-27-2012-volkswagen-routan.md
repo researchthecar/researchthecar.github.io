@@ -49,6 +49,19 @@ The 2012 Volkswagen Routan, a rebadged Chrysler minivan, shares many components 
 - **Cost:** $300 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -103,3 +116,15 @@ The 2012 Volkswagen Routan, a rebadged Chrysler minivan, shares many components 
 --- 
 ### Summary Verdict
 The 2012 Volkswagen Routan presents a mixed reliability picture, largely mirroring its Chrysler and Dodge siblings. The 3.6L Pentastar V6 engine can experience oil leaks and intake manifold issues, while the 6-speed automatic transmission may exhibit harsh shifting or cooler line leaks. Common electrical gremlins include malfunctioning power sliding doors and instrument cluster problems. Suspension components like struts and ball joints can wear out, as expected for a vehicle of this type and age. Interior issues like HVAC blower motor failure are also noted. While not plagued by widespread catastrophic failures, owners should be prepared for potential repairs in these specific areas. Regular maintenance and prompt attention to early symptoms are crucial for maximizing the Routan's longevity and minimizing unexpected costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

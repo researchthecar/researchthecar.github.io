@@ -61,6 +61,19 @@ The 2002 Volkswagen Derby, a compact sedan primarily sold in certain Latin Ameri
 - **Cost:** $700 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Torsion Beam Rear
@@ -117,3 +130,15 @@ The 2002 Volkswagen Derby, a compact sedan primarily sold in certain Latin Ameri
 --- 
 ### Summary Verdict
 The 2002 Volkswagen Derby, while a practical choice, exhibits common age-related issues, particularly in its powertrain and suspension components. Engine concerns like ignition coil failures and coolant leaks are notable, as are transmission issues such as clutch wear and automatic transmission solenoid problems. Suspension components like ball joints and springs are also prone to wear. Electrical systems can present issues with alternators and window regulators. Rust can be a significant concern depending on climate. Interior electrical components like the blower motor resistor and instrument cluster may require attention. Overall, while not plagued by widespread catastrophic failures, owners should anticipate potential maintenance costs related to these specific areas.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

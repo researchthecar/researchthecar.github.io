@@ -61,6 +61,19 @@ The 2004 Volkswagen Derby, a subcompact car primarily sold in Mexico and some La
 - **Cost:** $600 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -115,3 +128,15 @@ The 2004 Volkswagen Derby, a subcompact car primarily sold in Mexico and some La
 --- 
 ### Summary Verdict
 The 2004 Volkswagen Derby is a generally reliable subcompact vehicle, particularly favored for its economy and practicality. The most common technical issues tend to be related to wear items in the suspension and electrical components like the alternator and window regulators. Engine and transmission issues, while not pervasive, can occur, especially with the automatic transmission and clutch wear on manual versions. Addressing potential coolant leaks and ignition coil problems proactively can prevent more significant repairs. Overall, the Derby offers good value, but potential buyers should be aware of these common areas for inspection and potential future maintenance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

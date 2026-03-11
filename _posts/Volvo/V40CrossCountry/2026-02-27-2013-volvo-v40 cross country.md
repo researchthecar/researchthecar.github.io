@@ -70,6 +70,19 @@ The 2013 Volvo V40 Cross Country, a premium compact hatchback with enhanced grou
 - **Cost:** $1500 - $3000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -114,3 +127,15 @@ The 2013 Volvo V40 Cross Country, a premium compact hatchback with enhanced grou
 --- 
 ### Summary Verdict
 The 2013 Volvo V40 Cross Country generally presents a solid reliability record, especially with its diesel engines. However, potential buyers should be aware of specific concerns. The petrol engines, particularly the 1.6L GTDi, can be prone to turbocharger issues and cooling system leaks. The Powershift automatic transmission has seen reports of harsh shifting and occasional slipping, which can be costly to repair. Electrical gremlins, such as infotainment system glitches and battery drain, are also noted. While not pervasive, these issues suggest that thorough pre-purchase inspection, especially for the transmission and electrical systems, is advisable. Regular maintenance is key to mitigating many potential problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

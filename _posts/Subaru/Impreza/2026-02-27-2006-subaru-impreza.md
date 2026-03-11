@@ -70,6 +70,19 @@ The 2006 Subaru Impreza, a popular compact car, offered a range of engine and dr
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -121,3 +134,15 @@ The 2006 Subaru Impreza, a popular compact car, offered a range of engine and dr
 --- 
 ### Summary Verdict
 The 2006 Subaru Impreza, particularly the naturally aspirated models, generally exhibits good reliability, with the most common significant issue being head gasket failure, a known characteristic of many Subaru EJ engines of this era. The turbocharged WRX and STI models, while offering superior performance, are more prone to engine internal failures like piston ring land and connecting rod bearing issues, often exacerbated by aggressive driving or inadequate maintenance. Transmission issues are less common, though clutch wear is expected, and some manual transmissions may develop synchro problems. Electrical components like window regulators and alternators can fail, and rust is a concern in corrosive environments. Overall, the Impreza is a capable vehicle, but potential buyers should be aware of the specific engine and drivetrain concerns, especially for performance variants.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

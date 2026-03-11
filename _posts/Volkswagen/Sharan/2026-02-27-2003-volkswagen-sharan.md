@@ -80,6 +80,19 @@ The 2003 Volkswagen Sharan, a popular MPV, offered a range of engine and transmi
 - **Cost:** $300 - $700
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -144,3 +157,15 @@ The 2003 Volkswagen Sharan, a popular MPV, offered a range of engine and transmi
 --- 
 ### Summary Verdict
 The 2003 Volkswagen Sharan presents a mixed reliability profile. The diesel engines, particularly the 1.9 TDI, are generally robust but can suffer from turbocharger and injector pump issues. Petrol engines, especially the V6, may encounter timing chain and coolant system problems. Automatic transmissions are a notable weak point, with slipping and solenoid failures being common. Manual transmissions are more reliable, though clutch wear is expected. Suspension components like ball joints and bushings are typical wear items. Electrical gremlins, such as window regulators and central locking, can also arise. Exterior rust can be a concern on older models. Overall, while the Sharan offers practicality, potential buyers should be aware of these common issues and factor in potential repair costs, especially concerning the automatic transmission and specific engine components.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

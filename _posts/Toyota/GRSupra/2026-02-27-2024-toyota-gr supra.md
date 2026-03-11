@@ -46,6 +46,19 @@ The 2024 Toyota GR Supra, a performance-oriented sports coupe, generally exhibit
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive M Suspension
@@ -106,3 +119,15 @@ The 2024 Toyota GR Supra, a performance-oriented sports coupe, generally exhibit
 --- 
 ### Summary Verdict
 The 2024 Toyota GR Supra demonstrates excellent reliability across its core components. Both the 3.0L Inline-6 and 2.0L Inline-4 engines, along with the available 8-speed automatic and 6-speed manual transmissions, have shown no significant widespread issues. The suspension, electrical systems, exterior, and interior also appear to be well-built and durable. While specific component failures are rare, owners should adhere to recommended maintenance schedules to preserve the vehicle's performance and longevity. Overall, the GR Supra is a dependable choice for enthusiasts seeking a high-performance sports car.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

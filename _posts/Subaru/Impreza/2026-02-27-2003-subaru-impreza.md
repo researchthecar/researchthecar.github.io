@@ -51,6 +51,19 @@ The 2003 Subaru Impreza, a compact car known for its all-wheel-drive system and 
 - **Cost:** $1000 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -90,3 +103,15 @@ The 2003 Subaru Impreza, a compact car known for its all-wheel-drive system and 
 --- 
 ### Summary Verdict
 The 2003 Subaru Impreza, particularly models with the 2.5L naturally aspirated engine, is susceptible to head gasket failures, a known issue for this generation of Subaru engines. The turbocharged WRX models, while offering superior performance, can experience more significant engine issues like turbocharger failure and piston damage if not meticulously maintained. Transmission reliability is generally good, though clutch wear on manuals and potential torque converter issues on automatics are noted. Suspension components like ball joints and bushings can wear over time, leading to noise and handling degradation. Electrical issues are less common but alternator failure can occur. Overall, the 2003 Impreza can be a reliable car, but potential buyers should be aware of the head gasket risk and ensure proper maintenance history, especially for performance variants.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

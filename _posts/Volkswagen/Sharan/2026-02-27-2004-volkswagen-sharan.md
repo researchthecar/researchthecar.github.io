@@ -75,6 +75,19 @@ The 2004 Volkswagen Sharan, a family-oriented MPV, offered a range of engine and
 - **Cost:** $700 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -139,3 +152,15 @@ The 2004 Volkswagen Sharan, a family-oriented MPV, offered a range of engine and
 --- 
 ### Summary Verdict
 The 2004 Volkswagen Sharan presents a mixed reliability profile. While its core mechanicals, particularly the 1.9 TDI engine, can be robust if well-maintained, potential buyers should be aware of common issues such as dual-mass flywheel wear and injector pump leaks. Automatic transmissions, especially the 01M, are known to be a weaker point. Electrical gremlins, particularly with window regulators and central locking, are also frequently reported. Suspension components like control arm bushings can wear out, leading to noise and handling issues. Exterior rust can be a concern depending on the vehicle's history and climate. Overall, the Sharan can be a practical choice, but thorough pre-purchase inspection and a budget for potential repairs are highly recommended.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

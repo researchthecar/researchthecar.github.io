@@ -44,6 +44,19 @@ The 2003 Nissan Platina, a subcompact car primarily sold in Latin America, was b
 - **Cost:** $200 - $1500+
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Torsion Beam Rear
@@ -88,3 +101,15 @@ The 2003 Nissan Platina, a subcompact car primarily sold in Latin America, was b
 --- 
 ### Summary Verdict
 The 2003 Nissan Platina is a generally reliable vehicle for its class, with most reported issues stemming from components that experience significant wear over time or are common to many vehicles of this age. The engine, particularly the 1.6L K4M, can experience ignition coil and minor oil leak issues. Transmissions, both manual and automatic, may require attention to the clutch or internal components respectively. Suspension wear, electrical gremlins like window regulators, and HVAC blower motor failures are also noted. However, major catastrophic failures are not widely reported, suggesting that with proper maintenance and timely repairs of these common issues, the Platina can remain a dependable daily driver.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

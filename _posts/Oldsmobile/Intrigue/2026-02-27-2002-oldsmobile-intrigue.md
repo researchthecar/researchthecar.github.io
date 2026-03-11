@@ -42,6 +42,19 @@ The 2002 Oldsmobile Intrigue, a mid-size sedan, was part of the final years of t
 - **Cost:** $500 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -105,3 +118,15 @@ The 2002 Oldsmobile Intrigue, a mid-size sedan, was part of the final years of t
 --- 
 ### Summary Verdict
 The 2002 Oldsmobile Intrigue, while offering a comfortable driving experience, exhibits some common reliability concerns typical of its age and platform. The powertrain, particularly the 4T65-E transmission, can be prone to issues like torque converter problems and solenoid failures. Engine-wise, intake manifold gasket leaks and oil leaks are reported. Electrically, the Body Control Module and alternator are potential weak points. Suspension components like struts and ball joints may require attention due to wear. Exterior paint issues and interior climate control problems are also noted. Despite these potential issues, many owners find the Intrigue to be a reliable car if well-maintained, with repair costs generally falling within the average range for its class.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

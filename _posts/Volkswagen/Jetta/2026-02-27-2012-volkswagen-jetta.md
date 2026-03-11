@@ -75,6 +75,19 @@ The 2012 Volkswagen Jetta, part of the sixth generation, offered a range of engi
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -119,3 +132,15 @@ The 2012 Volkswagen Jetta, part of the sixth generation, offered a range of engi
 --- 
 ### Summary Verdict
 The 2012 Volkswagen Jetta presents a mixed reliability profile. The gasoline engines, particularly the 2.5L, can experience issues like ignition coil failures and oil leaks, while the 2.0L TDI diesel is more prone to EGR cooler and turbocharger problems. The DSG automatic transmission, while offering good performance, has documented issues with its mechatronic unit and clutch packs. Manual transmissions and the suspension system generally fare better. Electrical components like window regulators and infotainment systems can also be a source of concern. Overall, while not plagued by widespread catastrophic failures, potential buyers should be aware of these specific areas and factor in potential repair costs, especially for the diesel engine and DSG transmission.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

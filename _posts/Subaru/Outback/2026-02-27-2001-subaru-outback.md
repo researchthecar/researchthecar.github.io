@@ -56,6 +56,19 @@ The 2001 Subaru Outback, a popular choice for those seeking a blend of car-like 
 - **Cost:** $700 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -115,3 +128,15 @@ The 2001 Subaru Outback, a popular choice for those seeking a blend of car-like 
 --- 
 ### Summary Verdict
 The 2001 Subaru Outback is a capable vehicle with a generally positive reliability record, particularly for its all-wheel-drive system. However, potential buyers and owners should be aware of common issues such as head gasket failures, especially in the 2.5L engines, and potential wear on automatic transmissions. Suspension components and electrical parts like window regulators can also require attention over time. Addressing these known issues proactively can significantly contribute to the Outback's overall longevity and owner satisfaction. Regular maintenance is crucial for mitigating many of these potential problems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -46,6 +46,19 @@ The 2008 Volkswagen Derby, a subcompact car, generally presented a mixed bag of 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Torsion Beam Rear
@@ -90,3 +103,15 @@ The 2008 Volkswagen Derby, a subcompact car, generally presented a mixed bag of 
 --- 
 ### Summary Verdict
 The 2008 Volkswagen Derby is a generally reliable vehicle for its segment, particularly its powertrain options. The manual and automatic transmissions are robust, and the petrol engines are known for their longevity with proper maintenance. The main areas of concern tend to be in the electrical system, specifically window regulators and alternators, which can require costly repairs. Suspension components are typically durable. While the exterior and interior are generally well-built, minor electrical gremlins can surface. Prospective buyers should factor in potential costs for electrical repairs and ensure any diesel models have had their DPF systems maintained.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -61,6 +61,19 @@ The 2007 Volkswagen Derby, a subcompact car, aimed to offer a balance of afforda
 - **Cost:** $400 - $900
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -110,3 +123,15 @@ The 2007 Volkswagen Derby, a subcompact car, aimed to offer a balance of afforda
 --- 
 ### Summary Verdict
 The 2007 Volkswagen Derby presents a mixed reliability profile. While its core mechanical components are generally sound, owners should be aware of potential issues with ignition coils and coolant leaks on the 1.6L engines, and timing belt wear and oil leaks on the 1.8L. Transmission-wise, manual clutches can wear, and automatic transmissions may experience fluid leaks or solenoid issues. Suspension components like ball joints and strut mounts are also points of concern. Electrical systems can be prone to alternator failure and window regulator problems. Exterior rust can be an issue in certain climates. Interiorly, the HVAC blower motor is a common failure point. Overall, the Derby can be a reliable car if well-maintained, with proactive attention to these known problem areas.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

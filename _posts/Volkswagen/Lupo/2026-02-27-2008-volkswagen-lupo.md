@@ -53,6 +53,19 @@ The 2008 Volkswagen Lupo, a compact city car, generally presents a respectable r
 - **Cost:** $300 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -97,3 +110,15 @@ The 2008 Volkswagen Lupo, a compact city car, generally presents a respectable r
 --- 
 ### Summary Verdict
 The 2008 Volkswagen Lupo is generally a reliable small car, with most common issues stemming from age and mileage rather than inherent design flaws. The manual transmissions and smaller petrol engines are particularly robust. Potential concerns lie with the automatic transmission, which can develop slipping issues, and some electrical components like window regulators and instrument clusters may require attention. Suspension bushings are also a common wear item. Overall, with proactive maintenance and addressing minor issues promptly, the Lupo remains a dependable and economical vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

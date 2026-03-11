@@ -75,6 +75,19 @@ The 2018 Volkswagen Caddy is a versatile light commercial vehicle known for its 
 - **Cost:** $150 - $300
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -133,3 +146,15 @@ The 2018 Volkswagen Caddy is a versatile light commercial vehicle known for its 
 --- 
 ### Summary Verdict
 The 2018 Volkswagen Caddy generally presents a reliable profile, with the diesel TDI engines being the most common choices and also the source of most reported technical issues, primarily related to emissions systems like the DPF and EGR valve. Automatic DSG transmissions can be a point of concern, with potential mechatronic unit issues. Electrical gremlins, such as battery drain, are not uncommon. Exterior and interior components are typically robust, though sliding door mechanisms can sometimes become stiff. Overall, with diligent maintenance and addressing specific engine/transmission concerns, the Caddy remains a dependable workhorse.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

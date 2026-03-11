@@ -42,6 +42,19 @@ The 2004 Smart City-Coupe, known for its compact size and urban maneuverability,
 - **Cost:** $300 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -101,3 +114,15 @@ The 2004 Smart City-Coupe, known for its compact size and urban maneuverability,
 --- 
 ### Summary Verdict
 The 2004 Smart City-Coupe, while a charming city car, requires attention to its specific potential failure points. The automated manual transmission, particularly the clutch actuator, and the electrical system, notably the SAM unit, are areas where owners have reported significant issues. Engine components like the turbocharger and mounts can also require attention. While suspension and interior/exterior elements can experience wear, they are generally less critical than the powertrain and electrical concerns. Regular checks and prompt repairs for these known issues are recommended to maintain the reliability and usability of the Smart City-Coupe.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

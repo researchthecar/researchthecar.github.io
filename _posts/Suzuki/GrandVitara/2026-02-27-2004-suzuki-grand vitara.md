@@ -73,6 +73,19 @@ The 2004 Suzuki Grand Vitara is a compact SUV known for its off-road capabilitie
 - **Cost:** $600 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -132,3 +145,15 @@ The 2004 Suzuki Grand Vitara is a compact SUV known for its off-road capabilitie
 --- 
 ### Summary Verdict
 The 2004 Suzuki Grand Vitara, particularly with its V6 engine options, can be a capable and relatively durable SUV. However, potential owners should be aware of common issues such as timing belt/chain problems in the V6 engines, potential for oil leaks, and automatic transmission wear. Diesel variants may face turbocharger or EGR issues. Suspension components like ball joints and tie rods are also noted for wear. Electrical issues, notably alternator failure, and exterior rust are also points to consider. While not plagued by widespread critical failures, addressing these potential problems proactively can ensure the longevity and reliability of the Grand Vitara.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

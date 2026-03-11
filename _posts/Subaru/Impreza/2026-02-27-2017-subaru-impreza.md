@@ -44,6 +44,19 @@ The 2017 Subaru Impreza, a compact car known for its standard all-wheel-drive sy
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -86,3 +99,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2017 Subaru Impreza is generally a reliable vehicle, with its standard all-wheel drive being a significant advantage. The most commonly reported issues tend to be related to the CVT transmission, specifically hesitation or jerking, and some instances of oil consumption or coolant leaks in the 2.0L engine. Electrical gremlins, particularly with the infotainment system, have also been noted. However, these issues are not universal and often manageable with timely maintenance and repairs. For those considering a 2017 Impreza, paying attention to the transmission's behavior and checking fluid levels regularly is advisable. Overall, it remains a practical and dependable option in its segment.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

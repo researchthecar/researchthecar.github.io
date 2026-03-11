@@ -46,6 +46,19 @@ The 2023 Toyota GR Supra, a performance-oriented sports coupe, generally exhibit
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive M Suspension
@@ -106,3 +119,15 @@ The 2023 Toyota GR Supra, a performance-oriented sports coupe, generally exhibit
 --- 
 ### Summary Verdict
 The 2023 Toyota GR Supra demonstrates commendable reliability, particularly in its powertrain and core mechanical components. The shared BMW architecture has proven robust, with both the 3.0L inline-6 and 2.0L inline-4 engines, as well as the automatic and manual transmissions, showing minimal reported issues. Suspension and exterior components are also generally trouble-free. The most common, albeit minor, concern relates to occasional infotainment system glitches, typically resolved with software updates. Overall, the GR Supra is a reliable choice for performance enthusiasts, provided regular maintenance is performed.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

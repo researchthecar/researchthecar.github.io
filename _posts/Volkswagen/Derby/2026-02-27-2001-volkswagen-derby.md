@@ -56,6 +56,19 @@ The 2001 Volkswagen Derby, a subcompact car, was known for its practicality and 
 - **Cost:** $600 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -112,3 +125,15 @@ The 2001 Volkswagen Derby, a subcompact car, was known for its practicality and 
 --- 
 ### Summary Verdict
 The 2001 Volkswagen Derby, while a generally dependable small car, exhibits common age-related issues. The engines, particularly the 1.4L and 1.6L MPI variants, can experience problems with ignition coils, coolant sensors, and MAF sensors. Transmissions, both manual and automatic, may require attention for clutch wear or automatic transmission solenoid/torque converter issues. Suspension components like ball joints and tie rod ends are prone to wear, leading to noise and steering issues. Electrical gremlins, such as faulty window regulators and instrument clusters, are also reported. Exterior rust can be a concern in certain climates. Interior issues are typically minor, with HVAC blower resistors and seat fabric wear being the most common. Overall, the Derby is a reasonably reliable vehicle, but owners should be aware of these potential repair areas, especially as the car ages.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

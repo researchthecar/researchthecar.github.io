@@ -42,6 +42,19 @@ The 2010 Tesla Roadster, a groundbreaking all-electric sports car, represented a
 - **Cost:** $1,000 - $3,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Double Wishbone Suspension
@@ -107,3 +120,15 @@ The 2010 Tesla Roadster, a groundbreaking all-electric sports car, represented a
 --- 
 ### Summary Verdict
 The 2010 Tesla Roadster, while a pioneering electric vehicle, exhibits reliability concerns primarily centered around its unique electric powertrain components. The battery pack is the most significant potential expense, with degradation being a common issue over time. Inverters and onboard chargers can also fail, leading to costly repairs. Beyond the electrics, the single-speed gearbox can develop bearing issues, and suspension components like shock absorbers and bushings are subject to wear. Electrical systems, particularly the 12V auxiliary battery and infotainment, can also present problems. Exterior and interior components generally fare better, with fewer reported widespread issues. Prospective buyers should be aware of the potential for high repair costs, especially concerning the battery and powertrain.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

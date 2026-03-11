@@ -44,6 +44,19 @@ The 2018 Subaru Crosstrek is a compact SUV known for its standard all-wheel driv
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -90,3 +103,15 @@ The 2018 Subaru Crosstrek is a compact SUV known for its standard all-wheel driv
 --- 
 ### Summary Verdict
 The 2018 Subaru Crosstrek is generally a dependable vehicle. The most frequently cited issues revolve around the CVT transmission's occasional hesitation and potential oil consumption in the 2.0L engine. Electrical gremlins, particularly with the infotainment system and battery life, are also noted. However, these issues are not universal and often have manageable solutions. The manual transmission and the chassis/suspension components are considered robust. Overall, the Crosstrek offers good value with a reasonable expectation of reliability, provided potential buyers are aware of and prepared for these specific concerns.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

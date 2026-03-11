@@ -37,6 +37,19 @@ The 2008 Tesla Roadster, a pioneering all-electric sports car, represented a sig
 - **Cost:** $2,000 - $5,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Lotus-derived Chassis
@@ -83,3 +96,15 @@ The 2008 Tesla Roadster, a pioneering all-electric sports car, represented a sig
 --- 
 ### Summary Verdict
 The 2008 Tesla Roadster is a unique and exciting vehicle, but its pioneering status means potential buyers should be aware of specific reliability concerns. The electric powertrain, particularly the battery pack, is the most significant area for potential high-cost repairs. Issues with the inverter, single-speed gearbox, and 12V auxiliary battery are also documented. Beyond the powertrain, suspension components and interior wear are common considerations. While not plagued by widespread catastrophic failures, the Roadster requires diligent maintenance and a willingness to address the specific challenges of an early-production, high-performance electric car. Its value proposition hinges on passion for the marque and a realistic understanding of its potential upkeep costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

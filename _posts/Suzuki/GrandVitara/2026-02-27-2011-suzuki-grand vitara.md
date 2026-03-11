@@ -46,6 +46,19 @@ The 2011 Suzuki Grand Vitara is a compact SUV known for its off-road capability 
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -85,3 +98,15 @@ The 2011 Suzuki Grand Vitara is a compact SUV known for its off-road capability 
 --- 
 ### Summary Verdict
 The 2011 Suzuki Grand Vitara presents a generally reliable profile, particularly with its V6 engine and manual transmission options. The most commonly cited issues revolve around the 2.4L engine's tendency for oil consumption and potential harsh shifting in the automatic transmission. Suspension bushings can wear over time, leading to noise and handling degradation. Electrical issues, such as power window failures, are also noted but are not typically indicative of systemic problems. Overall, with diligent maintenance and attention to potential oil level drops, the Grand Vitara can be a durable choice, especially for those seeking its off-road prowess.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

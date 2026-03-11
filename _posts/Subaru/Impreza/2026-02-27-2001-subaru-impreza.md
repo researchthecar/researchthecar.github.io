@@ -66,6 +66,19 @@ The 2001 Subaru Impreza, a compact car known for its all-wheel-drive system and 
 - **Cost:** $200 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -120,3 +133,15 @@ The 2001 Subaru Impreza, a compact car known for its all-wheel-drive system and 
 --- 
 ### Summary Verdict
 The 2001 Subaru Impreza, particularly models with the 2.5L SOHC engine, is prone to head gasket failures, a significant repair. Turbocharged variants (2.0L EJ20) can experience turbocharger issues and piston ring wear. Manual transmissions may require clutch replacements, while automatics can develop torque converter problems. Suspension components like ball joints and wheel bearings are also common wear items. Electrical issues such as alternator and window regulator failures are not uncommon. Rust can be a concern depending on climate. Despite these potential issues, the Impreza remains a capable vehicle, especially for those seeking all-wheel-drive performance, but buyers should be prepared for potential maintenance costs related to these known weaknesses.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

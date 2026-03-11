@@ -44,6 +44,19 @@ The 2004 Suzuki Forenza, a compact sedan and wagon, was a product of GM's global
 - **Cost:** $600 - $1100
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -109,3 +122,15 @@ The 2004 Suzuki Forenza, a compact sedan and wagon, was a product of GM's global
 --- 
 ### Summary Verdict
 The 2004 Suzuki Forenza presents a mixed reliability profile. While the manual transmission generally holds up better, the automatic transmission can experience issues with harsh shifting. Engine concerns primarily revolve around oil and coolant leaks, often due to aging seals and gaskets. Electrical gremlins, particularly related to the Body Control Module and alternator, are not uncommon. Exterior rust can be a significant concern depending on climate, and interior components like the HVAC blower motor and seat fabric may show premature wear. Prospective buyers should be aware of these potential issues and factor in repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

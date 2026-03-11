@@ -51,6 +51,19 @@ The 2001 Suzuki Grand Vitara, a compact SUV known for its off-road capabilities 
 - **Cost:** $500 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -100,3 +113,15 @@ The 2001 Suzuki Grand Vitara, a compact SUV known for its off-road capabilities 
 --- 
 ### Summary Verdict
 The 2001 Suzuki Grand Vitara, while offering a capable and often affordable package, is not without its potential reliability concerns. The V6 engines, particularly the 2.5L, are prone to head gasket issues and timing belt problems, while the 2.7L can suffer from timing chain rattle. Automatic transmissions may develop slipping issues, and manual transmissions can experience clutch wear. Suspension components like ball joints and struts are common wear items. Electrical issues such as alternator failure and power window motor problems are also reported. Rust can be a significant concern, especially in certain climates. Despite these potential drawbacks, many Grand Vitaras have proven durable with proper maintenance and timely repairs, especially those with the manual transmission and the smaller engines, though the V6 models are more common.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

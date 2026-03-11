@@ -56,6 +56,19 @@ The 2006 Subaru Forester, often praised for its all-wheel-drive capability and p
 - **Cost:** $700 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -105,3 +118,15 @@ The 2006 Subaru Forester, often praised for its all-wheel-drive capability and p
 --- 
 ### Summary Verdict
 The 2006 Subaru Forester is a capable vehicle with a generally good reputation for reliability, especially its AWD system. However, potential owners should be aware of common issues such as head gasket failures on both engine variants, which can be a significant repair cost. Automatic transmission issues and rear wheel bearing wear are also noted concerns. Rust can be an issue in certain climates, particularly around the wheel arches. Electrical components like window regulators and ABS sensors can also require attention. Despite these points, with proper maintenance and awareness of these potential problems, the 2006 Forester can remain a dependable and practical SUV.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

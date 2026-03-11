@@ -51,6 +51,19 @@ The 2014 Volkswagen Combi, often recognized for its utility and versatility, gen
 - **Cost:** $1500 - $3000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -95,3 +108,15 @@ The 2014 Volkswagen Combi, often recognized for its utility and versatility, gen
 --- 
 ### Summary Verdict
 The 2014 Volkswagen Combi is a generally reliable vehicle, particularly for its intended purpose. The diesel engine variants have some known issues related to emissions control systems (DPF and EGR), which can be costly to repair if neglected. The automatic DSG transmission can also present expensive problems with its mechatronic unit. Electrical gremlins, such as battery drain and sensor failures, are not uncommon and require proper diagnosis. However, the chassis, suspension, exterior, and interior components tend to hold up well. With diligent maintenance and prompt attention to any emerging issues, the Combi can continue to serve its owner dependably.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

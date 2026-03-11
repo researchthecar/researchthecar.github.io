@@ -46,6 +46,19 @@ The 2004 Nissan Platina, a subcompact car, generally presented a mixed bag of re
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Rear
@@ -95,3 +108,15 @@ The 2004 Nissan Platina, a subcompact car, generally presented a mixed bag of re
 --- 
 ### Summary Verdict
 The 2004 Nissan Platina is a generally reliable vehicle, particularly in its powertrain. The engines and transmissions offered were robust and did not suffer from widespread common failures. However, owners should be mindful of potential electrical issues, such as failing window regulators and instrument cluster problems, which can be costly to repair. Interior components like the dashboard can be susceptible to cracking over time, and the HVAC blower motor is another component that may require attention. Suspension and exterior elements are typically solid. With regular maintenance and attention to these known weak points, the Platina can remain a dependable car.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

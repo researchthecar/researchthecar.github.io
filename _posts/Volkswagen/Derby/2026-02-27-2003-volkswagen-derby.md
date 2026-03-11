@@ -61,6 +61,19 @@ The 2003 Volkswagen Derby, a compact car known for its fuel efficiency and pract
 - **Cost:** $300 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -120,3 +133,15 @@ The 2003 Volkswagen Derby, a compact car known for its fuel efficiency and pract
 --- 
 ### Summary Verdict
 The 2003 Volkswagen Derby is a generally reliable compact car, but potential buyers and current owners should be aware of common issues. The electrical system, particularly window regulators and instrument clusters, can be a source of frustration and expense. Engine-wise, while the petrol engines are fairly robust, the TDI diesel variants may encounter turbocharger or EGR valve problems. Transmission issues, especially with the automatic option, can also arise. Suspension components like ball joints and tie rods are typical wear items that may need replacement. Overall, with diligent maintenance and attention to these known weak points, the Derby can remain a dependable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

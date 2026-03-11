@@ -51,6 +51,19 @@ The 2018 Nissan NP300 Frontier, a robust mid-size pickup truck, is generally rec
 - **Cost:** $400 - $2500+
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -90,3 +103,15 @@ The 2018 Nissan NP300 Frontier, a robust mid-size pickup truck, is generally rec
 --- 
 ### Summary Verdict
 The 2018 Nissan NP300 Frontier demonstrates a generally strong reliability record, particularly with its petrol engine option. The diesel engine, while powerful, can be susceptible to DPF and EGR issues, common in modern diesel powertrains, especially if not driven in conditions that allow for regular regeneration. The 7-speed automatic transmission has seen some reports of harsh shifting, which may require attention. Electrical gremlins like battery drain are not uncommon in vehicles of this age and can usually be traced to specific components. Overall, the NP300 Frontier is a dependable choice, but potential buyers, especially of diesel models, should be aware of these specific technical points.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

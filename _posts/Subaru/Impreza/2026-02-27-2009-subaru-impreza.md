@@ -75,6 +75,19 @@ The 2009 Subaru Impreza, a compact car known for its all-wheel-drive capability 
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -119,3 +132,15 @@ The 2009 Subaru Impreza, a compact car known for its all-wheel-drive capability 
 --- 
 ### Summary Verdict
 The 2009 Subaru Impreza, particularly models with the naturally aspirated EJ253 engine, is susceptible to head gasket failures and oil consumption issues, which are common for this engine family. Performance-oriented models (WRX/STI) with turbocharged engines face risks of ringland failure and turbocharger issues, often exacerbated by aggressive driving or inadequate maintenance. Transmission reliability is generally good, though clutch wear on manuals and synchro issues on the 6-speed STI are noted. Electrical components like window regulators and alternators can fail. Overall, while the Impreza offers robust AWD and driving dynamics, potential buyers should be aware of the engine-specific concerns and factor in potential repair costs, especially for higher-mileage or performance variants.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

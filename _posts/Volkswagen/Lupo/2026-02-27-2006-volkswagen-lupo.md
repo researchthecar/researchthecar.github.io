@@ -67,6 +67,19 @@ The 2006 Volkswagen Lupo, a compact city car, generally presents a mixed bag of 
 - **Cost:** $500 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -116,3 +129,15 @@ The 2006 Volkswagen Lupo, a compact city car, generally presents a mixed bag of 
 --- 
 ### Summary Verdict
 The 2006 Volkswagen Lupo is a generally reliable small car, particularly with its manual transmission variants and the smaller petrol engines. The 1.4L TDI engine has a known issue with the turbocharger, and the automatic transmission can experience slipping. The most common recurring problems are found within the electrical system, specifically with window regulators, central locking, and instrument clusters. While these electrical faults can be frustrating and costly to repair, they do not typically indicate a fundamental flaw in the vehicle's core mechanicals. For potential buyers, a thorough inspection, especially of the electrical components and transmission, is recommended. Overall, with careful maintenance and awareness of these specific weak points, the Lupo can be a dependable city car.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

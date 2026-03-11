@@ -42,6 +42,19 @@ The 2013 Volkswagen Routan, a rebadged Chrysler Town & Country, shares much of i
 - **Cost:** $700 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -93,3 +106,15 @@ The 2013 Volkswagen Routan, a rebadged Chrysler Town & Country, shares much of i
 --- 
 ### Summary Verdict
 The 2013 Volkswagen Routan presents a mixed reliability picture, largely mirroring its Chrysler/Dodge siblings. The 3.6L Pentastar engine is generally robust but can suffer from intake manifold and oil filter housing leaks. The 62TE automatic transmission is a common source of complaints, with harsh shifting and torque converter issues being notable. Suspension components like ball joints and control arms may require attention as mileage increases. Electrical gremlins, particularly related to the BCM and power sliding door motors, are also reported. While the exterior and interior are generally free from major widespread defects, potential buyers should be aware of these common powertrain and electrical concerns and factor in potential repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

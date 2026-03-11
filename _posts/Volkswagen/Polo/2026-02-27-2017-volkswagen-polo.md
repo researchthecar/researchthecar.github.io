@@ -72,6 +72,19 @@ The 2017 Volkswagen Polo is generally considered a reliable compact car, offerin
 - **Cost:** $1000 - $2000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -116,3 +129,15 @@ The 2017 Volkswagen Polo is generally considered a reliable compact car, offerin
 --- 
 ### Summary Verdict
 The 2017 Volkswagen Polo generally presents a strong reliability profile, especially with its naturally aspirated petrol and diesel engines. Manual transmissions are robust. The primary areas requiring attention are the DSG automatic transmission, which can experience issues with its mechatronic unit or clutch packs, and occasional electrical gremlins like infotainment glitches or battery drain. The turbocharged TSI engines, while offering good performance, have a documented susceptibility to timing chain wear. Overall, the Polo is a dependable choice for daily commuting, with most potential issues being manageable and not indicative of systemic failure across the model range.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

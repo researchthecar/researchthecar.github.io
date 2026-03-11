@@ -42,6 +42,19 @@ The 2009 Tesla Roadster, a groundbreaking all-electric sports car, represented a
 - **Cost:** $3,000 - $7,000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -109,3 +122,15 @@ The 2009 Tesla Roadster, a groundbreaking all-electric sports car, represented a
 --- 
 ### Summary Verdict
 The 2009 Tesla Roadster, while a pioneering electric vehicle, exhibits reliability concerns primarily centered around its unique electric powertrain components, most notably battery degradation and inverter failures, which can be very costly to repair. The single-speed transmission can also experience bearing issues. Electrical systems, including the 12V battery and onboard charger, are also points of potential failure. Exterior and interior components generally do not present widespread issues. Prospective buyers should be aware of the significant potential costs associated with battery pack replacement and other major powertrain repairs, which are common for vehicles of this age and technological generation.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

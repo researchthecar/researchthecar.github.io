@@ -44,6 +44,19 @@ The 2019 Subaru Crosstrek is a compact SUV known for its standard all-wheel-driv
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -86,3 +99,15 @@ _No major issues reported for this configuration._
 --- 
 ### Summary Verdict
 The 2019 Subaru Crosstrek is generally a reliable vehicle, particularly praised for its standard AWD and practicality. The most frequently cited technical concerns revolve around the 2.0L engine's potential for oil consumption and coolant leaks, and the CVT transmission's occasional hesitation or jerking. Electrical issues, primarily with the infotainment system's responsiveness and battery drain, have also been noted. However, these issues do not appear to be universal, and many owners experience trouble-free operation. For those considering a Crosstrek, regular maintenance, especially monitoring oil levels and ensuring proper transmission fluid service, is recommended. The manual transmission variant appears to be more robust in terms of powertrain issues.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -39,6 +39,19 @@ The 2022 Subaru Impreza is generally considered a reliable vehicle, offering a g
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -99,3 +112,15 @@ The 2022 Subaru Impreza is generally considered a reliable vehicle, offering a g
 --- 
 ### Summary Verdict
 The 2022 Subaru Impreza stands out as a reliable compact car, particularly for its segment. The powertrain, including the 2.0L Boxer engine and available transmissions (CVT and manual), shows a strong track record with no significant widespread issues reported. Similarly, the suspension and core exterior/interior components are generally robust. The primary areas where minor concerns have been noted are within the electrical system, specifically occasional infotainment glitches and, less commonly, intermittent battery drain issues. These are not typically indicative of major mechanical flaws but rather software or accessory-related problems that can usually be resolved with diagnostics and updates. Overall, the Impreza offers a dependable ownership experience with a low probability of major mechanical failures.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

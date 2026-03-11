@@ -61,6 +61,19 @@ The 2000 Subaru Impreza, a compact car known for its all-wheel-drive capabilitie
 - **Cost:** $500 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -117,3 +130,15 @@ The 2000 Subaru Impreza, a compact car known for its all-wheel-drive capabilitie
 --- 
 ### Summary Verdict
 The 2000 Subaru Impreza is a capable vehicle with a generally positive reliability record, especially its all-wheel-drive system. However, potential buyers and current owners should be aware of common issues such as head gasket failures on the 2.5L engines, which can be a significant repair cost. Both manual and automatic transmissions can experience wear over time, with clutch wear being common for manuals and potential for harsh shifting in automatics. Suspension components like struts and ball joints are also susceptible to wear. Electrical issues, particularly with the alternator and window regulators, can occur. Exterior rust is a concern for vehicles in rust-prone climates. Overall, while not immune to problems, many of these issues are age-related and can be managed with proper maintenance and timely repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

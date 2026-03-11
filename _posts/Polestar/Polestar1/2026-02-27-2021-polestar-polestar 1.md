@@ -44,6 +44,19 @@ The 2021 Polestar 1 is a limited-production plug-in hybrid electric vehicle (PHE
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Dampers
@@ -104,3 +117,15 @@ The 2021 Polestar 1 is a limited-production plug-in hybrid electric vehicle (PHE
 --- 
 ### Summary Verdict
 The 2021 Polestar 1, due to its limited production and complex PHEV architecture, exhibits a generally strong reliability profile for its core mechanical components. The primary areas of concern revolve around the sophisticated hybrid system, including potential software glitches and the long-term health of the high-voltage battery pack, which can be costly to replace outside of warranty. The gasoline engine and transmission are robust. Electrical systems, particularly the infotainment, may experience minor software-related issues. Exterior and interior components, reflecting the car's premium nature, have not shown widespread problems. Regular specialized maintenance is crucial for optimal performance and longevity.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

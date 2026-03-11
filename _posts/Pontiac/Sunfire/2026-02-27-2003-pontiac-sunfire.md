@@ -56,6 +56,19 @@ The 2003 Pontiac Sunfire, a compact car from General Motors, was designed to off
 - **Cost:** $500 - $900
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -121,3 +134,15 @@ The 2003 Pontiac Sunfire, a compact car from General Motors, was designed to off
 --- 
 ### Summary Verdict
 The 2003 Pontiac Sunfire is a vehicle that, while offering basic transportation, is prone to several common issues, particularly concerning its engine (oil leaks, intake manifold gaskets), transmission (slipping gears, torque converter problems), and electrical systems (BCM, alternator). Suspension components like ball joints and bushings can also wear out. Exterior rust is a notable concern, especially in certain climates. Interior wear and HVAC blower motor failures are also frequently reported. Prospective buyers should be aware of these potential repair costs and thoroughly inspect any vehicle before purchase.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

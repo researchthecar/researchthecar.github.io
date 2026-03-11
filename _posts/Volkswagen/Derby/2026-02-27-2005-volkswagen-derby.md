@@ -61,6 +61,19 @@ The 2005 Volkswagen Derby, a subcompact car primarily sold in Mexico and some La
 - **Cost:** $600 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -115,3 +128,15 @@ The 2005 Volkswagen Derby, a subcompact car primarily sold in Mexico and some La
 --- 
 ### Summary Verdict
 The 2005 Volkswagen Derby presents itself as a generally reliable and cost-effective vehicle, particularly for its segment. Common issues are largely related to age and mileage, with ignition system components, suspension wear (ball joints, tie rods), and certain electrical parts like window regulators being the most frequently cited areas for attention. Transmission issues, especially with the automatic variant, can arise but are not overwhelmingly prevalent. Overall, with proactive maintenance and addressing minor issues promptly, the Derby can continue to serve as a dependable mode of transportation. Its mechanical simplicity and shared parts with other VW models contribute to reasonable repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

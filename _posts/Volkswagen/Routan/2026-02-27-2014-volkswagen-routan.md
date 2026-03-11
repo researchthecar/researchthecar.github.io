@@ -42,6 +42,19 @@ The 2014 Volkswagen Routan, a rebadged Chrysler Town & Country, shares many of i
 - **Cost:** $400 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -93,3 +106,15 @@ The 2014 Volkswagen Routan, a rebadged Chrysler Town & Country, shares many of i
 --- 
 ### Summary Verdict
 The 2014 Volkswagen Routan presents a mixed reliability profile. The 3.6L Pentastar V6 engine can experience intake manifold leaks and valve cover gasket oil leaks. The 62TE automatic transmission is a common source of concern, with reports of harsh shifting, slipping, and TCM failures. Suspension components like sway bar links and struts may require replacement sooner than expected. Electrical issues, particularly with the Body Control Module and power sliding doors, are also noted. While the exterior and interior are generally robust, potential buyers should be aware of these common powertrain and electrical concerns and budget accordingly for potential repairs beyond standard maintenance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

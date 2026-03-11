@@ -44,6 +44,19 @@ The 2012 Suzuki Kizashi was a compact executive sedan praised for its sporty han
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -88,3 +101,15 @@ The 2012 Suzuki Kizashi was a compact executive sedan praised for its sporty han
 --- 
 ### Summary Verdict
 The 2012 Suzuki Kizashi offers a generally solid ownership experience, particularly with its manual transmission and standard chassis components. However, potential buyers should be aware of a few key areas. The 2.4L engine can exhibit oil consumption and timing chain noise, requiring diligent monitoring and potential repairs. The CVT transmission has been associated with hesitation and rough operation, which can be costly to address. Electrical gremlins, such as issues with the keyless entry system and infotainment, are also noted. While not overwhelmingly problematic, these points suggest that thorough pre-purchase inspection and budgeting for potential repairs are advisable for the 2012 Kizashi.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -54,6 +54,19 @@ The 2004 Pontiac Grand Prix, a popular mid-size sedan, offered a range of powert
 - **Cost:** $300 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -112,3 +125,15 @@ The 2004 Pontiac Grand Prix, a popular mid-size sedan, offered a range of powert
 --- 
 ### Summary Verdict
 The 2004 Pontiac Grand Prix, particularly with the popular 3.8L V6 engines, can be a reliable car if well-maintained. However, common issues include potential intake manifold gasket leaks and EGR valve clogging on naturally aspirated models, and head gasket failures or supercharger belt issues on the supercharged variants. The 4T65E transmission can experience torque converter or solenoid problems. Electrical gremlins, especially related to the BCM and alternator, are also noted. Exterior rust can be a concern in certain climates, and interior issues like blend door actuators and dashboard cracking are not uncommon. Prospective buyers should be aware of these potential repair costs and prioritize vehicles with a documented maintenance history.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

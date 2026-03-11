@@ -68,6 +68,19 @@ The 2009 Volkswagen Derby, a compact sedan known for its practicality and fuel e
 - **Cost:** $400 - $800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -117,3 +130,15 @@ The 2009 Volkswagen Derby, a compact sedan known for its practicality and fuel e
 --- 
 ### Summary Verdict
 The 2009 Volkswagen Derby is a generally reliable vehicle, especially considering its age. The most common issues tend to be related to wear and tear on specific components like ignition coils, clutch systems, and suspension bushings, which are not uncommon for vehicles in this segment and mileage range. Electrical gremlins, such as window regulators and instrument cluster issues, can also arise. Diesel variants, particularly the 1.9L TDI, may encounter turbocharger or EGR valve problems. Overall, with regular maintenance and addressing minor issues promptly, the Derby offers dependable service. Prospective buyers should be aware of potential repairs related to the transmission, especially the automatic variants, and check for signs of oil leaks on the diesel engines.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

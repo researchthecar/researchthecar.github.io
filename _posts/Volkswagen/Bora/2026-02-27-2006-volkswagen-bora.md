@@ -87,6 +87,19 @@ The 2006 Volkswagen Bora, also known as the Jetta in many markets, presented a m
 - **Cost:** $500 - $1000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -155,3 +168,15 @@ The 2006 Volkswagen Bora, also known as the Jetta in many markets, presented a m
 --- 
 ### Summary Verdict
 The 2006 Volkswagen Bora (Jetta) offers a competent driving experience but requires careful consideration of its powertrain options. The petrol engines, particularly the 2.0 FSI, can be prone to oil consumption and timing chain issues. Diesel variants, especially the 1.9 TDI, are generally more robust but can suffer from dual-mass flywheel and injector pump problems. The 2.0 TDI (BKD) is notable for potential cylinder head cracking. Automatic transmissions (09G) may experience torque converter or valve body issues. Suspension components like control arm bushings are common wear items. Electrical gremlins, such as window regulators and central locking, can also arise. Overall, while not inherently unreliable, specific engine and transmission choices significantly influence the long-term ownership experience and potential repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -61,6 +61,19 @@ The 2008 Porsche Cayman, a mid-engine sports car, is generally regarded as a rel
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -105,3 +118,15 @@ The 2008 Porsche Cayman, a mid-engine sports car, is generally regarded as a rel
 --- 
 ### Summary Verdict
 The 2008 Porsche Cayman is a mechanically sound sports car with a generally strong reliability record. The most significant potential issue to be aware of is the Intermediate Shaft (IMS) bearing failure, which can affect both engine variants and is a costly repair if it occurs. Oil leaks are also a possibility, though typically less severe. Transmission reliability is good for both manual and automatic options, with clutch wear being a common maintenance item for manuals. Electrical gremlins are infrequent, with window regulators and occasional headlight condensation being the most cited problems. Overall, the Cayman offers a rewarding ownership experience with a solid foundation, provided potential buyers are aware of and prepared for the possibility of IMS-related repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

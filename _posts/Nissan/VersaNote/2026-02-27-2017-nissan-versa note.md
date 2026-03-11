@@ -44,6 +44,19 @@ The 2017 Nissan Versa Note is a subcompact hatchback known for its fuel efficien
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Torsion Beam Rear
@@ -88,3 +101,15 @@ The 2017 Nissan Versa Note is a subcompact hatchback known for its fuel efficien
 --- 
 ### Summary Verdict
 The 2017 Nissan Versa Note generally offers a reliable ownership experience, particularly with its standard 1.6L engine and manual transmission. The primary area of concern lies with the CVT, which has seen reports of hesitation, jerking, and overheating, potentially leading to costly repairs. Electrical gremlins, such as infotainment system glitches and keyless entry problems, are also noted but are typically less severe. The exterior and interior components are largely free of widespread issues. For buyers prioritizing long-term dependability, opting for a manual transmission model or being prepared for potential CVT maintenance is advisable. Overall, it remains a practical and economical choice, but potential buyers should be aware of the CVT's documented quirks.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

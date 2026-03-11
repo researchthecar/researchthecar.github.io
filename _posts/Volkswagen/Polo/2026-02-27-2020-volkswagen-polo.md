@@ -60,6 +60,19 @@ The 2020 Volkswagen Polo, a popular subcompact car, generally exhibits good reli
 - **Cost:** $1500 - $3000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front / Torsion Beam Rear
@@ -99,3 +112,15 @@ The 2020 Volkswagen Polo, a popular subcompact car, generally exhibits good reli
 --- 
 ### Summary Verdict
 The 2020 Volkswagen Polo demonstrates a strong reliability record, particularly with its manual transmission variants and naturally aspirated/turbocharged petrol engines. The primary area of concern identified is the 7-speed DSG automatic transmission, which can occasionally suffer from mechatronic unit failures, leading to significant repair costs. Electrical issues are generally minor, often related to infotainment system glitches that can usually be resolved with software updates. Other categories like suspension, exterior, and interior components show no widespread significant issues, indicating good build quality and component durability for its class. Overall, the Polo is a dependable choice, especially if opting for a manual gearbox.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -51,6 +51,19 @@ The 2006 Porsche Cayman, a mid-engine sports car, is generally regarded as a rel
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -95,3 +108,15 @@ The 2006 Porsche Cayman, a mid-engine sports car, is generally regarded as a rel
 --- 
 ### Summary Verdict
 The 2006 Porsche Cayman is a robust sports car with a generally strong reliability record. The primary concern for this model year is the potential for Intermediate Shaft (IMS) bearing failure in the engine, a known issue across many Porsche models of this era, which can be costly to repair. Other reported issues are less common and typically involve components like window regulators or headlight switches. With diligent maintenance and addressing potential IMS issues proactively, the 2006 Cayman can provide a rewarding and reliable ownership experience for enthusiasts.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

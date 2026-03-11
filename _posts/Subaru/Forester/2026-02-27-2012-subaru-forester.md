@@ -56,6 +56,19 @@ The 2012 Subaru Forester is generally considered a reliable compact SUV, known f
 - **Cost:** $500 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -121,3 +134,15 @@ The 2012 Subaru Forester is generally considered a reliable compact SUV, known f
 --- 
 ### Summary Verdict
 The 2012 Subaru Forester is a dependable vehicle with a solid reputation for reliability. The most commonly reported significant issues revolve around the engine, particularly head gasket failures and oil consumption, which can be costly to repair. Transmission issues are less frequent but can occur, especially with the automatic. Suspension components like sway bar links and strut mounts may require attention over time. Electrical gremlins and exterior paint issues are also noted. Despite these potential concerns, with proper maintenance and addressing issues promptly, the 2012 Forester can continue to be a reliable daily driver.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -44,6 +44,19 @@ The 2014 Suzuki Kizashi, a compact executive sedan, was known for its sporty han
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -90,3 +103,15 @@ The 2014 Suzuki Kizashi, a compact executive sedan, was known for its sporty han
 --- 
 ### Summary Verdict
 The 2014 Suzuki Kizashi is a generally reliable vehicle, particularly praised for its driving dynamics. The most commonly cited technical issues revolve around the CVT transmission, which can experience overheating or rough shifting, and some instances of engine oil consumption. Electrical gremlins, such as with the infotainment system's Bluetooth or the keyless entry, are also reported but are typically less severe. The engine and manual transmission variants are considered more robust. Owners should be mindful of regular CVT fluid maintenance and monitor oil levels to ensure long-term reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

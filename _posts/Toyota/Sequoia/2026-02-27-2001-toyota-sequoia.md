@@ -37,6 +37,19 @@ The 2001 Toyota Sequoia, a full-size SUV, was known for its robust construction 
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front Suspension / Solid Rear Axle
@@ -96,3 +109,15 @@ The 2001 Toyota Sequoia, a full-size SUV, was known for its robust construction 
 --- 
 ### Summary Verdict
 The 2001 Toyota Sequoia is a generally reliable vehicle, benefiting from Toyota's strong engineering and build quality. The 4.7L V8 engine is robust, though routine timing belt replacement is critical to prevent catastrophic failure. Common issues tend to be related to age and mileage, such as suspension wear (ball joints, sway bar links), electrical components (alternator, power window motors), and some exterior paint degradation. Interior components like HVAC controls can also develop faults. With proper maintenance and addressing these known issues, the Sequoia can remain a dependable SUV.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

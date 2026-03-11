@@ -37,6 +37,19 @@ The 2019 Smart EQ fortwo is a compact electric city car designed for urban maneu
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -90,3 +103,15 @@ The 2019 Smart EQ fortwo is a compact electric city car designed for urban maneu
 --- 
 ### Summary Verdict
 The 2019 Smart EQ fortwo, being an electric vehicle, presents a different set of potential reliability concerns compared to its gasoline counterparts. The primary areas of concern revolve around the electric powertrain, specifically battery degradation and potential electric motor issues, which can be costly to repair or replace. Electrical systems, such as the charging port and infotainment, have also seen some reported glitches. However, the transmission, suspension, exterior, and most interior components generally exhibit good reliability with no widespread issues reported. Owners should be aware of the long-term cost implications of battery health and ensure proper charging practices.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

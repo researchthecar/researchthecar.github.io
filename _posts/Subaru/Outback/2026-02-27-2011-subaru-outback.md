@@ -58,6 +58,19 @@ The 2011 Subaru Outback is a capable mid-size crossover SUV known for its standa
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -118,3 +131,15 @@ The 2011 Subaru Outback is a capable mid-size crossover SUV known for its standa
 --- 
 ### Summary Verdict
 The 2011 Subaru Outback is a generally reliable vehicle, particularly praised for its AWD system and practicality. The most common significant issues tend to be related to the engine, specifically head gasket leaks on both the 2.5L and 3.6L engines, and oil consumption on the 2.5L. The CVT transmission can also experience hesitation or shuddering. Electrical issues like alternator failure and BCM problems are less common but reported. While not immune to problems, addressing these potential issues can ensure the longevity of the Outback. Overall, it remains a solid choice for those seeking a versatile and capable SUV.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

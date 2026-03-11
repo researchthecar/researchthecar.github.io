@@ -66,6 +66,19 @@ The 2011 Subaru Impreza, known for its all-wheel-drive capability and sporty han
 - **Cost:** $200 - $500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -125,3 +138,15 @@ The 2011 Subaru Impreza, known for its all-wheel-drive capability and sporty han
 --- 
 ### Summary Verdict
 The 2011 Subaru Impreza offers a generally reliable ownership experience, particularly for models equipped with the naturally aspirated 2.5L engine and manual transmission. The primary concerns revolve around potential head gasket failures and oil consumption in the EJ253 engine, which are known issues for some Subaru models of this era. Turbocharged WRX models, while offering enhanced performance, are more susceptible to more significant engine issues like ringland failure and turbo problems, often linked to driving style and maintenance. Transmission reliability is decent, with manual transmissions being more robust than automatics, which can experience torque converter issues. Suspension components like bushings and strut mounts can wear over time, leading to noise and handling degradation. Electrical and interior issues are relatively minor and typical for a vehicle of this age. Exterior rust can be a concern in certain climates. Overall, with diligent maintenance and addressing potential issues proactively, the 2011 Impreza can be a dependable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

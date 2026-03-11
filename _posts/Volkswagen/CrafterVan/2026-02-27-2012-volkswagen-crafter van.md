@@ -56,6 +56,19 @@ The 2012 Volkswagen Crafter is a robust panel van designed for commercial use, k
 - **Cost:** $1500 - $3000
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -100,3 +113,15 @@ The 2012 Volkswagen Crafter is a robust panel van designed for commercial use, k
 --- 
 ### Summary Verdict
 The 2012 Volkswagen Crafter is a capable commercial vehicle, but potential buyers should be aware of specific reliability concerns. The diesel engines, particularly the 2.0L TDI, can be prone to DPF and EGR issues, while the 2.5L TDI may experience turbocharger problems. Transmission issues, especially with the DSG automatic, can be costly. Suspension components like bushings and ball joints are common wear items. Electrical gremlins, such as battery drain and sensor failures, can also arise. Exterior rust, particularly on lower body panels, is a concern for vehicles in certain climates. Overall, while not plagued by widespread catastrophic failures, diligent maintenance and awareness of these potential issues are crucial for long-term ownership of the 2012 Crafter.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

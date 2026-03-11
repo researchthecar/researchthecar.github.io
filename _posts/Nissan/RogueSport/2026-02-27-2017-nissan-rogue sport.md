@@ -32,6 +32,19 @@ The 2017 Nissan Rogue Sport is a compact crossover known for its practicality an
 - **Cost:** $300 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Suspension
@@ -78,3 +91,15 @@ The 2017 Nissan Rogue Sport is a compact crossover known for its practicality an
 --- 
 ### Summary Verdict
 The 2017 Nissan Rogue Sport generally presents a reliable profile for its model year. The powertrain, consisting of the 2.0L engine and CVT, is mostly dependable, though some owners have noted occasional transmission hesitation. Electrical gremlins, particularly with the infotainment system and battery life, are the most frequently cited minor issues. However, these are typically resolved with software updates or component replacement and do not indicate widespread systemic flaws. Exterior and interior components have shown good durability. Overall, the Rogue Sport is a sensible choice for those seeking a practical and reasonably trouble-free compact SUV, provided routine maintenance is kept up.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -51,6 +51,19 @@ The 2002 Nissan Platina, a subcompact car, was designed with affordability and b
 - **Cost:** $250 - $500 (fluid service), $1500 - $3000 (rebuild/replacement)
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Rear
@@ -100,3 +113,15 @@ The 2002 Nissan Platina, a subcompact car, was designed with affordability and b
 --- 
 ### Summary Verdict
 The 2002 Nissan Platina is a generally reliable vehicle for its segment and age, with most issues stemming from typical wear and tear. The gasoline engine variants (like the 1.6L) are known for their durability. However, owners of diesel variants should be prepared for potential Diesel Particulate Filter (DPF) and EGR valve issues, which are common in older diesel engines. Transmission issues, particularly with the automatic, can arise but are often addressable with maintenance. Suspension components like ball joints and bushings are common wear items. Electrical gremlins, such as alternator failure and window regulator problems, are also noted. Overall, with proper maintenance and attention to these specific potential issues, the Platina can remain a functional and economical car.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

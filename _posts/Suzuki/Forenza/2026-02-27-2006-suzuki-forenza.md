@@ -54,6 +54,19 @@ The 2006 Suzuki Forenza, a compact sedan and wagon, was designed to offer practi
 - **Cost:** $700 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -118,3 +131,15 @@ The 2006 Suzuki Forenza, a compact sedan and wagon, was designed to offer practi
 --- 
 ### Summary Verdict
 The 2006 Suzuki Forenza exhibits a moderate to high level of reliability concerns, particularly in its powertrain and electrical systems. Common issues like oil and coolant leaks, transmission problems, and electrical component failures are frequently reported. While suspension and exterior/interior components can also develop issues, they are generally less critical than powertrain failures. Prospective buyers should be prepared for potential repair costs, especially concerning the engine and transmission. Regular maintenance is crucial, but even with diligent care, some owners have experienced significant and costly repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

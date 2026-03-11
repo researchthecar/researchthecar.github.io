@@ -44,6 +44,19 @@ The 2011 Suzuki Kizashi was a compact executive sedan praised for its sporty han
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -88,3 +101,15 @@ The 2011 Suzuki Kizashi was a compact executive sedan praised for its sporty han
 --- 
 ### Summary Verdict
 The 2011 Suzuki Kizashi offers a compelling driving experience, but potential buyers should be aware of a few common reliability concerns. The 2.4L engine can exhibit oil consumption and timing chain noise, while the CVT transmission may experience hesitation or shuddering. Electrical gremlins, particularly with the keyless entry and infotainment systems, have also been noted. The manual transmission and the suspension, exterior, and interior components generally appear to be more robust. Addressing these potential issues proactively can help ensure a more reliable ownership experience with the Kizashi.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

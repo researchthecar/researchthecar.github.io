@@ -42,6 +42,19 @@ The 2011 Tesla Roadster, a groundbreaking all-electric sports car, represented a
 - **Cost:** $300 - $700
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -88,3 +101,15 @@ The 2011 Tesla Roadster, a groundbreaking all-electric sports car, represented a
 --- 
 ### Summary Verdict
 The 2011 Tesla Roadster, while a pioneering electric vehicle, exhibits some reliability concerns primarily centered around its unique electric powertrain components, particularly the battery pack and inverter. These can represent significant repair costs. The 12V auxiliary battery is also a common point of failure. Other areas like suspension, exterior, and most interior components are generally reliable. Owners should be prepared for potential battery degradation and associated costs, as well as the possibility of inverter or gearbox issues. Regular diagnostics and prompt attention to warning lights are recommended.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

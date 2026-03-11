@@ -56,6 +56,19 @@ The 2020 Nissan Qashqai, a popular compact crossover, generally presents a solid
 - **Cost:** $200 - $400 (for fluid change/software), $2000 - $4000 (for repair/rebuild)
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -109,3 +122,15 @@ The 2020 Nissan Qashqai, a popular compact crossover, generally presents a solid
 --- 
 ### Summary Verdict
 The 2020 Nissan Qashqai demonstrates good overall reliability, particularly in its mechanical components like the suspension and manual transmission. The most frequently reported issues tend to be related to the petrol engine's oil consumption and turbocharger, and the diesel engine's DPF and AdBlue systems, which are common concerns for modern diesels. Electrical gremlins, primarily with the infotainment system and occasional battery drain, are also noted. The CVT transmission, while generally smooth, has had some reports of operational issues. For potential buyers, opting for a well-maintained vehicle with a comprehensive service history is advisable, especially if considering models with the CVT or diesel engine. Regular checks and prompt attention to warning lights are key to maintaining the Qashqai's reliability.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

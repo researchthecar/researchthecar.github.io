@@ -70,6 +70,19 @@ The 2010 Subaru Impreza is a compact car known for its standard all-wheel-drive 
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -135,3 +148,15 @@ The 2010 Subaru Impreza is a compact car known for its standard all-wheel-drive 
 --- 
 ### Summary Verdict
 The 2010 Subaru Impreza, particularly its performance-oriented WRX and STI models, can be a rewarding vehicle but requires attention to specific potential issues. Engine reliability, especially concerning head gaskets and, in turbocharged models, more severe internal component failures like piston rings and bearings, is a primary concern. Transmission issues are less common but can arise with clutch wear or, in performance variants, synchro wear. Suspension components like sway bar links may require replacement. Electrical issues such as window regulators and alternators are also noted. Exterior rust can be a problem in certain climates. Overall, while not plagued by widespread critical failures, proactive maintenance and awareness of these common problems are key to maintaining a 2010 Impreza.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

@@ -56,6 +56,19 @@ The 2005 Subaru Outback, known for its all-wheel-drive capability and wagon prac
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -121,3 +134,15 @@ The 2005 Subaru Outback, known for its all-wheel-drive capability and wagon prac
 --- 
 ### Summary Verdict
 The 2005 Subaru Outback is a generally reliable vehicle, especially for those valuing its AWD system and practicality. The most significant potential issue to be aware of is head gasket failure, particularly on the 2.5L engine, which can be a costly repair. Oil leaks are also common as the vehicle ages. Automatic transmission issues like harsh shifting can occur and may require significant investment. Suspension components, such as bushings and springs, may need attention due to age and mileage. Electrical gremlins and exterior paint issues are also noted. Despite these potential concerns, with proper maintenance and addressing issues promptly, the 2005 Outback can remain a dependable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

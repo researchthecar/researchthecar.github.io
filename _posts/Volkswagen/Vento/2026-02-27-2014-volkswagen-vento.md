@@ -73,6 +73,19 @@ The 2014 Volkswagen Vento, a popular compact sedan, generally offers a solid own
 - **Cost:** $1000 - $1800
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -122,3 +135,15 @@ The 2014 Volkswagen Vento, a popular compact sedan, generally offers a solid own
 --- 
 ### Summary Verdict
 The 2014 Volkswagen Vento demonstrates a generally good reliability record, particularly with its petrol engines and manual transmissions. The 1.6L MPI and 1.2L TSI engines can experience issues like ignition coil failure and timing chain wear, respectively, which are moderately costly to repair. Diesel variants, especially the 1.5L TDI, may encounter DPF and EGR valve problems, common to many modern diesels. Automatic DSG transmissions, while offering smooth shifts, can be prone to more expensive mechatronics unit or clutch pack failures. Suspension components like control arm bushings and strut mounts are typical wear items that may require attention. Electrical issues are infrequent but can include window regulators and infotainment system glitches. Overall, the Vento is a reliable choice if maintained properly, with potential buyers advised to be aware of the specific powertrain's common issues and associated repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

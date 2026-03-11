@@ -42,6 +42,19 @@ The 2018 Nissan Pathfinder is a capable three-row SUV that offers a comfortable 
 - **Cost:** $300 - $1,000 (for cooling system checks/repairs), $3,000 - $6,000 (for replacement)
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Suspension
@@ -88,3 +101,15 @@ The 2018 Nissan Pathfinder is a capable three-row SUV that offers a comfortable 
 --- 
 ### Summary Verdict
 The 2018 Nissan Pathfinder generally presents a good reliability record, especially for its powertrain and structural components. The primary area of concern for this model year revolves around the Continuously Variable Transmission (CVT), with some owners reporting issues like hesitation, jerking, or overheating, which can lead to costly repairs. Engine-related issues, such as oil and coolant leaks, are also noted but are typically less severe and more manageable. Electrical gremlins, particularly with the infotainment system and occasional battery drain, are present but not overwhelmingly common. For potential buyers, a thorough pre-purchase inspection, with a focus on the transmission's service history and performance, is highly recommended. Overall, while not immune to problems, the Pathfinder offers a solid ownership experience for many, provided potential transmission concerns are addressed.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

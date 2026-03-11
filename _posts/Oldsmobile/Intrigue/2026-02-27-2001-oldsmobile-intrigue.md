@@ -42,6 +42,19 @@ The 2001 Oldsmobile Intrigue, a mid-size sedan, aimed to blend performance and l
 - **Cost:** $600 - $2500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -100,3 +113,15 @@ The 2001 Oldsmobile Intrigue, a mid-size sedan, aimed to blend performance and l
 --- 
 ### Summary Verdict
 The 2001 Oldsmobile Intrigue presents a mixed reliability profile. The 3.5L V6 engine is generally robust but can suffer from intake manifold gasket leaks and valve cover gasket oil leaks. The 4-speed automatic transmission, while functional, is prone to torque converter shudder and shifting issues, often requiring significant repair. Suspension components like struts and ball joints can wear out, leading to ride quality and steering problems. Electrically, the Body Control Module and alternator are known failure points. Interior and exterior components are less problematic, with the HVAC blend door actuator being a notable exception. Overall, while offering a comfortable and stylish ride, potential owners should be aware of these common issues and budget for potential repairs, particularly concerning the transmission and electrical systems.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

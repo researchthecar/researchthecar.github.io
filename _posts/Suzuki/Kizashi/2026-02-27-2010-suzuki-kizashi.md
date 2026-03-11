@@ -44,6 +44,19 @@ The 2010 Suzuki Kizashi was a compact executive sedan that aimed to offer a prem
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -88,3 +101,15 @@ The 2010 Suzuki Kizashi was a compact executive sedan that aimed to offer a prem
 --- 
 ### Summary Verdict
 The 2010 Suzuki Kizashi presents a mixed reliability picture. The 2.4L engine, while generally robust, can exhibit oil consumption issues and problems with the VVT actuator. The CVT transmission is more prone to issues like hesitation and jerking, often requiring software updates or more significant repairs. The manual transmission appears to be a more reliable choice. Electrical gremlins, particularly with the infotainment and keyless entry systems, are also noted. However, the suspension, exterior, and interior components are generally considered reliable, with no widespread common failures reported. Owners should be diligent with oil level checks and be aware of potential transmission quirks.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

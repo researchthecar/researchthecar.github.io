@@ -44,6 +44,19 @@ The 2017 Subaru Crosstrek is generally recognized for its robust build and capab
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -83,3 +96,15 @@ The 2017 Subaru Crosstrek is generally recognized for its robust build and capab
 --- 
 ### Summary Verdict
 The 2017 Subaru Crosstrek presents a generally reliable profile, with its 2.0L Boxer engine and available transmissions (CVT and manual) showing a good track record. The most commonly cited technical concerns revolve around potential oil consumption and occasional CVT hesitation, though these are not universal and often manageable with maintenance or software updates. Electrical systems, particularly the infotainment, can experience minor glitches. Suspension, exterior, and interior components are largely free from widespread issues. Overall, the Crosstrek is a dependable choice for its segment, with most potential problems being minor and repairable, contributing to its positive reputation for long-term ownership.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

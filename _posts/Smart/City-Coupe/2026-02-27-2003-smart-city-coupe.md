@@ -54,6 +54,19 @@ The 2003 Smart City-Coupe, a unique microcar designed for urban environments, pr
 - **Cost:** $300 - $600
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -100,3 +113,15 @@ The 2003 Smart City-Coupe, a unique microcar designed for urban environments, pr
 --- 
 ### Summary Verdict
 The 2003 Smart City-Coupe is a niche vehicle with specific reliability concerns that owners should be aware of. The engines, particularly the petrol variant's turbocharger, and the automated manual transmission's clutch actuator are common sources of repair. Electrical gremlins, often related to the Body Control Module or parasitic battery drain, can also be problematic and costly to diagnose. While the exterior and interior generally hold up well, the powertrain and electrical systems require diligent attention. Despite these potential issues, the City-Coupe remains a popular choice for its unique urban mobility, but its long-term reliability is contingent on proactive maintenance and addressing known weak points.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

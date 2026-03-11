@@ -61,6 +61,19 @@ The 2001 Pontiac Grand Am, part of GM's G-body platform, offered a range of engi
 - **Cost:** $600 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -126,3 +139,15 @@ The 2001 Pontiac Grand Am, part of GM's G-body platform, offered a range of engi
 --- 
 ### Summary Verdict
 The 2001 Pontiac Grand Am presents a mixed reliability profile. Common issues tend to revolve around the powertrain, particularly intake manifold gasket leaks on both 4-cylinder and V6 engines, and potential transmission problems like slipping or harsh shifting with the 4T40-E automatic. Suspension components such as struts and ball joints are also prone to wear. Electrical gremlins, often linked to the BCM, and exterior rust are other areas to watch. While not inherently unreliable, prospective buyers should be aware of these potential repair costs and prioritize vehicles with well-maintained maintenance records, especially concerning the engine and transmission.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

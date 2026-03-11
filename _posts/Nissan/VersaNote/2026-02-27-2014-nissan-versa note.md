@@ -44,6 +44,19 @@ The 2014 Nissan Versa Note is a subcompact hatchback known for its fuel efficien
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front Suspension / Torsion Beam Rear Axle
@@ -83,3 +96,15 @@ The 2014 Nissan Versa Note is a subcompact hatchback known for its fuel efficien
 --- 
 ### Summary Verdict
 The 2014 Nissan Versa Note generally presents a good reliability record, particularly with its standard 1.6L engine and manual transmission. The most frequently cited concerns revolve around the Continuously Variable Transmission (CVT), which can sometimes exhibit hesitation, jerking, or overheating issues. These can range from software glitches requiring updates to more significant mechanical problems. Other systems like the suspension, electrical components, exterior, and interior are largely free from widespread technical defects. For buyers prioritizing reliability and lower running costs, the manual transmission variant is often a safer bet, while CVT owners should be aware of potential transmission-related maintenance and repair costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

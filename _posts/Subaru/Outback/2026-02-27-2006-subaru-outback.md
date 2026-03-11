@@ -56,6 +56,19 @@ The 2006 Subaru Outback, known for its all-wheel-drive capability and wagon prac
 - **Cost:** $700 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -105,3 +118,15 @@ The 2006 Subaru Outback, known for its all-wheel-drive capability and wagon prac
 --- 
 ### Summary Verdict
 The 2006 Subaru Outback is a capable vehicle with a generally good reputation for reliability, especially its AWD system. However, potential buyers and owners should be aware of common issues such as head gasket failures, particularly on the 2.5L engines, and potential transmission problems in automatic models. Turbocharged XT models add the risk of turbocharger issues. Suspension components like sway bar links and strut mounts can wear over time, and electrical gremlins such as window regulators and instrument clusters are not uncommon. Rust can also be a concern depending on the vehicle's climate exposure. Despite these points, with proper maintenance and addressing issues promptly, the 2006 Outback can remain a dependable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

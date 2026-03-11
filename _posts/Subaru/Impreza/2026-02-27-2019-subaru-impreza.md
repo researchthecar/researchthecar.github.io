@@ -49,6 +49,19 @@ The 2019 Subaru Impreza is generally considered a reliable vehicle, offering a g
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -95,3 +108,15 @@ The 2019 Subaru Impreza is generally considered a reliable vehicle, offering a g
 --- 
 ### Summary Verdict
 The 2019 Subaru Impreza is a solid choice for those seeking an affordable, AWD-equipped compact car. Its reliability is generally good, with the 2.0L Boxer engine and manual transmission proving quite robust. The CVT, while common, has seen some reports of hesitation or overheating, often addressable with software updates or maintenance. Electrical gremlins, particularly with the infotainment system and occasional battery drain, are the most frequently cited non-routine issues. Owners should be mindful of oil levels and coolant system integrity. Overall, with regular maintenance and attention to these specific points, the 2019 Impreza should provide dependable service.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

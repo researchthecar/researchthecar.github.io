@@ -37,6 +37,19 @@ The 2006 Subaru B9 Tribeca, a mid-size crossover SUV, aimed to blend Subaru's re
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -83,3 +96,15 @@ The 2006 Subaru B9 Tribeca, a mid-size crossover SUV, aimed to blend Subaru's re
 --- 
 ### Summary Verdict
 The 2006 Subaru B9 Tribeca presents a mixed reliability picture. The 3.0L H6 engine, while generally robust, is prone to head gasket leaks and rear main seal oil leaks, which can be costly repairs. Electrical issues, particularly with the Body Control Module and infotainment system, are also noted. However, the transmission, suspension, exterior, and interior components generally hold up well, with no widespread significant problems reported. Prospective buyers should factor in the potential for engine-related repairs and ensure any vehicle has a thorough pre-purchase inspection, especially focusing on the engine's cooling system and oil seals.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

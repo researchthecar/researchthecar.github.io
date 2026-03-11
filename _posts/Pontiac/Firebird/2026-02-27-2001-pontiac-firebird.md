@@ -66,6 +66,19 @@ The 2001 Pontiac Firebird, a popular choice for performance enthusiasts, offered
 - **Cost:** $150 - $300
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -126,3 +139,15 @@ The 2001 Pontiac Firebird, a popular choice for performance enthusiasts, offered
 --- 
 ### Summary Verdict
 The 2001 Pontiac Firebird, particularly with the V8 LS1 engine, is a desirable performance car with a generally solid mechanical foundation. However, common issues like intake manifold gasket leaks on the V6, exhaust manifold cracks on the V8, and potential torque converter problems in the automatic transmission are known weak points. Electrical gremlins, such as BCM malfunctions and instrument cluster issues, can also arise. Exterior components like T-top seals and headlight motors, along with interior HVAC blend doors, are also areas to monitor. Despite these potential issues, with proper maintenance and addressing these specific concerns, the Firebird can remain a reliable and enjoyable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

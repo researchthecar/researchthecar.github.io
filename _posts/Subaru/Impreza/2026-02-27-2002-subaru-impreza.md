@@ -95,6 +95,19 @@ The 2002 Subaru Impreza, particularly in its WRX and STI variants, is renowned f
 - **Cost:** $300 - $700
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -165,3 +178,15 @@ The 2002 Subaru Impreza, particularly in its WRX and STI variants, is renowned f
 --- 
 ### Summary Verdict
 The 2002 Subaru Impreza, particularly the turbocharged WRX and STI models, offers an engaging driving experience but comes with potential reliability concerns, primarily related to its performance-oriented engines. Head gasket failures and issues with piston ring lands are common, especially if the vehicle has been driven hard or not maintained meticulously. The manual transmissions are generally robust, though clutch wear is expected. Automatic transmissions can be less reliable. Suspension components like ball joints and wheel bearings may require attention over time. Electrical issues are less prevalent but can include alternator and window regulator failures. The exterior paint can suffer from clear coat degradation. Overall, while not without its quirks, the 2002 Impreza can be a reliable car with proper maintenance and awareness of its common weak points, especially for enthusiasts who understand the demands of turbocharged performance.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

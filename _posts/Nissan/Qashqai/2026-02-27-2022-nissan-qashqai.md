@@ -46,6 +46,19 @@ The 2022 Nissan Qashqai, a popular compact SUV, generally presents a solid relia
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Rear
@@ -106,3 +119,15 @@ The 2022 Nissan Qashqai, a popular compact SUV, generally presents a solid relia
 --- 
 ### Summary Verdict
 The 2022 Nissan Qashqai demonstrates good overall reliability, with no major systemic flaws reported across its primary mechanical components like the engine and transmission. The available 1.3L DIG-T petrol and 1.5L e-POWER hybrid powertrains, along with the Xtronic CVT and e-CVT transmissions, appear to be robust. Minor electrical gremlins, primarily related to the infotainment system's responsiveness, are the most commonly cited issues, typically resolvable with software updates. The suspension, exterior, and interior components are generally holding up well. Owners can expect a dependable vehicle with a focus on user experience, provided routine maintenance is followed and potential minor electrical quirks are addressed promptly.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

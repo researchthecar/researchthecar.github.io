@@ -80,6 +80,19 @@ The 2009 Volkswagen Bora, often known in some markets as the Jetta, presented a 
 - **Cost:** $800 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -134,3 +147,15 @@ The 2009 Volkswagen Bora, often known in some markets as the Jetta, presented a 
 --- 
 ### Summary Verdict
 The 2009 Volkswagen Bora offers a generally dependable ownership experience, particularly with the naturally aspirated petrol engines and manual transmissions. However, potential buyers should be aware of specific vulnerabilities. The 2.0 FSI turbo engine can be prone to timing chain issues, and diesel variants may face dual-mass flywheel wear. Automatic transmissions, while convenient, can incur significant repair costs if the mechatronic unit fails. Suspension components like control arm bushings are common wear items. Electrical gremlins, such as window regulators and ABS sensors, are also noted. Regular maintenance and addressing these known issues proactively can significantly enhance the long-term reliability and reduce ownership costs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

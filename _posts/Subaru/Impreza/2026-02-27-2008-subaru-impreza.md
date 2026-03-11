@@ -90,6 +90,19 @@ The 2008 Subaru Impreza, particularly in its WRX and STI variants, is known for 
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -155,3 +168,15 @@ The 2008 Subaru Impreza, particularly in its WRX and STI variants, is known for 
 --- 
 ### Summary Verdict
 The 2008 Subaru Impreza, especially its turbocharged WRX and STI variants, presents a mixed reliability profile. While the chassis and AWD system are generally well-regarded, the performance-oriented turbocharged engines (EJ255 and EJ257) are prone to significant issues like head gasket failure and piston ring land damage, often exacerbated by aggressive driving or inadequate maintenance. The manual transmissions, particularly the STI's 6-speed, can also develop shifting issues. Non-turbo models and automatic transmissions tend to be more reliable. Electrical components like window regulators and ABS modules can fail, and exterior paint issues are not uncommon. Owners should be aware of these potential problems and factor in maintenance and repair costs, especially for performance models.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

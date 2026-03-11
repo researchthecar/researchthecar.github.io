@@ -44,6 +44,19 @@ The 2002 Nissan Pathfinder, a popular mid-size SUV, offered a blend of off-road 
 - **Cost:** No widespread issues reported.
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -103,3 +116,15 @@ The 2002 Nissan Pathfinder, a popular mid-size SUV, offered a blend of off-road 
 --- 
 ### Summary Verdict
 The 2002 Nissan Pathfinder is a generally reliable SUV, especially with its V6 engine. However, potential owners should be aware of common issues such as timing chain tensioner problems and intake manifold gasket leaks, which can be costly to repair. The automatic transmission can also develop issues with harsh shifting or slipping over time. Suspension components like ball joints and rear springs are also known to wear. Electrical gremlins, particularly with the instrument cluster and power windows, can occur. Exterior rust, especially on the frame, is a concern in certain climates. Interior issues like HVAC blower motor failure and clogged sunroof drains are also noted. Despite these potential problems, many Pathfinders from this era continue to serve their owners well with proper maintenance and timely repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

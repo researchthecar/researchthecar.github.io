@@ -51,6 +51,19 @@ The 2006 Volkswagen Derby, a subcompact car, was known for its affordability and
 - **Cost:** $400 - $1500+
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -114,3 +127,15 @@ The 2006 Volkswagen Derby, a subcompact car, was known for its affordability and
 --- 
 ### Summary Verdict
 The 2006 Volkswagen Derby presents a mixed reliability profile. While its core mechanical components like the engine and transmission are generally robust, owners should be aware of potential issues with specific parts such as ignition coils, coolant hoses, and clutch wear on manual transmissions. Electrical components like window regulators and alternators can also be points of failure. Exterior rust, particularly in certain areas, and interior issues like HVAC blower resistors and dashboard cracking are also noted. Proactive maintenance and addressing early signs of wear can help mitigate these common problems and ensure a longer service life for the vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

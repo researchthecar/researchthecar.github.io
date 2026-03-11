@@ -46,6 +46,19 @@ The 2000 Nissan Tsubame, a compact sedan known for its fuel efficiency and pract
 - **Cost:** $300 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Independent Front/Rear
@@ -95,3 +108,15 @@ The 2000 Nissan Tsubame, a compact sedan known for its fuel efficiency and pract
 --- 
 ### Summary Verdict
 The 2000 Nissan Tsubame is a generally reliable vehicle for its age, with its most common issues stemming from age-related wear rather than fundamental design flaws. The engines are robust, but the automatic transmission can sometimes develop issues like slipping gears, requiring attention. Suspension components like ball joints and bushings are also prone to wear. Electrical gremlins, such as alternator failure and power window motor issues, are not uncommon. Exterior rust, particularly in the wheel arches, and interior issues like dashboard cracking and HVAC resistor failure are also points to consider. With diligent maintenance and addressing these potential problems proactively, the Tsubame can remain a dependable daily driver.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

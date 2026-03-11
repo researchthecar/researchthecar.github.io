@@ -32,6 +32,19 @@ The 2011 Rolls-Royce Ghost, a pinnacle of luxury and engineering, generally exhi
 - **Cost:** N/A
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Adaptive Air Suspension
@@ -90,3 +103,15 @@ The 2011 Rolls-Royce Ghost, a pinnacle of luxury and engineering, generally exhi
 --- 
 ### Summary Verdict
 The 2011 Rolls-Royce Ghost demonstrates a high level of reliability, consistent with its luxury segment positioning. The powertrain (6.6L V12 engine and 8-speed automatic transmission) is exceptionally robust, with no significant widespread issues documented. Potential concerns are primarily related to the sophisticated adaptive air suspension system, where leaks or compressor failures can occur, and minor electrical gremlins within the infotainment system or exterior lighting. Interior and exterior components, benefiting from premium materials and construction, generally hold up very well. While repairs can be costly due to the specialized nature of the vehicle, the overall mechanical and structural integrity of the Ghost is commendable for its age and class.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

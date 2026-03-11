@@ -68,6 +68,19 @@ The 2002 Suzuki Grand Vitara, a compact SUV known for its off-road capabilities 
 - **Cost:** Varies
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -127,3 +140,15 @@ The 2002 Suzuki Grand Vitara, a compact SUV known for its off-road capabilities 
 --- 
 ### Summary Verdict
 The 2002 Suzuki Grand Vitara offers a capable and often affordable entry into the compact SUV market. While its core powertrain and drivetrain are generally robust, owners should be aware of potential issues that can arise with age, particularly concerning the automatic transmission, engine gaskets (especially on V6 models), and common electrical components like the alternator. Rust can also be a concern depending on the vehicle's climate history. Proactive maintenance, especially for the timing belt on V6 engines and transmission fluid changes, is crucial for maximizing longevity. Despite these potential drawbacks, many Grand Vitaras continue to serve their owners reliably with proper care and timely repairs.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

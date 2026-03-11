@@ -83,6 +83,19 @@ The 2005 Subaru Impreza, a popular compact car, offered a range of performance a
 - **Cost:** $800 - $1500
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -153,3 +166,15 @@ The 2005 Subaru Impreza, a popular compact car, offered a range of performance a
 --- 
 ### Summary Verdict
 The 2005 Subaru Impreza, particularly the naturally aspirated models, generally offers good reliability. However, potential buyers and current owners should be aware of common issues such as head gasket failures and oil consumption, which can be costly to repair. The turbocharged WRX and STI models, while offering superior performance, are more prone to significant engine and transmission issues like ringland failure and gear grinding, especially if they have been modified or driven hard. Regular maintenance, particularly for the engine and transmission, is crucial. Addressing minor issues like suspension wear or electrical quirks promptly can prevent more significant problems down the line. Overall, with diligent care, the 2005 Impreza can remain a dependable vehicle.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

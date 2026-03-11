@@ -49,6 +49,19 @@ The 2004 Toyota MR2 Spyder, a nimble two-seater sports car, is generally recogni
 - **Cost:** $700 - $1200
 
 
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="9638790403"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Suspension
 
 ### Standard Chassis
@@ -100,3 +113,15 @@ The 2004 Toyota MR2 Spyder, a nimble two-seater sports car, is generally recogni
 --- 
 ### Summary Verdict
 The 2004 Toyota MR2 Spyder is a reliable sports car with a generally positive track record. The naturally aspirated 1.8L engine is robust, though some units may exhibit oil consumption issues that can be addressed. The manual transmission is typically trouble-free. However, the optional Sequential Manual Transmission (SMT) has known issues with its actuator and hydraulic pump, which can be costly to repair. Suspension and exterior components are generally durable, with soft top seals being a common wear item. Electrical gremlins are infrequent but can include failures in switches and motors. Overall, the MR2 Spyder offers a fun and dependable driving experience, especially with the manual gearbox, provided it has been maintained diligently.
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4434724897991713"
+     data-ad-slot="3383517018"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
