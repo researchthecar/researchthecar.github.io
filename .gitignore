@@ -14,8 +14,18 @@ _site
 node_modules
 package-lock.json
 
+# Python cache
+__pycache__/
+*.py[cod]
+
 # IDE configurations
 .idea
 
 # Misc
 assets/js/dist
+
+# Reprocessing pipeline generated data
+data/raw/
+data/normalized/
+data/rendered/
+data/reports/

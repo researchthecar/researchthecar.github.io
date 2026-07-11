@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://researchthecar.local/schemas/normalized_vehicle.schema.json",
+  "title": "Normalized Vehicle Evidence",
+  "type": "object",
+  "required": ["vehicle", "generated_at", "source_counts", "category_counts", "warnings", "raw_inputs", "evidence"],
+  "properties": {
+    "vehicle": {
+      "type": "object",
+      "required": ["year", "make", "model", "slug"],
+      "properties": {
+        "year": { "type": "integer" },
+        "make": { "type": "string", "minLength": 1 },
+        "model": { "type": "string", "minLength": 1 },
+        "slug": { "type": "string", "minLength": 1 }
+      },
+      "additionalProperties": false
+    },
+    "generated_at": { "type": "string", "format": "date-time" },
+    "source_counts": {
+      "type": "object",
+      "additionalProperties": { "type": "integer", "minimum": 0 }
+    },
+    "category_counts": {
+      "type": "object",
+      "additionalProperties": { "type": "integer", "minimum": 0 }
+    },
+    "warnings": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "raw_inputs": {
+      "type": "object",
+      "additionalProperties": { "type": "string" }
+    },
+    "evidence": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/evidence_item" }
+    }
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "evidence_item": {
+      "type": "object",
+      "required": [
+        "evidence_id",
+        "source_type",
+        "source_name",
+        "source_id",
+        "category",
+        "component",
+        "title",
+        "summary",
+        "url",
+        "retrieved_at",
+        "raw_ref",
+        "metadata"
+      ],
+      "properties": {
+        "evidence_id": { "type": "string", "minLength": 1 },
+        "source_type": { "enum": ["recall", "complaint"] },
+        "source_name": { "const": "NHTSA" },
+        "source_id": { "type": "string", "minLength": 1 },
+        "category": {
+          "enum": [
+            "engine",
+            "transmission",
+            "drivetrain",
+            "suspension",
+            "steering",
+            "brakes",
+            "electrical",
+            "interior",
+            "exterior",
+            "hvac",
+            "safety",
+            "body_paint",
+            "other"
+          ]
+        },
+        "component": { "type": "string", "minLength": 1 },
+        "title": { "type": "string", "minLength": 1 },
+        "summary": { "type": "string", "minLength": 1 },
+        "url": { "type": "string", "minLength": 1 },
+        "retrieved_at": { "type": "string", "format": "date-time" },
+        "raw_ref": { "type": "string", "minLength": 1 },
+        "metadata": { "type": "object" }
+      },
+      "additionalProperties": false
+    }
+  }
+}

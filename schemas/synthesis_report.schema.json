@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://researchthecar.local/schemas/synthesis_report.schema.json",
+  "title": "Vehicle Synthesis Report",
+  "type": "object",
+  "required": ["vehicle", "generated_at", "provider", "summary", "issues", "source_ids", "warnings"],
+  "properties": {
+    "vehicle": { "type": "object" },
+    "generated_at": { "type": "string" },
+    "provider": { "type": "string" },
+    "summary": { "type": "string", "minLength": 1 },
+    "issues": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["category", "title", "summary", "evidence_ids", "confidence"],
+        "properties": {
+          "category": { "type": "string" },
+          "title": { "type": "string", "minLength": 1 },
+          "summary": { "type": "string", "minLength": 1 },
+          "evidence_ids": {
+            "type": "array",
+            "items": { "type": "string" },
+            "minItems": 1
+          },
+          "confidence": { "enum": ["high", "medium", "low"] }
+        },
+        "additionalProperties": false
+      }
+    },
+    "source_ids": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "warnings": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "additionalProperties": false
+}
