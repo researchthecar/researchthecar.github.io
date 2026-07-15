@@ -4,6 +4,14 @@ title: 2010 Subaru Outback
 date: 2026-02-27 16:05 -0400
 categories: ["Subaru", "Outback"]
 tags: ["Subaru", "Outback", "2010"]
+vehicle_image:
+  url: "https://upload.wikimedia.org/wikipedia/commons/7/76/2010_Subaru_Outback_1_--_07-01-2009.jpg"
+  thumbnail_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/2010_Subaru_Outback_1_--_07-01-2009.jpg/960px-2010_Subaru_Outback_1_--_07-01-2009.jpg"
+  alt: "A dark blue 2010 Subaru Outback 2.5i Premium parked in a parking lot, showing its front and passenger side."
+  credit: "IFCAR"
+  license: "Public domain"
+  license_url: ""
+  source_url: "https://commons.wikimedia.org/wiki/File:2010_Subaru_Outback_1_--_07-01-2009.jpg"
 ---
 
 # 2010 Subaru Outback Reliability & Common Issues
