@@ -103,7 +103,7 @@ tail_includes:
             {% endif %}
           {% endif %}
           {% if page.vehicle_image.license %}
-            {% if page.vehicle_image.license_url %}
+            {% if page.vehicle_image.license_url and page.vehicle_image.license_url != "" %}
               <a href="{{ page.vehicle_image.license_url }}" rel="noopener noreferrer">{{ page.vehicle_image.license }}</a>
             {% else %}
               {{ page.vehicle_image.license }}
