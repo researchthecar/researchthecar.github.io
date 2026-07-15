@@ -84,6 +84,38 @@ tail_includes:
       <!-- .d-flex -->
     </div>
     <!-- .post-meta -->
+
+    {% if page.vehicle_image %}
+      <figure class="vehicle-image">
+        {% assign vehicle_image_src = page.vehicle_image.thumbnail_url | default: page.vehicle_image.url %}
+        {% if page.vehicle_image.source_url %}
+          <a href="{{ page.vehicle_image.source_url }}" rel="noopener noreferrer">
+            <img src="{{ vehicle_image_src }}" alt="{{ page.vehicle_image.alt | xml_escape }}" loading="lazy">
+          </a>
+        {% else %}
+          <img src="{{ vehicle_image_src }}" alt="{{ page.vehicle_image.alt | xml_escape }}" loading="lazy">
+        {% endif %}
+        <figcaption>
+          {% if page.vehicle_image.credit %}
+            Photo: {{ page.vehicle_image.credit }}
+            {% if page.vehicle_image.license %}
+              ·
+            {% endif %}
+          {% endif %}
+          {% if page.vehicle_image.license %}
+            {% if page.vehicle_image.license_url %}
+              <a href="{{ page.vehicle_image.license_url }}" rel="noopener noreferrer">{{ page.vehicle_image.license }}</a>
+            {% else %}
+              {{ page.vehicle_image.license }}
+            {% endif %}
+          {% endif %}
+          {% if page.vehicle_image.source_url %}
+            ·
+            <a href="{{ page.vehicle_image.source_url }}" rel="noopener noreferrer">Source</a>
+          {% endif %}
+        </figcaption>
+      </figure>
+    {% endif %}
   </header>
 
   <div class="content">
