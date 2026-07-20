@@ -16,7 +16,7 @@ vehicle_image:
 
 # 2018 Chevrolet Equinox Reliability & Common Issues
 
-### Overview
+## Overview
 
 The 2018 Chevrolet Equinox has 388 NHTSA complaint records and 5 recall records in the current evidence set. The strongest evidence clusters are: Brake Failure (Brake), Brake Failure (Engine), Engine Stalling (Engine), Fuel Pump Failure (Fuel). Complaints were grouped into 27 recurring clusters before synthesis.
 
@@ -42,6 +42,14 @@ The 2018 Chevrolet Equinox has 388 NHTSA complaint records and 5 recall records 
 - **Symptoms:** 5 NHTSA complaint records cluster around fuel pump failure for Fuel. Repeated terms include: fuel, pump, driv, warn, need. This cluster represents 5 complaint records.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
+## Transmission
+
+No significant transmission issues were identified in the current NHTSA complaint evidence for this page.
+
+## Suspension
+
+No significant suspension issues were identified in the current NHTSA complaint evidence for this page.
+
 ## Brakes
 
 ### Brake
@@ -49,6 +57,22 @@ The 2018 Chevrolet Equinox has 388 NHTSA complaint records and 5 recall records 
 **Brake Failure (Brake)**
 - **Symptoms:** 30 NHTSA complaint records cluster around brake failure for Brake. Repeated terms include: brake, vacuum, fail, pump, warn. This cluster represents 30 complaint records.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
+
+## Steering
+
+No significant steering issues were identified in the current NHTSA complaint evidence for this page.
+
+## Electrical
+
+No significant electrical issues were identified in the current NHTSA complaint evidence for this page.
+
+## Exterior
+
+No significant exterior issues were identified in the current NHTSA complaint evidence for this page.
+
+## Interior
+
+No significant interior issues were identified in the current NHTSA complaint evidence for this page.
 
 ## Safety
 
@@ -86,7 +110,7 @@ Recalls are listed separately because used vehicles may already have had recall 
 
 ---
 
-### Summary Verdict
+## Summary Verdict
 
 Based on current NHTSA evidence, this draft highlights 6 recurring issue areas from 388 complaints and 5 recalls. Review all citations before publishing.
 

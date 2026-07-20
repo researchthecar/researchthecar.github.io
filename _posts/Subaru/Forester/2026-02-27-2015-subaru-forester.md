@@ -16,7 +16,7 @@ vehicle_image:
 
 # 2015 Subaru Forester Reliability & Common Issues
 
-### Overview
+## Overview
 
 The 2015 Subaru Forester has 611 NHTSA complaint records and 3 recall records in the current evidence set. The strongest evidence clusters are: Air Bag Warning (Air Bag), Engine Stalling (Engine), Srs Warning (Air Bag), Loss Of Motive Power (Engine). Complaints were grouped into 46 recurring clusters before synthesis.
 
@@ -36,11 +36,35 @@ The 2015 Subaru Forester has 611 NHTSA complaint records and 3 recall records in
 - **Symptoms:** 8 NHTSA complaint records cluster around unintended neutral shift for Engine. Repeated terms include: engine, neutral, power, road, brake. This cluster represents 8 complaint records.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
+## Transmission
+
+No significant transmission issues were identified in the current NHTSA complaint evidence for this page.
+
+## Suspension
+
+No significant suspension issues were identified in the current NHTSA complaint evidence for this page.
+
+## Brakes
+
+No significant brakes issues were identified in the current NHTSA complaint evidence for this page.
+
+## Steering
+
+No significant steering issues were identified in the current NHTSA complaint evidence for this page.
+
 ## Electrical
 
 **Battery Drain (Electrical)**
 - **Symptoms:** 8 NHTSA complaint records cluster around battery drain for Electrical. Repeated terms include: battery, drain, problem, replac, every. This cluster represents 8 complaint records.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
+
+## Exterior
+
+No significant exterior issues were identified in the current NHTSA complaint evidence for this page.
+
+## Interior
+
+No significant interior issues were identified in the current NHTSA complaint evidence for this page.
 
 ## Safety
 
@@ -74,7 +98,7 @@ Recalls are listed separately because used vehicles may already have had recall 
 
 ---
 
-### Summary Verdict
+## Summary Verdict
 
 Based on current NHTSA evidence, this draft highlights 6 recurring issue areas from 611 complaints and 3 recalls. Review all citations before publishing.
 

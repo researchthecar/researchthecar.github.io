@@ -16,7 +16,7 @@ vehicle_image:
 
 # 2010 Subaru Outback Reliability & Common Issues
 
-### Overview
+## Overview
 
 The 2010 Subaru Outback represents the first year of the model's fourth generation, introducing a larger cabin and a redesigned platform. While it remains a popular choice for its standard all-wheel drive and utility, used-car buyers should be aware of several widely reported areas of concern. This reliability summary compiles driver complaints reported to the NHTSA. Please note that these records represent a sample of user experiences and do not guarantee that every vehicle will encounter these issues.
 
@@ -36,17 +36,7 @@ This 2.5-liter naturally aspirated SOHC boxer engine produces 170 horsepower and
 
 A 3.6-liter naturally aspirated DOHC boxer flat-six engine delivering 256 horsepower and 247 lb-ft of torque. It uses a timing chain instead of a belt and generally exhibits better long-term reliability than the 4-cylinder base engine, with far fewer reported head gasket anomalies.
 
-_No major issues reported for this configuration._
-
-### General / multiple configurations
-
-**Vacuum Leak at Brake Booster**
-- **Symptoms:** Unusual hissing sound when slowing down, loss of brake power assist requiring massive pedal pressure to slow the vehicle, engine stalling immediately after coming to a stop, and multiple warning lights (Check Engine, Traction Control, and flashing BRAKE/Cruise lights).
-- **Solution:** Replacement of the cracked plastic vacuum hose connector at the brake booster.
-
-**Engine Stalling on Deceleration**
-- **Symptoms:** The engine randomly shudders and stalls when stopping at intersections or under hard braking, with some drivers noting it occurs more frequently when the engine is warm.
-- **Solution:** Often traced to a faulty torque converter lock-up clutch within the transmission assembly.
+No significant engine issues were identified in the current NHTSA complaint evidence for this page.
 
 ## Transmission
 
@@ -83,6 +73,16 @@ A traditional six-speed manual gearbox offered on lower trims of the 2.5i model.
 
 ## Brakes
 
+### General / multiple configurations
+
+**Vacuum Leak at Brake Booster**
+- **Symptoms:** Unusual hissing sound when slowing down, loss of brake power assist requiring massive pedal pressure to slow the vehicle, engine stalling immediately after coming to a stop, and multiple warning lights (Check Engine, Traction Control, and flashing BRAKE/Cruise lights).
+- **Solution:** Replacement of the cracked plastic vacuum hose connector at the brake booster.
+
+**Engine Stalling on Deceleration**
+- **Symptoms:** The engine randomly shudders and stalls when stopping at intersections or under hard braking, with some drivers noting it occurs more frequently when the engine is warm.
+- **Solution:** Often traced to a faulty torque converter lock-up clutch within the transmission assembly.
+
 ### Brake Lines and Junctions
 
 **Catastrophic Rear Brake Line Corrosion**
@@ -115,6 +115,10 @@ A traditional six-speed manual gearbox offered on lower trims of the 2.5i model.
 
 ## Electrical
 
+No significant electrical issues were identified in the current NHTSA complaint evidence for this page.
+
+## Exterior
+
 ### Lighting Systems
 
 **Frequent Headlight Bulb Failures**
@@ -128,6 +132,10 @@ A traditional six-speed manual gearbox offered on lower trims of the 2.5i model.
 - **Symptoms:** Corrosion in the factory accessory puddle lights causes an electrical short, blowing a shared fuse and disabling the key fob, interior cabin lighting, and gauge cluster.
 - **Solution:** Replacing the puddle light assemblies or permanently disconnecting the shorted circuit.
 - **Cost:** Repairs can be quoted as high as $881 at a dealership.
+
+## Interior
+
+No significant interior issues were identified in the current NHTSA complaint evidence for this page.
 
 ## Safety
 
@@ -181,7 +189,7 @@ Recalls are listed separately because used vehicles may already have had recall 
 
 ---
 
-### Summary Verdict
+## Summary Verdict
 
 The 2010 Subaru Outback offers practical utility but carries notable safety and mechanical risks that used-car buyers must carefully evaluate. The most critical items to inspect are the rear 4-way brake line junction block for severe rust, which can cause sudden brake failure, and the front and rear subframes for structural corrosion. Buyers looking at CVT-equipped models should test-drive the vehicle extensively to ensure there is no stalling or shuddering when decelerating to a stop. Selecting a well-maintained 3.6R model or a manual transmission version can bypass the common CVT stalling issues, but any candidate vehicle should be subjected to a professional pre-purchase inspection on a lift to check for corrosion and head gasket leaks.
 

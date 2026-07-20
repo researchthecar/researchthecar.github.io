@@ -16,7 +16,7 @@ vehicle_image:
 
 # 2019 Volkswagen Jetta Reliability & Common Issues
 
-### Overview
+## Overview
 
 The 2019 Volkswagen Jetta has 537 NHTSA complaint records and 11 recall records in the current evidence set. The strongest evidence clusters are: Engine Stalling (Engine), Transmission Clutch Failure (Engine), Electrical Notification 23V604000 (Electrical), Transmission Clutch Failure (Power Train). Complaints were grouped into 39 recurring clusters before synthesis.
 
@@ -32,13 +32,19 @@ The 2019 Volkswagen Jetta has 537 NHTSA complaint records and 11 recall records 
 - **Symptoms:** 20 NHTSA complaint records cluster around transmission clutch failure for Engine. Repeated terms include: stall, clutch, stop, happen, neutral. This cluster represents 20 complaint records.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
+## Transmission
+
+### Power Train
+
+**Transmission Clutch Failure (Power Train)**
+- **Symptoms:** 6 NHTSA complaint records cluster around transmission clutch failure for Power Train. Repeated terms include: clutch, mile, happen, driv, other. This cluster represents 6 complaint records.
+- **Solution:** Review the cited NHTSA records and inspect this area before purchase.
+
 ### Power Train
 
 **Transmission Clutch Failure (Power Train)**
 - **Symptoms:** 6 NHTSA complaint records cluster around transmission clutch failure for Power Train. Repeated terms include: clutch, mile, gear, transmission, manual. This cluster represents 6 complaint records.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
-
-## Transmission
 
 ### Power Train
 
@@ -46,19 +52,35 @@ The 2019 Volkswagen Jetta has 537 NHTSA complaint records and 11 recall records 
 - **Symptoms:** 6 NHTSA complaint records cluster around transmission clutch failure for Power Train. Repeated terms include: clutch, transmission, driver, burn, manual. This cluster represents 6 complaint records.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
+## Suspension
+
+No significant suspension issues were identified in the current NHTSA complaint evidence for this page.
+
+## Brakes
+
+No significant brakes issues were identified in the current NHTSA complaint evidence for this page.
+
+## Steering
+
+No significant steering issues were identified in the current NHTSA complaint evidence for this page.
+
 ## Electrical
 
 **Electrical Notification 23V604000 (Electrical)**
 - **Symptoms:** 7 NHTSA complaint records cluster around electrical notification 23v604000 for Electrical. Repeated terms include: notification, 23v604000, electrical, however, exceed. This cluster represents 7 complaint records.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
-## Drivetrain
+## Exterior
 
-### Power Train
+No significant exterior issues were identified in the current NHTSA complaint evidence for this page.
 
-**Transmission Clutch Failure (Power Train)**
-- **Symptoms:** 6 NHTSA complaint records cluster around transmission clutch failure for Power Train. Repeated terms include: clutch, mile, happen, driv, other. This cluster represents 6 complaint records.
-- **Solution:** Review the cited NHTSA records and inspect this area before purchase.
+## Interior
+
+No significant interior issues were identified in the current NHTSA complaint evidence for this page.
+
+## Safety
+
+No significant safety issues were identified in the current NHTSA complaint evidence for this page.
 
 ---
 
@@ -100,7 +122,7 @@ Recalls are listed separately because used vehicles may already have had recall 
 
 ---
 
-### Summary Verdict
+## Summary Verdict
 
 Based on current NHTSA evidence, this draft highlights 6 recurring issue areas from 537 complaints and 11 recalls. Review all citations before publishing.
 

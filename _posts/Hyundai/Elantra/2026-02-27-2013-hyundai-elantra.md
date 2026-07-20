@@ -16,7 +16,7 @@ vehicle_image:
 
 # 2013 Hyundai Elantra Reliability & Common Issues
 
-### Overview
+## Overview
 
 The 2013 Hyundai Elantra has 1324 NHTSA complaint records and 4 recall records in the current evidence set. The strongest evidence clusters are: Brake Failure (Brake), Engine Stalling (Engine), Air Bag Warning (Air Bag), Bags Airbag Light (Air Bag). Complaints were grouped into 80 recurring clusters before synthesis.
 
@@ -28,11 +28,17 @@ The 2013 Hyundai Elantra has 1324 NHTSA complaint records and 4 recall records i
 - **Symptoms:** 36 NHTSA complaint records cluster around engine stalling for Engine. Repeated terms include: engine, stall, driv, time, light. This cluster represents 36 complaint records.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
-### Service Brakes
+## Transmission
 
-**Brake Failure (Service Brakes)**
-- **Symptoms:** 10 NHTSA complaint records cluster around brake failure for Service Brakes. Repeated terms include: brake, fire, engine, warn, however. This cluster represents 10 complaint records.
+### Power Train
+
+**Shifter Or Park Defect (Power Train)**
+- **Symptoms:** 9 NHTSA complaint records cluster around shifter or park defect for Power Train. Repeated terms include: park, shift, gear, back, time. This cluster represents 9 complaint records.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
+
+## Suspension
+
+No significant suspension issues were identified in the current NHTSA complaint evidence for this page.
 
 ## Brakes
 
@@ -42,13 +48,27 @@ The 2013 Hyundai Elantra has 1324 NHTSA complaint records and 4 recall records i
 - **Symptoms:** 118 NHTSA complaint records cluster around brake failure for Brake. Repeated terms include: brake, hydraulic, time, however, notification. This cluster represents 118 complaint records.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
-## Drivetrain
+### Service Brakes
 
-### Power Train
-
-**Shifter Or Park Defect (Power Train)**
-- **Symptoms:** 9 NHTSA complaint records cluster around shifter or park defect for Power Train. Repeated terms include: park, shift, gear, back, time. This cluster represents 9 complaint records.
+**Brake Failure (Service Brakes)**
+- **Symptoms:** 10 NHTSA complaint records cluster around brake failure for Service Brakes. Repeated terms include: brake, fire, engine, warn, however. This cluster represents 10 complaint records.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
+
+## Steering
+
+No significant steering issues were identified in the current NHTSA complaint evidence for this page.
+
+## Electrical
+
+No significant electrical issues were identified in the current NHTSA complaint evidence for this page.
+
+## Exterior
+
+No significant exterior issues were identified in the current NHTSA complaint evidence for this page.
+
+## Interior
+
+No significant interior issues were identified in the current NHTSA complaint evidence for this page.
 
 ## Safety
 
@@ -86,7 +106,7 @@ Recalls are listed separately because used vehicles may already have had recall 
 
 ---
 
-### Summary Verdict
+## Summary Verdict
 
 Based on current NHTSA evidence, this draft highlights 6 recurring issue areas from 1324 complaints and 4 recalls. Review all citations before publishing.
 
