@@ -18,18 +18,18 @@ vehicle_image:
 
 ## Overview
 
-The 2019 Volkswagen Jetta has 537 NHTSA complaint records and 11 recall records in the current evidence set. The strongest evidence clusters are: Engine Stalling (Engine), Transmission Clutch Failure (Engine), Electrical Notification 23V604000 (Electrical), Transmission Clutch Failure (Power Train). Complaints were grouped into 39 recurring clusters before synthesis.
+The 2019 Volkswagen Jetta can be a solid used-car candidate when it has been maintained well, but shoppers should go in with a clear inspection checklist. Owner complaints most often point toward Engine Stalling, Transmission Clutch Failure, and Infotainment Reboot, so the best examples are the ones with documented repairs, normal test-drive behavior, and no unresolved warning lights or repeat symptoms.
 
 ---
 
 ## Engine
 
 **Engine Stalling (Engine)**
-- **Symptoms:** 23 NHTSA complaint records cluster around engine stalling for Engine. Repeated terms include: stall, engine, start, turn, stop. This cluster represents 23 complaint records.
+- **Symptoms:** Owner reports describe engine stalling involving Engine.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 **Transmission Clutch Failure (Engine)**
-- **Symptoms:** 20 NHTSA complaint records cluster around transmission clutch failure for Engine. Repeated terms include: stall, clutch, stop, happen, neutral. This cluster represents 20 complaint records.
+- **Symptoms:** Owner reports describe transmission clutch failure involving Engine.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 ## Transmission
@@ -37,19 +37,19 @@ The 2019 Volkswagen Jetta has 537 NHTSA complaint records and 11 recall records 
 ### Power Train
 
 **Transmission Clutch Failure (Power Train)**
-- **Symptoms:** 6 NHTSA complaint records cluster around transmission clutch failure for Power Train. Repeated terms include: clutch, mile, happen, driv, other. This cluster represents 6 complaint records.
+- **Symptoms:** Owner reports describe transmission clutch failure involving Power Train.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 ### Power Train
 
 **Transmission Clutch Failure (Power Train)**
-- **Symptoms:** 6 NHTSA complaint records cluster around transmission clutch failure for Power Train. Repeated terms include: clutch, mile, gear, transmission, manual. This cluster represents 6 complaint records.
+- **Symptoms:** Owner reports describe transmission clutch failure involving Power Train.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 ### Power Train
 
 **Transmission Clutch Failure (Power Train)**
-- **Symptoms:** 6 NHTSA complaint records cluster around transmission clutch failure for Power Train. Repeated terms include: clutch, transmission, driver, burn, manual. This cluster represents 6 complaint records.
+- **Symptoms:** Owner reports describe transmission clutch failure involving Power Train.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 ## Suspension
@@ -66,8 +66,8 @@ No significant steering issues were identified in the current NHTSA complaint ev
 
 ## Electrical
 
-**Electrical Notification 23V604000 (Electrical)**
-- **Symptoms:** 7 NHTSA complaint records cluster around electrical notification 23v604000 for Electrical. Repeated terms include: notification, 23v604000, electrical, however, exceed. This cluster represents 7 complaint records.
+**Infotainment Reboot (Electrical)**
+- **Symptoms:** Owner reports describe infotainment reboot involving Electrical.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 ## Exterior
@@ -124,11 +124,11 @@ Recalls are listed separately because used vehicles may already have had recall 
 
 ## Summary Verdict
 
-Based on current NHTSA evidence, this draft highlights 6 recurring issue areas from 537 complaints and 11 recalls. Review all citations before publishing.
+The 2019 Volkswagen Jetta is not automatically a vehicle to avoid, but it rewards careful shopping. Prioritize examples with service records and a clean inspection, and pay close attention to Engine Stalling, Transmission Clutch Failure, and Infotainment Reboot during the test drive and pre-purchase inspection. If those areas check out and any open recalls have been completed by VIN, the vehicle is easier to evaluate on its overall condition rather than on model-year reputation alone.
 
 ## Sources
 
 | Source | Records cited | Link |
 | --- | ---: | --- |
-| NHTSA complaints | 41 | [Open source](https://api.nhtsa.gov/complaints/complaintsByVehicle?make=Volkswagen&model=Jetta&modelYear=2019) |
+| NHTSA complaints | 39 | [Open source](https://api.nhtsa.gov/complaints/complaintsByVehicle?make=Volkswagen&model=Jetta&modelYear=2019) |
 | NHTSA recalls | 8 | [Open source](https://api.nhtsa.gov/recalls/recallsByVehicle?make=Volkswagen&model=Jetta&modelYear=2019) |

@@ -18,14 +18,14 @@ vehicle_image:
 
 ## Overview
 
-The 2013 Hyundai Elantra has 1324 NHTSA complaint records and 4 recall records in the current evidence set. The strongest evidence clusters are: Brake Failure (Brake), Engine Stalling (Engine), Air Bag Warning (Air Bag), Bags Airbag Light (Air Bag). Complaints were grouped into 80 recurring clusters before synthesis.
+The 2013 Hyundai Elantra can be a solid used-car candidate when it has been maintained well, but shoppers should go in with a clear inspection checklist. Owner complaints most often point toward Engine Stalling, Air Bag Warning, Bags Airbag Light, and Brake Failure, so the best examples are the ones with documented repairs, normal test-drive behavior, and no unresolved warning lights or repeat symptoms.
 
 ---
 
 ## Engine
 
 **Engine Stalling (Engine)**
-- **Symptoms:** 36 NHTSA complaint records cluster around engine stalling for Engine. Repeated terms include: engine, stall, driv, time, light. This cluster represents 36 complaint records.
+- **Symptoms:** Owner reports describe engine stalling involving Engine.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 ## Transmission
@@ -33,7 +33,7 @@ The 2013 Hyundai Elantra has 1324 NHTSA complaint records and 4 recall records i
 ### Power Train
 
 **Shifter Or Park Defect (Power Train)**
-- **Symptoms:** 9 NHTSA complaint records cluster around shifter or park defect for Power Train. Repeated terms include: park, shift, gear, back, time. This cluster represents 9 complaint records.
+- **Symptoms:** Owner reports describe shifter or park defect involving Power Train.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 ## Suspension
@@ -42,16 +42,10 @@ No significant suspension issues were identified in the current NHTSA complaint 
 
 ## Brakes
 
-### Brake
-
-**Brake Failure (Brake)**
-- **Symptoms:** 118 NHTSA complaint records cluster around brake failure for Brake. Repeated terms include: brake, hydraulic, time, however, notification. This cluster represents 118 complaint records.
-- **Solution:** Review the cited NHTSA records and inspect this area before purchase.
-
 ### Service Brakes
 
 **Brake Failure (Service Brakes)**
-- **Symptoms:** 10 NHTSA complaint records cluster around brake failure for Service Brakes. Repeated terms include: brake, fire, engine, warn, however. This cluster represents 10 complaint records.
+- **Symptoms:** Owner reports describe brake failure involving Service Brakes.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 ## Steering
@@ -75,11 +69,15 @@ No significant interior issues were identified in the current NHTSA complaint ev
 ### Air Bag
 
 **Air Bag Warning (Air Bag)**
-- **Symptoms:** 23 NHTSA complaint records cluster around air bag warning for Air Bag. Repeated terms include: airbag, light, warn, safety, deploy. This cluster represents 23 complaint records.
+- **Symptoms:** Owner reports describe air bag warning involving Air Bag.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 **Bags Airbag Light (Air Bag)**
-- **Symptoms:** 12 NHTSA complaint records cluster around bags airbag light for Air Bag. Repeated terms include: airbag, light, come, should, stay. This cluster represents 12 complaint records.
+- **Symptoms:** Owner reports describe bags airbag light involving Air Bag.
+- **Solution:** Review the cited NHTSA records and inspect this area before purchase.
+
+**Seat Belt Issue (Air Bag)**
+- **Symptoms:** Owner reports describe seat belt issue involving Air Bag.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 ---
@@ -108,7 +106,7 @@ Recalls are listed separately because used vehicles may already have had recall 
 
 ## Summary Verdict
 
-Based on current NHTSA evidence, this draft highlights 6 recurring issue areas from 1324 complaints and 4 recalls. Review all citations before publishing.
+The 2013 Hyundai Elantra is not automatically a vehicle to avoid, but it rewards careful shopping. Prioritize examples with service records and a clean inspection, and pay close attention to Engine Stalling, Air Bag Warning, and Bags Airbag Light during the test drive and pre-purchase inspection. If those areas check out and any open recalls have been completed by VIN, the vehicle is easier to evaluate on its overall condition rather than on model-year reputation alone.
 
 ## Sources
 

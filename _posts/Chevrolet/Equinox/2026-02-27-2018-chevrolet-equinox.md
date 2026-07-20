@@ -18,28 +18,28 @@ vehicle_image:
 
 ## Overview
 
-The 2018 Chevrolet Equinox has 388 NHTSA complaint records and 5 recall records in the current evidence set. The strongest evidence clusters are: Brake Failure (Brake), Brake Failure (Engine), Engine Stalling (Engine), Fuel Pump Failure (Fuel). Complaints were grouped into 27 recurring clusters before synthesis.
+The 2018 Chevrolet Equinox can be a solid used-car candidate when it has been maintained well, but shoppers should go in with a clear inspection checklist. Owner complaints most often point toward Brake Failure, Engine Stalling, Fuel Pump Failure, and Seat Belt Issue, so the best examples are the ones with documented repairs, normal test-drive behavior, and no unresolved warning lights or repeat symptoms.
 
 ---
 
 ## Engine
 
 **Brake Failure (Engine)**
-- **Symptoms:** 20 NHTSA complaint records cluster around brake failure for Engine. Repeated terms include: brake, engine, pump, vacuum, fail. This cluster represents 20 complaint records.
+- **Symptoms:** Owner reports describe brake failure involving Engine.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 **Engine Stalling (Engine)**
-- **Symptoms:** 6 NHTSA complaint records cluster around engine stalling for Engine. Repeated terms include: engine, pressure, driv, customer, stall. This cluster represents 6 complaint records.
+- **Symptoms:** Owner reports describe engine stalling involving Engine.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 **Coolant Leak (Engine)**
-- **Symptoms:** 4 NHTSA complaint records cluster around coolant leak for Engine. Repeated terms include: engine, leak, coolant, display, tpms. This cluster represents 4 complaint records.
+- **Symptoms:** Owner reports describe coolant leak involving Engine.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 ### Fuel
 
 **Fuel Pump Failure (Fuel)**
-- **Symptoms:** 5 NHTSA complaint records cluster around fuel pump failure for Fuel. Repeated terms include: fuel, pump, driv, warn, need. This cluster represents 5 complaint records.
+- **Symptoms:** Owner reports describe fuel pump failure involving Fuel.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 ## Transmission
@@ -55,7 +55,7 @@ No significant suspension issues were identified in the current NHTSA complaint 
 ### Brake
 
 **Brake Failure (Brake)**
-- **Symptoms:** 30 NHTSA complaint records cluster around brake failure for Brake. Repeated terms include: brake, vacuum, fail, pump, warn. This cluster represents 30 complaint records.
+- **Symptoms:** Owner reports describe brake failure involving Brake.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 ## Steering
@@ -79,7 +79,7 @@ No significant interior issues were identified in the current NHTSA complaint ev
 ### Seat Belt
 
 **Seat Belt Issue (Seat Belt)**
-- **Symptoms:** 5 NHTSA complaint records cluster around seat belt issue for Seat Belt. Repeated terms include: belt, seat, shoulder, strap, neck. This cluster represents 5 complaint records.
+- **Symptoms:** Owner reports describe seat belt issue involving Seat Belt.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 ---
@@ -112,7 +112,7 @@ Recalls are listed separately because used vehicles may already have had recall 
 
 ## Summary Verdict
 
-Based on current NHTSA evidence, this draft highlights 6 recurring issue areas from 388 complaints and 5 recalls. Review all citations before publishing.
+The 2018 Chevrolet Equinox is not automatically a vehicle to avoid, but it rewards careful shopping. Prioritize examples with service records and a clean inspection, and pay close attention to Brake Failure, Engine Stalling, and Fuel Pump Failure during the test drive and pre-purchase inspection. If those areas check out and any open recalls have been completed by VIN, the vehicle is easier to evaluate on its overall condition rather than on model-year reputation alone.
 
 ## Sources
 

@@ -18,22 +18,22 @@ vehicle_image:
 
 ## Overview
 
-The 2015 Subaru Forester has 611 NHTSA complaint records and 3 recall records in the current evidence set. The strongest evidence clusters are: Air Bag Warning (Air Bag), Engine Stalling (Engine), Srs Warning (Air Bag), Loss Of Motive Power (Engine). Complaints were grouped into 46 recurring clusters before synthesis.
+The 2015 Subaru Forester can be a solid used-car candidate when it has been maintained well, but shoppers should go in with a clear inspection checklist. Owner complaints most often point toward Air Bag Warning, Engine Stalling, SRS Warning, and Loss Of Motive Power, so the best examples are the ones with documented repairs, normal test-drive behavior, and no unresolved warning lights or repeat symptoms.
 
 ---
 
 ## Engine
 
 **Engine Stalling (Engine)**
-- **Symptoms:** 21 NHTSA complaint records cluster around engine stalling for Engine. Repeated terms include: stall, engine, start, will, driv. This cluster represents 21 complaint records.
+- **Symptoms:** Owner reports describe engine stalling involving Engine.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 **Loss Of Motive Power (Engine)**
-- **Symptoms:** 9 NHTSA complaint records cluster around loss of motive power for Engine. Repeated terms include: power, loss, mile, problem, driv. This cluster represents 9 complaint records.
+- **Symptoms:** Owner reports describe loss of motive power involving Engine.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 **Unintended Neutral Shift (Engine)**
-- **Symptoms:** 8 NHTSA complaint records cluster around unintended neutral shift for Engine. Repeated terms include: engine, neutral, power, road, brake. This cluster represents 8 complaint records.
+- **Symptoms:** Owner reports describe unintended neutral shift involving Engine.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 ## Transmission
@@ -55,7 +55,7 @@ No significant steering issues were identified in the current NHTSA complaint ev
 ## Electrical
 
 **Battery Drain (Electrical)**
-- **Symptoms:** 8 NHTSA complaint records cluster around battery drain for Electrical. Repeated terms include: battery, drain, problem, replac, every. This cluster represents 8 complaint records.
+- **Symptoms:** Owner reports describe battery drain involving Electrical.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 ## Exterior
@@ -71,11 +71,11 @@ No significant interior issues were identified in the current NHTSA complaint ev
 ### Air Bag
 
 **Air Bag Warning (Air Bag)**
-- **Symptoms:** 32 NHTSA complaint records cluster around air bag warning for Air Bag. Repeated terms include: passenger, seat, airbag, warn, light. This cluster represents 32 complaint records.
+- **Symptoms:** Owner reports describe air bag warning involving Air Bag.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 **Srs Warning (Air Bag)**
-- **Symptoms:** 11 NHTSA complaint records cluster around srs warning for Air Bag. Repeated terms include: passenger, seat, airbag, light, sensor. This cluster represents 11 complaint records.
+- **Symptoms:** Owner reports describe srs warning involving Air Bag.
 - **Solution:** Review the cited NHTSA records and inspect this area before purchase.
 
 ---
@@ -100,7 +100,7 @@ Recalls are listed separately because used vehicles may already have had recall 
 
 ## Summary Verdict
 
-Based on current NHTSA evidence, this draft highlights 6 recurring issue areas from 611 complaints and 3 recalls. Review all citations before publishing.
+The 2015 Subaru Forester is not automatically a vehicle to avoid, but it rewards careful shopping. Prioritize examples with service records and a clean inspection, and pay close attention to Air Bag Warning, Engine Stalling, and SRS Warning during the test drive and pre-purchase inspection. If those areas check out and any open recalls have been completed by VIN, the vehicle is easier to evaluate on its overall condition rather than on model-year reputation alone.
 
 ## Sources
 
