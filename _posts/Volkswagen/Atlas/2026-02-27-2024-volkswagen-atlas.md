@@ -40,10 +40,6 @@ The 2024 Volkswagen Atlas has been the subject of numerous owner reports submitt
 - **Symptoms:** The transmission staying stuck in third gear when slowing down or going uphill, stalling at highway speeds, or displaying a transmission error on the monitor and refusing to shift out of Park.
 - **Solution:** Dealerships have attempted transmission replacements and software diagnostics, though some owners report the shifting problems returned post-replacement.
 
-## Suspension
-
-No significant suspension issues were identified in the current NHTSA complaint evidence for this page.
-
 ## Brakes
 
 ### Braking System
@@ -93,10 +89,6 @@ No significant suspension issues were identified in the current NHTSA complaint 
 **Snapped Hood Release Cable**
 - **Symptoms:** The interior hood release cable snapping under normal pressure, rendering the owner unable to open the hood to jump-start a dead battery or perform maintenance.
 - **Solution:** Replacement of the hood release cable mechanism.
-
-## Interior
-
-No significant interior issues were identified in the current NHTSA complaint evidence for this page.
 
 ## Safety
 

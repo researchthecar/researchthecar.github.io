@@ -36,8 +36,6 @@ This 2.5-liter naturally aspirated SOHC boxer engine produces 170 horsepower and
 
 A 3.6-liter naturally aspirated DOHC boxer flat-six engine delivering 256 horsepower and 247 lb-ft of torque. It uses a timing chain instead of a belt and generally exhibits better long-term reliability than the 4-cylinder base engine, with far fewer reported head gasket anomalies.
 
-No significant engine issues were identified in the current NHTSA complaint evidence for this page.
-
 ## Transmission
 
 ### Lineartronic CVT
@@ -113,10 +111,6 @@ A traditional six-speed manual gearbox offered on lower trims of the 2.5i model.
 - **Symptoms:** Sudden loss of steering assist followed by a rattling noise behind the steering wheel or visual fluid leaks under the engine bay.
 - **Solution:** Replacement of the corroded power steering lines.
 
-## Electrical
-
-No significant electrical issues were identified in the current NHTSA complaint evidence for this page.
-
 ## Exterior
 
 ### Lighting Systems
@@ -132,10 +126,6 @@ No significant electrical issues were identified in the current NHTSA complaint 
 - **Symptoms:** Corrosion in the factory accessory puddle lights causes an electrical short, blowing a shared fuse and disabling the key fob, interior cabin lighting, and gauge cluster.
 - **Solution:** Replacing the puddle light assemblies or permanently disconnecting the shorted circuit.
 - **Cost:** Repairs can be quoted as high as $881 at a dealership.
-
-## Interior
-
-No significant interior issues were identified in the current NHTSA complaint evidence for this page.
 
 ## Safety
 
