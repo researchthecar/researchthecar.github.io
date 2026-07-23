@@ -116,7 +116,7 @@ The 2021 Audi Q5 Sportback, a stylish and practical take on the popular Q5 SUV, 
 
 --- 
 ### Summary Verdict
-The 2021 Audi Q5 Sportback demonstrates solid reliability, particularly in its powertrain (2.0L Turbo engine and 7-speed S tronic transmission), which shows no significant widespread issues. The primary areas where owners might encounter problems are with the optional Adaptive Air Suspension, which can experience compressor failures or air spring leaks, and occasional minor electrical gremlins like infotainment system glitches or battery drain. These are not universal, but are the most commonly cited non-wear-and-tear issues. Overall, the Q5 Sportback is a dependable choice, with most potential problems being manageable and not indicative of systemic flaws.
+The 2021 Audi Q5 Sportback demonstrates solid reliability, particularly in its powertrain (2.0L Turbo engine and 7-speed S tronic transmission), which shows no significant widespread issues. The primary areas where owners might encounter problems are with the optional Adaptive Air Suspension, which can experience compressor failures or air spring leaks, and occasional minor electrical issues like infotainment system glitches or battery drain. These are not universal, but are the most commonly cited non-wear-and-tear issues. Overall, the Q5 Sportback is a dependable choice, with most potential problems being manageable and not indicative of systemic flaws.
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
      crossorigin="anonymous"></script>

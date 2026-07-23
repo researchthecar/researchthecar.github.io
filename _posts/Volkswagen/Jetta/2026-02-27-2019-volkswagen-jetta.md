@@ -1,17 +1,9 @@
 ---
 layout: post
-title: 2019 Volkswagen Jetta
+title: "2019 Volkswagen Jetta"
 date: 2026-02-27 16:09 -0400
 categories: ["Volkswagen", "Jetta"]
 tags: ["Volkswagen", "Jetta", "2019"]
-vehicle_image:
-  url: "https://upload.wikimedia.org/wikipedia/commons/a/aa/2019_Volkswagen_Jetta_1.4T_R-Line_in_Haba%C3%B1ero_Orange_Metallic%2C_front_right.jpg"
-  thumbnail_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/2019_Volkswagen_Jetta_1.4T_R-Line_in_Haba%C3%B1ero_Orange_Metallic%2C_front_right.jpg/960px-2019_Volkswagen_Jetta_1.4T_R-Line_in_Haba%C3%B1ero_Orange_Metallic%2C_front_right.jpg"
-  alt: "A front three-quarter exterior view of a 2019 Volkswagen Jetta R-Line in Habanero Orange Metallic."
-  credit: "Mr.choppers"
-  license: "CC BY-SA 3.0"
-  license_url: "https://creativecommons.org/licenses/by-sa/3.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:2019_Volkswagen_Jetta_1.4T_R-Line_in_Haba%C3%B1ero_Orange_Metallic,_front_right.jpg"
 ---
 
 # 2019 Volkswagen Jetta Reliability & Common Issues

@@ -96,7 +96,7 @@ _No major issues reported for this configuration._
 
 --- 
 ### Summary Verdict
-The 2012 Lamborghini Aventador, while a marvel of engineering, presents potential reliability concerns primarily in its complex powertrain and suspension systems. Owners should be aware of possible issues with the ISR transmission's clutch actuator and hydraulic system, as well as leaks or failures in the adaptive dampers. Electrical gremlins, particularly with the infotainment system and parasitic battery drain, can also occur. The iconic scissor doors may require attention to their opening and closing mechanisms. While the V12 engine itself is robust, associated cooling and oil systems require diligent monitoring. Regular, specialized maintenance is crucial for mitigating these potential issues and ensuring the longevity of this exotic supercar.
+The 2012 Lamborghini Aventador, while a marvel of engineering, presents potential reliability concerns primarily in its complex powertrain and suspension systems. Owners should be aware of possible issues with the ISR transmission's clutch actuator and hydraulic system, as well as leaks or failures in the adaptive dampers. electrical issues, particularly with the infotainment system and parasitic battery drain, can also occur. The iconic scissor doors may require attention to their opening and closing mechanisms. While the V12 engine itself is robust, associated cooling and oil systems require diligent monitoring. Regular, specialized maintenance is crucial for mitigating these potential issues and ensuring the longevity of this exotic supercar.
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
      crossorigin="anonymous"></script>

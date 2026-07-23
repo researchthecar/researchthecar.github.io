@@ -102,7 +102,7 @@ The 2013 Mitsubishi ASX, also known as the Outlander Sport in some markets, is a
 
 --- 
 ### Summary Verdict
-The 2013 Mitsubishi ASX is generally considered a reliable vehicle, particularly its powertrain with the 2.0L and 2.4L engines. The main areas of concern tend to be the CVT transmission, which can experience issues like overheating or fluid leaks, and some minor electrical gremlins, such as infotainment system glitches or occasional battery drain. Suspension and exterior/interior components are typically robust. For potential buyers, a thorough inspection of the CVT and its maintenance history is recommended. Overall, with proper maintenance and attention to potential CVT issues, the 2013 ASX can be a dependable compact SUV.
+The 2013 Mitsubishi ASX is generally considered a reliable vehicle, particularly its powertrain with the 2.0L and 2.4L engines. The main areas of concern tend to be the CVT transmission, which can experience issues like overheating or fluid leaks, and some minor electrical issues, such as infotainment system glitches or occasional battery drain. Suspension and exterior/interior components are typically robust. For potential buyers, a thorough inspection of the CVT and its maintenance history is recommended. Overall, with proper maintenance and attention to potential CVT issues, the 2013 ASX can be a dependable compact SUV.
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4434724897991713"
      crossorigin="anonymous"></script>

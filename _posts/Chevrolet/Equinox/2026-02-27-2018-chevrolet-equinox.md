@@ -1,17 +1,9 @@
 ---
 layout: post
-title: 2018 Chevrolet Equinox
-date: 2026-02-27 15:14 -0400
+title: "2018 Chevrolet Equinox"
+date: 2026-02-27 16:09 -0400
 categories: ["Chevrolet", "Equinox"]
 tags: ["Chevrolet", "Equinox", "2018"]
-vehicle_image:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/bb/2018_Chevrolet_Equinox_LT%2C_front_3.24.19.jpg"
-  thumbnail_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/2018_Chevrolet_Equinox_LT%2C_front_3.24.19.jpg/960px-2018_Chevrolet_Equinox_LT%2C_front_3.24.19.jpg"
-  alt: "A red 2018 Chevrolet Equinox LT crossover SUV, shown from a front three-quarter angle in a parking lot."
-  credit: "Kevauto"
-  license: "CC BY-SA 4.0"
-  license_url: "https://creativecommons.org/licenses/by-sa/4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:2018_Chevrolet_Equinox_LT,_front_3.24.19.jpg"
 ---
 
 # 2018 Chevrolet Equinox Reliability & Common Issues

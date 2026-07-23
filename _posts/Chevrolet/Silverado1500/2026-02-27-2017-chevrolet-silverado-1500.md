@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2017 Chevrolet Silverado 1500
+title: "2017 Chevrolet Silverado 1500"
 date: 2026-02-27 16:09 -0400
 categories: ["Chevrolet", "Silverado 1500"]
 tags: ["Chevrolet", "Silverado 1500", "2017"]

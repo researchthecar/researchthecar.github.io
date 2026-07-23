@@ -1,17 +1,9 @@
 ---
 layout: post
-title: 2024 Volkswagen Atlas
+title: "2024 Volkswagen Atlas"
 date: 2026-02-27 16:09 -0400
 categories: ["Volkswagen", "Atlas"]
 tags: ["Volkswagen", "Atlas", "2024"]
-vehicle_image:
-  url: "https://upload.wikimedia.org/wikipedia/commons/b/be/2024_Volkswagen_Atlas_Execline_in_Oryx_White_Pearl%2C_Front_Right%2C_10-01-2023.jpg"
-  thumbnail_url: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/2024_Volkswagen_Atlas_Execline_in_Oryx_White_Pearl%2C_Front_Right%2C_10-01-2023.jpg/960px-2024_Volkswagen_Atlas_Execline_in_Oryx_White_Pearl%2C_Front_Right%2C_10-01-2023.jpg"
-  alt: "A front three-quarter view of a white 2024 Volkswagen Atlas Execline parked in a dealership lot."
-  credit: "Elise240SX"
-  license: "CC BY-SA 4.0"
-  license_url: "https://creativecommons.org/licenses/by-sa/4.0"
-  source_url: "https://commons.wikimedia.org/wiki/File:2024_Volkswagen_Atlas_Execline_in_Oryx_White_Pearl,_Front_Right,_10-01-2023.jpg"
 ---
 
 # 2024 Volkswagen Atlas Reliability & Common Issues
