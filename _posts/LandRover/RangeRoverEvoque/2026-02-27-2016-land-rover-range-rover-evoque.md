@@ -10,21 +10,46 @@ tags: ["Land Rover", "Range Rover Evoque", "2016"]
 
 ## Overview
 
-The 2016 Land Rover Range Rover Evoque blends striking luxury styling with capable off-road credentials. For used car buyers, examining the powertrain options and staying attentive to owner-reported issues will help ensure a satisfying ownership experience.
+When shopping for a used 2016 Land Rover Range Rover Evoque, prospective buyers will find a stylish luxury compact SUV that combines eye-catching design with turbocharged performance. However, used car shoppers should perform a thorough inspection, as owner reports point to potential areas of concern regarding steering assist, water intrusion, and electrical performance.
 
 ---
 
 ## Engine
 
-### 2.0L Turbocharged Inline-4
+### 2.0L Turbocharged I4
 
-This 2.0-liter turbocharged four-cylinder engine produces approximately 240 horsepower and 250 lb-ft of torque. It provides brisk acceleration for city and highway driving, though buyers should verify regular maintenance history.
+This 2.0-liter turbocharged four-cylinder engine produces around 240 horsepower, providing brisk acceleration for daily driving. Regular maintenance and prompt attention to turbo or cooling system upkeep are vital to keeping this powerplant trouble-free.
+
+**Turbocharger Under Boost and Exhaust Leaks**
+- **Symptoms:** Illuminated check engine light accompanied by diagnostic trouble codes for turbo under boost, along with exhaust fumes entering the cabin.
+- **Solution:** Inspect turbocharger plumbing, wastegate operation, and exhaust connections for leaks or component failure, and replace faulty parts.
 
 ## Transmission
 
-### 9-Speed ZF Automatic Transmission
+### 9-Speed Automatic
 
-The 9-speed automatic transmission is paired standard with all-wheel drive, offering optimized cruising efficiency. Buyers should test drive thoroughly to ensure smooth shifting behavior across all gears.
+The nine-speed automatic transmission delivers power smoothly across a wide gear range to optimize highway efficiency. Buyers should test drive thoroughly to ensure crisp, hesitation-free gear shifts.
+
+## Steering
+
+### Electric Power Steering
+
+Issues related to electronic power assist can temporarily reduce steering maneuverability.
+
+**Loss of Power Steering Assist**
+- **Symptoms:** Sudden loss of power steering functionality while driving, making the steering wheel exceptionally heavy to turn, occasionally accompanied by grinding noises.
+- **Solution:** Inspect the steering rack, assist motor, and retention hardware for corrosion or mechanical separation, and replace damaged steering assemblies as necessary.
+
+## Exterior
+
+### Windshield and Roof Sealing
+
+Exterior weather stripping and window seals require periodic checks to prevent water entry.
+
+**Cabin Water Leaks**
+- **Symptoms:** Water intrusion entering the cabin around the rearview mirror or passenger-side headliner during heavy rain or car washes, dampening interior pillars and floor mats.
+- **Solution:** Re-seal or replace the windshield gasket and roof seals to prevent moisture from entering the cabin and threatening electronics.
+- **Cost:** $2,000
 
 ---
 
@@ -40,10 +65,11 @@ Recalls are listed separately because used vehicles may already have had recall 
 
 ## Summary Verdict
 
-When shopping for a used 2016 Land Rover Range Rover Evoque, prioritizing a well-documented service history is key. Conduct a thorough inspection of the engine and transmission performance before finalizing your purchase.
+The 2016 Land Rover Range Rover Evoque offers luxury appointments and engaging driving dynamics, but potential buyers should exercise caution. Key areas to inspect include the condition of the windshield seals for water leaks, the steering assist hardware, and turbocharger performance. A comprehensive pre-purchase inspection by a knowledgeable mechanic is strongly recommended.
 
 ## Sources
 
 | Source | Records cited | Link |
 | --- | ---: | --- |
+| NHTSA complaints | 8 | [Open source](https://api.nhtsa.gov/products/vehicle/models?modelYear=2016&make=Land+Rover&issueType=c) |
 | NHTSA recalls | 1 | [Open source](https://api.nhtsa.gov/recalls/recallsByVehicle?make=Land+Rover&model=Range+Rover+Evoque&modelYear=2016) |

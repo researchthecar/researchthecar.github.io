@@ -10,29 +10,49 @@ tags: ["Mercedes-Benz", "Sprinter 3500", "2021"]
 
 ## Overview
 
-The 2021 Mercedes-Benz Sprinter 3500 serves as a heavy-duty commercial workhorse, offering robust capability for hauling and upfitting. Prospective used buyers should evaluate both available diesel powertrain options to ensure they meet payload and towing demands. While commercial platforms often accumulate high mileage and varied maintenance histories, reviewing known powertrain specifications and keeping up with routine service remains essential for long-term reliability.
+When shopping for a used 2021 Mercedes-Benz Sprinter 3500, buyers will find a heavy-duty commercial van built for intensive hauling and conversion work. While these vans offer robust utility and advanced features, prospective owners should review available vehicle history and address any pending manufacturer campaigns before purchase.
 
 ---
 
 ## Engine
 
-### 2.0L Turbocharged Inline-4 Diesel
+### 2.0L Turbocharged I4
 
-A 2.0-liter turbocharged inline-4 diesel engine producing approximately 161 horsepower and 295 lb-ft of torque. This lighter-duty diesel option provides efficient operation for urban delivery and lighter commercial applications.
+A 2.0-liter turbocharged gasoline engine providing standard power for lighter-duty commercial applications. It offers adequate around-town responsiveness but is less common for heavy RV upfits compared to the diesel alternatives.
 
-### 3.0L V6 Turbocharged Diesel
+### 3.0L Turbo Diesel V6
 
-A 3.0-liter V6 turbocharged diesel engine delivering around 188 horsepower and 324 lb-ft of torque. Known for strong low-end pulling power, this engine is well-suited for heavy hauling and extensive upfitted commercial builds.
+A 3.0-liter turbo diesel V6 producing around 188 horsepower and 325 lb-ft of torque, paired commonly with a 7-speed automatic transmission. It is a workhorse powertrain well-suited for heavy hauling, though occasional electronic throttle or fuel delivery quirks have been reported by owners.
+
+**Periodic Acceleration Hesitation**
+- **Symptoms:** Drivers experience a sudden lack of acceleration or a dead pedal sensation when trying to advance from a stopped position, with the van barely crawling forward.
+- **Solution:** Have a qualified technician inspect the throttle body, accelerator pedal sensor, and engine management software for faults.
 
 ## Transmission
 
-### 9-Speed Automatic Transmission
+### 7-Speed Automatic
 
-A 9-speed automatic transmission paired with the 4-cylinder diesel engine, offering smooth gear selection and optimized highway efficiency. Regular fluid maintenance is recommended to ensure sustained longevity under heavy loads.
+A multi-speed automatic transmission designed to optimize highway cruising and load management with the diesel engine. Regular fluid maintenance is key to long-term operational health.
 
-### 7-Speed G-Tronic Automatic Transmission
+## Suspension
 
-A 7-speed automatic transmission matched with the V6 diesel engine, delivering dependable power transfer across demanding commercial duty cycles. Proper servicing helps prevent premature wear in high-mileage fleet operations.
+### Front Suspension
+
+The front suspension handles the substantial gross vehicle weight rating of the 3500 platform, though specific assembly components have been subject to quality recall oversight.
+
+**Torsion Bar Assembly Concerns**
+- **Symptoms:** Owners have received notices regarding incorrect assembly of the torsion bar, requiring dealer inspection and remedy parts.
+- **Solution:** Verify with a dealer that all suspension-related manufacturer campaigns have been properly performed.
+
+## Safety
+
+### Air Bags
+
+Occupant protection systems feature advanced multi-stage airbags, though sensor or software faults can occasionally trigger warning lights.
+
+**Driver's Side Air Bag Warning**
+- **Symptoms:** A dashboard warning message indicating that the driver's side air bag has been deactivated.
+- **Solution:** Take the vehicle to an authorized dealer to diagnose the SRS sensor or wiring harness fault.
 
 ---
 
@@ -76,10 +96,11 @@ Recalls are listed separately because used vehicles may already have had recall 
 
 ## Summary Verdict
 
-The 2021 Mercedes-Benz Sprinter 3500 is a capable and configurable platform for heavy-duty commercial needs. Used buyers should thoroughly inspect the service history, verify the condition of the chosen diesel engine and transmission, and ensure the vehicle has not been subjected to severe commercial abuse prior to purchase.
+The 2021 Mercedes-Benz Sprinter 3500 is a highly capable commercial platform, but buyers should perform a thorough inspection and verify that all open safety campaigns have been resolved. Paying close attention to powertrain responsiveness and electrical warnings during a test drive will help ensure a reliable ownership experience.
 
 ## Sources
 
 | Source | Records cited | Link |
 | --- | ---: | --- |
+| NHTSA complaints | 5 | [Open source](https://api.nhtsa.gov/products/vehicle/models?modelYear=2021&make=Mercedes-Benz&issueType=c) |
 | NHTSA recalls | 8 | [Open source](https://api.nhtsa.gov/recalls/recallsByVehicle?make=Mercedes-Benz&model=Sprinter+3500&modelYear=2021) |

@@ -10,21 +10,45 @@ tags: ["Mercedes-Benz", "Metris", "2019"]
 
 ## Overview
 
-The 2019 Mercedes-Benz Metris is a versatile mid-size van designed to bridge the gap between compact cargo haulers and full-size commercial vans. For prospective used-car buyers, it offers practical utility and European driving dynamics, though shoppers should carefully evaluate the condition of its powertrain and electronics before purchasing.
+The 2019 Mercedes-Benz Metris offers practical utility and capability for cargo and passenger transport needs. While it serves as a versatile work vehicle, used-car buyers should review potential engine management and equipment concerns reported by owners to ensure a thorough inspection before purchase.
 
 ---
 
 ## Engine
 
-### 2.0L Turbocharged Inline-4
+### 2.0L Turbocharged I4
 
-This 2.0-liter turbocharged inline-4 engine produces approximately 208 horsepower and 258 lb-ft of torque. It provides adequate power for hauling and city driving, though buyers should ensure consistent maintenance histories.
+The 2.0L turbocharged inline-four engine delivers reliable everyday power suited for commercial duties. Buyers should verify proper engine management operation during a pre-purchase test drive.
+
+**PCV Regulator Valve Failure**
+- **Symptoms:** Illuminated check engine light accompanied by diagnostic trouble code P052E.
+- **Solution:** Replace the faulty positive crankcase ventilation regulator valve and associated components.
 
 ## Transmission
 
-### 7-Speed Automatic Transmission
+### 7-Speed Automatic
 
-Equipped with a 7-speed automatic transmission driving the rear wheels, this setup is designed for smooth highway cruising and load management. Routine fluid changes are vital for long-term durability.
+The 7-speed automatic transmission provides smooth gear shifts tailored for commercial cargo and passenger hauling. Regular fluid maintenance is recommended to ensure long-term durability.
+
+## Suspension
+
+### Tires
+
+Suspension and tire components handle substantial loads, making routine inspection essential for safety.
+
+**Tire Tread or Inflation Concerns**
+- **Symptoms:** Unexpected tire degradation or pressure loss during highway driving.
+- **Solution:** Inspect tires regularly for wear and adhere to recommended replacement schedules.
+
+## Electrical
+
+### Electronic Stability Control
+
+Advanced safety features assist with vehicle stability under challenging driving conditions.
+
+**Crosswind Assist Activation**
+- **Symptoms:** Unexpected engagement of the stability control system during strong crosswinds or uneven road dips.
+- **Solution:** Have the vehicle's electronic stability control sensors and software inspected by a qualified technician if handling anomalies occur.
 
 ---
 
@@ -68,10 +92,11 @@ Recalls are listed separately because used vehicles may already have had recall 
 
 ## Summary Verdict
 
-The 2019 Mercedes-Benz Metris is a capable commercial or passenger van option for buyers needing a smaller footprint than a full-size Sprinter. While major complaint trends are minimal, thorough pre-purchase inspections of the engine and transmission are always recommended.
+The 2019 Mercedes-Benz Metris remains a capable choice for buyers needing a dedicated commercial or passenger van. A comprehensive pre-purchase inspection focusing on the engine management systems and suspension condition will help ensure a dependable ownership experience.
 
 ## Sources
 
 | Source | Records cited | Link |
 | --- | ---: | --- |
+| NHTSA complaints | 5 | [Open source](https://api.nhtsa.gov/products/vehicle/models?modelYear=2019&make=Mercedes-Benz&issueType=c) |
 | NHTSA recalls | 8 | [Open source](https://api.nhtsa.gov/recalls/recallsByVehicle?make=Mercedes-Benz&model=Metris&modelYear=2019) |

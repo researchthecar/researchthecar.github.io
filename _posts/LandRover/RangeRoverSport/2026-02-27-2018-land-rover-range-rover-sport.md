@@ -10,33 +10,53 @@ tags: ["Land Rover", "Range Rover Sport", "2018"]
 
 ## Overview
 
-The 2018 Land Rover Range Rover Sport blends luxurious interior appointments with exceptional capability and a commanding presence. Used-car buyers looking at this model will find a range of sophisticated powertrain options, though luxury European utility vehicles of this era demand careful attention to maintenance history and electronic complexity.
+The 2018 Land Rover Range Rover Sport blends luxury, off-road capability, and commanding performance, but potential buyers should approach used models with care. While it offers a refined driving experience and powerful engine options, owner feedback highlights certain recurring mechanical and electronic vulnerabilities that require attention during a pre-purchase inspection.
 
 ---
 
 ## Engine
 
-### 2.0L Turbocharged Inline-4 PHEV (P400e)
-
-A 2.0-liter turbocharged plug-in hybrid four-cylinder engine generating around 398 horsepower combined, offering electric efficiency paired with traditional utility performance. Reliability requires diligent maintenance of both the hybrid battery systems and forced-induction components.
-
 ### 3.0L Supercharged V6
 
-A 3.0-liter supercharged V6 engine producing between 340 and 380 horsepower, delivering strong acceleration across all rev ranges. It is a widely used powerplant in the lineup, though routine checks for coolant leaks and supercharger snout wear are advised.
+The 3.0-liter supercharged V6 produces robust horsepower and strong low-end torque for dynamic acceleration. Buyers should closely inspect the cooling system, as plastic components in this engine family are known to degrade over time.
 
-### 3.0L Turbo Diesel V6
-
-A 3.0-liter turbocharged diesel V6 providing roughly 254 horsepower and robust low-end torque well-suited for towing. Buyers should ensure regular servicing of emissions equipment and fuel systems to maintain long-term dependability.
+**Coolant Leaks and Overheating**
+- **Symptoms:** Drivers report unexpected low coolant warning lights, sometimes accompanied by a fast ticking noise, leading to engine overheating.
+- **Solution:** Inspect plastic coolant pipes and crossover components near the supercharger for leaks; replace damaged components immediately to prevent serious engine damage.
 
 ### 5.0L Supercharged V8
 
-A high-performance 5.0-liter supercharged V8 engine pushing out 518 to 575 horsepower for dynamic, rapid acceleration. While thrilling, this powerplant requires meticulous service records and premium fuel to prevent timing chain and cooling complications.
+The high-performance 5.0-liter supercharged V8 delivers exhilarating acceleration and high towing capability. Routine maintenance and vigilant monitoring of fluid levels are vital to keeping this complex powerplant reliable.
+
+### 3.0L Turbocharged V6 Diesel
+
+The 3.0-liter turbocharged diesel V6 offers high torque and impressive fuel economy for long-distance cruising. Prospective owners should verify proper emissions and fuel system maintenance history.
 
 ## Transmission
 
-### 8-Speed ZF Automatic Transmission
+### 8-Speed Automatic
 
-An 8-speed automatic transmission paired across all engine options, delivering smooth, responsive shifts and optimized fuel economy. This unit is generally robust, though periodic fluid changes support longevity in high-torque applications.
+The ZF 8-speed automatic transmission shifts smoothly and pairs well with all available powerplants. It generally proves dependable, provided regular fluid changes are performed.
+
+## Electrical
+
+### Infotainment and Control Screens
+
+Electrical architecture controls major cabin and driver-assist features, with infotainment screen glitches being a common owner grievance.
+
+**Center Screen Failure**
+- **Symptoms:** The dual-touchscreen control center modules intermittently go blank, causing a temporary loss of access to climate controls, vehicle settings, and safety camera displays.
+- **Solution:** Check for software updates or faulty display modules that may require dealership reprogramming or replacement.
+
+## Exterior
+
+### Door Latches and Mechanisms
+
+Cabin appointments are exceptionally luxurious, though convenience features like powered door assists require careful operational habits.
+
+**Soft-Close Door Pinch Hazard**
+- **Symptoms:** The soft-close door mechanism engages automatically when the latch catches, presenting a risk of hand entrapment if a door is pushed by wind while exiting.
+- **Solution:** Exercise caution when opening and exiting doors in windy conditions, and ensure passengers are aware of the automatic latching feature.
 
 ---
 
@@ -68,10 +88,11 @@ Recalls are listed separately because used vehicles may already have had recall 
 
 ## Summary Verdict
 
-The 2018 Land Rover Range Rover Sport offers impressive luxury and performance versatility through its diverse engine options. Prospective buyers should prioritize models with comprehensive service histories and conduct a thorough pre-purchase inspection to verify mechanical and electronic health before buying.
+The 2018 Land Rover Range Rover Sport rewards its owner with unmatched prestige and capability, but it demands thorough vetting before purchase. Buyers should prioritize a professional inspection focusing on the cooling system and electronic interfaces to avoid unexpected repair bills down the road.
 
 ## Sources
 
 | Source | Records cited | Link |
 | --- | ---: | --- |
+| NHTSA complaints | 8 | [Open source](https://api.nhtsa.gov/products/vehicle/models?modelYear=2018&make=Land+Rover&issueType=c) |
 | NHTSA recalls | 5 | [Open source](https://api.nhtsa.gov/recalls/recallsByVehicle?make=Land+Rover&model=Range+Rover+Sport&modelYear=2018) |

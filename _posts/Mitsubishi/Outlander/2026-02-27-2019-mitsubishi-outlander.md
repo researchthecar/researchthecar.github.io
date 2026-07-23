@@ -10,76 +10,68 @@ tags: ["Mitsubishi", "Outlander", "2019"]
 
 ## Overview
 
-When shopping for a used 2019 Mitsubishi Outlander, prospective buyers will find a practical, family-friendly crossover that offers affordable three-row seating. However, owner reports highlight several recurring mechanical and electrical concerns to watch out for during a pre-purchase inspection.
+The 2019 Mitsubishi Outlander is a practical, value-focused three-row crossover offering flexible seating and available all-wheel drive. While it provides budget-friendly family transport, prospective used buyers should thoroughly inspect the vehicle's powertrain history and electrical accessories before purchasing.
 
 ---
 
 ## Engine
 
-### 2.4L 4-Cylinder
+### 2.4L I4
 
-The 2.4-liter naturally aspirated four-cylinder engine produces approximately 166 horsepower and is paired with a continuously variable transmission. It provides adequate fuel economy for daily commuting, though acceleration is leisurely.
+The 2.4-liter naturally aspirated four-cylinder engine produces 166 horsepower and 162 lb-ft of torque, paired with a continuously variable transmission. It offers adequate efficiency for daily commuting but can feel underpowered when carrying a full load of passengers.
 
-**Acceleration Hesitation**
-- **Symptoms:** The vehicle may exhibit a noticeable drag or delay when pressing the gas pedal, taking off very slowly.
-- **Solution:** Inspect the throttle body, fuel system, and engine control modules for faults.
+**Engine Stalling and Acceleration Lag**
+- **Symptoms:** Drivers report occasional engine stalling, hesitation, or a sluggish response when pressing the accelerator pedal.
+- **Solution:** Diagnose electronic throttle body, fuel system components, and engine control module software.
 
 ### 3.0L V6
 
-The 3.0-liter V6 engine generates around 224 horsepower and comes mated to a traditional 6-speed automatic transmission. It offers stronger towing capability and smoother power delivery compared to the base four-cylinder option.
+The 3.0-liter V6 engine generates 224 horsepower and 215 lb-ft of torque, mated to a traditional 6-speed automatic transmission and all-wheel drive. This upgraded powerplant provides stronger acceleration and towing capability compared to the base four-cylinder.
 
 ## Transmission
 
-### Continuously Variable Transmission (CVT)
+### CVT
 
-This CVT pairs exclusively with the 2.4-liter engine and front-wheel or all-wheel drive, requiring diligent fluid maintenance for long-term durability.
+The continuously variable transmission is paired with four-cylinder models and front-wheel or all-wheel drive. Buyers should verify regular fluid maintenance intervals to ensure longevity.
 
-**Transmission Overheating and Failure**
-- **Symptoms:** The vehicle may display transmission overheating warnings and suddenly stop driving while on the road.
-- **Solution:** Have the transmission fluid condition checked and diagnostic trouble codes scanned by a qualified technician.
+**Transmission Overheating and Slippage**
+- **Symptoms:** Warning messages regarding transmission overheating may appear on the dash, accompanied by sudden loss of motive power or unexpected RPM surges.
+- **Solution:** Check transmission fluid condition and level, inspect fluid coolers, and update control modules or replace faulty transmission assemblies as needed.
 
-### 6-Speed Automatic Transmission
+### 6-Speed Automatic
 
-This conventional 6-speed automatic is paired with the V6 engine, offering a more traditional shifting feel for drivers who prefer geared transmissions.
-
-**Shift Hesitation**
-- **Symptoms:** Drivers may experience hesitation when engaging drive or reverse, accompanied by RPM fluctuations.
-- **Solution:** Check transmission software calibration and fluid levels.
+The conventional 6-speed automatic transmission comes exclusively with V6-powered trims. It offers smooth, traditional shifting dynamics for drivers seeking an alternative to continuously variable units.
 
 ## Brakes
 
-### Brake Calipers and Parking Brake
+### Parking Brake
 
-Brake system complaints generally point toward premature component wear or electronic parking brake sensor malfunctions.
+Braking components generally perform well, though electronic parking brake module glitches require attention if warning lights appear.
 
-**Parking Brake Lockup**
-- **Symptoms:** The electronic parking brake may engage and lock up unexpectedly.
-- **Solution:** Replace the faulty parking brake switch or actuator module.
-- **Cost:** $400 for the part
+**Electronic Parking Brake Failure**
+- **Symptoms:** The parking brake may lock up unexpectedly or fail to engage, triggering warning lights on the instrument cluster.
+- **Solution:** Inspect and replace the parking brake switch, actuator motor, or associated control module.
+- **Cost:** $400 for parts
 
-**Front Caliper Rattling**
-- **Symptoms:** A rattling noise emanates from the front brakes when driving over minor road bumps or cracks.
-- **Solution:** Inspect and replace worn brake calipers or slide pins.
+## Exterior
 
-## Electrical
+### Headlights and Lighting
 
-### Headlights and Electrical System
+Electrical accessories are generally reliable, though isolated reports indicate intermittent lighting and fuse box issues.
 
-Electrical concerns are typically minor, though sporadic lighting and accessory glitches have been reported by owners.
+**Headlight Premature Burnout**
+- **Symptoms:** Headlights fail repeatedly or go out simultaneously due to electrical fluctuations or loose fuses.
+- **Solution:** Inspect headlight wiring harnesses, fuses, and sockets; replace damaged bulbs or connectors.
 
-**Premature Headlight Burnout**
-- **Symptoms:** Headlights fail repeatedly or go out completely at the same time during operation.
-- **Solution:** Check headlight wiring harnesses, fuses, and voltage regulators for underlying electrical resistance.
+## Safety
 
-## Interior
+### Seat Belts
 
-### Front Seats
+Safety restraint systems provide standard protection, but buyers should test all seat belt latches during a pre-purchase inspection.
 
-Interior components are generally durable, but physical wear on driver's seat adjusters can occur over time.
-
-**Seat-Back Slippage and Loose Base**
-- **Symptoms:** The driver's seat rocks on its base or slowly tilts backward on its own while driving.
-- **Solution:** Inspect the seat track mechanisms and reclining gears for mechanical wear.
+**Seat Belt Latch Issues**
+- **Symptoms:** Seat belt buckles may fail to lock securely or stick during normal operation.
+- **Solution:** Inspect seat belt assemblies and replace faulty buckle mechanisms.
 
 ---
 
@@ -111,11 +103,11 @@ Recalls are listed separately because used vehicles may already have had recall 
 
 ## Summary Verdict
 
-The 2019 Mitsubishi Outlander is an appealing budget-friendly choice for buyers needing three-row versatility, but careful vetting is recommended. Be sure to thoroughly test drive both the engine and transmission options, verify all electrical accessories work properly, and check for any outstanding safety recalls before finalizing a purchase.
+The 2019 Mitsubishi Outlander is an affordable choice for buyers needing three rows of seating, but it warrants a careful inspection. Pay close attention to CVT transmission health, electronic parking brake operation, and any signs of hesitation or stalling during a test drive.
 
 ## Sources
 
 | Source | Records cited | Link |
 | --- | ---: | --- |
-| NHTSA complaints | 8 | [Open source](https://api.nhtsa.gov/complaints/complaintsByVehicle?make=Mitsubishi&model=Outlander&modelYear=2019) |
+| NHTSA complaints | 10 | [Open source](https://api.nhtsa.gov/products/vehicle/models?modelYear=2019&make=Mitsubishi&issueType=c) |
 | NHTSA recalls | 5 | [Open source](https://api.nhtsa.gov/recalls/recallsByVehicle?make=Mitsubishi&model=Outlander&modelYear=2019) |

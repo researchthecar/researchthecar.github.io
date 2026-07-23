@@ -10,21 +10,45 @@ tags: ["Land Rover", "Discovery Sport", "2017"]
 
 ## Overview
 
-The 2017 Land Rover Discovery Sport offers luxury, distinctive styling, and capable off-road performance in a compact footprint. Buyers exploring the used market should review overall maintenance history and powertrain options carefully to ensure a smooth ownership experience.
+When shopping for a used luxury compact SUV, understanding common ownership pain points can help you avoid unexpected repair bills. This review highlights key areas to watch out for based on driver-reported data, helping you make an informed decision when evaluating a pre-owned model.
 
 ---
 
 ## Engine
 
-### 2.0L Turbocharged Inline-4
+### 2.0L Turbocharged I4
 
-A 2.0-liter turbocharged four-cylinder engine producing approximately 240 horsepower and 250 lb-ft of torque. It provides brisk acceleration for daily driving, though routine maintenance is crucial for long-term longevity.
+The 2.0-liter turbocharged inline-four engine delivers punchy performance suitable for daily driving, but buyers should carefully verify maintenance history and listen for timing chain noise during inspection.
+
+**Engine Stalling and Loss of Motive Power**
+- **Symptoms:** Drivers have reported unexpected engine stalling while driving at various speeds, accompanied by warning lights and a sudden loss of motive power.
+- **Solution:** Diagnostic evaluation by a qualified technician is required to identify the root cause, which may involve timing chain inspection, electrical checks, or fuel system service.
 
 ## Transmission
 
-### 9-Speed Automatic Transmission
+### 9-Speed Automatic
 
-A nine-speed automatic transmission paired with standard four-wheel drive. It offers smooth highway cruising, though buyers should verify shift quality during a test drive.
+The 9-speed automatic transmission provides smooth highway cruising and efficiency, though proper fluid maintenance is essential for longevity.
+
+## Electrical
+
+### Electrical and Infotainment Systems
+
+Cabin electronics and wiring harnesses require careful inspection for signs of moisture intrusion, particularly around the front glass and roof panels.
+
+**Water Intrusion and Electrical Glitches**
+- **Symptoms:** Water leaks originating around the windshield can drip into the cabin or dashboard, leading to erratic electrical behavior, dashboard warning lights, and computer malfunctions.
+- **Solution:** Inspect and reseal windshield weatherstripping and cabin seals; replace any damaged control modules if water damage has occurred.
+
+## Exterior
+
+### Door Latches and Hardware
+
+Interior build quality is generally premium, though physical latches and seat mechanisms warrant thorough testing during a pre-purchase inspection.
+
+**Door Latch Malfunction**
+- **Symptoms:** Doors may fail to latch securely when closed or can unexpectedly unlatch while the vehicle is in motion, creating a serious safety hazard.
+- **Solution:** Inspect and replace faulty door latch assemblies or locking mechanisms as needed.
 
 ---
 
@@ -44,10 +68,11 @@ Recalls are listed separately because used vehicles may already have had recall 
 
 ## Summary Verdict
 
-When shopping for a used 2017 Land Rover Discovery Sport, prioritize models with documented service records and thorough pre-purchase inspections. Careful evaluation of the vehicle's condition will help secure a reliable and enjoyable luxury compact SUV.
+A pre-owned luxury SUV offers plenty of style and capability, but thorough diligence is recommended before finalizing a purchase. Prioritize models with documented service histories, and ensure a professional inspection checks for engine health, timing chain integrity, and any signs of past water leaks.
 
 ## Sources
 
 | Source | Records cited | Link |
 | --- | ---: | --- |
+| NHTSA complaints | 9 | [Open source](https://api.nhtsa.gov/products/vehicle/models?modelYear=2017&make=Land+Rover&issueType=c) |
 | NHTSA recalls | 2 | [Open source](https://api.nhtsa.gov/recalls/recallsByVehicle?make=Land+Rover&model=Discovery+Sport&modelYear=2017) |

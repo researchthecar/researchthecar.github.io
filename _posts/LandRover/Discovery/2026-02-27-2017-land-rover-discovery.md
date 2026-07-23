@@ -10,25 +10,57 @@ tags: ["Land Rover", "Discovery", "2017"]
 
 ## Overview
 
-The 2017 Land Rover Discovery combines legendary off-road capability with a luxurious, highly versatile interior. Prospective used-car buyers should, however, approach this model with caution, as owner reports indicate potential areas of concern across powertrain and electronic systems that warrant thorough pre-purchase inspections.
+When shopping for a used Land Rover Discovery, buyers should weigh its impressive capability and luxury appointments against a notable history of mechanical and electrical vulnerabilities. Owner feedback highlights several critical areas requiring attention, particularly concerning engine longevity, complex electrical systems, and cabin water intrusion. Careful pre-purchase inspections and a thorough review of maintenance records are strongly recommended before committing to a purchase.
 
 ---
 
 ## Engine
 
-### 3.0L Supercharged V6 Gas
+### 3.0L Supercharged V6
 
-This 3.0-liter supercharged gasoline engine produces around 340 horsepower and 332 lb-ft of torque, offering brisk acceleration. It is generally robust when maintained properly, though routine monitoring of cooling and supercharger components is advised for used buyers.
+The 3.0-liter supercharged V6 engine delivers robust performance with strong horsepower and torque ratings, providing eager acceleration for this large SUV. However, buyers should carefully evaluate engine health and maintenance history due to documented reports of timing chain wear and unexpected stalling.
 
-### 3.0L Td6 Turbocharged V6 Diesel
+**Engine Stalling and Loss of Motive Power**
+- **Symptoms:** The vehicle may unexpectedly stall while driving at various speeds or experience a sudden loss of engine power, often accompanied by warning lights on the dashboard.
+- **Solution:** Diagnostic testing by a qualified technician is required to identify the root cause, which may involve sensor replacements, software updates, or mechanical repairs.
 
-The 3.0-liter turbocharged diesel engine delivers approximately 254 horsepower and an impressive 443 lb-ft of torque, maximizing low-end pulling power and fuel efficiency. Buyers should verify proper emissions system maintenance and diesel particulate filter health.
+**Timing Chain Failure**
+- **Symptoms:** Drivers may experience sudden catastrophic engine failure or hear severe rattling noises originating from the front of the engine bay due to a broken timing chain.
+- **Solution:** Requires extensive engine repair or a complete engine replacement depending on the severity of internal component damage.
+
+### 3.0L Turbocharged Diesel V6
+
+The 3.0-liter turbocharged diesel V6 offers high torque output and improved fuel efficiency, making it well-suited for towing and long-distance cruising. Routine maintenance and thorough inspections are advised to ensure proper emission system and turbocharger operation.
 
 ## Transmission
 
 ### 8-Speed Automatic
 
-This ZF 8-speed automatic transmission is paired with standard four-wheel drive across all trims, delivering smooth, responsive gear changes. It has a generally favorable reputation for durability, provided transmission fluid changes are kept up to date.
+The 8-speed automatic transmission provides smooth, prompt gear changes that complement the vehicle's powertrain options across various driving conditions. While generally capable, owners have occasionally reported electronic transmission locking and warning faults.
+
+**Transmission Locking and Limp Mode**
+- **Symptoms:** The transmission may suddenly lock up, display gearbox fault warnings, or cause the vehicle to enter a restricted performance limp mode.
+- **Solution:** Have the transmission control module and fluid inspected by a specialist; repairs may involve software reflashing, component replacement, or electrical troubleshooting.
+
+## Exterior
+
+### Door Latches and Hardware
+
+Interior components and seating mechanisms generally offer high-end comfort and versatility, though mechanical latch assemblies require verification for proper security.
+
+**Door Latch and Lock Failures**
+- **Symptoms:** Vehicle doors may fail to latch properly when closed or can unexpectedly unlatch and open while the vehicle is in motion.
+- **Solution:** Inspect and replace faulty door latch assemblies, internal cables, or locking actuators.
+
+## Interior
+
+### Cabin Electronics and Water Intrusion
+
+The electrical architecture controls numerous comfort and convenience features, but owners have noted susceptibility to moisture intrusion around the windshield area that can disrupt vital electronic modules.
+
+**Windshield Leaks Causing Electrical Malfunctions**
+- **Symptoms:** Water leaks from the upper front windshield area into the cabin, leading to computer module failures, erratic gauge behavior, and dashboard electrical gremlins.
+- **Solution:** Reseal or replace the windshield and inspect, dry, or replace affected interior electrical control modules and wiring harnesses.
 
 ---
 
@@ -52,10 +84,11 @@ Recalls are listed separately because used vehicles may already have had recall 
 
 ## Summary Verdict
 
-When shopping for a used 2017 Land Rover Discovery, prioritize models with documented service histories and perform a comprehensive inspection focusing on electronics and drivetrain components. While it offers unmatched luxury and utility, budgeting for potential unexpected maintenance can help ensure a more rewarding ownership experience.
+The Discovery offers exceptional luxury, advanced off-road capability, and a spacious cabin, but prospective buyers must approach with caution. Due to reported risks involving engine timing components, electrical glitches stemming from moisture leaks, and transmission electronic faults, securing a comprehensive pre-purchase inspection by a knowledgeable specialist is essential. Reviewing detailed service history will help mitigate potential ownership surprises.
 
 ## Sources
 
 | Source | Records cited | Link |
 | --- | ---: | --- |
+| NHTSA complaints | 13 | [Open source](https://api.nhtsa.gov/products/vehicle/models?modelYear=2017&make=Land+Rover&issueType=c) |
 | NHTSA recalls | 3 | [Open source](https://api.nhtsa.gov/recalls/recallsByVehicle?make=Land+Rover&model=Discovery&modelYear=2017) |

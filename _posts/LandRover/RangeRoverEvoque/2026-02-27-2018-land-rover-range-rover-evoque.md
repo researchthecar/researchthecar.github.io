@@ -10,25 +10,49 @@ tags: ["Land Rover", "Range Rover Evoque", "2018"]
 
 ## Overview
 
-The 2018 Land Rover Range Rover Evoque blends distinct luxury style and capable performance into a compact luxury SUV package. For used-car buyers, evaluating powertrain options and checking electronic systems are essential steps prior to purchase, as owner feedback highlights various accessory and electrical concerns.
+When shopping for a used 2018 Land Rover Range Rover Evoque, prospective buyers will find a stylish and capable luxury compact SUV. However, reviewing owner-submitted complaints helps highlight potential trouble spots regarding electronics, powertrain behavior, and exterior components.
 
 ---
 
 ## Engine
 
-### 2.0L Turbocharged Inline-4 Gas (237 hp)
+### 2.0L Turbocharged I4
 
-This 2.0-liter turbocharged four-cylinder engine produces approximately 237 horsepower and 251 lb-ft of torque. It provides responsive acceleration for daily driving, though proper maintenance history is vital for long-term turbocharger health.
+The 2.0-liter turbocharged four-cylinder engine provides lively performance suitable for city and highway driving. Buyers should inspect the engine bay thoroughly and check for any history of intermittent stalling or cooling system anomalies.
 
-### 2.0L Turbocharged Inline-4 High-Output Gas (286 hp)
-
-This high-output variant of the 2.0-liter turbocharged four-cylinder engine generates around 286 horsepower and 295 lb-ft of torque. It offers a more spirited driving experience but requires diligent upkeep to maintain optimal reliability.
+**Engine Stalling and Loss of Power**
+- **Symptoms:** Vehicle may randomly shut off in traffic accompanied by warning beeps, or experience unexpected loss of power while driving.
+- **Solution:** Have a qualified technician diagnose fuel, electrical, and powertrain control modules to identify the root cause of the stall.
 
 ## Transmission
 
-### 9-Speed Automatic Transmission
+### 9-Speed Automatic
 
-The 9-speed automatic transmission pairs with standard all-wheel drive across the lineup to optimize highway efficiency and power delivery. Buyers should test-drive thoroughly to ensure smooth shifting across all gear ratios.
+The nine-speed automatic transmission delivers smooth gear shifts and maximizes highway efficiency. Buyers should test all gear selections and ensure the electronic rotary shifter operates reliably.
+
+**Transmission Dial Disengagement**
+- **Symptoms:** The electronic gear selector dial may disengage while driving, leaving the vehicle undrivable.
+- **Solution:** Inspect the transmission shifter module and software calibrations for faults or updating needs.
+
+## Electrical
+
+### Back Over Prevention
+
+Safety features like the backup camera should be thoroughly tested during a pre-purchase inspection to ensure clear visibility.
+
+**Rearview Camera Failure**
+- **Symptoms:** Water intrusion can cause the backup camera to become completely inoperable and fail to display images on the screen.
+- **Solution:** Replace the rearview camera assembly and ensure proper weather sealing to prevent future moisture buildup.
+
+## Exterior
+
+### Windshield Sealing
+
+Electrical and body sealing components require careful inspection during a used car test drive to catch moisture intrusion early.
+
+**Windshield Water Leaks**
+- **Symptoms:** Water may leak past the front windshield seals into the cabin interior, potentially leading to damp carpets and mold growth.
+- **Solution:** Check windshield seals and have the windshield professionally re-sealed or replaced if leaks are detected.
 
 ---
 
@@ -48,10 +72,11 @@ Recalls are listed separately because used vehicles may already have had recall 
 
 ## Summary Verdict
 
-When shopping for a used 2018 Land Rover Range Rover Evoque, prioritizing a comprehensive mechanical inspection and verifying a detailed service history will help mitigate potential ownership risks. While the SUV offers striking design and strong performance, checking all electrical accessories and powertrain functions is strongly recommended.
+The 2018 Land Rover Range Rover Evoque offers luxury and distinctive styling, but potential buyers should conduct a thorough pre-purchase inspection. Paying close attention to electrical seals, camera functionality, and powertrain operation will help ensure a more confident ownership experience.
 
 ## Sources
 
 | Source | Records cited | Link |
 | --- | ---: | --- |
+| NHTSA complaints | 8 | [Open source](https://api.nhtsa.gov/products/vehicle/models?modelYear=2018&make=Land+Rover&issueType=c) |
 | NHTSA recalls | 2 | [Open source](https://api.nhtsa.gov/recalls/recallsByVehicle?make=Land+Rover&model=Range+Rover+Evoque&modelYear=2018) |

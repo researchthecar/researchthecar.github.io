@@ -10,25 +10,43 @@ tags: ["Land Rover", "Range Rover", "2022"]
 
 ## Overview
 
-The 2022 Land Rover Range Rover represents the dawn of a fully redesigned generation, blending high-end luxury with advanced technological features and robust powertrain options. As a first-model-year luxury flagship vehicle, prospective used buyers should weigh its striking capability and opulent interior against the typical complexities associated with entirely new electronic architectures and sophisticated mechanical systems.
+The 2022 Land Rover Range Rover represents a high-end luxury flagship with impressive capability and advanced onboard technology. While offering supreme comfort and potent powertrain choices, prospective buyers should approach the used market with careful attention to vehicle history. Early model-year ownership feedback highlights certain electronic glitches, powertrain sensor concerns, and accessory faults that warrant a thorough pre-purchase inspection.
 
 ---
 
 ## Engine
 
-### 3.0L Turbocharged Inline-6 MHEV
+### 3.0L Turbocharged I6
 
-This mild-hybrid inline-6 engine produces approximately 395 horsepower and 406 lb-ft of torque. It offers smooth power delivery and serves as the baseline powerplant for the lineup, generally balancing refinement with everyday driveability.
+A smooth turbocharged inline-six engine delivering robust horsepower and torque, serving as a core modern powerplant for the flagship SUV. It generally provides strong performance, though proper maintenance and cooling system vigilance are essential.
+
+**Coolant Leaks and Gasket Failures**
+- **Symptoms:** Owners have reported unexpected engine coolant leaks, low coolant warning messages, or internal gasket failures such as issues with the Continuously Variable Valve Lift (CVVL) gasket leading to starting failures.
+- **Solution:** Inspect the cooling system and valve lift components for leaks, and replace damaged gaskets or hoses as needed.
 
 ### 4.4L Twin-Turbocharged V8
 
-Sourced from BMW, this potent V8 delivers around 523 horsepower and 553 lb-ft of torque. It provides exhilarating acceleration and robust towing capacity for buyers seeking top-tier performance.
+A high-output twin-turbo V8 engine offering effortless acceleration and heavy-duty towing capacity. It delivers exceptional performance but requires meticulous upkeep to avoid expensive out-of-warranty mechanical repairs.
 
 ## Transmission
 
-### 8-Speed Automatic Transmission
+### 8-Speed Automatic
 
-This ZF-sourced 8-speed automatic transmission pairs with all available engines and standard all-wheel drive. It delivers seamless gear shifts and dependable long-term operation under normal driving conditions.
+An eight-speed automatic transmission paired with standard all-wheel drive, designed for seamless gear changes across diverse driving conditions. While refined, electronic shift controls require careful verification during a used vehicle inspection.
+
+**Unexpected Shifting to Neutral**
+- **Symptoms:** Drivers have experienced the vehicle unexpectedly shifting from Drive to Neutral on its own while stopped or maneuvering, sometimes accompanied by warning messages and a temporary loss of motive power.
+- **Solution:** Check for manufacturer service bulletins and software updates governing transmission control modules and gear selector logic.
+
+## Electrical
+
+### Electrical Charging System
+
+Manages complex vehicle electronics, driver assistance packages, and accessory power distribution. Reliability depends heavily on a robust battery and healthy charging infrastructure.
+
+**Battery Charging Faults and DC/DC Converter Failure**
+- **Symptoms:** Illuminated battery warning lights, charging system fault messages, loss of power steering assist, and sudden electrical shutdown while driving due to charging component or DC/DC converter failure.
+- **Solution:** Test the charging system, battery health, and DC/DC converter output, replacing faulty electrical modules as necessary.
 
 ---
 
@@ -72,10 +90,11 @@ Recalls are listed separately because used vehicles may already have had recall 
 
 ## Summary Verdict
 
-The 2022 Land Rover Range Rover is an exceptionally luxurious and capable flagship SUV that rewards buyers with unmatched comfort and prestige. Because it is the first year of a complete redesign, used-car shoppers should thoroughly inspect all electronic and mechanical functions before purchase and prioritize models with remaining warranty coverage or comprehensive service records.
+The 2022 Land Rover Range Rover delivers unmatched luxury, prestige, and capability, but used-car buyers should proceed with diligence. Reviewing vehicle service records for prior electrical updates, transmission shift behavior, and cooling system health is strongly recommended. Securing an extended warranty or comprehensive pre-purchase inspection can help mitigate potential ownership risks.
 
 ## Sources
 
 | Source | Records cited | Link |
 | --- | ---: | --- |
+| NHTSA complaints | 8 | [Open source](https://api.nhtsa.gov/products/vehicle/models?modelYear=2022&make=Land+Rover&issueType=c) |
 | NHTSA recalls | 8 | [Open source](https://api.nhtsa.gov/recalls/recallsByVehicle?make=Land+Rover&model=Range+Rover&modelYear=2022) |

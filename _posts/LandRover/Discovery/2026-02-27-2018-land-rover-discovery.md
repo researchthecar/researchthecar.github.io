@@ -10,61 +10,43 @@ tags: ["Land Rover", "Discovery", "2018"]
 
 ## Overview
 
-The 2018 Land Rover Discovery combines luxury, impressive off-road capabilities, and three-row practicality. However, used car buyers should approach this model with caution, as owner reports point to recurring issues with cabin water leaks, electrical glitches, and powertrain anomalies that require careful inspection before purchase.
+The 2018 Land Rover Discovery offers luxurious capability, versatile three-row seating, and robust powertrain options. However, prospective buyers should carefully evaluate owner-reported concerns regarding electrical gremlins, cabin water leaks, and powertrain quirks when shopping in the used market.
 
 ---
 
 ## Engine
 
-### 3.0L Supercharged V6 Gas Engine
+### 3.0L Supercharged V6
 
-The 3.0-liter supercharged V6 gasoline engine produces around 340 horsepower and 332 lb-ft of torque, delivering strong acceleration. While generally robust, owners report occasional sensor failures and fuel odor issues that necessitate prompt diagnosis.
+A 3.0-liter supercharged V6 gasoline engine producing approximately 340 horsepower and 332 lb-ft of torque, providing strong acceleration for towing and highway passing. Regular maintenance and attentive cooling system care are essential for long-term ownership.
 
-**Check Engine Light and Sensor Failures**
-- **Symptoms:** Illuminated check engine light and persistent sensor faults even after replacement attempts.
-- **Solution:** Diagnose fault codes and replace malfunctioning engine sensors or wiring harnesses.
+**Engine Stalling and Battery Warnings**
+- **Symptoms:** Drivers have experienced sudden illumination of the battery warning light followed shortly by engine stalling while driving at speed.
+- **Solution:** Diagnose the charging system, battery health, and alternator output; replace failing electrical components as needed.
 
-**Fuel Odor**
-- **Symptoms:** Strong gasoline smell entering the cabin during idle or initial vehicle start-up.
-- **Solution:** Inspect fuel lines, injectors, and seals for leaks or vapor emissions.
+### 3.0L Td6 Turbo Diesel V6
 
-### 3.0L Td6 Turbocharged V6 Diesel Engine
-
-The 3.0-liter Td6 turbocharged V6 diesel engine generates approximately 254 horsepower and a hefty 443 lb-ft of torque, prioritizing low-end pulling power and fuel efficiency. Buyers should verify regular maintenance history, particularly regarding emissions equipment.
+A 3.0-liter turbocharged diesel V6 generating around 254 horsepower and 443 lb-ft of torque, praised for its strong low-end pulling power and high fuel efficiency. Buyers should verify proper emissions and fuel system maintenance histories.
 
 ## Transmission
 
-### ZF 8-Speed Automatic Transmission
+### 8-Speed Automatic
 
-The ZF 8-speed automatic transmission provides smooth and responsive shifts across all driving conditions. It is generally considered reliable, though proper fluid maintenance is essential for long-term durability.
+A smooth-shifting 8-speed automatic transmission paired with standard four-wheel drive. It generally operates reliably, though electronic shifter behavior requires careful inspection.
 
-### Rotary Gear Shifter
-
-Reports of erratic rotary shifter behavior and parking engagement concerns emphasize the need to verify proper gear selection before exiting the vehicle.
-
-**Shifter Retraction and Rollaway Risk**
-- **Symptoms:** Rotary gear selector retracts while still in Drive or vehicle rolls away when placed in Park.
-- **Solution:** Inspect transmission shift linkage, software calibration, and rotary dial module operation.
+**Rotary Shifter and Rollback Concerns**
+- **Symptoms:** Owners have reported instances where the vehicle rolled back after being placed in park or where the rotary gear selector retracted while still in drive.
+- **Solution:** Inspect the electronic shifter assembly, transmission linkage, and software calibration for faults.
 
 ## Exterior
 
-### Door Latches
+### Windshield and Cabin Water Intrusion
 
-Cabin hardware issues such as faulty door latches can create unexpected safety hazards while in motion.
+The electrical architecture supports numerous advanced comfort and convenience features, but cabin water leaks can trigger cascading electronic module failures.
 
-**Unexpected Door Opening**
-- **Symptoms:** Vehicle doors opening independently while driving and failing to latch securely.
-- **Solution:** Inspect door latch mechanisms, cables, and electronic locking actuators for defects.
-
-## Interior
-
-### Cabin Electronics and Water Intrusion
-
-Electrical system reliability is frequently compromised by water intrusion originating from upper body and windshield seals, leading to malfunctioning displays and modules.
-
-**Water Leaks and Electrical Failures**
-- **Symptoms:** Water leaking from the front windshield or A-pillars into the cabin, causing radio displays, instrument clusters, and control modules to fail.
-- **Solution:** Check and reseal the windshield bonding and body seams, and inspect electrical modules for moisture damage.
+**Windshield Seal Failure and Water Leaks**
+- **Symptoms:** Water leaks into the cabin from the upper windshield and roof pillars during heavy rainstorms, damaging interior electronics, dashboard modules, and headliners.
+- **Solution:** Re-seal or replace the front windshield glass and check associated body seals to prevent moisture from reaching sensitive electrical control units.
 
 ---
 
@@ -92,11 +74,11 @@ Recalls are listed separately because used vehicles may already have had recall 
 
 ## Summary Verdict
 
-The 2018 Land Rover Discovery offers compelling luxury and capability, but prospective buyers must perform a rigorous pre-purchase inspection. Pay special attention to the windshield seals, headliner condition, and electronic functionality to avoid costly water damage and electrical repairs down the road.
+The 2018 Land Rover Discovery is a capable and feature-rich luxury SUV, but used buyers should conduct a thorough inspection for past water intrusion, electrical anomalies, and transmission shifter operation before purchasing.
 
 ## Sources
 
 | Source | Records cited | Link |
 | --- | ---: | --- |
-| NHTSA complaints | 10 | [Open source](https://api.nhtsa.gov/complaints/complaintsByVehicle?make=Land+Rover&model=Discovery&modelYear=2018) |
+| NHTSA complaints | 6 | [Open source](https://api.nhtsa.gov/products/vehicle/models?modelYear=2018&make=Land+Rover&issueType=c) |
 | NHTSA recalls | 4 | [Open source](https://api.nhtsa.gov/recalls/recallsByVehicle?make=Land+Rover&model=Discovery&modelYear=2018) |

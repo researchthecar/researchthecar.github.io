@@ -10,7 +10,7 @@ tags: ["Chevrolet", "Suburban", "2017"]
 
 ## Overview
 
-The 2017 Chevrolet Suburban is a massive and capable full-size SUV that offers immense passenger and cargo capacity, making it a popular choice for large families and towing duty. When shopping for a used model, buyers should carefully evaluate the available powertrain options and keep an eye out for known comfort and accessory quirks that can pop up over time. Taking the time to inspect potential used models thoroughly will help ensure a dependable ownership experience.
+The 2017 Chevrolet Suburban offers immense passenger and cargo capacity, making it a popular choice for large families and towing duties. However, used car buyers should approach this model year with care due to notable owner complaints regarding brake system performance, transmission durability, and electrical glitches. Thoroughly inspecting the service history and verifying the condition of major mechanical components can help avoid costly surprises after purchase.
 
 ---
 
@@ -18,13 +18,50 @@ The 2017 Chevrolet Suburban is a massive and capable full-size SUV that offers i
 
 ### 5.3L V8 EcoTec3
 
-The standard 5.3-liter V8 engine produces 355 horsepower and 383 lb-ft of torque, featuring active fuel management and direct injection. It balances acceptable everyday performance with reasonable fuel efficiency for a large utility vehicle.
+Powered by a 5.3L V8 engine producing around 355 horsepower and 383 lb-ft of torque, providing robust towing capabilities. While generally durable, buyers should watch for potential Active Fuel Management (AFM) lifter wear and intermittent stalling issues.
+
+**Engine Stalling and Lifter Failure**
+- **Symptoms:** Vehicle experiences unexpected engine stalling, loud knocking noises, and potential valvetrain or active fuel management lifter failures.
+- **Solution:** Diagnose the affected lifters and replace damaged valvetrain components or the engine assembly as needed.
+
+**Loss of Motive Power**
+- **Symptoms:** Sudden loss of engine power and illumination of powertrain warning lights while driving.
+- **Solution:** Inspect diagnostic trouble codes and repair or replace failing powertrain sensors or throttle components.
 
 ## Transmission
 
 ### 6-Speed Automatic
 
-The 6-speed automatic transmission comes paired with the standard V8 engine to deliver smooth shifting and reliable power delivery across various driving conditions.
+Paired with a 6-speed automatic transmission handling rear-wheel or four-wheel drive. Some owners report premature internal failures and slipping, making a pre-purchase transmission inspection essential.
+
+**Transmission Failure**
+- **Symptoms:** Complete transmission failure leaving the vehicle unable to move, often requiring a total rebuild or replacement.
+- **Solution:** Rebuild or replace the failing transmission unit.
+- **Cost:** $6,000
+
+**Unintended Neutral Shift and Slipping**
+- **Symptoms:** Transmission slips, abruptly shifts into neutral while driving, or experiences severe vibration and failure to accelerate.
+- **Solution:** Inspect transmission internal components, torque converter, or replace broken motor and transmission mounts.
+
+## Brakes
+
+### Service Brakes
+
+The braking system has drawn significant complaints regarding intermittent loss of vacuum assist, leading to a hard pedal feel.
+
+**Brake Assist Failure**
+- **Symptoms:** Loss of power brake assist when applying the brakes repeatedly or in quick succession, resulting in a very hard pedal and significantly increased stopping distances.
+- **Solution:** Inspect the vacuum pump, brake booster, and related hydraulic components, replacing faulty assemblies.
+
+## Electrical
+
+### Infotainment and Human Interface Module
+
+Electrical accessories and interior tech components are prone to occasional glitches, particularly touchscreen malfunctions.
+
+**Ghost Inputs and Unresponsive Screen**
+- **Symptoms:** The touchscreen infotainment system registers phantom touches, randomly changes radio stations or navigation settings, and can become entirely unresponsive.
+- **Solution:** Replace the touchscreen display and human interface module.
 
 ---
 
@@ -56,10 +93,11 @@ Recalls are listed separately because used vehicles may already have had recall 
 
 ## Summary Verdict
 
-Overall, the 2017 Chevrolet Suburban remains a compelling choice for buyers who need maximum hauling and seating capability. While major mechanical troubles are uncommon based on available data, used car shoppers should perform a comprehensive inspection of all vehicle systems and accessories before finalizing a purchase.
+The 2017 Chevrolet Suburban remains a capable full-size SUV with unmatched utility, but prospective buyers must carefully evaluate mechanical health. Pay close attention to brake pedal responsiveness during a test drive, and verify that the transmission shifts smoothly without hesitation or slipping. Checking service records for prior engine or transmission repairs will help ensure a more reliable ownership experience.
 
 ## Sources
 
 | Source | Records cited | Link |
 | --- | ---: | --- |
+| NHTSA complaints | 15 | [Open source](https://api.nhtsa.gov/complaints/complaintsByVehicle?make=Chevrolet&model=SUBURBAN+1500&modelYear=2017) |
 | NHTSA recalls | 5 | [Open source](https://api.nhtsa.gov/recalls/recallsByVehicle?make=Chevrolet&model=Suburban&modelYear=2017) |

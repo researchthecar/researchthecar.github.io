@@ -10,21 +10,47 @@ tags: ["Mercedes-Benz", "Metris", "2022"]
 
 ## Overview
 
-The 2022 Mercedes-Benz Metris brings commercial-grade utility and passenger-hauling capacity to the midsize van segment, backed by robust turbocharged performance. While it shares many mechanical characteristics with its larger siblings, used-car buyers should evaluate any pre-owned model carefully by reviewing maintenance records and conducting a thorough test drive to ensure all systems operate as intended.
+The 2022 Mercedes-Benz Metris is a capable mid-size commercial van powered by a 2.0-liter turbocharged four-cylinder engine paired with a 9-speed automatic transmission. While it offers strong utility and a comfortable drive, buyers should review available owner feedback regarding isolated powertrain and electrical gripes. Being a commercial-focused vehicle, checking service records and verifying completed recalls is an important step before purchasing.
 
 ---
 
 ## Engine
 
-### 2.0L Turbocharged Inline-4 Gas
+### 2.0L Turbocharged I4
 
-This 2.0-liter turbocharged four-cylinder engine produces approximately 208 horsepower and 258 lb-ft of torque, providing capable acceleration for hauling and delivery duties. Regular maintenance and timely oil changes are essential to ensure long-term reliability of the turbocharger and direct-injection system.
+The 2.0L turbocharged inline-four engine delivers roughly 208 horsepower and 258 lb-ft of torque, providing solid pep for commercial hauling duties. Overall, it serves as a robust powerplant, though owners should remain vigilant about routine maintenance and minor fuel system concerns.
+
+**Engine Misfire**
+- **Symptoms:** Triggering of the check engine light accompanied by diagnostic error code P0300 indicating random or multiple cylinder misfires.
+- **Solution:** Perform a diagnostic scan, inspect ignition components and spark plugs, and replace faulty parts as needed.
+
+**Fuel Line Leak**
+- **Symptoms:** A fuel leak discovered in the upper fuel line during routine inspection despite low mileage and outwardly good condition.
+- **Solution:** Inspect fuel lines and replace any leaking components immediately to prevent fire hazards.
 
 ## Transmission
 
-### 9G-TRONIC 9-Speed Automatic
+### 9-Speed Automatic
 
-The 9-speed automatic transmission delivers smooth gear shifts and helps optimize fuel economy across varying load conditions. Routine fluid checks and adherence to service intervals will help maintain smooth operation over the vehicle's lifespan.
+The 9-speed automatic transmission routes power smoothly to the rear wheels while helping optimize highway fuel economy. It generally operates reliably when serviced according to manufacturer schedules.
+
+### Gear Selector and Parking Mechanism
+
+Issues involving the parking mechanism are rare but require immediate professional inspection if experienced.
+
+**Rollaway After Selecting Park**
+- **Symptoms:** The vehicle unexpectedly moved backward after being shifted into the park position, potentially risking a collision.
+- **Solution:** Have the parking pawl and shift linkage inspected by a qualified technician to ensure proper engagement.
+
+## Electrical
+
+### Audio30 Multimedia System
+
+In-cabin electronics generally function well, though infotainment responsiveness can occasionally frustrate drivers.
+
+**Slow Multimedia Response**
+- **Symptoms:** The touchscreen and infotainment interface exhibit extreme lag and slow response times during operation.
+- **Solution:** Check for software updates at a dealership to determine if processing speed can be improved.
 
 ---
 
@@ -56,10 +82,11 @@ Recalls are listed separately because used vehicles may already have had recall 
 
 ## Summary Verdict
 
-The 2022 Mercedes-Benz Metris offers strong capability and everyday usability for commercial or private buyers. Because used vehicle condition depends heavily on prior usage and maintenance history, a professional pre-purchase inspection is strongly recommended before finalizing a purchase.
+The 2022 Mercedes-Benz Metris is a versatile and practical choice for businesses and individuals needing mid-size van utility. While isolated owner complaints highlight minor fuel system and electrical snags, the vehicle remains fundamentally sound. Prospective buyers should thoroughly test drive the van, ensure all safety recalls have been addressed, and verify its maintenance history.
 
 ## Sources
 
 | Source | Records cited | Link |
 | --- | ---: | --- |
+| NHTSA complaints | 4 | [Open source](https://api.nhtsa.gov/products/vehicle/models?modelYear=2022&make=Mercedes-Benz&issueType=c) |
 | NHTSA recalls | 5 | [Open source](https://api.nhtsa.gov/recalls/recallsByVehicle?make=Mercedes-Benz&model=Metris&modelYear=2022) |
